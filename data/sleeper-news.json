@@ -1,60 +1,9 @@
 {
-  "last_checked_at": "2026-09-22T06:19:39Z",
+  "last_checked_at": "2026-09-22T11:51:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 292,
   "new_story_ids": [
-    "nfl|10222|rotoballer|221882|1790027344000",
-    "nfl|11576|rotowire|638581|1790043109000",
-    "nfl|11586|rotoballer|221903|1790037006000",
-    "nfl|11586|rotowire|638607|1790049053000",
-    "nfl|11596|rotowire|638611|1790049569000",
-    "nfl|11603|fantasy_pros|609708|1790043055694",
-    "nfl|11603|rotowire|638584|1790043754000",
-    "nfl|11610|rotowire|638617|1790050343000",
-    "nfl|11624|rotoballer|221888|1790031665000",
-    "nfl|11632|fantasy_pros|609701|1790040055448",
-    "nfl|11632|rotowire|638561|1790039442000",
-    "nfl|11632|rotowire|638606|1790048793000",
-    "nfl|11643|rotoballer|221885|1790029626000",
-    "nfl|11783|rotowire|638615|1790050192000",
-    "nfl|12467|rotowire|638619|1790050487000",
-    "nfl|12481|rotoballer|221892|1790034606000",
-    "nfl|12481|rotowire|638604|1790048487000",
-    "nfl|12487|rotoballer|221900|1790036345000",
-    "nfl|12487|rotowire|638618|1790050435000",
-    "nfl|12508|fantasy_pros|609707|1790043055711",
-    "nfl|12508|fantasy_pros|609713|1790048755982",
-    "nfl|12508|rotowire|638597|1790047168000",
-    "nfl|12509|rotowire|638578|1790042618000",
-    "nfl|12521|fantasy_pros|609710|1790043655518",
-    "nfl|13268|rotowire|638598|1790047360000",
-    "nfl|13285|rotowire|638622|1790050880000",
-    "nfl|13296|rotoballer|221881|1790026926000",
-    "nfl|13301|rotowire|638608|1790049075000",
-    "nfl|13320|rotowire|638591|1790045800000",
-    "nfl|13330|rotowire|638580|1790042954000",
-    "nfl|13347|rotoballer|221891|1790034728000",
-    "nfl|13347|rotowire|638585|1790043774000",
-    "nfl|13405|rotowire|638605|1790048558000",
-    "nfl|2133|rotoballer|221897|1790036045000",
-    "nfl|2133|rotowire|638599|1790047705000",
-    "nfl|2747|fantasy_pros|609711|1790044255834",
-    "nfl|4039|fantasy_pros|609709|1790043655533",
-    "nfl|4039|rotowire|638592|1790045988000",
-    "nfl|421|rotoballer|221896|1790036106000",
-    "nfl|421|rotowire|638610|1790049415000",
-    "nfl|5995|rotowire|638587|1790044339000",
-    "nfl|8131|rotoballer|221898|1790035931000",
-    "nfl|8131|rotowire|638616|1790050202000",
-    "nfl|8134|rotoballer|221886|1790030045000",
-    "nfl|8142|rotoballer|221879|1790025606000",
-    "nfl|8150|rotoballer|221901|1790036645000",
-    "nfl|8150|rotowire|638602|1790048096000",
-    "nfl|8154|rotoballer|221883|1790027830000",
-    "nfl|8676|fantasy_pros|609706|1790042455796",
-    "nfl|8676|rotowire|638590|1790045255000",
-    "nfl|9511|rotowire|638575|1790042147000",
-    "nfl|9758|rotoballer|221895|1790035506000"
+    "nfl|421|fantasy_pros|609795|1790077859157"
   ],
   "schema_version": 1,
   "source": {
@@ -64,6 +13,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "The reigning MVP had a great bounce-back game on Monday night after a disappointing season opener last week. He scored four touchdowns against the Giants and limited his mistakes overall, helping lead Los Angeles to a blowout win over New York. The only questions for him moving forward will be consistency and the health of his wideouts, with Puka Nacua (hip) currently out of the lineup for the Rams.",
+      "description": "Matthew Stafford completed 22-of-31 passing attempts for 327 yards, four touchdowns, and one interception in Monday night's 28-6 win over the New York Giants.",
+      "metadata": {
+        "analysis": "The reigning MVP had a great bounce-back game on Monday night after a disappointing season opener last week. He scored four touchdowns against the Giants and limited his mistakes overall, helping lead Los Angeles to a blowout win over New York. The only questions for him moving forward will be consistency and the health of his wideouts, with Puka Nacua (hip) currently out of the lineup for the Rams.",
+        "description": "Matthew Stafford completed 22-of-31 passing attempts for 327 yards, four touchdowns, and one interception in Monday night's 28-6 win over the New York Giants.",
+        "title": "Matthew Stafford tosses four touchdowns in win Monday",
+        "topic_id": "1408092234728931328",
+        "url": "https://www.fantasypros.com/nfl/news/609795/matthew-stafford-tosses-four-touchdowns-win-monday.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "421",
+      "player_name": "Matthew Stafford",
+      "position": "QB",
+      "published": 1790077859157,
+      "source": "fantasy_pros",
+      "source_key": "609795",
+      "story_id": "nfl|421|fantasy_pros|609795|1790077859157",
+      "title": "Matthew Stafford tosses four touchdowns in win Monday",
+      "url": "https://www.fantasypros.com/nfl/news/609795/matthew-stafford-tosses-four-touchdowns-win-monday.php"
+    },
     {
       "analysis": "Fields finished third in receptions and second in targets for the Giants on a night when Jaxson Dart (knee) exited after just one series. One of Fields' catches came during that opening drive, as he secured a 14-yard grab on third down to move the chains. The  rookie third-round pick has enjoyed a solid complementary role over his first two NFL games, posting a 4-55-0 line on 10 targets. Fields is slotting in ahead of veteran Darnell Mooney on the depth chart heading into a Week 3 home matchup against the Titans on Sunday.",
       "description": "Fields brought in two of six targets for 30 yards in the Giants' 28-6 loss to the Rams on Monday night.",
@@ -90265,126 +90235,6 @@
       "story_id": "nfl|13286|rotoballer|219211|1787488505000",
       "title": "Jadarian Price Won't Play in Final Two Preseason Games",
       "url": "https://www.rotoballer.com/player-news/jadarian-price-wont-play-in-final-two-preseason-games/1914580"
-    },
-    {
-      "analysis": null,
-      "description": "Minnesota Vikings head coach Kevin O'Connell said that backup quarterback J.J. McCarthy would have played longer in Saturday's preseason loss to the Baltimore Ravens if he had not gotten \"banged up\" during a rough first quarter, according to Kevin Seifert of ESPN. McCarthy only played 18 offensive snaps over four series in the first quarter and struggled with his accuracy while taking three hits and a sack. O'Connell was hoping to send McCarthy out for at least one more possession. The Vikings have not revealed a specific injury, but it is notable after several injury-plagued seasons in Minnesota to begin his NFL career after he was taken 10th overall out of Michigan in 2024. McCarthy missed his entire rookie season due to a torn meniscus in his right knee and missed seven games in 2025 with a high right-ankle sprain and a concussion. He also missed time with a hairline fracture in his right hand. He finished 5-for-10 passing for 81 yards against Baltimore on Saturday. While McCarthy might be banged up, it is unlikely that he will not be ready for the start of the regular season in several weeks as the QB2 behind Kyler Murray.",
-      "metadata": {
-        "description": "Minnesota Vikings head coach Kevin O'Connell said that backup quarterback J.J. McCarthy would have played longer in Saturday's preseason loss to the Baltimore Ravens if he had not gotten \"banged up\" during a rough first quarter, according to Kevin Seifert of ESPN. McCarthy only played 18 offensive snaps over four series in the first quarter and struggled with his accuracy while taking three hits and a sack. O'Connell was hoping to send McCarthy out for at least one more possession. The Vikings have not revealed a specific injury, but it is notable after several injury-plagued seasons in Minnesota to begin his NFL career after he was taken 10th overall out of Michigan in 2024. McCarthy missed his entire rookie season due to a torn meniscus in his right knee and missed seven games in 2025 with a high right-ankle sprain and a concussion. He also missed time with a hairline fracture in his right hand. He finished 5-for-10 passing for 81 yards against Baltimore on Saturday. While McCarthy might be banged up, it is unlikely that he will not be ready for the start of the regular season in several weeks as the QB2 behind Kyler Murray.",
-        "title": "J.J. McCarthy Banged Up After Saturday's Preseason Game",
-        "topic_id": "1397277106253107200",
-        "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-banged-up-after-saturdays-preseason-game/1914534"
-      },
-      "nfl_team": "MIN",
-      "player_id": "11565",
-      "player_name": "J.J. McCarthy",
-      "position": "QB",
-      "published": 1787484729000,
-      "source": "rotoballer",
-      "source_key": "219209",
-      "story_id": "nfl|11565|rotoballer|219209|1787484729000",
-      "title": "J.J. McCarthy Banged Up After Saturday's Preseason Game",
-      "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-banged-up-after-saturdays-preseason-game/1914534"
-    },
-    {
-      "analysis": null,
-      "description": "As a rookie in 2025, Dallas Cowboys running back Jaydon Blue saw the field in only five games, but a strong showing in Saturday night's preseason win over the Cardinals has him well positioned to earn the primary backup responsibilities behind veteran Javonte Williams. In a game that the Cowboys led 24-6 by halftime, Blue ran for 75 yards on a team-leading 15 carries, showcasing the quick feet that allowed him to top 1,000 yards from scrimmage in his final season at Texas. Listed as the team's second running back when the Cowboys released their first unofficial depth chart of the summer, nothing that's happened since then would suggest Blue is in danger of losing what could be a valuable insurance role behind a player who has managed a full 17-game slate only twice in his five-year career. With enough potential standalone value to eventually work his way into streaming flex consideration, Blue could surprise in 2026, but his true upside comes as a handcuff to Williams in an offense that averaged more than 125 rushing yards per game a season ago.",
-      "metadata": {
-        "description": "As a rookie in 2025, Dallas Cowboys running back Jaydon Blue saw the field in only five games, but a strong showing in Saturday night's preseason win over the Cardinals has him well positioned to earn the primary backup responsibilities behind veteran Javonte Williams. In a game that the Cowboys led 24-6 by halftime, Blue ran for 75 yards on a team-leading 15 carries, showcasing the quick feet that allowed him to top 1,000 yards from scrimmage in his final season at Texas. Listed as the team's second running back when the Cowboys released their first unofficial depth chart of the summer, nothing that's happened since then would suggest Blue is in danger of losing what could be a valuable insurance role behind a player who has managed a full 17-game slate only twice in his five-year career. With enough potential standalone value to eventually work his way into streaming flex consideration, Blue could surprise in 2026, but his true upside comes as a handcuff to Williams in an offense that averaged more than 125 rushing yards per game a season ago.",
-        "title": "Jaydon Blue Strengthens His Case for the Cowboys' Primary Backup Job",
-        "topic_id": "1397253197017407488",
-        "url": "https://www.rotoballer.com/player-news/jaydon-blue-strengthens-his-case-for-the-cowboys-primary-backup-job/1914433"
-      },
-      "nfl_team": "DAL",
-      "player_id": "12457",
-      "player_name": "Jaydon Blue",
-      "position": "RB",
-      "published": 1787478848000,
-      "source": "rotoballer",
-      "source_key": "219201",
-      "story_id": "nfl|12457|rotoballer|219201|1787478848000",
-      "title": "Jaydon Blue Strengthens His Case for the Cowboys' Primary Backup Job",
-      "url": "https://www.rotoballer.com/player-news/jaydon-blue-strengthens-his-case-for-the-cowboys-primary-backup-job/1914433"
-    },
-    {
-      "analysis": null,
-      "description": "After missing time over the past week, Jacksonville Jaguars wide receiver Parker Washington (undisclosed) was spotted back at practice on Sunday. While the nature of Washington's injury was never disclosed, it was never treated as a long-term concern, and the fourth-year pro will look to pick up where he left off. With one of the deeper receiver rooms in the league, the hierarchy of Jacksonville's pass-catchers was one of the hotter debates heading into training camp, but by most accounts, Washington has established himself as a favorite target of quarterback Trevor Lawrence. The two developed a chemistry late in 2025 that allowed Washington to finish as the fantasy WR12 over the final nine weeks of the regular season, while Lawrence garnered MVP consideration. Currently being selected as the consensus WR31, the former sixth-round pick could prove to be one of the best values in 2026 drafts.",
-      "metadata": {
-        "description": "After missing time over the past week, Jacksonville Jaguars wide receiver Parker Washington (undisclosed) was spotted back at practice on Sunday. While the nature of Washington's injury was never disclosed, it was never treated as a long-term concern, and the fourth-year pro will look to pick up where he left off. With one of the deeper receiver rooms in the league, the hierarchy of Jacksonville's pass-catchers was one of the hotter debates heading into training camp, but by most accounts, Washington has established himself as a favorite target of quarterback Trevor Lawrence. The two developed a chemistry late in 2025 that allowed Washington to finish as the fantasy WR12 over the final nine weeks of the regular season, while Lawrence garnered MVP consideration. Currently being selected as the consensus WR31, the former sixth-round pick could prove to be one of the best values in 2026 drafts.",
-        "title": "Parker Washington is Back at Practice",
-        "topic_id": "1397249420696805376",
-        "url": "https://www.rotoballer.com/player-news/parker-washington-is-back-at-practice/1914424"
-      },
-      "nfl_team": "JAX",
-      "player_id": "9487",
-      "player_name": "Parker Washington",
-      "position": "WR",
-      "published": 1787478024000,
-      "source": "rotoballer",
-      "source_key": "219200",
-      "story_id": "nfl|9487|rotoballer|219200|1787478024000",
-      "title": "Parker Washington is Back at Practice",
-      "url": "https://www.rotoballer.com/player-news/parker-washington-is-back-at-practice/1914424"
-    },
-    {
-      "analysis": null,
-      "description": "Cleveland Browns quarterback Deshaun Watson went 5-of-12 for 36 yards and an interception in the team's preseason loss to the Bills on Saturday, and the Cleveland faithful was not shy about assessing his performance with a chorus of boos. \"I think the whole world knows it has nothing to do about the performance,\" Watson said of the reaction. \"It's a little bit more personal than that. So, I think it's a disrespectful thing.\" Head coach Todd Monken had said during a pre-game radio appearance that a decision on the starting quarterback situation could come early in the week, and Watson did not help his case through either his performance or his post-game media availability. \"Last time I played on this field, I tore my Achilles. That same fan base, they cheered when I got hurt,\" he said. \"What does that have to do with anything about performance? When a person gets hurt, especially in your home stadium, and they cheer.\" While Shedeur Sanders got the start and came out strong, he threw another interception of his own, as neither player has been able to truly separate in their ongoing competition. Cleveland will have one final preseason matchup with the Patriots before kicking off the regular season against the Jaguars on September 13.",
-      "metadata": {
-        "description": "Cleveland Browns quarterback Deshaun Watson went 5-of-12 for 36 yards and an interception in the team's preseason loss to the Bills on Saturday, and the Cleveland faithful was not shy about assessing his performance with a chorus of boos. \"I think the whole world knows it has nothing to do about the performance,\" Watson said of the reaction. \"It's a little bit more personal than that. So, I think it's a disrespectful thing.\" Head coach Todd Monken had said during a pre-game radio appearance that a decision on the starting quarterback situation could come early in the week, and Watson did not help his case through either his performance or his post-game media availability. \"Last time I played on this field, I tore my Achilles. That same fan base, they cheered when I got hurt,\" he said. \"What does that have to do with anything about performance? When a person gets hurt, especially in your home stadium, and they cheer.\" While Shedeur Sanders got the start and came out strong, he threw another interception of his own, as neither player has been able to truly separate in their ongoing competition. Cleveland will have one final preseason matchup with the Patriots before kicking off the regular season against the Jaguars on September 13.",
-        "title": "Deshaun Watson Criticizes Browns Fans in Postgame Press Conference",
-        "topic_id": "1397246903736893440",
-        "url": "https://www.rotoballer.com/player-news/deshaun-watson-criticizes-browns-fans-in-postgame-press-conference/1914409"
-      },
-      "nfl_team": "CLE",
-      "player_id": "4017",
-      "player_name": "Deshaun Watson",
-      "position": "QB",
-      "published": 1787477347000,
-      "source": "rotoballer",
-      "source_key": "219197",
-      "story_id": "nfl|4017|rotoballer|219197|1787477347000",
-      "title": "Deshaun Watson Criticizes Browns Fans in Postgame Press Conference",
-      "url": "https://www.rotoballer.com/player-news/deshaun-watson-criticizes-browns-fans-in-postgame-press-conference/1914409"
-    },
-    {
-      "analysis": null,
-      "description": "Minnesota Vikings quarterback J.J. McCarthy turned in an uneven preseason game Saturday against Baltimore, finishing 5-for-10 for 81 yards. Playing with the second-string offense, the 23-year-old QB continued his unusual pattern of connecting on difficult throws and missing easier ones. On the Vikings' second drive, he alertly climbed the pocket and fired a 50-yard strike to Tai Felton, then wisely checked down to Demond Claiborne on the next play to put the Vikings at the Baltimore 3-yard line. However, the drive ended with no points when he missed back-to-back receivers in the end zone, including an open Myles Price on fourth down. More concerning to Vikings head coach Kevin O'Connell was that McCarthy took a few shots, including a sack where a defender hit McCarthy below the knees, prompting Minnesota to insert Carson Wentz before the end of the first half. The Vikings already named Kyler Murray their starter, so McCarthy's fantasy value will be limited as long as the former is healthy.",
-      "metadata": {
-        "description": "Minnesota Vikings quarterback J.J. McCarthy turned in an uneven preseason game Saturday against Baltimore, finishing 5-for-10 for 81 yards. Playing with the second-string offense, the 23-year-old QB continued his unusual pattern of connecting on difficult throws and missing easier ones. On the Vikings' second drive, he alertly climbed the pocket and fired a 50-yard strike to Tai Felton, then wisely checked down to Demond Claiborne on the next play to put the Vikings at the Baltimore 3-yard line. However, the drive ended with no points when he missed back-to-back receivers in the end zone, including an open Myles Price on fourth down. More concerning to Vikings head coach Kevin O'Connell was that McCarthy took a few shots, including a sack where a defender hit McCarthy below the knees, prompting Minnesota to insert Carson Wentz before the end of the first half. The Vikings already named Kyler Murray their starter, so McCarthy's fantasy value will be limited as long as the former is healthy.",
-        "title": "J.J. McCarthy Erratic In Preseason Loss",
-        "topic_id": "1397238095136481280",
-        "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-erratic-in-preseason-loss/1914380"
-      },
-      "nfl_team": "MIN",
-      "player_id": "11565",
-      "player_name": "J.J. McCarthy",
-      "position": "QB",
-      "published": 1787475187000,
-      "source": "rotoballer",
-      "source_key": "219192",
-      "story_id": "nfl|11565|rotoballer|219192|1787475187000",
-      "title": "J.J. McCarthy Erratic In Preseason Loss",
-      "url": "https://www.rotoballer.com/player-news/j-j-mccarthy-erratic-in-preseason-loss/1914380"
-    },
-    {
-      "analysis": null,
-      "description": "Indianapolis Colts kicker Spencer Shrader started the second preseason game and was the Colts' lone scorer in their 34-6 loss against the Atlanta Falcons on Saturday. In the first quarter, Shrader completed a 48-yard field goal and a 53-yard field goal. The sputtering Colts offense could not gain any traction, and their seven subsequent drives resulted in punts. Kicker Blake Grupe, Shrader's primary competition, came on in the fourth quarter and missed a 36-yard field goal wide right. Last week against the New England Patriots, Grupe also missed a 61-yard attempt before halftime. Shrader's 2025 season ended early with an ACL and MCL tear, and Grupe replaced him for the rest of the season. Shrader appears fully recovered and is a viable starting option for the Colts and for managers of 12-person leagues with kickers.",
-      "metadata": {
-        "description": "Indianapolis Colts kicker Spencer Shrader started the second preseason game and was the Colts' lone scorer in their 34-6 loss against the Atlanta Falcons on Saturday. In the first quarter, Shrader completed a 48-yard field goal and a 53-yard field goal. The sputtering Colts offense could not gain any traction, and their seven subsequent drives resulted in punts. Kicker Blake Grupe, Shrader's primary competition, came on in the fourth quarter and missed a 36-yard field goal wide right. Last week against the New England Patriots, Grupe also missed a 61-yard attempt before halftime. Shrader's 2025 season ended early with an ACL and MCL tear, and Grupe replaced him for the rest of the season. Shrader appears fully recovered and is a viable starting option for the Colts and for managers of 12-person leagues with kickers.",
-        "title": "Spencer Shrader Primed to Retake Starting Position",
-        "topic_id": "1397225511595331584",
-        "url": "https://www.rotoballer.com/player-news/spencer-shrader-primed-to-retake-starting-position/1914368"
-      },
-      "nfl_team": "IND",
-      "player_id": "12185",
-      "player_name": "Spencer Shrader",
-      "position": "K",
-      "published": 1787472367000,
-      "source": "rotoballer",
-      "source_key": "219190",
-      "story_id": "nfl|12185|rotoballer|219190|1787472367000",
-      "title": "Spencer Shrader Primed to Retake Starting Position",
-      "url": "https://www.rotoballer.com/player-news/spencer-shrader-primed-to-retake-starting-position/1914368"
     }
   ]
 }
