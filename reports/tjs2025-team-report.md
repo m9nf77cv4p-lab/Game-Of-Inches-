@@ -5,7 +5,7 @@
 - Roster ID: **5**
 - Players: **23**
 - Taxi: **1**
-- Reserve/IR: **0**
+- Reserve/IR: **2**
 
 ## Current roster
 
@@ -20,14 +20,14 @@
 - Christian McCaffrey — RB — SF
 - Derrick Henry — RB — BAL
 - Justice Hill — RB — BAL
-- Rico Dowdle — RB — PIT
+- Rico Dowdle — RB — PIT — reserve/IR
 - Cade Otton — TE — TB
 - Hunter Henry — TE — NE
 - Travis Kelce — TE — KC
 - Calvin Ridley — WR — TEN
 - Davante Adams — WR — LAR
 - Deebo Samuel — WR — SF
-- Demarcus Robinson — WR — SF
+- Demarcus Robinson — WR — SF — reserve/IR
 - Elic Ayomanor — WR — TEN
 - Jalen Nailor — WR — LV
 - Pat Bryant — WR — DEN
