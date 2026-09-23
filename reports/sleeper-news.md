@@ -2,34 +2,34 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **4495**
-- Newly captured: **13**
+- Stored stories: **4507**
+- Newly captured: **15**
 
 ## Latest news
 
-- **NEW — Mac Jones** — Mac Jones - Sees limited action in Week 2 (2026-09-23T04:30:51Z)
+- **Mac Jones** — Mac Jones - Sees limited action in Week 2 (2026-09-23T04:30:51Z)
   - The 49ers had no trouble building a comfortable lead throughout the contest, resulting in Jones appearing in eight of the team's 52 offensive snaps. The 28-year-old is coming off a sound 2025 campaign, throwing for 2,151 yards, 13 touchdowns and six interceptions while completing a career-best 69.6 percent of his attempts. While Jones is considered one of the better backup quarterbacks in the NFL, his fantasy ceiling is low as long as Brock Purdy is healthy.
-- **NEW — Kimani Vidal** — Kimani Vidal - Not a factor once again (2026-09-23T04:15:55Z)
+- **Kimani Vidal** — Kimani Vidal - Not a factor once again (2026-09-23T04:15:55Z)
   - Vidal logged four offensive snaps in the 26-14 loss to Arizona in Week 1. Although he was slightly more involved in Week 2 against the Raiders (seven snaps), he went without a rushing attempt for a second straight game. The 25-year-old had some productive outings for fantasy managers during the 2025 campaign, finishing with 643 rushing yards and three touchdowns off 155 carries while adding 16 receptions for 136 yards and one touchdown. However, it's been a different story in 2026, with Vidal spending most of his time on special teams. His fantasy outlook doesn't look promising moving forward as long as Omarion Hampton and Keaton Mitchell are available.
-- **NEW — Chris Bell** — Chris Bell - Catchless in second pro game (2026-09-23T04:11:18Z)
+- **Chris Bell** — Chris Bell - Catchless in second pro game (2026-09-23T04:11:18Z)
   - Bell was unable to make an impact, but that was in line with most of Miami's passing game, as QB Malik Willis threw for only 120 yards outside of a 77-yard touchdown to Ryan Miller during garbage time. Bell logged 24 of the Dolphins' 59 offensive snaps, ranking a distant third among team's wideouts behind Malik Washington (55) and Caleb Douglas (51). Douglas suffered an ankle injury late in the contest, however, and he's uncertain to be able to suit up in Week 3 against Kansas City. If he ends up being sidelined, Bell could move up a notch in the WR pecking order.
-- **NEW — Troy Franklin** — Troy Franklin - One catch in Week 2 win (2026-09-23T03:58:34Z)
+- **Troy Franklin** — Troy Franklin - One catch in Week 2 win (2026-09-23T03:58:34Z)
   - With Marvin Mims (foot) inactive, Franklin played 13 of 62 offensive snaps as the clear No. 4 receiver behind Courtland Sutton, Pat Bryant and Jaylen Waddle. Franklin's 27-yard grab was his lone catch of the season through two weeks. He'll need an injury to obtain any fantasy relevance in redraft formats.
-- **NEW — Jack Bech** — Jack Bech - Corrals two balls Sunday (2026-09-23T03:55:21Z)
+- **Jack Bech** — Jack Bech - Corrals two balls Sunday (2026-09-23T03:55:21Z)
   - Bech started at wideout for Las Vegas and ended up playing 34 of the team's 63 offensive snaps, third-highest among Raiders WRs behind Tre Tucker (48) and Jalen Nailor (41). Bech didn't have a huge game, but he did haul in a 20-yard reception that resulted in a first-and-goal at the 4-yard line. Through two games this season, Bech has five catches on six targets for 48 yards and a touchdown.
-- **NEW — Tez Johnson** — Tez Johnson - Catches one target in loss (2026-09-23T03:23:46Z)
+- **Tez Johnson** — Tez Johnson - Catches one target in loss (2026-09-23T03:23:46Z)
   - Johnson played 19 offensive snaps compared to Emeka Egbuka's 56 snaps, Chris Godwin's 56 snaps and Ted Hurst's 48 snaps. The No. 5 wide receiver generated one explosive play for the Buccaneers' offense but could not provide much more to the cause in the losing effort.
-- **NEW — Raheim Sanders** — Raheim Sanders - Catches sole target in win (2026-09-23T03:03:19Z)
+- **Raheim Sanders** — Raheim Sanders - Catches sole target in win (2026-09-23T03:03:19Z)
   - Sanders played 11 offensive snaps and six special-teams snaps in Sunday's contest. Despite the small snap share, Sanders found plenty to do in Cleveland's first win of the season, making key plays for both the offensive and special teams units.
-- **NEW — Cam Ward** — Cam Ward Playing Clean Football with Touchdown Upside (2026-09-23T01:12:06Z)
+- **Cam Ward** — Cam Ward Playing Clean Football with Touchdown Upside (2026-09-23T01:12:06Z)
   - Source: https://www.rotoballer.com/player-news/cam-ward-playing-clean-football-with-touchdown-upside/1948120
-- **NEW — Geno Smith** — High Volume Makes Geno Smith an Appealing Waiver Wire Target (2026-09-23T01:09:05Z)
+- **Geno Smith** — High Volume Makes Geno Smith an Appealing Waiver Wire Target (2026-09-23T01:09:05Z)
   - Source: https://www.rotoballer.com/player-news/high-volume-makes-geno-smith-an-appealing-waiver-wire-target/1948118
-- **NEW — Kaleb Johnson** — Kaleb Johnson - Limited by backfield timeshare (2026-09-23T00:46:58Z)
+- **Kaleb Johnson** — Kaleb Johnson - Limited by backfield timeshare (2026-09-23T00:46:58Z)
   - Johnson appeared in 16 of the Packers' 59 offensive snaps against the Jets, ending behind Chris Brooks (27) and tying with starter MarShawn Lloyd (16). However, none of them could get anything going, with all three players combining for 63 yards off 18 attempts. Johnson had plenty of hype entering his rookie season with the Steelers in 2025, though he wasn't very involved. With Josh Jacobs (personal) on the Commissioner's Exempt List, there will be snaps up for grabs. While that could mean more involvement from Johnson moving ahead, it seems as if head coach Matt LaFleur will continue to have all three players split carries, which isn't good news for fantasy managers, especially those looking to fill the void left by Jacobs' absence.
 - **Chris Brooks** — Chris Brooks - Remains involved in crowded backfield (2026-09-23T00:31:54Z)
-  - Brooks was on the field for 27 of the Packers'  59 offensive snaps in Week 2, with Kaleb Johnson and MarShawn Lloyd each logging 16. However, Brooks ceded carries to both players, and he tied Lloyd with two targets. The 26-year-old has totaled 40 yards off 11 carries (3.6 YPC), adding one catch for 15 yards in his two regular-season appearances in 2026. While Josh Jacobs (personal) sits on the Commissioner's Exempt List, there will continue to be opportunities for Brooks, Lloyd and Johnson, though it appears head coach Matt LaFleur is content with a timeshare, lowering the ceiling for all of them moving ahead, including the Week 3 meeting with Atlanta.
-- **NEW — Sam Darnold** — Seahawks Leaving the Door Open for Sam Darnold to Play in Week 3 (2026-09-23T00:25:06Z)
+  - Brooks was on the field for 27 of the Packers' 59 offensive snaps Week 2, with Kaleb Johnson and MarShawn Lloyd each logging 16. However, Brooks ceded carries to both players, and he tied Lloyd with two targets. The 26-year-old has totaled 40 yards off 11 carries (3.6 YPC), adding one catch for 15 yards in his two regular-season appearances in 2026. While Josh Jacobs (personal) sits on the Commissioner's Exempt List, there will continue to be opportunities for Brooks, Lloyd and Johnson, though it appears head coach Matt LaFleur is content with a timeshare, lowering the ceiling for all of them moving ahead, including the Week 3 meeting with Atlanta.
+- **Sam Darnold** — Seahawks Leaving the Door Open for Sam Darnold to Play in Week 3 (2026-09-23T00:25:06Z)
   - Source: https://www.rotoballer.com/player-news/seahawks-leaving-the-door-open-for-sam-darnold-to-play-in-week-3/1948097
 - **Tory Horton** — Tory Horton - No offensive output in Week 2 (2026-09-23T00:23:44Z)
   - Horton made his 2026 regular-season debut Sunday after being a healthy scratch for the Seahawks' Week 1 win over the Patriots. The second-year pro didn't end up seeing a target from Drew Lock, and Horton's offensive production will continue to be limited while working behind Jaxon Smith-Njigba, Rashid Shaheed, Cooper Kupp and tight end AJ Barner in the passing game. The Seahawks will look to stay undefeated in a Week 3 road tilt against the Commanders on Sunday.
@@ -63,11 +63,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/609890/rico-dowdle-toe-day-to-day.php
 - **Jayden Reed** — Jayden Reed - Back in Green Bay, still without timeline (2026-09-22T22:16:25Z)
   - After he appeared to take a hit to the head and neck area at the end of a four-yard gain on a swing pass early in the first quarter of Sunday's 20-17 overtime win over the Jets, Reed was carted off the field on a backboard and taken to a New Jersey hospital, where he remained overnight. Though a previous report suggested that Reed sustained a back injury, LaFleur clarified Tuesday that the injury is isolated to the receiver's neck area. LaFleur noted that Reed was in good spirits upon returning to Green Bay, but the coach acknowledged that it's still "way too early" to know whether the wideout has a chance of playing again this season until he completes more medical tests, per Rob Demovsky of ESPN.com. The Packers are expected to officially rule Reed out for Thursday's game against the Falcons following the release of their final Week 3 injury report Wednesday.
-- **NEW — Kirk Cousins** — Kirk Cousins is an Intriguing Add Ahead of Week 3 (2026-09-22T21:50:06Z)
+- **Kirk Cousins** — Kirk Cousins is an Intriguing Add Ahead of Week 3 (2026-09-22T21:50:06Z)
   - Source: https://www.rotoballer.com/player-news/kirk-cousins-is-an-intriguing-add-ahead-of-week-3/1948002
 - **Rico Dowdle** — Rico Dowdle - Viewed as day-to-day (2026-09-22T21:43:09Z)
   - Dowdle was carted to the locker room during the second half of Sunday's 20-3 loss to the Patriots, but he appears to have avoided a significant injury. That said, Dowdle's practice participation will warrant monitoring throughout the week before his availability for Sunday's game against the Bengals is determined. If Dowdle ends up sitting out the Week 3 contest, Jaylen Warren could be in store for a sizable three-down role out of the Pittsburgh backfield.
-- **NEW — T.J. Hockenson** — T.J. Hockenson is Gaining Value Ahead of Week 3 (2026-09-22T21:16:36Z)
+- **T.J. Hockenson** — T.J. Hockenson is Gaining Value Ahead of Week 3 (2026-09-22T21:16:36Z)
   - Source: https://www.rotoballer.com/player-news/t-j-hockenson-is-gaining-value-ahead-of-week-3/1947976
 - **Tua Tagovailoa** — Tua Tagovailoa (oblique) logs full practice Tuesday  (2026-09-22T20:55:02.396000Z)
   - Tagovailoa has missd the first two weeks of the season due to an oblique injury. Michael Penix Jr. was already named the starter, so Tagovailoa would figure to back him up if he is cleared. 
@@ -86,11 +86,18 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/brock-bowers-expected-to-make-season-debut-in-week-3/1947942
 - **Tua Tagovailoa** — Tua Tagovailoa - Turns in full practice (2026-09-22T20:08:02Z)
   - Tagovailoa took part in his first full practice since Sept. 9, after he sustained an oblique injury a day later that kept him from playing in either of the Falcons' first two games of the season. The 28-year-old had been poised to direct the offense for Atlanta in Week 1 before the oblique injury cropped up, but he'll now have to settle for the No. 2 role with Michael Penix (knee) getting cleared to make his 2026 debut as the team's starting quarterback Thursday versus the Packers.
+- **NEW — Jameis Winston** — Jameis Winston - Extended starting opportunity awaits (2026-09-22T19:08:18Z)
+  - After exiting in the first quarter Monday, Dart received a preliminary diagnosis of a sprained MCL, an injury that typically entails a multi-week absence but typically isn't season-ending. Unfortunately for Dart, follow-up tests Tuesday seemingly revealed additional damage to his knee that could potentially lead to season-ending surgery. Dart will likely receive additional medical opinions before a treatment plan and recovery timeline is established, but with an extended absence on tap, the door is open for Winston to direct the New York offense beginning with Sunday's game versus Tennessee. Winston averaged a healthy 8.6 yards per attempt between two starts and one brief appearance off the bench with the Giants a season ago, but he was highly inefficient in relief of Dart in his 2026 debut Monday, completing just 11 of 27 passes for 111 yards, no touchdowns and an interception.
 - **Jaxson Dart** — Jaxson Dart (knee) testing reveals knee injury could be season-ending (2026-09-22T18:51:01.450000Z)
   - Dart went down early in the first quarter with a knee injury, and did not return despite pushing to come back into the game. Now with testing revealing that his injuries could be season-ending, it's a massive blow to fantasy managers. Jameis Winston looked shell shocked for the majority of his snaps, a far cry from the Jameis we've come to know and love over the past few seasons. There are a few comforts we can take from his performance, one is the fact that top WR Malik Nabers hurt his shoulder and was playing through pain. The other is that he will not have to face the Rams pass rush again this season. He could still be a streaming option if Dart is out, but don't start him right away as we want to see a bit more promise of a bounce back first.
   - Source: https://www.fantasypros.com/nfl/news/609840/jaxson-dart-knee-testing-reveals-knee-injury-could-be-season-ending.php
 - **Jaxson Dart** — Jaxson Dart - May need season-ending surgery (2026-09-22T18:50:50Z)
   - The Giants had previously been optimistic that Dart would avoid an extended absence after initial scans following Monday's game suggested that he sustained an MCL sprain in his knee, but follow-up tests appear to have revealed more significant damage. Dart is likely to seek out additional medical opinions before deciding on a treatment plan for his injury, but if surgery is deemed necessary, he would likely be lost for the remainder of the 2026 campaign. Jameis Winston is poised to direct the Giants offense in Week 3 versus the Titans and could be in line for an extended run as the team's starting quarterback.
+- **NEW — Tyson Bagent** — Tyson Bagent (concussion) in concussion protocol, could miss Week 3 (2026-09-22T18:31:01.857000Z)
+  - Bagent came in relief of the injured Caleb Williams and was having decent success in moving the ball on a potential game winning drive before stalling in the red zone. If Bagent can't go, Case Keenum will start. Keenum has had success in the past and isn't a bad third stringer to have on a real life roster, but isn't someone you should look to start this weekend in fantasy if you can help it.
+  - Source: https://www.fantasypros.com/nfl/news/609838/tyson-bagent-concussion-concussion-protocol-could-miss-week-3.php
+- **NEW — Tyson Bagent** — Tyson Bagent - Enters concussion protocol (2026-09-22T18:18:15Z)
+  - With Caleb Williams viewed as week-to-week after suffering a hamstring injury in the Bears' Week 2 loss to the Vikings, Bagent appeared to be the leading candidate to start Monday against the Eagles. However, now that he's been placed in concussion protocol, Bagent's availability for Week 3 is suddenly up in the air. Third-stringer Case Keenum is left as the only healthy quarterback on the roster and could be in line to start against the Eagles if neither Williams nor Bagent is cleared to play Monday.
 - **Rico Dowdle** — Rico Dowdle Considered Day-to-Day With Toe Injury (2026-09-22T17:45:05Z)
   - Source: https://www.rotoballer.com/player-news/rico-dowdle-considered-day-to-day-with-toe-injury/1947861
 - **Jayden Reed** — Jayden Reed Missing Another Practice (2026-09-22T17:10:06Z)
@@ -122,6 +129,10 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-to-have-growing-role-in-broncos-offense/1947669
 - **Jaxson Dart** — Jaxson Dart Could Miss the Rest of the Season (2026-09-22T14:47:07Z)
   - Source: https://www.rotoballer.com/player-news/jaxson-dart-could-miss-the-rest-of-the-season/1947662
+- **NEW — Tyson Bagent** — Tyson Bagent in the Concussion Protocol (2026-09-22T14:29:05Z)
+  - Source: https://www.rotoballer.com/player-news/tyson-bagent-in-the-concussion-protocol/1947643
+- **NEW — Marcus Mariota** — Marcus Mariota a Waiver Priority in Superflex Leagues (2026-09-22T14:21:05Z)
+  - Source: https://www.rotoballer.com/player-news/marcus-mariota-a-waiver-priority-in-superflex-leagues/1947635
 - **Drew Lock** — Drew Lock Seems Likely to Make Another Start (2026-09-22T14:08:18Z)
   - Source: https://www.rotoballer.com/player-news/drew-lock-seems-likely-to-make-another-start/1947626
 - **Caleb Williams** — Caleb Williams Unlikely to Play Monday, Could Face 2-4 Week Recovery (2026-09-22T14:03:33Z)
@@ -158,6 +169,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Isaiah Likely** — Isaiah Likely hauls in five passes Monday (2026-09-22T12:20:59.278000Z)
   - Likely didn't put up great numbers on Monday night, finishing with just 33 yards in a loss to the Rams. He was still the most targeted player on the team by far, however, which is a good sign that he will bounce back and return to form sometime in the near future. His bounce back may be delayed is Jaxson Dart (knee) has to miss time for the Giants.
   - Source: https://www.fantasypros.com/nfl/news/609806/isaiah-likely-hauls-five-passes-monday.php
+- **NEW — Jameis Winston** — Jameis Winston underwhelms in loss Monday (2026-09-22T12:20:59.256000Z)
+  - The veteran quarterback came into the game when Jaxson Dart left with a knee injury. Winston didn't look good against the Rams, finishing with just over 100 scoreless yards in a blowout loss. It looks like Jaxson Dart is going to miss a bit of time with a sprained MCL, leaving Winston as the short-term starter for New York, which will be less than ideal for most of the fantasy options on their roster.
+  - Source: https://www.fantasypros.com/nfl/news/609807/jameis-winston-underwhelms-loss-monday.php
 - **Malachi Fields** — Malachi Fields hauls in two passes Monday (2026-09-22T12:20:59.230000Z)
   - The Giants were trying to get the rookie wideout the ball on Monday night, but he was only able to haul in two out of his six targets over the course of the game. He finished with just 30 yards and isn't expected to get much better over the next couple of weeks with QB Jaxson Dart (knee) seemingly set to miss some time for New York.
   - Source: https://www.fantasypros.com/nfl/news/609808/malachi-fields-hauls-two-passes-monday.php
@@ -217,15 +231,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/dalton-schultz-is-a-priority-pickup-for-week-3/1947324
 - **Malachi Fields** — Malachi Fields - Another two grabs in loss (2026-09-22T04:21:20Z)
   - Fields finished third in receptions and second in targets for the Giants on a night when Jaxson Dart (knee) exited after just one series. One of Fields' catches came during that opening drive, as he secured a 14-yard grab on third down to move the chains. The  rookie third-round pick has enjoyed a solid complementary role over his first two NFL games, posting a 4-55-0 line on 10 targets. Fields is slotting in ahead of veteran Darnell Mooney on the depth chart heading into a Week 3 home matchup against the Titans on Sunday.
-- **Jordan James** — Jordan James - Four carries in fourth quarter (2026-09-22T04:14:47Z)
-  - James saw eight offensive snaps and nine special-teams snaps in the contest. All of the running back's carries came in the final seven minutes of the fourth quarter when the game was all but over.
-- **Terrance Ferguson** — Terrance Ferguson - Gets into end zone in win (2026-09-22T04:13:55Z)
-  - Ferguson finished as the runner-up on the Rams in all of receptions, receiving yards and targets while closing out the scoring with a five-yard TD grab in the fourth quarter, as the second-year tight end saw a significant increase in opportunity in the absence of Puka Nacua (hip). Ferguson drew a sole target over 31 snaps in the Week 1 loss to the 49ers, and despite Monday night's surge in production, it will be difficult to trust any of the members of the Rams' deep tight-end room on a game-to-game basis.
-- **Malik Washington** — Malik Washington - Does it all in loss (2026-09-22T04:12:23Z)
-  - Washington played 43 of the Dolphins' 59 offensive snaps as well as six special-teams snaps. The No. 1 wide receiver and returner appeared in many aspects of the box score, doing everything that was required of him across two phases as the Dolphins discover their identity with new coach Jeff Hafley.
-- **Isaiah Likely** — Isaiah Likely - Solid despite Dart injury (2026-09-22T04:10:02Z)
-  - Likely's first catch came on one of Jaxson Dart's three completions before he exited the game with a knee injury, and the veteran tight end remained an integral component of the air attack once Jameis Winston took over. Likely's reception and target totals were team-high figures, and he's quickly generated a 13-111-2 line on 18 targets over his first two games in a Giants uniform heading into a Week 3 home matchup against the Titans on Sunday.
-- **Ryan Flournoy** — Ryan Flournoy - Logs five catches in Week 2 (2026-09-22T04:09:52Z)
-  - Flournoy started and saw plenty of playing time, logging 42 of Dallas' 55 offensive snaps. He also got a good amount of looks, with six passes thrown his way. However, Flournoy worked almost exclusively in short yardage, with his longest catch going for a modest 10 yards and his other four receptions accounting for a total of 13 yards. Flournoy is unsurprisingly well behind CeeDee Lamb and George Pickens on the WR depth chart, so his week-to-week production figures to be difficult to bank upon. Dallas next faces the Ravens at home next Sunday.
-- **Ben Sinnott** — Ben Sinnott - Catches sole target in loss (2026-09-22T03:59:29Z)
-  - Sinnott played 48 of the Commanders' 71 offensive snaps as well as nine special-teams snaps in Sunday's contest. The tight end started due to Chig Okonkwo's (hamstring) absence and was the primary blocker for many of the team's plays.

@@ -1,21 +1,23 @@
 {
-  "last_checked_at": "2026-09-23T05:16:50Z",
+  "last_checked_at": "2026-09-23T10:05:08Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 292,
+  "monitored_player_count": 294,
   "new_story_ids": [
-    "nfl|11627|rotowire|638787|1790135914000",
-    "nfl|11647|rotowire|638793|1790136955000",
-    "nfl|1166|rotoballer|221966|1790113806000",
-    "nfl|12472|rotowire|638772|1790132599000",
-    "nfl|12483|rotowire|638786|1790135721000",
-    "nfl|12485|rotowire|638777|1790133826000",
-    "nfl|12504|rotowire|638704|1790124418000",
-    "nfl|12522|rotoballer|221970|1790125926000",
-    "nfl|13311|rotowire|638792|1790136678000",
-    "nfl|1373|rotoballer|221971|1790125745000",
-    "nfl|4943|rotoballer|221967|1790123106000",
-    "nfl|5844|rotoballer|221962|1790111796000",
-    "nfl|7527|rotowire|638799|1790137851000"
+    "nfl|11256|fantasy_pros|609838|1790101861857",
+    "nfl|11256|rotoballer|221936|1790087345000",
+    "nfl|11256|rotowire|638628|1790101095000",
+    "nfl|11435|fantasy_pros|609691|1790038855148",
+    "nfl|11435|rotoballer|221822|1789986427000",
+    "nfl|11435|rotowire|638368|1789952847000",
+    "nfl|2306|fantasy_pros|609807|1790079659256",
+    "nfl|2306|rotowire|638613|1790049881000",
+    "nfl|2306|rotowire|638632|1790104098000",
+    "nfl|2307|fantasy_pros|609634|1790022027706",
+    "nfl|2307|rotoballer|221935|1790086865000",
+    "nfl|2307|rotowire|638453|1790017993000",
+    "nfl|6149|fantasy_pros|609698|1790039455716",
+    "nfl|6149|rotoballer|221880|1790026145000",
+    "nfl|6149|rotowire|638562|1790039571000"
   ],
   "schema_version": 1,
   "source": {
@@ -226,11 +228,11 @@
       "url": null
     },
     {
-      "analysis": "Brooks was on the field for 27 of the Packers'  59 offensive snaps in Week 2, with Kaleb Johnson and MarShawn Lloyd each logging 16. However, Brooks ceded carries to both players, and he tied Lloyd with two targets. The 26-year-old has totaled 40 yards off 11 carries (3.6 YPC), adding one catch for 15 yards in his two regular-season appearances in 2026. While Josh Jacobs (personal) sits on the Commissioner's Exempt List, there will continue to be opportunities for Brooks, Lloyd and Johnson, though it appears head coach Matt LaFleur is content with a timeshare, lowering the ceiling for all of them moving ahead, including the Week 3 meeting with Atlanta.",
-      "description": "Brooks tallied four carries for 11 yards and caught 1 of 2 targets for 15 yards during Sunday's 20-17 overtime win versus the Jets.",
+      "analysis": "Brooks was on the field for 27 of the Packers' 59 offensive snaps Week 2, with Kaleb Johnson and MarShawn Lloyd each logging 16. However, Brooks ceded carries to both players, and he tied Lloyd with two targets. The 26-year-old has totaled 40 yards off 11 carries (3.6 YPC), adding one catch for 15 yards in his two regular-season appearances in 2026. While Josh Jacobs (personal) sits on the Commissioner's Exempt List, there will continue to be opportunities for Brooks, Lloyd and Johnson, though it appears head coach Matt LaFleur is content with a timeshare, lowering the ceiling for all of them moving ahead, including the Week 3 meeting with Atlanta.",
+      "description": "Brooks tallied four carries for 11 yards and caught one of two targets for 15 yards during Sunday's 20-17 overtime win versus the Jets.",
       "metadata": {
-        "analysis": "Brooks was on the field for 27 of the Packers'  59 offensive snaps in Week 2, with Kaleb Johnson and MarShawn Lloyd each logging 16. However, Brooks ceded carries to both players, and he tied Lloyd with two targets. The 26-year-old has totaled 40 yards off 11 carries (3.6 YPC), adding one catch for 15 yards in his two regular-season appearances in 2026. While Josh Jacobs (personal) sits on the Commissioner's Exempt List, there will continue to be opportunities for Brooks, Lloyd and Johnson, though it appears head coach Matt LaFleur is content with a timeshare, lowering the ceiling for all of them moving ahead, including the Week 3 meeting with Atlanta.",
-        "description": "Brooks tallied four carries for 11 yards and caught 1 of 2 targets for 15 yards during Sunday's 20-17 overtime win versus the Jets.",
+        "analysis": "Brooks was on the field for 27 of the Packers' 59 offensive snaps Week 2, with Kaleb Johnson and MarShawn Lloyd each logging 16. However, Brooks ceded carries to both players, and he tied Lloyd with two targets. The 26-year-old has totaled 40 yards off 11 carries (3.6 YPC), adding one catch for 15 yards in his two regular-season appearances in 2026. While Josh Jacobs (personal) sits on the Commissioner's Exempt List, there will continue to be opportunities for Brooks, Lloyd and Johnson, though it appears head coach Matt LaFleur is content with a timeshare, lowering the ceiling for all of them moving ahead, including the Week 3 meeting with Atlanta.",
+        "description": "Brooks tallied four carries for 11 yards and caught one of two targets for 15 yards during Sunday's 20-17 overtime win versus the Jets.",
         "title": "Chris Brooks - Remains involved in crowded backfield",
         "topic_id": "1408284547442900992"
       },
@@ -753,6 +755,26 @@
       "url": null
     },
     {
+      "analysis": "After exiting in the first quarter Monday, Dart received a preliminary diagnosis of a sprained MCL, an injury that typically entails a multi-week absence but typically isn't season-ending. Unfortunately for Dart, follow-up tests Tuesday seemingly revealed additional damage to his knee that could potentially lead to season-ending surgery. Dart will likely receive additional medical opinions before a treatment plan and recovery timeline is established, but with an extended absence on tap, the door is open for Winston to direct the New York offense beginning with Sunday's game versus Tennessee. Winston averaged a healthy 8.6 yards per attempt between two starts and one brief appearance off the bench with the Giants a season ago, but he was highly inefficient in relief of Dart in his 2026 debut Monday, completing just 11 of 27 passes for 111 yards, no touchdowns and an interception.",
+      "description": "Winston could be in line for an extended run as the Giants' starting quarterback after Jaxson Dart sustained a more serious knee injury than anticipated in Monday's 28-6 loss to the Rams, Ian Rapoport and Mike Garafolo of NFL Network report.",
+      "metadata": {
+        "analysis": "After exiting in the first quarter Monday, Dart received a preliminary diagnosis of a sprained MCL, an injury that typically entails a multi-week absence but typically isn't season-ending. Unfortunately for Dart, follow-up tests Tuesday seemingly revealed additional damage to his knee that could potentially lead to season-ending surgery. Dart will likely receive additional medical opinions before a treatment plan and recovery timeline is established, but with an extended absence on tap, the door is open for Winston to direct the New York offense beginning with Sunday's game versus Tennessee. Winston averaged a healthy 8.6 yards per attempt between two starts and one brief appearance off the bench with the Giants a season ago, but he was highly inefficient in relief of Dart in his 2026 debut Monday, completing just 11 of 27 passes for 111 yards, no touchdowns and an interception.",
+        "description": "Winston could be in line for an extended run as the Giants' starting quarterback after Jaxson Dart sustained a more serious knee injury than anticipated in Monday's 28-6 loss to the Rams, Ian Rapoport and Mike Garafolo of NFL Network report.",
+        "title": "Jameis Winston - Extended starting opportunity awaits",
+        "topic_id": "1408202971182899200"
+      },
+      "nfl_team": "NYG",
+      "player_id": "2306",
+      "player_name": "Jameis Winston",
+      "position": "QB",
+      "published": 1790104098000,
+      "source": "rotowire",
+      "source_key": "638632",
+      "story_id": "nfl|2306|rotowire|638632|1790104098000",
+      "title": "Jameis Winston - Extended starting opportunity awaits",
+      "url": null
+    },
+    {
       "analysis": "Dart went down early in the first quarter with a knee injury, and did not return despite pushing to come back into the game. Now with testing revealing that his injuries could be season-ending, it's a massive blow to fantasy managers. Jameis Winston looked shell shocked for the majority of his snaps, a far cry from the Jameis we've come to know and love over the past few seasons. There are a few comforts we can take from his performance, one is the fact that top WR Malik Nabers hurt his shoulder and was playing through pain. The other is that he will not have to face the Rams pass rush again this season. He could still be a streaming option if Dart is out, but don't start him right away as we want to see a bit more promise of a bounce back first.",
       "description": "Jaxson Dart (knee) has undergone further testing on his injured knee and they have revealed it could be a season-ending injury. What looked like a promising 2026 is quickly turning upside down for the Giants.",
       "metadata": {
@@ -791,6 +813,47 @@
       "source_key": "638631",
       "story_id": "nfl|12508|rotowire|638631|1790103050000",
       "title": "Jaxson Dart - May need season-ending surgery",
+      "url": null
+    },
+    {
+      "analysis": "Bagent came in relief of the injured Caleb Williams and was having decent success in moving the ball on a potential game winning drive before stalling in the red zone. If Bagent can't go, Case Keenum will start. Keenum has had success in the past and isn't a bad third stringer to have on a real life roster, but isn't someone you should look to start this weekend in fantasy if you can help it.",
+      "description": "Tyson Bagent (concussion) is in the NFL's concussion protocol and could miss the Bears' Monday night game against the Eagles. If he does, Case Keenum will likely start with Caleb Williams all but out several weeks.",
+      "metadata": {
+        "analysis": "Bagent came in relief of the injured Caleb Williams and was having decent success in moving the ball on a potential game winning drive before stalling in the red zone. If Bagent can't go, Case Keenum will start. Keenum has had success in the past and isn't a bad third stringer to have on a real life roster, but isn't someone you should look to start this weekend in fantasy if you can help it.",
+        "description": "Tyson Bagent (concussion) is in the NFL's concussion protocol and could miss the Bears' Monday night game against the Eagles. If he does, Case Keenum will likely start with Caleb Williams all but out several weeks.",
+        "title": "Tyson Bagent (concussion) in concussion protocol, could miss Week 3",
+        "topic_id": "1408192909353738240",
+        "url": "https://www.fantasypros.com/nfl/news/609838/tyson-bagent-concussion-concussion-protocol-could-miss-week-3.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11256",
+      "player_name": "Tyson Bagent",
+      "position": "QB",
+      "published": 1790101861857,
+      "source": "fantasy_pros",
+      "source_key": "609838",
+      "story_id": "nfl|11256|fantasy_pros|609838|1790101861857",
+      "title": "Tyson Bagent (concussion) in concussion protocol, could miss Week 3",
+      "url": "https://www.fantasypros.com/nfl/news/609838/tyson-bagent-concussion-concussion-protocol-could-miss-week-3.php"
+    },
+    {
+      "analysis": "With Caleb Williams viewed as week-to-week after suffering a hamstring injury in the Bears' Week 2 loss to the Vikings, Bagent appeared to be the leading candidate to start Monday against the Eagles. However, now that he's been placed in concussion protocol, Bagent's availability for Week 3 is suddenly up in the air. Third-stringer Case Keenum is left as the only healthy quarterback on the roster and could be in line to start against the Eagles if neither Williams nor Bagent is cleared to play Monday.",
+      "description": "Bagent was diagnosed with a concussion and placed in the five-step protocol Tuesday, Ian Rapoport of NFL Network reports.",
+      "metadata": {
+        "analysis": "With Caleb Williams viewed as week-to-week after suffering a hamstring injury in the Bears' Week 2 loss to the Vikings, Bagent appeared to be the leading candidate to start Monday against the Eagles. However, now that he's been placed in concussion protocol, Bagent's availability for Week 3 is suddenly up in the air. Third-stringer Case Keenum is left as the only healthy quarterback on the roster and could be in line to start against the Eagles if neither Williams nor Bagent is cleared to play Monday.",
+        "description": "Bagent was diagnosed with a concussion and placed in the five-step protocol Tuesday, Ian Rapoport of NFL Network reports.",
+        "title": "Tyson Bagent - Enters concussion protocol",
+        "topic_id": "1408190388262449152"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11256",
+      "player_name": "Tyson Bagent",
+      "position": "QB",
+      "published": 1790101095000,
+      "source": "rotowire",
+      "source_key": "638628",
+      "story_id": "nfl|11256|rotowire|638628|1790101095000",
+      "title": "Tyson Bagent - Enters concussion protocol",
       "url": null
     },
     {
@@ -1093,6 +1156,46 @@
       "story_id": "nfl|12508|rotoballer|221938|1790088427000",
       "title": "Jaxson Dart Could Miss the Rest of the Season",
       "url": "https://www.rotoballer.com/player-news/jaxson-dart-could-miss-the-rest-of-the-season/1947662"
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears quarterback Tyson Bagent (concussion) is dealing with a concussion and is in the league's concussion protocol, sources told Ian Rapoport of the NFL Network. With starter Caleb Williams likely out on Monday night in Week 3 against the Philadelphia Eagles, veteran Case Keenum could end up starting this week. The Bears are suddenly in dire straits at the QB position early in the season. They might have dodged a bullet on Williams' hamstring injury, but he could still end up missing a week or two, at least. The 26-year-old Bagent went 5-for-9 passing for 54 yards in the team's 9-3 loss to the division-rival Minnesota Vikings in Week 2 after he replaced Williams in the fourth quarter on a rain-soaked field in Chicago. Bagent is not a lock to miss the Week 3 contest on Monday night, but with him being in the concussion protocol, it definitely hurts his argument for being a waiver-wire pickup in deep two-QB superflex leagues. He is not currently rostered at all in any Yahoo leagues.",
+      "metadata": {
+        "description": "Chicago Bears quarterback Tyson Bagent (concussion) is dealing with a concussion and is in the league's concussion protocol, sources told Ian Rapoport of the NFL Network. With starter Caleb Williams likely out on Monday night in Week 3 against the Philadelphia Eagles, veteran Case Keenum could end up starting this week. The Bears are suddenly in dire straits at the QB position early in the season. They might have dodged a bullet on Williams' hamstring injury, but he could still end up missing a week or two, at least. The 26-year-old Bagent went 5-for-9 passing for 54 yards in the team's 9-3 loss to the division-rival Minnesota Vikings in Week 2 after he replaced Williams in the fourth quarter on a rain-soaked field in Chicago. Bagent is not a lock to miss the Week 3 contest on Monday night, but with him being in the concussion protocol, it definitely hurts his argument for being a waiver-wire pickup in deep two-QB superflex leagues. He is not currently rostered at all in any Yahoo leagues.",
+        "title": "Tyson Bagent in the Concussion Protocol",
+        "topic_id": "1408194159923195904",
+        "url": "https://www.rotoballer.com/player-news/tyson-bagent-in-the-concussion-protocol/1947643"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11256",
+      "player_name": "Tyson Bagent",
+      "position": "QB",
+      "published": 1790087345000,
+      "source": "rotoballer",
+      "source_key": "221936",
+      "story_id": "nfl|11256|rotoballer|221936|1790087345000",
+      "title": "Tyson Bagent in the Concussion Protocol",
+      "url": "https://www.rotoballer.com/player-news/tyson-bagent-in-the-concussion-protocol/1947643"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders backup quarterback Marcus Mariota has become a waiver-wire priority in two-QB superflex leagues going into a Week 3 matchup against the Seattle Seahawks. Starting signal-caller Jayden Daniels (elbow) suffered another dislocated elbow in the Week 2 loss to the division-rival Dallas Cowboys after he missed time last year with the same injury. Daniels is most likely going to miss multiple weeks, which makes the 32-year-old veteran Mariota more interesting as a short-term option in fantasy. In relief of Daniels on Sunday, Mariota went 11-for-16 passing for 111 yards and a touchdown in the 37-20 blowout loss in Dallas. Mariota will have a pretty low floor this Sunday if he starts against Seattle's stout defense, but his waiver-wire argument is based more on the fact that Daniels will probably end up missing multiple weeks. The former second overall pick will not come with much upside overall, but he has plenty of experience (12 NFL seasons, 105 career games) and has some decent receiving options in Terry McLaurin, Stefon Diggs, and Antonio Williams. In 11 games (eight starts) for Washington last year when Daniels was injured, Mariota threw for 1,695 yards, 10 touchdowns, and seven interceptions while adding 50 rushing attempts for 297 yards and a TD on the ground.",
+      "metadata": {
+        "description": "Washington Commanders backup quarterback Marcus Mariota has become a waiver-wire priority in two-QB superflex leagues going into a Week 3 matchup against the Seattle Seahawks. Starting signal-caller Jayden Daniels (elbow) suffered another dislocated elbow in the Week 2 loss to the division-rival Dallas Cowboys after he missed time last year with the same injury. Daniels is most likely going to miss multiple weeks, which makes the 32-year-old veteran Mariota more interesting as a short-term option in fantasy. In relief of Daniels on Sunday, Mariota went 11-for-16 passing for 111 yards and a touchdown in the 37-20 blowout loss in Dallas. Mariota will have a pretty low floor this Sunday if he starts against Seattle's stout defense, but his waiver-wire argument is based more on the fact that Daniels will probably end up missing multiple weeks. The former second overall pick will not come with much upside overall, but he has plenty of experience (12 NFL seasons, 105 career games) and has some decent receiving options in Terry McLaurin, Stefon Diggs, and Antonio Williams. In 11 games (eight starts) for Washington last year when Daniels was injured, Mariota threw for 1,695 yards, 10 touchdowns, and seven interceptions while adding 50 rushing attempts for 297 yards and a TD on the ground.",
+        "title": "Marcus Mariota a Waiver Priority in Superflex Leagues",
+        "topic_id": "1408192901799817216",
+        "url": "https://www.rotoballer.com/player-news/marcus-mariota-a-waiver-priority-in-superflex-leagues/1947635"
+      },
+      "nfl_team": "WAS",
+      "player_id": "2307",
+      "player_name": "Marcus Mariota",
+      "position": "QB",
+      "published": 1790086865000,
+      "source": "rotoballer",
+      "source_key": "221935",
+      "story_id": "nfl|2307|rotoballer|221935|1790086865000",
+      "title": "Marcus Mariota a Waiver Priority in Superflex Leagues",
+      "url": "https://www.rotoballer.com/player-news/marcus-mariota-a-waiver-priority-in-superflex-leagues/1947635"
     },
     {
       "analysis": null,
@@ -1399,6 +1502,27 @@
       "story_id": "nfl|8131|fantasy_pros|609806|1790079659278",
       "title": "Isaiah Likely hauls in five passes Monday",
       "url": "https://www.fantasypros.com/nfl/news/609806/isaiah-likely-hauls-five-passes-monday.php"
+    },
+    {
+      "analysis": "The veteran quarterback came into the game when Jaxson Dart left with a knee injury. Winston didn't look good against the Rams, finishing with just over 100 scoreless yards in a blowout loss. It looks like Jaxson Dart is going to miss a bit of time with a sprained MCL, leaving Winston as the short-term starter for New York, which will be less than ideal for most of the fantasy options on their roster.",
+      "description": "Jameis Winston completed 11-of-27 passing attempts for 111 yards and an interception in Monday night's 28-6 loss to the Los Angeles Rams.",
+      "metadata": {
+        "analysis": "The veteran quarterback came into the game when Jaxson Dart left with a knee injury. Winston didn't look good against the Rams, finishing with just over 100 scoreless yards in a blowout loss. It looks like Jaxson Dart is going to miss a bit of time with a sprained MCL, leaving Winston as the short-term starter for New York, which will be less than ideal for most of the fantasy options on their roster.",
+        "description": "Jameis Winston completed 11-of-27 passing attempts for 111 yards and an interception in Monday night's 28-6 loss to the Los Angeles Rams.",
+        "title": "Jameis Winston underwhelms in loss Monday",
+        "topic_id": "1408099784899801088",
+        "url": "https://www.fantasypros.com/nfl/news/609807/jameis-winston-underwhelms-loss-monday.php"
+      },
+      "nfl_team": "NYG",
+      "player_id": "2306",
+      "player_name": "Jameis Winston",
+      "position": "QB",
+      "published": 1790079659256,
+      "source": "fantasy_pros",
+      "source_key": "609807",
+      "story_id": "nfl|2306|fantasy_pros|609807|1790079659256",
+      "title": "Jameis Winston underwhelms in loss Monday",
+      "url": "https://www.fantasypros.com/nfl/news/609807/jameis-winston-underwhelms-loss-monday.php"
     },
     {
       "analysis": "The Giants were trying to get the rookie wideout the ball on Monday night, but he was only able to haul in two out of his six targets over the course of the game. He finished with just 30 yards and isn't expected to get much better over the next couple of weeks with QB Jaxson Dart (knee) seemingly set to miss some time for New York.",
@@ -2028,6 +2152,26 @@
       "url": null
     },
     {
+      "analysis": "Winston has enjoyed success in the past taking over for injured or demoted teammates, but Monday night was far from such an example. The veteran signal-caller consistently struggled against an invigorated Rams defense, taking two sacks and frequently working under duress. Winston's accuracy was also at a low point, and his one interception came in the end zone on a pass intended for Malik Nabers. Mike Garafolo of NFL Network reports Dart has been diagnosed with a sprained MCL, so despite Monday night's struggles, Winston could be in line for at least one start in a Week 3 home matchup against the Titans on Sunday.",
+      "description": "Winston replaced Jaxson Dart (knee) with 9:51 remaining in the first quarter of Monday night's 28-6 loss to the Rams and completed 11 of 27 passes for 111 yards with no touchdowns and one interception while rushing twice for one yard.",
+      "metadata": {
+        "analysis": "Winston has enjoyed success in the past taking over for injured or demoted teammates, but Monday night was far from such an example. The veteran signal-caller consistently struggled against an invigorated Rams defense, taking two sacks and frequently working under duress. Winston's accuracy was also at a low point, and his one interception came in the end zone on a pass intended for Malik Nabers. Mike Garafolo of NFL Network reports Dart has been diagnosed with a sprained MCL, so despite Monday night's struggles, Winston could be in line for at least one start in a Week 3 home matchup against the Titans on Sunday.",
+        "description": "Winston replaced Jaxson Dart (knee) with 9:51 remaining in the first quarter of Monday night's 28-6 loss to the Rams and completed 11 of 27 passes for 111 yards with no touchdowns and one interception while rushing twice for one yard.",
+        "title": "Jameis Winston - Forgettable effort in emergency duty",
+        "topic_id": "1407976455995957249"
+      },
+      "nfl_team": "NYG",
+      "player_id": "2306",
+      "player_name": "Jameis Winston",
+      "position": "QB",
+      "published": 1790049881000,
+      "source": "rotowire",
+      "source_key": "638613",
+      "story_id": "nfl|2306|rotowire|638613|1790049881000",
+      "title": "Jameis Winston - Forgettable effort in emergency duty",
+      "url": null
+    },
+    {
       "analysis": "Sinnott played 48 of the Commanders' 71 offensive snaps as well as nine special-teams snaps in Sunday's contest. The tight end started due to Chig Okonkwo's (hamstring) absence and was the primary blocker for many of the team's plays.",
       "description": "Sinnott caught his only target for six yards in Sunday's 37-20 loss to the Cowboys.",
       "metadata": {
@@ -2616,6 +2760,47 @@
       "url": "https://www.fantasypros.com/nfl/news/609701/malik-nabers-shoulder-returns-to-monday-night-football.php"
     },
     {
+      "analysis": "Slayton spent his first seven seasons with the Giants before he was cut Sept. 7. He posted a 50-770-4 receiving line across 17 regular-season games in 2023 but fell below 600 receiving yards in each of the subsequent two campaigns. The Colts turned to Slayton after No. 1 wideout Alec Pierce was diagnosed with a left heel issue that will sideline him for several weeks. Slayton could thus take on a significant role with his new squad, with Josh Downs, Keenan Allen, Ashton Dulin (ankle), Laquon Treadwell and Deion Burks making up the remainder of Indianapolis' receiving corps.",
+      "description": "Slayton is set to sign with Indianapolis, Tom Pelissero of Netflix reports.",
+      "metadata": {
+        "analysis": "Slayton spent his first seven seasons with the Giants before he was cut Sept. 7. He posted a 50-770-4 receiving line across 17 regular-season games in 2023 but fell below 600 receiving yards in each of the subsequent two campaigns. The Colts turned to Slayton after No. 1 wideout Alec Pierce was diagnosed with a left heel issue that will sideline him for several weeks. Slayton could thus take on a significant role with his new squad, with Josh Downs, Keenan Allen, Ashton Dulin (ankle), Laquon Treadwell and Deion Burks making up the remainder of Indianapolis' receiving corps.",
+        "description": "Slayton is set to sign with Indianapolis, Tom Pelissero of Netflix reports.",
+        "title": "Darius Slayton - Linking up with Colts",
+        "topic_id": "1407932411836203008"
+      },
+      "nfl_team": "IND",
+      "player_id": "6149",
+      "player_name": "Darius Slayton",
+      "position": "WR",
+      "published": 1790039571000,
+      "source": "rotowire",
+      "source_key": "638562",
+      "story_id": "nfl|6149|rotowire|638562|1790039571000",
+      "title": "Darius Slayton - Linking up with Colts",
+      "url": null
+    },
+    {
+      "analysis": "While he's not quite at Pierce's level, this is about as perfect of a signing as the Colts could make. Slayton had been a dependable deep threat for the Giants for years and could put up numbers when called upon. He should see plenty of action alongside of Josh Downs with Keenan Allen finally showing his age and Laquon Treadwell struggling in his own right.",
+      "description": "Darius Slayton is signing with the Indianapolis Colts with Alec Pierce going down for an extended period.",
+      "metadata": {
+        "analysis": "While he's not quite at Pierce's level, this is about as perfect of a signing as the Colts could make. Slayton had been a dependable deep threat for the Giants for years and could put up numbers when called upon. He should see plenty of action alongside of Josh Downs with Keenan Allen finally showing his age and Laquon Treadwell struggling in his own right.",
+        "description": "Darius Slayton is signing with the Indianapolis Colts with Alec Pierce going down for an extended period.",
+        "title": "Darius Slayton signing with Indianapolis Colts ",
+        "topic_id": "1407931159018487808",
+        "url": "https://www.fantasypros.com/nfl/news/609698/darius-slayton-signing-with-indianapolis-colts.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "6149",
+      "player_name": "Darius Slayton",
+      "position": "WR",
+      "published": 1790039455716,
+      "source": "fantasy_pros",
+      "source_key": "609698",
+      "story_id": "nfl|6149|fantasy_pros|609698|1790039455716",
+      "title": "Darius Slayton signing with Indianapolis Colts ",
+      "url": "https://www.fantasypros.com/nfl/news/609698/darius-slayton-signing-with-indianapolis-colts.php"
+    },
+    {
       "analysis": "Nabers left Monday's contest at the end of the first quarter in significant pain and was even deemed questionable to return by the Giants, but he was able to shake off the shoulder issue and return to the contest.",
       "description": "Nabers (shoulder) returned to Monday's game against the Rams in the second quarter, Connor Hughes of SNY.tv reports.",
       "metadata": {
@@ -2654,6 +2839,27 @@
       "story_id": "nfl|8142|rotowire|638559|1790039006000",
       "title": "Alec Pierce - Bypassing surgery, out 'several' weeks",
       "url": null
+    },
+    {
+      "analysis": "Wilson led the Seahawks backfield in the big win, out-touching Jadarian Price on the ground 21 to 13. He's a speculative add at best as the Seahawks continue to rotate running backs.",
+      "description": "Emanuel Wilson ran 21 times for 92 yards and failed to catch his only target in Seattle's 31-7 win over the Cardinals on Sunday.",
+      "metadata": {
+        "analysis": "Wilson led the Seahawks backfield in the big win, out-touching Jadarian Price on the ground 21 to 13. He's a speculative add at best as the Seahawks continue to rotate running backs.",
+        "description": "Emanuel Wilson ran 21 times for 92 yards and failed to catch his only target in Seattle's 31-7 win over the Cardinals on Sunday.",
+        "title": "Emanuel Wilson goes for 92 yards in win over Arizona",
+        "topic_id": "1407928640070569984",
+        "url": "https://www.fantasypros.com/nfl/news/609691/emanuel-wilson-goes-92-yards-win-over-arizona.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11435",
+      "player_name": "Emanuel Wilson",
+      "position": "RB",
+      "published": 1790038855148,
+      "source": "fantasy_pros",
+      "source_key": "609691",
+      "story_id": "nfl|11435|fantasy_pros|609691|1790038855148",
+      "title": "Emanuel Wilson goes for 92 yards in win over Arizona",
+      "url": "https://www.fantasypros.com/nfl/news/609691/emanuel-wilson-goes-92-yards-win-over-arizona.php"
     },
     {
       "analysis": "It didn't look like much on the field, but Nabers appeared to be in a lot of pain in the immediate aftermath. He is questionable to return.",
@@ -3764,6 +3970,26 @@
     },
     {
       "analysis": null,
+      "description": "Veteran wide receiver Darius Slayton is signing with the Indianapolis Colts, per Tom Pelissero of The Ringer. The 29-year-old spent his first seven NFL seasons with the New York Giants, but was released by New York following training camp. With his skill set as a downfield threat, Slayton profiles as the replacement for injured Colts wideout Alec Pierce (heel). Pierce suffered a heel injury in Indianapolis' Week 2 loss to the Kansas City Chiefs that is expected to keep him out for several weeks. Across 14 games (12 starts) with the Giants in 2025, Slayton recorded 37 catches for 538 yards and one touchdown on 63 targets. He has plenty of experience catching passes from Colts quarterback Daniel Jones, as the two played together for six seasons with the Giants. In deeper leagues, Slayton could be worth a look on the waiver wire for fantasy managers.",
+      "metadata": {
+        "description": "Veteran wide receiver Darius Slayton is signing with the Indianapolis Colts, per Tom Pelissero of The Ringer. The 29-year-old spent his first seven NFL seasons with the New York Giants, but was released by New York following training camp. With his skill set as a downfield threat, Slayton profiles as the replacement for injured Colts wideout Alec Pierce (heel). Pierce suffered a heel injury in Indianapolis' Week 2 loss to the Kansas City Chiefs that is expected to keep him out for several weeks. Across 14 games (12 starts) with the Giants in 2025, Slayton recorded 37 catches for 538 yards and one touchdown on 63 targets. He has plenty of experience catching passes from Colts quarterback Daniel Jones, as the two played together for six seasons with the Giants. In deeper leagues, Slayton could be worth a look on the waiver wire for fantasy managers.",
+        "title": "Darius Slayton Signing with the Colts",
+        "topic_id": "1407937442102693888",
+        "url": "https://www.rotoballer.com/player-news/darius-slayton-signing-with-the-colts/1947054"
+      },
+      "nfl_team": "IND",
+      "player_id": "6149",
+      "player_name": "Darius Slayton",
+      "position": "WR",
+      "published": 1790026145000,
+      "source": "rotoballer",
+      "source_key": "221880",
+      "story_id": "nfl|6149|rotoballer|221880|1790026145000",
+      "title": "Darius Slayton Signing with the Colts",
+      "url": "https://www.rotoballer.com/player-news/darius-slayton-signing-with-the-colts/1947054"
+    },
+    {
+      "analysis": null,
       "description": "Indianapolis Colts wide receiver Alec Pierce (heel) is set to miss \"several weeks\" after aggravating a heel injury in his team's Week 2 loss to the Kansas City Chiefs, per Ian Rapoport of NFL Network. Pierce had surgery on the affected heel over the offseason. However, Rapoport reports that Pierce will now attempt to rehab the injury rather than opt for a second procedure. Pierce recorded four catches for 61 yards on six targets in Indianapolis' Week 1 loss to the Baltimore Ravens and one catch for 11 yards against the Chiefs before being forced to leave the game. Pierce was expected to take on a starring role in the Colts' offense after the team handed him a four-year, $114 million contract in March. Without him, Colts wide receiver Josh Downs and tight end Tyler Warren have a chance to dominate target share in Indianapolis. Veteran wide receivers Keenan Allen, Laquon Treadwell, and the recently signed Darius Slayton could see larger roles as well.",
       "metadata": {
         "description": "Indianapolis Colts wide receiver Alec Pierce (heel) is set to miss \"several weeks\" after aggravating a heel injury in his team's Week 2 loss to the Kansas City Chiefs, per Ian Rapoport of NFL Network. Pierce had surgery on the affected heel over the offseason. However, Rapoport reports that Pierce will now attempt to rehab the injury rather than opt for a second procedure. Pierce recorded four catches for 61 yards on six targets in Indianapolis' Week 1 loss to the Baltimore Ravens and one catch for 11 yards against the Chiefs before being forced to leave the game. Pierce was expected to take on a starring role in the Colts' offense after the team handed him a four-year, $114 million contract in March. Without him, Colts wide receiver Josh Downs and tight end Tyler Warren have a chance to dominate target share in Indianapolis. Veteran wide receivers Keenan Allen, Laquon Treadwell, and the recently signed Darius Slayton could see larger roles as well.",
@@ -4254,6 +4480,27 @@
       "url": null
     },
     {
+      "analysis": "Mariota will once again be tasked with stepping behind center for head coach Dan Quinn after Jayden Daniels (elbow) went down in a Week 2 loss to the Dallas Cowboys, facing a Seattle Seahawks defense that has been disruptive once again to begin they season.",
+      "description": "Marcus Mariota is expected to start at quarterback for the Washington Commanders in Week 3 according to Adam Schefter.",
+      "metadata": {
+        "analysis": "Mariota will once again be tasked with stepping behind center for head coach Dan Quinn after Jayden Daniels (elbow) went down in a Week 2 loss to the Dallas Cowboys, facing a Seattle Seahawks defense that has been disruptive once again to begin they season.",
+        "description": "Marcus Mariota is expected to start at quarterback for the Washington Commanders in Week 3 according to Adam Schefter.",
+        "title": "Marcus Mariota expected to start at quarterback in Week 3",
+        "topic_id": "1407858060663267328",
+        "url": "https://www.fantasypros.com/nfl/news/609634/marcus-mariota-expected-to-start-quarterback-week-3.php"
+      },
+      "nfl_team": "WAS",
+      "player_id": "2307",
+      "player_name": "Marcus Mariota",
+      "position": "QB",
+      "published": 1790022027706,
+      "source": "fantasy_pros",
+      "source_key": "609634",
+      "story_id": "nfl|2307|fantasy_pros|609634|1790022027706",
+      "title": "Marcus Mariota expected to start at quarterback in Week 3",
+      "url": "https://www.fantasypros.com/nfl/news/609634/marcus-mariota-expected-to-start-quarterback-week-3.php"
+    },
+    {
       "analysis": "While Williams appears to have avoided a significant injury after exiting in the fourth quarter of this past Sunday's 9-3 loss to the Vikings due to a right hamstring strain, Johnson is labeling the third-year signal-caller as week-to-week. The Bears will wait and see how the week unfolds before deciding on Williams' status for the matchup with the Eagles, but unless he defies expectations and practices in some capacity, he appears on track to miss the first game of his career. Tyson Bagent replaced Williams late in the loss to Minnesota and will presumably take all the reps with the first-team offense this week in anticipation of his first start since 2023.",
       "description": "Bears head coach Ben Johnson said that he doesn't anticipate Williams (hamstring) practicing in Week 3, though Johnson was unwilling to officially rule out the quarterback from playing Monday against the Eagles, Sean Hammond of the Chicago Tribune reports.",
       "metadata": {
@@ -4472,6 +4719,26 @@
       "source_key": "638454",
       "story_id": "nfl|11566|rotowire|638454|1790018110000",
       "title": "Jayden Daniels - Undergoes more testing Monday",
+      "url": null
+    },
+    {
+      "analysis": "After Daniels injured his elbow on the Commanders' final snap of the second quarter of Sunday's 37-20 loss to the Cowboys, Mariota directed the offense for the second half and finished with 11 completions on 16 attempts for 111 yards and a touchdown to go with three yards on his lone carry. Though a recovery timeline for Daniels has yet to be established while he plans to consult with a number of experts over the next few days before deciding on a treatment plan, the same injury kept him out for seven of the Commanders' final eight games of the 2025 campaign. With that in mind, Mariota could very well be headed for a multi-game run as Washington's starter.",
+      "description": "Mariota is expected to start Sunday's game against Seattle while the Commanders continue to gather more information on the severity of Jayden Daniels' dislocated left elbow, Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "After Daniels injured his elbow on the Commanders' final snap of the second quarter of Sunday's 37-20 loss to the Cowboys, Mariota directed the offense for the second half and finished with 11 completions on 16 attempts for 111 yards and a touchdown to go with three yards on his lone carry. Though a recovery timeline for Daniels has yet to be established while he plans to consult with a number of experts over the next few days before deciding on a treatment plan, the same injury kept him out for seven of the Commanders' final eight games of the 2025 campaign. With that in mind, Mariota could very well be headed for a multi-game run as Washington's starter.",
+        "description": "Mariota is expected to start Sunday's game against Seattle while the Commanders continue to gather more information on the severity of Jayden Daniels' dislocated left elbow, Adam Schefter of ESPN reports.",
+        "title": "Marcus Mariota - Looks set to start Week 3",
+        "topic_id": "1407841696749821952"
+      },
+      "nfl_team": "WAS",
+      "player_id": "2307",
+      "player_name": "Marcus Mariota",
+      "position": "QB",
+      "published": 1790017993000,
+      "source": "rotowire",
+      "source_key": "638453",
+      "story_id": "nfl|2307|rotowire|638453|1790017993000",
+      "title": "Marcus Mariota - Looks set to start Week 3",
       "url": null
     },
     {
@@ -6605,6 +6872,26 @@
       "story_id": "nfl|5022|rotoballer|221823|1789987208000",
       "title": "Dallas Goedert Set to Undergo MRI on Monday",
       "url": "https://www.rotoballer.com/player-news/dallas-goedert-set-to-undergo-mri-on-monday/1946500"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks running back Emanuel Wilson took on an enormous workload in Week 2, making him a high-priority waiver wire target for Week 3 and beyond. The Seahawks cruised to victory over the Cardinals, prompting them to run the ball 40 times as they looked to drain the clock. Wilson was a big part of that effort, rushing for 92 yards on 21 attempts. It's worth noting that Wilson's role did grow after Jadarian Price (chest) exited in the second half, but he was still well on his way to a substantial workload even before the rookie left the game. Price's status is something to consider when placing a claim for Wilson this week. It's evident the Seahawks want to get Wilson involved no matter what, but he'd likely only get 20+ touches again if Price were to miss a game. The 27-year-old doesn't have much receiving upside, but he's a high-volume running back with decent efficiency numbers and touchdown upside. He should be a priority waiver wire target in Week 3 with the potential to earn a spot in fantasy lineups right away.",
+      "metadata": {
+        "description": "Seattle Seahawks running back Emanuel Wilson took on an enormous workload in Week 2, making him a high-priority waiver wire target for Week 3 and beyond. The Seahawks cruised to victory over the Cardinals, prompting them to run the ball 40 times as they looked to drain the clock. Wilson was a big part of that effort, rushing for 92 yards on 21 attempts. It's worth noting that Wilson's role did grow after Jadarian Price (chest) exited in the second half, but he was still well on his way to a substantial workload even before the rookie left the game. Price's status is something to consider when placing a claim for Wilson this week. It's evident the Seahawks want to get Wilson involved no matter what, but he'd likely only get 20+ touches again if Price were to miss a game. The 27-year-old doesn't have much receiving upside, but he's a high-volume running back with decent efficiency numbers and touchdown upside. He should be a priority waiver wire target in Week 3 with the potential to earn a spot in fantasy lineups right away.",
+        "title": "Emanuel Wilson a Priority Waiver-Wire Target with Teammate Injured",
+        "topic_id": "1407771140503437312",
+        "url": "https://www.rotoballer.com/player-news/emanuel-wilson-a-priority-waiver-wire-target-with-teammate-injured/1946491"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11435",
+      "player_name": "Emanuel Wilson",
+      "position": "RB",
+      "published": 1789986427000,
+      "source": "rotoballer",
+      "source_key": "221822",
+      "story_id": "nfl|11435|rotoballer|221822|1789986427000",
+      "title": "Emanuel Wilson a Priority Waiver-Wire Target with Teammate Injured",
+      "url": "https://www.rotoballer.com/player-news/emanuel-wilson-a-priority-waiver-wire-target-with-teammate-injured/1946491"
     },
     {
       "analysis": "Bryant was shut out just one week after leading the Broncos in receiving. Such is life as a complementary option in a Sean Payton offense. Bryant will be a boom/bust flex option in fantasy heading into Week 3 against the Rams.",
@@ -10072,6 +10359,26 @@
       "story_id": "nfl|10213|rotoballer|221795|1789953007000",
       "title": "Tre Tucker Explodes Beyond the Century Mark in Week 2 Win",
       "url": "https://www.rotoballer.com/player-news/tre-tucker-explodes-beyond-the-century-mark-in-week-2-win/1946190"
+    },
+    {
+      "analysis": "Wilson stepped into a larger workload Week 2, partially due to rookie running back Jadarian Price exiting the game with a chest injury in the fourth quarter. The 92 rushing yards were Wilson's highest total since he notched 107 yards and two scores on 28 totes in Week 12 of the 2025 campaign while with the Packers. Wilson could handle the lion's share of touches in the backfield against the Commanders in Week 3 if Price is forced to miss the contest.",
+      "description": "Wilson rushed 21 times for 92 yards and failed to catch his only target in Sunday's 31-7 win over Arizona.",
+      "metadata": {
+        "analysis": "Wilson stepped into a larger workload Week 2, partially due to rookie running back Jadarian Price exiting the game with a chest injury in the fourth quarter. The 92 rushing yards were Wilson's highest total since he notched 107 yards and two scores on 28 totes in Week 12 of the 2025 campaign while with the Packers. Wilson could handle the lion's share of touches in the backfield against the Commanders in Week 3 if Price is forced to miss the contest.",
+        "description": "Wilson rushed 21 times for 92 yards and failed to catch his only target in Sunday's 31-7 win over Arizona.",
+        "title": "Emanuel Wilson - Notches 21 carries in victory",
+        "topic_id": "1407568786680233984"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11435",
+      "player_name": "Emanuel Wilson",
+      "position": "RB",
+      "published": 1789952847000,
+      "source": "rotowire",
+      "source_key": "638368",
+      "story_id": "nfl|11435|rotowire|638368|1789952847000",
+      "title": "Emanuel Wilson - Notches 21 carries in victory",
+      "url": null
     },
     {
       "analysis": "Not a good look for Pierce, who has continued to work his way back from an ankle injury all offseason and up until now. Given how he looked and the way he was unable to put weight on it, it's unlikely he will return to the game, but time will tell. Fantasy managers will need to monitor the situation closely.",
@@ -90865,66 +91172,6 @@
       "story_id": "nfl|4017|rotoballer|219269|1787566453000",
       "title": "Browns Naming Deshaun Watson as Starting Quarterback",
       "url": "https://www.rotoballer.com/player-news/browns-naming-deshaun-watson-as-starting-quarterback/1915113"
-    },
-    {
-      "analysis": null,
-      "description": "New York Giants tight end Theo Johnson was viewed as a player on the rise following a solid second season in which he topped 500 receiving yards and scored five times while developing an obvious rapport with quarterback Jaxson Dart. Unfortunately, the arrival of free agent acquisition Isaiah Likely could see his development plateau, while the return to health of 2024 first-round pick Malik Nabers has the potential to shrink the value of all of the Giants' complementary pass-catchers. Even with Nabers yet to shed his red non-contact jersey and see a full workload, Johnson has had a quiet training camp and is not a player carrying high fantasy expectations into the 2026 season. As RotoBaller's TE41, Johnson is going largely undrafted outside of the deepest multi-tight end leagues and would require an injury ahead of him to find his way back into the weekly streaming conversation in most formats.",
-      "metadata": {
-        "description": "New York Giants tight end Theo Johnson was viewed as a player on the rise following a solid second season in which he topped 500 receiving yards and scored five times while developing an obvious rapport with quarterback Jaxson Dart. Unfortunately, the arrival of free agent acquisition Isaiah Likely could see his development plateau, while the return to health of 2024 first-round pick Malik Nabers has the potential to shrink the value of all of the Giants' complementary pass-catchers. Even with Nabers yet to shed his red non-contact jersey and see a full workload, Johnson has had a quiet training camp and is not a player carrying high fantasy expectations into the 2026 season. As RotoBaller's TE41, Johnson is going largely undrafted outside of the deepest multi-tight end leagues and would require an injury ahead of him to find his way back into the weekly streaming conversation in most formats.",
-        "title": "Theo Johnson in a Tough Position to Take the Next Step for Fantasy",
-        "topic_id": "1397618131324674048",
-        "url": "https://www.rotoballer.com/player-news/theo-johnson-in-a-tough-position-to-take-the-next-step-for-fantasy/1915102"
-      },
-      "nfl_team": "NYG",
-      "player_id": "11597",
-      "player_name": "Theo Johnson",
-      "position": "TE",
-      "published": 1787565735000,
-      "source": "rotoballer",
-      "source_key": "219268",
-      "story_id": "nfl|11597|rotoballer|219268|1787565735000",
-      "title": "Theo Johnson in a Tough Position to Take the Next Step for Fantasy",
-      "url": "https://www.rotoballer.com/player-news/theo-johnson-in-a-tough-position-to-take-the-next-step-for-fantasy/1915102"
-    },
-    {
-      "analysis": null,
-      "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. quietly put together one of the position's most efficient seasons in his final year with the Commanders, routinely churning through contact to find additional yards over expectation. Reconnecting with his former collegiate offensive coordinator after signing a two-year free agent deal, there is an expectation that Rodriguez can earn a meaningful role near the goal line, as Liam Coen, now the Jaguars' head coach, has witnessed first-hand the difficulty defenders have in bringing him to the ground. Offseason foot surgery caused Rodriguez to miss all of OTAs and minicamp, allowing second-year back Bhayshul Tuten to gain steam in the competition to replace the 307 vacated opportunities of Travis Etienne Jr. from a season ago. Still, both backs could see heavy involvement in 2026, with their complementary skill sets providing each with a path to fantasy relevance. While a true committee will cap both players' ceiling, Rodriguez's touchdown upside still makes him a strong potential value, currently being drafted as the RB47.",
-      "metadata": {
-        "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. quietly put together one of the position's most efficient seasons in his final year with the Commanders, routinely churning through contact to find additional yards over expectation. Reconnecting with his former collegiate offensive coordinator after signing a two-year free agent deal, there is an expectation that Rodriguez can earn a meaningful role near the goal line, as Liam Coen, now the Jaguars' head coach, has witnessed first-hand the difficulty defenders have in bringing him to the ground. Offseason foot surgery caused Rodriguez to miss all of OTAs and minicamp, allowing second-year back Bhayshul Tuten to gain steam in the competition to replace the 307 vacated opportunities of Travis Etienne Jr. from a season ago. Still, both backs could see heavy involvement in 2026, with their complementary skill sets providing each with a path to fantasy relevance. While a true committee will cap both players' ceiling, Rodriguez's touchdown upside still makes him a strong potential value, currently being drafted as the RB47.",
-        "title": "Chris Rodriguez Jr. Can Find Weekly Fantasy Relevance",
-        "topic_id": "1397610580784742400",
-        "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-can-find-weekly-fantasy-relevance-through-efficiency-and-goal-line-usage/1915071"
-      },
-      "nfl_team": "JAX",
-      "player_id": "10219",
-      "player_name": "Chris Rodriguez",
-      "position": "RB",
-      "published": 1787564255000,
-      "source": "rotoballer",
-      "source_key": "219266",
-      "story_id": "nfl|10219|rotoballer|219266|1787564255000",
-      "title": "Chris Rodriguez Jr. Can Find Weekly Fantasy Relevance",
-      "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-can-find-weekly-fantasy-relevance-through-efficiency-and-goal-line-usage/1915071"
-    },
-    {
-      "analysis": null,
-      "description": "Second-year tight end Elijah Arroyo caught the final two passes of Seattle's opening drive in Sunday night's preseason matchup with the Titans, quickly moving the Seahawks from midfield into the end zone. Arroyo caught a 14-yard pass from quarterback Drew Lock on a play designed to motion him into space before the two connected on a 36-yard touchdown strike on the next play. After catching only 15 passes as a rookie, Arroyo has been a training camp standout for the defending Super Bowl champions, and he could find the field frequently in Seattle's tight end-heavy offense, potentially pushing 2025 breakout AJ Barner for some of the more valuable opportunities at the position. With the NFL trending toward more 12 and 13 personnel usage, there is no shortage of draftable fantasy tight ends, so Arroyo is not a player who needs to be targeted as RotoBaller's TE46, but if he can carry the momentum of a solid summer into the regular season, he could quickly work his way into the streaming conversation.",
-      "metadata": {
-        "description": "Second-year tight end Elijah Arroyo caught the final two passes of Seattle's opening drive in Sunday night's preseason matchup with the Titans, quickly moving the Seahawks from midfield into the end zone. Arroyo caught a 14-yard pass from quarterback Drew Lock on a play designed to motion him into space before the two connected on a 36-yard touchdown strike on the next play. After catching only 15 passes as a rookie, Arroyo has been a training camp standout for the defending Super Bowl champions, and he could find the field frequently in Seattle's tight end-heavy offense, potentially pushing 2025 breakout AJ Barner for some of the more valuable opportunities at the position. With the NFL trending toward more 12 and 13 personnel usage, there is no shortage of draftable fantasy tight ends, so Arroyo is not a player who needs to be targeted as RotoBaller's TE46, but if he can carry the momentum of a solid summer into the regular season, he could quickly work his way into the streaming conversation.",
-        "title": "Elijah Arroyo Punctuates Strong Summer with a Long Touchdown",
-        "topic_id": "1397605547817091072",
-        "url": "https://www.rotoballer.com/player-news/elijah-arroyo-punctuates-strong-summer-with-a-long-touchdown/1915014"
-      },
-      "nfl_team": "SEA",
-      "player_id": "12521",
-      "player_name": "Elijah Arroyo",
-      "position": "TE",
-      "published": 1787562785000,
-      "source": "rotoballer",
-      "source_key": "219264",
-      "story_id": "nfl|12521|rotoballer|219264|1787562785000",
-      "title": "Elijah Arroyo Punctuates Strong Summer with a Long Touchdown",
-      "url": "https://www.rotoballer.com/player-news/elijah-arroyo-punctuates-strong-summer-with-a-long-touchdown/1915014"
     }
   ]
 }
