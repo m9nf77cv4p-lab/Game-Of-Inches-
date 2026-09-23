@@ -2,57 +2,91 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **4485**
-- Newly captured: **17**
+- Stored stories: **4490**
+- Newly captured: **15**
 
 ## Latest news
 
-- **NEW — Jayden Reed** — Jayden Reed - Back in Green Bay, still without timeline (2026-09-22T22:16:25Z)
-  - After taking a hit to the head and neck area at the end of a four-yard gain on a swing pass early in the first quarter of Sunday's 20-17 overtime win over the Jets, Reed was carted off the field on a backboard and taken to a New Jersey hospital. Though a previous report suggested that Reed sustained a back injury, LaFleur clarified Tuesday that the injury is isolated to the receiver's neck area.
-- **NEW — Rico Dowdle** — Rico Dowdle - Viewed as day-to-day (2026-09-22T21:43:09Z)
+- **NEW — Chris Brooks** — Chris Brooks - Remains involved in crowded backfield (2026-09-23T00:31:54Z)
+  - Brooks was on the field for 27 of the Packers'  59 offensive snaps in Week 2, with Kaleb Johnson and MarShawn Lloyd each logging 16. However, Brooks ceded carries to both players, and he tied Lloyd with two targets. The 26-year-old has totaled 40 yards off 11 carries (3.6 YPC), adding one catch for 15 yards in his two regular-season appearances in 2026. While Josh Jacobs (personal) sits on the Commissioner's Exempt List, there will continue to be opportunities for Brooks, Lloyd and Johnson, though it appears head coach Matt LaFleur is content with a timeshare, lowering the ceiling for all of them moving ahead, including the Week 3 meeting with Atlanta.
+- **NEW — Tory Horton** — Tory Horton - No offensive output in Week 2 (2026-09-23T00:23:44Z)
+  - Horton made his 2026 regular-season debut Sunday after being a healthy scratch for the Seahawks' Week 1 win over the Patriots. The second-year pro didn't end up seeing a target from Drew Lock, and Horton's offensive production will continue to be limited while working behind Jaxon Smith-Njigba, Rashid Shaheed, Cooper Kupp and tight end AJ Barner in the passing game. The Seahawks will look to stay undefeated in a Week 3 road tilt against the Commanders on Sept. 27.
+- **NEW — Ollie Gordon** — Ollie Gordon - Rushes for seven yards in Week 2 loss (2026-09-23T00:22:58Z)
+  - The running back wasn't targeted in the passing game and saw some increased action after Jaylen Wright exited the game with a neck stinger. Neither back has much fantasy value outside of being an end-of-bench stash in the event something happens to De'Von Achane. The offense is bad enough that neither Gordon nor Wright would even be useful if Achane did go down.
+- **NEW — Cyrus Allen** — Cyrus Allen - Six snaps in overtime win (2026-09-23T00:21:31Z)
+  - Allen struggled to find the field despite being listed as the Chiefs' No. 4 wide receiver. The team has taken to 12-personnel packages with Travis Kelce and Noah Gray as it leans into the run game that Super Bowl MVP Kenneth Walker can provide. This offensive strategy leaves little room for the fifth-round rookie to see the field, though he could be featured more as the season continues.
+- **NEW — Elijah Arroyo** — Elijah Arroyo - One snag in victory (2026-09-23T00:19:05Z)
+  - Arroyo was on the field for just 15 of the team's 70 offensive snaps, but he was at least able to secure his first catch of the year in the victory. The tight end logged 13 snaps with the special-teams unit, and at this point, he doesn't have any fantasy appeal.
+- **NEW — Jayden Reed** — Jayden Reed (neck) uncertain on returning this season (2026-09-23T00:15:11.022000Z)
+  - LaFleur clarified it was a neck injury for Reed as reports have continued to go back-and-forth between a neck and back injury. Reed is back in Green Bay and is going through a series of tests.
+  - Source: https://www.fantasypros.com/nfl/news/609906/jayden-reed-neck-uncertain-on-returning-this-season.php
+- **NEW — Brock Bowers** — Brock Bowers (knee) 'expected' to return in Week 3  (2026-09-23T00:10:10.695000Z)
+  - It was previously reported that Bowers was expected to practice this week after he returned to practice last Friday. His status will need to be monitored in practice throughout the week. 
+  - Source: https://www.fantasypros.com/nfl/news/609903/brock-bowers-knee-expected-to-return-week-3.php
+- **NEW — Sam Darnold** — Sam Darnold (glute) 'has a chance' to return in Week 3 (2026-09-23T00:10:10.683000Z)
+  - Darnold is expected to return to practice this week. Drew Lock is still likely to start another game, but it is a positive report on Darnold nonetheless. 
+  - Source: https://www.fantasypros.com/nfl/news/609904/sam-darnold-glute-has-chance-to-return-week-3.php
+- **NEW — Sam Darnold** — Sam Darnold - Will practice Wednesday (2026-09-22T23:30:49Z)
+  - The Seahawks quarterback has been trending toward a return after coach Mike Macdonald said Sunday that Darnold was ahead of schedule in his recovery. With Darnold now set to get back on the practice field, he appears to be taking a key step toward potential Week 3 availability against Washington. His practice status throughout the week should provide more clarity on whether he's on track to return or if Drew Lock will be in line for another start.
+- **NEW — Darnell Mooney** — Darnell Mooney - Leading receiver in loss (2026-09-22T23:26:27Z)
+  - Mooney led the team with 48 receiving yards in what was a disappointing outing for New York's offense. Starting quarterback Jaxson Dart suffered a knee injury on the first possession of the game, and he is expected to be sidelined for the foreseeable future. Mooney will look to continue to build chemistry with new starter Jameis Winston in Week 3 against the Titans.
+- **NEW — Devin Singletary** — Devin Singletary - Three touches during MNF (2026-09-22T23:19:35Z)
+  - Singletary took a step back in production after showing off his dual-threat abilities in Week 1 against the Cowboys, failing to garner a target versus Los Angeles. The running back finished second in the backfield with 15 offensive snaps behind Cam Skattebo (34), but more importantly ahead of Najee Harris (8), who was making his regular-season debut. Singletary will remain an unappealing fantasy option as long as Skattebo is active.
+- **NEW — Najee Harris** — Najee Harris - Logs four carries in NYG debut (2026-09-22T23:19:03Z)
+  - Harris was a healthy scratch for Week 1 against the Cowboys, but the sixth-year pro suited up for Monday's loss. He ended up playing eight offensive snaps, well behind Cam Skattebo (34) and Devin Singletary (15), though noticeably ahead of Tyrone Tracy (one). Harris figures to be the Giants' RB3 for the time being, though his role would expand if one or both of Skattebo and Singletary were to miss time. Up next for the Giants is a Week 3 home tilt against the Titans on Sunday.
+- **NEW — Tyrone Tracy** — Tyrone Tracy - Loses spot in backfield rotation (2026-09-22T23:10:10Z)
+  - Tracy's lone offensive play -- a carry on which he lost three yards in the fourth quarter -- didn't end up counting due to a penalty. The third-year running back did play 16 snaps on special teams and returned two kickoffs for 52 yards. That appears to be Tracy's path to playing time at the moment, as he is firmly behind Cam Skattebo, Devin Singletary and Najee Harris in the backfield pecking order.
+- **NEW — Rico Dowdle** — Rico Dowdle (toe) day-to-day  (2026-09-22T22:35:10.257000Z)
+  - Dowdle was carted to the locker room on Sunday with the injury. He checked out "relatively OK" following tests. 
+  - Source: https://www.fantasypros.com/nfl/news/609890/rico-dowdle-toe-day-to-day.php
+- **Jayden Reed** — Jayden Reed - Back in Green Bay, still without timeline (2026-09-22T22:16:25Z)
+  - After he appeared to take a hit to the head and neck area at the end of a four-yard gain on a swing pass early in the first quarter of Sunday's 20-17 overtime win over the Jets, Reed was carted off the field on a backboard and taken to a New Jersey hospital, where he remained overnight. Though a previous report suggested that Reed sustained a back injury, LaFleur clarified Tuesday that the injury is isolated to the receiver's neck area. LaFleur noted that Reed was in good spirits upon returning to Green Bay, but the coach acknowledged that it's still "way too early" to know whether the wideout has a chance of playing again this season until he completes more medical tests, per Rob Demovsky of ESPN.com. The Packers are expected to officially rule Reed out for Thursday's game against the Falcons following the release of their final Week 3 injury report Wednesday.
+- **Rico Dowdle** — Rico Dowdle - Viewed as day-to-day (2026-09-22T21:43:09Z)
   - Dowdle was carted to the locker room during the second half of Sunday's 20-3 loss to the Patriots, but he appears to have avoided a significant injury. That said, Dowdle's practice participation will warrant monitoring throughout the week before his availability for Sunday's game against the Bengals is determined. If Dowdle ends up sitting out the Week 3 contest, Jaylen Warren could be in store for a sizable three-down role out of the Pittsburgh backfield.
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa (oblique) logs full practice Tuesday  (2026-09-22T20:55:02.396000Z)
+- **Tua Tagovailoa** — Tua Tagovailoa (oblique) logs full practice Tuesday  (2026-09-22T20:55:02.396000Z)
   - Tagovailoa has missd the first two weeks of the season due to an oblique injury. Michael Penix Jr. was already named the starter, so Tagovailoa would figure to back him up if he is cleared. 
   - Source: https://www.fantasypros.com/nfl/news/609858/tua-tagovailoa-oblique-logs-full-practice-tuesday.php
-- **NEW — Brian Robinson** — Brian Robinson Jr. (ankle) logs full practice Tuesday  (2026-09-22T20:55:02.381000Z)
+- **Brian Robinson** — Brian Robinson Jr. (ankle) logs full practice Tuesday  (2026-09-22T20:55:02.381000Z)
   - Robinson is dealing with an ankle injury. He is on track to be good to go in his backup role on Thursday against the Packers. 
   - Source: https://www.fantasypros.com/nfl/news/609859/brian-robinson-jr-ankle-logs-full-practice-tuesday.php
-- **NEW — Jayden Reed** — Jayden Reed - Spectator for practice Tuesday (2026-09-22T20:48:48Z)
+- **Jayden Reed** — Jayden Reed - Spectator for practice Tuesday (2026-09-22T20:48:48Z)
   - Per Matt Schneidman of The Athletic, Reed flew back to Green Bay after he was hospitalized overnight in New Jersey following Sunday's 20-17 overtime win over the Jets. He exited on the Packers' opening possession of that game due to a neck injury and needed to be stretchered off the field before he was taken to a hospital. Packers head coach Matt LaFleur has yet to provide a timeline for Reed's return to action, but at the very least, the fourth-year wideout appears unlikely to play Thursday versus the Falcons.
-- **NEW — Jordan Love** — Jordan Love says elbow is non-issue for Week 3 (2026-09-22T20:45:02.920000Z)
+- **Jordan Love** — Jordan Love says elbow is non-issue for Week 3 (2026-09-22T20:45:02.920000Z)
   - Love said discomfort in his elbow went away before Jets game ended. He indicated the elbow is a non-issue for the Falcons game, even on a short week.
   - Source: https://www.fantasypros.com/nfl/news/609851/jordan-love-says-elbow-is-non-issue-week-3.php
-- **NEW — Brian Robinson** — Brian Robinson - Upgrades to full activity (2026-09-22T20:12:12Z)
+- **Brian Robinson** — Brian Robinson - Upgrades to full activity (2026-09-22T20:12:12Z)
   - Listed as a limited participant for Atlanta's walk-through session Monday, Robinson was able to take every rep during Tuesday's session to clear up any concern about his availability heading into Thursday's game at Green Bay. While working in a backup role behind Bijan Robinson for the Falcons' first two games, Brian Robinson has carried 20 times for 82 yards and has recorded two receptions for 16 yards.
-- **NEW — Tua Tagovailoa** — Tua Tagovailoa - Turns in full practice (2026-09-22T20:08:02Z)
+- **NEW — Brock Bowers** — Brock Bowers Expected to Make Season Debut in Week 3 (2026-09-22T20:10:06Z)
+  - Source: https://www.rotoballer.com/player-news/brock-bowers-expected-to-make-season-debut-in-week-3/1947942
+- **Tua Tagovailoa** — Tua Tagovailoa - Turns in full practice (2026-09-22T20:08:02Z)
   - Tagovailoa took part in his first full practice since Sept. 9, after he sustained an oblique injury a day later that kept him from playing in either of the Falcons' first two games of the season. The 28-year-old had been poised to direct the offense for Atlanta in Week 1 before the oblique injury cropped up, but he'll now have to settle for the No. 2 role with Michael Penix (knee) getting cleared to make his 2026 debut as the team's starting quarterback Thursday versus the Packers.
 - **Jaxson Dart** — Jaxson Dart (knee) testing reveals knee injury could be season-ending (2026-09-22T18:51:01.450000Z)
   - Dart went down early in the first quarter with a knee injury, and did not return despite pushing to come back into the game. Now with testing revealing that his injuries could be season-ending, it's a massive blow to fantasy managers. Jameis Winston looked shell shocked for the majority of his snaps, a far cry from the Jameis we've come to know and love over the past few seasons. There are a few comforts we can take from his performance, one is the fact that top WR Malik Nabers hurt his shoulder and was playing through pain. The other is that he will not have to face the Rams pass rush again this season. He could still be a streaming option if Dart is out, but don't start him right away as we want to see a bit more promise of a bounce back first.
   - Source: https://www.fantasypros.com/nfl/news/609840/jaxson-dart-knee-testing-reveals-knee-injury-could-be-season-ending.php
 - **Jaxson Dart** — Jaxson Dart - May need season-ending surgery (2026-09-22T18:50:50Z)
   - The Giants had previously been optimistic that Dart would avoid an extended absence after initial scans following Monday's game suggested that he sustained an MCL sprain in his knee, but follow-up tests appear to have revealed more significant damage. Dart is likely to seek out additional medical opinions before deciding on a treatment plan for his injury, but if surgery is deemed necessary, he would likely be lost for the remainder of the 2026 campaign. Jameis Winston is poised to direct the Giants offense in Week 3 versus the Titans and could be in line for an extended run as the team's starting quarterback.
-- **NEW — Rico Dowdle** — Rico Dowdle Considered Day-to-Day With Toe Injury (2026-09-22T17:45:05Z)
+- **Rico Dowdle** — Rico Dowdle Considered Day-to-Day With Toe Injury (2026-09-22T17:45:05Z)
   - Source: https://www.rotoballer.com/player-news/rico-dowdle-considered-day-to-day-with-toe-injury/1947861
-- **NEW — Jayden Reed** — Jayden Reed Missing Another Practice (2026-09-22T17:10:06Z)
+- **Jayden Reed** — Jayden Reed Missing Another Practice (2026-09-22T17:10:06Z)
   - Source: https://www.rotoballer.com/player-news/jayden-reed-missing-another-practice/1947799
-- **NEW — Pat Freiermuth** — Pat Freiermuth an Under-the-Radar Waiver-Wire Target Ahead of Week 3 (2026-09-22T16:57:10Z)
+- **Pat Freiermuth** — Pat Freiermuth an Under-the-Radar Waiver-Wire Target Ahead of Week 3 (2026-09-22T16:57:10Z)
   - Source: https://www.rotoballer.com/player-news/pat-freiermuth-an-under-the-radar-waiver-wire-target-ahead-of-week-3/1947784
-- **NEW — Jacoby Brissett** — Jacoby Brissett Back in the Streaming Conversation Heading into Week 3 (2026-09-22T16:46:06Z)
+- **Jacoby Brissett** — Jacoby Brissett Back in the Streaming Conversation Heading into Week 3 (2026-09-22T16:46:06Z)
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-back-in-the-streaming-conversation-heading-into-week-3/1947772
-- **NEW — Chris Brooks** — Chris Brooks Still Worth Stashing Despite Underwhelming Production? (2026-09-22T16:37:07Z)
+- **Chris Brooks** — Chris Brooks Still Worth Stashing Despite Underwhelming Production? (2026-09-22T16:37:07Z)
   - Source: https://www.rotoballer.com/player-news/chris-brooks-still-worth-stashing-despite-underwhelming-production-through-two-games/1947760
-- **NEW — Marvin Harrison** — Cardinals Not Looking to Manufacture Touches for Marvin Harrison Jr.? (2026-09-22T16:29:05Z)
+- **Marvin Harrison** — Cardinals Not Looking to Manufacture Touches for Marvin Harrison Jr.? (2026-09-22T16:29:05Z)
   - Source: https://www.rotoballer.com/player-news/cardinals-not-looking-to-manufacture-touches-for-marvin-harrison-jr/1947751
-- **NEW — Brian Robinson** — Brian Robinson Returns to Full Practice on Tuesday (2026-09-22T16:22:06Z)
+- **Brian Robinson** — Brian Robinson Returns to Full Practice on Tuesday (2026-09-22T16:22:06Z)
   - Source: https://www.rotoballer.com/player-news/brian-robinson-returns-to-full-practice-on-tuesday/1947744
 - **Puka Nacua** — Puka Nacua (hip) uncertain for Week 3 (2026-09-22T16:11:01.129000Z)
   - McVay said he's "hopeful" Nacua will be able to suit up against Denver next week. If he remains sidelined, Davante Adams and Terrance Ferguson would remain in bigger roles. 
   - Source: https://www.fantasypros.com/nfl/news/609816/puka-nacua-hip-uncertain-week-3.php
-- **NEW — J.K. Dobbins** — J.K. Dobbins Battled Leg Cramps in Week 2 (2026-09-22T16:10:10Z)
+- **J.K. Dobbins** — J.K. Dobbins Battled Leg Cramps in Week 2 (2026-09-22T16:10:10Z)
   - Source: https://www.rotoballer.com/player-news/j-k-dobbins-battled-leg-cramps-in-week-2/1947735
 - **Puka Nacua** — Puka Nacua - Status uncertain heading into Week 3 (2026-09-22T15:38:41Z)
   - Nacua was inactive for Monday's 28-6 win over the Giants due to groin soreness, an issue that kept him from practicing Friday and Saturday. Though McVay is hopeful that the star wideout's absence will be contained to one game, Nacua's status for Week 3 will be murky until he's able to get back on the practice field. While Nacua was sidelined for the Week 2 win, Davante Adams stepped in as quarterback Matthew Stafford's top target and finished with a magnificent 8-195-2 receiving line.
-- **NEW — Kenyon Sadiq** — Kenyon Sadiq Could See More Work in Week 3 (2026-09-22T15:30:07Z)
+- **Kenyon Sadiq** — Kenyon Sadiq Could See More Work in Week 3 (2026-09-22T15:30:07Z)
   - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-could-see-more-work-in-week-3/1947699
 - **Kaleb Johnson** — Kaleb Johnson Earns Praise After Week 2 Showing (2026-09-22T15:21:10Z)
   - Source: https://www.rotoballer.com/player-news/kaleb-johnson-earns-praise-after-week-2-showing/1947688
@@ -196,40 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Kupp wasn't very productive, but that was the case for all of Seattle's wideouts aside from Jaxon Smith-Njigba, who dominated with nine catches for 155 yards and one touchdown. The only other Seahawks player to log more than Kupp's two targets was Rashid Shaheed, who put up a 3-35-0 line on six targets. Through two weeks, Kupp has tallied a modest four receptions for 55 yards. With Smith-Njigba dominating the targets in Seattle's passing game, Kupp may struggle to put up consistent production this season.
 - **Zachariah Branch** — Zachariah Branch - Catches both targets in loss (2026-09-22T02:56:40Z)
   - Branch saw 14 offensive snaps and 11 special-teams snaps in Sunday's contest. The wide receiver had a better Week 2 performance after not showing up in the box score for the Falcons' Week 1 loss to the Steelers. Branch remains the No. 1 punt returner for the team as well as a depth option at wide receiver.
-- **Rashid Shaheed** — Rashid Shaheed - Three catches in blowout win (2026-09-22T02:47:35Z)
-  - Shaheed found himself more involved as a pass-catcher during Week 2, finishing second on the team in both targets and catches behind Jaxon Smith-Njigba both categories. The wide receiver logged 39 snaps on offense, which was nine more than Cooper Kupp (30) in the contest. Shaheed will look to continue to establish himself as the No. 2 option at wide receiver Week 3 versus the Commanders.
-- **Justice Hill** — Justice Hill - Two carries and two targets in loss (2026-09-22T02:32:19Z)
-  - Hill was on the field for 27 of the Ravens' 58 offensive snaps. The running back saw usage in both the run and pass offenses, providing a fast contrast to Derrick Henry's bulk. It appears the new Ravens offense wants to utilize Hill at a higher rate, potentially to rest the 32-year-old Henry more frequently.
-- **Jason Myers** — Jason Myers hits four PATs in win over Arizona (2026-09-22T02:30:55.834000Z)
-  - Myers has had seven kicking points in each of his first two games, a solid total. He's going to continue to be productive thanks to the Seahawks offense being as potent as it is.
-  - Source: https://www.fantasypros.com/nfl/news/609711/jason-myers-hits-four-pats-win-over-arizona.php
-- **Demond Claiborne** — Demond Claiborne - Minimal usage in win (2026-09-22T02:22:54Z)
-  - Claiborne is the No. 2 running back behind Aaron Jones while Jordan Mason (thumb) recovers on IR. The 22-year-old saw just two offensive snaps in Sunday's game, meaning DeeJay Dallas could have a shot at claiming the backup role from the sixth-rounder in the future.
-- **AJ Barner** — AJ Barner - Rushing touchdown in win (2026-09-22T02:22:34Z)
-  - Barner was on the field for 56 of the team's 70 total offensive snaps, but he left his mark on the game in the third quarter, punching the ball in from one yard out on a direct snap. The tight end has yet to find his stride as pass-catcher this season, reeling in all three of his targets for 21 yards over the team's first two games.
-- **Cooper Kupp** — Cooper Kupp snags two passes in win (2026-09-22T02:20:55.533000Z)
-  - Kupp was third on the team in yards and targets, but that didn't amount to much. He's best left on the bench or on waivers.
-  - Source: https://www.fantasypros.com/nfl/news/609709/cooper-kupp-snags-two-passes-win.php
-- **Elijah Arroyo** — Elijah Arroyo snags one pass in win (2026-09-22T02:20:55.518000Z)
-  - Arroyo was uninvolved in the game plan, but came up with the splash play. He's not worth rostering at this moment.
-  - Source: https://www.fantasypros.com/nfl/news/609710/elijah-arroyo-snags-one-pass-win.php
-- **Braelon Allen** — Braelon Allen - Scores in overtime loss (2026-09-22T02:11:49Z)
-  - Allen scored a touchdown in the second quarter of Sunday's game on a five-yard rush. The running back played 23 offensive snaps in the contest, seeing supplemental volume behind No. 1 running back Breece Hall's 47 snaps and 16 carries.
-- **Jaxson Dart** — Jaxson Dart (knee) ruled out for rest of Monday Night Football (2026-09-22T02:10:55.711000Z)
-  - Dart went down early in the first quarter against the Rams after getting sandwiched between two defenders. From the information on the broadcast, it does sound like Dart is OK, but he is being held out as they do further testing on his knee.
-  - Source: https://www.fantasypros.com/nfl/news/609707/jaxson-dart-knee-ruled-out-rest-monday-night-football.php
-- **AJ Barner** — AJ Barner runs in touchdown in win over Cardinals (2026-09-22T02:10:55.694000Z)
-  - Barner's fantasy day was saved by the touchdown, as he hasn't gotten much volume to start the season. He's touchdown-or-bust right now and is best left on the bench or on waivers.
-  - Source: https://www.fantasypros.com/nfl/news/609708/aj-barner-runs-touchdown-win-over-cardinals.php
-- **Kenyon Sadiq** — Kenyon Sadiq - Two snags in loss (2026-09-22T02:09:14Z)
-  - Sadiq was only on the field for 27 of the team's 74 offensive snaps, but he was able to record multiple catches for the second game in a row to open his career. The most notable development of the game for Sadiq came in the second half when starting tight end Mason Taylor suffered a thumb injury. If Taylor is unavailable for Week 3, Sadiq would stand to operate as the Jets' unquestioned top option at tight end against the Lions' porous secondary.
-- **Tre' Harris** — Tre' Harris - Secures long catch in loss (2026-09-22T02:03:38Z)
-  - Harris was the Chargers' only starting wide receiver in the contest with Ladd McConkey dealing with a ribs injury. Harris played 56 of the team's 68 offensive snaps, which was more than the next closest wide receivers Quentin Johnston (55) and McConkey (31). The 24-year-old wasn't able to rack up the catches, but he did make a major splash with his one snag, connecting with Justin Herbert for a 53-yard catch and run in the third quarter. Harris has now caught four of nine targets for 73 yards over the team's first two games of the season.
-- **Rashid Shaheed** — Rashid Shaheed goes for 39 yards in win (2026-09-22T02:00:55.796000Z)
-  - Shaheed was second on the team in targets, but it all amounted to less than a quarter of the yards teammate Jaxon Smith-Njigba had on his 11 targets. Shaheed can have some spike performances, but especially with Drew Lock being more conservative and locked onto JSN, he's more of a flex play at best right now.
-  - Source: https://www.fantasypros.com/nfl/news/609706/rashid-shaheed-goes-39-yards-win.php
-- **Keaton Mitchell** — Keaton Mitchell - Efficient with limited touches (2026-09-22T01:55:47Z)
-  - Mitchell operated as a distant No. 2 option in the backfield, logging 17 snaps on offense while starter Omarion Hampton was on the field for 43 of the team's 68 offensive snaps. Mitchell was able to make the most of his opportunities, averaging 4.8 YPC while reeling in his first catch of the season. The running back also added 47 yards on two kickoff returns in the contest. Mitchell has shown enough to be worth a stash in deeper fantasy leagues, but he will continue to have a limited ceiling as long as Hampton is active.
-- **Malik Nabers** — Malik Nabers (shoulder) returns to Monday Night Football (2026-09-22T01:20:55.448000Z)
-  - Nabers was initially questionable to return with a shoulder injury that appeared to put him in a lot of pain. However, it seems to be just a stinger, and he's back on the field. It's worth keeping an eye on though, as another hit could put him right back out.
-  - Source: https://www.fantasypros.com/nfl/news/609701/malik-nabers-shoulder-returns-to-monday-night-football.php
