@@ -1,23 +1,13 @@
 {
-  "last_checked_at": "2026-09-23T10:05:08Z",
+  "last_checked_at": "2026-09-23T14:57:47Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 294,
+  "monitored_player_count": 295,
   "new_story_ids": [
-    "nfl|11256|fantasy_pros|609838|1790101861857",
-    "nfl|11256|rotoballer|221936|1790087345000",
-    "nfl|11256|rotowire|638628|1790101095000",
-    "nfl|11435|fantasy_pros|609691|1790038855148",
-    "nfl|11435|rotoballer|221822|1789986427000",
-    "nfl|11435|rotowire|638368|1789952847000",
-    "nfl|2306|fantasy_pros|609807|1790079659256",
-    "nfl|2306|rotowire|638613|1790049881000",
-    "nfl|2306|rotowire|638632|1790104098000",
-    "nfl|2307|fantasy_pros|609634|1790022027706",
-    "nfl|2307|rotoballer|221935|1790086865000",
-    "nfl|2307|rotowire|638453|1790017993000",
-    "nfl|6149|fantasy_pros|609698|1790039455716",
-    "nfl|6149|rotoballer|221880|1790026145000",
-    "nfl|6149|rotowire|638562|1790039571000"
+    "nfl|11583|fantasy_pros|609949|1790163615544",
+    "nfl|11583|rotowire|638800|1790169035000",
+    "nfl|11583|rotowire|638802|1790171320000",
+    "nfl|12495|fantasy_pros|609964|1790171716038",
+    "nfl|7543|fantasy_pros|609962|1790171415980"
   ],
   "schema_version": 1,
   "source": {
@@ -27,6 +17,109 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Gordon didn't play much on Sunday, seeing just three touches in Miami's three-score loss to the 49ers. He hasn't shown much involvement at all over the first two weeks of the season, so fantasy managers shouldn't consider rostering him for the foreseeable future.",
+      "description": "Ollie Gordon II rushed the ball three times for seven yards in Sunday's 35-13 loss to the San Francisco 49ers.",
+      "metadata": {
+        "analysis": "Gordon didn't play much on Sunday, seeing just three touches in Miami's three-score loss to the 49ers. He hasn't shown much involvement at all over the first two weeks of the season, so fantasy managers shouldn't consider rostering him for the foreseeable future.",
+        "description": "Ollie Gordon II rushed the ball three times for seven yards in Sunday's 35-13 loss to the San Francisco 49ers.",
+        "title": "Ollie Gordon II uninvolved in loss Sunday",
+        "topic_id": "1408485899028680704",
+        "url": "https://www.fantasypros.com/nfl/news/609964/ollie-gordon-ii-uninvolved-loss-sunday.php"
+      },
+      "nfl_team": "MIA",
+      "player_id": "12495",
+      "player_name": "Ollie Gordon",
+      "position": "RB",
+      "published": 1790171716038,
+      "source": "fantasy_pros",
+      "source_key": "609964",
+      "story_id": "nfl|12495|fantasy_pros|609964|1790171716038",
+      "title": "Ollie Gordon II uninvolved in loss Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/609964/ollie-gordon-ii-uninvolved-loss-sunday.php"
+    },
+    {
+      "analysis": "Week 2 exposed some major concerns for Etienne. Not only did he have a bad game as far as efficiency and fantasy output go, but the return of Alvin Kamara is proving to be a big issue for his fantasy value, as the 31-year old saw one more carry and four more targets in his first game back from injury. Unless this distribution of work changes in the near future, it looks like Etienne is going to have a volatile week-to-week ceiling with the presence of Kamara eating into his workload that much.",
+      "description": "Travis Etienne Jr. rushed the ball eight times for 25 yards and caught two passes for six yards in Sunday's 24-17 win over the Baltimore Ravems.",
+      "metadata": {
+        "analysis": "Week 2 exposed some major concerns for Etienne. Not only did he have a bad game as far as efficiency and fantasy output go, but the return of Alvin Kamara is proving to be a big issue for his fantasy value, as the 31-year old saw one more carry and four more targets in his first game back from injury. Unless this distribution of work changes in the near future, it looks like Etienne is going to have a volatile week-to-week ceiling with the presence of Kamara eating into his workload that much.",
+        "description": "Travis Etienne Jr. rushed the ball eight times for 25 yards and caught two passes for six yards in Sunday's 24-17 win over the Baltimore Ravems.",
+        "title": "Travis Etienne Jr. underwhelming in win Sunday",
+        "topic_id": "1408484640494243840",
+        "url": "https://www.fantasypros.com/nfl/news/609962/travis-etienne-jr-underwhelming-win-sunday.php"
+      },
+      "nfl_team": "NO",
+      "player_id": "7543",
+      "player_name": "Travis Etienne",
+      "position": "RB",
+      "published": 1790171415980,
+      "source": "fantasy_pros",
+      "source_key": "609962",
+      "story_id": "nfl|7543|fantasy_pros|609962|1790171415980",
+      "title": "Travis Etienne Jr. underwhelming in win Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/609962/travis-etienne-jr-underwhelming-win-sunday.php"
+    },
+    {
+      "analysis": "As a result of the transaction, Brooks won't be eligible to play in any of the Panthers' next four games, but he's expected to miss additional time beyond that. Ian Rapoport of NFL Network reported earlier Wednesday that the running back will require surgery to repair a core muscle, which will keep him out for at least six weeks. With Brooks joining Trevor Etienne (ankle) on IR, AJ Dillon is left as the only reserve option on the 53-man roster behind lead back Chuba Hubbard. Carolina has Ahmani Marshall and Anthony Tyus on its practice squad, and the team will work out veteran Austin Ekeler on Wednesday and potentially sign him to bolster its running-back room, per Aaron Wilson of KPRC 2 Houston.",
+      "description": "The Panthers placed Brooks (core) on injured reserve Wednesday, Darin Gantt of the team's official site reports.",
+      "metadata": {
+        "analysis": "As a result of the transaction, Brooks won't be eligible to play in any of the Panthers' next four games, but he's expected to miss additional time beyond that. Ian Rapoport of NFL Network reported earlier Wednesday that the running back will require surgery to repair a core muscle, which will keep him out for at least six weeks. With Brooks joining Trevor Etienne (ankle) on IR, AJ Dillon is left as the only reserve option on the 53-man roster behind lead back Chuba Hubbard. Carolina has Ahmani Marshall and Anthony Tyus on its practice squad, and the team will work out veteran Austin Ekeler on Wednesday and potentially sign him to bolster its running-back room, per Aaron Wilson of KPRC 2 Houston.",
+        "description": "The Panthers placed Brooks (core) on injured reserve Wednesday, Darin Gantt of the team's official site reports.",
+        "title": "Jonathon Brooks - Moved to IR",
+        "topic_id": "1408485894033313792"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1790171320000,
+      "source": "rotowire",
+      "source_key": "638802",
+      "story_id": "nfl|11583|rotowire|638802|1790171320000",
+      "title": "Jonathon Brooks - Moved to IR",
+      "url": null
+    },
+    {
+      "analysis": "Brooks is expected to be officially placed on injured reserve in the coming days after exited this past Sunday's 34-3 win over the Falcons due to what had previously been labeled as a groin injury. With Brooks set to miss time, Chuba Hubbard should be further insulated as the Panthers' No. 1 back, while AJ Dillon is lone healthy backup option on the 53-man roster. Aaron Wilson of KPRC 2 Houston relays that the Panthers plan to work out veteran Austin Ekeler on Wednesday, and he could eventually be signed to provide further depth in the backfield.",
+      "description": "Brooks is expected to undergo surgery Wednesday to repair a core-muscle injury and is likely to miss at least six weeks, Ian Rapoport of NFL Network reports.",
+      "metadata": {
+        "analysis": "Brooks is expected to be officially placed on injured reserve in the coming days after exited this past Sunday's 34-3 win over the Falcons due to what had previously been labeled as a groin injury. With Brooks set to miss time, Chuba Hubbard should be further insulated as the Panthers' No. 1 back, while AJ Dillon is lone healthy backup option on the 53-man roster. Aaron Wilson of KPRC 2 Houston relays that the Panthers plan to work out veteran Austin Ekeler on Wednesday, and he could eventually be signed to provide further depth in the backfield.",
+        "description": "Brooks is expected to undergo surgery Wednesday to repair a core-muscle injury and is likely to miss at least six weeks, Ian Rapoport of NFL Network reports.",
+        "title": "Jonathon Brooks - Requires surgery, out six weeks",
+        "topic_id": "1408475827389190144"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1790169035000,
+      "source": "rotowire",
+      "source_key": "638800",
+      "story_id": "nfl|11583|rotowire|638800|1790169035000",
+      "title": "Jonathon Brooks - Requires surgery, out six weeks",
+      "url": null
+    },
+    {
+      "analysis": "It's a tough blow for Brooks, who had just gotten back to the playing field after roughly two years away from it. When Brooks returns, he'll still have time to make some noise before the season ends, but there's no telling how much work he will get. Chuba Hubbard will carry the load in Carolina with Brooks out, so be expecting at least RB2 numbers from him thanks to volume.",
+      "description": "Jonathon Brooks (groin) is expected to undergo surgery on his core to repair an injury he sustained on Sunday. His expected time to recover is six weeks and is expected to land on IR.",
+      "metadata": {
+        "analysis": "It's a tough blow for Brooks, who had just gotten back to the playing field after roughly two years away from it. When Brooks returns, he'll still have time to make some noise before the season ends, but there's no telling how much work he will get. Chuba Hubbard will carry the load in Carolina with Brooks out, so be expecting at least RB2 numbers from him thanks to volume.",
+        "description": "Jonathon Brooks (groin) is expected to undergo surgery on his core to repair an injury he sustained on Sunday. His expected time to recover is six weeks and is expected to land on IR.",
+        "title": "Jonathon Brooks (groin) undergoing surgery, will miss about 6 weeks",
+        "topic_id": "1408451923094323200",
+        "url": "https://www.fantasypros.com/nfl/news/609949/jonathon-brooks-groin-undergoing-surgery-will-miss-about-6-weeks.php"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1790163615544,
+      "source": "fantasy_pros",
+      "source_key": "609949",
+      "story_id": "nfl|11583|fantasy_pros|609949|1790163615544",
+      "title": "Jonathon Brooks (groin) undergoing surgery, will miss about 6 weeks",
+      "url": "https://www.fantasypros.com/nfl/news/609949/jonathon-brooks-groin-undergoing-surgery-will-miss-about-6-weeks.php"
+    },
     {
       "analysis": "The 49ers had no trouble building a comfortable lead throughout the contest, resulting in Jones appearing in eight of the team's 52 offensive snaps. The 28-year-old is coming off a sound 2025 campaign, throwing for 2,151 yards, 13 touchdowns and six interceptions while completing a career-best 69.6 percent of his attempts. While Jones is considered one of the better backup quarterbacks in the NFL, his fantasy ceiling is low as long as Brock Purdy is healthy.",
       "description": "Jones was 0-for-0 passing for zero yards during Sunday's 35-13 victory over the Dolphins.",
@@ -192,7 +285,7 @@
       "description": "New York Jets quarterback Geno Smith is far from a flashy name in fantasy football, but his high passing volume and mistake-free streak put him on the radar as a solid waiver wire target. Smith threw 41 times in Week 2, completing 27 passes for 247 yards, one touchdown, and zero turnovers. He took four sacks, but he also logged 17 rushing yards. Smith has only one touchdown through two weeks, but it's also worth noting that he doesn't have any turnovers so far. He has been a steady presence at quarterback for the Jets, leading drives and supporting the fantasy stocks of Garrett Wilson and Breece Hall. Now, he's getting on the fantasy radar himself, albeit as a QB2. The Jets will likely have to throw the ball a lot again in Week 3 against the Detroit Lions, so Smith's projected high volume gives him top-16 upside in fantasy football.",
       "metadata": {
         "description": "New York Jets quarterback Geno Smith is far from a flashy name in fantasy football, but his high passing volume and mistake-free streak put him on the radar as a solid waiver wire target. Smith threw 41 times in Week 2, completing 27 passes for 247 yards, one touchdown, and zero turnovers. He took four sacks, but he also logged 17 rushing yards. Smith has only one touchdown through two weeks, but it's also worth noting that he doesn't have any turnovers so far. He has been a steady presence at quarterback for the Jets, leading drives and supporting the fantasy stocks of Garrett Wilson and Breece Hall. Now, he's getting on the fantasy radar himself, albeit as a QB2. The Jets will likely have to throw the ball a lot again in Week 3 against the Detroit Lions, so Smith's projected high volume gives him top-16 upside in fantasy football.",
-        "title": "High Volume Makes Geno Smith an Appealing Waiver Wire Target",
+        "title": "High Volume Makes Geno Smith an Appealing Waiver-Wire Target",
         "topic_id": "1408355016170881024",
         "url": "https://www.rotoballer.com/player-news/high-volume-makes-geno-smith-an-appealing-waiver-wire-target/1948118"
       },
@@ -204,7 +297,7 @@
       "source": "rotoballer",
       "source_key": "221971",
       "story_id": "nfl|1373|rotoballer|221971|1790125745000",
-      "title": "High Volume Makes Geno Smith an Appealing Waiver Wire Target",
+      "title": "High Volume Makes Geno Smith an Appealing Waiver-Wire Target",
       "url": "https://www.rotoballer.com/player-news/high-volume-makes-geno-smith-an-appealing-waiver-wire-target/1948118"
     },
     {
@@ -90611,567 +90704,6 @@
       "story_id": "nfl|13311|rotowire|634637|1787583705000",
       "title": "Chris Bell - Set to practice without limitations",
       "url": null
-    },
-    {
-      "analysis": null,
-      "description": "The Houston Texans are giving Kayshon Boutte a new opportunity. The Texans are acquiring the wide receiver from New England in exchange for safety Jaylen Reed and a draft pick, according to Tom Pelissero. Houston had already called about Boutte while looking for help following Jayden Higgins' season-ending knee injury, and now the deal is getting done. Boutte caught 33 passes for 551 yards and a career-high six touchdowns in 14 games last season, averaging 16.7 yards per reception. His path to playing time had gotten murkier in New England after the additions of A.J. Brown and Romeo Doubs, especially with Boutte entering the final year of his rookie contract. There should be opportunity in Houston, but nothing is guaranteed. The Texans also added Zay Jones and Sterling Shepard over the weekend, so Boutte will have to earn his place in the rotation. The trade at least gives him a cleaner shot at regular snaps heading into the season.",
-      "metadata": {
-        "description": "The Houston Texans are giving Kayshon Boutte a new opportunity. The Texans are acquiring the wide receiver from New England in exchange for safety Jaylen Reed and a draft pick, according to Tom Pelissero. Houston had already called about Boutte while looking for help following Jayden Higgins' season-ending knee injury, and now the deal is getting done. Boutte caught 33 passes for 551 yards and a career-high six touchdowns in 14 games last season, averaging 16.7 yards per reception. His path to playing time had gotten murkier in New England after the additions of A.J. Brown and Romeo Doubs, especially with Boutte entering the final year of his rookie contract. There should be opportunity in Houston, but nothing is guaranteed. The Texans also added Zay Jones and Sterling Shepard over the weekend, so Boutte will have to earn his place in the rotation. The trade at least gives him a cleaner shot at regular snaps heading into the season.",
-        "title": "Kayshon Boutte Gets Fresh Start in Houston",
-        "topic_id": "1397691119801782272",
-        "url": "https://www.rotoballer.com/player-news/kayshon-boutte-gets-fresh-start-in-houston/1915353"
-      },
-      "nfl_team": "HOU",
-      "player_id": "9504",
-      "player_name": "Kayshon Boutte",
-      "position": "WR",
-      "published": 1787583372000,
-      "source": "rotoballer",
-      "source_key": "219296",
-      "story_id": "nfl|9504|rotoballer|219296|1787583372000",
-      "title": "Kayshon Boutte Gets Fresh Start in Houston",
-      "url": "https://www.rotoballer.com/player-news/kayshon-boutte-gets-fresh-start-in-houston/1915353"
-    },
-    {
-      "analysis": null,
-      "description": "Both Atlanta Falcons quarterbacks Michael Penix Jr. (knee) and Tua Tagovailoa will take reps with the first-team offense on Monday throughout the entire practice, according to Tori McElhaney of the team's official website. Monday will be the first time this summer that Penix has worked in team drills as a full-go. The Falcons have not officially named a starter in the QB battle during training camp, but Tagovailoa is still the overwhelming favorite to start in Week 1 against the Pittsburgh Steelers since he got a head start on Penix during camp. The 26-year-old Penix tore his ACL in Week 11 of last season, and it is unclear if he will be cleared to play in the team's final preseason contest this Friday against the Miami Dolphins. Penix remains off the fantasy radar in single-year, single-QB leagues. In his first two seasons in the NFL, he has completed under 60% of his pass attempts for 2,757 yards, 12 touchdowns, and six interceptions in 14 games played (12 starts). In dynasty/keeper leagues, Penix is a hard sell as a buy-low candidate given his lengthy injury history.",
-      "metadata": {
-        "description": "Both Atlanta Falcons quarterbacks Michael Penix Jr. (knee) and Tua Tagovailoa will take reps with the first-team offense on Monday throughout the entire practice, according to Tori McElhaney of the team's official website. Monday will be the first time this summer that Penix has worked in team drills as a full-go. The Falcons have not officially named a starter in the QB battle during training camp, but Tagovailoa is still the overwhelming favorite to start in Week 1 against the Pittsburgh Steelers since he got a head start on Penix during camp. The 26-year-old Penix tore his ACL in Week 11 of last season, and it is unclear if he will be cleared to play in the team's final preseason contest this Friday against the Miami Dolphins. Penix remains off the fantasy radar in single-year, single-QB leagues. In his first two seasons in the NFL, he has completed under 60% of his pass attempts for 2,757 yards, 12 touchdowns, and six interceptions in 14 games played (12 starts). In dynasty/keeper leagues, Penix is a hard sell as a buy-low candidate given his lengthy injury history.",
-        "title": "Michael Penix Jr. to Take Some First-Team Reps on Monday",
-        "topic_id": "1397691119789199360",
-        "url": "https://www.rotoballer.com/player-news/michael-penix-jr-to-take-some-first-team-reps-on-monday/1915348"
-      },
-      "nfl_team": "ATL",
-      "player_id": "11559",
-      "player_name": "Michael Penix",
-      "position": "QB",
-      "published": 1787583134000,
-      "source": "rotoballer",
-      "source_key": "219297",
-      "story_id": "nfl|11559|rotoballer|219297|1787583134000",
-      "title": "Michael Penix Jr. to Take Some First-Team Reps on Monday",
-      "url": "https://www.rotoballer.com/player-news/michael-penix-jr-to-take-some-first-team-reps-on-monday/1915348"
-    },
-    {
-      "analysis": null,
-      "description": "Washington Commanders running back Jacory Croskey-Merritt was limited at Monday's practice with an undisclosed injury, according to Ben Standig. Standig saw Croskey-Merritt pull up at the end of a catch-and-run during Thursday's practice, and the second-year back was held out of Saturday's preseason game against Detroit. He is at least back on the field now, though Washington is keeping his workload down. Croskey-Merritt led the Commanders with 805 rushing yards and eight touchdowns on 175 carries as a rookie, adding nine catches for 68 yards. He is also listed first at running back on Washington's current unofficial depth chart. Monday's participation is a positive after he sat out over the weekend, but his workload over the next few practices will be worth watching with Week 1 getting closer.",
-      "metadata": {
-        "description": "Washington Commanders running back Jacory Croskey-Merritt was limited at Monday's practice with an undisclosed injury, according to Ben Standig. Standig saw Croskey-Merritt pull up at the end of a catch-and-run during Thursday's practice, and the second-year back was held out of Saturday's preseason game against Detroit. He is at least back on the field now, though Washington is keeping his workload down. Croskey-Merritt led the Commanders with 805 rushing yards and eight touchdowns on 175 carries as a rookie, adding nine catches for 68 yards. He is also listed first at running back on Washington's current unofficial depth chart. Monday's participation is a positive after he sat out over the weekend, but his workload over the next few practices will be worth watching with Week 1 getting closer.",
-        "title": "Jacory Croskey-Merritt Limited With Undisclosed Injury",
-        "topic_id": "1397689860550094848",
-        "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-limited-with-undisclosed-injury/1915346"
-      },
-      "nfl_team": "WAS",
-      "player_id": "12533",
-      "player_name": "Jacory Croskey-Merritt",
-      "position": "RB",
-      "published": 1787582829000,
-      "source": "rotoballer",
-      "source_key": "219295",
-      "story_id": "nfl|12533|rotoballer|219295|1787582829000",
-      "title": "Jacory Croskey-Merritt Limited With Undisclosed Injury",
-      "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-limited-with-undisclosed-injury/1915346"
-    },
-    {
-      "analysis": null,
-      "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. has been impressive as a power runner in training camp, according to John Shipley of Sports Illustrated. However, fellow RB Bhayshul Tuten \"has done nothing to diminish the early offseason hype.\" Tuten might be more explosive overall as a runner, but Rodriguez is going to have a key role in Jacksonville's backfield this year, and Shipley also thinks C-Rod might be the team's best pass-blocking RB outside of LeQuint Allen Jr. The 25-year-old is a full-go despite having offseason foot surgery, and the Jags have listed Rodriguez and Tuten as co-starters going into the 2026 regular season. Rodriguez is more of a bruiser between the tackles, which could earn him valuable goal-line touches in his first year in Duvall. But while sharing snaps and touches with Tuten and Allen, Rodriguez's fantasy value looks to be as a touchdown-dependent RB3/flex. If Allen misses any time this year due to injury, Rodriguez could become Jacksonville's preferred third-down back as well. RotoBaller has C-Rod as the RB39, with Tuten coming in at No. 26.",
-      "metadata": {
-        "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. has been impressive as a power runner in training camp, according to John Shipley of Sports Illustrated. However, fellow RB Bhayshul Tuten \"has done nothing to diminish the early offseason hype.\" Tuten might be more explosive overall as a runner, but Rodriguez is going to have a key role in Jacksonville's backfield this year, and Shipley also thinks C-Rod might be the team's best pass-blocking RB outside of LeQuint Allen Jr. The 25-year-old is a full-go despite having offseason foot surgery, and the Jags have listed Rodriguez and Tuten as co-starters going into the 2026 regular season. Rodriguez is more of a bruiser between the tackles, which could earn him valuable goal-line touches in his first year in Duvall. But while sharing snaps and touches with Tuten and Allen, Rodriguez's fantasy value looks to be as a touchdown-dependent RB3/flex. If Allen misses any time this year due to injury, Rodriguez could become Jacksonville's preferred third-down back as well. RotoBaller has C-Rod as the RB39, with Tuten coming in at No. 26.",
-        "title": "Chris Rodriguez Jr. Impressing With his Power Running",
-        "topic_id": "1397688602154020864",
-        "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-impressing-with-his-power-running/1915342"
-      },
-      "nfl_team": "JAX",
-      "player_id": "10219",
-      "player_name": "Chris Rodriguez",
-      "position": "RB",
-      "published": 1787582588000,
-      "source": "rotoballer",
-      "source_key": "219294",
-      "story_id": "nfl|10219|rotoballer|219294|1787582588000",
-      "title": "Chris Rodriguez Jr. Impressing With his Power Running",
-      "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-impressing-with-his-power-running/1915342"
-    },
-    {
-      "analysis": null,
-      "description": "Updating a previous report, New England Patriots second-year running back TreVeyon Henderson (ankle, leg) left the team's training camp practice on Monday early with a right-leg/ankle injury, according to Mike Kadlick of Sports Illustrated. It is unclear right now if it is a serious injury for Henderson, but we'll keep close tabs on his progress for the rest of the week and leading up to the team's Week 1 regular-season opener against the Seattle Seahawks in early September. If Henderson is good to go for the start of the season, he is expected to be involved in a 50-50 timeshare with Rhamondre Stevenson in New England's backfield in Year 2. The 23-year-old former second-rounder from Ohio State impressed as a rookie, running for 911 yards and nine touchdowns on 180 carries while adding 35 catches for 221 yards and another TD through the air. Henderson has not really improved his pass-blocking skills, though, and a timeshare with Stevenson will leave his fantasy upside capped as an RB3/flex target in upcoming drafts. If Henderson's injury keeps him out of Week 1, Lan Larison and rookie Jam Miller will be competing for RB2 duties behind Stevenson over the next couple of weeks.",
-      "metadata": {
-        "description": "Updating a previous report, New England Patriots second-year running back TreVeyon Henderson (ankle, leg) left the team's training camp practice on Monday early with a right-leg/ankle injury, according to Mike Kadlick of Sports Illustrated. It is unclear right now if it is a serious injury for Henderson, but we'll keep close tabs on his progress for the rest of the week and leading up to the team's Week 1 regular-season opener against the Seattle Seahawks in early September. If Henderson is good to go for the start of the season, he is expected to be involved in a 50-50 timeshare with Rhamondre Stevenson in New England's backfield in Year 2. The 23-year-old former second-rounder from Ohio State impressed as a rookie, running for 911 yards and nine touchdowns on 180 carries while adding 35 catches for 221 yards and another TD through the air. Henderson has not really improved his pass-blocking skills, though, and a timeshare with Stevenson will leave his fantasy upside capped as an RB3/flex target in upcoming drafts. If Henderson's injury keeps him out of Week 1, Lan Larison and rookie Jam Miller will be competing for RB2 duties behind Stevenson over the next couple of weeks.",
-        "title": "TreVeyon Henderson Dealing With Leg/Ankle Injury",
-        "topic_id": "1397686085567447040",
-        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-dealing-with-leg-ankle-injury/1915336"
-      },
-      "nfl_team": "NE",
-      "player_id": "12529",
-      "player_name": "TreVeyon Henderson",
-      "position": "RB",
-      "published": 1787582049000,
-      "source": "rotoballer",
-      "source_key": "219292",
-      "story_id": "nfl|12529|rotoballer|219292|1787582049000",
-      "title": "TreVeyon Henderson Dealing With Leg/Ankle Injury",
-      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-dealing-with-leg-ankle-injury/1915336"
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams wide receiver Puka Nacua (groin) remained out of practice Monday, according to Sarah Barshop. Nacua was working off to the side with a trainer but has yet to rejoin team drills since leaving the Aug. 11 joint practice with Dallas because of psoas soreness. Sean McVay initially expected him back the following week, but Nacua ended up sitting out both joint practices with New Orleans as well. The Rams later pushed that expectation into this week, so Monday's absence is worth noting even with Nacua doing route work on the side. He is coming off a massive 2025 season, leading the NFL with 129 receptions while piling up 1,715 yards and 10 touchdowns in 16 games. There is still time before Week 1, but Nacua has now been away from team practice for nearly two weeks.",
-      "metadata": {
-        "description": "Los Angeles Rams wide receiver Puka Nacua (groin) remained out of practice Monday, according to Sarah Barshop. Nacua was working off to the side with a trainer but has yet to rejoin team drills since leaving the Aug. 11 joint practice with Dallas because of psoas soreness. Sean McVay initially expected him back the following week, but Nacua ended up sitting out both joint practices with New Orleans as well. The Rams later pushed that expectation into this week, so Monday's absence is worth noting even with Nacua doing route work on the side. He is coming off a massive 2025 season, leading the NFL with 129 receptions while piling up 1,715 yards and 10 touchdowns in 16 games. There is still time before Week 1, but Nacua has now been away from team practice for nearly two weeks.",
-        "title": "Puka Nacua Still Not Back at Practice",
-        "topic_id": "1397686085567447041",
-        "url": "https://www.rotoballer.com/player-news/puka-nacua-still-not-back-at-practice/1915331"
-      },
-      "nfl_team": "LAR",
-      "player_id": "9493",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "published": 1787581934000,
-      "source": "rotoballer",
-      "source_key": "219293",
-      "story_id": "nfl|9493|rotoballer|219293|1787581934000",
-      "title": "Puka Nacua Still Not Back at Practice",
-      "url": "https://www.rotoballer.com/player-news/puka-nacua-still-not-back-at-practice/1915331"
-    },
-    {
-      "analysis": null,
-      "description": "Cleveland Browns running back Quinshon Judkins (undisclosed) returned to practice Monday, according to Daniel Oyefusi. Judkins missed the final two practices of last week and sat out Saturday's preseason game against Buffalo while dealing with what head coach Todd Monken called \"a little something nagging.\" Monken said it was nothing significant and also made clear that the issue was unrelated to the extra contact Judkins took during Cleveland's Aug. 18 practice. His return Monday backs up that assessment, although his exact participation level wasn't immediately clear. Judkins led the Browns with 827 rushing yards and seven touchdowns on 230 carries as a rookie, adding 26 catches for 171 yards. With the regular season still a few weeks away, getting him back on the field after a brief absence is a positive development for Cleveland's backfield.",
-      "metadata": {
-        "description": "Cleveland Browns running back Quinshon Judkins (undisclosed) returned to practice Monday, according to Daniel Oyefusi. Judkins missed the final two practices of last week and sat out Saturday's preseason game against Buffalo while dealing with what head coach Todd Monken called \"a little something nagging.\" Monken said it was nothing significant and also made clear that the issue was unrelated to the extra contact Judkins took during Cleveland's Aug. 18 practice. His return Monday backs up that assessment, although his exact participation level wasn't immediately clear. Judkins led the Browns with 827 rushing yards and seven touchdowns on 230 carries as a rookie, adding 26 catches for 171 yards. With the regular season still a few weeks away, getting him back on the field after a brief absence is a positive development for Cleveland's backfield.",
-        "title": "Quinshon Judkins Returns to Practice",
-        "topic_id": "1397683568720814080",
-        "url": "https://www.rotoballer.com/player-news/quinshon-judkins-returns-to-practice/1915325"
-      },
-      "nfl_team": "CLE",
-      "player_id": "12512",
-      "player_name": "Quinshon Judkins",
-      "position": "RB",
-      "published": 1787581454000,
-      "source": "rotoballer",
-      "source_key": "219291",
-      "story_id": "nfl|12512|rotoballer|219291|1787581454000",
-      "title": "Quinshon Judkins Returns to Practice",
-      "url": "https://www.rotoballer.com/player-news/quinshon-judkins-returns-to-practice/1915325"
-    },
-    {
-      "analysis": "Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Bears and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better than Sanders in the two exhibition games, his superior performance during camp practices in addition to his greater NFL experience and pricey contract were likely major factors in him emerging as the victor in the job battle. Watson is unlikely to head into Week 1 with a long leash, however, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.",
-      "description": "Sanders will open the season as the Browns' backup quarterback after the team named Deshaun Watson its starter Monday, multiple sources tell NFL reporter Jordan Schultz.",
-      "metadata": {
-        "analysis": "Sanders and Watson had been battling for the job since the start of the offseason program and alternated starts in the Browns' first two preseason tilts. Between losses to the Bears and Bills, Sanders completed 15 of 22 attempts for 153 yards, one touchdown and two interceptions. While Watson didn't fare dramatically better than Sanders in the two exhibition games, his superior performance during camp practices in addition to his greater NFL experience and pricey contract were likely major factors in him emerging as the victor in the job battle. Watson is unlikely to head into Week 1 with a long leash, however, and Sanders should have a good chance at making starts in 2026 if the Browns limp out to a poor start to the season.",
-        "description": "Sanders will open the season as the Browns' backup quarterback after the team named Deshaun Watson its starter Monday, multiple sources tell NFL reporter Jordan Schultz.",
-        "title": "Shedeur Sanders - Beginning season in backup role",
-        "topic_id": "1397620649995812864"
-      },
-      "nfl_team": "CLE",
-      "player_id": "12524",
-      "player_name": "Shedeur Sanders",
-      "position": "QB",
-      "published": 1787581149000,
-      "source": "rotowire",
-      "source_key": "634634",
-      "story_id": "nfl|12524|rotowire|634634|1787581149000",
-      "title": "Shedeur Sanders - Beginning season in backup role",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "New York Jets tight end Kenyon Sadiq took another step forward Monday while working his way back from a setback following offseason hernia surgery. Zack Rosenblatt reported that Sadiq was running routes on a side field with trainers throwing to him and appeared to be moving well. The rookie practiced three times at the beginning of training camp before the Jets shut him down again in early August, and he has yet to return to team drills. Week 1 has been the Jets' stated expectation for Sadiq, so getting him through more football-specific work is encouraging with the opener getting closer. The 16th overall pick caught 51 passes for 560 yards and eight touchdowns during his final season at Oregon. Sadiq has missed most of his first NFL training camp, which could make it tougher to carve out a big role immediately. For now, though, his rehab appears to be moving forward.",
-      "metadata": {
-        "description": "New York Jets tight end Kenyon Sadiq took another step forward Monday while working his way back from a setback following offseason hernia surgery. Zack Rosenblatt reported that Sadiq was running routes on a side field with trainers throwing to him and appeared to be moving well. The rookie practiced three times at the beginning of training camp before the Jets shut him down again in early August, and he has yet to return to team drills. Week 1 has been the Jets' stated expectation for Sadiq, so getting him through more football-specific work is encouraging with the opener getting closer. The 16th overall pick caught 51 passes for 560 yards and eight touchdowns during his final season at Oregon. Sadiq has missed most of his first NFL training camp, which could make it tougher to carve out a big role immediately. For now, though, his rehab appears to be moving forward.",
-        "title": "Kenyon Sadiq Running Routes During Rehab Work",
-        "topic_id": "1397682310089875456",
-        "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-running-routes-during-rehab-work/1915315"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "13330",
-      "player_name": "Kenyon Sadiq",
-      "position": "TE",
-      "published": 1787580909000,
-      "source": "rotoballer",
-      "source_key": "219290",
-      "story_id": "nfl|13330|rotoballer|219290|1787580909000",
-      "title": "Kenyon Sadiq Running Routes During Rehab Work",
-      "url": "https://www.rotoballer.com/player-news/kenyon-sadiq-running-routes-during-rehab-work/1915315"
-    },
-    {
-      "analysis": "Watson was the favorite to win the job going in, and even though he had some hiccups on the way, namely preseason struggles and the fans booing him, he won out in the end. It's still likely that Shedeur Sanders will get a crack as the starter at some point this year, it's just a matter of when. As for the Browns pass catchers, they were priced assuming bad QB play, expect their price and fantasy ceiling to remain about the same, as Watson is past his prime and Sanders is also struggling.",
-      "description": "Deshaun Watson has been named the Browns starting QB for Week 1 against Jacksonville.",
-      "metadata": {
-        "analysis": "Watson was the favorite to win the job going in, and even though he had some hiccups on the way, namely preseason struggles and the fans booing him, he won out in the end. It's still likely that Shedeur Sanders will get a crack as the starter at some point this year, it's just a matter of when. As for the Browns pass catchers, they were priced assuming bad QB play, expect their price and fantasy ceiling to remain about the same, as Watson is past his prime and Sanders is also struggling.",
-        "description": "Deshaun Watson has been named the Browns starting QB for Week 1 against Jacksonville.",
-        "title": "Deshaun Watson named Browns starter for Week 1",
-        "topic_id": "1397618138815660032",
-        "url": "https://www.fantasypros.com/nfl/news/604002/deshaun-watson-named-browns-starter-week-1.php"
-      },
-      "nfl_team": "CLE",
-      "player_id": "4017",
-      "player_name": "Deshaun Watson",
-      "position": "QB",
-      "published": 1787580640091,
-      "source": "fantasy_pros",
-      "source_key": "604002",
-      "story_id": "nfl|4017|fantasy_pros|604002|1787580640091",
-      "title": "Deshaun Watson named Browns starter for Week 1",
-      "url": "https://www.fantasypros.com/nfl/news/604002/deshaun-watson-named-browns-starter-week-1.php"
-    },
-    {
-      "analysis": "Watson won out in a job battle with Shedeur Sanders, after the quarterbacks alternated starts in the Browns' first two preseason contests. After an efficient showing in the preseason opener against the Bears (11-for-15 for 126 yards), Watson was unproductive over his four second-half drives in Saturday's 31-7 exhibition loss to the Bills, completing just five of 12 throws for 36 yards and an interception. The Browns were apparently encouraged enough from what they've seen from Watson over the course of training camp and the first two preseason tilts to move forward with him as their starter heading into the regular season, but he'll most likely be on a short leash. Since joining the Browns in 2022, Watson has posted a lowly 33.1 QBR while being limited to 19 total games due to injuries, including a torn right Achilles tendon and a subsequent re-rupture that kept him out for the entire 2025 season.",
-      "description": "The Browns named Watson their starting quarterback Monday, multiple sources tell NFL reporter Jordan Schultz.",
-      "metadata": {
-        "analysis": "Watson won out in a job battle with Shedeur Sanders, after the quarterbacks alternated starts in the Browns' first two preseason contests. After an efficient showing in the preseason opener against the Bears (11-for-15 for 126 yards), Watson was unproductive over his four second-half drives in Saturday's 31-7 exhibition loss to the Bills, completing just five of 12 throws for 36 yards and an interception. The Browns were apparently encouraged enough from what they've seen from Watson over the course of training camp and the first two preseason tilts to move forward with him as their starter heading into the regular season, but he'll most likely be on a short leash. Since joining the Browns in 2022, Watson has posted a lowly 33.1 QBR while being limited to 19 total games due to injuries, including a torn right Achilles tendon and a subsequent re-rupture that kept him out for the entire 2025 season.",
-        "description": "The Browns named Watson their starting quarterback Monday, multiple sources tell NFL reporter Jordan Schultz.",
-        "title": "Deshaun Watson - Named Cleveland's starting quarterback",
-        "topic_id": "1397618132536827904"
-      },
-      "nfl_team": "CLE",
-      "player_id": "4017",
-      "player_name": "Deshaun Watson",
-      "position": "QB",
-      "published": 1787580396000,
-      "source": "rotowire",
-      "source_key": "634633",
-      "story_id": "nfl|4017|rotowire|634633|1787580396000",
-      "title": "Deshaun Watson - Named Cleveland's starting quarterback",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Baltimore Ravens wide receiver Zay Flowers did not participate in Monday's practice, according to Sam Cohn. Flowers eventually walked onto the field in sneakers and a T-shirt, with Cohn noting that he appeared to be moving around fine. Baltimore has not given a reason for his absence. The 25-year-old is coming off the best season of his career, finishing 2025 with 86 catches for 1,211 yards and five touchdowns while playing all 17 games. For now, there isn't enough here to treat Monday's absence as anything more than something to monitor. Unless the Ravens provide additional information or Flowers continues to miss practice, there is no reason for fantasy managers to change their outlook on him heading toward Week 1.",
-      "metadata": {
-        "description": "Baltimore Ravens wide receiver Zay Flowers did not participate in Monday's practice, according to Sam Cohn. Flowers eventually walked onto the field in sneakers and a T-shirt, with Cohn noting that he appeared to be moving around fine. Baltimore has not given a reason for his absence. The 25-year-old is coming off the best season of his career, finishing 2025 with 86 catches for 1,211 yards and five touchdowns while playing all 17 games. For now, there isn't enough here to treat Monday's absence as anything more than something to monitor. Unless the Ravens provide additional information or Flowers continues to miss practice, there is no reason for fantasy managers to change their outlook on him heading toward Week 1.",
-        "title": "Zay Flowers Sits Out Monday's Practice",
-        "topic_id": "1397678535765667840",
-        "url": "https://www.rotoballer.com/player-news/zay-flowers-sits-out-mondays-practice/1915302"
-      },
-      "nfl_team": "BAL",
-      "player_id": "9997",
-      "player_name": "Zay Flowers",
-      "position": "WR",
-      "published": 1787580135000,
-      "source": "rotoballer",
-      "source_key": "219289",
-      "story_id": "nfl|9997|rotoballer|219289|1787580135000",
-      "title": "Zay Flowers Sits Out Monday's Practice",
-      "url": "https://www.rotoballer.com/player-news/zay-flowers-sits-out-mondays-practice/1915302"
-    },
-    {
-      "analysis": "After drawing two targets in the Browns' preseason opener a week earlier against the Bears and connecting with Deshaun Watson on a nifty 15-yard catch and run, Boston was held quiet in his limited snaps during the second exhibition game. Notably, Jerry Jeudy and KC Concepcion were both rested Saturday while Boston played, which suggests that the rookie second-round pick out of Washington currently sits no higher than third on the depth chart.",
-      "description": "Boston went without a target while playing 11 snaps on offense Saturday in the Browns' 31-7 preseason loss to the Bills.",
-      "metadata": {
-        "analysis": "After drawing two targets in the Browns' preseason opener a week earlier against the Bears and connecting with Deshaun Watson on a nifty 15-yard catch and run, Boston was held quiet in his limited snaps during the second exhibition game. Notably, Jerry Jeudy and KC Concepcion were both rested Saturday while Boston played, which suggests that the rookie second-round pick out of Washington currently sits no higher than third on the depth chart.",
-        "description": "Boston went without a target while playing 11 snaps on offense Saturday in the Browns' 31-7 preseason loss to the Bills.",
-        "title": "Denzel Boston - Goes untargeted in second preseason game",
-        "topic_id": "1397614357839405056"
-      },
-      "nfl_team": "CLE",
-      "player_id": "13346",
-      "player_name": "Denzel Boston",
-      "position": "WR",
-      "published": 1787579534000,
-      "source": "rotowire",
-      "source_key": "634632",
-      "story_id": "nfl|13346|rotowire|634632|1787579534000",
-      "title": "Denzel Boston - Goes untargeted in second preseason game",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "New York Jets running back Breece Hall continues to make progress from the groin injury he suffered last week. Antwan V. Staley reports that Hall is moving well, and head coach Aaron Glenn still anticipates having him ready for Week 1 against Tennessee. Hall went down during practice on Aug. 17 and was given a two-to-three-week recovery timetable the following day. So far, nothing has changed that expectation. The 25-year-old is coming off his first 1,000-yard rushing season, finishing 2025 with 243 carries for a career-high 1,065 yards and four touchdowns. He also caught 36 passes for 350 yards and another score. There is still time before the opener, and the Jets don't appear to have any reason to rush him through the final stretch of August. For now, Hall remains on schedule to be available when the games start counting.",
-      "metadata": {
-        "description": "New York Jets running back Breece Hall continues to make progress from the groin injury he suffered last week. Antwan V. Staley reports that Hall is moving well, and head coach Aaron Glenn still anticipates having him ready for Week 1 against Tennessee. Hall went down during practice on Aug. 17 and was given a two-to-three-week recovery timetable the following day. So far, nothing has changed that expectation. The 25-year-old is coming off his first 1,000-yard rushing season, finishing 2025 with 243 carries for a career-high 1,065 yards and four touchdowns. He also caught 36 passes for 350 yards and another score. There is still time before the opener, and the Jets don't appear to have any reason to rush him through the final stretch of August. For now, Hall remains on schedule to be available when the games start counting.",
-        "title": "Breece Hall Still on Track for Week 1",
-        "topic_id": "1397676018197602304",
-        "url": "https://www.rotoballer.com/player-news/breece-hall-still-on-track-for-week-1/1915294"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "8155",
-      "player_name": "Breece Hall",
-      "position": "RB",
-      "published": 1787579527000,
-      "source": "rotoballer",
-      "source_key": "219288",
-      "story_id": "nfl|8155|rotoballer|219288|1787579527000",
-      "title": "Breece Hall Still on Track for Week 1",
-      "url": "https://www.rotoballer.com/player-news/breece-hall-still-on-track-for-week-1/1915294"
-    },
-    {
-      "analysis": null,
-      "description": "Jacksonville Jaguars tight end Brenton Strange still has a secure job, but the fantasy case is not quite as clean as it looked a few months ago. Strange caught 46 passes for 540 yards and three touchdowns in 12 games last season, then Jacksonville gave him a three-year extension in June. The Jaguars also spent the 56th overall pick on Nate Boerkircher, and their passing game is crowded with Brian Thomas Jr., Jakobi Meyers, Travis Hunter and Parker Washington. Strange has continued to make plays in camp, including a red-zone touchdown from Trevor Lawrence during the August 19 joint practice with Carolina. Boerkircher scored in the same red-zone period, though, and Jacksonville has talked about using more two- and three-tight-end looks. That should keep Strange involved, but it also makes another big jump in targets tougher to project. RotoBaller has him at TE17 and 146th overall in PPR. Strange is still draftable as a TE2, but the number of mouths to feed makes him harder to trust as a weekly breakout bet.",
-      "metadata": {
-        "description": "Jacksonville Jaguars tight end Brenton Strange still has a secure job, but the fantasy case is not quite as clean as it looked a few months ago. Strange caught 46 passes for 540 yards and three touchdowns in 12 games last season, then Jacksonville gave him a three-year extension in June. The Jaguars also spent the 56th overall pick on Nate Boerkircher, and their passing game is crowded with Brian Thomas Jr., Jakobi Meyers, Travis Hunter and Parker Washington. Strange has continued to make plays in camp, including a red-zone touchdown from Trevor Lawrence during the August 19 joint practice with Carolina. Boerkircher scored in the same red-zone period, though, and Jacksonville has talked about using more two- and three-tight-end looks. That should keep Strange involved, but it also makes another big jump in targets tougher to project. RotoBaller has him at TE17 and 146th overall in PPR. Strange is still draftable as a TE2, but the number of mouths to feed makes him harder to trust as a weekly breakout bet.",
-        "title": "Brenton Strange Looking More Like a TE2",
-        "topic_id": "1397672242694848512",
-        "url": "https://www.rotoballer.com/player-news/brenton-strange-looking-more-like-a-te2/1915285"
-      },
-      "nfl_team": "JAX",
-      "player_id": "9480",
-      "player_name": "Brenton Strange",
-      "position": "TE",
-      "published": 1787578628000,
-      "source": "rotoballer",
-      "source_key": "219287",
-      "story_id": "nfl|9480|rotoballer|219287|1787578628000",
-      "title": "Brenton Strange Looking More Like a TE2",
-      "url": "https://www.rotoballer.com/player-news/brenton-strange-looking-more-like-a-te2/1915285"
-    },
-    {
-      "analysis": null,
-      "description": "Philadelphia Eagles wide receiver DeVonta Smith (hamstring) was a full participant Monday for the first time in three weeks, according to John Clark. Smith has been working his way back from a hamstring injury and was still limited during Philadelphia's joint practices with New England last week. Getting through a full practice is his biggest step yet with the regular season approaching. Smith played all 17 games last year and caught 77 passes for 1,008 yards and four touchdowns, giving him his third 1,000-yard season. He has missed a chunk of August, but Monday's workload suggests he's getting back up to speed after the layoff. With Smith now fully practicing again, the hamstring issue appears to be moving firmly in the right direction ahead of Week 1.",
-      "metadata": {
-        "description": "Philadelphia Eagles wide receiver DeVonta Smith (hamstring) was a full participant Monday for the first time in three weeks, according to John Clark. Smith has been working his way back from a hamstring injury and was still limited during Philadelphia's joint practices with New England last week. Getting through a full practice is his biggest step yet with the regular season approaching. Smith played all 17 games last year and caught 77 passes for 1,008 yards and four touchdowns, giving him his third 1,000-yard season. He has missed a chunk of August, but Monday's workload suggests he's getting back up to speed after the layoff. With Smith now fully practicing again, the hamstring issue appears to be moving firmly in the right direction ahead of Week 1.",
-        "title": "DeVonta Smith Back to Full Participation",
-        "topic_id": "1397667209190371328",
-        "url": "https://www.rotoballer.com/player-news/devonta-smith-back-to-full-participation/1915270"
-      },
-      "nfl_team": "PHI",
-      "player_id": "7525",
-      "player_name": "DeVonta Smith",
-      "position": "WR",
-      "published": 1787577726000,
-      "source": "rotoballer",
-      "source_key": "219286",
-      "story_id": "nfl|7525|rotoballer|219286|1787577726000",
-      "title": "DeVonta Smith Back to Full Participation",
-      "url": "https://www.rotoballer.com/player-news/devonta-smith-back-to-full-participation/1915270"
-    },
-    {
-      "analysis": null,
-      "description": "Philadelphia Eagles wide receiver Makai Lemon (hamstring) was back to full participation Monday and took first-team reps, according to Dave Zangaro. That's a notable step after the rookie missed most of August with a hamstring injury suffered on Aug. 3. Lemon only returned to practice Thursday and was limited to individual work, so this is the first time he has been back in team drills since the setback. The first-team work itself isn't new. Philadelphia had Lemon running with the starters during OTAs and again when training camp opened before the injury interrupted his summer. The 20th overall pick is coming off a 79-catch, 1,156-yard, 11-touchdown season at USC. He still has some catching up to do after losing nearly three weeks of practice, but Monday puts him back in the mix for the role the Eagles were already giving him before he went down. UPDATE: The Philadelphia Inquirer's Jeff McLane reports that Lemon said he thinks he'll be ready for Week 1 against the division-rival Washington Commanders.",
-      "metadata": {
-        "description": "Philadelphia Eagles wide receiver Makai Lemon (hamstring) was back to full participation Monday and took first-team reps, according to Dave Zangaro. That's a notable step after the rookie missed most of August with a hamstring injury suffered on Aug. 3. Lemon only returned to practice Thursday and was limited to individual work, so this is the first time he has been back in team drills since the setback. The first-team work itself isn't new. Philadelphia had Lemon running with the starters during OTAs and again when training camp opened before the injury interrupted his summer. The 20th overall pick is coming off a 79-catch, 1,156-yard, 11-touchdown season at USC. He still has some catching up to do after losing nearly three weeks of practice, but Monday puts him back in the mix for the role the Eagles were already giving him before he went down. UPDATE: The Philadelphia Inquirer's Jeff McLane reports that Lemon said he thinks he'll be ready for Week 1 against the division-rival Washington Commanders.",
-        "title": "Makai Lemon Back With First-Team Offense",
-        "topic_id": "1397664692347904000",
-        "url": "https://www.rotoballer.com/player-news/makai-lemon-back-with-first-team-offense/1915259"
-      },
-      "nfl_team": "PHI",
-      "player_id": "13294",
-      "player_name": "Makai Lemon",
-      "position": "WR",
-      "published": 1787577140000,
-      "source": "rotoballer",
-      "source_key": "219285",
-      "story_id": "nfl|13294|rotoballer|219285|1787577140000",
-      "title": "Makai Lemon Back With First-Team Offense",
-      "url": "https://www.rotoballer.com/player-news/makai-lemon-back-with-first-team-offense/1915259"
-    },
-    {
-      "analysis": null,
-      "description": "Carolina Panthers head coach Dave Canales said that if running back Chuba Hubbard (hamstring) is good to go for the start of the 2026 regular season, it will be a running back committee also involving Jonathon Brooks, according to Joe Person of The Athletic. Per Steve Reed of The Associated Press, Hubbard was a full participant in Monday's training camp practice after dealing with a hamstring injury in recent weeks, so he should be ready to roll for Week 1, barring a setback. Brooks' fantasy value has skyrocketed in recent weeks with Hubbard banged up. In fact, Brooks is currently ranked as the No. 33 RB at RotoBaller, with Hubbard coming in at No. 37. A full-on timeshare between both backs will cap their upside for fantasy managers as RB3/flex options. Brooks has more momentum, but he has also played in only three NFL games since being drafted in the second round in 2024 due to multiple ACL tears in his knee. Hubbard had a career-high 1,195 rushing yards and 10 rushing TDs in 2024, but he fell to 511 yards and one rushing touchdown in 15 games with the Panthers last year.",
-      "metadata": {
-        "description": "Carolina Panthers head coach Dave Canales said that if running back Chuba Hubbard (hamstring) is good to go for the start of the 2026 regular season, it will be a running back committee also involving Jonathon Brooks, according to Joe Person of The Athletic. Per Steve Reed of The Associated Press, Hubbard was a full participant in Monday's training camp practice after dealing with a hamstring injury in recent weeks, so he should be ready to roll for Week 1, barring a setback. Brooks' fantasy value has skyrocketed in recent weeks with Hubbard banged up. In fact, Brooks is currently ranked as the No. 33 RB at RotoBaller, with Hubbard coming in at No. 37. A full-on timeshare between both backs will cap their upside for fantasy managers as RB3/flex options. Brooks has more momentum, but he has also played in only three NFL games since being drafted in the second round in 2024 due to multiple ACL tears in his knee. Hubbard had a career-high 1,195 rushing yards and 10 rushing TDs in 2024, but he fell to 511 yards and one rushing touchdown in 15 games with the Panthers last year.",
-        "title": "Panthers to Use RB Committee if Chuba Hubbard is Good to Go",
-        "topic_id": "1397663433733746688",
-        "url": "https://www.rotoballer.com/player-news/panthers-to-use-rb-committee-if-chuba-hubbard-is-good-to-go/1915255"
-      },
-      "nfl_team": "CAR",
-      "player_id": "7594",
-      "player_name": "Chuba Hubbard",
-      "position": "RB",
-      "published": 1787576709000,
-      "source": "rotoballer",
-      "source_key": "219284",
-      "story_id": "nfl|7594|rotoballer|219284|1787576709000",
-      "title": "Panthers to Use RB Committee if Chuba Hubbard is Good to Go",
-      "url": "https://www.rotoballer.com/player-news/panthers-to-use-rb-committee-if-chuba-hubbard-is-good-to-go/1915255"
-    },
-    {
-      "analysis": null,
-      "description": "Pittsburgh Steelers wide receiver Michael Pittman Jr. (hamstring), who had not practiced since Aug. 8 due to a hamstring injury, returned to training camp practice on Monday and was seen stretching in pads, according to Chris Ward of Steelers Now. In addition to Pittman, the Steelers got top wideout DK Metcalf back from an undisclosed injury that kept him out since Aug. 8 as well. Barring setbacks, both Pittman and Metcalf should be ready for the Week 1 regular-season opener in early September. After being acquired by Pittsburgh in an offseason trade with the Indianapolis Colts, he will help add much-needed WR depth behind Metcalf for quarterback Aaron Rodgers in 2026. But in an offense that could remain ground-based under new head coach Mike McCarthy and with an aging QB, Pittman will not suddenly have newfound fantasy football upside in the Steel City. The 28-year-old pass-catcher had a career-high seven touchdowns in 17 games in 2025 in his final year in Indy, but he also went for just 784 yards, which were his fewest since his rookie campaign in 2020. RotoBaller has Pittman ranked as the WR43 going into his first year with the Steelers.",
-      "metadata": {
-        "description": "Pittsburgh Steelers wide receiver Michael Pittman Jr. (hamstring), who had not practiced since Aug. 8 due to a hamstring injury, returned to training camp practice on Monday and was seen stretching in pads, according to Chris Ward of Steelers Now. In addition to Pittman, the Steelers got top wideout DK Metcalf back from an undisclosed injury that kept him out since Aug. 8 as well. Barring setbacks, both Pittman and Metcalf should be ready for the Week 1 regular-season opener in early September. After being acquired by Pittsburgh in an offseason trade with the Indianapolis Colts, he will help add much-needed WR depth behind Metcalf for quarterback Aaron Rodgers in 2026. But in an offense that could remain ground-based under new head coach Mike McCarthy and with an aging QB, Pittman will not suddenly have newfound fantasy football upside in the Steel City. The 28-year-old pass-catcher had a career-high seven touchdowns in 17 games in 2025 in his final year in Indy, but he also went for just 784 yards, which were his fewest since his rookie campaign in 2020. RotoBaller has Pittman ranked as the WR43 going into his first year with the Steelers.",
-        "title": "Michael Pittman Jr. Back at Practice on Monday",
-        "topic_id": "1397658400157863936",
-        "url": "https://www.rotoballer.com/player-news/michael-pittman-jr-back-at-practice-on-monday/1915235"
-      },
-      "nfl_team": "PIT",
-      "player_id": "6819",
-      "player_name": "Michael Pittman",
-      "position": "WR",
-      "published": 1787575453000,
-      "source": "rotoballer",
-      "source_key": "219280",
-      "story_id": "nfl|6819|rotoballer|219280|1787575453000",
-      "title": "Michael Pittman Jr. Back at Practice on Monday",
-      "url": "https://www.rotoballer.com/player-news/michael-pittman-jr-back-at-practice-on-monday/1915235"
-    },
-    {
-      "analysis": null,
-      "description": "Pittsburgh Steelers wide receiver DK Metcalf (undisclosed) was in pads as he returned to training camp practice on Monday, according to Chris Ward of Steelers Now. Metcalf is returning for the first time since suffering an undisclosed injury in practice back on Aug. 8. The veteran wideout said last week that he felt fine and that he is 100% healthy. He said he would be available if it were the regular season. Along with Metcalf, new pass-catcher Michael Pittman Jr. (hamstring) also returned to practice on Monday as the team gears up for the Week 1 regular-season opener in a few weeks. The Steelers were playing it safe the last couple of weeks with their top two WRs, but they should both be ready for the season opener as quarterback Aaron Rodgers' top targets. The 28-year-old Metcalf caught 59 passes for 850 yards and six touchdowns in 15 regular-season starts in 2025 in his first year in the Steel City. Fantasy managers shouldn't necessarily bank on a bounce-back to the 1,000-yard mark for Metcalf in his eighth year in the league with an aging QB in his final season and after the addition of Pittman, who Rodgers could lean on heavily as a short-area target.",
-      "metadata": {
-        "description": "Pittsburgh Steelers wide receiver DK Metcalf (undisclosed) was in pads as he returned to training camp practice on Monday, according to Chris Ward of Steelers Now. Metcalf is returning for the first time since suffering an undisclosed injury in practice back on Aug. 8. The veteran wideout said last week that he felt fine and that he is 100% healthy. He said he would be available if it were the regular season. Along with Metcalf, new pass-catcher Michael Pittman Jr. (hamstring) also returned to practice on Monday as the team gears up for the Week 1 regular-season opener in a few weeks. The Steelers were playing it safe the last couple of weeks with their top two WRs, but they should both be ready for the season opener as quarterback Aaron Rodgers' top targets. The 28-year-old Metcalf caught 59 passes for 850 yards and six touchdowns in 15 regular-season starts in 2025 in his first year in the Steel City. Fantasy managers shouldn't necessarily bank on a bounce-back to the 1,000-yard mark for Metcalf in his eighth year in the league with an aging QB in his final season and after the addition of Pittman, who Rodgers could lean on heavily as a short-area target.",
-        "title": "DK Metcalf Returns to Practice, Says He's 100 Percent",
-        "topic_id": "1397657141766025216",
-        "url": "https://www.rotoballer.com/player-news/dk-metcalf-returns-to-practice-says-hes-100-percent/1915229"
-      },
-      "nfl_team": "PIT",
-      "player_id": "5846",
-      "player_name": "DK Metcalf",
-      "position": "WR",
-      "published": 1787575148000,
-      "source": "rotoballer",
-      "source_key": "219279",
-      "story_id": "nfl|5846|rotoballer|219279|1787575148000",
-      "title": "DK Metcalf Returns to Practice, Says He's 100 Percent",
-      "url": "https://www.rotoballer.com/player-news/dk-metcalf-returns-to-practice-says-hes-100-percent/1915229"
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots running back TreVeyon Henderson (undisclosed) did not finish Monday's training camp practice after slipping on a cut, according to Mike Reiss of ESPN. It is unclear exactly what Henderson did or what his specific injury is, but it is something that we will be keeping a close eye on for the rest of the day and into Tuesday. If it's a significant injury that keeps Henderson from suiting up for Week 1 of the regular season in a Super Bowl rematch against the Seattle Seahawks, it would boost Rhamondre Stevenson's fantasy football value tremendously, with Lan Larison and rookie Jam Miller becoming a big part of the team's backfield. Henderson, a second-rounder from Ohio State last year, ran for 911 yards and nine touchdowns on 180 carries in his first NFL season, adding 35 catches for 221 yards and another score as a receiver. When healthy, he is expected to be in a 50-50 backfield split with Stevenson in 2026, which makes him more of an RB3/flex target in single-year redraft leagues. Check back for an injury update on Henderson on Monday.",
-      "metadata": {
-        "description": "New England Patriots running back TreVeyon Henderson (undisclosed) did not finish Monday's training camp practice after slipping on a cut, according to Mike Reiss of ESPN. It is unclear exactly what Henderson did or what his specific injury is, but it is something that we will be keeping a close eye on for the rest of the day and into Tuesday. If it's a significant injury that keeps Henderson from suiting up for Week 1 of the regular season in a Super Bowl rematch against the Seattle Seahawks, it would boost Rhamondre Stevenson's fantasy football value tremendously, with Lan Larison and rookie Jam Miller becoming a big part of the team's backfield. Henderson, a second-rounder from Ohio State last year, ran for 911 yards and nine touchdowns on 180 carries in his first NFL season, adding 35 catches for 221 yards and another score as a receiver. When healthy, he is expected to be in a 50-50 backfield split with Stevenson in 2026, which makes him more of an RB3/flex target in single-year redraft leagues. Check back for an injury update on Henderson on Monday.",
-        "title": "TreVeyon Henderson Departs Practice Early With Potential Injury",
-        "topic_id": "1397653366380728320",
-        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-departs-practice-early-with-potential-injury/1915220"
-      },
-      "nfl_team": "NE",
-      "player_id": "12529",
-      "player_name": "TreVeyon Henderson",
-      "position": "RB",
-      "published": 1787574372000,
-      "source": "rotoballer",
-      "source_key": "219278",
-      "story_id": "nfl|12529|rotoballer|219278|1787574372000",
-      "title": "TreVeyon Henderson Departs Practice Early With Potential Injury",
-      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-departs-practice-early-with-potential-injury/1915220"
-    },
-    {
-      "analysis": null,
-      "description": "Houston Texans wide receiver Xavier Hutchinson is getting more offensive snaps now that Jayden Higgins (knee) is done for the entire 2026 season due to a torn ACL. Quarterback C.J. Stroud threw a 50-yard bomb to Hutchinson during Monday's training camp practice for a touchdown after he beat cornerback Derek Stingley Jr. In the team's preseason contest on Thursday against the Las Vegas Raiders, Hutchinson caught one of his two targets from Stroud for a loss of one yard. The 26-year-old could see the second-most snaps behind WR1 Nico Collins now that Higgins is out for the year, but second-year wideout Jaylin Noel (hamstring) and Tank Dell (knee) will have something to say about that when it's all said and done. Hutchinson has a real opportunity in 2026, but he doesn't have the pure upside that both Noel and Dell have if they are healthy. The former sixth-rounder in 2023 from Iowa State has 55 catches for 635 yards and three touchdowns (all last year) in his three years in Houston, with his 35-428-3 line in 17 regular-season games being his high-water mark.",
-      "metadata": {
-        "description": "Houston Texans wide receiver Xavier Hutchinson is getting more offensive snaps now that Jayden Higgins (knee) is done for the entire 2026 season due to a torn ACL. Quarterback C.J. Stroud threw a 50-yard bomb to Hutchinson during Monday's training camp practice for a touchdown after he beat cornerback Derek Stingley Jr. In the team's preseason contest on Thursday against the Las Vegas Raiders, Hutchinson caught one of his two targets from Stroud for a loss of one yard. The 26-year-old could see the second-most snaps behind WR1 Nico Collins now that Higgins is out for the year, but second-year wideout Jaylin Noel (hamstring) and Tank Dell (knee) will have something to say about that when it's all said and done. Hutchinson has a real opportunity in 2026, but he doesn't have the pure upside that both Noel and Dell have if they are healthy. The former sixth-rounder in 2023 from Iowa State has 55 catches for 635 yards and three touchdowns (all last year) in his three years in Houston, with his 35-428-3 line in 17 regular-season games being his high-water mark.",
-        "title": "Xavier Hutchinson Rising With More Snaps",
-        "topic_id": "1397650849894830080",
-        "url": "https://www.rotoballer.com/player-news/xavier-hutchinson-rising-with-more-snaps/1915216"
-      },
-      "nfl_team": "HOU",
-      "player_id": "10218",
-      "player_name": "Xavier Hutchinson",
-      "position": "WR",
-      "published": 1787573709000,
-      "source": "rotoballer",
-      "source_key": "219277",
-      "story_id": "nfl|10218|rotoballer|219277|1787573709000",
-      "title": "Xavier Hutchinson Rising With More Snaps",
-      "url": "https://www.rotoballer.com/player-news/xavier-hutchinson-rising-with-more-snaps/1915216"
-    },
-    {
-      "analysis": null,
-      "description": "Sports Illustrated's Albert Breer writes that Los Angeles Rams tight end Colby Parkinson is \"leading a deep, versatile tight end group.\" The Rams also have Tyler Higbee, Terrance Ferguson, Davis Allen, and rookie Max Klare at the position, and they ran the highest percentage of three-tight-end sets in the league last year. The 27-year-old Parkinson set career highs across the board with 43 receptions on 56 targets for 408 yards and eight touchdowns in 2025 in 15 regular-season games in his sixth year in the NFL (second with the Rams). It was a nice season for Parkinson, but even in one of the league's highest-scoring offenses, fantasy managers should not expect a repeat for him in 2026. It is a crowded TE room, and Ferguson probably has the most short- and long-term pass-catching upside of the group in an offense in which receivers Puka Nacua and Davante Adams dominate targets from quarterback Matthew Stafford. At best, Parkinson should be considered a touchdown-dependent TE2 in fantasy football leagues, and there will surely be a lot of volatility on a week-to-week basis.",
-      "metadata": {
-        "description": "Sports Illustrated's Albert Breer writes that Los Angeles Rams tight end Colby Parkinson is \"leading a deep, versatile tight end group.\" The Rams also have Tyler Higbee, Terrance Ferguson, Davis Allen, and rookie Max Klare at the position, and they ran the highest percentage of three-tight-end sets in the league last year. The 27-year-old Parkinson set career highs across the board with 43 receptions on 56 targets for 408 yards and eight touchdowns in 2025 in 15 regular-season games in his sixth year in the NFL (second with the Rams). It was a nice season for Parkinson, but even in one of the league's highest-scoring offenses, fantasy managers should not expect a repeat for him in 2026. It is a crowded TE room, and Ferguson probably has the most short- and long-term pass-catching upside of the group in an offense in which receivers Puka Nacua and Davante Adams dominate targets from quarterback Matthew Stafford. At best, Parkinson should be considered a touchdown-dependent TE2 in fantasy football leagues, and there will surely be a lot of volatility on a week-to-week basis.",
-        "title": "Colby Parkinson the Leader of Rams' Tight End Room?",
-        "topic_id": "1397648332632936448",
-        "url": "https://www.rotoballer.com/player-news/colby-parkinson-the-leader-of-rams-tight-end-room/1915206"
-      },
-      "nfl_team": "LAR",
-      "player_id": "6865",
-      "player_name": "Colby Parkinson",
-      "position": "TE",
-      "published": 1787573175000,
-      "source": "rotoballer",
-      "source_key": "219276",
-      "story_id": "nfl|6865|rotoballer|219276|1787573175000",
-      "title": "Colby Parkinson the Leader of Rams' Tight End Room?",
-      "url": "https://www.rotoballer.com/player-news/colby-parkinson-the-leader-of-rams-tight-end-room/1915206"
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots second-year running back TreVeyon Henderson is back at the team's training camp practice on Monday after being absent on Saturday night in the preseason contest against the Philadelphia Eagles, according to Andrew Callahan of the Boston Herald. Both Henderson and Rhamondre Stevenson were not used in the team's second preseason game over the weekend. Stevenson has been listed as the RB1 on New England's preseason depth chart, but the 23-year-old Henderson will continue to be a big part of the Patriots' backfield in his second NFL season after he helped lead the team to a Super Bowl appearance in his first year in the league. The former second-rounder from Ohio State had 911 rushing yards and nine rushing touchdowns on 180 carries while adding 35 catches for 221 yards and another score in 17 regular-season games in 2025. It was an impressive campaign, but Stevenson still has the trust of head coach Mike Vrabel, and Henderson's lack of improvement as a pass-blocker will hurt his overall fantasy upside in Year 2. RotoBaller currently has him ranked as the No. 27 fantasy RB for 2026.",
-      "metadata": {
-        "description": "New England Patriots second-year running back TreVeyon Henderson is back at the team's training camp practice on Monday after being absent on Saturday night in the preseason contest against the Philadelphia Eagles, according to Andrew Callahan of the Boston Herald. Both Henderson and Rhamondre Stevenson were not used in the team's second preseason game over the weekend. Stevenson has been listed as the RB1 on New England's preseason depth chart, but the 23-year-old Henderson will continue to be a big part of the Patriots' backfield in his second NFL season after he helped lead the team to a Super Bowl appearance in his first year in the league. The former second-rounder from Ohio State had 911 rushing yards and nine rushing touchdowns on 180 carries while adding 35 catches for 221 yards and another score in 17 regular-season games in 2025. It was an impressive campaign, but Stevenson still has the trust of head coach Mike Vrabel, and Henderson's lack of improvement as a pass-blocker will hurt his overall fantasy upside in Year 2. RotoBaller currently has him ranked as the No. 27 fantasy RB for 2026.",
-        "title": "TreVeyon Henderson Returns to Practice on Monday",
-        "topic_id": "1397643299312922624",
-        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-returns-to-practice-on-monday/1915195"
-      },
-      "nfl_team": "NE",
-      "player_id": "12529",
-      "player_name": "TreVeyon Henderson",
-      "position": "RB",
-      "published": 1787571605000,
-      "source": "rotoballer",
-      "source_key": "219275",
-      "story_id": "nfl|12529|rotoballer|219275|1787571605000",
-      "title": "TreVeyon Henderson Returns to Practice on Monday",
-      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-returns-to-practice-on-monday/1915195"
-    },
-    {
-      "analysis": null,
-      "description": "Green Bay Packers running back Josh Jacobs (groin) has dealt with a multi-week groin injury that held him out of Friday's preseason matchup with the Broncos, but he will participate in Monday's practice, according to team beat writer Ryan Wood. Head Coach Matt LaFleur told reporters ahead of practice that Jacobs would participate in team drills with limitations. Injuries derailed what started as a strong second season with the Packers, and following a tumultuous offseason that could still see disciplinary ramifications, Jacobs has fallen to RB15 by current ADP. While his legal situation makes for a risky click even at his depressed draft cost, if Jacobs is healthy and available for a full slate of games, he has top-five upside and could prove to be a league-winner in 2026.",
-      "metadata": {
-        "description": "Green Bay Packers running back Josh Jacobs (groin) has dealt with a multi-week groin injury that held him out of Friday's preseason matchup with the Broncos, but he will participate in Monday's practice, according to team beat writer Ryan Wood. Head Coach Matt LaFleur told reporters ahead of practice that Jacobs would participate in team drills with limitations. Injuries derailed what started as a strong second season with the Packers, and following a tumultuous offseason that could still see disciplinary ramifications, Jacobs has fallen to RB15 by current ADP. While his legal situation makes for a risky click even at his depressed draft cost, if Jacobs is healthy and available for a full slate of games, he has top-five upside and could prove to be a league-winner in 2026.",
-        "title": "Josh Jacobs to Participate in Limited Team Drills on Monday",
-        "topic_id": "1397633232282923008",
-        "url": "https://www.rotoballer.com/player-news/josh-jacobs-to-participate-in-limited-team-drills-on-monday/1915171"
-      },
-      "nfl_team": "GB",
-      "player_id": "5850",
-      "player_name": "Josh Jacobs",
-      "position": "RB",
-      "published": 1787569301000,
-      "source": "rotoballer",
-      "source_key": "219273",
-      "story_id": "nfl|5850|rotoballer|219273|1787569301000",
-      "title": "Josh Jacobs to Participate in Limited Team Drills on Monday",
-      "url": "https://www.rotoballer.com/player-news/josh-jacobs-to-participate-in-limited-team-drills-on-monday/1915171"
-    },
-    {
-      "analysis": null,
-      "description": "Since being selected by the Cincinnati Bengals in the sixth round of the 2023 NFL Draft, wide receiver Andrei Iosivas has enjoyed sporadic success as the team's third receiver behind Ja'Marr Chase and Tee Higgins, inheriting the role from Tyler Boyd after his rookie season. Unsurprisingly, when both Chase and Higgins are healthy and in the lineup, Iosivas has struggled to carve out his own standalone worth, and a strong training camp from fourth-round rookie Colbie Young could see him splitting time in three-receiver sets. Already clinging to the edges of fantasy relevance with the role to himself, the added competition makes Iosivas a player who does not need to be rostered in 2026 redraft leagues, though an injury ahead of him could again see the fourth-year receiver become a waiver wire priority. With a murkier situation than he's seen in past seasons and so much of his value tied to hypotheticals, Iosivas is RotoBaller's WR87.",
-      "metadata": {
-        "description": "Since being selected by the Cincinnati Bengals in the sixth round of the 2023 NFL Draft, wide receiver Andrei Iosivas has enjoyed sporadic success as the team's third receiver behind Ja'Marr Chase and Tee Higgins, inheriting the role from Tyler Boyd after his rookie season. Unsurprisingly, when both Chase and Higgins are healthy and in the lineup, Iosivas has struggled to carve out his own standalone worth, and a strong training camp from fourth-round rookie Colbie Young could see him splitting time in three-receiver sets. Already clinging to the edges of fantasy relevance with the role to himself, the added competition makes Iosivas a player who does not need to be rostered in 2026 redraft leagues, though an injury ahead of him could again see the fourth-year receiver become a waiver wire priority. With a murkier situation than he's seen in past seasons and so much of his value tied to hypotheticals, Iosivas is RotoBaller's WR87.",
-        "title": "Andrei Iosivas Being Pushed for Bengals' WR3 Role",
-        "topic_id": "1397628198384066560",
-        "url": "https://www.rotoballer.com/player-news/andrei-iosivas-being-pushed-for-bengals-wr3-role/1915162"
-      },
-      "nfl_team": "CIN",
-      "player_id": "10226",
-      "player_name": "Andrei Iosivas",
-      "position": "WR",
-      "published": 1787567948000,
-      "source": "rotoballer",
-      "source_key": "219271",
-      "story_id": "nfl|10226|rotoballer|219271|1787567948000",
-      "title": "Andrei Iosivas Being Pushed for Bengals' WR3 Role",
-      "url": "https://www.rotoballer.com/player-news/andrei-iosivas-being-pushed-for-bengals-wr3-role/1915162"
-    },
-    {
-      "analysis": null,
-      "description": "Cleveland Browns quarterback Shedeur Sanders famously fell to the fifth round of the 2025 NFL Draft, but he found the field for seven starts as a rookie and was eventually named a Pro Bowl alternate. He spent his second training camp in a battle with veteran Deshaun Watson, and on Monday, head coach Todd Monken named Watson as the starter, with NFL Insider Jordan Schultz reporting that Sanders will serve as his backup. Sanders looked sharp to start Saturday's preseason game against the Bills, but threw a late interception with the inconsistency that has plagued him throughout camp creeping into a live game scenario. While Watson did not perform any better on Saturday, completing only 41.7% of his passes and throwing an interception of his own, he showed enough throughout camp to win a battle with no obvious separator. Sanders has been drafted as the consensus QB29 throughout fantasy draft season, but Monday's news is certain to push him off of draft boards.",
-      "metadata": {
-        "description": "Cleveland Browns quarterback Shedeur Sanders famously fell to the fifth round of the 2025 NFL Draft, but he found the field for seven starts as a rookie and was eventually named a Pro Bowl alternate. He spent his second training camp in a battle with veteran Deshaun Watson, and on Monday, head coach Todd Monken named Watson as the starter, with NFL Insider Jordan Schultz reporting that Sanders will serve as his backup. Sanders looked sharp to start Saturday's preseason game against the Bills, but threw a late interception with the inconsistency that has plagued him throughout camp creeping into a live game scenario. While Watson did not perform any better on Saturday, completing only 41.7% of his passes and throwing an interception of his own, he showed enough throughout camp to win a battle with no obvious separator. Sanders has been drafted as the consensus QB29 throughout fantasy draft season, but Monday's news is certain to push him off of draft boards.",
-        "title": "Shedeur Sanders to Begin His Second Season as Browns' Backup",
-        "topic_id": "1397623164816633856",
-        "url": "https://www.rotoballer.com/player-news/shedeur-sanders-to-begin-his-second-season-as-browns-backup/1915119"
-      },
-      "nfl_team": "CLE",
-      "player_id": "12524",
-      "player_name": "Shedeur Sanders",
-      "position": "QB",
-      "published": 1787567229000,
-      "source": "rotoballer",
-      "source_key": "219270",
-      "story_id": "nfl|12524|rotoballer|219270|1787567229000",
-      "title": "Shedeur Sanders to Begin His Second Season as Browns' Backup",
-      "url": "https://www.rotoballer.com/player-news/shedeur-sanders-to-begin-his-second-season-as-browns-backup/1915119"
-    },
-    {
-      "analysis": null,
-      "description": "The Cleveland Browns have named veteran quarterback Deshaun Watson as their starter for the 2026 season, according to NFL Insider Jordan Schultz. Watson battled second-year quarterback Shedeur Sanders throughout training camp and two-up-and-down preseason games, and with neither able to take a clear grasp on the role, head coach Todd Monken's decision did not come until late August. Watson completed only five of 12 pass attempts in the team's second preseason game on Saturday, adding an interception to his lost fumble from preseason game one, but he showed enough in practice to earn the starting job in what will be his tenth professional season. A three-time Pro Bowler with the Houston Texans, Watson was acquired by the Browns in 2022, where he has gone 9-10 as a starter and most recently missed the entire 2025 season after rupturing his Achilles tendon for the second time. Watson is RotoBaller's QB32, and he will be backed up by Sanders.",
-      "metadata": {
-        "description": "The Cleveland Browns have named veteran quarterback Deshaun Watson as their starter for the 2026 season, according to NFL Insider Jordan Schultz. Watson battled second-year quarterback Shedeur Sanders throughout training camp and two-up-and-down preseason games, and with neither able to take a clear grasp on the role, head coach Todd Monken's decision did not come until late August. Watson completed only five of 12 pass attempts in the team's second preseason game on Saturday, adding an interception to his lost fumble from preseason game one, but he showed enough in practice to earn the starting job in what will be his tenth professional season. A three-time Pro Bowler with the Houston Texans, Watson was acquired by the Browns in 2022, where he has gone 9-10 as a starter and most recently missed the entire 2025 season after rupturing his Achilles tendon for the second time. Watson is RotoBaller's QB32, and he will be backed up by Sanders.",
-        "title": "Browns Naming Deshaun Watson as Starting Quarterback",
-        "topic_id": "1397620647957413888",
-        "url": "https://www.rotoballer.com/player-news/browns-naming-deshaun-watson-as-starting-quarterback/1915113"
-      },
-      "nfl_team": "CLE",
-      "player_id": "4017",
-      "player_name": "Deshaun Watson",
-      "position": "QB",
-      "published": 1787566453000,
-      "source": "rotoballer",
-      "source_key": "219269",
-      "story_id": "nfl|4017|rotoballer|219269|1787566453000",
-      "title": "Browns Naming Deshaun Watson as Starting Quarterback",
-      "url": "https://www.rotoballer.com/player-news/browns-naming-deshaun-watson-as-starting-quarterback/1915113"
     }
   ]
 }

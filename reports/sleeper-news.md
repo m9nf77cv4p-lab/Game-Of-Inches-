@@ -2,11 +2,24 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **4507**
-- Newly captured: **15**
+- Stored stories: **4484**
+- Newly captured: **5**
 
 ## Latest news
 
+- **NEW — Ollie Gordon** — Ollie Gordon II uninvolved in loss Sunday (2026-09-23T13:55:16.038000Z)
+  - Gordon didn't play much on Sunday, seeing just three touches in Miami's three-score loss to the 49ers. He hasn't shown much involvement at all over the first two weeks of the season, so fantasy managers shouldn't consider rostering him for the foreseeable future.
+  - Source: https://www.fantasypros.com/nfl/news/609964/ollie-gordon-ii-uninvolved-loss-sunday.php
+- **NEW — Travis Etienne** — Travis Etienne Jr. underwhelming in win Sunday (2026-09-23T13:50:15.980000Z)
+  - Week 2 exposed some major concerns for Etienne. Not only did he have a bad game as far as efficiency and fantasy output go, but the return of Alvin Kamara is proving to be a big issue for his fantasy value, as the 31-year old saw one more carry and four more targets in his first game back from injury. Unless this distribution of work changes in the near future, it looks like Etienne is going to have a volatile week-to-week ceiling with the presence of Kamara eating into his workload that much.
+  - Source: https://www.fantasypros.com/nfl/news/609962/travis-etienne-jr-underwhelming-win-sunday.php
+- **NEW — Jonathon Brooks** — Jonathon Brooks - Moved to IR (2026-09-23T13:48:40Z)
+  - As a result of the transaction, Brooks won't be eligible to play in any of the Panthers' next four games, but he's expected to miss additional time beyond that. Ian Rapoport of NFL Network reported earlier Wednesday that the running back will require surgery to repair a core muscle, which will keep him out for at least six weeks. With Brooks joining Trevor Etienne (ankle) on IR, AJ Dillon is left as the only reserve option on the 53-man roster behind lead back Chuba Hubbard. Carolina has Ahmani Marshall and Anthony Tyus on its practice squad, and the team will work out veteran Austin Ekeler on Wednesday and potentially sign him to bolster its running-back room, per Aaron Wilson of KPRC 2 Houston.
+- **NEW — Jonathon Brooks** — Jonathon Brooks - Requires surgery, out six weeks (2026-09-23T13:10:35Z)
+  - Brooks is expected to be officially placed on injured reserve in the coming days after exited this past Sunday's 34-3 win over the Falcons due to what had previously been labeled as a groin injury. With Brooks set to miss time, Chuba Hubbard should be further insulated as the Panthers' No. 1 back, while AJ Dillon is lone healthy backup option on the 53-man roster. Aaron Wilson of KPRC 2 Houston relays that the Panthers plan to work out veteran Austin Ekeler on Wednesday, and he could eventually be signed to provide further depth in the backfield.
+- **NEW — Jonathon Brooks** — Jonathon Brooks (groin) undergoing surgery, will miss about 6 weeks (2026-09-23T11:40:15.544000Z)
+  - It's a tough blow for Brooks, who had just gotten back to the playing field after roughly two years away from it. When Brooks returns, he'll still have time to make some noise before the season ends, but there's no telling how much work he will get. Chuba Hubbard will carry the load in Carolina with Brooks out, so be expecting at least RB2 numbers from him thanks to volume.
+  - Source: https://www.fantasypros.com/nfl/news/609949/jonathon-brooks-groin-undergoing-surgery-will-miss-about-6-weeks.php
 - **Mac Jones** — Mac Jones - Sees limited action in Week 2 (2026-09-23T04:30:51Z)
   - The 49ers had no trouble building a comfortable lead throughout the contest, resulting in Jones appearing in eight of the team's 52 offensive snaps. The 28-year-old is coming off a sound 2025 campaign, throwing for 2,151 yards, 13 touchdowns and six interceptions while completing a career-best 69.6 percent of his attempts. While Jones is considered one of the better backup quarterbacks in the NFL, his fantasy ceiling is low as long as Brock Purdy is healthy.
 - **Kimani Vidal** — Kimani Vidal - Not a factor once again (2026-09-23T04:15:55Z)
@@ -23,7 +36,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Sanders played 11 offensive snaps and six special-teams snaps in Sunday's contest. Despite the small snap share, Sanders found plenty to do in Cleveland's first win of the season, making key plays for both the offensive and special teams units.
 - **Cam Ward** — Cam Ward Playing Clean Football with Touchdown Upside (2026-09-23T01:12:06Z)
   - Source: https://www.rotoballer.com/player-news/cam-ward-playing-clean-football-with-touchdown-upside/1948120
-- **Geno Smith** — High Volume Makes Geno Smith an Appealing Waiver Wire Target (2026-09-23T01:09:05Z)
+- **Geno Smith** — High Volume Makes Geno Smith an Appealing Waiver-Wire Target (2026-09-23T01:09:05Z)
   - Source: https://www.rotoballer.com/player-news/high-volume-makes-geno-smith-an-appealing-waiver-wire-target/1948118
 - **Kaleb Johnson** — Kaleb Johnson - Limited by backfield timeshare (2026-09-23T00:46:58Z)
   - Johnson appeared in 16 of the Packers' 59 offensive snaps against the Jets, ending behind Chris Brooks (27) and tying with starter MarShawn Lloyd (16). However, none of them could get anything going, with all three players combining for 63 yards off 18 attempts. Johnson had plenty of hype entering his rookie season with the Steelers in 2025, though he wasn't very involved. With Josh Jacobs (personal) on the Commissioner's Exempt List, there will be snaps up for grabs. While that could mean more involvement from Johnson moving ahead, it seems as if head coach Matt LaFleur will continue to have all three players split carries, which isn't good news for fantasy managers, especially those looking to fill the void left by Jacobs' absence.
@@ -86,17 +99,17 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/brock-bowers-expected-to-make-season-debut-in-week-3/1947942
 - **Tua Tagovailoa** — Tua Tagovailoa - Turns in full practice (2026-09-22T20:08:02Z)
   - Tagovailoa took part in his first full practice since Sept. 9, after he sustained an oblique injury a day later that kept him from playing in either of the Falcons' first two games of the season. The 28-year-old had been poised to direct the offense for Atlanta in Week 1 before the oblique injury cropped up, but he'll now have to settle for the No. 2 role with Michael Penix (knee) getting cleared to make his 2026 debut as the team's starting quarterback Thursday versus the Packers.
-- **NEW — Jameis Winston** — Jameis Winston - Extended starting opportunity awaits (2026-09-22T19:08:18Z)
+- **Jameis Winston** — Jameis Winston - Extended starting opportunity awaits (2026-09-22T19:08:18Z)
   - After exiting in the first quarter Monday, Dart received a preliminary diagnosis of a sprained MCL, an injury that typically entails a multi-week absence but typically isn't season-ending. Unfortunately for Dart, follow-up tests Tuesday seemingly revealed additional damage to his knee that could potentially lead to season-ending surgery. Dart will likely receive additional medical opinions before a treatment plan and recovery timeline is established, but with an extended absence on tap, the door is open for Winston to direct the New York offense beginning with Sunday's game versus Tennessee. Winston averaged a healthy 8.6 yards per attempt between two starts and one brief appearance off the bench with the Giants a season ago, but he was highly inefficient in relief of Dart in his 2026 debut Monday, completing just 11 of 27 passes for 111 yards, no touchdowns and an interception.
 - **Jaxson Dart** — Jaxson Dart (knee) testing reveals knee injury could be season-ending (2026-09-22T18:51:01.450000Z)
   - Dart went down early in the first quarter with a knee injury, and did not return despite pushing to come back into the game. Now with testing revealing that his injuries could be season-ending, it's a massive blow to fantasy managers. Jameis Winston looked shell shocked for the majority of his snaps, a far cry from the Jameis we've come to know and love over the past few seasons. There are a few comforts we can take from his performance, one is the fact that top WR Malik Nabers hurt his shoulder and was playing through pain. The other is that he will not have to face the Rams pass rush again this season. He could still be a streaming option if Dart is out, but don't start him right away as we want to see a bit more promise of a bounce back first.
   - Source: https://www.fantasypros.com/nfl/news/609840/jaxson-dart-knee-testing-reveals-knee-injury-could-be-season-ending.php
 - **Jaxson Dart** — Jaxson Dart - May need season-ending surgery (2026-09-22T18:50:50Z)
   - The Giants had previously been optimistic that Dart would avoid an extended absence after initial scans following Monday's game suggested that he sustained an MCL sprain in his knee, but follow-up tests appear to have revealed more significant damage. Dart is likely to seek out additional medical opinions before deciding on a treatment plan for his injury, but if surgery is deemed necessary, he would likely be lost for the remainder of the 2026 campaign. Jameis Winston is poised to direct the Giants offense in Week 3 versus the Titans and could be in line for an extended run as the team's starting quarterback.
-- **NEW — Tyson Bagent** — Tyson Bagent (concussion) in concussion protocol, could miss Week 3 (2026-09-22T18:31:01.857000Z)
+- **Tyson Bagent** — Tyson Bagent (concussion) in concussion protocol, could miss Week 3 (2026-09-22T18:31:01.857000Z)
   - Bagent came in relief of the injured Caleb Williams and was having decent success in moving the ball on a potential game winning drive before stalling in the red zone. If Bagent can't go, Case Keenum will start. Keenum has had success in the past and isn't a bad third stringer to have on a real life roster, but isn't someone you should look to start this weekend in fantasy if you can help it.
   - Source: https://www.fantasypros.com/nfl/news/609838/tyson-bagent-concussion-concussion-protocol-could-miss-week-3.php
-- **NEW — Tyson Bagent** — Tyson Bagent - Enters concussion protocol (2026-09-22T18:18:15Z)
+- **Tyson Bagent** — Tyson Bagent - Enters concussion protocol (2026-09-22T18:18:15Z)
   - With Caleb Williams viewed as week-to-week after suffering a hamstring injury in the Bears' Week 2 loss to the Vikings, Bagent appeared to be the leading candidate to start Monday against the Eagles. However, now that he's been placed in concussion protocol, Bagent's availability for Week 3 is suddenly up in the air. Third-stringer Case Keenum is left as the only healthy quarterback on the roster and could be in line to start against the Eagles if neither Williams nor Bagent is cleared to play Monday.
 - **Rico Dowdle** — Rico Dowdle Considered Day-to-Day With Toe Injury (2026-09-22T17:45:05Z)
   - Source: https://www.rotoballer.com/player-news/rico-dowdle-considered-day-to-day-with-toe-injury/1947861
@@ -129,9 +142,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-to-have-growing-role-in-broncos-offense/1947669
 - **Jaxson Dart** — Jaxson Dart Could Miss the Rest of the Season (2026-09-22T14:47:07Z)
   - Source: https://www.rotoballer.com/player-news/jaxson-dart-could-miss-the-rest-of-the-season/1947662
-- **NEW — Tyson Bagent** — Tyson Bagent in the Concussion Protocol (2026-09-22T14:29:05Z)
+- **Tyson Bagent** — Tyson Bagent in the Concussion Protocol (2026-09-22T14:29:05Z)
   - Source: https://www.rotoballer.com/player-news/tyson-bagent-in-the-concussion-protocol/1947643
-- **NEW — Marcus Mariota** — Marcus Mariota a Waiver Priority in Superflex Leagues (2026-09-22T14:21:05Z)
+- **Marcus Mariota** — Marcus Mariota a Waiver Priority in Superflex Leagues (2026-09-22T14:21:05Z)
   - Source: https://www.rotoballer.com/player-news/marcus-mariota-a-waiver-priority-in-superflex-leagues/1947635
 - **Drew Lock** — Drew Lock Seems Likely to Make Another Start (2026-09-22T14:08:18Z)
   - Source: https://www.rotoballer.com/player-news/drew-lock-seems-likely-to-make-another-start/1947626
@@ -169,7 +182,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Isaiah Likely** — Isaiah Likely hauls in five passes Monday (2026-09-22T12:20:59.278000Z)
   - Likely didn't put up great numbers on Monday night, finishing with just 33 yards in a loss to the Rams. He was still the most targeted player on the team by far, however, which is a good sign that he will bounce back and return to form sometime in the near future. His bounce back may be delayed is Jaxson Dart (knee) has to miss time for the Giants.
   - Source: https://www.fantasypros.com/nfl/news/609806/isaiah-likely-hauls-five-passes-monday.php
-- **NEW — Jameis Winston** — Jameis Winston underwhelms in loss Monday (2026-09-22T12:20:59.256000Z)
+- **Jameis Winston** — Jameis Winston underwhelms in loss Monday (2026-09-22T12:20:59.256000Z)
   - The veteran quarterback came into the game when Jaxson Dart left with a knee injury. Winston didn't look good against the Rams, finishing with just over 100 scoreless yards in a blowout loss. It looks like Jaxson Dart is going to miss a bit of time with a sprained MCL, leaving Winston as the short-term starter for New York, which will be less than ideal for most of the fantasy options on their roster.
   - Source: https://www.fantasypros.com/nfl/news/609807/jameis-winston-underwhelms-loss-monday.php
 - **Malachi Fields** — Malachi Fields hauls in two passes Monday (2026-09-22T12:20:59.230000Z)
@@ -221,13 +234,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-a-priority-add-after-good-showing/1947367
 - **Malachi Fields** — Malachi Fields Is Worth a Look in Deep Leagues (2026-09-22T09:56:05Z)
   - Source: https://www.rotoballer.com/player-news/malachi-fields-is-worth-a-look-in-deep-leagues/1947356
-- **Adonai Mitchell** — Adonai Mitchell Brings Excellent Upside from the Waiver Wire (2026-09-22T09:52:07Z)
-  - Source: https://www.rotoballer.com/player-news/adonai-mitchell-brings-excellent-upside-from-the-waiver-wire/1947352
-- **Dontayvion Wicks** — Dontayvion Wicks Makes a Solid WR Addition in All Formats (2026-09-22T09:39:49Z)
-  - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-makes-a-solid-wr-addition-in-all-formats/1947343
-- **Daniel Jones** — Daniel Jones Can Help Fill a QB Need (2026-09-22T09:29:05Z)
-  - Source: https://www.rotoballer.com/player-news/daniel-jones-can-help-fill-a-qb-need/1947334
-- **Dalton Schultz** — Dalton Schultz Is a Priority Pickup for Week 3 (2026-09-22T09:18:18Z)
-  - Source: https://www.rotoballer.com/player-news/dalton-schultz-is-a-priority-pickup-for-week-3/1947324
-- **Malachi Fields** — Malachi Fields - Another two grabs in loss (2026-09-22T04:21:20Z)
-  - Fields finished third in receptions and second in targets for the Giants on a night when Jaxson Dart (knee) exited after just one series. One of Fields' catches came during that opening drive, as he secured a 14-yard grab on third down to move the chains. The  rookie third-round pick has enjoyed a solid complementary role over his first two NFL games, posting a 4-55-0 line on 10 targets. Fields is slotting in ahead of veteran Darnell Mooney on the depth chart heading into a Week 3 home matchup against the Titans on Sunday.
