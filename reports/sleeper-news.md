@@ -2,34 +2,82 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **4576**
-- Newly captured: **29**
+- Stored stories: **4597**
+- Newly captured: **27**
 
 ## Latest news
 
-- **NEW — Cooper Kupp** — Cooper Kupp - Limited Wednesday (2026-09-24T00:00:37Z)
+- **NEW — DJ Moore** — DJ Moore (shoulder) officially limited Wednesday (2026-09-24T04:10:34.554000Z)
+  - Moore suffered a shoulder injury during last week's win over the Lions. He is considered day-to-day for now and was able to practice on Wednesday in a limited fashion. He may be ready to play in time for Week 3, but we likely won't know his official status until the end of the practice week on Friday.
+  - Source: https://www.fantasypros.com/nfl/news/610231/dj-moore-shoulder-officially-limited-wednesday.php
+- **NEW — Keon Coleman** — Keon Coleman (ankle) doesn't practice Wednesday (2026-09-24T04:10:34.544000Z)
+  - The young wideout is now recovering from an ankle injury and may miss Sunday's game because of it. If he is ruled out ahead of game time, look for Khalil Shakir and Dalton Kincaid to be two of the main beneficiaries of his absence.
+  - Source: https://www.fantasypros.com/nfl/news/610232/keon-coleman-ankle-doesnt-practice-wednesday.php
+- **NEW — Christian McCaffrey** — Christian McCaffrey (rest) doesn't practice Wednesday (2026-09-24T04:00:34.643000Z)
+  - McCaffrey was given Wednesday off as a veteran rest day, which is normal for him at the first practice of the week. He should be a full go for Sunday's game and remains a must-start fantasy option in all league formats for as long as he stays healthy and on the field.
+  - Source: https://www.fantasypros.com/nfl/news/610224/christian-mccaffrey-rest-doesnt-practice-wednesday.php
+- **NEW — Demarcus Robinson** — Demarcus Robinson (ankle) absent from practice Wednesday (2026-09-24T04:00:34.633000Z)
+  - Robinson wasn't able to practice on Wednesday, which comes as no surprise considering that the 49ers are contemplating whether or not to place him on injured reserve. Fantasy managers shouldn't expect him to play a role on this offense for the next couple of weeks at least.
+  - Source: https://www.fantasypros.com/nfl/news/610225/demarcus-robinson-ankle-absent-from-practice-wednesday.php
+- **NEW — Puka Nacua** — Puka Nacua (hip) officially doesn't practice Wednesday (2026-09-24T04:00:34.620000Z)
+  - As expected, Nacua was not able to practice for the Rams on Wednesday and was officially sidelined. He remains uncertain for Week 3, but it sounds like the team is looking to err on the side of caution if it comes down to the wire, which would again lead to more work for Davante Adams and Terrance Ferguson (ankle) on Sunday night.
+  - Source: https://www.fantasypros.com/nfl/news/610226/puka-nacua-hip-officially-doesnt-practice-wednesday.php
+- **NEW — Terrance Ferguson** — Terrance Ferguson (ankle) listed as limited Wednesday (2026-09-24T04:00:34.578000Z)
+  - Ferguson was estimated to be a limited participant at Wednesday's walk-through for the Rams. He's managing an ankle injury right now, but it doesn't seem to be more than a minor issue for him at this point. Fantasy managers should keep tabs on updates about his health and about the health of Puka Nacua (hip), as the young tight end benefited greatly when Los Angeles was missing their star wideout last week.
+  - Source: https://www.fantasypros.com/nfl/news/610229/terrance-ferguson-ankle-listed-limited-wednesday.php
+- **NEW — Cooper Kupp** — Cooper Kupp (back) limited participant Wednesday (2026-09-24T03:50:34.088000Z)
+  - Kupp is managing a minor back issue right now and was limited at Wednesday's practice as a result. He should be good to go for Week 3 but doesn't project to be a good fantasy option in that matchup, even if QB Sam Darnold (glute) is active.
+  - Source: https://www.fantasypros.com/nfl/news/610219/cooper-kupp-back-limited-participant-wednesday.php
+- **NEW — Kaytron Allen** — Kaytron Allen (hip) listed as limited Wednesday (2026-09-24T03:50:34.067000Z)
+  - The rookie seems to have picked up a hip injury somewhere along the way, as it left him limited for the team's practice on Wednesday. Fantasy managers shouldn't expect much to change in Washington's backfield whether or not he is available to play this week.
+  - Source: https://www.fantasypros.com/nfl/news/610221/kaytron-allen-hip-listed-limited-wednesday.php
+- **NEW — Sam Darnold** — Sam Darnold (glute) officially limited Wednesday (2026-09-24T03:40:33.842000Z)
+  - To no surprise, Darnold was not able to log a full practice session on Wednesday and was limited by his glute injury. The team is still unsure whether or not he will play in Week 3, so fantasy managers should continue to keep tabs on his status throughout the rest of the week.
+  - Source: https://www.fantasypros.com/nfl/news/610215/sam-darnold-glute-officially-limited-wednesday.php
+- **NEW — Jadarian Price** — Jadarian Price (chest) officially limited Wednesday (2026-09-24T03:40:33.808000Z)
+  - The rookie was a limited participant in the team's first practice of the week on Wednesday. He recently suffered a chest injury, and it remains unclear whether or not it will force him to miss time. Look for George Holani (knee) to see more work if Price misses any time.
+  - Source: https://www.fantasypros.com/nfl/news/610218/jadarian-price-chest-officially-limited-wednesday.php
+- **NEW — Chuba Hubbard** — Chuba Hubbard Gets the Backfield All to Himself (2026-09-24T01:05:06Z)
+  - Source: https://www.rotoballer.com/player-news/chuba-hubbard-gets-the-backfield-all-to-himself/1949015
+- **NEW — Jaylen Wright** — Jaylen Wright - Nursing multiple injuries (2026-09-24T00:57:23Z)
+  - Wright was forced out of Sunday's loss at San Francisco early with a stinger, and it looks like he might have picked up a foot issue along the way as well. He'll likely have to manage a full practice Thursday or Friday to avoid carrying an injury designation into the weekend.
+- **NEW — Deebo Samuel** — Deebo Samuel Sr. Standing Out as 49ers' Lone Healthy Receiver (2026-09-24T00:46:06Z)
+  - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-standing-out-as-49ers-lone-healthy-receiver/1949013
+- **Cooper Kupp** — Cooper Kupp - Limited Wednesday (2026-09-24T00:00:37Z)
   - The veteran receiver dealt with the back issue in practice last Wednesday before being upgraded to full work Thursday. He could follow a similar path this week. Kupp has just four catches for 55 yards on five targets through two games, as Jaxon Smith-Njigba has dominated the targets and big plays for Seattle.
-- **NEW — Jauan Jennings** — Jauan Jennings - Back at practice (2026-09-23T23:32:03Z)
+- **Jauan Jennings** — Jauan Jennings - Back at practice (2026-09-23T23:32:03Z)
   - Jennings was unable to practice all week before ultimately sitting out Sunday's 9-3 win over the Bears while dealing with a personal matter. The 29-year-old returned to practice Wednesday, and he'll stand to operate as Minnesota's No. 3 option at wide receiver in the return of quarterback Kyler Murray against the Buccaneers in Week 3.
-- **NEW — Keon Coleman** — Keon Coleman - DNP on Wednesday (2026-09-23T23:20:26Z)
+- **Keon Coleman** — Keon Coleman - DNP on Wednesday (2026-09-23T23:20:26Z)
   - DJ Moore was believed to be the Bills wide receiver dealing with a health concern this week after he suffered an AC joint sprain last Thursday against the Lions. Instead, Moore was a limited participant Wednesday, while Coleman didn't log any practice reps at all to kick off Week 3 prep. Coleman's status thus bears watching Thursday and Friday to see whether or not he's trending toward an absence Sunday versus the Chargers.
-- **NEW — Sam Darnold** — Sam Darnold - Officially limited to begin week (2026-09-23T23:01:47Z)
+- **Sam Darnold** — Sam Darnold - Officially limited to begin week (2026-09-23T23:01:47Z)
   - Prior to Darnold returning to practice Wednesday, head coach Mike Macdonald told Brady Henderson of ESPN.com that the quarterback wouldn't take every rep, his activity level is expected to increase as the week continues, and the team will make a decision between Darnold and Drew Lock as the Week 3 starter by Friday. Darnold then was seen throwing while stretching during the media-access portion of Wednesday's session, per Gregg Bell of The Tacoma News Tribune. Darnold is seeking his first game action since straining his glute on Seattle's fifth offensive snap of the season on Sept. 9 against the Patriots.
-- **NEW — Jadarian Price** — Jadarian Price - Limited Wednesday (2026-09-23T22:52:59Z)
+- **NEW — Parker Washington** — Parker Washington Should Remain Top Option in Jacksonville (2026-09-23T22:54:05Z)
+  - Source: https://www.rotoballer.com/player-news/parker-washington-should-remain-top-option-in-jacksonville/1948996
+- **Jadarian Price** — Jadarian Price - Limited Wednesday (2026-09-23T22:52:59Z)
   - When Price exited this past Sunday's win at Arizona, he was deemed questionable to return due to a chest issue. Coach Mike Macdonald termed Price's injury as to his shoulder Monday, per Brady Henderson of ESPN.com, but the initial Week 3 practice report again called it a chest concern. In any case, Price is kicking off the week with some activity and will have two more chances to increase his workload as Seattle preps for Sunday's visit to Washington. Emanuel Wilson and George Holani are available in the event Price is inhibited or sidelined this weekend.
-- **NEW — Jalen McMillan** — Jalen McMillan (knee) practices in full Wednesday (2026-09-23T22:45:32.902000Z)
+- **NEW — Garrett Wilson** — Garrett Wilson Remains an Impactful Piece (2026-09-23T22:46:15Z)
+  - Source: https://www.rotoballer.com/player-news/garrett-wilson-remains-impactful-piece/1948992
+- **Jalen McMillan** — Jalen McMillan (knee) practices in full Wednesday (2026-09-23T22:45:32.902000Z)
   - McMillan was technically active in Week 2 but only saw seven snaps on offense. He is starting out the week as a full participant this week and seems likely to be full health for Sunday's game against the Vikings, so we could see the team ramp him back up to a full workload as soon as this weekend.
   - Source: https://www.fantasypros.com/nfl/news/610170/jalen-mcmillan-knee-practices-full-wednesday.php
-- **NEW — Baker Mayfield** — Baker Mayfield (illness) practices in full Wednesday (2026-09-23T22:40:32.753000Z)
+- **Baker Mayfield** — Baker Mayfield (illness) practices in full Wednesday (2026-09-23T22:40:32.753000Z)
   - The veteran quarterback was able to practice in a full capacity on Wednesday, despite being listed on the injury report due to an illness. It shouldn't affect his availability for Sunday's game against the Vikings, but he still doesn't project to be a good fantasy option for the foreseeable future.
   - Source: https://www.fantasypros.com/nfl/news/610169/baker-mayfield-illness-practices-full-wednesday.php
-- **NEW — DJ Moore** — DJ Moore - Feeling great following practice (2026-09-23T22:17:34Z)
+- **NEW — Kyle Monangai** — Kyle Monangai Could See Expanded Role (2026-09-23T22:34:06Z)
+  - Source: https://www.rotoballer.com/player-news/kyle-monangai-could-see-expanded-role/1948983
+- **NEW — Zachariah Branch** — Zachariah Branch Still Off the Flex Radar in Week 3 (2026-09-23T22:30:06Z)
+  - Source: https://www.rotoballer.com/player-news/zachariah-branchs-arrow-pointing-slightly-up-but-still-off-flex-radar-in-week-3/1948980
+- **NEW — Tetairoa McMillan** — Tetairoa McMillan Could See Larger Role in Week 3 (2026-09-23T22:25:06Z)
+  - Source: https://www.rotoballer.com/player-news/tetairoa-mcmillan-could-see-larger-role-in-week-3/1948976
+- **NEW — Bucky Irving** — Bucky Irving Continues to see Role Grow (2026-09-23T22:19:05Z)
+  - Source: https://www.rotoballer.com/player-news/bucky-irving-continues-to-see-role-grow/1948969
+- **DJ Moore** — DJ Moore - Feeling great following practice (2026-09-23T22:17:34Z)
   - Moore did not take contact Wednesday and officially did not get in a full session, but he was optimistic about his status when asked about it afterward. While Moore is taking the positive path and there is reason to believe he will suit up Sunday against the Chargers, it remains to be seen if he will do so.
-- **NEW — Ladd McConkey** — Ladd McConkey (rib) logs full practice Wednesday (2026-09-23T22:10:18.868000Z)
+- **Ladd McConkey** — Ladd McConkey (rib) logs full practice Wednesday (2026-09-23T22:10:18.868000Z)
   - McConkey was able to play through his rib injury last week and is now a full participant to start this week, meaning that he is close to full health and should be fully good to go for Week 3. He had an underwhelming performance last week but has a chance to bounce back this week in what should be a competitive matchup against the Bills on Sunday.
   - Source: https://www.fantasypros.com/nfl/news/610158/ladd-mcconkey-rib-logs-full-practice-wednesday.php
-- **NEW — Terrance Ferguson** — Terrance Ferguson - Tending to ankle issue (2026-09-23T22:05:29Z)
-  - Ferguson earned a 51 percent snap share during a Week 1 loss to the 49ers in Melbourne, Australia but didn't haul in his only target. With Puka Nacua (groin) inactive Monday versus the Giants, Ferguson played second fiddle to WR Davante Adams (8-195-2 on 10 targets), hauling in six of nine targets for 54 yards and one touchdown. Nacua remained sidelined Wednesday, and if he requires more time to recover, Ferguson could be among QB Matthew Stafford's favored pass catchers this Sunday at Denver, assuming the tight end's own ankle issue doesn't impact his availability.
+- **Terrance Ferguson** — Terrance Ferguson - Tending to ankle issue (2026-09-23T22:05:29Z)
+  - Ferguson earned a 51 percent snap share during a Week 1 loss to the 49ers in Melbourne, Australia, but didn't haul in his only target. With Puka Nacua (groin) inactive Monday versus the Giants, Ferguson played second fiddle to WR Davante Adams (8-195-2 on 10 targets), hauling in six of nine targets for 54 yards and one touchdown. Nacua remained sidelined Wednesday, and if he requires more time to recover, Ferguson could be among QB Matthew Stafford's favored pass catchers this Sunday at Denver, assuming the tight end's own ankle issue doesn't impact his availability.
 - **Jauan Jennings** — Jauan Jennings (personal) good to go for Week 3 (2026-09-23T22:05:18.574000Z)
   - Jennings missed last week's game due to a personal issue that he was tending to, but he is back and fully good to go ahead of Minnesota's matchup against the Buccaneers in Week 3. He should play but isn't expected to be a relevant fantasy option for the foreseeable future.
   - Source: https://www.fantasypros.com/nfl/news/610156/jauan-jennings-personal-good-to-go-week-3.php
@@ -51,8 +99,14 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/610145/jonah-coleman-ankle-officially-non-participant-wednesday.php
 - **J.K. Dobbins** — J.K. Dobbins - Limited Wednesday (2026-09-23T21:48:08Z)
   - As for the other injured Broncos running backs, RJ Harvey (hamstring) also was a limited participant, while Jonah Coleman didn't practice due to a sprained ankle. Dobbins himself suffered what was termed a hamstring injury during the team's Week 2 win against the Jaguars, but it was reclassified as a hip issue on Denver's first Week 3 practice report. He'll now have two more practices to prove his health ahead of the weekend.
+- **NEW — Jacoby Brissett** — Jacoby Brissett Practices in Full on Wednesday (2026-09-23T21:46:06Z)
+  - Source: https://www.rotoballer.com/player-news/jacoby-brissett-practices-in-full-on-wednesday/1948945
 - **Brock Bowers** — Brock Bowers - Listed as limited participant (2026-09-23T21:43:46Z)
-  - Bowers did not get a full session in Wednesday, but his participation alone bodes well for his chances of making his season debut Sunday against the Saints. Further updates on Bowers are still to come before the Raiders assign him an injury designation for Week 3.
+  - Bowers did not get a full session in Wednesday, but his participation alone bodes well for his chances of making his season debut Sunday against the Saints. Further updates on Bowers are still to come before the Raiders potentially assign him an injury designation for Week 3.
+- **NEW — Demarcus Robinson** — Demarcus Robinson Misses Wednesday's Practice (2026-09-23T21:37:15Z)
+  - Source: https://www.rotoballer.com/player-news/demarcus-robinson-misses-wednesdays-practice/1948940
+- **NEW — Brian Robinson** — Brian Robinson Hanging Around Low-End Flex Territory in Week 3 (2026-09-23T21:36:20Z)
+  - Source: https://www.rotoballer.com/player-news/brian-robinson-hanging-around-low-end-flex-territory-in-week-3/1948938
 - **Brock Bowers** — Brock Bowers (knee) limited at practice Wednesday (2026-09-23T21:35:18.826000Z)
   - Bowers has been sidelined for the first two weeks of the season after undergoing a minor operation on his knee, but it looks like he is nearing a return for the Raiders. He was able to practice in a limited fashion on Wednesday, and it seems like the expectation of the team is that he will play this week. Fantasy managers shouldn't hesitate to start him if he's cleared to play in Sunday's game without any major restrictions to his workload.
   - Source: https://www.fantasypros.com/nfl/news/610136/brock-bowers-knee-limited-practice-wednesday.php
@@ -75,6 +129,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Dalton Schultz** — Dalton Schultz (rest) misses practice Wednesday (2026-09-23T21:20:18.867000Z)
   - The Texans gave Schultz Wednesday's practice off as a veteran rest day for him after he caught 12 passes in Week 2. He should be back in the lineup very soon and will be primed for more work than usual again this week if Nico Collins (hamstring) is sidelined for another game.
   - Source: https://www.fantasypros.com/nfl/news/610121/dalton-schultz-rest-misses-practice-wednesday.php
+- **NEW — Jadarian Price** — Jadarian Price is Limited to Begin the Week (2026-09-23T21:18:06Z)
+  - Source: https://www.rotoballer.com/player-news/jadarian-price-is-limited-to-begin-the-week/1948925
 - **Jaxson Dart** — Jaxson Dart - Playoff return not ruled out (2026-09-23T21:17:55Z)
   - Dart is set for surgery after suffering damage to the MCL, PCL and meniscus in his left knee during Monday's 28-6 loss at the Rams. While the meniscus injury is the primary concern for the second-year quarterback, fortunately for him the ACL in that knee is intact. While Dart is sidelined, Jameis Winston will direct the Giants offense Sunday versus the Titans and beyond.
 - **Malik Nabers** — Malik Nabers (shoulder) officially limited Wednesday (2026-09-23T21:15:18.466000Z)
@@ -85,6 +141,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Travis Etienne** — Travis Etienne Jr. (hamstring) limited at practice Wednesday (2026-09-23T21:10:18.814000Z)
   - Etienne is a new addition to New Orleans' injury report, being listed with a hamstring injury that left him limited at practice on Wednesday. It remains unclear whether or not it will affect his availability for Week 3, and this is a situation fantasy managers should continue to monitor throughout the week, especially with Etienne losing so much work to Alvin Kamara in his return game last week.
   - Source: https://www.fantasypros.com/nfl/news/610112/travis-etienne-jr-hamstring-limited-practice-wednesday.php
+- **NEW — Cooper Kupp** — Cooper Kupp is Limited on Wednesday (2026-09-23T21:10:06Z)
+  - Source: https://www.rotoballer.com/player-news/cooper-kupp-is-limited-on-wednesday/1948915
 - **J.K. Dobbins** — J.K. Dobbins (hamstring) seen practicing Wednesday (2026-09-23T20:55:18.589000Z)
   - Dobbins was seen at practice on Wednesday after recently suffering a minor hamstring injury of some kind. It looks like he may be well enough to play through it in Week 3, but it's too early to say for sure. RJ Harvey (hamstring) and Jonah Coleman (ankle) both seem to be trending the right way as well, which may lead to a crowded backfield for Denver this week.
   - Source: https://www.fantasypros.com/nfl/news/610091/jk-dobbins-hamstring-seen-practicing-wednesday.php
@@ -100,16 +158,22 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **RJ Harvey** — RJ Harvey (hamstring) seen practicing Wednesday (2026-09-23T20:50:18.813000Z)
   - The young running back was sidelined last week due to a hamstring injury, but it looks like he will have a chance to make his return to the lineup in Week 3, as he is participating in practice in some capacity to start the week on Wednesday. His potential return this week would mean less work for rookie Jonah Coleman (hamstring) moving forward.
   - Source: https://www.fantasypros.com/nfl/news/610088/rj-harvey-hamstring-seen-practicing-wednesday.php
+- **NEW — Michael Penix** — Michael Penix Jr. Faces Tough Test in Week 3 Return on TNF (2026-09-23T20:46:09Z)
+  - Source: https://www.rotoballer.com/player-news/michael-penix-jr-faces-tough-test-in-week-3-return-on-tnf/1948895
 - **Joe Burrow** — Joe Burrow (back) off injury report for Week 3 (2026-09-23T20:45:18.797000Z)
   - Burrow was reportedly dealing with some soreness coming into the week, but it's not a serious issue and he carries no injury designation ahead of Week 3. He should be a full go against the Steelers, assuming he suffers no setbacks between now and then.
   - Source: https://www.fantasypros.com/nfl/news/610085/joe-burrow-back-off-injury-report-week-3.php
 - **Travis Etienne** — Travis Etienne - Limited by hamstring injury (2026-09-23T20:36:01Z)
   - Etienne has earned a shade more than 50 percent of the offensive snaps in both of his first two games as a Saint, but he's managed just 26 touches for 109 yards from scrimmage to date. Now with a health concern in tow, his status bears watching as the week goes on to get a sense of his ability to play Sunday against the Raiders.
+- **NEW — Chig Okonkwo** — Chig Okonkwo Misses Practice on Wednesday (2026-09-23T20:35:06Z)
+  - Source: https://www.rotoballer.com/player-news/chig-okonkwo-misses-practice-on-wednesday/1948885
 - **Jakobi Meyers** — Jakobi Meyers - Limited in Wednesday's practice (2026-09-23T20:34:25Z)
   - The veteran has been held back in practice for much of the season due to a thumb issue, but it hasn't prevented him from suiting up on Sundays. Look for the Jaguars to continue to manage Meyers' injury cautiously in practices to keep him fresh on gamedays. The wideout still looks to be on track to play Week 3 versus the Patriots.
 - **Brian Thomas** — Brian Thomas Jr. (shoulder) off injury report for Week 3 (2026-09-23T20:30:18.421000Z)
   - Thomas is now off of the injury report and should be a full go heading into a Week 3 matchup against the New England Patriots. He isn't expected to be a strong fantasy option for the foreseeable future, however.
   - Source: https://www.fantasypros.com/nfl/news/610072/brian-thomas-jr-shoulder-off-injury-report-week-3.php
+- **NEW — Keon Coleman** — Keon Coleman Dealing With Ankle Injury (2026-09-23T20:30:08Z)
+  - Source: https://www.rotoballer.com/player-news/keon-coleman-dealing-with-ankle-injury/1948880
 - **Jakobi Meyers** — Jakobi Meyers (thumb) a limited participant Wednesday (2026-09-23T20:25:18.093000Z)
   - A thumb injury left Meyers limited at Jacksonville's first practice of the week on Wednesday. It doesn't seem likely to affect his availability for Week 3, however, and he should continue to play his usual role in a matchup against his former team, the Patriots, this week if he suffers no setbacks in his recovery.
   - Source: https://www.fantasypros.com/nfl/news/610067/jakobi-meyers-thumb-limited-participant-wednesday.php
@@ -143,7 +207,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jalen Coker** — Jalen Coker (ankle) limited at practice Wednesday (2026-09-23T20:00:18.334000Z)
   - Coker was dealing with an ankle injury all last week, but he was able to play through it and put up a good performance on Sunday. He is still limited by it to start practice this week, but it looks like he again is expected to play through it in Week 3. Fantasy managers shouldn't hesitate to start him if he gets full clearance to play before the end of the week.
   - Source: https://www.fantasypros.com/nfl/news/610052/jalen-coker-ankle-off-injury-report-week-2.php
-- **NEW — Kyle Pitts** — Kyle Pitts Sr. More Attractive with Upgrade at QB (2026-09-23T20:00:07Z)
+- **Kyle Pitts** — Kyle Pitts Sr. More Attractive with Upgrade at QB (2026-09-23T20:00:07Z)
   - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-s-week-3-outlook-improves-with-upgrade-at-qb/1948846
 - **Mike Evans** — Mike Evans (hip) won't practice Wednesday (2026-09-23T19:50:18.847000Z)
   - The veteran wideout is going to be sidelined at practice on Wednesday after suffering a hip injury last week. He's hoping to play through it this week, but that is uncertain at this point. Deebo Samuel Sr. will see more work if Evans has to miss a game or two while he recovers.
@@ -162,11 +226,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/610037/zach-charbonnet-knee-wont-have-practice-window-opened-this-week.php
 - **David Njoku** — David Njoku - Lands on IR (2026-09-23T19:36:44Z)
   - Njoku will be sidelined for at least the Chargers' next four games after sustaining a fibula injury in Sunday's 26-14 loss to the Raiders. Fellow tight end Charlie Kolar (forearm) was able to avoid placement on IR but has already been ruled out for the Chargers' Week 3 contest in Buffalo, leaving Oronde Gadsden as the top option on the depth chart heading into that game.
-- **NEW — Drake London** — Drake London a WR2 with Upside for TNF After Return of Quarterback (2026-09-23T19:36:24Z)
+- **Drake London** — Drake London a WR2 with Upside for TNF After Return of Quarterback (2026-09-23T19:36:24Z)
   - Source: https://www.rotoballer.com/player-news/drake-london-a-wr2-with-upside-for-tnf-after-return-of-quarterback/1948833
 - **Jadarian Price** — Jadarian Price - Set to practice Wednesday (2026-09-23T19:34:10Z)
   - MacDonald would not elaborate on the rookie's level of participation, but Price will be practicing this week after hurting his shoulder in the Week 2 win over the Cardinals. Even if Price is limited Wednesday, he will have the chance to ramp up going into the weekend. Macdonald added that Zach Charbonnet (knee) will not be returning this week, leaving Seattle with Emanuel Wilson and George Holani as the primary backfield options if Price is not able to play Sunday.
-- **NEW — Ladd McConkey** — Ladd McConkey Practicing in Full (2026-09-23T19:27:12Z)
+- **Ladd McConkey** — Ladd McConkey Practicing in Full (2026-09-23T19:27:12Z)
   - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-practicing-in-full/1948825
 - **Sam Darnold** — Sam Darnold (glute) set to practice Wednesday (2026-09-23T19:25:18.170000Z)
   - Darnold is still working his way back from a glute injury that he suffered in the season opener a couple of weeks ago. He will be able to practice on Wednesday, but it remains unclear if he will suit up for Week 3 or not. Fantasy managers should keep close tabs on updates about his health throughout the week.
@@ -174,7 +238,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Aaron Jones** — Aaron Jones Sr. won't practice Wednesday (2026-09-23T19:05:17.735000Z)
   - The veteran running back is dealing with some soreness after Minnesota's win over the Bears last week. He won't be able to practice on Wednesday because of it, although he will still have a chance to play in Week 3. Fantasy managers should keep close tabs on his status throughout the week with Jordan Mason (thumb) currently on injured reserve.
   - Source: https://www.fantasypros.com/nfl/news/610025/aaron-jones-sr-wont-practice-wednesday.php
-- **NEW — Bijan Robinson** — Bijan Robinson Still a Top-Five Back in Week 3 Despite Tough Matchup (2026-09-23T19:00:06Z)
+- **Bijan Robinson** — Bijan Robinson Still a Top-Five Back in Week 3 Despite Tough Matchup (2026-09-23T19:00:06Z)
   - Source: https://www.rotoballer.com/player-news/bijan-robinson-still-a-top-five-back-in-week-3-despite-tough-matchup/1948812
 - **Jonah Coleman** — Jonah Coleman suffers ankle sprain (2026-09-23T18:55:18.232000Z)
   - The Broncos backfield suffers another injury with JK Dobbins an RJ Harvey also banged up. Coleman's status is up in the air for Week 3. 
@@ -186,68 +250,5 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - With Coleman coming off an expanded role in Sunday's win over Jacksonville, his practice status will be worth tracking in Denver's backfield. Schefter's report confirms the injury source, while noting RJ Harvey (hamstring) is progressing in his recovery, a development that could affect Coleman's workload if the ankle issue limits him.
 - **Aaron Jones** — Aaron Jones - Missing practice Wednesday (2026-09-23T18:41:06Z)
   - After the Vikings placed Jordan Mason (thumb) on IR last week, Jones was the team's unquestioned lead runner during a 9-3 win at Chicago this past Sunday, taking 23 carries for 105 yards. However, with Kevin Seifert of ESPN.com reporting that Jones isn't a sure thing for a Week 3 road matchup with the Buccaneers due to a knee injury, his status is up in the air for Sunday. At the moment, DeeJay Dallas and rookie Demond Claiborne represent Minnesota's healthy RBs on the active roster.
-- **NEW — Tre Tucker** — Tre Tucker Can Wear a Lot of Hats in Raiders Offense (2026-09-23T18:38:07Z)
+- **Tre Tucker** — Tre Tucker Can Wear a Lot of Hats in Raiders Offense (2026-09-23T18:38:07Z)
   - Source: https://www.rotoballer.com/player-news/tre-tucker-can-wear-a-lot-of-hats-in-raiders-offense/1948796
-- **DJ Moore** — DJ Moore - Practicing, but not taking contact (2026-09-23T18:31:48Z)
-  - Moore made an early exit from the Bills' Week 2 win over the Lions due to an AC joint sprain, logging just 23 snaps while finishing with no targets and one carry for minus-1 yard during his limited time on the field. Though he appears set to go down as a limited practice participant on the Bills' first Week 3 injury report, Moore's presence on the field is generally a positive sign for his chances of suiting up Sunday versus the Chargers.
-- **NEW — DJ Moore** — DJ Moore Says He'll "Be Good" After Limited Practice (2026-09-23T18:30:07Z)
-  - Source: https://www.rotoballer.com/player-news/dj-moore-says-hell-be-good-after-limited-practice/1948791
-- **NEW — Terrance Ferguson** — Terrance Ferguson Limited With Ankle Injury (2026-09-23T18:22:21Z)
-  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-limited-with-ankle-injury/1948786
-- **Chig Okonkwo** — Chig Okonkwo - Not practicing to begin week (2026-09-23T18:08:17Z)
-  - Quinn noted that Okonkwo will be in rehab mode to kick off Week 3 prep, which suggests that the tight end won't mix into drills Wednesday. Okonkwo is still tending to a hamstring injury that kept him from playing during this past Sunday's 37-20 loss to the Cowboys.
-- **Brock Bowers** — Brock Bowers (knee) will practice Wednesday (2026-09-23T18:05:18.185000Z)
-  - Kubiak said Bowers will be evaluated "day to day." His status remains uncertain for Week 3. 
-  - Source: https://www.fantasypros.com/nfl/news/610014/brock-bowers-knee-will-practice-wednesday.php
-- **Nico Collins** — Nico Collins (hamstring) not seen practicing Wednesday (2026-09-23T18:05:17.838000Z)
-  - Collins was absent last week with a hamstring injury. He remains uncertain heading into Week 3. 
-  - Source: https://www.fantasypros.com/nfl/news/610011/nico-collins-hamstring-not-seen-practicing-wednesday.php
-- **Nico Collins** — Nico Collins - Not seen at practice (2026-09-23T18:05:08Z)
-  - Since injuring his hamstring at practice last Wednesday, Collins hasn't logged any notable on-field work, which lines up with a report from Aaron Wilson of KPRC 2 Houston that the wide receiver has a chance to miss two games as a result. Collins likely will need to mix into drills at some point by week's end in order to have a chance to suit up Sunday at Indianapolis.
-- **Brock Bowers** — Brock Bowers - Practicing Wednesday (2026-09-23T18:00:36Z)
-  - Bowers has missed the first two games of the season due to a meniscus trim that he underwent in his left knee on Sept. 8, but he was able to practice in a limited capacity last Friday and is continuing to do so, at least, to begin Week 3 prep. Wednesday's injury report will reveal his activity level as he puts the procedure further in the rearview mirror.
-- **Jaxson Dart** — Giants Not Closing the Door on a Jaxson Dart Postseason Return (2026-09-23T17:54:05Z)
-  - Source: https://www.rotoballer.com/player-news/giants-not-closing-the-door-on-a-jaxson-dart-postseason-return/1948768
-- **Tyson Bagent** — Tyson Bagent - No practice Wednesday (2026-09-23T17:46:03Z)
-  - Bagent was placed in concussion protocol Tuesday and isn't at the Bears' facility Wednesday as a result, making it unlikely that he's a candidate to be available for Monday's game against the Eagles. No. 1 QB Caleb Williams also isn't practicing Wednesday due to the strained right hamstring he suffered this past Sunday versus the Vikings. As the healthiest QB on the active roster, veteran Case Keenum is working with the first-team offense at Wednesday's unofficial session.
-- **NEW — Trey Smack** — Trey Smack Offers Top-10 Streaming Appeal In Week 3 (2026-09-23T17:38:08Z)
-  - Source: https://www.rotoballer.com/player-news/trey-smack-offers-top-10-streaming-appeal-in-week-3-against-falcons/1948760
-- **Andrei Iosivas** — Andrei Iosivas - Needs thumb surgery, bound for IR (2026-09-23T17:29:29Z)
-  - Per Jeremy Fowler of ESPN.com, Iosivas will require surgery to address the injury and is expected to need 4-to-6 weeks to make a full recovery. The Bengals' No. 3 wideout, Iosivas played more than half of the team's offensive snaps in both of the first two games of the season but has totaled just three receptions for 19 yards on four targets.
-- **NEW — Case Keenum** — Case Keenum - QB1 at Wednesday's practice (2026-09-23T17:25:17Z)
-  - The Bears emerged from Week 2 down their top two quarterbacks, as Caleb Williams strained his right hamstring and Tyson Bagent suffered a concussion this past Sunday against the Vikings. Neither Williams nor Bagent will take part in Wednesday's unofficial session, and Johnson relayed to Biggs that he doesn't know who among the trio will start Monday versus the Eagles. Keenum hasn't taken a snap since 2023, and in his 13 appearances (four starts) between three teams since 2020, he completed 88 of 142 passes (62 percent) for 807 yards, four touchdowns and four interceptions.
-- **Zay Flowers** — Zay Flowers - Not involved in Wednesday's practice (2026-09-23T17:24:31Z)
-  - On Monday, head coach Jesse Minter said that Flowers had a "good shot" at playing in Sunday's game against the Cowboys in Brazil, after the star wideout missed the Ravens' Week 2 loss to the Saints due to the hamstring injury. However, with Flowers opening Week 3 prep as a spectator, his availability to return to action this Sunday now appears to be more uncertain. If Flowers ends up missing a second straight game, Rashod Bateman would be line for another turn as the Ravens' No. 1 receiver.
-- **Puka Nacua** — Rams Unsure if Puka Nacua Will Play in Week 3 (2026-09-23T17:24:17Z)
-  - Source: https://www.rotoballer.com/player-news/rams-unsure-if-puka-nacua-will-play-in-week-3/1948745
-- **Rico Dowdle** — Rico Dowdle - Sitting out practice, sporting walking boot (2026-09-23T17:17:19Z)
-  - Neither of the Steelers' top two backs appear to be practicing Wednesday, as Jaylen Warren was present for the session but didn't take part in the team stretch, per DeFabo. The Steelers' first Week 3 injury report will be released later Wednesday and should provide more clarity about Warren's absence, but at this stage, he still appears to be healthier than Dowdle, who exited in the second half of Sunday's 20-3 loss to the Patriots due to the toe injury. Dowdle will likely need to return to practice in some capacity by Friday to have a realistic shot at playing this weekend against the Bengals.
-- **Caleb Williams** — Caleb Williams - Won't practice Wednesday (2026-09-23T17:17:16Z)
-  - Because the Bears play on Monday Night Football in Week 3, they won't be filing an official injury report until Thursday, but when it comes to Wednesday's unofficial session, both Williams and No. 2 QB Tyson Bagent (concussion) will be non-participants. Williams' lack of on-field work in the wake of the strained right hamstring that he suffered this past Sunday against the Vikings doesn't come as a surprise, but Johnson relayed to Sean Hammond of the Chicago Tribune that he hasn't ruled out Williams from playing Monday against the Eagles. In the end, Case Keenum is the healthiest signal-caller on Chicago's active roster and seems the best bet to get the nod under center this week.
-- **Joe Burrow** — Joe Burrow dealing with soreness  (2026-09-23T17:15:17.355000Z)
-  - It is unclear how much Burrow will practice on Wednesday. He is day-to-day for now. 
-  - Source: https://www.fantasypros.com/nfl/news/609996/joe-burrow-dealing-with-soreness.php
-- **Zay Flowers** — Zay Flowers (hamstring) not practicing Wednesday  (2026-09-23T17:15:17.318000Z)
-  - Flowers continues to work his way back from a hamstring injury. His status remains uncertain for Week 3. 
-  - Source: https://www.fantasypros.com/nfl/news/609999/zay-flowers-hamstring-not-practicing-wednesday.php
-- **Chig Okonkwo** — Chig Okonkwo (hamstring) not practicing Wednesday  (2026-09-23T17:15:17.302000Z)
-  - Okonkwo did not play last week. His status remains up in the air heading into Week 3. 
-  - Source: https://www.fantasypros.com/nfl/news/610001/chig-okonkwo-hamstring-not-practicing-wednesday.php
-- **Andrei Iosivas** — Andrei Iosivas (thumb) placed on IR  (2026-09-23T17:15:17.292000Z)
-  - Iosivas will miss at least the next four games. 
-  - Source: https://www.fantasypros.com/nfl/news/610002/andrei-iosivas-thumb-placed-on-ir.php
-- **Justin Herbert** — Justin Herbert Could be Trade Bait if Season Goes South? (2026-09-23T17:14:05Z)
-  - Source: https://www.rotoballer.com/player-news/justin-herbert-could-be-trade-bait-if-season-goes-south/1948742
-- **NEW — Tucker Kraft** — Tucker Kraft Set For Bounce-Back Week 3 Against Falcons (2026-09-23T17:10:06Z)
-  - Source: https://www.rotoballer.com/player-news/tucker-kraft-set-for-bounce-back-week-3-against-falcons/1948741
-- **Jaylen Warren** — Jaylen Warren - Idle for first Week 3 practice (2026-09-23T17:01:51Z)
-  - Per Mike DeFabo of The Athletic, Warren was present for the session, but his lack of involvement with his healthy teammates indicates that he's either receiving a veteran's rest day or is tending to an unreported injury. More information on Warren's status will be known when the Steelers release their injury report shortly after practice concludes.
-- **Rico Dowdle** — Rico Dowdle (toe) in boot Wednesday  (2026-09-23T17:00:17.474000Z)
-  - Dowdle left last week's game early with what was reported as a toe injury. He remains day-to-day. 
-  - Source: https://www.fantasypros.com/nfl/news/609988/rico-dowdle-toe-boot-wednesday.php
-- **Jaylen Warren** — Jaylen Warren not seen practicing Wednesday  (2026-09-23T17:00:17.456000Z)
-  - It is unclear what Warren is dealing with. Rico Dowdle also did not practice and was seen in a boot on his right foot. 
-  - Source: https://www.fantasypros.com/nfl/news/609989/jaylen-warren-not-seen-practicing-wednesday.php
-- **Jaylen Wright** — Jaylen Wright (stinger) to be limited in practice Wednesday  (2026-09-23T17:00:17.417000Z)
-  - Wright's status is up in the air heading into Week 3. 
-  - Source: https://www.fantasypros.com/nfl/news/609991/jaylen-wright-stinger-to-be-limited-practice-wednesday.php
