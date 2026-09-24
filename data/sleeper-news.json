@@ -1,35 +1,11 @@
 {
-  "last_checked_at": "2026-09-24T05:14:12Z",
+  "last_checked_at": "2026-09-24T10:06:33Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 297,
   "new_story_ids": [
-    "nfl|11559|rotoballer|222035|1790196369000",
-    "nfl|11584|rotoballer|222043|1790201945000",
-    "nfl|11637|fantasy_pros|610232|1790223034544",
-    "nfl|11637|rotoballer|222033|1790195408000",
-    "nfl|11643|rotowire|638917|1790211443000",
-    "nfl|12487|fantasy_pros|610229|1790222434578",
-    "nfl|12526|rotoballer|222044|1790202306000",
-    "nfl|12534|rotoballer|222046|1790202846000",
-    "nfl|13286|fantasy_pros|610218|1790221233808",
-    "nfl|13286|rotoballer|222037|1790198286000",
-    "nfl|13320|rotoballer|222045|1790202606000",
-    "nfl|13405|fantasy_pros|610221|1790221834067",
-    "nfl|3257|rotoballer|222040|1790199966000",
-    "nfl|3286|fantasy_pros|610225|1790222434633",
-    "nfl|3286|rotoballer|222038|1790199435000",
-    "nfl|4034|fantasy_pros|610224|1790222434643",
-    "nfl|4039|fantasy_pros|610219|1790221834088",
-    "nfl|4039|rotoballer|222036|1790197806000",
-    "nfl|4943|fantasy_pros|610215|1790221233842",
-    "nfl|4983|fantasy_pros|610231|1790223034554",
-    "nfl|5872|rotoballer|222049|1790210766000",
-    "nfl|7594|rotoballer|222050|1790211906000",
-    "nfl|8146|rotoballer|222047|1790203575000",
-    "nfl|8154|rotoballer|222039|1790199380000",
-    "nfl|8210|rotoballer|222034|1790195706000",
-    "nfl|9487|rotoballer|222048|1790204045000",
-    "nfl|9493|fantasy_pros|610226|1790222434620"
+    "nfl|11646|rotoballer|222053|1790212691000",
+    "nfl|12529|rotoballer|222052|1790212445000",
+    "nfl|8144|rotoballer|222051|1790211987000"
   ],
   "schema_version": 1,
   "source": {
@@ -248,6 +224,66 @@
       "story_id": "nfl|13286|fantasy_pros|610218|1790221233808",
       "title": "Jadarian Price (chest) officially limited Wednesday",
       "url": "https://www.fantasypros.com/nfl/news/610218/jadarian-price-chest-officially-limited-wednesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers wide receiver Jalen Coker had an outrageously productive Week 1, but given his relatively low fantasy stock before the season started, managers wanted to wait and see whether he could replicate his production in Week 2. While he didn't have another 138-yard, two-touchdown performance, he proved that his volume is certainly sustainable from week to week. In fact, Coker has finished with exactly nine targets and eight catches in each of his two games so far. He has also played at least 76% of the snaps in both contests. It has been very encouraging to see the Panthers' passing attack firing on all cylinders, as both Coker and Tetairoa McMillan have been able to produce double-digit fantasy points (PPR) in each of the first two games. To this point, Coker ranks as the WR5 in PPR leagues with 33.8 and 14.6 points in the first two weeks, respectively. Bryce Young is playing the best football of his career, and nobody has benefitted more than Coker and his fantasy managers. He's firmly in must-start territory as a low-end WR2 for Week 3 against an unintimidating Browns defense.",
+      "metadata": {
+        "description": "Carolina Panthers wide receiver Jalen Coker had an outrageously productive Week 1, but given his relatively low fantasy stock before the season started, managers wanted to wait and see whether he could replicate his production in Week 2. While he didn't have another 138-yard, two-touchdown performance, he proved that his volume is certainly sustainable from week to week. In fact, Coker has finished with exactly nine targets and eight catches in each of his two games so far. He has also played at least 76% of the snaps in both contests. It has been very encouraging to see the Panthers' passing attack firing on all cylinders, as both Coker and Tetairoa McMillan have been able to produce double-digit fantasy points (PPR) in each of the first two games. To this point, Coker ranks as the WR5 in PPR leagues with 33.8 and 14.6 points in the first two weeks, respectively. Bryce Young is playing the best football of his career, and nobody has benefitted more than Coker and his fantasy managers. He's firmly in must-start territory as a low-end WR2 for Week 3 against an unintimidating Browns defense.",
+        "title": "Jalen Coker Proving That His High Volume is Not a Fluke",
+        "topic_id": "1408720012822302720",
+        "url": "https://www.rotoballer.com/player-news/jalen-coker-proving-that-his-high-volume-is-not-a-fluke/1949024"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11646",
+      "player_name": "Jalen Coker",
+      "position": "WR",
+      "published": 1790212691000,
+      "source": "rotoballer",
+      "source_key": "222053",
+      "story_id": "nfl|11646|rotoballer|222053|1790212691000",
+      "title": "Jalen Coker Proving That His High Volume is Not a Fluke",
+      "url": "https://www.rotoballer.com/player-news/jalen-coker-proving-that-his-high-volume-is-not-a-fluke/1949024"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back TreVeyon Henderson wasted no time solidifying himself in the lead-back role upon his return from injury. After Rhamondre Stevenson had 23 touches on an 85% snap share in Week 1, there was some speculation that he and Henderson would split the backfield snaps in Week 2. While they did have a relatively even 60/40 split in terms of snaps, Henderson out-touchded Stevenson 16 to 7. Additionally, Stevenson had a fumble while Henderson had a touchdown, further widening the gap between the two backs. Henderson finished his season debut with 16 carries, 76 rushing yards, and one touchdown, resulting in a solid 14.6-point outing in most fantasy leagues. Assuming he continues to handle the bulk of the volume out of the backfield, the 23-year-old will be a high-end RB2 with RB1 upside going forward.",
+      "metadata": {
+        "description": "New England Patriots running back TreVeyon Henderson wasted no time solidifying himself in the lead-back role upon his return from injury. After Rhamondre Stevenson had 23 touches on an 85% snap share in Week 1, there was some speculation that he and Henderson would split the backfield snaps in Week 2. While they did have a relatively even 60/40 split in terms of snaps, Henderson out-touchded Stevenson 16 to 7. Additionally, Stevenson had a fumble while Henderson had a touchdown, further widening the gap between the two backs. Henderson finished his season debut with 16 carries, 76 rushing yards, and one touchdown, resulting in a solid 14.6-point outing in most fantasy leagues. Assuming he continues to handle the bulk of the volume out of the backfield, the 23-year-old will be a high-end RB2 with RB1 upside going forward.",
+        "title": "TreVeyon Henderson Emerges as the Primary Ball-Carrier in New England",
+        "topic_id": "1408718754849816576",
+        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-emerges-as-the-primary-ball-carrier-in-new-england/1949022"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1790212445000,
+      "source": "rotoballer",
+      "source_key": "222052",
+      "story_id": "nfl|12529|rotoballer|222052|1790212445000",
+      "title": "TreVeyon Henderson Emerges as the Primary Ball-Carrier in New England",
+      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-emerges-as-the-primary-ball-carrier-in-new-england/1949022"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Chris Olave has emerged as one of the most elite fantasy contributors through the first two weeks of the 2026 NFL season. Olave has at least 22.8 PPR points in each of the two games. With a total of 18 catches, 268 yards, and one touchdown, he ranks as the overall WR3 in PPR leagues so far. We've seen Olave deliver high-level fantasy production in a variety of ways, including high volume, high yardage totals, and touchdown upside. That's good news for fantasy managers, because he's not dependent on one specific stat (catches, yards, or touchdowns) to carry his entire fantasy stock. The Saints' passing attack looks really good this year, and Olave is the focal point of that unit. He continues to rank as a mid-to-high WR1 heading into a very favorable matchup against the Las Vegas Raiders.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Chris Olave has emerged as one of the most elite fantasy contributors through the first two weeks of the 2026 NFL season. Olave has at least 22.8 PPR points in each of the two games. With a total of 18 catches, 268 yards, and one touchdown, he ranks as the overall WR3 in PPR leagues so far. We've seen Olave deliver high-level fantasy production in a variety of ways, including high volume, high yardage totals, and touchdown upside. That's good news for fantasy managers, because he's not dependent on one specific stat (catches, yards, or touchdowns) to carry his entire fantasy stock. The Saints' passing attack looks really good this year, and Olave is the focal point of that unit. He continues to rank as a mid-to-high WR1 heading into a very favorable matchup against the Las Vegas Raiders.",
+        "title": "Chris Olave Among the Elite Tier of Fantasy Football Wide Receivers",
+        "topic_id": "1408717496336269312",
+        "url": "https://www.rotoballer.com/player-news/chris-olave-among-the-elite-tier-of-fantasy-football-wide-receivers/1949017"
+      },
+      "nfl_team": "NO",
+      "player_id": "8144",
+      "player_name": "Chris Olave",
+      "position": "WR",
+      "published": 1790211987000,
+      "source": "rotoballer",
+      "source_key": "222051",
+      "story_id": "nfl|8144|rotoballer|222051|1790211987000",
+      "title": "Chris Olave Among the Elite Tier of Fantasy Football Wide Receivers",
+      "url": "https://www.rotoballer.com/player-news/chris-olave-among-the-elite-tier-of-fantasy-football-wide-receivers/1949017"
     },
     {
       "analysis": null,
@@ -92985,66 +93021,6 @@
       "story_id": "nfl|13305|rotoballer|219344|1787655017000",
       "title": "Mike Washington Jr. Impresses While Working with First-Team Offense",
       "url": "https://www.rotoballer.com/player-news/mike-washington-jr-impresses-while-working-with-first-team-offense/1915928"
-    },
-    {
-      "analysis": null,
-      "description": "Washington Commanders running back Jacory Croskey-Merritt (groin) was limited in practice on Monday with an undisclosed injury, but head coach Dan Quinn clarified on Tuesday that the running back is dealing with a lower-body injury. According to Ben Standig, it is a groin injury but is not considered significant. Croskey-Merritt was spotted catching passes and jogging lightly on Tuesday, and he could be on his way to another limited practice. The second-year back led the Commanders with 805 rushing yards and eight touchdowns on 175 carries last year and added nine catches for 68 yards. He could return to full practice later this week and still be good for a regular workload in Week 1 against the Eagles, but his progress will definitely be important to monitor. Rachaad White (hamstring) is also working through an injury that isn't considered to be serious, leaving rookies Kaytron Allen and Robert Henry, along with veteran Craig Reynolds, as the Commanders' healthy running backs right now. Croskey-Merritt is the RB37 in RotoBaller's rankings, with White not far behind him at RB40. Watch carefully to see who is ready for Week 1, since both have good upside but also significant risk factors with their current injuries.",
-      "metadata": {
-        "description": "Washington Commanders running back Jacory Croskey-Merritt (groin) was limited in practice on Monday with an undisclosed injury, but head coach Dan Quinn clarified on Tuesday that the running back is dealing with a lower-body injury. According to Ben Standig, it is a groin injury but is not considered significant. Croskey-Merritt was spotted catching passes and jogging lightly on Tuesday, and he could be on his way to another limited practice. The second-year back led the Commanders with 805 rushing yards and eight touchdowns on 175 carries last year and added nine catches for 68 yards. He could return to full practice later this week and still be good for a regular workload in Week 1 against the Eagles, but his progress will definitely be important to monitor. Rachaad White (hamstring) is also working through an injury that isn't considered to be serious, leaving rookies Kaytron Allen and Robert Henry, along with veteran Craig Reynolds, as the Commanders' healthy running backs right now. Croskey-Merritt is the RB37 in RotoBaller's rankings, with White not far behind him at RB40. Watch carefully to see who is ready for Week 1, since both have good upside but also significant risk factors with their current injuries.",
-        "title": "Jacory Croskey-Merritt Dealing with Groin Injury",
-        "topic_id": "1397978037923942400",
-        "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-dealing-with-a-lower-body-injury/1915889"
-      },
-      "nfl_team": "WAS",
-      "player_id": "12533",
-      "player_name": "Jacory Croskey-Merritt",
-      "position": "RB",
-      "published": 1787651527000,
-      "source": "rotoballer",
-      "source_key": "219341",
-      "story_id": "nfl|12533|rotoballer|219341|1787651527000",
-      "title": "Jacory Croskey-Merritt Dealing with Groin Injury",
-      "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-dealing-with-a-lower-body-injury/1915889"
-    },
-    {
-      "analysis": null,
-      "description": "Tampa Bay Buccaneers running back Kenny Gainwell had an excellent training camp and is set up for a big role in the team's offense. Gainwell could even lead the team in receptions, according to Greg Auman, since he has been working so well as a receiving back out of the backfield this preseason. Gainwell will be working in a timeshare with Bucky Irving, with both backs as effective options as pass-catchers in space. Gainwell had 73 catches for 486 yards and three scores in 2025 with the Steelers, but he could be even more involved in Tampa, depending on how the timeshare shakes out. Right now, Gainwell is the RB38 in RotoBaller's rankings, but he could be a great RB3 or flex option if he gets more work in the offense, especially near the goal line. Gainwell and Irving are both volatile options with lots of upside to consider in fantasy drafts, since their roles are unclear despite obvious upside from each side of the timeshare.",
-      "metadata": {
-        "description": "Tampa Bay Buccaneers running back Kenny Gainwell had an excellent training camp and is set up for a big role in the team's offense. Gainwell could even lead the team in receptions, according to Greg Auman, since he has been working so well as a receiving back out of the backfield this preseason. Gainwell will be working in a timeshare with Bucky Irving, with both backs as effective options as pass-catchers in space. Gainwell had 73 catches for 486 yards and three scores in 2025 with the Steelers, but he could be even more involved in Tampa, depending on how the timeshare shakes out. Right now, Gainwell is the RB38 in RotoBaller's rankings, but he could be a great RB3 or flex option if he gets more work in the offense, especially near the goal line. Gainwell and Irving are both volatile options with lots of upside to consider in fantasy drafts, since their roles are unclear despite obvious upside from each side of the timeshare.",
-        "title": "Kenny Gainwell Could Lead Tampa Bay in Receptions",
-        "topic_id": "1397974263603953664",
-        "url": "https://www.rotoballer.com/player-news/kenny-gainwell-could-lead-tampa-bay-in-receptions/1915867"
-      },
-      "nfl_team": "TB",
-      "player_id": "7567",
-      "player_name": "Kenny Gainwell",
-      "position": "RB",
-      "published": 1787650748000,
-      "source": "rotoballer",
-      "source_key": "219340",
-      "story_id": "nfl|7567|rotoballer|219340|1787650748000",
-      "title": "Kenny Gainwell Could Lead Tampa Bay in Receptions",
-      "url": "https://www.rotoballer.com/player-news/kenny-gainwell-could-lead-tampa-bay-in-receptions/1915867"
-    },
-    {
-      "analysis": null,
-      "description": "Las Vegas running back Ashton Jeanty (ankle) suffered what many feared was a serious injury on Sunday in practice, but the team received positive news over the last few days about his status. According to the latest updates from NFL Network's Ian Rapoport, Jeanty's ankle injury is more of a low sprain than a high ankle sprain and is not considered to be a major injury. Despite the positive overall news, there is still a real chance Jeanty will not play in Week 1 against the Dolphins. The fact that he has any chance to play in Week 1 is a great sign for his fantasy managers, and even if he misses that game, he isn't expected to be out long-term or miss the entire season, as was initially feared. If Jeanty is sidelined for that contest, Mike Washington Jr. and Dylan Laube would likely split the workload, with Washington bringing significant sleeper potential after his promising preseason. This is definitely a situation to watch closely leading up to the season opener, but for now, Jeanty remains one of the highest-upside running backs available in fantasy drafts. In PPR leagues, he's the RB17 in RotoBaller's rankings, but for standard-sized leagues, he's a strong RB2 with RB1 upside if this injury proves to be just a preseason scare.",
-      "metadata": {
-        "description": "Las Vegas running back Ashton Jeanty (ankle) suffered what many feared was a serious injury on Sunday in practice, but the team received positive news over the last few days about his status. According to the latest updates from NFL Network's Ian Rapoport, Jeanty's ankle injury is more of a low sprain than a high ankle sprain and is not considered to be a major injury. Despite the positive overall news, there is still a real chance Jeanty will not play in Week 1 against the Dolphins. The fact that he has any chance to play in Week 1 is a great sign for his fantasy managers, and even if he misses that game, he isn't expected to be out long-term or miss the entire season, as was initially feared. If Jeanty is sidelined for that contest, Mike Washington Jr. and Dylan Laube would likely split the workload, with Washington bringing significant sleeper potential after his promising preseason. This is definitely a situation to watch closely leading up to the season opener, but for now, Jeanty remains one of the highest-upside running backs available in fantasy drafts. In PPR leagues, he's the RB17 in RotoBaller's rankings, but for standard-sized leagues, he's a strong RB2 with RB1 upside if this injury proves to be just a preseason scare.",
-        "title": "Ashton Jeanty Not Believed to Have a Serious Injury, Uncertain for Week 1",
-        "topic_id": "1397967970952609792",
-        "url": "https://www.rotoballer.com/player-news/ashton-jeanty-not-believed-to-have-a-serious-injury-uncertain-for-week-1/1915841"
-      },
-      "nfl_team": "LV",
-      "player_id": "12527",
-      "player_name": "Ashton Jeanty",
-      "position": "RB",
-      "published": 1787649375000,
-      "source": "rotoballer",
-      "source_key": "219338",
-      "story_id": "nfl|12527|rotoballer|219338|1787649375000",
-      "title": "Ashton Jeanty Not Believed to Have a Serious Injury, Uncertain for Week 1",
-      "url": "https://www.rotoballer.com/player-news/ashton-jeanty-not-believed-to-have-a-serious-injury-uncertain-for-week-1/1915841"
     }
   ]
 }
