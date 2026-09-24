@@ -5,7 +5,7 @@
 - Roster ID: **5**
 - Players: **23**
 - Taxi: **1**
-- Reserve/IR: **2**
+- Reserve/IR: **1**
 
 ## Current roster
 
@@ -20,7 +20,7 @@
 - Christian McCaffrey — RB — SF
 - Derrick Henry — RB — BAL
 - Justice Hill — RB — BAL
-- Rico Dowdle — RB — PIT — reserve/IR
+- Rico Dowdle — RB — PIT
 - Cade Otton — TE — TB
 - Hunter Henry — TE — NE
 - Travis Kelce — TE — KC
