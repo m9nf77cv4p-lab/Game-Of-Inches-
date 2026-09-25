@@ -1,42 +1,9 @@
 {
-  "last_checked_at": "2026-09-25T05:22:14Z",
+  "last_checked_at": "2026-09-25T10:20:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 296,
   "new_story_ids": [
-    "nfl|11559|fantasy_pros|610455|1790308239586",
-    "nfl|11559|rotowire|639102|1790310434000",
-    "nfl|11581|rotowire|639108|1790311962000",
-    "nfl|11620|rotoballer|222121|1790285177000",
-    "nfl|11643|rotowire|639061|1790301750000",
-    "nfl|12487|rotoballer|222122|1790285772000",
-    "nfl|12489|rotoballer|222120|1790285353000",
-    "nfl|12501|fantasy_pros|610464|1790309439584",
-    "nfl|12501|rotoballer|222128|1790296207000",
-    "nfl|12501|rotowire|639100|1790308298000",
-    "nfl|12512|rotoballer|222119|1790284637000",
-    "nfl|13279|rotoballer|222124|1790286129000",
-    "nfl|13298|rotoballer|222123|1790286369000",
-    "nfl|13545|rotowire|639105|1790311238000",
-    "nfl|5927|rotoballer|222125|1790287091000",
-    "nfl|6804|fantasy_pros|610462|1790309439606",
-    "nfl|6804|rotowire|639101|1790308935000",
-    "nfl|6806|rotoballer|222118|1790284690000",
-    "nfl|7553|fantasy_pros|610457|1790308239812",
-    "nfl|7553|rotowire|639107|1790311573000",
-    "nfl|8112|fantasy_pros|610456|1790308239575",
-    "nfl|8112|rotoballer|222126|1790295919000",
-    "nfl|8112|rotowire|639096|1790307479000",
-    "nfl|8154|fantasy_pros|610458|1790308839455",
-    "nfl|8154|rotowire|639103|1790310778000",
-    "nfl|8167|fantasy_pros|610463|1790309439596",
-    "nfl|8167|rotoballer|222129|1790298277000",
-    "nfl|8167|rotowire|639099|1790307870000",
-    "nfl|8180|rotoballer|222117|1790284036000",
-    "nfl|9484|fantasy_pros|610465|1790309439914",
-    "nfl|9484|rotowire|639106|1790311372000",
-    "nfl|9509|fantasy_pros|610454|1790307639302",
-    "nfl|9509|rotoballer|222127|1790295615000",
-    "nfl|9509|rotowire|639091|1790307011000"
+    "nfl|12519|rotoballer|222130|1790299874000"
   ],
   "schema_version": 1,
   "source": {
@@ -47,10 +14,10 @@
   },
   "stories": [
     {
-      "analysis": "The inefficiency reflected in Lloyd's final line underscores the type of season it's been so far for the second-year back, who's tried in vain to serve as a serviceable replacement for Josh Jacobs (personal) while he remains on the Commissioner's Exempt List. Lloyd's rushing opportunities were limited Thursday largely due to game script, but the 2024 third-round pick is averaging just 3.0  yards per carry through three games and has complemented it with an unremarkable 4-13-0 line through the air. Lloyd, Chris Brooks and Kaleb Johnson will continue to share the Packers' backfield workload in a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
+      "analysis": "The inefficiency reflected in Lloyd's final line underscores the type of season it's been so far for the second-year back, who's tried in vain to serve as a serviceable replacement for Josh Jacobs (personal) while he remains on the Commissioner's Exempt List. Lloyd's rushing opportunities were limited Thursday largely due to game script, but the 2024 third-round pick is averaging just 3.0 yards per carry through three games and has complemented it with an unremarkable 4-13-0 line through the air. Lloyd, Chris Brooks and Kaleb Johnson will continue to share the Packers' backfield workload in a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
       "description": "Lloyd rushed four times for 11 yards and brought in two of three targets for seven yards in the Packers' 35-14 loss to the Falcons on Thursday.",
       "metadata": {
-        "analysis": "The inefficiency reflected in Lloyd's final line underscores the type of season it's been so far for the second-year back, who's tried in vain to serve as a serviceable replacement for Josh Jacobs (personal) while he remains on the Commissioner's Exempt List. Lloyd's rushing opportunities were limited Thursday largely due to game script, but the 2024 third-round pick is averaging just 3.0  yards per carry through three games and has complemented it with an unremarkable 4-13-0 line through the air. Lloyd, Chris Brooks and Kaleb Johnson will continue to share the Packers' backfield workload in a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
+        "analysis": "The inefficiency reflected in Lloyd's final line underscores the type of season it's been so far for the second-year back, who's tried in vain to serve as a serviceable replacement for Josh Jacobs (personal) while he remains on the Commissioner's Exempt List. Lloyd's rushing opportunities were limited Thursday largely due to game script, but the 2024 third-round pick is averaging just 3.0 yards per carry through three games and has complemented it with an unremarkable 4-13-0 line through the air. Lloyd, Chris Brooks and Kaleb Johnson will continue to share the Packers' backfield workload in a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
         "description": "Lloyd rushed four times for 11 yards and brought in two of three targets for seven yards in the Packers' 35-14 loss to the Falcons on Thursday.",
         "title": "MarShawn Lloyd - Limited to 18 total yards in loss",
         "topic_id": "1409074874634256384"
@@ -87,10 +54,10 @@
       "url": null
     },
     {
-      "analysis": "Kraft finished third in targets and catches on the night for the Packers, but in uncharacteristic fashion, the field-stretching tight end was limited to a short-area role. Kraft made an impressively rapid recovery from last year's torn ACL, which he suffered in Week 9 of the 2025 campaign, to open the season in his customary No. 1 tight end role. However, he's mustered a modest a 9-106-0 line on 17 targets through three games heading into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
+      "analysis": "Kraft finished third in targets and catches on the night for the Packers, but in uncharacteristic fashion, the field-stretching tight end was limited to a short-area role. He made an impressively rapid recovery from last year's torn ACL, which he suffered Week 9 of the 2025 campaign, to open the season in his customary No. 1 tight end role. However, he's mustered a modest a 9-106-0 line on 17 targets through three games heading into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
       "description": "Kraft secured four of eight targets for 26 yards in the Packers' 35-14 loss to the Falcons on Thursday. He also recovered a fumble.",
       "metadata": {
-        "analysis": "Kraft finished third in targets and catches on the night for the Packers, but in uncharacteristic fashion, the field-stretching tight end was limited to a short-area role. Kraft made an impressively rapid recovery from last year's torn ACL, which he suffered in Week 9 of the 2025 campaign, to open the season in his customary No. 1 tight end role. However, he's mustered a modest a 9-106-0 line on 17 targets through three games heading into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
+        "analysis": "Kraft finished third in targets and catches on the night for the Packers, but in uncharacteristic fashion, the field-stretching tight end was limited to a short-area role. He made an impressively rapid recovery from last year's torn ACL, which he suffered Week 9 of the 2025 campaign, to open the season in his customary No. 1 tight end role. However, he's mustered a modest a 9-106-0 line on 17 targets through three games heading into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
         "description": "Kraft secured four of eight targets for 26 yards in the Packers' 35-14 loss to the Falcons on Thursday. He also recovered a fumble.",
         "title": "Tucker Kraft - Modest production with four catches",
         "topic_id": "1409072358525796352"
@@ -147,10 +114,10 @@
       "url": null
     },
     {
-      "analysis": "Playing in his first game since Week 11 of last season, Penix started off sluggishly Thursday before finding a rhythm and putting together a near-flawless performance. Penix threw his one interception four plays into the night on a pass intended for Jahan Dotson, but he went on to record only five more incompletions the rest of the way while connecting with Austin Hooper for a five-yard touchdown pass just before halftime. Penix's chemistry with Drake London was also in fine form over the last three quarters, and he hit his No. 1 target for gains of 68 and 40 yards in the fourth quarter to help close out the upset victory. Penix should only get more comfortable the further removed he is from the third ACL surgery of his playing career, and he'll look to carry over the considerable momentum from his season debut into a Week 4 road divisional showdown against the Saints on Monday, Oct. 5.",
+      "analysis": "Playing in his first game since Week 11 of last season, Penix started off sluggishly Thursday before finding a rhythm and putting together a near-flawless performance. Penix threw his one interception four plays into the night on a pass intended for Jahan Dotson, but he went on to record only five more incompletions the rest of the way while connecting with Austin Hooper for a five-yard touchdown pass just before halftime. Penix's chemistry with Drake London also was in fine form over the last three quarters, and he hit his No. 1 target for gains of 68 and 40 yards in the fourth quarter to help close out the upset victory. Penix should only get more comfortable the further removed he is from the third ACL surgery of his playing career, and he'll look to carry over the considerable momentum from his season debut into a Week 4 road divisional showdown against the Saints on Monday, Oct. 5.",
       "description": "Penix completed 18 of 25 passes for 256 yards with one touchdown and one interception while rushing twice for minus-2 yards in the Falcons' 35-14 win over the Packers on Thursday. He also threw a two-point conversion pass.",
       "metadata": {
-        "analysis": "Playing in his first game since Week 11 of last season, Penix started off sluggishly Thursday before finding a rhythm and putting together a near-flawless performance. Penix threw his one interception four plays into the night on a pass intended for Jahan Dotson, but he went on to record only five more incompletions the rest of the way while connecting with Austin Hooper for a five-yard touchdown pass just before halftime. Penix's chemistry with Drake London was also in fine form over the last three quarters, and he hit his No. 1 target for gains of 68 and 40 yards in the fourth quarter to help close out the upset victory. Penix should only get more comfortable the further removed he is from the third ACL surgery of his playing career, and he'll look to carry over the considerable momentum from his season debut into a Week 4 road divisional showdown against the Saints on Monday, Oct. 5.",
+        "analysis": "Playing in his first game since Week 11 of last season, Penix started off sluggishly Thursday before finding a rhythm and putting together a near-flawless performance. Penix threw his one interception four plays into the night on a pass intended for Jahan Dotson, but he went on to record only five more incompletions the rest of the way while connecting with Austin Hooper for a five-yard touchdown pass just before halftime. Penix's chemistry with Drake London also was in fine form over the last three quarters, and he hit his No. 1 target for gains of 68 and 40 yards in the fourth quarter to help close out the upset victory. Penix should only get more comfortable the further removed he is from the third ACL surgery of his playing career, and he'll look to carry over the considerable momentum from his season debut into a Week 4 road divisional showdown against the Saints on Monday, Oct. 5.",
         "description": "Penix completed 18 of 25 passes for 256 yards with one touchdown and one interception while rushing twice for minus-2 yards in the Falcons' 35-14 win over the Packers on Thursday. He also threw a two-point conversion pass.",
         "title": "Michael Penix - Stellar in season debut",
         "topic_id": "1409068584109432832"
@@ -436,10 +403,10 @@
       "url": null
     },
     {
-      "analysis": "Robinson's night on the ground was every bit as dominating as his final line suggests, as the star running back repeatedly ripped off chunk gains against an overwhelmed Packers defense. Robinson got the night off on the right foot by netting 21 yards on the Falcons' first two plays, and he struck for his game-long 55-yard run on Atlanta's third possession to set himself up for a three-yard touchdown rush two plays later. The 2023 first-round pick went on to add a three-yard touchdown run to close out the scoring with just over three and a half minutes remaining, and he came just a yard short of equaling the career-high 195 rushing yards he hung on the Rams in Week 17 of last season. Robinson already has 543 rushing yards and three total touchdowns through three games heading into a Week 4 road matchup against the Saints on Monday, Oct. 5.",
+      "analysis": "Robinson's night on the ground was every bit as dominating as his final line suggests, as the star running back repeatedly ripped off chunk gains against an overwhelmed Packers defense. He got the night off on the right foot by netting 21 yards on the Falcons' first two plays, and he struck for his game-long 55-yard run on Atlanta's third possession to set himself up for a three-yard touchdown rush two plays later. The 2023 first-round pick went on to add a three-yard touchdown run to close out the scoring with just over three and a half minutes remaining, and he came just a yard short of equaling the career-high 195 rushing yards he hung on the Rams in Week 17 of last season. Robinson already has 543 rushing yards and three total touchdowns through three games heading into a Week 4 road matchup against the Saints on Monday, Oct. 5.",
       "description": "Robinson rushed 29 times for 194 yards and two touchdowns and brought in both targets for 19 yards in the Falcons' 35-14 win over the Packers on Thursday.",
       "metadata": {
-        "analysis": "Robinson's night on the ground was every bit as dominating as his final line suggests, as the star running back repeatedly ripped off chunk gains against an overwhelmed Packers defense. Robinson got the night off on the right foot by netting 21 yards on the Falcons' first two plays, and he struck for his game-long 55-yard run on Atlanta's third possession to set himself up for a three-yard touchdown rush two plays later. The 2023 first-round pick went on to add a three-yard touchdown run to close out the scoring with just over three and a half minutes remaining, and he came just a yard short of equaling the career-high 195 rushing yards he hung on the Rams in Week 17 of last season. Robinson already has 543 rushing yards and three total touchdowns through three games heading into a Week 4 road matchup against the Saints on Monday, Oct. 5.",
+        "analysis": "Robinson's night on the ground was every bit as dominating as his final line suggests, as the star running back repeatedly ripped off chunk gains against an overwhelmed Packers defense. He got the night off on the right foot by netting 21 yards on the Falcons' first two plays, and he struck for his game-long 55-yard run on Atlanta's third possession to set himself up for a three-yard touchdown rush two plays later. The 2023 first-round pick went on to add a three-yard touchdown run to close out the scoring with just over three and a half minutes remaining, and he came just a yard short of equaling the career-high 195 rushing yards he hung on the Rams in Week 17 of last season. Robinson already has 543 rushing yards and three total touchdowns through three games heading into a Week 4 road matchup against the Saints on Monday, Oct. 5.",
         "description": "Robinson rushed 29 times for 194 yards and two touchdowns and brought in both targets for 19 yards in the Falcons' 35-14 win over the Packers on Thursday.",
         "title": "Bijan Robinson - Dominates throughout blowout win",
         "topic_id": "1409054740964237312"
@@ -474,6 +441,26 @@
       "story_id": "nfl|11643|rotowire|639061|1790301750000",
       "title": "Jaylen Wright - Limited again Thursday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears wide receiver Luther Burden III has not lived up to his preseason hype, totaling just eight catches, 95 yards, zero touchdowns, and one lost fumble through two games. To make matters worse, he's facing a quarterback downgrade heading into Week 3. Caleb Williams (hamstring) and Tyson Bagent (concussion) are both expected to miss Sunday's game against the Eagles, leaving third-string quarterback Case Keenum in line to start. This massive shift in quarterback play will likely only hurt Burden's already iffy fantasy outlook. With Williams at the helm, Burden was a WR3, but at least he had upside in a high-powered offense. Keenum's takeover raises serious questions about whether this offense will be able to function, and therefore, Burden takes on a very low floor. The only saving grace is that the Bears might go pass-heavy in a negative game script, but that's not enough reason to start him with confidence. Managers would be better suited to find an alternative receiver to plug in at WR3/flex for the duration of Williams' absence.",
+      "metadata": {
+        "description": "Chicago Bears wide receiver Luther Burden III has not lived up to his preseason hype, totaling just eight catches, 95 yards, zero touchdowns, and one lost fumble through two games. To make matters worse, he's facing a quarterback downgrade heading into Week 3. Caleb Williams (hamstring) and Tyson Bagent (concussion) are both expected to miss Sunday's game against the Eagles, leaving third-string quarterback Case Keenum in line to start. This massive shift in quarterback play will likely only hurt Burden's already iffy fantasy outlook. With Williams at the helm, Burden was a WR3, but at least he had upside in a high-powered offense. Keenum's takeover raises serious questions about whether this offense will be able to function, and therefore, Burden takes on a very low floor. The only saving grace is that the Bears might go pass-heavy in a negative game script, but that's not enough reason to start him with confidence. Managers would be better suited to find an alternative receiver to plug in at WR3/flex for the duration of Williams' absence.",
+        "title": "Luther Burden III Trending Down with Quarterback Injured",
+        "topic_id": "1409084938967351297",
+        "url": "https://www.rotoballer.com/player-news/luther-burden-iii-trending-down-with-quarterback-injured/1949882"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12519",
+      "player_name": "Luther Burden",
+      "position": "WR",
+      "published": 1790299874000,
+      "source": "rotoballer",
+      "source_key": "222130",
+      "story_id": "nfl|12519|rotoballer|222130|1790299874000",
+      "title": "Luther Burden III Trending Down with Quarterback Injured",
+      "url": "https://www.rotoballer.com/player-news/luther-burden-iii-trending-down-with-quarterback-injured/1949882"
     },
     {
       "analysis": null,
@@ -560,7 +547,7 @@
       "description": "Atlanta Falcons running back Bijan Robinson totaled 29 carries, 194 rushing yards, and two rushing touchdowns during Thursday's Week 3 win over the Green Bay Packers. He also caught two passes for an additional 19 receiving yards, bringing him to a total of 213 scrimmage yards in the effort. This was a truly exceptional performance, even by Robinson's high standards. He has now posted at least 31.3 fantasy points (PPR) in two of his three games so far, and he's averaging 25.9 fantasy points per game in 2026. The superstar running back was one of many players to benefit from the return of quarterback Michael Penix Jr., who got the offense back in good shape after a 0-2 start under Cooper Rush. As long as Penix stays healthy, this offense will remain competitive and Robinson will continue to push for the overall RB1 title in fantasy football.",
       "metadata": {
         "description": "Atlanta Falcons running back Bijan Robinson totaled 29 carries, 194 rushing yards, and two rushing touchdowns during Thursday's Week 3 win over the Green Bay Packers. He also caught two passes for an additional 19 receiving yards, bringing him to a total of 213 scrimmage yards in the effort. This was a truly exceptional performance, even by Robinson's high standards. He has now posted at least 31.3 fantasy points (PPR) in two of his three games so far, and he's averaging 25.9 fantasy points per game in 2026. The superstar running back was one of many players to benefit from the return of quarterback Michael Penix Jr., who got the offense back in good shape after a 0-2 start under Cooper Rush. As long as Penix stays healthy, this offense will remain competitive and Robinson will continue to push for the overall RB1 title in fantasy football.",
-        "title": "Bijan Robinson Breaks Out for More Than 200 Scrimmage Yards on Thursday Night",
+        "title": "Bijan Robinson Breaks Out for More Than 200 Scrimmage Yards",
         "topic_id": "1409068579990646784",
         "url": "https://www.rotoballer.com/player-news/bijan-robinson-breaks-out-for-more-than-200-scrimmage-yards-on-thursday-night/1949870"
       },
@@ -572,7 +559,7 @@
       "source": "rotoballer",
       "source_key": "222127",
       "story_id": "nfl|9509|rotoballer|222127|1790295615000",
-      "title": "Bijan Robinson Breaks Out for More Than 200 Scrimmage Yards on Thursday Night",
+      "title": "Bijan Robinson Breaks Out for More Than 200 Scrimmage Yards",
       "url": "https://www.rotoballer.com/player-news/bijan-robinson-breaks-out-for-more-than-200-scrimmage-yards-on-thursday-night/1949870"
     },
     {
@@ -1493,10 +1480,10 @@
       "url": "https://www.rotoballer.com/player-news/jalen-nailor-playing-limited-role-in-raiders-passing-game/1949750"
     },
     {
-      "analysis": "Collins seems to be headed toward a second consecutive absence Sunday against the Colts, as he hasn't practiced since sustaining a hamstring injury last Wednesday. Barring an improbable recovery from Collins, which would be precipitated by a return to practice Friday, Dalton Schultz is likely to function as the top pass catcher for C.J. Stroud on Sunday. Schultz caught 12 of 14 targets for 140 yards in Collins' absence against the Bengals this past Sunday, while Stroud connected on only nine of 26 passes intended for Houston's wide receivers.",
+      "analysis": "Collins seems to be headed toward a second consecutive absence Sunday against the Colts, as he hasn't practiced since sustaining a hamstring injury last Wednesday. Barring an improbable recovery from Collins, which likely would be precipitated by a return to practice Friday, Dalton Schultz is likely to function as the top pass catcher for C.J. Stroud on Sunday. Schultz caught 12 of 14 targets for 140 yards in Collins' absence against the Bengals this past Sunday, while Stroud connected on only nine of 26 passes intended for Houston's wide receivers.",
       "description": "Collins (hamstring) was listed as a non-participant at Thursday's practice.",
       "metadata": {
-        "analysis": "Collins seems to be headed toward a second consecutive absence Sunday against the Colts, as he hasn't practiced since sustaining a hamstring injury last Wednesday. Barring an improbable recovery from Collins, which would be precipitated by a return to practice Friday, Dalton Schultz is likely to function as the top pass catcher for C.J. Stroud on Sunday. Schultz caught 12 of 14 targets for 140 yards in Collins' absence against the Bengals this past Sunday, while Stroud connected on only nine of 26 passes intended for Houston's wide receivers.",
+        "analysis": "Collins seems to be headed toward a second consecutive absence Sunday against the Colts, as he hasn't practiced since sustaining a hamstring injury last Wednesday. Barring an improbable recovery from Collins, which likely would be precipitated by a return to practice Friday, Dalton Schultz is likely to function as the top pass catcher for C.J. Stroud on Sunday. Schultz caught 12 of 14 targets for 140 yards in Collins' absence against the Bengals this past Sunday, while Stroud connected on only nine of 26 passes intended for Houston's wide receivers.",
         "description": "Collins (hamstring) was listed as a non-participant at Thursday's practice.",
         "title": "Nico Collins - Officially DNP again Thursday",
         "topic_id": "1408957882585620480"
@@ -94809,106 +94796,6 @@
       "story_id": "nfl|11635|rotoballer|219412|1787739910000",
       "title": "Ladd McConkey Could Have a \"Huge Season\" in New-Look Chargers Offense",
       "url": "https://www.rotoballer.com/player-news/ladd-mcconkey-could-have-a-huge-season-in-new-look-chargers-offense/1916677"
-    },
-    {
-      "analysis": null,
-      "description": "The Cincinnati Bengals' starting offense has worked two drives in the 2026 preseason, with running back Chase Brown touching the ball on four of the team's first seven plays and handling five total carries. While his 16 yards are nothing gaudy, his early involvement reflects the hype he's received since the start of training camp, which has caused his ADP to steadily rise throughout draft season. The Bengals offense stumbled out of the blocks in 2025, derailed by an early-season injury to quarterback Joe Burrow, but following a slow start, Brown was the RB6 over the final 12 weeks of the season, and he projects for more of the same in 2026. Brown is RotoBaller's RB8, but as the de facto third receiving option in one of the league's most high-powered offenses, he has top-five upside and projects as a regular week-winner in PPR leagues.",
-      "metadata": {
-        "description": "The Cincinnati Bengals' starting offense has worked two drives in the 2026 preseason, with running back Chase Brown touching the ball on four of the team's first seven plays and handling five total carries. While his 16 yards are nothing gaudy, his early involvement reflects the hype he's received since the start of training camp, which has caused his ADP to steadily rise throughout draft season. The Bengals offense stumbled out of the blocks in 2025, derailed by an early-season injury to quarterback Joe Burrow, but following a slow start, Brown was the RB6 over the final 12 weeks of the season, and he projects for more of the same in 2026. Brown is RotoBaller's RB8, but as the de facto third receiving option in one of the league's most high-powered offenses, he has top-five upside and projects as a regular week-winner in PPR leagues.",
-        "title": "Chase Brown Has Top-Five Upside in 2026",
-        "topic_id": "1398345457956073494",
-        "url": "https://www.rotoballer.com/player-news/chase-brown-has-top-five-upside-in-2026/1916666"
-      },
-      "nfl_team": "CIN",
-      "player_id": "9224",
-      "player_name": "Chase Brown",
-      "position": "RB",
-      "published": 1787739255000,
-      "source": "rotoballer",
-      "source_key": "219411",
-      "story_id": "nfl|9224|rotoballer|219411|1787739255000",
-      "title": "Chase Brown Has Top-Five Upside in 2026",
-      "url": "https://www.rotoballer.com/player-news/chase-brown-has-top-five-upside-in-2026/1916666"
-    },
-    {
-      "analysis": null,
-      "description": "Following an injury scare that forced him out of Tuesday's joint practice with the Buccaneers, Jacksonville Jaguars wide receiver Brian Thomas Jr. (shoulder) is back in attendance on Wednesday, spotted wearing an orange non-contact jersey as he started the day with individual drills. Thomas came down on his shoulder while making a touchdown catch early in Tuesday's practice and showed obvious discomfort after initially attempting to stay on the field. While he eventually walked off with trainers, initial reports indicated the injury was not overly serious, and his presence one day later serves as confirmation. Thomas disappointed with a WR43 fantasy finish a season ago after bursting onto the scene as the WR4 as a rookie in 2024, but he has reportedly put in serious work to clean up some of the finer details of his game and has enjoyed a strong training camp as a result. While Parker Washington has drawn most of the headlines out of Jaguars' camp, Thomas could still be argued to have the highest weekly ceiling, making him a potential bargain for risk-tolerant drafters, currently coming off the board as the WR32.",
-      "metadata": {
-        "description": "Following an injury scare that forced him out of Tuesday's joint practice with the Buccaneers, Jacksonville Jaguars wide receiver Brian Thomas Jr. (shoulder) is back in attendance on Wednesday, spotted wearing an orange non-contact jersey as he started the day with individual drills. Thomas came down on his shoulder while making a touchdown catch early in Tuesday's practice and showed obvious discomfort after initially attempting to stay on the field. While he eventually walked off with trainers, initial reports indicated the injury was not overly serious, and his presence one day later serves as confirmation. Thomas disappointed with a WR43 fantasy finish a season ago after bursting onto the scene as the WR4 as a rookie in 2024, but he has reportedly put in serious work to clean up some of the finer details of his game and has enjoyed a strong training camp as a result. While Parker Washington has drawn most of the headlines out of Jaguars' camp, Thomas could still be argued to have the highest weekly ceiling, making him a potential bargain for risk-tolerant drafters, currently coming off the board as the WR32.",
-        "title": "Brian Thomas Jr. Practicing in Non-Contact Jersey",
-        "topic_id": "1398341683350872064",
-        "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-practicing-in-non-contact-jersey/1916650"
-      },
-      "nfl_team": "JAX",
-      "player_id": "11631",
-      "player_name": "Brian Thomas",
-      "position": "WR",
-      "published": 1787738418000,
-      "source": "rotoballer",
-      "source_key": "219410",
-      "story_id": "nfl|11631|rotoballer|219410|1787738418000",
-      "title": "Brian Thomas Jr. Practicing in Non-Contact Jersey",
-      "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-practicing-in-non-contact-jersey/1916650"
-    },
-    {
-      "analysis": null,
-      "description": "After a summer spent in Oxnard, California, the Dallas Cowboys returned to Frisco for their first local training camp practice on Tuesday night, and as he has done since arriving with the team, wide receiver George Pickens continued to make plays. One of the highlights of the night was a deep connection from Dak Prescott that the 2025 second-team All-Pro was able to haul in while keeping both feet inbounds, prompting team staff writer Tommy Yarrish to note that commenting on Pickens' standout moments has almost become repetitive. After a brief ramp-up period in his first season with the Cowboys, a Week 3 ankle injury to CeeDee Lamb thrust Pickens into the spotlight, allowing him to rack up a career-high 93 receptions for 1,429 yards and nine touchdowns on his way to a WR5 fantasy finish, remaining dominant even following Lamb's return. With the Cowboys' offense capable of producing two legitimate fantasy difference-makers at the position, Pickens is RotoBaller's WR8 and a perfectly suitable option to build around as a number one receiver in 2026 drafts.",
-      "metadata": {
-        "description": "After a summer spent in Oxnard, California, the Dallas Cowboys returned to Frisco for their first local training camp practice on Tuesday night, and as he has done since arriving with the team, wide receiver George Pickens continued to make plays. One of the highlights of the night was a deep connection from Dak Prescott that the 2025 second-team All-Pro was able to haul in while keeping both feet inbounds, prompting team staff writer Tommy Yarrish to note that commenting on Pickens' standout moments has almost become repetitive. After a brief ramp-up period in his first season with the Cowboys, a Week 3 ankle injury to CeeDee Lamb thrust Pickens into the spotlight, allowing him to rack up a career-high 93 receptions for 1,429 yards and nine touchdowns on his way to a WR5 fantasy finish, remaining dominant even following Lamb's return. With the Cowboys' offense capable of producing two legitimate fantasy difference-makers at the position, Pickens is RotoBaller's WR8 and a perfectly suitable option to build around as a number one receiver in 2026 drafts.",
-        "title": "George Pickens' Standout Camp Continues as Cowboys Return to Texas",
-        "topic_id": "1398339166202236928",
-        "url": "https://www.rotoballer.com/player-news/george-pickens-standout-camp-continues-as-cowboys-return-to-texas/1916642"
-      },
-      "nfl_team": "DAL",
-      "player_id": "8137",
-      "player_name": "George Pickens",
-      "position": "WR",
-      "published": 1787737723000,
-      "source": "rotoballer",
-      "source_key": "219409",
-      "story_id": "nfl|8137|rotoballer|219409|1787737723000",
-      "title": "George Pickens' Standout Camp Continues as Cowboys Return to Texas",
-      "url": "https://www.rotoballer.com/player-news/george-pickens-standout-camp-continues-as-cowboys-return-to-texas/1916642"
-    },
-    {
-      "analysis": null,
-      "description": "At 33 years old, Dallas Cowboys quarterback Dak Prescott is entering his 11th season, and according to team staff writer Nick Eatman, he still has the speed to make off-platform plays as needed. In the team's first local training camp practice on Tuesday night, Prescott showed off the quickness and pocket presence that have defined much of his career, twice scrambling for touchdowns while working in the red zone. While Prescott has relied less on his legs after a handful of serious injuries, last topping 250 rushing yards in 2019, his escapability and ability to keep drives alive have contributed to keeping the Cowboys' offense among the league's most potent throughout his career while making him one of the most underrated fantasy performers in recent years. When playing at least 16 games in a season, Prescott has not finished outside the top eight of the position since 2018, making him one of the safest late-round quarterbacks to target in 2026 drafts.",
-      "metadata": {
-        "description": "At 33 years old, Dallas Cowboys quarterback Dak Prescott is entering his 11th season, and according to team staff writer Nick Eatman, he still has the speed to make off-platform plays as needed. In the team's first local training camp practice on Tuesday night, Prescott showed off the quickness and pocket presence that have defined much of his career, twice scrambling for touchdowns while working in the red zone. While Prescott has relied less on his legs after a handful of serious injuries, last topping 250 rushing yards in 2019, his escapability and ability to keep drives alive have contributed to keeping the Cowboys' offense among the league's most potent throughout his career while making him one of the most underrated fantasy performers in recent years. When playing at least 16 games in a season, Prescott has not finished outside the top eight of the position since 2018, making him one of the safest late-round quarterbacks to target in 2026 drafts.",
-        "title": "Dak Prescott Proving He Can Still Use His Legs as Needed",
-        "topic_id": "1398336649099739136",
-        "url": "https://www.rotoballer.com/player-news/dak-prescott-proving-he-can-still-use-his-legs-as-needed/1916632"
-      },
-      "nfl_team": "DAL",
-      "player_id": "3294",
-      "player_name": "Dak Prescott",
-      "position": "QB",
-      "published": 1787737017000,
-      "source": "rotoballer",
-      "source_key": "219407",
-      "story_id": "nfl|3294|rotoballer|219407|1787737017000",
-      "title": "Dak Prescott Proving He Can Still Use His Legs as Needed",
-      "url": "https://www.rotoballer.com/player-news/dak-prescott-proving-he-can-still-use-his-legs-as-needed/1916632"
-    },
-    {
-      "analysis": null,
-      "description": "Miami Dolphins running back De'Von Achane was one of the few holdovers of a near-total offseason overhaul to the team's starting offense, and unsurprisingly, he has been one of Miami's most consistent performers throughout training camp, according to team writer Travis Wingfield. In the Dolphins' penultimate practice of camp on Tuesday, Achane successfully led the starting unit with a handful of explosive runs, and offensive coordinator Bobby Slowik was later asked what he likes about the team's run game. \"The versatility of what our personnel allows us to do,\" he said. \"You can get on the perimeter; you can get on the edge... You can do stuff with [Malik Willis] in the run game. Obviously, [Achane] has speed to get to the edge. He can hit it up in the middle as well.\" The only running back in the NFL to score double-digit fantasy points in every one of his games in 2025, Achane is once more expected to be the focal point of the Dolphins' offense, and he is RotoBaller's RB11.",
-      "metadata": {
-        "description": "Miami Dolphins running back De'Von Achane was one of the few holdovers of a near-total offseason overhaul to the team's starting offense, and unsurprisingly, he has been one of Miami's most consistent performers throughout training camp, according to team writer Travis Wingfield. In the Dolphins' penultimate practice of camp on Tuesday, Achane successfully led the starting unit with a handful of explosive runs, and offensive coordinator Bobby Slowik was later asked what he likes about the team's run game. \"The versatility of what our personnel allows us to do,\" he said. \"You can get on the perimeter; you can get on the edge... You can do stuff with [Malik Willis] in the run game. Obviously, [Achane] has speed to get to the edge. He can hit it up in the middle as well.\" The only running back in the NFL to score double-digit fantasy points in every one of his games in 2025, Achane is once more expected to be the focal point of the Dolphins' offense, and he is RotoBaller's RB11.",
-        "title": "De'Von Achane Bringing Consistency to New-Look Dolphins Offense",
-        "topic_id": "1398336649087156224",
-        "url": "https://www.rotoballer.com/player-news/devon-achane-bringing-consistency-to-new-look-dolphins-offense/1916614"
-      },
-      "nfl_team": "MIA",
-      "player_id": "9226",
-      "player_name": "De'Von Achane",
-      "position": "RB",
-      "published": 1787736309000,
-      "source": "rotoballer",
-      "source_key": "219408",
-      "story_id": "nfl|9226|rotoballer|219408|1787736309000",
-      "title": "De'Von Achane Bringing Consistency to New-Look Dolphins Offense",
-      "url": "https://www.rotoballer.com/player-news/devon-achane-bringing-consistency-to-new-look-dolphins-offense/1916614"
     }
   ]
 }

@@ -2,71 +2,73 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **4688**
-- Newly captured: **34**
+- Stored stories: **4684**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — MarShawn Lloyd** — MarShawn Lloyd - Limited to 18 total yards in loss (2026-09-25T04:52:42Z)
-  - The inefficiency reflected in Lloyd's final line underscores the type of season it's been so far for the second-year back, who's tried in vain to serve as a serviceable replacement for Josh Jacobs (personal) while he remains on the Commissioner's Exempt List. Lloyd's rushing opportunities were limited Thursday largely due to game script, but the 2024 third-round pick is averaging just 3.0  yards per carry through three games and has complemented it with an unremarkable 4-13-0 line through the air. Lloyd, Chris Brooks and Kaleb Johnson will continue to share the Packers' backfield workload in a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.
-- **NEW — Kyle Pitts** — Kyle Pitts - Limited to one catch in win (2026-09-25T04:46:13Z)
+- **MarShawn Lloyd** — MarShawn Lloyd - Limited to 18 total yards in loss (2026-09-25T04:52:42Z)
+  - The inefficiency reflected in Lloyd's final line underscores the type of season it's been so far for the second-year back, who's tried in vain to serve as a serviceable replacement for Josh Jacobs (personal) while he remains on the Commissioner's Exempt List. Lloyd's rushing opportunities were limited Thursday largely due to game script, but the 2024 third-round pick is averaging just 3.0 yards per carry through three games and has complemented it with an unremarkable 4-13-0 line through the air. Lloyd, Chris Brooks and Kaleb Johnson will continue to share the Packers' backfield workload in a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.
+- **Kyle Pitts** — Kyle Pitts - Limited to one catch in win (2026-09-25T04:46:13Z)
   - Pitts' slow start persisted Thursday despite Michael Penix making his season debut and taking the reins of the offense from the ineffective duo of Cooper Rush and Jack Strand. Pitts has managed just two receptions for 20 yards on six targets through three games, but given how sharp Penix looked right out of the gate Thursday, the duo is bound to start clicking in coming games as they've done previously.
-- **NEW — Tucker Kraft** — Tucker Kraft - Modest production with four catches (2026-09-25T04:42:52Z)
-  - Kraft finished third in targets and catches on the night for the Packers, but in uncharacteristic fashion, the field-stretching tight end was limited to a short-area role. Kraft made an impressively rapid recovery from last year's torn ACL, which he suffered in Week 9 of the 2025 campaign, to open the season in his customary No. 1 tight end role. However, he's mustered a modest a 9-106-0 line on 17 targets through three games heading into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.
-- **NEW — Trey Smack** — Trey Smack - Has kick blocked (2026-09-25T04:40:38Z)
+- **Tucker Kraft** — Tucker Kraft - Modest production with four catches (2026-09-25T04:42:52Z)
+  - Kraft finished third in targets and catches on the night for the Packers, but in uncharacteristic fashion, the field-stretching tight end was limited to a short-area role. He made an impressively rapid recovery from last year's torn ACL, which he suffered Week 9 of the 2025 campaign, to open the season in his customary No. 1 tight end role. However, he's mustered a modest a 9-106-0 line on 17 targets through three games heading into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.
+- **Trey Smack** — Trey Smack - Has kick blocked (2026-09-25T04:40:38Z)
   - The kicker's 47-yard attempt in the second quarter was blocked. It was Smack's first miss on a field-goal try this season, and it probably wasn't his fault. The rookie has, however, missed an extra point as well.
-- **NEW — Brian Robinson** — Brian Robinson - Gets into end zone in win (2026-09-25T04:32:58Z)
+- **Brian Robinson** — Brian Robinson - Gets into end zone in win (2026-09-25T04:32:58Z)
   - Robinson's backfield mate Bijan Robinson and No. 1 receiver Drake London stole the show Thursday while accruing 194 yards apiece, but Brian had his own moment in the spotlight when he capped off a 10-play, 92-yard drive in the third quarter with a seven-yard touchdown run. Brian Robinson now has back-to-back games with double-digit carries and has at least 50 rushing yards in each, keeping him somewhat relevant in very deep formats heading into a Week 4 road matchup against the Saints on Monday, Oct. 5.
-- **NEW — Michael Penix** — Michael Penix - Stellar in season debut (2026-09-25T04:27:14Z)
-  - Playing in his first game since Week 11 of last season, Penix started off sluggishly Thursday before finding a rhythm and putting together a near-flawless performance. Penix threw his one interception four plays into the night on a pass intended for Jahan Dotson, but he went on to record only five more incompletions the rest of the way while connecting with Austin Hooper for a five-yard touchdown pass just before halftime. Penix's chemistry with Drake London was also in fine form over the last three quarters, and he hit his No. 1 target for gains of 68 and 40 yards in the fourth quarter to help close out the upset victory. Penix should only get more comfortable the further removed he is from the third ACL surgery of his playing career, and he'll look to carry over the considerable momentum from his season debut into a Week 4 road divisional showdown against the Saints on Monday, Oct. 5.
-- **NEW — Tucker Kraft** — Tucker Kraft snags four passes in loss to Atlanta (2026-09-25T04:10:39.914000Z)
+- **Michael Penix** — Michael Penix - Stellar in season debut (2026-09-25T04:27:14Z)
+  - Playing in his first game since Week 11 of last season, Penix started off sluggishly Thursday before finding a rhythm and putting together a near-flawless performance. Penix threw his one interception four plays into the night on a pass intended for Jahan Dotson, but he went on to record only five more incompletions the rest of the way while connecting with Austin Hooper for a five-yard touchdown pass just before halftime. Penix's chemistry with Drake London also was in fine form over the last three quarters, and he hit his No. 1 target for gains of 68 and 40 yards in the fourth quarter to help close out the upset victory. Penix should only get more comfortable the further removed he is from the third ACL surgery of his playing career, and he'll look to carry over the considerable momentum from his season debut into a Week 4 road divisional showdown against the Saints on Monday, Oct. 5.
+- **Tucker Kraft** — Tucker Kraft snags four passes in loss to Atlanta (2026-09-25T04:10:39.914000Z)
   - Kraft could have had a slightly bigger day had he held onto the football in what ended up being ruled a drop. The defensive back made a fantastic punch at the ball right as Kraft was corralling it into his chest, forcing a dropped pass. Kraft is still worth starting, and with that eight-target total, he has now beaten his season high in targets (previously six). The volume is there; the results just haven't quite followed yet.
   - Source: https://www.fantasypros.com/nfl/news/610465/tucker-kraft-snags-four-passes-loss-to-atlanta.php
-- **NEW — Jordan Love** — Jordan Love passes for 312 yards in loss (2026-09-25T04:10:39.606000Z)
+- **Jordan Love** — Jordan Love passes for 312 yards in loss (2026-09-25T04:10:39.606000Z)
   - Love was a bit up and down in this game. He was struggling against the pressure Atlanta was bringing, missing several forced throws and causing tipped passes. The Green Bay offense has no run game, which has worked out decently well for the pass catchers, but until they get things going on the ground to make the defense respect the run, it will be hard for the receivers and Love to have a ceiling week in, week out.
   - Source: https://www.fantasypros.com/nfl/news/610462/jordan-love-passes-312-yards-loss.php
-- **NEW — Christian Watson** — Christian Watson extends touchdown streak to three games (2026-09-25T04:10:39.596000Z)
+- **Christian Watson** — Christian Watson extends touchdown streak to three games (2026-09-25T04:10:39.596000Z)
   - It might not have been in a win, but fantasy managers won't care. Watson has been a clear favorite target for Jordan Love, especially down in the red zone, with Tucker Kraft still working his way back to full health. He should be in your lineup whenever he is playing.
   - Source: https://www.fantasypros.com/nfl/news/610463/christian-watson-extends-touchdown-streak-to-three-games.php
-- **NEW — Matthew Golden** — Matthew Golden snags touchdown in loss to Falcons (2026-09-25T04:10:39.584000Z)
+- **Matthew Golden** — Matthew Golden snags touchdown in loss to Falcons (2026-09-25T04:10:39.584000Z)
   - Golden had several passes intended for him tipped by defensive backs after being undethrown, and another target where the DB committed a pass interference penalty. So, the five catches on 12 targets may not seem great; there is still context to be had. He is startable each week for the Packers.
   - Source: https://www.fantasypros.com/nfl/news/610464/matthew-golden-snags-touchdown-loss-to-falcons.php
-- **NEW — Jordan Love** — Jordan Love - Fantasy-friendly numbers in loss (2026-09-25T04:02:15Z)
+- **Jordan Love** — Jordan Love - Fantasy-friendly numbers in loss (2026-09-25T04:02:15Z)
   - While Love's final line was certainly a fantasy-friendly one, it was largely the byproduct of Green Bay being playing catch-up in the fourth quarter and the Falcons showing a willingness to give up some yardage while in prevent mode. Love spread the ball around to nine different targets on the night, and he connected with Christian Watson (four yards) and Matthew Golden (15 yards ) -- who were his two most prolific options by far -- for his pair of touchdown passes. Love's one interception closed out the Packers' final drive with the game already out of reach, but the embattled veteran signal-caller does head into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4 averaging 281.3 passing yards per game while sporting a 6:2 TD:INT.
-- **NEW — Brian Robinson** — Brian Robinson Jr. runs in touchdown in big win (2026-09-25T04:00:39.455000Z)
+- **Brian Robinson** — Brian Robinson Jr. runs in touchdown in big win (2026-09-25T04:00:39.455000Z)
   - Robinson played second fiddle to Bijan Robinson, but he still got enough touches and some goal-line work that he was usable for those who started him. He's been splitting work with Bijan to keep the younger back rested, and he won't have outings like this all the time, but he's certainly a handcuff worth rostering.
   - Source: https://www.fantasypros.com/nfl/news/610458/brian-robinson-jr-runs-touchdown-big-win.php
-- **NEW — Matthew Golden** — Matthew Golden - Hits century mark in loss (2026-09-25T03:51:38Z)
+- **Matthew Golden** — Matthew Golden - Hits century mark in loss (2026-09-25T03:51:38Z)
   - Golden set the pace for the Packers in both receiving yards and targets with totals that also qualified as or tied new single-game career highs. The second-year wideout has hit the ground running this season, quickly generating a 15-253-1 line on 30 targets while showing clearly improved chemistry with Jordan Love. The speedster also added his first touchdown catch of the campaign on an impressive 15-yard grab in the fourth quarter where Golden had to reach behind him to reel in the ball, and he'll remain a coveted option in all fantasy formats in a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.
-- **NEW — Kyle Pitts** — Kyle Pitts Sr. snags single pass in win (2026-09-25T03:50:39.812000Z)
+- **Kyle Pitts** — Kyle Pitts Sr. snags single pass in win (2026-09-25T03:50:39.812000Z)
   - Pitts took a backseat to Drake London and Bijan Robinson in this game, with Michael Penix heavily favoring London in terms of target share. Pitts was productive last year both with London on and off the field, but Penix has been so fixated on London in his starts that it's tough to trust Pitts. He is a bit of a shaky fantasy start until his workload improves.
   - Source: https://www.fantasypros.com/nfl/news/610457/kyle-pitts-sr-snags-single-pass-win.php
-- **NEW — Michael Penix** — Michael Penix Jr. commands offense in win over Packers (2026-09-25T03:50:39.586000Z)
+- **Michael Penix** — Michael Penix Jr. commands offense in win over Packers (2026-09-25T03:50:39.586000Z)
   - Penix might not have had the biggest fantasy day, but the Falcons' offense sure felt his return. They hadn't made a trip to the red zone in the previous two games, and they did just that on their second drive of the game. The 35 points more than doubled the Falcons' total offensive output in 2026, and things are now looking up. 
   - Source: https://www.fantasypros.com/nfl/news/610455/michael-penix-jr-commands-offense-win-over-packers.php
-- **NEW — Drake London** — Drake London goes for 194 yards in win over Green Bay (2026-09-25T03:50:39.575000Z)
+- **Drake London** — Drake London goes for 194 yards in win over Green Bay (2026-09-25T03:50:39.575000Z)
   - London was fantastic in this game, spurred on by the return of Michael Penix. When Penix has been at the helm of the offense, London has been among the best fantasy producers in the game, and it showed once again on Thursday. He should be a locked in starter whenever Penix is playing.
   - Source: https://www.fantasypros.com/nfl/news/610456/drake-london-goes-194-yards-win-over-green-bay.php
-- **NEW — Christian Watson** — Christian Watson - Team-high catch tally in loss (2026-09-25T03:44:30Z)
+- **Christian Watson** — Christian Watson - Team-high catch tally in loss (2026-09-25T03:44:30Z)
   - Watson led the Packers in receptions while finishing as the runner-up in receiving yards and targets to Matthew Golden. Watson recorded a 34-yard grab among his six catches, and he opened the scoring on the night with a four-yard touchdown reception just before the five-minute mark of the first quarter. Watson has at least four receptions, along with 284 total receiving yards and four touchdowns, across his first three games, keeping his fantasy appeal high heading into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.
-- **NEW — Bijan Robinson** — Bijan Robinson explodes in Week 3 win over Packers (2026-09-25T03:40:39.302000Z)
+- **Bijan Robinson** — Bijan Robinson explodes in Week 3 win over Packers (2026-09-25T03:40:39.302000Z)
   - Robinson had his way with the Packers' defense, rushing for 6.7 yards per carry. He ripped off a huge 55-yard gain early on in the game, which opened the floodgates for many more big runs throughout the game. The Packers simply could not stop him, and once the ground game got going, QB Michael Penix and WR Drake London were able to carve up the Packers' secondary. With Penix back, the offense has new life, and Bijan stands to benefit greatly from it, even if Brian Robinson Jr. spells him.
   - Source: https://www.fantasypros.com/nfl/news/610454/bijan-robinson-explodes-week-3-win-over-packers.php
-- **NEW — Drake London** — Drake London - Career-high receiving yards in win (2026-09-25T03:37:59Z)
+- **Drake London** — Drake London - Career-high receiving yards in win (2026-09-25T03:37:59Z)
   - London and Michael Penix got their first 2026 game together off to a very quiet start, but once the duo began clicking, they helped fuel the surprising road rout. Two of London's fourth-quarter catches accounted for 108 of his yards, the first a 68-yarder early in the period on which he appeared he could have scored but was caught from behind at the Packers' 16-yard line. London then struck again with just over five minutes remaining, recording a 40-yard grab where he ran away from a fallen defender to Green Bay's 13-yard line to set up the final touchdown of the night. The receiving yardage tally was a new career high for the 2022 first-round pick, while his nine receptions were his most since Week 9 of last season. London will take a 15-274-0 line into a Week 4 divisional road clash against the Saints on Monday, Oct. 5.
-- **NEW — Bijan Robinson** — Bijan Robinson - Dominates throughout blowout win (2026-09-25T03:30:11Z)
-  - Robinson's night on the ground was every bit as dominating as his final line suggests, as the star running back repeatedly ripped off chunk gains against an overwhelmed Packers defense. Robinson got the night off on the right foot by netting 21 yards on the Falcons' first two plays, and he struck for his game-long 55-yard run on Atlanta's third possession to set himself up for a three-yard touchdown rush two plays later. The 2023 first-round pick went on to add a three-yard touchdown run to close out the scoring with just over three and a half minutes remaining, and he came just a yard short of equaling the career-high 195 rushing yards he hung on the Rams in Week 17 of last season. Robinson already has 543 rushing yards and three total touchdowns through three games heading into a Week 4 road matchup against the Saints on Monday, Oct. 5.
-- **NEW — Jaylen Wright** — Jaylen Wright - Limited again Thursday (2026-09-25T02:02:30Z)
+- **Bijan Robinson** — Bijan Robinson - Dominates throughout blowout win (2026-09-25T03:30:11Z)
+  - Robinson's night on the ground was every bit as dominating as his final line suggests, as the star running back repeatedly ripped off chunk gains against an overwhelmed Packers defense. He got the night off on the right foot by netting 21 yards on the Falcons' first two plays, and he struck for his game-long 55-yard run on Atlanta's third possession to set himself up for a three-yard touchdown rush two plays later. The 2023 first-round pick went on to add a three-yard touchdown run to close out the scoring with just over three and a half minutes remaining, and he came just a yard short of equaling the career-high 195 rushing yards he hung on the Rams in Week 17 of last season. Robinson already has 543 rushing yards and three total touchdowns through three games heading into a Week 4 road matchup against the Saints on Monday, Oct. 5.
+- **Jaylen Wright** — Jaylen Wright - Limited again Thursday (2026-09-25T02:02:30Z)
   - Wright is not only battling a foot injury, but he also sustained a stinger in Sunday's 35-13 loss to San Francisco. However, since he practiced in a limited capacity Wednesday and Thursday, the door remains open regarding his potential to play in Week 3 against Kansas City. While Wright hasn't held a prominent role, his absence would likely mean more work for Ollie Gordon behind De'Von Achane.
-- **NEW — Christian Watson** — Christian Watson Remains Highly Productive Despite the Packers' Loss (2026-09-25T01:04:37Z)
+- **NEW — Luther Burden** — Luther Burden III Trending Down with Quarterback Injured (2026-09-25T01:31:14Z)
+  - Source: https://www.rotoballer.com/player-news/luther-burden-iii-trending-down-with-quarterback-injured/1949882
+- **Christian Watson** — Christian Watson Remains Highly Productive Despite the Packers' Loss (2026-09-25T01:04:37Z)
   - Source: https://www.rotoballer.com/player-news/christian-watson-remains-highly-productive-despite-the-packers-loss/1949876
-- **NEW — Matthew Golden** — Matthew Golden Hits the Century Mark, Leads Team in Targets (2026-09-25T00:30:07Z)
+- **Matthew Golden** — Matthew Golden Hits the Century Mark, Leads Team in Targets (2026-09-25T00:30:07Z)
   - Source: https://www.rotoballer.com/player-news/matthew-golden-hits-the-century-mark-leads-team-in-targets/1949874
-- **NEW — Drake London** — Drake London Finds His Stride in Quarterback's Return (2026-09-25T00:25:19Z)
+- **Drake London** — Drake London Finds His Stride in Quarterback's Return (2026-09-25T00:25:19Z)
   - Source: https://www.rotoballer.com/player-news/drake-london-finds-his-stride-in-quarterbacks-return/1949872
 - **Cooper Kupp** — Cooper Kupp - Full practice Thursday (2026-09-25T00:23:30Z)
   - Kupp opened the week with a limited practice due to a back injury, but he now appears to be back to full health. It is the second straight week that the wide receiver has been limited Wednesday before logging a full session Thursday. He'll look to take advantage of the return of quarterback Sam Darnold on Sunday against the Commanders.
-- **NEW — Bijan Robinson** — Bijan Robinson Breaks Out for More Than 200 Scrimmage Yards on Thursday Night (2026-09-25T00:20:15Z)
+- **Bijan Robinson** — Bijan Robinson Breaks Out for More Than 200 Scrimmage Yards (2026-09-25T00:20:15Z)
   - Source: https://www.rotoballer.com/player-news/bijan-robinson-breaks-out-for-more-than-200-scrimmage-yards-on-thursday-night/1949870
 - **Terrance Ferguson** — Terrance Ferguson - Full practice Thursday (2026-09-24T23:47:34Z)
   - Ferguson kicked off Week 3 prep with a limited session Wednesday due to an ankle injury, but his ability log every on-field rep one day later indicates that the issue was a minor one. With his health now not in question, there's a decent chance he'll again serve as the No. 2 option in the passing game behind Davante Adams this Sunday at Denver due to Puka Nacua's ongoing absence from practice as a result of a hip injury. In such a capacity during Monday's 28-6 win against the Giants, Ferguson went for six catches (on nine targets) for 54 yards and one touchdown.
@@ -133,7 +135,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/610427/tony-pollard-ankle-upgraded-to-limited-thursday.php
 - **Jakobi Meyers** — Jakobi Meyers - Remains limited Thursday (2026-09-24T22:15:28Z)
   - The Jaguars put a cap on Meyers' reps for the second day in a row, but head coach Liam Coen hasn't provided any indication that the wideout is at any real risk of sitting out Sunday's game against the Patriots while he continues to manage a right thumb injury that dates back to training camp. Meyers played through the thumb issue in the first two contests of the season, recording three catches for 68 yards and a touchdown on three targets.
-- **NEW — Terry McLaurin** — Should Fantasy Managers Be Concerned About Terry McLaurin? (2026-09-24T21:58:11Z)
+- **Terry McLaurin** — Should Fantasy Managers Be Concerned About Terry McLaurin? (2026-09-24T21:58:11Z)
   - Source: https://www.rotoballer.com/player-news/should-fantasy-managers-be-concerned-about-terry-mclaurin/1949821
 - **Saquon Barkley** — Saquon Barkley (stinger) expects to play Monday (2026-09-24T21:55:47.424000Z)
   - Barkley underwent an MRI after suffering a stinger in last week's win over the Titans, but the results were apparently good and he reportedly expects to play on Monday night against the Bears. Fantasy managers should still keep close tabs on his status throughout the rest of the week to ensure that will be the case.
@@ -143,29 +145,29 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/610420/dallas-goedert-knee-to-avoid-ir-expected-to-miss-few-weeks.php
 - **Saquon Barkley** — Saquon Barkley - Recent MRI 'went well' (2026-09-24T21:47:41Z)
   - Barkley departed after the Eagles' first offensive snap this past Sunday at Tennessee and was diagnosed with a stinger, but he returned after halftime and finished Week 2 with four carries for nine yards and one catch (on two targets) for 11 yards. Because the Eagles play the Bears on Monday Night Football in Week 3, Philadelphia didn't hold practice until Thursday this week, and Barkley was seen wearing a protective device on his shoulder and neck area during the open portion of that session, per Zach Berman of The Athletic. Barkley's activity level will become known once the team posts its first injury report of the week.
-- **NEW — KC Concepcion** — KC Concepcion Jr. Struggling with Efficiency to Begin 2026 (2026-09-24T21:46:09Z)
+- **KC Concepcion** — KC Concepcion Jr. Struggling with Efficiency to Begin 2026 (2026-09-24T21:46:09Z)
   - Source: https://www.rotoballer.com/player-news/kc-concepcion-jr-struggling-with-efficiency-to-begin-2026/1949798
 - **Travis Etienne** — Travis Etienne Jr. (hamstring) officially limited Thursday (2026-09-24T21:45:46.772000Z)
   - Etienne was a limited participant for a second-straight practice on Thursday. He's still being affected by his hamstring injury, and it remains to be seen if it will affect his availability for Sunday's matchup against the Raiders or not. If it does, expect more work for Alvin Kamara and Kendre Miller (illness) in that matchup.
   - Source: https://www.fantasypros.com/nfl/news/610415/travis-etienne-jr-hamstring-officially-limited-thursday.php
-- **NEW — Carnell Tate** — Carnell Tate Difficult to Trust Amid Slow Start to 2026 (2026-09-24T21:42:09Z)
+- **Carnell Tate** — Carnell Tate Difficult to Trust Amid Slow Start to 2026 (2026-09-24T21:42:09Z)
   - Source: https://www.rotoballer.com/player-news/carnell-tate-difficult-to-trust-amid-slow-start-to-2026/1949789
 - **Jakobi Meyers** — Jakobi Meyers (thumb) listed as limited Wednesday (2026-09-24T21:40:47.048000Z)
   - The veteran should be fine to play in Week 3, despite being limited at practice all week so far. Barring any setbacks with his recovery, he should be a full go against his former team on Sunday but still doesn't project to be a strong option from a fantasy perspective.
   - Source: https://www.fantasypros.com/nfl/news/610413/jakobi-meyers-thumb-listed-limited-wednesday.php
-- **NEW — Terrance Ferguson** — Terrance Ferguson Puts in Full Practice on Thursday (2026-09-24T21:36:12Z)
+- **Terrance Ferguson** — Terrance Ferguson Puts in Full Practice on Thursday (2026-09-24T21:36:12Z)
   - Source: https://www.rotoballer.com/player-news/terrance-ferguson-puts-in-full-practice-on-thursday/1949783
 - **Brock Bowers** — Brock Bowers - Stays limited in practice (2026-09-24T21:33:23Z)
   - Though Bowers has remained listed as limited in three consecutive practices dating back to last Friday, it's generally a positive sign for his chances of being available to make his season debut this Sunday in New Orleans. Before deciding whether Bowers carries a designation into the weekend, the Raiders will see if he's able to potentially upgrade to full activity in Friday's session. If he ends up being cleared to suit up Sunday, Bowers could still have his snap count managed to some degree as he works to regain full conditioning coming off a meniscus trim of his left knee, which he underwent Sept. 8.
-- **NEW — RJ Harvey** — RJ Harvey Getting Healthier, Returns to Full Practice (2026-09-24T21:29:13Z)
+- **RJ Harvey** — RJ Harvey Getting Healthier, Returns to Full Practice (2026-09-24T21:29:13Z)
   - Source: https://www.rotoballer.com/player-news/rj-harvey-getting-healthier-returns-to-full-practice/1949779
-- **NEW — Rome Odunze** — Rome Odunze's Value in Question Amid Quarterback Uncertainty in Chicago (2026-09-24T21:26:17Z)
+- **Rome Odunze** — Rome Odunze's Value in Question Amid Quarterback Uncertainty in Chicago (2026-09-24T21:26:17Z)
   - Source: https://www.rotoballer.com/player-news/rome-odunzes-value-in-question-amid-quarterback-uncertainty-in-chicago/1949777
 - **DJ Moore** — DJ Moore - Downgrades to no participation Thursday (2026-09-24T21:18:50Z)
   - Moore kicked off Week 3 prep Wednesday as a limited participant, but it's unclear if his lack of activity a day later was the result of a setback or more of a pre-planned maintenance day while he tends to an AC joint sprain in his shoulder. In any case, what Moore is able to do during the Bills' final practice of the week Friday will ultimately determine whether he takes a designation into Sunday's game against the Chargers.
-- **NEW — J.K. Dobbins** — J.K. Dobbins Upgrades to Full Practice on Thursday (2026-09-24T21:18:10Z)
+- **J.K. Dobbins** — J.K. Dobbins Upgrades to Full Practice on Thursday (2026-09-24T21:18:10Z)
   - Source: https://www.rotoballer.com/player-news/j-k-dobbins-upgrades-to-full-practice-on-thursday/1949765
-- **NEW — Quinshon Judkins** — Can Quinshon Judkins Rebound from His Slow Start to 2026? (2026-09-24T21:17:17Z)
+- **Quinshon Judkins** — Can Quinshon Judkins Rebound from His Slow Start to 2026? (2026-09-24T21:17:17Z)
   - Source: https://www.rotoballer.com/player-news/can-quinshon-judkins-rebound-from-his-slow-start-to-2026/1949763
 - **Aaron Jones** — Aaron Jones - Limited in Thursday's practice (2026-09-24T21:16:25Z)
   - Jones opened Week 3 prep with no practice reps Wednesday due to a knee injury, but his ability to mix into some drills one day later is a positive step as the Vikings prepare for Sunday's game at Tampa Bay. Friday's practice report will unveil whether or not he has a designation ahead of that matchup.
@@ -173,10 +175,10 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coleman was sidelined for the Broncos' first practice of the week Wednesday due to an ankle sprain, but he looks poised to take a step forward in terms of activity a day later. He's one of three Denver running backs on the Week 3 injury report, though Coleman, J.K. Dobbins (hip) and RJ Harvey (hamstring) all appear set to practice in some fashion Thursday.
 - **RJ Harvey** — RJ Harvey - Present for Thursday's practice (2026-09-24T21:08:26Z)
   - After sitting out the Broncos' Week 2 win over the Jaguars, Harvey opened Week 3 prep as a limited participant Wednesday. If he can upgrade to full activity Thursday, it would clear up any concern about his status heading into Sunday's game against the Rams. He's one of three Denver running backs on the injury report this week, as J.K. Dobbins (hamstring) was limited and Jonah Coleman (ankle) didn't participate in the team's first practice of the week.
-- **NEW — Jalen Nailor** — Jalen Nailor Playing Limited Role in Raiders Passing Game (2026-09-24T21:07:16Z)
+- **Jalen Nailor** — Jalen Nailor Playing Limited Role in Raiders Passing Game (2026-09-24T21:07:16Z)
   - Source: https://www.rotoballer.com/player-news/jalen-nailor-playing-limited-role-in-raiders-passing-game/1949750
 - **Nico Collins** — Nico Collins - Officially DNP again Thursday (2026-09-24T21:07:07Z)
-  - Collins seems to be headed toward a second consecutive absence Sunday against the Colts, as he hasn't practiced since sustaining a hamstring injury last Wednesday. Barring an improbable recovery from Collins, which would be precipitated by a return to practice Friday, Dalton Schultz is likely to function as the top pass catcher for C.J. Stroud on Sunday. Schultz caught 12 of 14 targets for 140 yards in Collins' absence against the Bengals this past Sunday, while Stroud connected on only nine of 26 passes intended for Houston's wide receivers.
+  - Collins seems to be headed toward a second consecutive absence Sunday against the Colts, as he hasn't practiced since sustaining a hamstring injury last Wednesday. Barring an improbable recovery from Collins, which likely would be precipitated by a return to practice Friday, Dalton Schultz is likely to function as the top pass catcher for C.J. Stroud on Sunday. Schultz caught 12 of 14 targets for 140 yards in Collins' absence against the Bengals this past Sunday, while Stroud connected on only nine of 26 passes intended for Houston's wide receivers.
 - **Mike Evans** — Mike Evans - Spotted on side field Thursday (2026-09-24T21:06:03Z)
   - Evans sat out Wednesday's session due to a hip issue and appears as if he may not mix into drills one day later, but he also doesn't necessarily require practice reps to be available on game days. Thursday's injury report ultimately reveal if he was able to practice in any capacity.
 - **J.K. Dobbins** — J.K. Dobbins - Set for another practice (2026-09-24T21:05:04Z)
@@ -240,6 +242,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Aaron Jones** — Aaron Jones Sr. (knee) seen at practice Thursday (2026-09-24T19:55:21.150000Z)
   - The veteran was spotted during the open portion of Minnesota's practice on Thursday after being sidelined on Wednesday due to a minor knee issue. That's a good sign, but we won't know more about his status until the team's official injury report comes out after practice on Thursday.
   - Source: https://www.fantasypros.com/nfl/news/610372/aaron-jones-sr-knee-seen-practice-thursday.php
-- **Chris Bell** — Chris Bell (knee) plans to play Sunday (2026-09-24T19:55:21.132000Z)
-  - The rookie is dealing with a knee issue right now, but it's not considered a serious issue, and he told reporters that he is planning to play through it against the Chiefs. It remains to be seen if he will carry an injury designation heading into the weekend, but it looks highly likely that the team will clear him to play sooner rather than later.
-  - Source: https://www.fantasypros.com/nfl/news/610373/chris-bell-knee-plans-to-play-sunday.php
