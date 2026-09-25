@@ -12889,7 +12889,7 @@
           "8112": 0.0,
           "8137": 0.0,
           "8155": 0.0,
-          "9484": 0.0,
+          "9484": 1.6,
           "SEA": 0.0
         },
         "points": 0.0,
@@ -12968,15 +12968,15 @@
           "5001": 0.0,
           "5012": 0.0,
           "6801": 0.0,
-          "6804": 0.0,
+          "6804": 2.55,
           "7527": 0.0,
           "9226": 0.0,
-          "9509": 0.0,
+          "9509": 4.0,
           "9754": 0.0,
           "9997": 0.0,
           "KC": 0.0
         },
-        "points": 0.0,
+        "points": 6.55,
         "roster_id": 3,
         "starters": [
           "6804",
@@ -12992,9 +12992,9 @@
           "KC"
         ],
         "starters_points": [
+          2.55,
           0.0,
-          0.0,
-          0.0,
+          4.0,
           0.0,
           0.0,
           0.0,
@@ -13206,7 +13206,7 @@
           "11627": 0.0,
           "11643": 0.0,
           "12487": 0.0,
-          "12501": 0.0,
+          "12501": 5.5,
           "12527": 0.0,
           "13288": 0.0,
           "13294": 0.0,
@@ -13224,7 +13224,7 @@
           "9488": 0.0,
           "BAL": 0.0
         },
-        "points": 0.0,
+        "points": 5.5,
         "roster_id": 6,
         "starters": [
           "3294",
@@ -13247,7 +13247,7 @@
           0.0,
           0.0,
           0.0,
-          0.0,
+          5.5,
           0.0,
           0.0,
           0.0
@@ -13309,10 +13309,10 @@
           "8150": 0.0,
           "8676": 0.0,
           "9511": 0.0,
-          "GB": 0.0,
+          "GB": 16.0,
           "LAR": 0.0
         },
-        "points": 0.0,
+        "points": 16.0,
         "roster_id": 7,
         "starters": [
           "4881",
@@ -13338,7 +13338,7 @@
           0.0,
           0.0,
           0.0,
-          0.0
+          16.0
         ]
       },
       {
@@ -13376,7 +13376,7 @@
           "10226": 0.0,
           "11256": 0.0,
           "11533": 0.0,
-          "11559": 0.0,
+          "11559": -0.15,
           "11632": 0.0,
           "11783": 0.0,
           "12467": 0.0,
@@ -13400,7 +13400,7 @@
           "CLE": 0.0,
           "NE": 0.0
         },
-        "points": 0.0,
+        "points": -0.15,
         "roster_id": 8,
         "starters": [
           "4046",
@@ -13424,7 +13424,7 @@
           0.0,
           0.0,
           0.0,
-          0.0,
+          -0.15,
           0.0,
           0.0
         ]
@@ -13549,7 +13549,7 @@
           "11604": 0.0,
           "11625": 0.0,
           "11628": 0.0,
-          "12504": 0.0,
+          "12504": -0.1,
           "12507": 0.0,
           "12526": 0.0,
           "12529": 0.0,
@@ -20839,7 +20839,7 @@
       ],
       "first_name": "Terrance",
       "full_name": "Terrance Ferguson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Ferguson",
       "nfl_team": "LAR",
       "player_id": "12487",
@@ -20854,7 +20854,7 @@
       ],
       "first_name": "RJ",
       "full_name": "RJ Harvey",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Harvey",
       "nfl_team": "DEN",
       "player_id": "12489",
@@ -22295,7 +22295,7 @@
       ],
       "first_name": "Cooper",
       "full_name": "Cooper Kupp",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Kupp",
       "nfl_team": "SEA",
       "player_id": "4039",
@@ -22445,7 +22445,7 @@
       ],
       "first_name": "Sam",
       "full_name": "Sam Darnold",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Darnold",
       "nfl_team": "SEA",
       "player_id": "4943",
@@ -22940,7 +22940,7 @@
       ],
       "first_name": "J.K.",
       "full_name": "J.K. Dobbins",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Dobbins",
       "nfl_team": "DEN",
       "player_id": "6806",
@@ -23075,7 +23075,7 @@
       ],
       "first_name": "DeVonta",
       "full_name": "DeVonta Smith",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Smith",
       "nfl_team": "PHI",
       "player_id": "7525",
@@ -23474,7 +23474,7 @@
       "years_exp": 4
     },
     "8138": {
-      "age": 26,
+      "age": 27,
       "fantasy_positions": [
         "RB"
       ],
@@ -23810,7 +23810,7 @@
       ],
       "first_name": "Tank",
       "full_name": "Tank Bigsby",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Bigsby",
       "nfl_team": "PHI",
       "player_id": "9225",
@@ -24426,8 +24426,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-24T22:15:34Z",
-    "source_fingerprint": "a6afcbdea2e84ee05a59e358d1214042080c36a6bc63a9e1f1d10e7879466e49"
+    "last_changed_at": "2026-09-25T00:35:42Z",
+    "source_fingerprint": "80c0228d46cea67b94eff9310ae235459ff820c18703dddaf800c867e9a78ca2"
   },
   "teams": [
     {
@@ -24827,7 +24827,9 @@
         "9488",
         "BAL"
       ],
-      "reserve_ids": [],
+      "reserve_ids": [
+        "11566"
+      ],
       "roster_id": 6,
       "settings": {
         "fpts": 327,
@@ -25121,7 +25123,6 @@
         "PHI"
       ],
       "reserve_ids": [
-        "11604",
         "13353",
         "4983"
       ],

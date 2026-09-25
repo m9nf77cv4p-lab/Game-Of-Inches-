@@ -409,7 +409,9 @@
       "9488",
       "BAL"
     ],
-    "reserve": null,
+    "reserve": [
+      "11566"
+    ],
     "roster_id": 6,
     "settings": {
       "fpts": 327,
@@ -711,7 +713,6 @@
       "PHI"
     ],
     "reserve": [
-      "11604",
       "13353",
       "4983"
     ],
