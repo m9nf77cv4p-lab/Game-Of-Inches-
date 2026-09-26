@@ -2647,7 +2647,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -3673,7 +3673,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -4699,7 +4699,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -5725,7 +5725,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -6751,7 +6751,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -7777,7 +7777,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -8803,7 +8803,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -9829,7 +9829,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -10855,7 +10855,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -12903,7 +12903,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -13929,7 +13929,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -14955,7 +14955,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -15981,7 +15981,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -17007,7 +17007,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -18033,7 +18033,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -19059,7 +19059,7 @@
           "8137",
           "12517",
           "6786",
-          "10229",
+          "4943",
           "1945",
           "SEA"
         ],
@@ -21275,7 +21275,7 @@
       ],
       "first_name": "Kyle",
       "full_name": "Kyle Monangai",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Monangai",
       "nfl_team": "CHI",
       "player_id": "12534",
@@ -21485,7 +21485,7 @@
       ],
       "first_name": "Jadarian",
       "full_name": "Jadarian Price",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Price",
       "nfl_team": "SEA",
       "player_id": "13286",
@@ -21665,7 +21665,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Bell",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Bell",
       "nfl_team": "MIA",
       "player_id": "13311",
@@ -21740,7 +21740,7 @@
       ],
       "first_name": "Jonah",
       "full_name": "Jonah Coleman",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Coleman",
       "nfl_team": "DEN",
       "player_id": "13345",
@@ -22400,7 +22400,7 @@
       ],
       "first_name": "Saquon",
       "full_name": "Saquon Barkley",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Barkley",
       "nfl_team": "PHI",
       "player_id": "4866",
@@ -22715,7 +22715,7 @@
       ],
       "first_name": "Jakobi",
       "full_name": "Jakobi Meyers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Meyers",
       "nfl_team": "JAX",
       "player_id": "5947",
@@ -22730,7 +22730,7 @@
       ],
       "first_name": "Tony",
       "full_name": "Tony Pollard",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Pollard",
       "nfl_team": "TEN",
       "player_id": "5967",
@@ -23015,12 +23015,12 @@
       ],
       "first_name": "Rico",
       "full_name": "Rico Dowdle",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Dowdle",
       "nfl_team": "PIT",
       "player_id": "7021",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 6
     },
     "7049": {
@@ -23210,7 +23210,7 @@
       ],
       "first_name": "Nico",
       "full_name": "Nico Collins",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Collins",
       "nfl_team": "HOU",
       "player_id": "7569",
@@ -23705,7 +23705,7 @@
       ],
       "first_name": "Chig",
       "full_name": "Chig Okonkwo",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Okonkwo",
       "nfl_team": "WAS",
       "player_id": "8210",
@@ -24426,8 +24426,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-25T19:21:28Z",
-    "source_fingerprint": "cc089fc867068520d51f2fdadd8d2a12649acd6c8baefa85245de11b3f1561b9"
+    "last_changed_at": "2026-09-25T22:33:29Z",
+    "source_fingerprint": "77d8485c56195f631151348898a4c37c37743798513b1afbdadd7288375b3207"
   },
   "teams": [
     {
@@ -24573,7 +24573,7 @@
         "8137",
         "12517",
         "6786",
-        "10229",
+        "4943",
         "1945",
         "SEA"
       ],
