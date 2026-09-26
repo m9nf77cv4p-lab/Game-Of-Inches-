@@ -20063,7 +20063,7 @@
       ],
       "first_name": "Andrei",
       "full_name": "Andrei Iosivas",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Iosivas",
       "nfl_team": "CIN",
       "player_id": "10226",
@@ -20228,7 +20228,7 @@
       ],
       "first_name": "Caleb",
       "full_name": "Caleb Williams",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Williams",
       "nfl_team": "CHI",
       "player_id": "11560",
@@ -21804,7 +21804,7 @@
       ],
       "first_name": "Jonah",
       "full_name": "Jonah Coleman",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Coleman",
       "nfl_team": "DEN",
       "player_id": "13345",
@@ -22629,7 +22629,7 @@
       ],
       "first_name": "Dallas",
       "full_name": "Dallas Goedert",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Goedert",
       "nfl_team": "PHI",
       "player_id": "5022",
@@ -23169,7 +23169,7 @@
       ],
       "first_name": "DeVonta",
       "full_name": "DeVonta Smith",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Smith",
       "nfl_team": "PHI",
       "player_id": "7525",
@@ -23904,7 +23904,7 @@
       ],
       "first_name": "Tank",
       "full_name": "Tank Bigsby",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Bigsby",
       "nfl_team": "PHI",
       "player_id": "9225",
@@ -24520,8 +24520,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-26T17:58:04Z",
-    "source_fingerprint": "7a80e1abec3e94d4b349945f299f590f0da3cd7d499d4f0c986c9280cfedc077"
+    "last_changed_at": "2026-09-26T20:56:09Z",
+    "source_fingerprint": "94cf34e354b93e3419b957fb90db8312f73eda48cb8a9f01b46f31ac3a0d0a58"
   },
   "teams": [
     {
