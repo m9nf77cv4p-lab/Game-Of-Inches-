@@ -1,34 +1,18 @@
 {
-  "last_checked_at": "2026-09-26T05:37:38Z",
+  "last_checked_at": "2026-09-26T10:15:08Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 298,
   "new_story_ids": [
-    "nfl|10859|rotoballer|222273|1790376675000",
-    "nfl|11539|rotoballer|222272|1790376732000",
-    "nfl|11564|rotoballer|222286|1790385920000",
-    "nfl|11618|rotoballer|222263|1790371930000",
-    "nfl|12483|rotoballer|222264|1790372837000",
-    "nfl|12485|rotoballer|222282|1790384838000",
-    "nfl|12497|rotoballer|222283|1790385306000",
-    "nfl|12529|rotoballer|222287|1790386207000",
-    "nfl|12530|rotoballer|222269|1790375408000",
-    "nfl|12535|rotoballer|222267|1790374689000",
-    "nfl|12545|rotoballer|222271|1790376076000",
-    "nfl|13274|rotoballer|222277|1790381954000",
-    "nfl|13405|rotoballer|222285|1790385437000",
-    "nfl|13421|fantasy_pros|610555|1790358043572",
-    "nfl|13421|rotowire|639049|1790296012000",
-    "nfl|13421|rotowire|639236|1790383109000",
-    "nfl|13423|rotoballer|219562|1787912709000",
-    "nfl|13423|rotoballer|222189|1790352926000",
-    "nfl|13423|rotowire|635007|1787899342000",
-    "nfl|1945|rotoballer|222281|1790384646000",
-    "nfl|5846|rotoballer|222278|1790381782000",
-    "nfl|5892|rotoballer|222261|1790370676000",
-    "nfl|7543|rotoballer|222275|1790378775000",
-    "nfl|7600|rotoballer|222279|1790382132000",
-    "nfl|9480|rotoballer|222270|1790375946000",
-    "nfl|96|rotoballer|222276|1790381530000"
+    "nfl|11563|rotoballer|222294|1790388279000",
+    "nfl|12489|rotoballer|222292|1790387467000",
+    "nfl|3214|rotoballer|222291|1790387120000",
+    "nfl|4177|rotoballer|222293|1790387355000",
+    "nfl|5045|rotoballer|222297|1790389754000",
+    "nfl|6786|rotoballer|222299|1790394828000",
+    "nfl|6806|rotoballer|222289|1790386808000",
+    "nfl|7526|rotoballer|222295|1790388907000",
+    "nfl|7611|rotoballer|222288|1790386508000",
+    "nfl|8121|rotoballer|222290|1790386751000"
   ],
   "schema_version": 1,
   "source": {
@@ -38,6 +22,206 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver CeeDee Lamb dominated the Washington Commanders in Week 2 by catching eight of his nine targets for 153 yards and two touchdowns. Lamb looked like he was all the way back from the high ankle sprain he suffered in Week 3 last year, an injury that usually leads to a dip in production for the remainder of the season. Lamb has seized the sure-fire WR1 role away from teammate George Pickens, who's been notably less productive. Lamb has been Cowboys quarterback Dak Prescott's favorite target through two weeks, and expect more heavy usage in Week 3. The Baltimore Ravens present a tougher defensive challenge than did the Commanders, but Lamb is good enough that he should be started in all fantasy football leagues regardless of matchup. Expect another big day from him as the centerpiece of one of the better passing offenses in the NFL.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver CeeDee Lamb dominated the Washington Commanders in Week 2 by catching eight of his nine targets for 153 yards and two touchdowns. Lamb looked like he was all the way back from the high ankle sprain he suffered in Week 3 last year, an injury that usually leads to a dip in production for the remainder of the season. Lamb has seized the sure-fire WR1 role away from teammate George Pickens, who's been notably less productive. Lamb has been Cowboys quarterback Dak Prescott's favorite target through two weeks, and expect more heavy usage in Week 3. The Baltimore Ravens present a tougher defensive challenge than did the Commanders, but Lamb is good enough that he should be started in all fantasy football leagues regardless of matchup. Expect another big day from him as the centerpiece of one of the better passing offenses in the NFL.",
+        "title": "CeeDee Lamb An Elite WR1 For Fantasy Football In Week 3",
+        "topic_id": "1409483762026233856",
+        "url": "https://www.rotoballer.com/player-news/ceedee-lamb-an-elite-wr1-for-fantasy-football-in-week-3/1950953"
+      },
+      "nfl_team": "DAL",
+      "player_id": "6786",
+      "player_name": "CeeDee Lamb",
+      "position": "WR",
+      "published": 1790394828000,
+      "source": "rotoballer",
+      "source_key": "222299",
+      "story_id": "nfl|6786|rotoballer|222299|1790394828000",
+      "title": "CeeDee Lamb An Elite WR1 For Fantasy Football In Week 3",
+      "url": "https://www.rotoballer.com/player-news/ceedee-lamb-an-elite-wr1-for-fantasy-football-in-week-3/1950953"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Courtland Sutton had a productive 2025 season, but the same can't be said for the start of his 2026 campaign. After a 1,000-yard season a year ago, Sutton has totaled just 36 yards receiving through the first two weeks of the year. He has fallen behind new No. 1 wide receiver Jaylen Waddle in the pecking order at the position and hasn't made much of an impact as a result. Sutton is RotoBaller's 40th-ranked wide receiver and is projected to score nine points against the Los Angeles Rams, who gave up 48-plus yards receiving to three different San Francisco 49ers wide receivers in Week 1.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Courtland Sutton had a productive 2025 season, but the same can't be said for the start of his 2026 campaign. After a 1,000-yard season a year ago, Sutton has totaled just 36 yards receiving through the first two weeks of the year. He has fallen behind new No. 1 wide receiver Jaylen Waddle in the pecking order at the position and hasn't made much of an impact as a result. Sutton is RotoBaller's 40th-ranked wide receiver and is projected to score nine points against the Los Angeles Rams, who gave up 48-plus yards receiving to three different San Francisco 49ers wide receivers in Week 1.",
+        "title": "Courtland Sutton Struggling to Get Going",
+        "topic_id": "1409462368102014976",
+        "url": "https://www.rotoballer.com/player-news/courtland-sutton-struggling-to-get-going/1950945"
+      },
+      "nfl_team": "DEN",
+      "player_id": "5045",
+      "player_name": "Courtland Sutton",
+      "position": "WR",
+      "published": 1790389754000,
+      "source": "rotoballer",
+      "source_key": "222297",
+      "story_id": "nfl|5045|rotoballer|222297|1790389754000",
+      "title": "Courtland Sutton Struggling to Get Going",
+      "url": "https://www.rotoballer.com/player-news/courtland-sutton-struggling-to-get-going/1950945"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Jaylen Waddle got off to a slow start with his new team, but bounced back in a big way in Week 2. Waddle finished the Broncos' win over the Jacksonville Jaguars with 10 receptions for 136 yards, powering the Denver passing game to a resurgent effort. This week, Waddle is RotoBaller's 14th-ranked wide receiver and is projected to score 12 fantasy points as the Broncos face the Los Angeles Rams in a non-conference battle. The Rams allowed three different San Francisco 49ers wide receivers to find the end zone in Week 1 before Los Angeles shut down Jameis Winston en route to their first win of the season in Week 2.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Jaylen Waddle got off to a slow start with his new team, but bounced back in a big way in Week 2. Waddle finished the Broncos' win over the Jacksonville Jaguars with 10 receptions for 136 yards, powering the Denver passing game to a resurgent effort. This week, Waddle is RotoBaller's 14th-ranked wide receiver and is projected to score 12 fantasy points as the Broncos face the Los Angeles Rams in a non-conference battle. The Rams allowed three different San Francisco 49ers wide receivers to find the end zone in Week 1 before Los Angeles shut down Jameis Winston en route to their first win of the season in Week 2.",
+        "title": "Jaylen Waddle Riding Wave of Momentum",
+        "topic_id": "1409458593396273152",
+        "url": "https://www.rotoballer.com/player-news/jaylen-waddle-riding-wave-of-momentum/1950941"
+      },
+      "nfl_team": "DEN",
+      "player_id": "7526",
+      "player_name": "Jaylen Waddle",
+      "position": "WR",
+      "published": 1790388907000,
+      "source": "rotoballer",
+      "source_key": "222295",
+      "story_id": "nfl|7526|rotoballer|222295|1790388907000",
+      "title": "Jaylen Waddle Riding Wave of Momentum",
+      "url": "https://www.rotoballer.com/player-news/jaylen-waddle-riding-wave-of-momentum/1950941"
+    },
+    {
+      "analysis": null,
+      "description": "After a dismal performance to open the season, Denver Broncos quarterback Bo Nix responded with a solid effort during a 20-13 win over the Jacksonville Jaguars. Nix finished the victory 22 of 31 passing for 288 yards and a touchdown while also throwing an interception and rushing the ball five times for only six yards. Nix is RotoBaller's 19th-ranked quarterback and is projected to score 18 fantasy points against the Los Angeles Rams in Week 3. Before stifling New York Giants backup quarterback Jameis Winston last week, Los Angeles allowed San Francisco 49ers quarterback Brock Purdy to throw for 205 yards passing and three touchdowns against one interception while completing 73.5% of his passes in Week 1.",
+      "metadata": {
+        "description": "After a dismal performance to open the season, Denver Broncos quarterback Bo Nix responded with a solid effort during a 20-13 win over the Jacksonville Jaguars. Nix finished the victory 22 of 31 passing for 288 yards and a touchdown while also throwing an interception and rushing the ball five times for only six yards. Nix is RotoBaller's 19th-ranked quarterback and is projected to score 18 fantasy points against the Los Angeles Rams in Week 3. Before stifling New York Giants backup quarterback Jameis Winston last week, Los Angeles allowed San Francisco 49ers quarterback Brock Purdy to throw for 205 yards passing and three touchdowns against one interception while completing 73.5% of his passes in Week 1.",
+        "title": "Bo Nix Coming Off Rebound Effort, Faces Rams in Week 3",
+        "topic_id": "1409456076448968704",
+        "url": "https://www.rotoballer.com/player-news/bo-nix-coming-off-rebound-effort-faces-rams-in-week-3/1950937"
+      },
+      "nfl_team": "DEN",
+      "player_id": "11563",
+      "player_name": "Bo Nix",
+      "position": "QB",
+      "published": 1790388279000,
+      "source": "rotoballer",
+      "source_key": "222294",
+      "story_id": "nfl|11563|rotoballer|222294|1790388279000",
+      "title": "Bo Nix Coming Off Rebound Effort, Faces Rams in Week 3",
+      "url": "https://www.rotoballer.com/player-news/bo-nix-coming-off-rebound-effort-faces-rams-in-week-3/1950937"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos running back RJ Harvey has recovered from a hamstring injury that left him limited to begin the week of practice leading into Week 3 against the Los Angeles Rams. Harvey and Broncos lead running back, J.K. Dobbins, each returned to full practice on Thursday and Friday after being listed as limited participants on Wednesday. As a result, he has not been provided an injury designation entering this weekend's non-conference matchup. Harvey has carried the ball just three times this season but has averaged six yards per carry, while he has added four receptions for 23 yards. He hasn't been much of a factor offensively, but could see a boost as fellow running back Jonah Coleman is out for this week's game with an ankle injury. Harvey is RotoBaller's 45th-ranked running back and projected to score nine fantasy points against the Broncos' NFC foe. The Rams' defense did a nice job against New York Giants running backs last week, limiting starter Cam Skattebo to just 36 yards rushing on 12 carries and four receptions for 19 yards.",
+      "metadata": {
+        "description": "Denver Broncos running back RJ Harvey has recovered from a hamstring injury that left him limited to begin the week of practice leading into Week 3 against the Los Angeles Rams. Harvey and Broncos lead running back, J.K. Dobbins, each returned to full practice on Thursday and Friday after being listed as limited participants on Wednesday. As a result, he has not been provided an injury designation entering this weekend's non-conference matchup. Harvey has carried the ball just three times this season but has averaged six yards per carry, while he has added four receptions for 23 yards. He hasn't been much of a factor offensively, but could see a boost as fellow running back Jonah Coleman is out for this week's game with an ankle injury. Harvey is RotoBaller's 45th-ranked running back and projected to score nine fantasy points against the Broncos' NFC foe. The Rams' defense did a nice job against New York Giants running backs last week, limiting starter Cam Skattebo to just 36 yards rushing on 12 carries and four receptions for 19 yards.",
+        "title": "RJ Harvey Faces Hot Rams Run Defense in Week 3",
+        "topic_id": "1409452300874846208",
+        "url": "https://www.rotoballer.com/player-news/rj-harvey-faces-hot-rams-run-defense-in-week-3/1950933"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12489",
+      "player_name": "RJ Harvey",
+      "position": "RB",
+      "published": 1790387467000,
+      "source": "rotoballer",
+      "source_key": "222292",
+      "story_id": "nfl|12489|rotoballer|222292|1790387467000",
+      "title": "RJ Harvey Faces Hot Rams Run Defense in Week 3",
+      "url": "https://www.rotoballer.com/player-news/rj-harvey-faces-hot-rams-run-defense-in-week-3/1950933"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver Mack Hollins earned the trust of quarterback Drake Maye last season, and that could bode well for his fantasy outlook in Week 3 against the Jacksonville Jaguars. Ever since A.J. Brown (ankle) went down in Week 1, Hollins has been operating as the Patriots' de facto No. 2 receiver behind Romeo Doubs. That hasn't really resulted in meaningful fantasy production yet, but he still has a respectable seven targets this season on a 70% snap share. A matchup against the Jaguars could help him break out as a fantasy streamer; Jacksonville has ranked near league average by allowing the 14th-most receiving yards and the 17th-most fantasy points to wide receivers so far in 2026. There are a lot of WR3/flex options to consider in deeper leagues for Week 3, and Hollins is certainly one of them. As of now, he's the WR57 in RotoBaller's latest Week 3 fantasy football rankings.",
+      "metadata": {
+        "description": "New England Patriots wide receiver Mack Hollins earned the trust of quarterback Drake Maye last season, and that could bode well for his fantasy outlook in Week 3 against the Jacksonville Jaguars. Ever since A.J. Brown (ankle) went down in Week 1, Hollins has been operating as the Patriots' de facto No. 2 receiver behind Romeo Doubs. That hasn't really resulted in meaningful fantasy production yet, but he still has a respectable seven targets this season on a 70% snap share. A matchup against the Jaguars could help him break out as a fantasy streamer; Jacksonville has ranked near league average by allowing the 14th-most receiving yards and the 17th-most fantasy points to wide receivers so far in 2026. There are a lot of WR3/flex options to consider in deeper leagues for Week 3, and Hollins is certainly one of them. As of now, he's the WR57 in RotoBaller's latest Week 3 fantasy football rankings.",
+        "title": "Mack Hollins a Deep-League Streamer with Quarterback's Trust Earned",
+        "topic_id": "1409452300862263296",
+        "url": "https://www.rotoballer.com/player-news/mack-hollins-a-deep-league-streamer-with-quarterbacks-trust-earned/1950931"
+      },
+      "nfl_team": "NE",
+      "player_id": "4177",
+      "player_name": "Mack Hollins",
+      "position": "WR",
+      "published": 1790387355000,
+      "source": "rotoballer",
+      "source_key": "222293",
+      "story_id": "nfl|4177|rotoballer|222293|1790387355000",
+      "title": "Mack Hollins a Deep-League Streamer with Quarterback's Trust Earned",
+      "url": "https://www.rotoballer.com/player-news/mack-hollins-a-deep-league-streamer-with-quarterbacks-trust-earned/1950931"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots tight end Hunter Henry has been relatively disappointing to start the season from a fantasy perspective. However, his volume has been solid, as he has three catches in each of the Patriots' two games so far. Additionally, last week, he logged five targets on a 91% snap share. These numbers are far from flashy, and we acknowledge that Henry is still looking for his first touchdown of the season. Nevertheless, he's a reliable veteran target whose physicality could make him a top candidate to replace AJ Brown (ankle) around the goal line. Furthermore, the Patriots are unlikely to have rookie Eli Raridon (thigh) against the Jacksonville Jaguars in Week 3. Henry was already at the top of the depth chart, but Raridon's likely absence gives Henry less competition for targets at the tight end position. The Jaguars have allowed the seventh-fewest receptions to tight ends this year, but that came over a small sample size and could have been a mere product of playing against the Browns and Broncos. We're not trusting Henry as a surefire top-12 fantasy tight end this week, but we could still envision him posting his best fantasy finish of the year so far. As it stands, he is the overall TE14 in RotoBaller's latest Week 3 rankings.",
+      "metadata": {
+        "description": "New England Patriots tight end Hunter Henry has been relatively disappointing to start the season from a fantasy perspective. However, his volume has been solid, as he has three catches in each of the Patriots' two games so far. Additionally, last week, he logged five targets on a 91% snap share. These numbers are far from flashy, and we acknowledge that Henry is still looking for his first touchdown of the season. Nevertheless, he's a reliable veteran target whose physicality could make him a top candidate to replace AJ Brown (ankle) around the goal line. Furthermore, the Patriots are unlikely to have rookie Eli Raridon (thigh) against the Jacksonville Jaguars in Week 3. Henry was already at the top of the depth chart, but Raridon's likely absence gives Henry less competition for targets at the tight end position. The Jaguars have allowed the seventh-fewest receptions to tight ends this year, but that came over a small sample size and could have been a mere product of playing against the Browns and Broncos. We're not trusting Henry as a surefire top-12 fantasy tight end this week, but we could still envision him posting his best fantasy finish of the year so far. As it stands, he is the overall TE14 in RotoBaller's latest Week 3 rankings.",
+        "title": "Hunter Henry a Reliable Target with Minimal Competition",
+        "topic_id": "1409451042575335424",
+        "url": "https://www.rotoballer.com/player-news/hunter-henry-a-reliable-target-with-minimal-competition/1950929"
+      },
+      "nfl_team": "NE",
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "published": 1790387120000,
+      "source": "rotoballer",
+      "source_key": "222291",
+      "story_id": "nfl|3214|rotoballer|222291|1790387120000",
+      "title": "Hunter Henry a Reliable Target with Minimal Competition",
+      "url": "https://www.rotoballer.com/player-news/hunter-henry-a-reliable-target-with-minimal-competition/1950929"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos running back J.K. Dobbins is off the injury report and good to go for this week's matchup against the Los Angeles Rams. Dobbins was limited on Wednesday with a hip injury before returning to full practice on both Thursday and Friday. He has been the Broncos' leading ball carrier through two games, totaling 72 yards rushing while averaging four yards per carry. The 27-year-old has been a non-factor in the passing game, as he has yet to be targeted in 2026. Dobbins is RotoBaller's 32nd-ranked running back and is projected to score just eight fantasy points in Week 3. The Rams limited the New York Giants to just 52 yards rushing during a 28-6 win this past week.",
+      "metadata": {
+        "description": "Denver Broncos running back J.K. Dobbins is off the injury report and good to go for this week's matchup against the Los Angeles Rams. Dobbins was limited on Wednesday with a hip injury before returning to full practice on both Thursday and Friday. He has been the Broncos' leading ball carrier through two games, totaling 72 yards rushing while averaging four yards per carry. The 27-year-old has been a non-factor in the passing game, as he has yet to be targeted in 2026. Dobbins is RotoBaller's 32nd-ranked running back and is projected to score just eight fantasy points in Week 3. The Rams limited the New York Giants to just 52 yards rushing during a 28-6 win this past week.",
+        "title": "J.K. Dobbins Hoping to Break Out Against Rams",
+        "topic_id": "1409449784347054080",
+        "url": "https://www.rotoballer.com/player-news/j-k-dobbins-off-injury-report-good-to-go-against-rams/1950927"
+      },
+      "nfl_team": "DEN",
+      "player_id": "6806",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "published": 1790386808000,
+      "source": "rotoballer",
+      "source_key": "222289",
+      "story_id": "nfl|6806|rotoballer|222289|1790386808000",
+      "title": "J.K. Dobbins Hoping to Break Out Against Rams",
+      "url": "https://www.rotoballer.com/player-news/j-k-dobbins-off-injury-report-good-to-go-against-rams/1950927"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver Romeo Doubs is looking to build on a solid performance as he prepares for Week 3 against the Jacksonville Jaguars. Doubs let down all his fantasy managers with zero catches in Week 1, but he bounced back in a huge way last week, catching three passes for 96 yards as the Patriots' No. 1 receiver with AJ Brown (ankle) sidelined. The volume still wasn't amazing, but his yardage was encouraging and he flashed big-play upside. Additionally, he saw his snap share jump to 67%, which is presumably his floor for Week 3. The good news is that we anticipate a potential shootout, requiring the Patriots to throw the ball often just to keep pace with Jacksonville. This is a fair matchup for Doubs to take that next step, too, as the Jaguars have allowed the 14th-most receiving yards and the 17th-most fantasy points to wide receivers so far in 2026. As it stands, Doubs is the WR33 in RotoBaller's Week 3 fantasy football rankings.",
+      "metadata": {
+        "description": "New England Patriots wide receiver Romeo Doubs is looking to build on a solid performance as he prepares for Week 3 against the Jacksonville Jaguars. Doubs let down all his fantasy managers with zero catches in Week 1, but he bounced back in a huge way last week, catching three passes for 96 yards as the Patriots' No. 1 receiver with AJ Brown (ankle) sidelined. The volume still wasn't amazing, but his yardage was encouraging and he flashed big-play upside. Additionally, he saw his snap share jump to 67%, which is presumably his floor for Week 3. The good news is that we anticipate a potential shootout, requiring the Patriots to throw the ball often just to keep pace with Jacksonville. This is a fair matchup for Doubs to take that next step, too, as the Jaguars have allowed the 14th-most receiving yards and the 17th-most fantasy points to wide receivers so far in 2026. As it stands, Doubs is the WR33 in RotoBaller's Week 3 fantasy football rankings.",
+        "title": "Romeo Doubs Trending Up as a Strong WR3 Option vs. Jaguars",
+        "topic_id": "1409449784355442688",
+        "url": "https://www.rotoballer.com/player-news/romeo-doubs-trending-up-as-a-strong-wr3-option-vs-jaguars/1950925"
+      },
+      "nfl_team": "NE",
+      "player_id": "8121",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "published": 1790386751000,
+      "source": "rotoballer",
+      "source_key": "222290",
+      "story_id": "nfl|8121|rotoballer|222290|1790386751000",
+      "title": "Romeo Doubs Trending Up as a Strong WR3 Option vs. Jaguars",
+      "url": "https://www.rotoballer.com/player-news/romeo-doubs-trending-up-as-a-strong-wr3-option-vs-jaguars/1950925"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back Rhamondre Stevenson filled in admirably as the temporary starter back in Week 1, but his role took a massive hit once TreVeyon Henderson returned to action in Week 2. Henderson's return dropped Stevenson's snap share from 85% to 36%. At the same time, his rushing attempts fell from 18 to six, and his receptions dipped from five to one. The Patriots will take on the Jacksonville Jaguars in Week 3, which offers a mixed outlook in fantasy football. On one hand, this projects to be a close game and a potential shootout, so the Patriots will look to get all of their playmakers involved, and Stevenson could have better odds of scoring a touchdown. On the other hand, the Patriots could lean on Henderson in a closer game, or perhaps choose to pass the ball downfield more, which doesn't bode well for Stevenson's stock. There are worse fantasy options (especially in PPR leagues), and to his credit, he has hung around as the RB28 in RotoBaller's Week 3 rankings. Still, he has a relatively lower ceiling, and we'd prefer more of a high-upside player in the RB3/flex spot.",
+      "metadata": {
+        "description": "New England Patriots running back Rhamondre Stevenson filled in admirably as the temporary starter back in Week 1, but his role took a massive hit once TreVeyon Henderson returned to action in Week 2. Henderson's return dropped Stevenson's snap share from 85% to 36%. At the same time, his rushing attempts fell from 18 to six, and his receptions dipped from five to one. The Patriots will take on the Jacksonville Jaguars in Week 3, which offers a mixed outlook in fantasy football. On one hand, this projects to be a close game and a potential shootout, so the Patriots will look to get all of their playmakers involved, and Stevenson could have better odds of scoring a touchdown. On the other hand, the Patriots could lean on Henderson in a closer game, or perhaps choose to pass the ball downfield more, which doesn't bode well for Stevenson's stock. There are worse fantasy options (especially in PPR leagues), and to his credit, he has hung around as the RB28 in RotoBaller's Week 3 rankings. Still, he has a relatively lower ceiling, and we'd prefer more of a high-upside player in the RB3/flex spot.",
+        "title": "Rhamondre Stevenson Likely Headed for the Backup Role Again in Week 3",
+        "topic_id": "1409448525657333760",
+        "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-likely-headed-for-the-backup-role-again-in-week-3/1950923"
+      },
+      "nfl_team": "NE",
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "published": 1790386508000,
+      "source": "rotoballer",
+      "source_key": "222288",
+      "story_id": "nfl|7611|rotoballer|222288|1790386508000",
+      "title": "Rhamondre Stevenson Likely Headed for the Backup Role Again in Week 3",
+      "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-likely-headed-for-the-backup-role-again-in-week-3/1950923"
+    },
     {
       "analysis": null,
       "description": "New England Patriots running back TreVeyon Henderson had a very impressive performance in last week's season debut, and he'll look to replicate that success in another potentially favorable matchup against the Jacksonville Jaguars on Sunday afternoon. Henderson finished last weekend's game against the Steelers with 76 rushing yards and one rushing touchdown on 16 carries. Most notably, he reclaimed the lead-back role, relegating Rhamondre Stevenson to a much smaller role than expected. Assuming the backfield dynamic looks the same in Week 3, Henderson could be well on his way to a strong RB2 finish. The Jaguars have allowed the fourth-fewest rushing yards to running backs in 2026, but that's a small sample size that includes the Browns, who have struggled to get any sort of production from Quinshon Judkins, and the Broncos, who emerged from last week with all three of their running backs on the injury report. It's also worth noting that the Jaguars have still managed to surrender the seventh-most catches and receiving yards to running backs this year. Henderson ranks as the overall RB24 in RotoBaller's latest Week 3 fantasy football rankings.",
@@ -1685,10 +1869,10 @@
       "url": null
     },
     {
-      "analysis": "Tyjae Spears, on the other hand, is listed as questionable due to an ankle injury of his own. Neither running back has been of much use to fantasy managers this season, but Pollard would at least get a significant projection boost if Spears were to land on the inactive list ahead of a 1:00 p.m. ET kickoff Sunday.",
+      "analysis": "Tyjae Spears, on the other hand, is listed as questionable due to an ankle injury of his own. Neither running back has been of much use to fantasy managers this season, but Pollard at least would get a significant projection boost if Spears were to land on the inactive list ahead of a 1:00 p.m. ET kickoff Sunday.",
       "description": "Pollard (ankle) doesn't have an injury designation for Sunday's game against the Giants after returning to a full practice Friday, Jim Wyatt of the Titans' official site reports.",
       "metadata": {
-        "analysis": "Tyjae Spears, on the other hand, is listed as questionable due to an ankle injury of his own. Neither running back has been of much use to fantasy managers this season, but Pollard would at least get a significant projection boost if Spears were to land on the inactive list ahead of a 1:00 p.m. ET kickoff Sunday.",
+        "analysis": "Tyjae Spears, on the other hand, is listed as questionable due to an ankle injury of his own. Neither running back has been of much use to fantasy managers this season, but Pollard at least would get a significant projection boost if Spears were to land on the inactive list ahead of a 1:00 p.m. ET kickoff Sunday.",
         "description": "Pollard (ankle) doesn't have an injury designation for Sunday's game against the Giants after returning to a full practice Friday, Jim Wyatt of the Titans' official site reports.",
         "title": "Tony Pollard - Set to avoid injury tag",
         "topic_id": "1409300038084988929"
@@ -97865,126 +98049,6 @@
       "story_id": "nfl|7547|rotoballer|219485|1787826548000",
       "title": "Amon-Ra St. Brown as Reliable as Ever",
       "url": "https://www.rotoballer.com/player-news/amon-ra-st-brown-as-reliable-as-ever/1917470"
-    },
-    {
-      "analysis": null,
-      "description": "New Orleans Saints quarterback Tyler Shough showed signs as a 2025 rookie that he was a player worth building around, and that's precisely what the team did this offseason. New Orleans made a splash in free agency by acquiring running back Travis Etienne Jr. on a four-year, $48 million deal before spending five of its eight 2026 draft picks on the offensive line or skill positions, including wide receiver Jordyn Tyson (hamstring) with the eighth overall pick. While Tyson has since dealt with a serious hamstring injury likely to cost him time at the beginning of his career, there are still pieces in place for Shough to take a sizable step forward in his second season in Kellen Moore's up-tempo offense. After throwing at a 4,420-yard pace over the back half of the year that was good enough to make him the fantasy QB10 over that time, Shough is currently being drafted as the QB20, making him a low-cost, high-ceiling player to target at the end of 2026 drafts.",
-      "metadata": {
-        "description": "New Orleans Saints quarterback Tyler Shough showed signs as a 2025 rookie that he was a player worth building around, and that's precisely what the team did this offseason. New Orleans made a splash in free agency by acquiring running back Travis Etienne Jr. on a four-year, $48 million deal before spending five of its eight 2026 draft picks on the offensive line or skill positions, including wide receiver Jordyn Tyson (hamstring) with the eighth overall pick. While Tyson has since dealt with a serious hamstring injury likely to cost him time at the beginning of his career, there are still pieces in place for Shough to take a sizable step forward in his second season in Kellen Moore's up-tempo offense. After throwing at a 4,420-yard pace over the back half of the year that was good enough to make him the fantasy QB10 over that time, Shough is currently being drafted as the QB20, making him a low-cost, high-ceiling player to target at the end of 2026 drafts.",
-        "title": "Tyler Shough Still Being Underdrafted After a Promising Rookie Season",
-        "topic_id": "1398707861286064128",
-        "url": "https://www.rotoballer.com/player-news/tyler-shough-still-being-underdrafted-after-a-promising-rookie-season/1917440"
-      },
-      "nfl_team": "NO",
-      "player_id": "12545",
-      "player_name": "Tyler Shough",
-      "position": "QB",
-      "published": 1787825651000,
-      "source": "rotoballer",
-      "source_key": "219484",
-      "story_id": "nfl|12545|rotoballer|219484|1787825651000",
-      "title": "Tyler Shough Still Being Underdrafted After a Promising Rookie Season",
-      "url": "https://www.rotoballer.com/player-news/tyler-shough-still-being-underdrafted-after-a-promising-rookie-season/1917440"
-    },
-    {
-      "analysis": null,
-      "description": "Chicago Bears running back D'Andre Swift has often been criticized for being a better athlete than NFL running back, but in his 2025 reunion with head coach Ben Johnson, he showed improved patience and better vision, leading to the best season of his career. Swift had the sixth-highest rushing success rate in the league on his way to an RB15 fantasy finish, and his ceiling could be even higher in year two of Johnson's Bears offense. Second-year player Kyle Monangai (knee) is dealing with a hyperextended knee, and with Chicago favored in five of its first six games, Swift has the opportunity to get off to a white-hot start in his seventh season. At RotoBaller's RB18, he is a player to target in the middle rounds of drafts who could see his value rise early in the year, presenting the opportunity to later flip him as a potential sell-high candidate.",
-      "metadata": {
-        "description": "Chicago Bears running back D'Andre Swift has often been criticized for being a better athlete than NFL running back, but in his 2025 reunion with head coach Ben Johnson, he showed improved patience and better vision, leading to the best season of his career. Swift had the sixth-highest rushing success rate in the league on his way to an RB15 fantasy finish, and his ceiling could be even higher in year two of Johnson's Bears offense. Second-year player Kyle Monangai (knee) is dealing with a hyperextended knee, and with Chicago favored in five of its first six games, Swift has the opportunity to get off to a white-hot start in his seventh season. At RotoBaller's RB18, he is a player to target in the middle rounds of drafts who could see his value rise early in the year, presenting the opportunity to later flip him as a potential sell-high candidate.",
-        "title": "D'Andre Swift Could Follow His Career Year with Another Strong Start",
-        "topic_id": "1398719186829602816",
-        "url": "https://www.rotoballer.com/player-news/dandre-swift-could-follow-his-career-year-with-another-strong-start-to-the-season/1917436"
-      },
-      "nfl_team": "CHI",
-      "player_id": "6790",
-      "player_name": "D'Andre Swift",
-      "position": "RB",
-      "published": 1787824826000,
-      "source": "rotoballer",
-      "source_key": "219489",
-      "story_id": "nfl|6790|rotoballer|219489|1787824826000",
-      "title": "D'Andre Swift Could Follow His Career Year with Another Strong Start",
-      "url": "https://www.rotoballer.com/player-news/dandre-swift-could-follow-his-career-year-with-another-strong-start-to-the-season/1917436"
-    },
-    {
-      "analysis": null,
-      "description": "Through the first three games of 2025, Baltimore Ravens quarterback Lamar Jackson averaged more than 30 fantasy points per game, looking like his usual dominant self before injuries derailed his season, and NFL Network's Trevor Sikkema believes a return to health could lead to big things in 2026. \"I'm really excited for what Lamar Jackson could be this year,\" he said while appearing on NFL Report. \"To me, we could see not only the regular version of Lamar Jackson, which is pretty dang spectacular, but we could see maybe one of the most explosive versions of Lamar Jackson in this Declan Doyle offense.\" The Ravens were one of the most aggressive passing offenses on first down last year, helping to set up the third-and-manageable situations in which they thrived, and Sikkema believes Doyle will put the ball in Jackson's hands even more on early downs. Jackson is RotoBaller's QB1 and has one of the highest ceilings in the history of the game, as evidenced by two different seasons of 400+ fantasy points, and if he can manage close to a full slate of games in 2026, he should again be a league-winner.",
-      "metadata": {
-        "description": "Through the first three games of 2025, Baltimore Ravens quarterback Lamar Jackson averaged more than 30 fantasy points per game, looking like his usual dominant self before injuries derailed his season, and NFL Network's Trevor Sikkema believes a return to health could lead to big things in 2026. \"I'm really excited for what Lamar Jackson could be this year,\" he said while appearing on NFL Report. \"To me, we could see not only the regular version of Lamar Jackson, which is pretty dang spectacular, but we could see maybe one of the most explosive versions of Lamar Jackson in this Declan Doyle offense.\" The Ravens were one of the most aggressive passing offenses on first down last year, helping to set up the third-and-manageable situations in which they thrived, and Sikkema believes Doyle will put the ball in Jackson's hands even more on early downs. Jackson is RotoBaller's QB1 and has one of the highest ceilings in the history of the game, as evidenced by two different seasons of 400+ fantasy points, and if he can manage close to a full slate of games in 2026, he should again be a league-winner.",
-        "title": "We Could See \"One of Most Explosive Versions\" of Lamar Jackson in 2026",
-        "topic_id": "1398701569322545152",
-        "url": "https://www.rotoballer.com/player-news/we-could-see-one-of-most-explosive-versions-of-lamar-jackson-in-2026/1917429"
-      },
-      "nfl_team": "BAL",
-      "player_id": "4881",
-      "player_name": "Lamar Jackson",
-      "position": "QB",
-      "published": 1787824146000,
-      "source": "rotoballer",
-      "source_key": "219483",
-      "story_id": "nfl|4881|rotoballer|219483|1787824146000",
-      "title": "We Could See \"One of Most Explosive Versions\" of Lamar Jackson in 2026",
-      "url": "https://www.rotoballer.com/player-news/we-could-see-one-of-most-explosive-versions-of-lamar-jackson-in-2026/1917429"
-    },
-    {
-      "analysis": null,
-      "description": "The Baltimore Ravens have long been in need of a reliable No. 2 receiver behind two-time Pro Bowler Zay Flowers (undisclosed), and during Wednesday's joint practice with the Commanders, wide receiver Rashod Bateman made arguably his most compelling case of the summer that he can be that guy. With Flowers sidelined by what head coach Jesse Minter called a \"minor thing,\" Bateman was uncoverable in 1-on-1s, 7-on-7s, or full-team drills, prompting team reporters Ryan Mink and Quentin Corpuel to praise him for what could have been his best day of training camp while acknowledging he may have been the Ravens' best offensive player on Wednesday. Bateman had a strong start to camp, but the growing hype around rookie Ja'Kobi Lane, as well as his own recent legal troubles, have slowed any momentum he had built going into his sixth season. But in some of the closest simulations of in-game scenarios the team has seen all summer, Bateman dominated, and the former first-round pick remains a player worthy of late-round consideration as RotoBaller's WR80.",
-      "metadata": {
-        "description": "The Baltimore Ravens have long been in need of a reliable No. 2 receiver behind two-time Pro Bowler Zay Flowers (undisclosed), and during Wednesday's joint practice with the Commanders, wide receiver Rashod Bateman made arguably his most compelling case of the summer that he can be that guy. With Flowers sidelined by what head coach Jesse Minter called a \"minor thing,\" Bateman was uncoverable in 1-on-1s, 7-on-7s, or full-team drills, prompting team reporters Ryan Mink and Quentin Corpuel to praise him for what could have been his best day of training camp while acknowledging he may have been the Ravens' best offensive player on Wednesday. Bateman had a strong start to camp, but the growing hype around rookie Ja'Kobi Lane, as well as his own recent legal troubles, have slowed any momentum he had built going into his sixth season. But in some of the closest simulations of in-game scenarios the team has seen all summer, Bateman dominated, and the former first-round pick remains a player worthy of late-round consideration as RotoBaller's WR80.",
-        "title": "Rashod Bateman Shines in Joint Practice with Commanders",
-        "topic_id": "1398697793274564608",
-        "url": "https://www.rotoballer.com/player-news/rashod-bateman-shines-in-joint-practice-with-commanders/1917423"
-      },
-      "nfl_team": "BAL",
-      "player_id": "7571",
-      "player_name": "Rashod Bateman",
-      "position": "WR",
-      "published": 1787823391000,
-      "source": "rotoballer",
-      "source_key": "219482",
-      "story_id": "nfl|7571|rotoballer|219482|1787823391000",
-      "title": "Rashod Bateman Shines in Joint Practice with Commanders",
-      "url": "https://www.rotoballer.com/player-news/rashod-bateman-shines-in-joint-practice-with-commanders/1917423"
-    },
-    {
-      "analysis": null,
-      "description": "The Washington Commanders were short-handed at running back during Wednesday's joint practice with the Ravens, providing sixth-round rookie Kaytron Allen with some of his most extensive work with the first-unit offense, but he was not the only rookie to benefit from the absence of Jacory Croskey-Merritt (groin) and the limitation of Rachaad White (hamstring). With the team's top two backs both dealing with short-term injuries, Allen split first-team reps with undrafted free agent Robert Henry Jr., with both players making their share of positive plays, according to Commanders senior writer Zach Selby. Through two preseason games, Allen has more than doubled Henry's touch count, but the latter has been more efficient with his opportunities, averaging a full yard more per carry. As a Day 3 pick, Allen was never guaranteed a fantasy-viable workload, but still splitting time in what could essentially be seen as a best-case scenario, any bull case he had takes a serious hit, and there appears to be little reason to pay him mind in 2026 drafts.",
-      "metadata": {
-        "description": "The Washington Commanders were short-handed at running back during Wednesday's joint practice with the Ravens, providing sixth-round rookie Kaytron Allen with some of his most extensive work with the first-unit offense, but he was not the only rookie to benefit from the absence of Jacory Croskey-Merritt (groin) and the limitation of Rachaad White (hamstring). With the team's top two backs both dealing with short-term injuries, Allen split first-team reps with undrafted free agent Robert Henry Jr., with both players making their share of positive plays, according to Commanders senior writer Zach Selby. Through two preseason games, Allen has more than doubled Henry's touch count, but the latter has been more efficient with his opportunities, averaging a full yard more per carry. As a Day 3 pick, Allen was never guaranteed a fantasy-viable workload, but still splitting time in what could essentially be seen as a best-case scenario, any bull case he had takes a serious hit, and there appears to be little reason to pay him mind in 2026 drafts.",
-        "title": "Kaytron Allen Splitting First-Team Work with Undrafted Free Agent",
-        "topic_id": "1398695276633427968",
-        "url": "https://www.rotoballer.com/player-news/kaytron-allen-splitting-first-team-work-with-undrafted-free-agent/1917417"
-      },
-      "nfl_team": "WAS",
-      "player_id": "13405",
-      "player_name": "Kaytron Allen",
-      "position": "RB",
-      "published": 1787822709000,
-      "source": "rotoballer",
-      "source_key": "219481",
-      "story_id": "nfl|13405|rotoballer|219481|1787822709000",
-      "title": "Kaytron Allen Splitting First-Team Work with Undrafted Free Agent",
-      "url": "https://www.rotoballer.com/player-news/kaytron-allen-splitting-first-team-work-with-undrafted-free-agent/1917417"
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots quarterback Drake Maye was the MVP runner-up and fantasy QB2 in his second season, his first with offensive coordinator Josh McDaniels, and since then his weaponry has only grown stronger. The Patriots' top two receivers in 2025 were Stefon Diggs and Kayshon Boutte. The former spent most of the summer as a free agent before finally signing a one-year, $8 million deal with the Commanders, while the latter was traded to the Texans on Monday for what amounted to a 2025 sixth-rounder and a 2028 seventh-round pick. Meanwhile, the Patriots spent a first and a fifth to acquire A.J. Brown after signing Romeo Doubs to a four-year, $68 million contract. New England also ran the league's lowest percentage of plays while trailing in 2025, so a more difficult schedule could lead to even more pass attempts for Maye and a higher fantasy ceiling. The soon-to-be-24-year-old is RotoBaller's QB6, but he has the skill set and the environment to threaten for an overall QB1 finish.",
-      "metadata": {
-        "description": "New England Patriots quarterback Drake Maye was the MVP runner-up and fantasy QB2 in his second season, his first with offensive coordinator Josh McDaniels, and since then his weaponry has only grown stronger. The Patriots' top two receivers in 2025 were Stefon Diggs and Kayshon Boutte. The former spent most of the summer as a free agent before finally signing a one-year, $8 million deal with the Commanders, while the latter was traded to the Texans on Monday for what amounted to a 2025 sixth-rounder and a 2028 seventh-round pick. Meanwhile, the Patriots spent a first and a fifth to acquire A.J. Brown after signing Romeo Doubs to a four-year, $68 million contract. New England also ran the league's lowest percentage of plays while trailing in 2025, so a more difficult schedule could lead to even more pass attempts for Maye and a higher fantasy ceiling. The soon-to-be-24-year-old is RotoBaller's QB6, but he has the skill set and the environment to threaten for an overall QB1 finish.",
-        "title": "Drake Maye's Fantasy Environment Has Only Gotten Better",
-        "topic_id": "1398692759992320000",
-        "url": "https://www.rotoballer.com/player-news/drake-mayes-fantasy-environment-has-only-gotten-better/1917402"
-      },
-      "nfl_team": "NE",
-      "player_id": "11564",
-      "player_name": "Drake Maye",
-      "position": "QB",
-      "published": 1787821989000,
-      "source": "rotoballer",
-      "source_key": "219480",
-      "story_id": "nfl|11564|rotoballer|219480|1787821989000",
-      "title": "Drake Maye's Fantasy Environment Has Only Gotten Better",
-      "url": "https://www.rotoballer.com/player-news/drake-mayes-fantasy-environment-has-only-gotten-better/1917402"
     }
   ]
 }
