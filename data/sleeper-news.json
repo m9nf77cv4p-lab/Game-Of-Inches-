@@ -1,45 +1,34 @@
 {
-  "last_checked_at": "2026-09-26T00:50:39Z",
+  "last_checked_at": "2026-09-26T05:37:38Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 296,
+  "monitored_player_count": 298,
   "new_story_ids": [
-    "nfl|10213|rotoballer|222226|1790361007000",
-    "nfl|11435|rotoballer|222224|1790361128000",
-    "nfl|11435|rotowire|639217|1790379107000",
-    "nfl|11584|rotoballer|222242|1790362570000",
-    "nfl|11618|rotoballer|222252|1790366117000",
-    "nfl|11646|rotoballer|222237|1790361967000",
-    "nfl|12483|rotoballer|222235|1790362156000",
-    "nfl|12489|rotoballer|222253|1790366017000",
-    "nfl|12514|rotoballer|222244|1790363530000",
-    "nfl|12526|rotoballer|222230|1790361849000",
-    "nfl|13286|rotoballer|222225|1790361091000",
-    "nfl|13317|rotoballer|222251|1790365573000",
-    "nfl|13414|rotoballer|222238|1790362506000",
-    "nfl|2505|rotoballer|222232|1790361667000",
-    "nfl|3163|rotoballer|222250|1790365415000",
-    "nfl|4034|rotoballer|222239|1790362413000",
-    "nfl|4037|rotoballer|222249|1790364666000",
-    "nfl|4217|rotoballer|222245|1790363785000",
-    "nfl|4866|rotoballer|222243|1790363143000",
-    "nfl|4892|rotoballer|222240|1790362317000",
-    "nfl|5022|rotowire|639198|1790375617000",
-    "nfl|5854|rotowire|639207|1790376865000",
-    "nfl|5872|rotoballer|222248|1790364730000",
-    "nfl|7525|rotoballer|222246|1790364007000",
-    "nfl|7547|rotoballer|222259|1790367131000",
-    "nfl|7567|rotoballer|222241|1790362817000",
-    "nfl|7594|rotoballer|222227|1790361428000",
-    "nfl|8111|rotoballer|222255|1790366530000",
-    "nfl|8148|rotoballer|222260|1790367731000",
-    "nfl|8183|rotoballer|222234|1790362211000",
-    "nfl|8210|rotoballer|222257|1790366407000",
-    "nfl|9221|rotoballer|222254|1790365934000",
-    "nfl|9225|rotoballer|222247|1790364438000",
-    "nfl|9225|rotowire|639202|1790375947000",
-    "nfl|9228|rotoballer|222229|1790361249000",
-    "nfl|9482|rotoballer|222231|1790361786000",
-    "nfl|9753|rotoballer|222258|1790366838000"
+    "nfl|10859|rotoballer|222273|1790376675000",
+    "nfl|11539|rotoballer|222272|1790376732000",
+    "nfl|11564|rotoballer|222286|1790385920000",
+    "nfl|11618|rotoballer|222263|1790371930000",
+    "nfl|12483|rotoballer|222264|1790372837000",
+    "nfl|12485|rotoballer|222282|1790384838000",
+    "nfl|12497|rotoballer|222283|1790385306000",
+    "nfl|12529|rotoballer|222287|1790386207000",
+    "nfl|12530|rotoballer|222269|1790375408000",
+    "nfl|12535|rotoballer|222267|1790374689000",
+    "nfl|12545|rotoballer|222271|1790376076000",
+    "nfl|13274|rotoballer|222277|1790381954000",
+    "nfl|13405|rotoballer|222285|1790385437000",
+    "nfl|13421|fantasy_pros|610555|1790358043572",
+    "nfl|13421|rotowire|639049|1790296012000",
+    "nfl|13421|rotowire|639236|1790383109000",
+    "nfl|13423|rotoballer|219562|1787912709000",
+    "nfl|13423|rotoballer|222189|1790352926000",
+    "nfl|13423|rotowire|635007|1787899342000",
+    "nfl|1945|rotoballer|222281|1790384646000",
+    "nfl|5846|rotoballer|222278|1790381782000",
+    "nfl|5892|rotoballer|222261|1790370676000",
+    "nfl|7543|rotoballer|222275|1790378775000",
+    "nfl|7600|rotoballer|222279|1790382132000",
+    "nfl|9480|rotoballer|222270|1790375946000",
+    "nfl|96|rotoballer|222276|1790381530000"
   ],
   "schema_version": 1,
   "source": {
@@ -49,6 +38,226 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "New England Patriots running back TreVeyon Henderson had a very impressive performance in last week's season debut, and he'll look to replicate that success in another potentially favorable matchup against the Jacksonville Jaguars on Sunday afternoon. Henderson finished last weekend's game against the Steelers with 76 rushing yards and one rushing touchdown on 16 carries. Most notably, he reclaimed the lead-back role, relegating Rhamondre Stevenson to a much smaller role than expected. Assuming the backfield dynamic looks the same in Week 3, Henderson could be well on his way to a strong RB2 finish. The Jaguars have allowed the fourth-fewest rushing yards to running backs in 2026, but that's a small sample size that includes the Browns, who have struggled to get any sort of production from Quinshon Judkins, and the Broncos, who emerged from last week with all three of their running backs on the injury report. It's also worth noting that the Jaguars have still managed to surrender the seventh-most catches and receiving yards to running backs this year. Henderson ranks as the overall RB24 in RotoBaller's latest Week 3 fantasy football rankings.",
+      "metadata": {
+        "description": "New England Patriots running back TreVeyon Henderson had a very impressive performance in last week's season debut, and he'll look to replicate that success in another potentially favorable matchup against the Jacksonville Jaguars on Sunday afternoon. Henderson finished last weekend's game against the Steelers with 76 rushing yards and one rushing touchdown on 16 carries. Most notably, he reclaimed the lead-back role, relegating Rhamondre Stevenson to a much smaller role than expected. Assuming the backfield dynamic looks the same in Week 3, Henderson could be well on his way to a strong RB2 finish. The Jaguars have allowed the fourth-fewest rushing yards to running backs in 2026, but that's a small sample size that includes the Browns, who have struggled to get any sort of production from Quinshon Judkins, and the Broncos, who emerged from last week with all three of their running backs on the injury report. It's also worth noting that the Jaguars have still managed to surrender the seventh-most catches and receiving yards to running backs this year. Henderson ranks as the overall RB24 in RotoBaller's latest Week 3 fantasy football rankings.",
+        "title": "TreVeyon Henderson Looks to Build Off Fantastic Season Debut",
+        "topic_id": "1409447267420651520",
+        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-looks-to-build-off-fantastic-season-debut/1950919"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1790386207000,
+      "source": "rotoballer",
+      "source_key": "222287",
+      "story_id": "nfl|12529|rotoballer|222287|1790386207000",
+      "title": "TreVeyon Henderson Looks to Build Off Fantastic Season Debut",
+      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-looks-to-build-off-fantastic-season-debut/1950919"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots quarterback Drake Maye has been incredibly underwhelming in fantasy football so far this season, but he could have an opportunity to get back on track in a potential shootout against the Jacksonville Jaguars. This game features two teams with high-ceiling offenses that could make deep playoff runs this year. Maye has just one passing touchdown and four interceptions this season, but he has maintained a respectable 67% completion rate. The biggest obstacle for Maye has been the loss of AJ Brown (hamstring), who was placed on injured reserve after Week 1. Still, Romeo Doubs stepped up in a big way last week, and Maye also has some very non-flashy but reliable options in DeMario Douglas, Hunter Henry, and Mack Hollins. Plus, his mobility should serve him well against a Jaguars defense that has allowed the seventh-most quarterback rushing attempts and the eighth-most quarterback rushing yards this season. Maye is still hanging on to his fringe QB1 status, ranking as RotoBaller's #13 quarterback for Week 3.",
+      "metadata": {
+        "description": "New England Patriots quarterback Drake Maye has been incredibly underwhelming in fantasy football so far this season, but he could have an opportunity to get back on track in a potential shootout against the Jacksonville Jaguars. This game features two teams with high-ceiling offenses that could make deep playoff runs this year. Maye has just one passing touchdown and four interceptions this season, but he has maintained a respectable 67% completion rate. The biggest obstacle for Maye has been the loss of AJ Brown (hamstring), who was placed on injured reserve after Week 1. Still, Romeo Doubs stepped up in a big way last week, and Maye also has some very non-flashy but reliable options in DeMario Douglas, Hunter Henry, and Mack Hollins. Plus, his mobility should serve him well against a Jaguars defense that has allowed the seventh-most quarterback rushing attempts and the eighth-most quarterback rushing yards this season. Maye is still hanging on to his fringe QB1 status, ranking as RotoBaller's #13 quarterback for Week 3.",
+        "title": "Potential Shootout Offers Bounce-Back Opportunity for Drake Maye",
+        "topic_id": "1409446009246883840",
+        "url": "https://www.rotoballer.com/player-news/potential-shootout-offers-bounce-back-opportunity-for-drake-maye/1950916"
+      },
+      "nfl_team": "NE",
+      "player_id": "11564",
+      "player_name": "Drake Maye",
+      "position": "QB",
+      "published": 1790385920000,
+      "source": "rotoballer",
+      "source_key": "222286",
+      "story_id": "nfl|11564|rotoballer|222286|1790385920000",
+      "title": "Potential Shootout Offers Bounce-Back Opportunity for Drake Maye",
+      "url": "https://www.rotoballer.com/player-news/potential-shootout-offers-bounce-back-opportunity-for-drake-maye/1950916"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Kaytron Allen has been the clear No. 3 option on the depth chart through the first two weeks of the 2026 season. While he does have nine carries for 40 rushing yards, that's not nearly enough to get him on the fantasy radar. Plus, he has played less than 10% of the team's offensive snaps, and he doesn't have a target in the passing game yet. Allen has operated as nothing more than a change-of-pace behind Jacory Croskey-Merritt and Rachaad White, and he'll remain in that type of role as long as both backs are healthy. Even if Croskey-Merritt or White were to miss a game due to injury, we'd be hesitant to insert Allen into any fantasy lineups. The rookie is an intriguing dynasty stash given that Washington doesn't have a long-term solution at running back, but he faces an uphill battle to achieve fantasy relevance in redraft leagues for this season.",
+      "metadata": {
+        "description": "Washington Commanders running back Kaytron Allen has been the clear No. 3 option on the depth chart through the first two weeks of the 2026 season. While he does have nine carries for 40 rushing yards, that's not nearly enough to get him on the fantasy radar. Plus, he has played less than 10% of the team's offensive snaps, and he doesn't have a target in the passing game yet. Allen has operated as nothing more than a change-of-pace behind Jacory Croskey-Merritt and Rachaad White, and he'll remain in that type of role as long as both backs are healthy. Even if Croskey-Merritt or White were to miss a game due to injury, we'd be hesitant to insert Allen into any fantasy lineups. The rookie is an intriguing dynasty stash given that Washington doesn't have a long-term solution at running back, but he faces an uphill battle to achieve fantasy relevance in redraft leagues for this season.",
+        "title": "Kaytron Allen Operating as a Reserve Early in Rookie Season",
+        "topic_id": "1409444751043796992",
+        "url": "https://www.rotoballer.com/player-news/kaytron-allen-operating-as-a-reserve-early-in-rookie-season/1950912"
+      },
+      "nfl_team": "WAS",
+      "player_id": "13405",
+      "player_name": "Kaytron Allen",
+      "position": "RB",
+      "published": 1790385437000,
+      "source": "rotoballer",
+      "source_key": "222285",
+      "story_id": "nfl|13405|rotoballer|222285|1790385437000",
+      "title": "Kaytron Allen Operating as a Reserve Early in Rookie Season",
+      "url": "https://www.rotoballer.com/player-news/kaytron-allen-operating-as-a-reserve-early-in-rookie-season/1950912"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Tory Horton had an underwhelming season debut in Week 2, finishing with zero targets and a modest 31% snap share. Horton showed significant promise as a rookie last year, catching five touchdown passes through his first eight games before missing the second half of the season due to an injury. He also missed Week 1 this year, and so far, he hasn't returned to his pre-injury role or productivity. There's no resolution in sight, either, as Horton remains buried by a proven group of wide receivers: Jaxon Smith-Njigba, Rashid Shaheed, and Cooper Kupp. Even if one of those players gets injured, he might not get onto the redraft radar. Horton faces an uphill battle to achieve fantasy relevance in redraft leagues this year, and he can be left on waivers for the time being.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Tory Horton had an underwhelming season debut in Week 2, finishing with zero targets and a modest 31% snap share. Horton showed significant promise as a rookie last year, catching five touchdown passes through his first eight games before missing the second half of the season due to an injury. He also missed Week 1 this year, and so far, he hasn't returned to his pre-injury role or productivity. There's no resolution in sight, either, as Horton remains buried by a proven group of wide receivers: Jaxon Smith-Njigba, Rashid Shaheed, and Cooper Kupp. Even if one of those players gets injured, he might not get onto the redraft radar. Horton faces an uphill battle to achieve fantasy relevance in redraft leagues this year, and he can be left on waivers for the time being.",
+        "title": "Tory Horton Not Showing Up in the Box Score",
+        "topic_id": "1409443492026978304",
+        "url": "https://www.rotoballer.com/player-news/tory-horton-not-showing-up-in-the-box-score/1950909"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12497",
+      "player_name": "Tory Horton",
+      "position": "WR",
+      "published": 1790385306000,
+      "source": "rotoballer",
+      "source_key": "222283",
+      "story_id": "nfl|12497|rotoballer|222283|1790385306000",
+      "title": "Tory Horton Not Showing Up in the Box Score",
+      "url": "https://www.rotoballer.com/player-news/tory-horton-not-showing-up-in-the-box-score/1950909"
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers wide receiver Tez Johnson is losing his fantasy football appeal after just two weeks of the NFL season. Johnson came into this year as a potential fantasy sleeper following a five-touchdown rookie campaign in 2025. However, he has seemingly fallen out of favor, as he now finds himself fifth on the depth chart and struggling to carve out any sort of role. The 24-year-old has just one catch on five targets this year, and while his reception did go for 49 yards, he's still not fantasy relevant. He's buried in the fifth spot on the depth chart behind Chris Godwin Sr., Emeka Egbuka, Jalen McMillan, and Ted Hurst. To make matters worse, this Bucs offense has yet to prove it can support numerous fantasy-relevant receivers. At best, Johnson is an end-of-the-bench stash in deep dynasty leagues. He can be avoided in redraft formats.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers wide receiver Tez Johnson is losing his fantasy football appeal after just two weeks of the NFL season. Johnson came into this year as a potential fantasy sleeper following a five-touchdown rookie campaign in 2025. However, he has seemingly fallen out of favor, as he now finds himself fifth on the depth chart and struggling to carve out any sort of role. The 24-year-old has just one catch on five targets this year, and while his reception did go for 49 yards, he's still not fantasy relevant. He's buried in the fifth spot on the depth chart behind Chris Godwin Sr., Emeka Egbuka, Jalen McMillan, and Ted Hurst. To make matters worse, this Bucs offense has yet to prove it can support numerous fantasy-relevant receivers. At best, Johnson is an end-of-the-bench stash in deep dynasty leagues. He can be avoided in redraft formats.",
+        "title": "Tez Johnson Falling Out of Relevance in Tampa Bay",
+        "topic_id": "1409442233479880704",
+        "url": "https://www.rotoballer.com/player-news/tez-johnson-falling-out-of-relevance-in-tampa-bay/1950904"
+      },
+      "nfl_team": "TB",
+      "player_id": "12485",
+      "player_name": "Tez Johnson",
+      "position": "WR",
+      "published": 1790384838000,
+      "source": "rotoballer",
+      "source_key": "222282",
+      "story_id": "nfl|12485|rotoballer|222282|1790384838000",
+      "title": "Tez Johnson Falling Out of Relevance in Tampa Bay",
+      "url": "https://www.rotoballer.com/player-news/tez-johnson-falling-out-of-relevance-in-tampa-bay/1950904"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers kicker Chris Boswell converted one of his two field goal attempts in last week's loss and will hope to see more opportunities in a Week 3 divisional bout with the Cincinnati Bengals. Through two games this season, Cincinnati's defense has looked much improved and is surrendering the eighth-fewest points per contest. With Sunday's matchup projected to be a relatively low-scoring affair, Boswell's ceiling could be capped, and his floor remains low with Pittsburgh's offense struggling to find its footing. It's possible Boswell produces for fantasy at some point in 2026, but as the No. 23 kicker in RotoBaller's Week 3 rankings, there are plenty of safer options for fantasy managers to choose from this week.",
+      "metadata": {
+        "description": "Pittsburgh Steelers kicker Chris Boswell converted one of his two field goal attempts in last week's loss and will hope to see more opportunities in a Week 3 divisional bout with the Cincinnati Bengals. Through two games this season, Cincinnati's defense has looked much improved and is surrendering the eighth-fewest points per contest. With Sunday's matchup projected to be a relatively low-scoring affair, Boswell's ceiling could be capped, and his floor remains low with Pittsburgh's offense struggling to find its footing. It's possible Boswell produces for fantasy at some point in 2026, but as the No. 23 kicker in RotoBaller's Week 3 rankings, there are plenty of safer options for fantasy managers to choose from this week.",
+        "title": "Chris Boswell Difficult to Trust Due to Struggling Offense",
+        "topic_id": "1409440975343955968",
+        "url": "https://www.rotoballer.com/player-news/chris-boswell-difficult-to-trust-due-to-struggling-offense/1950902"
+      },
+      "nfl_team": "PIT",
+      "player_id": "1945",
+      "player_name": "Chris Boswell",
+      "position": "K",
+      "published": 1790384646000,
+      "source": "rotoballer",
+      "source_key": "222281",
+      "story_id": "nfl|1945|rotoballer|222281|1790384646000",
+      "title": "Chris Boswell Difficult to Trust Due to Struggling Offense",
+      "url": "https://www.rotoballer.com/player-news/chris-boswell-difficult-to-trust-due-to-struggling-offense/1950902"
+    },
+    {
+      "analysis": "Raridon started the week as a limited participant Wednesday before downgrading to a non-participant in the Thursday and Friday practice sessions. The rookie third-rounder has still managed to draw the questionable tag despite consecutive absences, meaning the 22-year-old may have been granted some additional rest in anticipation of Sunday's contest.",
+      "description": "Raridon (thigh) is listed as questionable ahead of Sunday's game against the Jaguars.",
+      "metadata": {
+        "analysis": "Raridon started the week as a limited participant Wednesday before downgrading to a non-participant in the Thursday and Friday practice sessions. The rookie third-rounder has still managed to draw the questionable tag despite consecutive absences, meaning the 22-year-old may have been granted some additional rest in anticipation of Sunday's contest.",
+        "description": "Raridon (thigh) is listed as questionable ahead of Sunday's game against the Jaguars.",
+        "title": "Eli Raridon - Questionable for Sunday",
+        "topic_id": "1409374283137826816"
+      },
+      "nfl_team": "NE",
+      "player_id": "13421",
+      "player_name": "Eli Raridon",
+      "position": "TE",
+      "published": 1790383109000,
+      "source": "rotowire",
+      "source_key": "639236",
+      "story_id": "nfl|13421|rotowire|639236|1790383109000",
+      "title": "Eli Raridon - Questionable for Sunday",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers tight end Pat Freiermuth has operated in an encouraging role so far this season and has a great opportunity to turn his usage into fantasy production against the Cincinnati Bengals in Week 3. Through 10 career meetings with Cincinnati, Freiermuth has scored six touchdowns while averaging five receptions and 62 yards per contest. Despite the Bengals' defensive improvements, Cincinnati struggled to contain Dalton Schultz in Week 2 after surrendering the most fantasy points to opposing tight ends in both 2025 and 2024. Freiermuth is likely available in the majority of redraft leagues and should be viewed as a solid streaming option in this divisional showdown.",
+      "metadata": {
+        "description": "Pittsburgh Steelers tight end Pat Freiermuth has operated in an encouraging role so far this season and has a great opportunity to turn his usage into fantasy production against the Cincinnati Bengals in Week 3. Through 10 career meetings with Cincinnati, Freiermuth has scored six touchdowns while averaging five receptions and 62 yards per contest. Despite the Bengals' defensive improvements, Cincinnati struggled to contain Dalton Schultz in Week 2 after surrendering the most fantasy points to opposing tight ends in both 2025 and 2024. Freiermuth is likely available in the majority of redraft leagues and should be viewed as a solid streaming option in this divisional showdown.",
+        "title": "Pat Freiermuth Looks to Find Continued Success Against Bengals",
+        "topic_id": "1409430907827269632",
+        "url": "https://www.rotoballer.com/player-news/pat-freiermuth-looks-to-find-continued-success-against-bengals/1950895"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7600",
+      "player_name": "Pat Freiermuth",
+      "position": "TE",
+      "published": 1790382132000,
+      "source": "rotoballer",
+      "source_key": "222279",
+      "story_id": "nfl|7600|rotoballer|222279|1790382132000",
+      "title": "Pat Freiermuth Looks to Find Continued Success Against Bengals",
+      "url": "https://www.rotoballer.com/player-news/pat-freiermuth-looks-to-find-continued-success-against-bengals/1950895"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers wide receiver Germie Bernard earned eight targets in last week's loss and will look to continue to build rapport with quarterback Aaron Rodgers against the Cincinnati Bengals in Week 3. While it's possible Bernard remains a factor in Pittsburgh's passing attack, the rookie's snap share could decline if Michael Pittman Jr. (foot), currently listed as questionable, is cleared to play. Regardless, this isn't a matchup to target for fantasy purposes, as the Bengals have held opposing receivers in check through the first two weeks of the season. Fantasy managers should monitor Bernard's role, but the 22-year-old does not need to be rostered in most redraft formats.",
+      "metadata": {
+        "description": "Pittsburgh Steelers wide receiver Germie Bernard earned eight targets in last week's loss and will look to continue to build rapport with quarterback Aaron Rodgers against the Cincinnati Bengals in Week 3. While it's possible Bernard remains a factor in Pittsburgh's passing attack, the rookie's snap share could decline if Michael Pittman Jr. (foot), currently listed as questionable, is cleared to play. Regardless, this isn't a matchup to target for fantasy purposes, as the Bengals have held opposing receivers in check through the first two weeks of the season. Fantasy managers should monitor Bernard's role, but the 22-year-old does not need to be rostered in most redraft formats.",
+        "title": "Germie Bernard Trending Up Heading Into Divisional Bout",
+        "topic_id": "1409429649494167552",
+        "url": "https://www.rotoballer.com/player-news/germie-bernard-trending-up-heading-into-divisional-bout/1950893"
+      },
+      "nfl_team": "PIT",
+      "player_id": "13274",
+      "player_name": "Germie Bernard",
+      "position": "WR",
+      "published": 1790381954000,
+      "source": "rotoballer",
+      "source_key": "222277",
+      "story_id": "nfl|13274|rotoballer|222277|1790381954000",
+      "title": "Germie Bernard Trending Up Heading Into Divisional Bout",
+      "url": "https://www.rotoballer.com/player-news/germie-bernard-trending-up-heading-into-divisional-bout/1950893"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers wide receiver DK Metcalf is seeing elite usage to begin the 2026 campaign and should remain heavily involved against the Cincinnati Bengals in Week 3. Although Metcalf leads the NFL in deep targets and unrealized air yards, his inconsistent play makes him difficult to trust for fantasy purposes. To make matters worse, the Bengals' pass defense has been stout so far this season, surrendering the eighth-fewest fantasy points to opposing wideouts. Metcalf's role as Pittsburgh's top receiver should persist, even if Michael Pittman Jr. (foot) returns to the lineup this week, but he profiles as just a boom-or-bust WR3 or flex option in this matchup.",
+      "metadata": {
+        "description": "Pittsburgh Steelers wide receiver DK Metcalf is seeing elite usage to begin the 2026 campaign and should remain heavily involved against the Cincinnati Bengals in Week 3. Although Metcalf leads the NFL in deep targets and unrealized air yards, his inconsistent play makes him difficult to trust for fantasy purposes. To make matters worse, the Bengals' pass defense has been stout so far this season, surrendering the eighth-fewest fantasy points to opposing wideouts. Metcalf's role as Pittsburgh's top receiver should persist, even if Michael Pittman Jr. (foot) returns to the lineup this week, but he profiles as just a boom-or-bust WR3 or flex option in this matchup.",
+        "title": "DK Metcalf's Volume Hard to Count On in Week 3",
+        "topic_id": "1409429649485778944",
+        "url": "https://www.rotoballer.com/player-news/dk-metcalfs-volume-hard-to-count-on-in-week-3/1950891"
+      },
+      "nfl_team": "PIT",
+      "player_id": "5846",
+      "player_name": "DK Metcalf",
+      "position": "WR",
+      "published": 1790381782000,
+      "source": "rotoballer",
+      "source_key": "222278",
+      "story_id": "nfl|5846|rotoballer|222278|1790381782000",
+      "title": "DK Metcalf's Volume Hard to Count On in Week 3",
+      "url": "https://www.rotoballer.com/player-news/dk-metcalfs-volume-hard-to-count-on-in-week-3/1950891"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers quarterback Aaron Rodgers had a poor showing in a loss to New England last week but will hope to get back on track against the division-rival Cincinnati Bengals in Week 3. Through the first two weeks of the season, Cincinnati's defense has given up the eighth-fewest points and the 10th-fewest fantasy points to opposing quarterbacks. Even if wide receiver Michael Pittman Jr. (foot), who is listed as questionable after practicing in a limited capacity this week, is able to return, it's difficult to trust Rodgers and this passing attack to put up fantasy-relevant production on Sunday. The 42-year-old signal-caller should be viewed as a bottom-10 starter at the position in 2QB and superflex leagues.",
+      "metadata": {
+        "description": "Pittsburgh Steelers quarterback Aaron Rodgers had a poor showing in a loss to New England last week but will hope to get back on track against the division-rival Cincinnati Bengals in Week 3. Through the first two weeks of the season, Cincinnati's defense has given up the eighth-fewest points and the 10th-fewest fantasy points to opposing quarterbacks. Even if wide receiver Michael Pittman Jr. (foot), who is listed as questionable after practicing in a limited capacity this week, is able to return, it's difficult to trust Rodgers and this passing attack to put up fantasy-relevant production on Sunday. The 42-year-old signal-caller should be viewed as a bottom-10 starter at the position in 2QB and superflex leagues.",
+        "title": "Aaron Rodgers Off Fantasy Radar in Week 3",
+        "topic_id": "1409428390586351616",
+        "url": "https://www.rotoballer.com/player-news/aaron-rodgers-off-fantasy-radar-in-week-3/1950889"
+      },
+      "nfl_team": "PIT",
+      "player_id": "96",
+      "player_name": "Aaron Rodgers",
+      "position": "QB",
+      "published": 1790381530000,
+      "source": "rotoballer",
+      "source_key": "222276",
+      "story_id": "nfl|96|rotoballer|222276|1790381530000",
+      "title": "Aaron Rodgers Off Fantasy Radar in Week 3",
+      "url": "https://www.rotoballer.com/player-news/aaron-rodgers-off-fantasy-radar-in-week-3/1950889"
+    },
     {
       "analysis": "Wilson ended up logging 21 carries for 92 yards during the Seahawks' Week 2 win over the Cardinals, with most of those touches coming after Price left the game in the fourth quarter due to a chest injury. Price has been cleared to play against Washington, so Wilson and George Holani will provide backfield depth for Sunday's road tilt.",
       "description": "Wilson will be the Seahawks' RB2 for Sunday's game against the Commanders after Jadarian Price (chest) was cleared to play, John Boyle of the Seahawks' official site reports.",
@@ -68,6 +277,26 @@
       "story_id": "nfl|11435|rotowire|639217|1790379107000",
       "title": "Emanuel Wilson - Remaining as RB2 for Week 3",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints running back Travis Etienne Jr. carried the ball just eight times for 25 yards and added two receptions for six yards in Week 2's victory over the Ravens. The lack of production and usage coincided with the return of fellow running back Alvin Kamara, who, despite playing fewer snaps (37-20), out-touched Etienne Jr. 14-10. He now faces a Raiders defense that is giving up 100.5 rushing yards per game and has only allowed a running back to score once through two weeks. Head coach Kellen Moore seems content with a split backfield, which does not bode well for fantasy managers. Until he can separate himself as the clear featured back, he should be viewed as more of a low-end RB2 or FLEX option.",
+      "metadata": {
+        "description": "New Orleans Saints running back Travis Etienne Jr. carried the ball just eight times for 25 yards and added two receptions for six yards in Week 2's victory over the Ravens. The lack of production and usage coincided with the return of fellow running back Alvin Kamara, who, despite playing fewer snaps (37-20), out-touched Etienne Jr. 14-10. He now faces a Raiders defense that is giving up 100.5 rushing yards per game and has only allowed a running back to score once through two weeks. Head coach Kellen Moore seems content with a split backfield, which does not bode well for fantasy managers. Until he can separate himself as the clear featured back, he should be viewed as more of a low-end RB2 or FLEX option.",
+        "title": "Travis Etienne Jr. Remains in Split Backfield Heading Into Week 3",
+        "topic_id": "1409417065479028736",
+        "url": "https://www.rotoballer.com/player-news/travis-etienne-jr-remains-in-split-backfield-heading-into-week-3/1950870"
+      },
+      "nfl_team": "NO",
+      "player_id": "7543",
+      "player_name": "Travis Etienne",
+      "position": "RB",
+      "published": 1790378775000,
+      "source": "rotoballer",
+      "source_key": "222275",
+      "story_id": "nfl|7543|rotoballer|222275|1790378775000",
+      "title": "Travis Etienne Jr. Remains in Split Backfield Heading Into Week 3",
+      "url": "https://www.rotoballer.com/player-news/travis-etienne-jr-remains-in-split-backfield-heading-into-week-3/1950870"
     },
     {
       "analysis": "After Darnold suffered a right glute injury on Seattle's first possession of the season Week 1 against the Patriots, Lock directed the offense for the next seven-plus quarters, leading the team to two victories while completing 35 of 48 passes (73 percent) for 422 yards, four touchdowns and no interceptions and rushing twice for 13 yards. With Darnold back in action this weekend, though, Lock's time as the starter is over for now.",
@@ -90,6 +319,66 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Detroit Lions kicker Jake Bates has been perfect to open 2026, making both of his field goal attempts and converting all eight of his extra-point tries through two games. In Week 3, Bates and the Lions will host the New York Jets. The Jets defense has been stingy early in the year, allowing just 15 points per game across their first two contests. While the Lions have put up points on offense so far this year, their efficiency in the red zone has actually hurt Bates in that he hasn't had many chances to kick field goals yet. Still, the strong Jets defense could slow Detroit down and keep them out of the end zone. Bates also has the advantage of kicking indoors at Ford Field, taking any potential weather concerns out of play. In Week 3, Bates profiles as a low-end starting kicker option for fantasy managers.",
+      "metadata": {
+        "description": "Detroit Lions kicker Jake Bates has been perfect to open 2026, making both of his field goal attempts and converting all eight of his extra-point tries through two games. In Week 3, Bates and the Lions will host the New York Jets. The Jets defense has been stingy early in the year, allowing just 15 points per game across their first two contests. While the Lions have put up points on offense so far this year, their efficiency in the red zone has actually hurt Bates in that he hasn't had many chances to kick field goals yet. Still, the strong Jets defense could slow Detroit down and keep them out of the end zone. Bates also has the advantage of kicking indoors at Ford Field, taking any potential weather concerns out of play. In Week 3, Bates profiles as a low-end starting kicker option for fantasy managers.",
+        "title": "Jake Bates a Low-End Starting Kicker Option in Week 3",
+        "topic_id": "1409406999090704384",
+        "url": "https://www.rotoballer.com/player-news/jake-bates-a-low-end-starting-kicker-option-in-week-3/1950862"
+      },
+      "nfl_team": "DET",
+      "player_id": "11539",
+      "player_name": "Jake Bates",
+      "position": "K",
+      "published": 1790376732000,
+      "source": "rotoballer",
+      "source_key": "222272",
+      "story_id": "nfl|11539|rotoballer|222272|1790376732000",
+      "title": "Jake Bates a Low-End Starting Kicker Option in Week 3",
+      "url": "https://www.rotoballer.com/player-news/jake-bates-a-low-end-starting-kicker-option-in-week-3/1950862"
+    },
+    {
+      "analysis": null,
+      "description": "Across two games so far in 2026, Detroit Lions tight end Sam LaPorta has recorded 11 catches for 100 yards and a touchdown on 15 targets. The 25-year-old has established himself as the number two option in the Lions' passing game, behind only star wideout Amon-Ra St. Brown. In Week 3, LaPorta will square off against a New York Jets defense that currently ranks second in the NFL in both total passing yards (285) and yards per pass attempt (4.7) allowed. The Jets did a nice job against Green Bay Packers tight end Tucker Kraft in Week 2, holding him to 15 receiving yards on two catches. Still, the Lions may be forced into a pass-heavy game script by their struggling defense, which has been one of the worst in the NFL so far. As long as he continues to see adequate target volume, LaPorta profiles as a steady TE1 option for fantasy managers in Week 3.",
+      "metadata": {
+        "description": "Across two games so far in 2026, Detroit Lions tight end Sam LaPorta has recorded 11 catches for 100 yards and a touchdown on 15 targets. The 25-year-old has established himself as the number two option in the Lions' passing game, behind only star wideout Amon-Ra St. Brown. In Week 3, LaPorta will square off against a New York Jets defense that currently ranks second in the NFL in both total passing yards (285) and yards per pass attempt (4.7) allowed. The Jets did a nice job against Green Bay Packers tight end Tucker Kraft in Week 2, holding him to 15 receiving yards on two catches. Still, the Lions may be forced into a pass-heavy game script by their struggling defense, which has been one of the worst in the NFL so far. As long as he continues to see adequate target volume, LaPorta profiles as a steady TE1 option for fantasy managers in Week 3.",
+        "title": "Sam LaPorta Well-Positioned for Continued Success in Week 3",
+        "topic_id": "1409406999090704385",
+        "url": "https://www.rotoballer.com/player-news/sam-laporta-well-positioned-for-continued-success-in-week-3/1950860"
+      },
+      "nfl_team": "DET",
+      "player_id": "10859",
+      "player_name": "Sam LaPorta",
+      "position": "TE",
+      "published": 1790376675000,
+      "source": "rotoballer",
+      "source_key": "222273",
+      "story_id": "nfl|10859|rotoballer|222273|1790376675000",
+      "title": "Sam LaPorta Well-Positioned for Continued Success in Week 3",
+      "url": "https://www.rotoballer.com/player-news/sam-laporta-well-positioned-for-continued-success-in-week-3/1950860"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints quarterback Tyler Shough completed 27-of-34 passes for 252 yards and a touchdown in Week 2's 24-17 victory over the Baltimore Ravens. Shough orchestrated the offense beautifully, adding an additional nine carries for 23 yards and another score. Through two weeks, Shough has a league-high 662 passing yards, four touchdowns, and a 68.9% completion rate, and comes in as QB5 in fantasy. He faces a Raiders defense that has allowed the 9th-fewest points to opposing quarterbacks, including just one passing touchdown while forcing three interceptions through two games. Shough is playing with plenty of confidence, and the momentum he has gained to start the season lands him as QB10 on RotoBaller's rankings for Week 3.",
+      "metadata": {
+        "description": "New Orleans Saints quarterback Tyler Shough completed 27-of-34 passes for 252 yards and a touchdown in Week 2's 24-17 victory over the Baltimore Ravens. Shough orchestrated the offense beautifully, adding an additional nine carries for 23 yards and another score. Through two weeks, Shough has a league-high 662 passing yards, four touchdowns, and a 68.9% completion rate, and comes in as QB5 in fantasy. He faces a Raiders defense that has allowed the 9th-fewest points to opposing quarterbacks, including just one passing touchdown while forcing three interceptions through two games. Shough is playing with plenty of confidence, and the momentum he has gained to start the season lands him as QB10 on RotoBaller's rankings for Week 3.",
+        "title": "Tyler Shough Emerging as a Weekly QB1 Option",
+        "topic_id": "1409405740304658432",
+        "url": "https://www.rotoballer.com/player-news/tyler-shough-emerging-as-a-weekly-qb1-option/1950849"
+      },
+      "nfl_team": "NO",
+      "player_id": "12545",
+      "player_name": "Tyler Shough",
+      "position": "QB",
+      "published": 1790376076000,
+      "source": "rotoballer",
+      "source_key": "222271",
+      "story_id": "nfl|12545|rotoballer|222271|1790376076000",
+      "title": "Tyler Shough Emerging as a Weekly QB1 Option",
+      "url": "https://www.rotoballer.com/player-news/tyler-shough-emerging-as-a-weekly-qb1-option/1950849"
+    },
+    {
       "analysis": "After Saquon Barkley suffered a stinger this past Sunday at Tennessee, the initial question surrounded who between Bigsby and fellow RB Will Shipley (foot) was slated for more work in the short term. However, Barkley already has progressed to full participation as of Friday, while Bigsby and Shipley followed up absences Thursday with some on-field work one day later. As a result, whoever is the healthiest of the two likely will be the best bet to earn complementary reps out of the Eagles backfield Monday in Chicago.",
       "description": "Bigsby (abdomen) was limited at practice Friday.",
       "metadata": {
@@ -110,6 +399,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Jacksonville Jaguars tight end Brenton Strange hasn't been quite as viable a fantasy option as some fantasy managers might've thought coming into the season. Strange hauled in two receptions for 23 yards and a touchdown in the season opener. He followed that up with two catches for 17 yards last week. Quarterback Trevor Lawrence has been focusing on passing to his receivers, and that's likely going to remain the script for the upcoming Week 3 matchup against the New England Patriots. With the Jags healthy at wide receiver, Strange is likely going to be an afterthought most weeks. He'll be a touchdown-dependent option against the Patriots this weekend.",
+      "metadata": {
+        "description": "Jacksonville Jaguars tight end Brenton Strange hasn't been quite as viable a fantasy option as some fantasy managers might've thought coming into the season. Strange hauled in two receptions for 23 yards and a touchdown in the season opener. He followed that up with two catches for 17 yards last week. Quarterback Trevor Lawrence has been focusing on passing to his receivers, and that's likely going to remain the script for the upcoming Week 3 matchup against the New England Patriots. With the Jags healthy at wide receiver, Strange is likely going to be an afterthought most weeks. He'll be a touchdown-dependent option against the Patriots this weekend.",
+        "title": "Brenton Strange a Touchdown-Dependent Option",
+        "topic_id": "1409404481703100416",
+        "url": "https://www.rotoballer.com/player-news/brenton-strange-is-touchdown-dependent-option/1950847"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9480",
+      "player_name": "Brenton Strange",
+      "position": "TE",
+      "published": 1790375946000,
+      "source": "rotoballer",
+      "source_key": "222270",
+      "story_id": "nfl|9480|rotoballer|222270|1790375946000",
+      "title": "Brenton Strange a Touchdown-Dependent Option",
+      "url": "https://www.rotoballer.com/player-news/brenton-strange-is-touchdown-dependent-option/1950847"
+    },
+    {
       "analysis": "Goedert has yet to log any on-field work since emerging from a Week 2 win in Tennessee with an apparent MCL sprain, which typically requires multiple weeks to recover from. The Eagles haven't officially ruled him out for Monday's game at Chicago, but Saturday's injury report should provide clarity on his status for at least Week 3. In Goedert's likely absence, Johnny Mundt, E.J. Jenkins and practice-squad member Zach Ertz will be the candidates to fill in at tight end.",
       "description": "Goedert (knee) didn't practice Friday.",
       "metadata": {
@@ -128,6 +437,26 @@
       "story_id": "nfl|5022|rotowire|639198|1790375617000",
       "title": "Dallas Goedert - No practice again Friday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars wide receiver/defensive back Travis Hunter has barely seen the field as a wideout this season. The 23-year-old recorded one catch for eight yards in the season opener. Hunter did nothing in Week 2, but he played 10 percent of the offensive snaps during the loss to the Denver Broncos. It seems unlikely that Hunter is going to have a legitimate weekly role in this passing attack. The Jaguars have too many good options ahead of him, and Hunter gets lost in the shuffle. The Jaguars will likely have certain offensive packages for Hunter, but it won't be enough to start him in any fantasy leagues as a receiver.",
+      "metadata": {
+        "description": "Jacksonville Jaguars wide receiver/defensive back Travis Hunter has barely seen the field as a wideout this season. The 23-year-old recorded one catch for eight yards in the season opener. Hunter did nothing in Week 2, but he played 10 percent of the offensive snaps during the loss to the Denver Broncos. It seems unlikely that Hunter is going to have a legitimate weekly role in this passing attack. The Jaguars have too many good options ahead of him, and Hunter gets lost in the shuffle. The Jaguars will likely have certain offensive packages for Hunter, but it won't be enough to start him in any fantasy leagues as a receiver.",
+        "title": "Travis Hunter Continues Losing Steam",
+        "topic_id": "1409401964671913984",
+        "url": "https://www.rotoballer.com/player-news/travis-hunter-continues-losing-steam/1950844"
+      },
+      "nfl_team": "JAX",
+      "player_id": "12530",
+      "player_name": "Travis Hunter",
+      "position": "DB",
+      "published": 1790375408000,
+      "source": "rotoballer",
+      "source_key": "222269",
+      "story_id": "nfl|12530|rotoballer|222269|1790375408000",
+      "title": "Travis Hunter Continues Losing Steam",
+      "url": "https://www.rotoballer.com/player-news/travis-hunter-continues-losing-steam/1950844"
     },
     {
       "analysis": "After sitting out Thursday's practice due to a hamstring issue, Smith returned to the field one day later and logged some individual drills before running on a side field, per Brooks Kubena of The Athletic. Smith thus still has some work to do to prove his health ahead of Monday's game at Chicago, and Saturday's injury report will reveal whether or not he has a designation for Week 3 action.",
@@ -189,6 +518,26 @@
       "story_id": "nfl|4866|rotowire|639194|1790374970000",
       "title": "Saquon Barkley - Full practice Friday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Two games into his 2026 season, Detroit Lions wide receiver Isaac TeSlaa has recorded two catches for 26 yards on six targets. The 24-year-old has established himself as the clear WR3 in Detroit, playing 68% of his team's offensive snaps in Week 1 and 75% of the snaps in Week 2. However, the Lions have several pass-catchers ahead of TeSlaa on the target pecking order in wide receivers Amon-Ra St. Brown and Jameson Williams, tight end Sam LaPorta, and running back Jahmyr Gibbs. As long as those guys remain healthy, TeSlaa is unlikely to play a fantasy-relevant role in Detroit. Making matters even more challenging for TeSlaa, the Lions face a New York Jets defense in Week 3 that currently ranks second in the NFL in both total passing yards (285) and yards per pass attempt (4.7) allowed. All in all, fantasy managers should avoid TeSlaa on Sunday.",
+      "metadata": {
+        "description": "Two games into his 2026 season, Detroit Lions wide receiver Isaac TeSlaa has recorded two catches for 26 yards on six targets. The 24-year-old has established himself as the clear WR3 in Detroit, playing 68% of his team's offensive snaps in Week 1 and 75% of the snaps in Week 2. However, the Lions have several pass-catchers ahead of TeSlaa on the target pecking order in wide receivers Amon-Ra St. Brown and Jameson Williams, tight end Sam LaPorta, and running back Jahmyr Gibbs. As long as those guys remain healthy, TeSlaa is unlikely to play a fantasy-relevant role in Detroit. Making matters even more challenging for TeSlaa, the Lions face a New York Jets defense in Week 3 that currently ranks second in the NFL in both total passing yards (285) and yards per pass attempt (4.7) allowed. All in all, fantasy managers should avoid TeSlaa on Sunday.",
+        "title": "Isaac TeSlaa Remains a Risky Start in Week 3",
+        "topic_id": "1409399448194322432",
+        "url": "https://www.rotoballer.com/player-news/isaac-teslaa-remains-a-risky-start-in-week-3/1950835"
+      },
+      "nfl_team": "DET",
+      "player_id": "12535",
+      "player_name": "Isaac TeSlaa",
+      "position": "WR",
+      "published": 1790374689000,
+      "source": "rotoballer",
+      "source_key": "222267",
+      "story_id": "nfl|12535|rotoballer|222267|1790374689000",
+      "title": "Isaac TeSlaa Remains a Risky Start in Week 3",
+      "url": "https://www.rotoballer.com/player-news/isaac-teslaa-remains-a-risky-start-in-week-3/1950835"
     },
     {
       "analysis": "Rice's knee injury is nothing more than a minor issue at this point and won't affect his availability for Week 3. Fantasy managers should be starting him this week, though maybe expectations should be tempered for him after an underwhelming first two games of the season.",
@@ -274,6 +623,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "A second-round pick in the 2025 NFL Draft, Las Vegas Raiders wide receiver Jack Bech recorded just 20 catches for 224 yards on 29 targets across 16 games as a rookie. Two games into his second NFL season, Bech does not appear to be on track for a major breakout. The 23-year-old did record his first career touchdown catch in Week 1, but he's collected just five receptions for 48 yards on six targets in total. Bech has played fewer snaps than veteran Raiders wideouts Tre Tucker and Jalen Nailor, neither of whom has an established track record as a truly impactful pass-catcher. With star Raiders tight end Brock Bowers (knee) potentially set to return from knee surgery in Week 3, Bech's role in the Raiders offense could shrink even further in the games to come. At this point, Bech can remain off the radar of fantasy managers in redraft leagues.",
+      "metadata": {
+        "description": "A second-round pick in the 2025 NFL Draft, Las Vegas Raiders wide receiver Jack Bech recorded just 20 catches for 224 yards on 29 targets across 16 games as a rookie. Two games into his second NFL season, Bech does not appear to be on track for a major breakout. The 23-year-old did record his first career touchdown catch in Week 1, but he's collected just five receptions for 48 yards on six targets in total. Bech has played fewer snaps than veteran Raiders wideouts Tre Tucker and Jalen Nailor, neither of whom has an established track record as a truly impactful pass-catcher. With star Raiders tight end Brock Bowers (knee) potentially set to return from knee surgery in Week 3, Bech's role in the Raiders offense could shrink even further in the games to come. At this point, Bech can remain off the radar of fantasy managers in redraft leagues.",
+        "title": "Jack Bech's Role in Raiders Passing Game Set to Shrink?",
+        "topic_id": "1409391897507610624",
+        "url": "https://www.rotoballer.com/player-news/jack-bechs-role-in-raiders-passing-game-set-to-shrink/1950821"
+      },
+      "nfl_team": "LV",
+      "player_id": "12483",
+      "player_name": "Jack Bech",
+      "position": "WR",
+      "published": 1790372837000,
+      "source": "rotoballer",
+      "source_key": "222264",
+      "story_id": "nfl|12483|rotoballer|222264|1790372837000",
+      "title": "Jack Bech's Role in Raiders Passing Game Set to Shrink?",
+      "url": "https://www.rotoballer.com/player-news/jack-bechs-role-in-raiders-passing-game-set-to-shrink/1950821"
+    },
+    {
       "analysis": "The veteran wideout may be sidelined this week, as he is officially questionable to play due to a hip injury that he's dealing with. If he is ruled out prior to the start of the game, expect George Kittle and Deebo Samuel Sr. to have a lot of involvement against the Cardinals.",
       "description": "Mike Evans (hip) is questionable to play in Sunday's game against the Arizona Cardinals.",
       "metadata": {
@@ -335,6 +704,26 @@
       "story_id": "nfl|12487|fantasy_pros|610689|1790372723648",
       "title": "Terrance Ferguson (ankle) good to go for Sunday",
       "url": "https://www.fantasypros.com/nfl/news/610689/terrance-ferguson-ankle-good-to-go-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "After missing his team's season opener because of a knee injury, Tampa Bay Buccaneers wide receiver Jalen McMillan returned to the field in Week 2. However, the third-year wideout was hardly utilized, playing just seven offensive snaps and failing to earn a single target. McMillan missed most of training camp with the knee issue, and Tampa Bay may simply be working him back in slowly. Still, the 24-year-old missed nearly the entire 2025 season due to a neck injury, so it's been a while since he was a regular contributor for the Bucs. The Buccaneers also have other options in their wide receiver room. Emeka Egbuka and Chris Godwin Jr. are locked into the WR1 and WR2 roles, and youngsters Ted Hurst III and Tez Johnson have flashed upside as well. At least in the short term, McMillan should remain off the radar of fantasy managers.",
+      "metadata": {
+        "description": "After missing his team's season opener because of a knee injury, Tampa Bay Buccaneers wide receiver Jalen McMillan returned to the field in Week 2. However, the third-year wideout was hardly utilized, playing just seven offensive snaps and failing to earn a single target. McMillan missed most of training camp with the knee issue, and Tampa Bay may simply be working him back in slowly. Still, the 24-year-old missed nearly the entire 2025 season due to a neck injury, so it's been a while since he was a regular contributor for the Bucs. The Buccaneers also have other options in their wide receiver room. Emeka Egbuka and Chris Godwin Jr. are locked into the WR1 and WR2 roles, and youngsters Ted Hurst III and Tez Johnson have flashed upside as well. At least in the short term, McMillan should remain off the radar of fantasy managers.",
+        "title": "Jalen McMillan Plays Limited Role in Return from Injury",
+        "topic_id": "1409388122617217024",
+        "url": "https://www.rotoballer.com/player-news/jalen-mcmillan-plays-limited-role-in-return-from-injury/1950795"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1790371930000,
+      "source": "rotoballer",
+      "source_key": "222263",
+      "story_id": "nfl|11618|rotoballer|222263|1790371930000",
+      "title": "Jalen McMillan Plays Limited Role in Return from Injury",
+      "url": "https://www.rotoballer.com/player-news/jalen-mcmillan-plays-limited-role-in-return-from-injury/1950795"
     },
     {
       "analysis": "Okonkwo wasn't able to practice in any capacity for a second week in row due to the hamstring injury that he suffered Week 1 at Philadelphia and thus will miss his second consecutive game. With Okonkwo sidelined again, Ben Sinnott, John Bates and Colson Yankoff will be the tight ends available to the Commanders offense and QB Marcus Mariota in Week 3.",
@@ -418,6 +807,26 @@
       "story_id": "nfl|12489|fantasy_pros|610671|1790370923464",
       "title": "RJ Harvey (hamstring) will play Sunday",
       "url": "https://www.fantasypros.com/nfl/news/610671/rj-harvey-hamstring-will-play-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans running back David Montgomery put together a huge fantasy day in Week 1, scoring three touchdowns against the Buffalo Bills. However, the 29-year-old was unable to get anything going in his team's Week 2 loss to the Cincinnati Bengals, rushing for 10 yards on six carries and recording two catches for 14 yards. While Montgomery's three touchdowns prop up his overall stat line, he's averaged just 2.7 yards per carry while rushing behind a struggling Texans' offensive line. Perhaps most concerningly for fantasy managers, Houston has split its backfield snaps almost exactly evenly between Montgomery and second-year back Woody Marks. If that continues, Montgomery will likely be highly reliant on touchdowns for fantasy production. Heading into Week 3, Montgomery's status as a no-doubt top-24 running back looks a little less certain.",
+      "metadata": {
+        "description": "Houston Texans running back David Montgomery put together a huge fantasy day in Week 1, scoring three touchdowns against the Buffalo Bills. However, the 29-year-old was unable to get anything going in his team's Week 2 loss to the Cincinnati Bengals, rushing for 10 yards on six carries and recording two catches for 14 yards. While Montgomery's three touchdowns prop up his overall stat line, he's averaged just 2.7 yards per carry while rushing behind a struggling Texans' offensive line. Perhaps most concerningly for fantasy managers, Houston has split its backfield snaps almost exactly evenly between Montgomery and second-year back Woody Marks. If that continues, Montgomery will likely be highly reliant on touchdowns for fantasy production. Heading into Week 3, Montgomery's status as a no-doubt top-24 running back looks a little less certain.",
+        "title": "David Montgomery Facing Workload Concerns in Houston?",
+        "topic_id": "1409381830334963712",
+        "url": "https://www.rotoballer.com/player-news/david-montgomery-facing-workload-concerns-in-houston/1950783"
+      },
+      "nfl_team": "HOU",
+      "player_id": "5892",
+      "player_name": "David Montgomery",
+      "position": "RB",
+      "published": 1790370676000,
+      "source": "rotoballer",
+      "source_key": "222261",
+      "story_id": "nfl|5892|rotoballer|222261|1790370676000",
+      "title": "David Montgomery Facing Workload Concerns in Houston?",
+      "url": "https://www.rotoballer.com/player-news/david-montgomery-facing-workload-concerns-in-houston/1950783"
     },
     {
       "analysis": "Evans returned to drills Friday after sitting out the previous two days due to a hip injury, which has left his status up in the air ahead of Sunday's matchup. His status should receive some clarity about 90 minutes before a 4:05 p.m. ET kickoff.",
@@ -1720,10 +2129,10 @@
       "url": "https://www.rotoballer.com/player-news/kaelon-black-could-get-more-opportunities-in-week-3-vs-cardinals/1950714"
     },
     {
-      "analysis": "An absence from Friday's practice doesn't seem like the best sign, even with Kubiak downplaying it and essentially maintaining the positivity he's conveyed throughout the week. The Raiders presumably are aware that the mixed signals could be an annoyance for their opponent's defensive gameplanning. It's also a potential issue for fantasy managers ahead of a 4:25 p.m. ET kickoff in New Orleans this Sunday, though Kubiak did mention Friday that Bowers won't go through a pregame workout to determine his status. It sounds like the Raiders will make a decision before Sunday, if they haven't already, but they may want to keep it close to the vest until gameday.",
+      "analysis": "An absence from Friday's practice doesn't seem like the best sign, even with Kubiak downplaying it and essentially maintaining the positivity he's conveyed throughout the week. The Raiders presumably are aware that the mixed signals could be an annoyance for their opponent's defensive game planning. It's also a potential issue for fantasy managers ahead of a 4:25 p.m. ET kickoff in New Orleans this Sunday, though Kubiak told Warren on Friday that Bowers won't go through a pregame workout to determine his status. It sounds like the Raiders will make a decision before Sunday, if they haven't already, but they may want to keep it close to the vest until game day.",
       "description": "Bowers (knee) is listed as questionable for Sunday's game against the Saints, with head coach Klint Kubiak telling reporters that the tight end's absence from Friday's practice was planned, Sam Warren of The Athletic reports.",
       "metadata": {
-        "analysis": "An absence from Friday's practice doesn't seem like the best sign, even with Kubiak downplaying it and essentially maintaining the positivity he's conveyed throughout the week. The Raiders presumably are aware that the mixed signals could be an annoyance for their opponent's defensive gameplanning. It's also a potential issue for fantasy managers ahead of a 4:25 p.m. ET kickoff in New Orleans this Sunday, though Kubiak did mention Friday that Bowers won't go through a pregame workout to determine his status. It sounds like the Raiders will make a decision before Sunday, if they haven't already, but they may want to keep it close to the vest until gameday.",
+        "analysis": "An absence from Friday's practice doesn't seem like the best sign, even with Kubiak downplaying it and essentially maintaining the positivity he's conveyed throughout the week. The Raiders presumably are aware that the mixed signals could be an annoyance for their opponent's defensive game planning. It's also a potential issue for fantasy managers ahead of a 4:25 p.m. ET kickoff in New Orleans this Sunday, though Kubiak told Warren on Friday that Bowers won't go through a pregame workout to determine his status. It sounds like the Raiders will make a decision before Sunday, if they haven't already, but they may want to keep it close to the vest until game day.",
         "description": "Bowers (knee) is listed as questionable for Sunday's game against the Saints, with head coach Klint Kubiak telling reporters that the tight end's absence from Friday's practice was planned, Sam Warren of The Athletic reports.",
         "title": "Brock Bowers - Listed as questionable for Sunday",
         "topic_id": "1409287453394599937"
@@ -2572,6 +2981,27 @@
       "url": "https://www.fantasypros.com/nfl/news/610554/dj-moore-shoulder-back-practice-friday.php"
     },
     {
+      "analysis": "Raridon is on the injury report with a thigh issue. He remains off the fantasy radar in his current role. ",
+      "description": "Eli Raridon is listed as questionable for Sunday's game against the Jaguars. ",
+      "metadata": {
+        "analysis": "Raridon is on the injury report with a thigh issue. He remains off the fantasy radar in his current role. ",
+        "description": "Eli Raridon is listed as questionable for Sunday's game against the Jaguars. ",
+        "title": "Eli Raridon (thigh) listed questionable Sunday ",
+        "topic_id": "1409267413341503488",
+        "url": "https://www.fantasypros.com/nfl/news/610555/eli-raridon-thigh-listed-questionable-sunday.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "13421",
+      "player_name": "Eli Raridon",
+      "position": "TE",
+      "published": 1790358043572,
+      "source": "fantasy_pros",
+      "source_key": "610555",
+      "story_id": "nfl|13421|fantasy_pros|610555|1790358043572",
+      "title": "Eli Raridon (thigh) listed questionable Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/610555/eli-raridon-thigh-listed-questionable-sunday.php"
+    },
+    {
       "analysis": "Judkins landed on the injury report for personal reasons this week. He'll remain an RB2 off volume this week for fantasy managers. ",
       "description": "Quinshon Judkins is off the injury report for Sunday's game against the Panthers. ",
       "metadata": {
@@ -2817,10 +3247,10 @@
     },
     {
       "analysis": "Panthers head coach Dave Canales said Friday that he expects Coker to play, whereas No. 3 receiver Xavier Legette (knee) looks like a game-time decision ahead of the 1:00 p.m. ET kickoff Sunday, per Mike Kaye of ESPN.com. Coker has been dealing with an ankle injury since the first quarter of Carolina's season opener, and it thus far hasn't stopped him from looking like one of the breakout stars of the 2026 NFL campaign. Fantasy managers should check in Sunday morning to make sure Coker is active, though it sounds like only a last-minute setback could stop him at this point.",
-      "description": "Coker (ankle) is listed as questionable for Sunday's game, Steve Reed of the Associated Press reports.",
+      "description": "Coker (ankle) is listed as questionable for Sunday's game at Cleveland, Steve Reed of the Associated Press reports.",
       "metadata": {
         "analysis": "Panthers head coach Dave Canales said Friday that he expects Coker to play, whereas No. 3 receiver Xavier Legette (knee) looks like a game-time decision ahead of the 1:00 p.m. ET kickoff Sunday, per Mike Kaye of ESPN.com. Coker has been dealing with an ankle injury since the first quarter of Carolina's season opener, and it thus far hasn't stopped him from looking like one of the breakout stars of the 2026 NFL campaign. Fantasy managers should check in Sunday morning to make sure Coker is active, though it sounds like only a last-minute setback could stop him at this point.",
-        "description": "Coker (ankle) is listed as questionable for Sunday's game, Steve Reed of the Associated Press reports.",
+        "description": "Coker (ankle) is listed as questionable for Sunday's game at Cleveland, Steve Reed of the Associated Press reports.",
         "title": "Jalen Coker - Listed questionable for Sunday",
         "topic_id": "1409253565322502144"
       },
@@ -3054,6 +3484,26 @@
       "story_id": "nfl|6770|rotoballer|222192|1790353042000",
       "title": "Joe Burrow Facing Tough Steelers Defense In Week 3",
       "url": "https://www.rotoballer.com/player-news/joe-burrow-facing-tough-steelers-defense-in-week-3/1950511"
+    },
+    {
+      "analysis": null,
+      "description": "A seventh-round pick in the 2026 NFL Draft out of Navy, Pittsburgh Steelers running back Eli Heidenreich has yet to record his first NFL carry. However, the 23-year-old appears to be in line for an expanded role in his team's Week 3 matchup against the Cincinnati Bengals. Steelers running back Rico Dowdle (toe) has already been ruled out with a toe injury, and veteran back Jaylen Warren (shoulder) is officially questionable with a shoulder issue. If neither of Pittsburgh's top two running backs is available, Heidenreich could take over the majority of the team's backfield work on Sunday. Even if Warren plays, Heidenreich would be the next man up and could take on some secondary touches. Heading into Week 3, fantasy managers may want to consider stashing Heidenreich off the waiver wire.",
+      "metadata": {
+        "description": "A seventh-round pick in the 2026 NFL Draft out of Navy, Pittsburgh Steelers running back Eli Heidenreich has yet to record his first NFL carry. However, the 23-year-old appears to be in line for an expanded role in his team's Week 3 matchup against the Cincinnati Bengals. Steelers running back Rico Dowdle (toe) has already been ruled out with a toe injury, and veteran back Jaylen Warren (shoulder) is officially questionable with a shoulder issue. If neither of Pittsburgh's top two running backs is available, Heidenreich could take over the majority of the team's backfield work on Sunday. Even if Warren plays, Heidenreich would be the next man up and could take on some secondary touches. Heading into Week 3, fantasy managers may want to consider stashing Heidenreich off the waiver wire.",
+        "title": "Eli Heidenreich a Worthy Stash Candidate Amid Backfield Injuries",
+        "topic_id": "1409307585550569472",
+        "url": "https://www.rotoballer.com/player-news/eli-heidenreich-a-worthy-stash-candidate-amid-backfield-injuries-in-pittsburgh/1950504"
+      },
+      "nfl_team": "PIT",
+      "player_id": "13423",
+      "player_name": "Eli Heidenreich",
+      "position": "RB",
+      "published": 1790352926000,
+      "source": "rotoballer",
+      "source_key": "222189",
+      "story_id": "nfl|13423|rotoballer|222189|1790352926000",
+      "title": "Eli Heidenreich a Worthy Stash Candidate Amid Backfield Injuries",
+      "url": "https://www.rotoballer.com/player-news/eli-heidenreich-a-worthy-stash-candidate-amid-backfield-injuries-in-pittsburgh/1950504"
     },
     {
       "analysis": "Spears didn't practice Wednesday or Thursday, but a return to limited participation at the end of the week suggests he has a shot to play this Sunday against Cleveland. Fellow Titans running back Tony Pollard (ankle) is upgrading to full participation Friday, so he appears ready to start and take most of the carries.",
@@ -4792,6 +5242,26 @@
       "story_id": "nfl|12501|rotoballer|222128|1790296207000",
       "title": "Matthew Golden Hits the Century Mark, Leads Team in Targets",
       "url": "https://www.rotoballer.com/player-news/matthew-golden-hits-the-century-mark-leads-team-in-targets/1949874"
+    },
+    {
+      "analysis": "Raridon was injured in Sunday's 20-3 win over the Steelers. He practiced in a limited capacity Wednesday. However, the 22-year-old appeared to take a step back by missing Thursday's session. Raridon will have another opportunity to practice Friday or else he may carry an injury designation ahead of the Week 3 meeting with Jacksonville. The rookie appeared in both of the Patriots' games to begin the 2026 campaign, catching both targets for 32 yards and one touchdown.",
+      "description": "Raridon (thigh) did not practice Thursday.",
+      "metadata": {
+        "analysis": "Raridon was injured in Sunday's 20-3 win over the Steelers. He practiced in a limited capacity Wednesday. However, the 22-year-old appeared to take a step back by missing Thursday's session. Raridon will have another opportunity to practice Friday or else he may carry an injury designation ahead of the Week 3 meeting with Jacksonville. The rookie appeared in both of the Patriots' games to begin the 2026 campaign, catching both targets for 32 yards and one touchdown.",
+        "description": "Raridon (thigh) did not practice Thursday.",
+        "title": "Eli Raridon - Doesn't practice Thursday",
+        "topic_id": "1409008064861933568"
+      },
+      "nfl_team": "NE",
+      "player_id": "13421",
+      "player_name": "Eli Raridon",
+      "position": "TE",
+      "published": 1790296012000,
+      "source": "rotowire",
+      "source_key": "639049",
+      "story_id": "nfl|13421|rotowire|639049|1790296012000",
+      "title": "Eli Raridon - Doesn't practice Thursday",
+      "url": null
     },
     {
       "analysis": null,
@@ -95533,6 +96003,26 @@
     },
     {
       "analysis": null,
+      "description": "While the top of the Steelers running back depth chart has provided spirited debate among the fantasy community for much of the offseason, the team's third spot is also very much up for grabs, and during Thursday night's preseason loss to the Bills, rookie Eli Heidenreich put in a strong claim, leading the team with nine carries. Heidenreich opened up the second half scoring, capping off an 11-play, 68-yard drive by following his blockers and fighting through contact for a nine-yard touchdown run off the right side. While the exact order might still be contested, Jaylen Warren and Rico Dowdle are locked in as the Steelers' top two running backs, leaving Heidenreich battling with fourth-year player Lew Nichols and 2025 third-round pick Kaleb Johnson for the third spot in the room. Nichols has been the most consistent runner throughout the preseason, but after catching 90 passes across his final two seasons with Navy and adding further versatility in the return game, Heidenreich could force his way onto the team's initial 53-man roster. Even still, without a number of catastrophic injuries ahead of him, the seventh-round pick is unlikely to see fantasy relevance in 2026.",
+      "metadata": {
+        "description": "While the top of the Steelers running back depth chart has provided spirited debate among the fantasy community for much of the offseason, the team's third spot is also very much up for grabs, and during Thursday night's preseason loss to the Bills, rookie Eli Heidenreich put in a strong claim, leading the team with nine carries. Heidenreich opened up the second half scoring, capping off an 11-play, 68-yard drive by following his blockers and fighting through contact for a nine-yard touchdown run off the right side. While the exact order might still be contested, Jaylen Warren and Rico Dowdle are locked in as the Steelers' top two running backs, leaving Heidenreich battling with fourth-year player Lew Nichols and 2025 third-round pick Kaleb Johnson for the third spot in the room. Nichols has been the most consistent runner throughout the preseason, but after catching 90 passes across his final two seasons with Navy and adding further versatility in the return game, Heidenreich could force his way onto the team's initial 53-man roster. Even still, without a number of catastrophic injuries ahead of him, the seventh-round pick is unlikely to see fantasy relevance in 2026.",
+        "title": "Eli Heidenreich Finds The End Zone in His Push for Steelers' RB3 Role",
+        "topic_id": "1399072664194183168",
+        "url": "https://www.rotoballer.com/player-news/eli-heidenreich-finds-the-end-zone-on-his-push-for-steelers-rb3-role/1918314"
+      },
+      "nfl_team": "PIT",
+      "player_id": "13423",
+      "player_name": "Eli Heidenreich",
+      "position": "RB",
+      "published": 1787912709000,
+      "source": "rotoballer",
+      "source_key": "219562",
+      "story_id": "nfl|13423|rotoballer|219562|1787912709000",
+      "title": "Eli Heidenreich Finds The End Zone in His Push for Steelers' RB3 Role",
+      "url": "https://www.rotoballer.com/player-news/eli-heidenreich-finds-the-end-zone-on-his-push-for-steelers-rb3-role/1918314"
+    },
+    {
+      "analysis": null,
       "description": "Pittsburgh Steelers rookie wide receiver Germie Bernard caught only one of his two passes in Thursday night's preseason loss to the Bills, but he made it count. Following an opening drive three-and-out by the Steelers and a muffed punt by the Bills, Pittsburgh began its second drive deep in Buffalo territory and took only one play to find paydirt. Lined up in one-on-one coverage against 2025 first-round pick Max Hairston, Bernard took a quick pass from Will Howard and muscled his way through to the end zone. \"I played running back for a very long time in my childhood,\" Bernard said after the game. \"I always had the ball in my hands. It just always translated and stayed with me.\" Bernard enters his rookie season seemingly locked out of the Steelers' third wide receiver spot by 2024 third-round pick Roman Wilson, but the versatility and playmaking that he has flashed throughout camp and on Thursday night could help him find the field and earn targets from Aaron Rodgers earlier than is customary for most rookies in the veteran's orbit. At RotoBaller's WR83, Bernard is not a player who needs to be targeted in 2026 drafts. Still, fantasy managers will need to monitor his early-season involvement and be ready to make a waiver claim if and when his role expands.",
       "metadata": {
         "description": "Pittsburgh Steelers rookie wide receiver Germie Bernard caught only one of his two passes in Thursday night's preseason loss to the Bills, but he made it count. Following an opening drive three-and-out by the Steelers and a muffed punt by the Bills, Pittsburgh began its second drive deep in Buffalo territory and took only one play to find paydirt. Lined up in one-on-one coverage against 2025 first-round pick Max Hairston, Bernard took a quick pass from Will Howard and muscled his way through to the end zone. \"I played running back for a very long time in my childhood,\" Bernard said after the game. \"I always had the ball in my hands. It just always translated and stayed with me.\" Bernard enters his rookie season seemingly locked out of the Steelers' third wide receiver spot by 2024 third-round pick Roman Wilson, but the versatility and playmaking that he has flashed throughout camp and on Thursday night could help him find the field and earn targets from Aaron Rodgers earlier than is customary for most rookies in the veteran's orbit. At RotoBaller's WR83, Bernard is not a player who needs to be targeted in 2026 drafts. Still, fantasy managers will need to monitor his early-season involvement and be ready to make a waiver claim if and when his role expands.",
@@ -95649,6 +96139,26 @@
       "source_key": "635010",
       "story_id": "nfl|11575|rotowire|635010|1787900542000",
       "title": "Ray Davis - Tough night in final exhibition contest",
+      "url": null
+    },
+    {
+      "analysis": "The rookie seventh-round pick showed some of his versatility by making a positive impression on special teams while also scoring Pittsburgh's only rushing TD of the night, taking a pitch from Drew Allar and churning his way through traffic from nine yards out in the third quarter. Heidenreich is fighting for a spot on the 53-man roster, but he curiously didn't catch a pass in the preseason despite that being his main strength in college, making it tough to evaluate his chances of sticking around behind the clear top backfield duo of Jaylen Warren and Rico Dowdle.",
+      "description": "Heidenreich carried the ball nine times for 35 yards and a touchdown while adding 47 yards on two kickoff returns during Thursday's 28-27 preseason loss to Buffalo.",
+      "metadata": {
+        "analysis": "The rookie seventh-round pick showed some of his versatility by making a positive impression on special teams while also scoring Pittsburgh's only rushing TD of the night, taking a pitch from Drew Allar and churning his way through traffic from nine yards out in the third quarter. Heidenreich is fighting for a spot on the 53-man roster, but he curiously didn't catch a pass in the preseason despite that being his main strength in college, making it tough to evaluate his chances of sticking around behind the clear top backfield duo of Jaylen Warren and Rico Dowdle.",
+        "description": "Heidenreich carried the ball nine times for 35 yards and a touchdown while adding 47 yards on two kickoff returns during Thursday's 28-27 preseason loss to Buffalo.",
+        "title": "Eli Heidenreich - Gets into end zone against Bills",
+        "topic_id": "1398955777611292672"
+      },
+      "nfl_team": "PIT",
+      "player_id": "13423",
+      "player_name": "Eli Heidenreich",
+      "position": "RB",
+      "published": 1787899342000,
+      "source": "rotowire",
+      "source_key": "635007",
+      "story_id": "nfl|13423|rotowire|635007|1787899342000",
+      "title": "Eli Heidenreich - Gets into end zone against Bills",
       "url": null
     },
     {
@@ -97475,66 +97985,6 @@
       "story_id": "nfl|11564|rotoballer|219480|1787821989000",
       "title": "Drake Maye's Fantasy Environment Has Only Gotten Better",
       "url": "https://www.rotoballer.com/player-news/drake-mayes-fantasy-environment-has-only-gotten-better/1917402"
-    },
-    {
-      "analysis": null,
-      "description": "Detroit Lions running back Jahmyr Gibbs has emerged as a superstar in the NFL, ranking as a top-three fantasy running back in each of the last two seasons. The Lions' backfield looks a little different this year now that Isiah Pacheco has replaced David Montgomery, but the vision for Gibbs should look pretty similar. He remains the undisputed lead back, offering a spectacular ability to run the ball, catch passes, score touchdowns, and even block a little. Pacheco should mix in on short-yardage opportunities, but it's worth noting that Montgomery did the same in Detroit, and Gibbs still scored 38 touchdowns over the last two years. In other words, we're not worried at all about Pacheco's presence. In fact, it could help Gibbs over the long run, as it keeps him fresh and healthy for the full 17-game span. He hasn't missed a single regular-season game since his rookie season in 2023. The University of Alabama product ranks as the RB1 in RotoBaller's latest fantasy football rankings for 2026, ahead of even Bijan Robinson and Christian McCaffrey.",
-      "metadata": {
-        "description": "Detroit Lions running back Jahmyr Gibbs has emerged as a superstar in the NFL, ranking as a top-three fantasy running back in each of the last two seasons. The Lions' backfield looks a little different this year now that Isiah Pacheco has replaced David Montgomery, but the vision for Gibbs should look pretty similar. He remains the undisputed lead back, offering a spectacular ability to run the ball, catch passes, score touchdowns, and even block a little. Pacheco should mix in on short-yardage opportunities, but it's worth noting that Montgomery did the same in Detroit, and Gibbs still scored 38 touchdowns over the last two years. In other words, we're not worried at all about Pacheco's presence. In fact, it could help Gibbs over the long run, as it keeps him fresh and healthy for the full 17-game span. He hasn't missed a single regular-season game since his rookie season in 2023. The University of Alabama product ranks as the RB1 in RotoBaller's latest fantasy football rankings for 2026, ahead of even Bijan Robinson and Christian McCaffrey.",
-        "title": "Jahmyr Gibbs Should Continue to Excel on a Large Workload",
-        "topic_id": "1398569490698006528",
-        "url": "https://www.rotoballer.com/player-news/jahmyr-gibbs-should-continue-to-excel-on-a-large-workload/1917316"
-      },
-      "nfl_team": "DET",
-      "player_id": "9221",
-      "player_name": "Jahmyr Gibbs",
-      "position": "RB",
-      "published": 1787792535000,
-      "source": "rotoballer",
-      "source_key": "219479",
-      "story_id": "nfl|9221|rotoballer|219479|1787792535000",
-      "title": "Jahmyr Gibbs Should Continue to Excel on a Large Workload",
-      "url": "https://www.rotoballer.com/player-news/jahmyr-gibbs-should-continue-to-excel-on-a-large-workload/1917316"
-    },
-    {
-      "analysis": null,
-      "description": "Las Vegas Raiders wide receiver Jack Bech only played three snaps in the first quarter of the team's second preseason game. However, he was likely used sparingly because he already has the primary slot receiver role locked up for the 2026 season. Bech caught a touchdown during Week 1 of the preseason, but according to Levi Edwards of the Raiders' official website, what has really solidified the receiver's role is his blocking ability. \"He's the best blocking wide receiver on the roster,\" Edwards wrote about Bech. \"He had a key block that led to a 53-yard rush from Mike Washington Jr. against the Arizona Cardinals. It's certainly a determining factor as to how Bech has remained the team's primary starting slot receiver throughout camp.\" All signs point to Bech getting a very healthy dose of snaps once the regular season arrives, which could put him onto the fantasy radar as a low-end WR3/flex in deeper leagues. At the moment, he's flying somewhat under the radar as the WR102 in RotoBaller's latest fantasy football rankings for 2026.",
-      "metadata": {
-        "description": "Las Vegas Raiders wide receiver Jack Bech only played three snaps in the first quarter of the team's second preseason game. However, he was likely used sparingly because he already has the primary slot receiver role locked up for the 2026 season. Bech caught a touchdown during Week 1 of the preseason, but according to Levi Edwards of the Raiders' official website, what has really solidified the receiver's role is his blocking ability. \"He's the best blocking wide receiver on the roster,\" Edwards wrote about Bech. \"He had a key block that led to a 53-yard rush from Mike Washington Jr. against the Arizona Cardinals. It's certainly a determining factor as to how Bech has remained the team's primary starting slot receiver throughout camp.\" All signs point to Bech getting a very healthy dose of snaps once the regular season arrives, which could put him onto the fantasy radar as a low-end WR3/flex in deeper leagues. At the moment, he's flying somewhat under the radar as the WR102 in RotoBaller's latest fantasy football rankings for 2026.",
-        "title": "Jack Bech Projected as the Primary Slot Receiver in Vegas",
-        "topic_id": "1398568232083808256",
-        "url": "https://www.rotoballer.com/player-news/jack-bech-projected-as-the-primary-slot-receiver-in-vegas/1917314"
-      },
-      "nfl_team": "LV",
-      "player_id": "12483",
-      "player_name": "Jack Bech",
-      "position": "WR",
-      "published": 1787792292000,
-      "source": "rotoballer",
-      "source_key": "219477",
-      "story_id": "nfl|12483|rotoballer|219477|1787792292000",
-      "title": "Jack Bech Projected as the Primary Slot Receiver in Vegas",
-      "url": "https://www.rotoballer.com/player-news/jack-bech-projected-as-the-primary-slot-receiver-in-vegas/1917314"
-    },
-    {
-      "analysis": null,
-      "description": "Cleveland Browns running back Dylan Sampson remains in the No. 2 spot on the depth chart, but he should still carve out a role this season as a key pass-catching option for veteran starting quarterback Deshaun Watson. Sampson had 33 catches for 271 receiving yards (and just 175 rushing yards) as a rookie last year. For the most part, he operated behind fellow rookie Quinshon Judkins and mostly saw the field on passing downs. Judkins is expected to be the lead back once Week 1 comes around, so the big question is whether Sampson can have enough involvement to get on the weekly fantasy radar. It's not as simple as Judkins getting the early downs and Sampson getting the passing downs, as the former is a very capable pass catcher, and the latter does earn some carries from time to time, too. For now, Sampson has a little bit of RB3/flex appeal in deeper full-PPR leagues, but in all other formats, he's a better fit as a handcuff for fantasy managers who already have Judkins on their roster. Sampson is the RB53 in RotoBaller's latest half-PPR and full-PPR draft rankings for the 2026 fantasy football season.",
-      "metadata": {
-        "description": "Cleveland Browns running back Dylan Sampson remains in the No. 2 spot on the depth chart, but he should still carve out a role this season as a key pass-catching option for veteran starting quarterback Deshaun Watson. Sampson had 33 catches for 271 receiving yards (and just 175 rushing yards) as a rookie last year. For the most part, he operated behind fellow rookie Quinshon Judkins and mostly saw the field on passing downs. Judkins is expected to be the lead back once Week 1 comes around, so the big question is whether Sampson can have enough involvement to get on the weekly fantasy radar. It's not as simple as Judkins getting the early downs and Sampson getting the passing downs, as the former is a very capable pass catcher, and the latter does earn some carries from time to time, too. For now, Sampson has a little bit of RB3/flex appeal in deeper full-PPR leagues, but in all other formats, he's a better fit as a handcuff for fantasy managers who already have Judkins on their roster. Sampson is the RB53 in RotoBaller's latest half-PPR and full-PPR draft rankings for the 2026 fantasy football season.",
-        "title": "Dylan Sampson Can be a Receiving Outlet for Veteran QB",
-        "topic_id": "1398566974526623744",
-        "url": "https://www.rotoballer.com/player-news/dylan-sampson-can-be-a-receiving-outlet-for-veteran-qb/1917309"
-      },
-      "nfl_team": "CLE",
-      "player_id": "12469",
-      "player_name": "Dylan Sampson",
-      "position": "RB",
-      "published": 1787791941000,
-      "source": "rotoballer",
-      "source_key": "219476",
-      "story_id": "nfl|12469|rotoballer|219476|1787791941000",
-      "title": "Dylan Sampson Can be a Receiving Outlet for Veteran QB",
-      "url": "https://www.rotoballer.com/player-news/dylan-sampson-can-be-a-receiving-outlet-for-veteran-qb/1917309"
     }
   ]
 }
