@@ -23589,7 +23589,7 @@
       ],
       "first_name": "Alec",
       "full_name": "Alec Pierce",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Pierce",
       "nfl_team": "IND",
       "player_id": "8142",
@@ -24520,8 +24520,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-26T05:37:36Z",
-    "source_fingerprint": "1ef4c27c071b77609871ecabc022d5698f310ba9cf71d7a5a2762358283bb7d1"
+    "last_changed_at": "2026-09-26T17:58:04Z",
+    "source_fingerprint": "7a80e1abec3e94d4b349945f299f590f0da3cd7d499d4f0c986c9280cfedc077"
   },
   "teams": [
     {
