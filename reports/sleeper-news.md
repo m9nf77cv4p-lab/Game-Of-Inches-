@@ -2,17 +2,25 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **4924**
-- Newly captured: **5**
+- Stored stories: **4906**
+- Newly captured: **4**
 
 ## Latest news
 
-- **NEW — Chris Brooks** — Chris Brooks - Zero carries in Week 3 loss (2026-09-27T00:37:13Z)
+- **Chris Brooks** — Chris Brooks - Zero carries in Week 3 loss (2026-09-27T00:37:13Z)
   - Brooks totalled 40 yards on 11 carries through the first two games of the regular season. However, he wasn't involved in the rushing game Thursday, though Kaleb Johnson and MarShawn Lloyd combined for only 17 yards on eight carries. Part of the Packers' struggles in the running game has to do with injuries to the offensive line, though it's hard to trust Brooks, Johnson or Lloyd for consistent production, even if Josh Jacobs (personal) continues to remain on the Commissioner's Exempt List. The Packers hit the road for a Week 4 tilt against the Buccaneers on Sunday, Oct. 4.
-- **NEW — Zachariah Branch** — Zachariah Branch - Continues to contribute as returner (2026-09-26T23:57:29Z)
+- **NEW — Troy Franklin** — Troy Franklin Playing a Minimal Role on Offense (2026-09-27T00:23:56Z)
+  - Source: https://www.rotoballer.com/player-news/troy-franklin-playing-a-minimal-role-on-offense/1951831
+- **Zachariah Branch** — Zachariah Branch - Continues to contribute as returner (2026-09-26T23:57:29Z)
   - The rookie third-rounder has contributed on both special teams as a returner and on offense as a rotational pass catcher. He's up to three catches (on four targets) for 21 yards and 110 return yards through three regular-season games. His involvement on offense hasn't been as high as other rookie wide receivers, but the Falcons appear committed to using Branch in multiple ways to utilize his speed and explosiveness.
-- **NEW — Kaleb Johnson** — Kaleb Johnson - Earns five touches in Week 3 (2026-09-26T23:22:08Z)
-  - The Packers backfield mustered just eight rushes (MarShawn Lloyd had the other four) on a night in which the team was increasingly in catch-up mode, spurring 53 pass attempts from QB Jordan Love. After Johnson was dealt to Green Bay from Pittsburgh on Aug. 30, he didn't receive a snap on offense Week 1, but his offensive snap share increased from 27 percent Week 2 to 36 percent Week 3, while Lloyd's share has gone in the opposite direction, and Chris Brooks' has remained relatively stable. Because the team's RBs have mustered just 146 rushing yards (3.0 YPC) through three games, none of the trio are particularly intriguing for fantasy purposes at the moment, especially behind a makeshift O-line, but Johnson's elevated sway could mean that a stash eventually yields positive results.
+- **Kaleb Johnson** — Kaleb Johnson - Earns five touches in Week 3 (2026-09-26T23:22:08Z)
+  - The Packers backfield mustered just eight rushes (MarShawn Lloyd had the other four) on a night in which the team was increasingly in catch-up mode, spurring 53 pass attempts from QB Jordan Love. After Johnson was dealt to Green Bay from Pittsburgh on Aug. 30, he didn't receive a snap on offense in Week 1, but his offensive snap share increased from 27 percent in Week 2 to 36 percent in Week 3, while Lloyd's share has gone in the opposite direction, and Chris Brooks' has remained relatively stable. Because the team's RBs have mustered just 146 rushing yards (3.0 YPC) through three games, none of the trio are particularly intriguing for fantasy purposes at the moment, especially behind a makeshift O-line, but Johnson's elevated sway could mean that a stash eventually yields positive results.
+- **NEW — Elijah Arroyo** — Elijah Arroyo Remains Buried on Seahawks Tight End Depth Chart (2026-09-26T22:26:12Z)
+  - Source: https://www.rotoballer.com/player-news/elijah-arroyo-remains-buried-on-seahawks-tight-end-depth-chart/1951819
+- **NEW — Ray Davis** — Ray Davis Offers Little Standalone Value (2026-09-26T21:53:39Z)
+  - Source: https://www.rotoballer.com/player-news/ray-davis-offers-little-standalone-value/1951806
+- **NEW — Seth McGowan** — Seth McGowan is Unlikely to See Consistent Role (2026-09-26T21:46:12Z)
+  - Source: https://www.rotoballer.com/player-news/seth-mcgowan-is-unlikely-to-see-consistent-role/1951804
 - **Jonah Coleman** — Jonah Coleman (ankle) placed on IR (2026-09-26T21:45:30.731000Z)
   - Coleman had already been ruled out for this week's game. He will now miss at least the next four games. J.K. Dobbins and RJ Harvey will continue to lead the Broncos backfield. 
   - Source: https://www.fantasypros.com/nfl/news/610846/jonah-coleman-ankle-placed-on-ir.php
@@ -21,12 +29,12 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/610847/caleb-williams-hamstring-ruled-out-monday.php
 - **Demarcus Robinson** — Demarcus Robinson - Moved to injured reserve (2026-09-26T21:17:12Z)
   - Robinson was carted off the field due to a right ankle injury during San Francisco's Week 2 win against the Dolphins, after which coach Kyle Shanahan relayed that the wide receiver likely suffered a high-ankle sprain. On Monday, Shanahan said that Robinson was facing a recovery timeline of 3-to-6 weeks, so this move to injured reserve doesn't come as a surprise. Robinson will be first eligible to return to action Sunday, Oct. 25 in Atlanta, but with all of Christian Kirk (calf), De'Zhaun Stribling (ankle), Ricky Pearsall (knee) and Robinson on IR, the 49ers will be going with Mike Evans (hip), Deebo Samuel, Jacob Cowing, Jordan Watkins and KhaDarel Hodge at wide receiver this Sunday against the Cardinals.
-- **NEW — Tyquan Thornton** — Tyquan Thornton is a Deep League Play for Week 3 (2026-09-26T21:11:14Z)
+- **Tyquan Thornton** — Tyquan Thornton is a Deep League Play for Week 3 (2026-09-26T21:11:14Z)
   - Source: https://www.rotoballer.com/player-news/tyquan-thornton-is-a-deep-league-play-for-week-3/1951781
 - **Jonah Coleman** — Jonah Coleman - Lands on injured reserve (2026-09-26T20:36:51Z)
   - Coleman has been diagnosed with a high-ankle sprain and was unable to practice all week. He'll now go on IR and will be required to miss at least four games, meaning the earliest he can return is Week 7 against the Cardinals on Sunday, Oct. 25. With Coleman sidelined, Tyler Badie could see an uptick in offensive snaps as the third option in the Broncos' backfield behind J.K. Dobbins and RJ Harvey.
 - **Andrei Iosivas** — Andrei Iosivas - Officially placed on IR (2026-09-26T20:26:29Z)
-  - Iosivas is having surgery to repair a torn ligament in his thumb, necessitating his move to injured reserve. As such, he will not be allowed to play for at least the next four games, so the earliest Iosivas can return is Week 8 against the Titans on Sunday, Nov. 1. Ja'Marr Chase and Tee Higgins will continue to serve as the Bengals' top pass catchers, but in Iosivas absence, there are more offensive snaps available for rookie fourth-rounder Colbie Young, Dohnte Meyers and Ke'Shawn Williams.
+  - Iosivas is having surgery to repair a torn ligament in his thumb, necessitating his move to injured reserve. As such, he will not be allowed to play for at least the next four games, so the earliest Iosivas can return is Week 8 against the Titans on Sunday, Nov. 1. Ja'Marr Chase and Tee Higgins will continue to serve as the Bengals' top pass catchers, but in Iosivas' absence, there are more offensive snaps available for rookie fourth-rounder Colbie Young, Dohnte Meyers and Ke'Shawn Williams.
 - **Saquon Barkley** — Saquon Barkley (stinger) off injury report for Eagles (2026-09-26T20:25:30.874000Z)
   - Barkley is good to go after logging full practice sessions to end the week for head coach Nick Sirianni, boosting a Philadelphia rushing attack that will look to take advantage of a susceptible Bears defense Monday night.
   - Source: https://www.fantasypros.com/nfl/news/610844/saquon-barkley-stinger-off-injury-eagles.php
@@ -39,9 +47,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Smith was working through a hamstring injury through Week 3 prep but ended with a full practice Saturday, which was enough for him to be cleared to play Monday. He has a 13-170-1 receiving line on 19 targets through the first two games of the regular season as the Eagles' top pass catcher, and he could see even more targets from Jalen Hurts due to the absence of top tight end Dallas Goedert (knee).
 - **Dallas Goedert** — Dallas Goedert - Won't play Monday (2026-09-26T20:01:19Z)
   - Goedert was unable to practice all week due to an MCL sprain that he sustained during the Eagles' Week 2 win over the Titans. Zach Ertz was signed to the Eagles' practice squad Tuesday, and he figures to be elevated to the active roster for Monday's game and provide depth at tight end behind Johnny Mundt and E.J. Jenkins. Goedert's next chance to play is Week 4 against the Rams on Sunday, Oct. 4, though he should be considered week-to-week.
-- **NEW — Demarcus Robinson** — 49ers Put Demarcus Robinson on Injured Reserve on Saturday (2026-09-26T19:32:18Z)
+- **Demarcus Robinson** — 49ers Put Demarcus Robinson on Injured Reserve on Saturday (2026-09-26T19:32:18Z)
   - Source: https://www.rotoballer.com/player-news/49ers-put-demarcus-robinson-on-injured-reserve-on-saturday/1951741
-- **Tyson Bagent** — Tyson Bagent - Listed as questionable Monday (2026-09-26T19:00:54Z)
+- **Tyson Bagent** — Tyson Bagent - Listed as questionable for Monday (2026-09-26T19:00:54Z)
   - Bagent progressed enough through the league's concussion protocol to participate in Saturday's practice without limitations. However, he'll need to be symptom free over the next couple of days and pass an evaluation by an independent neurologist before being cleared to play. Caleb Williams (hamstring) has already been ruled out, so if Bagent cannot play, then Case Keenum would be the Bears' starting quarterback Monday.
 - **Caleb Williams** — Caleb Williams - Ruled out for Monday (2026-09-26T18:58:19Z)
   - As expected, Williams will not be active for Monday Night Football due to a right hamstring injury he sustained during the Bears' Week 2 loss to the Vikings. Tyson Bagent was a full participant in Saturday's practice but is listed as questionable, as he's still in the league's concussion protocol. If Bagent is unable to play, then Case Keenum would serve as the Bears' starting QB for Week 3. Williams' next opportunity to play is Week 4 against the Jets on Sunday, Oct. 4.
@@ -204,11 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/matthew-stafford-looks-to-overcome-a-tougher-week-3-matchup/1951289
 - **Jaxson Dart** — Giants Making Calls On QBs After Injury To Jaxson Dart (2026-09-26T10:25:21Z)
   - Source: https://www.rotoballer.com/player-news/giants-making-calls-on-qbs-after-injury-to-jaxson-dart/1951287
-- **Davante Adams** — Davante Adams Looks to Remain Scorching Hot as Top Receiver (2026-09-26T10:23:47Z)
-  - Source: https://www.rotoballer.com/player-news/davante-adams-looks-to-remain-scorching-hot-as-top-receiver/1951283
-- **DeMario Douglas** — DeMario Douglas' Role Remains Unsteady (2026-09-26T10:12:11Z)
-  - Source: https://www.rotoballer.com/player-news/demario-douglas-role-remains-unsteady/1951274
-- **Zay Flowers** — Zay Flowers Will "Likely Be on a Pitch Count" if Active for Week 3 (2026-09-26T10:06:18Z)
-  - Source: https://www.rotoballer.com/player-news/zay-flowers-will-likely-be-on-a-pitch-count-if-active-for-week-3/1951264
-- **Jayden Daniels** — Jayden Daniels Could Undergo Surgery After the 2026 Season (2026-09-26T10:00:06Z)
-  - Source: https://www.rotoballer.com/player-news/jayden-daniels-could-undergo-surgery-after-the-2026-season/1951252

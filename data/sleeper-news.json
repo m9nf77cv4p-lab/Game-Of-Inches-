@@ -1,13 +1,12 @@
 {
-  "last_checked_at": "2026-09-27T01:37:40Z",
+  "last_checked_at": "2026-09-27T07:04:58Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 298,
   "new_story_ids": [
-    "nfl|11370|rotowire|639328|1790469433000",
-    "nfl|12504|rotowire|639324|1790464928000",
-    "nfl|13320|rotowire|639326|1790467049000",
-    "nfl|3286|rotoballer|222455|1790451138000",
-    "nfl|8188|rotoballer|222456|1790457074000"
+    "nfl|11575|rotoballer|222460|1790459619000",
+    "nfl|11627|rotoballer|222468|1790468636000",
+    "nfl|12521|rotoballer|222463|1790461572000",
+    "nfl|13424|rotoballer|222459|1790459172000"
   ],
   "schema_version": 1,
   "source": {
@@ -38,6 +37,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Troy Franklin has taken a massive step back in 2026, dropping him off the fantasy radar in most leagues. The Broncos' offseason addition of Jaylen Waddle seems to have spelled disaster for Franklin, who has just one catch through two weeks and has yet to play more than 33% of the snaps in a single game this season. In addition to Waddle, both Courtland Sutton and Pat Bryant have also consistently played more than Franklin, which means he's down to the fourth rung on the depth chart. The 23-year-old has a rapport with quarterback Bo Nix dating back to their time at Oregon, so maybe he still has some potential long-term. However, in the short term, he's going to remain buried on the depth chart, keeping him off the fantasy radar.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Troy Franklin has taken a massive step back in 2026, dropping him off the fantasy radar in most leagues. The Broncos' offseason addition of Jaylen Waddle seems to have spelled disaster for Franklin, who has just one catch through two weeks and has yet to play more than 33% of the snaps in a single game this season. In addition to Waddle, both Courtland Sutton and Pat Bryant have also consistently played more than Franklin, which means he's down to the fourth rung on the depth chart. The 23-year-old has a rapport with quarterback Bo Nix dating back to their time at Oregon, so maybe he still has some potential long-term. However, in the short term, he's going to remain buried on the depth chart, keeping him off the fantasy radar.",
+        "title": "Troy Franklin Playing a Minimal Role on Offense",
+        "topic_id": "1409793207675404288",
+        "url": "https://www.rotoballer.com/player-news/troy-franklin-playing-a-minimal-role-on-offense/1951831"
+      },
+      "nfl_team": "DEN",
+      "player_id": "11627",
+      "player_name": "Troy Franklin",
+      "position": "WR",
+      "published": 1790468636000,
+      "source": "rotoballer",
+      "source_key": "222468",
+      "story_id": "nfl|11627|rotoballer|222468|1790468636000",
+      "title": "Troy Franklin Playing a Minimal Role on Offense",
+      "url": "https://www.rotoballer.com/player-news/troy-franklin-playing-a-minimal-role-on-offense/1951831"
+    },
+    {
       "analysis": "The rookie third-rounder has contributed on both special teams as a returner and on offense as a rotational pass catcher. He's up to three catches (on four targets) for 21 yards and 110 return yards through three regular-season games. His involvement on offense hasn't been as high as other rookie wide receivers, but the Falcons appear committed to using Branch in multiple ways to utilize his speed and explosiveness.",
       "description": "Branch caught one pass on two targets for seven yards while logging an 18-yard punt return and a 22-yard kickoff return during the Falcons' 35-14 win over the Packers on Thursday.",
       "metadata": {
@@ -58,10 +77,10 @@
       "url": null
     },
     {
-      "analysis": "The Packers backfield mustered just eight rushes (MarShawn Lloyd had the other four) on a night in which the team was increasingly in catch-up mode, spurring 53 pass attempts from QB Jordan Love. After Johnson was dealt to Green Bay from Pittsburgh on Aug. 30, he didn't receive a snap on offense Week 1, but his offensive snap share increased from 27 percent Week 2 to 36 percent Week 3, while Lloyd's share has gone in the opposite direction, and Chris Brooks' has remained relatively stable. Because the team's RBs have mustered just 146 rushing yards (3.0 YPC) through three games, none of the trio are particularly intriguing for fantasy purposes at the moment, especially behind a makeshift O-line, but Johnson's elevated sway could mean that a stash eventually yields positive results.",
+      "analysis": "The Packers backfield mustered just eight rushes (MarShawn Lloyd had the other four) on a night in which the team was increasingly in catch-up mode, spurring 53 pass attempts from QB Jordan Love. After Johnson was dealt to Green Bay from Pittsburgh on Aug. 30, he didn't receive a snap on offense in Week 1, but his offensive snap share increased from 27 percent in Week 2 to 36 percent in Week 3, while Lloyd's share has gone in the opposite direction, and Chris Brooks' has remained relatively stable. Because the team's RBs have mustered just 146 rushing yards (3.0 YPC) through three games, none of the trio are particularly intriguing for fantasy purposes at the moment, especially behind a makeshift O-line, but Johnson's elevated sway could mean that a stash eventually yields positive results.",
       "description": "Johnson tallied four carries for six yards and gathered in one of three targets for 10 yards during Thursday's 35-14 loss to the Falcons.",
       "metadata": {
-        "analysis": "The Packers backfield mustered just eight rushes (MarShawn Lloyd had the other four) on a night in which the team was increasingly in catch-up mode, spurring 53 pass attempts from QB Jordan Love. After Johnson was dealt to Green Bay from Pittsburgh on Aug. 30, he didn't receive a snap on offense Week 1, but his offensive snap share increased from 27 percent Week 2 to 36 percent Week 3, while Lloyd's share has gone in the opposite direction, and Chris Brooks' has remained relatively stable. Because the team's RBs have mustered just 146 rushing yards (3.0 YPC) through three games, none of the trio are particularly intriguing for fantasy purposes at the moment, especially behind a makeshift O-line, but Johnson's elevated sway could mean that a stash eventually yields positive results.",
+        "analysis": "The Packers backfield mustered just eight rushes (MarShawn Lloyd had the other four) on a night in which the team was increasingly in catch-up mode, spurring 53 pass attempts from QB Jordan Love. After Johnson was dealt to Green Bay from Pittsburgh on Aug. 30, he didn't receive a snap on offense in Week 1, but his offensive snap share increased from 27 percent in Week 2 to 36 percent in Week 3, while Lloyd's share has gone in the opposite direction, and Chris Brooks' has remained relatively stable. Because the team's RBs have mustered just 146 rushing yards (3.0 YPC) through three games, none of the trio are particularly intriguing for fantasy purposes at the moment, especially behind a makeshift O-line, but Johnson's elevated sway could mean that a stash eventually yields positive results.",
         "description": "Johnson tallied four carries for six yards and gathered in one of three targets for 10 yards during Thursday's 35-14 loss to the Falcons.",
         "title": "Kaleb Johnson - Earns five touches in Week 3",
         "topic_id": "1409716568195153920"
@@ -76,6 +95,66 @@
       "story_id": "nfl|12504|rotowire|639324|1790464928000",
       "title": "Kaleb Johnson - Earns five touches in Week 3",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "A second-round pick in the 2025 NFL Draft, Seattle Seahawks tight end Elijah Arroyo saw minimal usage as a rookie. However, Arroyo earned some preseason buzz as a potential year-two breakout candidate this past summer. Two games into the 2026 season, that has yet to come to fruition. Arroyo has recorded just one catch for 17 yards on one target so far, and he's failed to play more than 15 snaps in either of Seattle's first two contests. Seahawks tight end AJ Barner remains the team's clear TE1, and Arroyo has also struggled to leapfrog blocking specialist Eric Saubert on Seattle's depth chart at the position. If Barner were to suffer an injury at any point this season, Arroyo could finally get his opportunity to shine in Seattle. Until that point, Arroyo should be off the radar of fantasy managers in redraft leagues.",
+      "metadata": {
+        "description": "A second-round pick in the 2025 NFL Draft, Seattle Seahawks tight end Elijah Arroyo saw minimal usage as a rookie. However, Arroyo earned some preseason buzz as a potential year-two breakout candidate this past summer. Two games into the 2026 season, that has yet to come to fruition. Arroyo has recorded just one catch for 17 yards on one target so far, and he's failed to play more than 15 snaps in either of Seattle's first two contests. Seahawks tight end AJ Barner remains the team's clear TE1, and Arroyo has also struggled to leapfrog blocking specialist Eric Saubert on Seattle's depth chart at the position. If Barner were to suffer an injury at any point this season, Arroyo could finally get his opportunity to shine in Seattle. Until that point, Arroyo should be off the radar of fantasy managers in redraft leagues.",
+        "title": "Elijah Arroyo Remains Buried on Seahawks Tight End Depth Chart",
+        "topic_id": "1409763007092772864",
+        "url": "https://www.rotoballer.com/player-news/elijah-arroyo-remains-buried-on-seahawks-tight-end-depth-chart/1951819"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12521",
+      "player_name": "Elijah Arroyo",
+      "position": "TE",
+      "published": 1790461572000,
+      "source": "rotoballer",
+      "source_key": "222463",
+      "story_id": "nfl|12521|rotoballer|222463|1790461572000",
+      "title": "Elijah Arroyo Remains Buried on Seahawks Tight End Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/elijah-arroyo-remains-buried-on-seahawks-tight-end-depth-chart/1951819"
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills running back Ray Davis has barely seen any involvement in the backfield through the first two weeks of the season. Davis saw one carry in the season opener, and he didn't do anything in the rushing game last week. It seems highly unlikely that Davis is going to do much of anything on the field while James Cook III is healthy. Cook is the workhorse back, and there's not much room for anyone else in the backfield right now. Fantasy managers shouldn't bother starting Davis in any fantasy formats ahead of the Week 3 matchup against the Los Angeles Chargers. He offers stash value in case Cook ever goes down, but Davis doesn't need to be started.",
+      "metadata": {
+        "description": "Buffalo Bills running back Ray Davis has barely seen any involvement in the backfield through the first two weeks of the season. Davis saw one carry in the season opener, and he didn't do anything in the rushing game last week. It seems highly unlikely that Davis is going to do much of anything on the field while James Cook III is healthy. Cook is the workhorse back, and there's not much room for anyone else in the backfield right now. Fantasy managers shouldn't bother starting Davis in any fantasy formats ahead of the Week 3 matchup against the Los Angeles Chargers. He offers stash value in case Cook ever goes down, but Davis doesn't need to be started.",
+        "title": "Ray Davis Offers Little Standalone Value",
+        "topic_id": "1409756716177858560",
+        "url": "https://www.rotoballer.com/player-news/ray-davis-offers-little-standalone-value/1951806"
+      },
+      "nfl_team": "BUF",
+      "player_id": "11575",
+      "player_name": "Ray Davis",
+      "position": "RB",
+      "published": 1790459619000,
+      "source": "rotoballer",
+      "source_key": "222460",
+      "story_id": "nfl|11575|rotoballer|222460|1790459619000",
+      "title": "Ray Davis Offers Little Standalone Value",
+      "url": "https://www.rotoballer.com/player-news/ray-davis-offers-little-standalone-value/1951806"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts running back Seth McGowan has barely seen the field over the first two games of the regular season. Heading into Week 3, McGowan has registered two carries for zero yards and one reception for zero yards. The 24-year-old is unlikely to have standalone value while Jonathan Taylor is healthy. Taylor is the workhorse back, and McGowan only saw the field for six percent of the offensive snaps last week. He remains worth stashing because he could see a significant role if Taylor ever goes down with an injury. Fantasy managers shouldn't bother starting McGowan in any formats ahead of the Week 3 matchup against the Houston Texans.",
+      "metadata": {
+        "description": "Indianapolis Colts running back Seth McGowan has barely seen the field over the first two games of the regular season. Heading into Week 3, McGowan has registered two carries for zero yards and one reception for zero yards. The 24-year-old is unlikely to have standalone value while Jonathan Taylor is healthy. Taylor is the workhorse back, and McGowan only saw the field for six percent of the offensive snaps last week. He remains worth stashing because he could see a significant role if Taylor ever goes down with an injury. Fantasy managers shouldn't bother starting McGowan in any formats ahead of the Week 3 matchup against the Houston Texans.",
+        "title": "Seth McGowan is Unlikely to See Consistent Role",
+        "topic_id": "1409752939702001664",
+        "url": "https://www.rotoballer.com/player-news/seth-mcgowan-is-unlikely-to-see-consistent-role/1951804"
+      },
+      "nfl_team": "IND",
+      "player_id": "13424",
+      "player_name": "Seth McGowan",
+      "position": "RB",
+      "published": 1790459172000,
+      "source": "rotoballer",
+      "source_key": "222459",
+      "story_id": "nfl|13424|rotoballer|222459|1790459172000",
+      "title": "Seth McGowan is Unlikely to See Consistent Role",
+      "url": "https://www.rotoballer.com/player-news/seth-mcgowan-is-unlikely-to-see-consistent-role/1951804"
     },
     {
       "analysis": "Coleman had already been ruled out for this week's game. He will now miss at least the next four games. J.K. Dobbins and RJ Harvey will continue to lead the Broncos backfield. ",
@@ -180,10 +259,10 @@
       "url": null
     },
     {
-      "analysis": "Iosivas is having surgery to repair a torn ligament in his thumb, necessitating his move to injured reserve. As such, he will not be allowed to play for at least the next four games, so the earliest Iosivas can return is Week 8 against the Titans on Sunday, Nov. 1. Ja'Marr Chase and Tee Higgins will continue to serve as the Bengals' top pass catchers, but in Iosivas absence, there are more offensive snaps available for rookie fourth-rounder Colbie Young, Dohnte Meyers and Ke'Shawn Williams.",
+      "analysis": "Iosivas is having surgery to repair a torn ligament in his thumb, necessitating his move to injured reserve. As such, he will not be allowed to play for at least the next four games, so the earliest Iosivas can return is Week 8 against the Titans on Sunday, Nov. 1. Ja'Marr Chase and Tee Higgins will continue to serve as the Bengals' top pass catchers, but in Iosivas' absence, there are more offensive snaps available for rookie fourth-rounder Colbie Young, Dohnte Meyers and Ke'Shawn Williams.",
       "description": "The Bengals placed Iosivas (thumb) on injured reserve Saturday.",
       "metadata": {
-        "analysis": "Iosivas is having surgery to repair a torn ligament in his thumb, necessitating his move to injured reserve. As such, he will not be allowed to play for at least the next four games, so the earliest Iosivas can return is Week 8 against the Titans on Sunday, Nov. 1. Ja'Marr Chase and Tee Higgins will continue to serve as the Bengals' top pass catchers, but in Iosivas absence, there are more offensive snaps available for rookie fourth-rounder Colbie Young, Dohnte Meyers and Ke'Shawn Williams.",
+        "analysis": "Iosivas is having surgery to repair a torn ligament in his thumb, necessitating his move to injured reserve. As such, he will not be allowed to play for at least the next four games, so the earliest Iosivas can return is Week 8 against the Titans on Sunday, Nov. 1. Ja'Marr Chase and Tee Higgins will continue to serve as the Bengals' top pass catchers, but in Iosivas' absence, there are more offensive snaps available for rookie fourth-rounder Colbie Young, Dohnte Meyers and Ke'Shawn Williams.",
         "description": "The Bengals placed Iosivas (thumb) on injured reserve Saturday.",
         "title": "Andrei Iosivas - Officially placed on IR",
         "topic_id": "1409672524517617664"
@@ -327,7 +406,7 @@
       "metadata": {
         "analysis": "Bagent progressed enough through the league's concussion protocol to participate in Saturday's practice without limitations. However, he'll need to be symptom free over the next couple of days and pass an evaluation by an independent neurologist before being cleared to play. Caleb Williams (hamstring) has already been ruled out, so if Bagent cannot play, then Case Keenum would be the Bears' starting quarterback Monday.",
         "description": "Bagent (concussion) was a full participant in Saturday's practice but is listed as questionable for Monday's game against the Eagles.",
-        "title": "Tyson Bagent - Listed as questionable Monday",
+        "title": "Tyson Bagent - Listed as questionable for Monday",
         "topic_id": "1409651131486846976"
       },
       "nfl_team": "CHI",
@@ -338,7 +417,7 @@
       "source": "rotowire",
       "source_key": "639291",
       "story_id": "nfl|11256|rotowire|639291|1790449254000",
-      "title": "Tyson Bagent - Listed as questionable Monday",
+      "title": "Tyson Bagent - Listed as questionable for Monday",
       "url": null
     },
     {
@@ -99204,446 +99283,6 @@
       "story_id": "nfl|13269|rotoballer|219557|1787908448000",
       "title": "Fernando Mendoza Struggles in Final Extended Opportunity",
       "url": "https://www.rotoballer.com/player-news/fernando-mendoza-struggles-in-final-extended-opportunity/1918242"
-    },
-    {
-      "analysis": "His muffed punt return at the Buffalo 12-yard line in the first quarter led directly to Pittsburgh's first TD of the game on the very next play. It was a tough way for Davis to end his preseason, but the third-year RB has never returned a punt in his NFL career. Davis' spot as the No. 2 back behind James Cook seems fairly secure however, after he averaged 4.7 yards on 58 carries over 17 regular-season games last year.",
-      "description": "Davis didn't receive a touch on offense but gained 11 yards on two punt returns while losing a fumble in Thursday's 28-27 preseason win over the Steelers.",
-      "metadata": {
-        "analysis": "His muffed punt return at the Buffalo 12-yard line in the first quarter led directly to Pittsburgh's first TD of the game on the very next play. It was a tough way for Davis to end his preseason, but the third-year RB has never returned a punt in his NFL career. Davis' spot as the No. 2 back behind James Cook seems fairly secure however, after he averaged 4.7 yards on 58 carries over 17 regular-season games last year.",
-        "description": "Davis didn't receive a touch on offense but gained 11 yards on two punt returns while losing a fumble in Thursday's 28-27 preseason win over the Steelers.",
-        "title": "Ray Davis - Tough night in final exhibition contest",
-        "topic_id": "1398960810075693056"
-      },
-      "nfl_team": "BUF",
-      "player_id": "11575",
-      "player_name": "Ray Davis",
-      "position": "RB",
-      "published": 1787900542000,
-      "source": "rotowire",
-      "source_key": "635010",
-      "story_id": "nfl|11575|rotowire|635010|1787900542000",
-      "title": "Ray Davis - Tough night in final exhibition contest",
-      "url": null
-    },
-    {
-      "analysis": "The rookie seventh-round pick showed some of his versatility by making a positive impression on special teams while also scoring Pittsburgh's only rushing TD of the night, taking a pitch from Drew Allar and churning his way through traffic from nine yards out in the third quarter. Heidenreich is fighting for a spot on the 53-man roster, but he curiously didn't catch a pass in the preseason despite that being his main strength in college, making it tough to evaluate his chances of sticking around behind the clear top backfield duo of Jaylen Warren and Rico Dowdle.",
-      "description": "Heidenreich carried the ball nine times for 35 yards and a touchdown while adding 47 yards on two kickoff returns during Thursday's 28-27 preseason loss to Buffalo.",
-      "metadata": {
-        "analysis": "The rookie seventh-round pick showed some of his versatility by making a positive impression on special teams while also scoring Pittsburgh's only rushing TD of the night, taking a pitch from Drew Allar and churning his way through traffic from nine yards out in the third quarter. Heidenreich is fighting for a spot on the 53-man roster, but he curiously didn't catch a pass in the preseason despite that being his main strength in college, making it tough to evaluate his chances of sticking around behind the clear top backfield duo of Jaylen Warren and Rico Dowdle.",
-        "description": "Heidenreich carried the ball nine times for 35 yards and a touchdown while adding 47 yards on two kickoff returns during Thursday's 28-27 preseason loss to Buffalo.",
-        "title": "Eli Heidenreich - Gets into end zone against Bills",
-        "topic_id": "1398955777611292672"
-      },
-      "nfl_team": "PIT",
-      "player_id": "13423",
-      "player_name": "Eli Heidenreich",
-      "position": "RB",
-      "published": 1787899342000,
-      "source": "rotowire",
-      "source_key": "635007",
-      "story_id": "nfl|13423|rotowire|635007|1787899342000",
-      "title": "Eli Heidenreich - Gets into end zone against Bills",
-      "url": null
-    },
-    {
-      "analysis": "It's not an encouraging sign for the 2025 third-round pick that he was the fourth running back into the game for the Steelers, as Johnson didn't get his first touch until the second half, after Lew Nichols, Eli Heidenreich and Travis Homer has all mixed into the backfield. Johnson is coming off a disappointing rookie campaign in which he managed just 69 rushing yards in 10 regular-season contests, and he could be on the roster bubble.",
-      "description": "Johnson carried the ball five times for 11 yards in Thursday's 28-27 preseason loss to the Bills.",
-      "metadata": {
-        "analysis": "It's not an encouraging sign for the 2025 third-round pick that he was the fourth running back into the game for the Steelers, as Johnson didn't get his first touch until the second half, after Lew Nichols, Eli Heidenreich and Travis Homer has all mixed into the backfield. Johnson is coming off a disappointing rookie campaign in which he managed just 69 rushing yards in 10 regular-season contests, and he could be on the roster bubble.",
-        "description": "Johnson carried the ball five times for 11 yards in Thursday's 28-27 preseason loss to the Bills.",
-        "title": "Kaleb Johnson - Sees action late in preseason finale",
-        "topic_id": "1398954517524951040"
-      },
-      "nfl_team": "PIT",
-      "player_id": "12504",
-      "player_name": "Kaleb Johnson",
-      "position": "RB",
-      "published": 1787898866000,
-      "source": "rotowire",
-      "source_key": "635006",
-      "story_id": "nfl|12504|rotowire|635006|1787898866000",
-      "title": "Kaleb Johnson - Sees action late in preseason finale",
-      "url": null
-    },
-    {
-      "analysis": "The Steelers rested their starters and key personnel, but Bernard played the first quarter and connected with Will Howard (head) on a one-play scoring drive after Buffalo's Ray Davis muffed a punt. Bernard's usage Thursday would seem to suggest he'll begin the season No. 4 on the wide receiver depth chart behind DK Metcalf (undisclosed), Michael Pittman (hamstring) and Roman Wilson, but the 2026 second-round pick could find himself in a key role early if either of the veterans ahead of him wind up not being ready for Week 1.",
-      "description": "Bernard caught one of two targets for a 13-yard touchdown in Thursday's 28-27 preseason loss to the Bills.",
-      "metadata": {
-        "analysis": "The Steelers rested their starters and key personnel, but Bernard played the first quarter and connected with Will Howard (head) on a one-play scoring drive after Buffalo's Ray Davis muffed a punt. Bernard's usage Thursday would seem to suggest he'll begin the season No. 4 on the wide receiver depth chart behind DK Metcalf (undisclosed), Michael Pittman (hamstring) and Roman Wilson, but the 2026 second-round pick could find himself in a key role early if either of the veterans ahead of him wind up not being ready for Week 1.",
-        "description": "Bernard caught one of two targets for a 13-yard touchdown in Thursday's 28-27 preseason loss to the Bills.",
-        "title": "Germie Bernard - Finds end zone in final exhibition game",
-        "topic_id": "1398952000762179584"
-      },
-      "nfl_team": "PIT",
-      "player_id": "13274",
-      "player_name": "Germie Bernard",
-      "position": "WR",
-      "published": 1787898510000,
-      "source": "rotowire",
-      "source_key": "635005",
-      "story_id": "nfl|13274|rotowire|635005|1787898510000",
-      "title": "Germie Bernard - Finds end zone in final exhibition game",
-      "url": null
-    },
-    {
-      "analysis": "Will Howard (head) played the entire first half and Allar the second with both Aaron Rodgers and Mason Rudolph getting the night off, but neither young quarterback did much to distinguish themselves in the battle for the No. 3 spot. Howard was evaluated for a potential concussion after the game, which could be enough to tip the scales in Allar's favor, although the Steelers always seemed likely to find a way to keep all four QBs on the roster. If Allar does make the cut, the 2026 third-round pick would need injuries ahead of him to see the field in a meaningful way as a rookie.",
-      "description": "Allar completed nine of 18 passes for 88 yards without a touchdown or interception in Thursday's 28-27 preseason loss to the Bills.",
-      "metadata": {
-        "analysis": "Will Howard (head) played the entire first half and Allar the second with both Aaron Rodgers and Mason Rudolph getting the night off, but neither young quarterback did much to distinguish themselves in the battle for the No. 3 spot. Howard was evaluated for a potential concussion after the game, which could be enough to tip the scales in Allar's favor, although the Steelers always seemed likely to find a way to keep all four QBs on the roster. If Allar does make the cut, the 2026 third-round pick would need injuries ahead of him to see the field in a meaningful way as a rookie.",
-        "description": "Allar completed nine of 18 passes for 88 yards without a touchdown or interception in Thursday's 28-27 preseason loss to the Bills.",
-        "title": "Drew Allar - Makes little impact in preseason finale",
-        "topic_id": "1398950743498563584"
-      },
-      "nfl_team": "PIT",
-      "player_id": "13289",
-      "player_name": "Drew Allar",
-      "position": "QB",
-      "published": 1787898079000,
-      "source": "rotowire",
-      "source_key": "635003",
-      "story_id": "nfl|13289|rotowire|635003|1787898079000",
-      "title": "Drew Allar - Makes little impact in preseason finale",
-      "url": null
-    },
-    {
-      "analysis": "Dicker's miss came as time expired in the first half, but he partly atoned with his 34-yarder late in the third quarter. Dicker did miss two extra-point attempts but made four of five field-goal tries this preseason, and he'll now turn his sights to a Week 1 home matchup against the Cardinals that could provide him with plenty of scoring opportunities.",
-      "description": "Dicker missed a 49-yard field-goal attempt wide right, drilled a 34-yarder and knocked home his only PAT in the Chargers' 20-18 preseason loss to the Rams on Thursday.",
-      "metadata": {
-        "analysis": "Dicker's miss came as time expired in the first half, but he partly atoned with his 34-yarder late in the third quarter. Dicker did miss two extra-point attempts but made four of five field-goal tries this preseason, and he'll now turn his sights to a Week 1 home matchup against the Cardinals that could provide him with plenty of scoring opportunities.",
-        "description": "Dicker missed a 49-yard field-goal attempt wide right, drilled a 34-yarder and knocked home his only PAT in the Chargers' 20-18 preseason loss to the Rams on Thursday.",
-        "title": "Cameron Dicker - Misfires on field goal Thursday",
-        "topic_id": "1398949484079091712"
-      },
-      "nfl_team": "LAC",
-      "player_id": "8259",
-      "player_name": "Cameron Dicker",
-      "position": "K",
-      "published": 1787897704000,
-      "source": "rotowire",
-      "source_key": "635001",
-      "story_id": "nfl|8259|rotowire|635001|1787897704000",
-      "title": "Cameron Dicker - Misfires on field goal Thursday",
-      "url": null
-    },
-    {
-      "analysis": "The rookie second-round pick was much less active than during his first two preseason games, when he recorded a combined 11-59-0 line on 14 targets. There's no denying the fact Klare did make a very positive initial impression, however, but he's still likely slated to open the season no higher than No. 4 on the depth chart behind Colby Parkinson, Tyler Higbee and Terrance Ferguson (soreness).",
-      "description": "Klare brought in one of two targets for six yards in the Rams' 20-18 preseason win over the Chargers on Thursday.",
-      "metadata": {
-        "analysis": "The rookie second-round pick was much less active than during his first two preseason games, when he recorded a combined 11-59-0 line on 14 targets. There's no denying the fact Klare did make a very positive initial impression, however, but he's still likely slated to open the season no higher than No. 4 on the depth chart behind Colby Parkinson, Tyler Higbee and Terrance Ferguson (soreness).",
-        "description": "Klare brought in one of two targets for six yards in the Rams' 20-18 preseason win over the Chargers on Thursday.",
-        "title": "Max Klare - One catch in preseason finale",
-        "topic_id": "1398946967165337600"
-      },
-      "nfl_team": "LAR",
-      "player_id": "13278",
-      "player_name": "Max Klare",
-      "position": "TE",
-      "published": 1787897051000,
-      "source": "rotowire",
-      "source_key": "634999",
-      "story_id": "nfl|13278|rotowire|634999|1787897051000",
-      "title": "Max Klare - One catch in preseason finale",
-      "url": null
-    },
-    {
-      "analysis": "The speedy fourth-year pro recently missed some practice time due to a lower-body injury he suffered during a joint practice with the 49ers leading up to Los Angeles' second preseason game, yet Johnston looked at full health when blowing past the Rams' secondary for a 65-yard touchdown with just under 10 minutes remaining in the first quarter. Thursday's snaps were Johnston's only action this preseason, but he looks prepared to reprise the No. 2 receiver role that's netted over 700 receiving yards in each of the last two seasons beginning with a Week 1 home matchup against the Cardinals.",
-      "description": "Johnston (lower body) brought in one of two targets for a 65-yard touchdown in the Chargers' 20-18 preseason loss to the Rams on Thursday.",
-      "metadata": {
-        "analysis": "The speedy fourth-year pro recently missed some practice time due to a lower-body injury he suffered during a joint practice with the 49ers leading up to Los Angeles' second preseason game, yet Johnston looked at full health when blowing past the Rams' secondary for a 65-yard touchdown with just under 10 minutes remaining in the first quarter. Thursday's snaps were Johnston's only action this preseason, but he looks prepared to reprise the No. 2 receiver role that's netted over 700 receiving yards in each of the last two seasons beginning with a Week 1 home matchup against the Cardinals.",
-        "description": "Johnston (lower body) brought in one of two targets for a 65-yard touchdown in the Chargers' 20-18 preseason loss to the Rams on Thursday.",
-        "title": "Quentin Johnston - Hauls in long TD in preseason loss",
-        "topic_id": "1398944450138370048"
-      },
-      "nfl_team": "LAC",
-      "player_id": "9754",
-      "player_name": "Quentin Johnston",
-      "position": "WR",
-      "published": 1787896762000,
-      "source": "rotowire",
-      "source_key": "634998",
-      "story_id": "nfl|9754|rotowire|634998|1787896762000",
-      "title": "Quentin Johnston - Hauls in long TD in preseason loss",
-      "url": null
-    },
-    {
-      "analysis": "Simpson drew the start and initially played the entire first half before reentering the game in the latter portion of the fourth quarter without attempting another pass. The rookie 13th overall pick put together a solid first two quarters, connecting with Brennan Presley for an 11-yard touchdown pass early in the second quarter. Simpson did nothing to hurt his chances of earning the No. 2 quarterback job this preseason -- he completed 47 of 60 passes (78.3 percent) for 382 yards with a 3:0 TD:INT and added seven rushes for 19 yards -- but it remains to be seen whether he did enough to beat out the more experienced Stetson Bennett for the role.",
-      "description": "Simpson completed 18 of 23 passes for 119 yards with one touchdown and no interceptions while also rushing three times for 10 yards in the Rams' 20-18 preseason win over the Chargers on Thursday.",
-      "metadata": {
-        "analysis": "Simpson drew the start and initially played the entire first half before reentering the game in the latter portion of the fourth quarter without attempting another pass. The rookie 13th overall pick put together a solid first two quarters, connecting with Brennan Presley for an 11-yard touchdown pass early in the second quarter. Simpson did nothing to hurt his chances of earning the No. 2 quarterback job this preseason -- he completed 47 of 60 passes (78.3 percent) for 382 yards with a 3:0 TD:INT and added seven rushes for 19 yards -- but it remains to be seen whether he did enough to beat out the more experienced Stetson Bennett for the role.",
-        "description": "Simpson completed 18 of 23 passes for 119 yards with one touchdown and no interceptions while also rushing three times for 10 yards in the Rams' 20-18 preseason win over the Chargers on Thursday.",
-        "title": "Ty Simpson - Extended playing time Thursday",
-        "topic_id": "1398944450142564352"
-      },
-      "nfl_team": "LAR",
-      "player_id": "13275",
-      "player_name": "Ty Simpson",
-      "position": "QB",
-      "published": 1787896445000,
-      "source": "rotowire",
-      "source_key": "634997",
-      "story_id": "nfl|13275|rotowire|634997|1787896445000",
-      "title": "Ty Simpson - Extended playing time Thursday",
-      "url": null
-    },
-    {
-      "analysis": "Herbert drew the start and completed a nine-yard pass to Charlie Kolar on the Chargers' first play from scrimmage before losing a fumble on his next snap. However, the star signal-caller atoned on his second and final possession, hitting Quentin Johnston for a 65-yard touchdown pass to close out his brief night. Herbert, who put up five pass attempts across two games this preseason, will begin his quest to eclipse the 3,700-yard mark through the air for the third straight campaign with a Week 1 home matchup against the Cardinals on Sunday, Sept. 13.",
-      "description": "Herbert completed two of three passes for 74 yards and a touchdown, rushed once for no gain and lost a fumble in the Chargers' 20-18 preseason loss to the Rams on Thursday.",
-      "metadata": {
-        "analysis": "Herbert drew the start and completed a nine-yard pass to Charlie Kolar on the Chargers' first play from scrimmage before losing a fumble on his next snap. However, the star signal-caller atoned on his second and final possession, hitting Quentin Johnston for a 65-yard touchdown pass to close out his brief night. Herbert, who put up five pass attempts across two games this preseason, will begin his quest to eclipse the 3,700-yard mark through the air for the third straight campaign with a Week 1 home matchup against the Cardinals on Sunday, Sept. 13.",
-        "description": "Herbert completed two of three passes for 74 yards and a touchdown, rushed once for no gain and lost a fumble in the Chargers' 20-18 preseason loss to the Rams on Thursday.",
-        "title": "Justin Herbert - Stellar in cameo Thursday",
-        "topic_id": "1398941933287526400"
-      },
-      "nfl_team": "LAC",
-      "player_id": "6797",
-      "player_name": "Justin Herbert",
-      "position": "QB",
-      "published": 1787896043000,
-      "source": "rotowire",
-      "source_key": "634996",
-      "story_id": "nfl|6797|rotowire|634996|1787896043000",
-      "title": "Justin Herbert - Stellar in cameo Thursday",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers running back Kaelon Black got the start in the 49ers' preseason finale on Thursday night. The rookie out of Indiana had San Francisco's first three series to himself before ceding the backfield to Jordan James. Black finished the game with four carries for 28 rushing yards. Black's only target missed him by a wide margin when he turned in the opposite direction of the pass from Mac Jones. Any fantasy value Black might have would come from being Christian McCaffrey's (undisclosed) handcuff. That would be a valuable role given McCaffrey's injury history, but the depth chart past him is not yet defined. Black would have to beat out not only James but also Isaac Guerendo (pectoral), Khalil Herbert, and Sincere McCormick. Fantasy managers should keep an eye out for developments ahead of the 49ers' season opener on September 10.",
-      "metadata": {
-        "description": "San Francisco 49ers running back Kaelon Black got the start in the 49ers' preseason finale on Thursday night. The rookie out of Indiana had San Francisco's first three series to himself before ceding the backfield to Jordan James. Black finished the game with four carries for 28 rushing yards. Black's only target missed him by a wide margin when he turned in the opposite direction of the pass from Mac Jones. Any fantasy value Black might have would come from being Christian McCaffrey's (undisclosed) handcuff. That would be a valuable role given McCaffrey's injury history, but the depth chart past him is not yet defined. Black would have to beat out not only James but also Isaac Guerendo (pectoral), Khalil Herbert, and Sincere McCormick. Fantasy managers should keep an eye out for developments ahead of the 49ers' season opener on September 10.",
-        "title": "Kaelon Black Gets Start In 49ers' Preseason Finale",
-        "topic_id": "1398984718065610752",
-        "url": "https://www.rotoballer.com/player-news/kaelon-black-gets-start-in-49ers-preseason-finale/1918131"
-      },
-      "nfl_team": "SF",
-      "player_id": "13414",
-      "player_name": "Kaelon Black",
-      "position": "RB",
-      "published": 1787891409000,
-      "source": "rotoballer",
-      "source_key": "219555",
-      "story_id": "nfl|13414|rotoballer|219555|1787891409000",
-      "title": "Kaelon Black Gets Start In 49ers' Preseason Finale",
-      "url": "https://www.rotoballer.com/player-news/kaelon-black-gets-start-in-49ers-preseason-finale/1918131"
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers running back Jordan James followed Kaelon Black in the 49ers' 18-12 win in the last game of the preseason, but saw twice as many carries as the rookie. James finished with eight rush attempts (tying Khalil Herbert for the team lead) for 35 yards and caught one of his two targets for 20 receiving yards. It was the first appearance of the preseason for James, who missed the 49ers' previous two games while on the mend from a rib fracture suffered on the second day of training camp. The second year back out of Oregon is now in the mix, along with Black, Herbert, and Isaac Guerendo (pectoral) to back up Christian McCaffrey (undisclosed). With San Francisco's depth chart up in the air, fantasy managers should be on the lookout for announcements. Whoever wins out as the 49ers' RB2 will be one of the more valuable handcuffs in fantasy football.",
-      "metadata": {
-        "description": "San Francisco 49ers running back Jordan James followed Kaelon Black in the 49ers' 18-12 win in the last game of the preseason, but saw twice as many carries as the rookie. James finished with eight rush attempts (tying Khalil Herbert for the team lead) for 35 yards and caught one of his two targets for 20 receiving yards. It was the first appearance of the preseason for James, who missed the 49ers' previous two games while on the mend from a rib fracture suffered on the second day of training camp. The second year back out of Oregon is now in the mix, along with Black, Herbert, and Isaac Guerendo (pectoral) to back up Christian McCaffrey (undisclosed). With San Francisco's depth chart up in the air, fantasy managers should be on the lookout for announcements. Whoever wins out as the 49ers' RB2 will be one of the more valuable handcuffs in fantasy football.",
-        "title": "Jordan James Gets Eight Carries In First And Only Preseason Action",
-        "topic_id": "1398982201445474304",
-        "url": "https://www.rotoballer.com/player-news/jordan-james-gets-eight-carries-in-first-and-only-preseason-action/1918129"
-      },
-      "nfl_team": "SF",
-      "player_id": "12467",
-      "player_name": "Jordan James",
-      "position": "RB",
-      "published": 1787891045000,
-      "source": "rotoballer",
-      "source_key": "219554",
-      "story_id": "nfl|12467|rotoballer|219554|1787891045000",
-      "title": "Jordan James Gets Eight Carries In First And Only Preseason Action",
-      "url": "https://www.rotoballer.com/player-news/jordan-james-gets-eight-carries-in-first-and-only-preseason-action/1918129"
-    },
-    {
-      "analysis": "James was the second 49ers running back to log a touch behind Kaelon Black, carrying the ball on all three plays of the team's fourth drive. James netted eight rushing yards on that trio of rush attempts, and he proceeded to rattle off his game-long 17-yard gain just before the two-minute warning the next time San Francisco had the ball. Thursday marked James' only action of the preseason after he previously dealt with a rib fracture, and it remains to be seen how his splash plays as both a runner and receiver impact his standing heading into the regular season.",
-      "description": "James (ribs) rushed eight times for 35 yards and brought in one of two targets for 20 yards in the 49ers' 18-12 preseason win over the Raiders on Thursday.",
-      "metadata": {
-        "analysis": "James was the second 49ers running back to log a touch behind Kaelon Black, carrying the ball on all three plays of the team's fourth drive. James netted eight rushing yards on that trio of rush attempts, and he proceeded to rattle off his game-long 17-yard gain just before the two-minute warning the next time San Francisco had the ball. Thursday marked James' only action of the preseason after he previously dealt with a rib fracture, and it remains to be seen how his splash plays as both a runner and receiver impact his standing heading into the regular season.",
-        "description": "James (ribs) rushed eight times for 35 yards and brought in one of two targets for 20 yards in the 49ers' 18-12 preseason win over the Raiders on Thursday.",
-        "title": "Jordan James - Strong finish to preseason",
-        "topic_id": "1398915506127278080"
-      },
-      "nfl_team": "SF",
-      "player_id": "12467",
-      "player_name": "Jordan James",
-      "position": "RB",
-      "published": 1787889796000,
-      "source": "rotowire",
-      "source_key": "634989",
-      "story_id": "nfl|12467|rotowire|634989|1787889796000",
-      "title": "Jordan James - Strong finish to preseason",
-      "url": null
-    },
-    {
-      "analysis": "Green got his first taste of NFL game action by playing the second half of Thursday's preseason finale after Dillon Gabriel tossed three first-half touchdowns. The rookie sixth-round pick out of Arkansas wasn't asked to do much as a passer, but Green showed off his mobility and finished as the team's leading rusher. Green had 16 rushing touchdowns in two years at Arkansas after scoring 19 across his preceding two seasons at Boise State, but he likely needs some development as a passer, and he's set to open the regular season as the fourth option on Cleveland's QB depth chart behind Deshaun Watson, Shedeur Sanders and Gabriel.",
-      "description": "Green completed five of seven passes for 27 yards while rushing eight times for 66 yards in Thursday's 37-13 preseason win over the Patriots.",
-      "metadata": {
-        "analysis": "Green got his first taste of NFL game action by playing the second half of Thursday's preseason finale after Dillon Gabriel tossed three first-half touchdowns. The rookie sixth-round pick out of Arkansas wasn't asked to do much as a passer, but Green showed off his mobility and finished as the team's leading rusher. Green had 16 rushing touchdowns in two years at Arkansas after scoring 19 across his preceding two seasons at Boise State, but he likely needs some development as a passer, and he's set to open the regular season as the fourth option on Cleveland's QB depth chart behind Deshaun Watson, Shedeur Sanders and Gabriel.",
-        "description": "Green completed five of seven passes for 27 yards while rushing eight times for 66 yards in Thursday's 37-13 preseason win over the Patriots.",
-        "title": "Taylen Green - Plays second half of preseason finale",
-        "topic_id": "1398915506089529344"
-      },
-      "nfl_team": "CLE",
-      "player_id": "13306",
-      "player_name": "Taylen Green",
-      "position": "QB",
-      "published": 1787889440000,
-      "source": "rotowire",
-      "source_key": "634988",
-      "story_id": "nfl|13306|rotowire|634988|1787889440000",
-      "title": "Taylen Green - Plays second half of preseason finale",
-      "url": null
-    },
-    {
-      "analysis": "Nailor led the Raiders in targets and finished tied for second in receptions. The fifth-year pro made his first catch on a pass from Kirk Cousins for a seven-yard gain during the opening possession, and he recorded his second and final one with Fernando Mendoza under center to open Las Vegas' third drive. Nailor was then also the intended target deep down the middle on the next play, a pass that resulted in an interception. Nailor is projected to open the regular season as the No. 2 receiver and posted a 3-35-0 line on seven targets in two preseason games.",
-      "description": "Nailor brought in two of four targets for 13 yards in the Raiders' 18-12 preseason loss to the 49ers on Thursday.",
-      "metadata": {
-        "analysis": "Nailor led the Raiders in targets and finished tied for second in receptions. The fifth-year pro made his first catch on a pass from Kirk Cousins for a seven-yard gain during the opening possession, and he recorded his second and final one with Fernando Mendoza under center to open Las Vegas' third drive. Nailor was then also the intended target deep down the middle on the next play, a pass that resulted in an interception. Nailor is projected to open the regular season as the No. 2 receiver and posted a 3-35-0 line on seven targets in two preseason games.",
-        "description": "Nailor brought in two of four targets for 13 yards in the Raiders' 18-12 preseason loss to the 49ers on Thursday.",
-        "title": "Jalen Nailor - Two catches in preseason loss",
-        "topic_id": "1398915506085335040"
-      },
-      "nfl_team": "LV",
-      "player_id": "8180",
-      "player_name": "Jalen Nailor",
-      "position": "WR",
-      "published": 1787889242000,
-      "source": "rotowire",
-      "source_key": "634987",
-      "story_id": "nfl|8180|rotowire|634987|1787889242000",
-      "title": "Jalen Nailor - Two catches in preseason loss",
-      "url": null
-    },
-    {
-      "analysis": "Tucker led the Raiders in receptions and receiving yards on a night when Las Vegas netted just 138 passing yards overall. Tucker, Las Vegas' presumptive No. 1 receiver to open the regular season, played on the first two drives and recorded 14- and eight-yard grabs on passes from Kirk Cousins during back-to-back plays on the opening possession. Tucker finishes the preseason with a 5-46-0 line on five targets over two games, and he'll now set his sights on the Dolphins for a Week 1 home matchup on Sunday, Sept. 13.",
-      "description": "Tucker secured all three targets for 25 yards in the Raiders' 18-12 preseason loss to the 49ers on Thursday.",
-      "metadata": {
-        "analysis": "Tucker led the Raiders in receptions and receiving yards on a night when Las Vegas netted just 138 passing yards overall. Tucker, Las Vegas' presumptive No. 1 receiver to open the regular season, played on the first two drives and recorded 14- and eight-yard grabs on passes from Kirk Cousins during back-to-back plays on the opening possession. Tucker finishes the preseason with a 5-46-0 line on five targets over two games, and he'll now set his sights on the Dolphins for a Week 1 home matchup on Sunday, Sept. 13.",
-        "description": "Tucker secured all three targets for 25 yards in the Raiders' 18-12 preseason loss to the 49ers on Thursday.",
-        "title": "Tre Tucker - Paces pass catchers in preseason loss",
-        "topic_id": "1398911731656335360"
-      },
-      "nfl_team": "LV",
-      "player_id": "10213",
-      "player_name": "Tre Tucker",
-      "position": "WR",
-      "published": 1787888797000,
-      "source": "rotowire",
-      "source_key": "634984",
-      "story_id": "nfl|10213|rotowire|634984|1787888797000",
-      "title": "Tre Tucker - Paces pass catchers in preseason loss",
-      "url": null
-    },
-    {
-      "analysis": "Black didn't log a touch on the 49ers' opening three-and-out possession, but he gained 11 yards on back-to-back carries to start San Francisco's second drive. The rookie third-round pick then recorded his game-high 14 yard run on the last play of the first quarter, rounding out his relatively brief night in encouraging fashion. Black put together a solid two-game preseason during which he rushed 12 times for 61 yards, but his primary competition for the No. 2 running back role, Jordan James, had a productive night himself Thursday with 55 yards from scrimmage on nine touches. Consequently, it's possible the two backs share complementary work behind Christian McCaffrey (undisclosed) to open the regular season.",
-      "description": "Black rushed four times for 28 yards and failed to bring in his only target in the 49ers' 18-12 preseason win over the Raiders on Thursday.",
-      "metadata": {
-        "analysis": "Black didn't log a touch on the 49ers' opening three-and-out possession, but he gained 11 yards on back-to-back carries to start San Francisco's second drive. The rookie third-round pick then recorded his game-high 14 yard run on the last play of the first quarter, rounding out his relatively brief night in encouraging fashion. Black put together a solid two-game preseason during which he rushed 12 times for 61 yards, but his primary competition for the No. 2 running back role, Jordan James, had a productive night himself Thursday with 55 yards from scrimmage on nine touches. Consequently, it's possible the two backs share complementary work behind Christian McCaffrey (undisclosed) to open the regular season.",
-        "description": "Black rushed four times for 28 yards and failed to bring in his only target in the 49ers' 18-12 preseason win over the Raiders on Thursday.",
-        "title": "Kaelon Black - Averages 7.0 yards per carry",
-        "topic_id": "1398910473486733312"
-      },
-      "nfl_team": "SF",
-      "player_id": "13414",
-      "player_name": "Kaelon Black",
-      "position": "RB",
-      "published": 1787888437000,
-      "source": "rotowire",
-      "source_key": "634982",
-      "story_id": "nfl|13414|rotowire|634982|1787888437000",
-      "title": "Kaelon Black - Averages 7.0 yards per carry",
-      "url": null
-    },
-    {
-      "analysis": "The first overall pick in the 2026 NFL Draft, Mendoza opened training camp as the No. 2 QB and has remained there through the preseason, but he has earned some reps with the first-team offense along the way in both practices and exhibitions. He wrapped up his three preseason contests having completed 25 of 45 passes for 240 yards, one touchdown and two interceptions. Until coach Klint Kubiak makes a decision, ther potential exists for Mendoza to be under center for Las Vegas in Week 1 versus the Dolphins",
-      "description": "Mendoza remains in the mix for the Raiders' starting quarterback job along with veteran Kirk Cousins, Vinny Bonsignore of the California Post reports.",
-      "metadata": {
-        "analysis": "The first overall pick in the 2026 NFL Draft, Mendoza opened training camp as the No. 2 QB and has remained there through the preseason, but he has earned some reps with the first-team offense along the way in both practices and exhibitions. He wrapped up his three preseason contests having completed 25 of 45 passes for 240 yards, one touchdown and two interceptions. Until coach Klint Kubiak makes a decision, ther potential exists for Mendoza to be under center for Las Vegas in Week 1 versus the Dolphins",
-        "description": "Mendoza remains in the mix for the Raiders' starting quarterback job along with veteran Kirk Cousins, Vinny Bonsignore of the California Post reports.",
-        "title": "Fernando Mendoza - Still in QB competition",
-        "topic_id": "1398909214348337152"
-      },
-      "nfl_team": "LV",
-      "player_id": "13269",
-      "player_name": "Fernando Mendoza",
-      "position": "QB",
-      "published": 1787888213000,
-      "source": "rotowire",
-      "source_key": "634981",
-      "story_id": "nfl|13269|rotowire|634981|1787888213000",
-      "title": "Fernando Mendoza - Still in QB competition",
-      "url": null
-    },
-    {
-      "analysis": "Washington operated as the starting running back with Ashton Jeanty (ankle) sidelined and turned in an efficient performance. The rookie fourth-round pick set the tone for his night by quickly churning out 12 yards on the first two plays from scrimmage, and he added 13- and 11-yard gains on Las Vegas' second possession. Washington appears firmly entrenched as the No. 2 back to open the season, but he'd be teed up for a likely Week 1 starting assignment against the Dolphins on Sunday, Sept. 13 if Jeanty is unable to suit up.",
-      "description": "Washington rushed eight times for 49 yards and failed to bring in his only target in the Raiders' 18-12 preseason loss to the 49ers on Thursday.",
-      "metadata": {
-        "analysis": "Washington operated as the starting running back with Ashton Jeanty (ankle) sidelined and turned in an efficient performance. The rookie fourth-round pick set the tone for his night by quickly churning out 12 yards on the first two plays from scrimmage, and he added 13- and 11-yard gains on Las Vegas' second possession. Washington appears firmly entrenched as the No. 2 back to open the season, but he'd be teed up for a likely Week 1 starting assignment against the Dolphins on Sunday, Sept. 13 if Jeanty is unable to suit up.",
-        "description": "Washington rushed eight times for 49 yards and failed to bring in his only target in the Raiders' 18-12 preseason loss to the 49ers on Thursday.",
-        "title": "Mike Washington - Effective in preseason start",
-        "topic_id": "1398907956086497280"
-      },
-      "nfl_team": "LV",
-      "player_id": "13305",
-      "player_name": "Mike Washington",
-      "position": "RB",
-      "published": 1787887893000,
-      "source": "rotowire",
-      "source_key": "634980",
-      "story_id": "nfl|13305|rotowire|634980|1787887893000",
-      "title": "Mike Washington - Effective in preseason start",
-      "url": null
-    },
-    {
-      "analysis": "Cousins opened training camp as the Raiders' starting QB and has been listed as No. 1 on the depth chart throughout camp and exhibition season. On Thursday, he started and completed eight of 11 passes for 51 yards, no touchdowns and no interceptions, which seemingly wasn't enough to lock down the job over Mendoza. As a result, this situation remains the top lingering job battle in advance of Week 1.",
-      "description": "Coach Klint Kubiak said after Thursday's preseason game against the 49ers that he hasn't made a decision between Cousins and rookie first overall pick Fernando Mendoza regarding who will be the Week 1 starting quarterback, Vincent Bonsignore of the California Post reports.",
-      "metadata": {
-        "analysis": "Cousins opened training camp as the Raiders' starting QB and has been listed as No. 1 on the depth chart throughout camp and exhibition season. On Thursday, he started and completed eight of 11 passes for 51 yards, no touchdowns and no interceptions, which seemingly wasn't enough to lock down the job over Mendoza. As a result, this situation remains the top lingering job battle in advance of Week 1.",
-        "description": "Coach Klint Kubiak said after Thursday's preseason game against the 49ers that he hasn't made a decision between Cousins and rookie first overall pick Fernando Mendoza regarding who will be the Week 1 starting quarterback, Vincent Bonsignore of the California Post reports.",
-        "title": "Kirk Cousins - Decision on Week 1 starting QB still to come",
-        "topic_id": "1398906697958830080"
-      },
-      "nfl_team": "LV",
-      "player_id": "1166",
-      "player_name": "Kirk Cousins",
-      "position": "QB",
-      "published": 1787887549000,
-      "source": "rotowire",
-      "source_key": "634978",
-      "story_id": "nfl|1166|rotowire|634978|1787887549000",
-      "title": "Kirk Cousins - Decision on Week 1 starting QB still to come",
-      "url": null
-    },
-    {
-      "analysis": "The talented tight end logged only one snap in the preseason opener against the Cardinals on Aug. 13 and then was rested for last Thursday's game against the Texans, so Bowers' catch goes down as his first and only stat from exhibition season. After an injury-impacted 2025, Bowers is back to full health and will serve as the top target in the Raiders offense to begin the campaign. Bowers next takes the field in a Week 1 home matchup against the Dolphins on Sunday, Sept. 13.",
-      "description": "Bowers secured one of two targets for six yards in the Raiders' 18-12 preseason loss to the 49ers on Thursday.",
-      "metadata": {
-        "analysis": "The talented tight end logged only one snap in the preseason opener against the Cardinals on Aug. 13 and then was rested for last Thursday's game against the Texans, so Bowers' catch goes down as his first and only stat from exhibition season. After an injury-impacted 2025, Bowers is back to full health and will serve as the top target in the Raiders offense to begin the campaign. Bowers next takes the field in a Week 1 home matchup against the Dolphins on Sunday, Sept. 13.",
-        "description": "Bowers secured one of two targets for six yards in the Raiders' 18-12 preseason loss to the 49ers on Thursday.",
-        "title": "Brock Bowers - One catch in preseason loss",
-        "topic_id": "1398904181007323136"
-      },
-      "nfl_team": "LV",
-      "player_id": "11604",
-      "player_name": "Brock Bowers",
-      "position": "TE",
-      "published": 1787886987000,
-      "source": "rotowire",
-      "source_key": "634974",
-      "story_id": "nfl|11604|rotowire|634974|1787886987000",
-      "title": "Brock Bowers - One catch in preseason loss",
-      "url": null
-    },
-    {
-      "analysis": "Smith and most of the Jets' starters will sit out Friday's contest as the team prepares for Week 1 against the Titans on Sunday, Sept. 13. The quarterback played the opening drive of the team's preseason win over Pittsburgh on Aug. 21, completing all seven of his passes for 65 yards and a touchdown. That will end up being the only action he sees during the preseason, and Week 1 will be his first regular-season start with the Jets since 2016.",
-      "description": "Smith will not play in Friday's preseason finale against the Giants, Brian Costello of the New York Post reports.",
-      "metadata": {
-        "analysis": "Smith and most of the Jets' starters will sit out Friday's contest as the team prepares for Week 1 against the Titans on Sunday, Sept. 13. The quarterback played the opening drive of the team's preseason win over Pittsburgh on Aug. 21, completing all seven of his passes for 65 yards and a touchdown. That will end up being the only action he sees during the preseason, and Week 1 will be his first regular-season start with the Jets since 2016.",
-        "description": "Smith will not play in Friday's preseason finale against the Giants, Brian Costello of the New York Post reports.",
-        "title": "Geno Smith - Not playing Friday",
-        "topic_id": "1398880270827917312"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "1373",
-      "player_name": "Geno Smith",
-      "position": "QB",
-      "published": 1787881415000,
-      "source": "rotowire",
-      "source_key": "634967",
-      "story_id": "nfl|1373|rotowire|634967|1787881415000",
-      "title": "Geno Smith - Not playing Friday",
-      "url": null
     }
   ]
 }
