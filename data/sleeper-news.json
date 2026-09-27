@@ -1,26 +1,13 @@
 {
-  "last_checked_at": "2026-09-26T23:23:54Z",
+  "last_checked_at": "2026-09-27T01:37:40Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 298,
   "new_story_ids": [
-    "nfl|11256|rotoballer|222434|1790444232000",
-    "nfl|11533|rotoballer|222452|1790448608000",
-    "nfl|11560|fantasy_pros|610847|1790459130719",
-    "nfl|11620|rotoballer|222438|1790446049000",
-    "nfl|11625|rotoballer|222432|1790442906000",
-    "nfl|12517|rotoballer|222450|1790447029000",
-    "nfl|12519|rotoballer|222437|1790445674000",
-    "nfl|12534|rotoballer|222436|1790445369000",
-    "nfl|13294|rotoballer|222446|1790440866000",
-    "nfl|13345|fantasy_pros|610846|1790459130731",
-    "nfl|1737|rotoballer|222435|1790444586000",
-    "nfl|3286|rotowire|639315|1790457432000",
-    "nfl|4866|rotoballer|222440|1790441534000",
-    "nfl|6790|rotoballer|222453|1790444954000",
-    "nfl|6904|rotoballer|222444|1790439907000",
-    "nfl|9225|rotoballer|222439|1790441828000",
-    "nfl|9486|rotoballer|222447|1790440639000",
-    "nfl|9511|rotoballer|222449|1790446639000"
+    "nfl|11370|rotowire|639328|1790469433000",
+    "nfl|12504|rotowire|639324|1790464928000",
+    "nfl|13320|rotowire|639326|1790467049000",
+    "nfl|3286|rotoballer|222455|1790451138000",
+    "nfl|8188|rotoballer|222456|1790457074000"
   ],
   "schema_version": 1,
   "source": {
@@ -30,6 +17,66 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Brooks totalled 40 yards on 11 carries through the first two games of the regular season. However, he wasn't involved in the rushing game Thursday, though Kaleb Johnson and MarShawn Lloyd combined for only 17 yards on eight carries. Part of the Packers' struggles in the running game has to do with injuries to the offensive line, though it's hard to trust Brooks, Johnson or Lloyd for consistent production, even if Josh Jacobs (personal) continues to remain on the Commissioner's Exempt List. The Packers hit the road for a Week 4 tilt against the Buccaneers on Sunday, Oct. 4.",
+      "description": "Brooks caught his only target for four yards and added a tackle on special teams during the Packers' 35-14 loss to the Falcons on Thursday.",
+      "metadata": {
+        "analysis": "Brooks totalled 40 yards on 11 carries through the first two games of the regular season. However, he wasn't involved in the rushing game Thursday, though Kaleb Johnson and MarShawn Lloyd combined for only 17 yards on eight carries. Part of the Packers' struggles in the running game has to do with injuries to the offensive line, though it's hard to trust Brooks, Johnson or Lloyd for consistent production, even if Josh Jacobs (personal) continues to remain on the Commissioner's Exempt List. The Packers hit the road for a Week 4 tilt against the Buccaneers on Sunday, Oct. 4.",
+        "description": "Brooks caught his only target for four yards and added a tackle on special teams during the Packers' 35-14 loss to the Falcons on Thursday.",
+        "title": "Chris Brooks - Zero carries in Week 3 loss",
+        "topic_id": "1409735444496674816"
+      },
+      "nfl_team": "GB",
+      "player_id": "11370",
+      "player_name": "Chris Brooks",
+      "position": "RB",
+      "published": 1790469433000,
+      "source": "rotowire",
+      "source_key": "639328",
+      "story_id": "nfl|11370|rotowire|639328|1790469433000",
+      "title": "Chris Brooks - Zero carries in Week 3 loss",
+      "url": null
+    },
+    {
+      "analysis": "The rookie third-rounder has contributed on both special teams as a returner and on offense as a rotational pass catcher. He's up to three catches (on four targets) for 21 yards and 110 return yards through three regular-season games. His involvement on offense hasn't been as high as other rookie wide receivers, but the Falcons appear committed to using Branch in multiple ways to utilize his speed and explosiveness.",
+      "description": "Branch caught one pass on two targets for seven yards while logging an 18-yard punt return and a 22-yard kickoff return during the Falcons' 35-14 win over the Packers on Thursday.",
+      "metadata": {
+        "analysis": "The rookie third-rounder has contributed on both special teams as a returner and on offense as a rotational pass catcher. He's up to three catches (on four targets) for 21 yards and 110 return yards through three regular-season games. His involvement on offense hasn't been as high as other rookie wide receivers, but the Falcons appear committed to using Branch in multiple ways to utilize his speed and explosiveness.",
+        "description": "Branch caught one pass on two targets for seven yards while logging an 18-yard punt return and a 22-yard kickoff return during the Falcons' 35-14 win over the Packers on Thursday.",
+        "title": "Zachariah Branch - Continues to contribute as returner",
+        "topic_id": "1409725376904585216"
+      },
+      "nfl_team": "ATL",
+      "player_id": "13320",
+      "player_name": "Zachariah Branch",
+      "position": "WR",
+      "published": 1790467049000,
+      "source": "rotowire",
+      "source_key": "639326",
+      "story_id": "nfl|13320|rotowire|639326|1790467049000",
+      "title": "Zachariah Branch - Continues to contribute as returner",
+      "url": null
+    },
+    {
+      "analysis": "The Packers backfield mustered just eight rushes (MarShawn Lloyd had the other four) on a night in which the team was increasingly in catch-up mode, spurring 53 pass attempts from QB Jordan Love. After Johnson was dealt to Green Bay from Pittsburgh on Aug. 30, he didn't receive a snap on offense Week 1, but his offensive snap share increased from 27 percent Week 2 to 36 percent Week 3, while Lloyd's share has gone in the opposite direction, and Chris Brooks' has remained relatively stable. Because the team's RBs have mustered just 146 rushing yards (3.0 YPC) through three games, none of the trio are particularly intriguing for fantasy purposes at the moment, especially behind a makeshift O-line, but Johnson's elevated sway could mean that a stash eventually yields positive results.",
+      "description": "Johnson tallied four carries for six yards and gathered in one of three targets for 10 yards during Thursday's 35-14 loss to the Falcons.",
+      "metadata": {
+        "analysis": "The Packers backfield mustered just eight rushes (MarShawn Lloyd had the other four) on a night in which the team was increasingly in catch-up mode, spurring 53 pass attempts from QB Jordan Love. After Johnson was dealt to Green Bay from Pittsburgh on Aug. 30, he didn't receive a snap on offense Week 1, but his offensive snap share increased from 27 percent Week 2 to 36 percent Week 3, while Lloyd's share has gone in the opposite direction, and Chris Brooks' has remained relatively stable. Because the team's RBs have mustered just 146 rushing yards (3.0 YPC) through three games, none of the trio are particularly intriguing for fantasy purposes at the moment, especially behind a makeshift O-line, but Johnson's elevated sway could mean that a stash eventually yields positive results.",
+        "description": "Johnson tallied four carries for six yards and gathered in one of three targets for 10 yards during Thursday's 35-14 loss to the Falcons.",
+        "title": "Kaleb Johnson - Earns five touches in Week 3",
+        "topic_id": "1409716568195153920"
+      },
+      "nfl_team": "GB",
+      "player_id": "12504",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "published": 1790464928000,
+      "source": "rotowire",
+      "source_key": "639324",
+      "story_id": "nfl|12504|rotowire|639324|1790464928000",
+      "title": "Kaleb Johnson - Earns five touches in Week 3",
+      "url": null
+    },
     {
       "analysis": "Coleman had already been ruled out for this week's game. He will now miss at least the next four games. J.K. Dobbins and RJ Harvey will continue to lead the Broncos backfield. ",
       "description": "The Broncos placed RB Jonah Coleman on injured reserve.",
@@ -91,6 +138,26 @@
       "story_id": "nfl|3286|rotowire|639315|1790457432000",
       "title": "Demarcus Robinson - Moved to injured reserve",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs wide receiver Tyquan Thornton is coming off a solid performance against the Indianapolis Colts in Week 2. Thornton hauled in all four of his targets for 86 yards in the overtime victory. The 26-year-old was held without a catch in the opener, but now he appears to be getting on the same page as quarterback Patrick Mahomes. Thornton is currently the third wide receiver in this offense, but is unlikely to provide weekly value. He'll head into a favorable matchup against the Miami Dolphins in Week 3. His role is probably too inconsistent at the moment to trust in most fantasy formats.",
+      "metadata": {
+        "description": "Kansas City Chiefs wide receiver Tyquan Thornton is coming off a solid performance against the Indianapolis Colts in Week 2. Thornton hauled in all four of his targets for 86 yards in the overtime victory. The 26-year-old was held without a catch in the opener, but now he appears to be getting on the same page as quarterback Patrick Mahomes. Thornton is currently the third wide receiver in this offense, but is unlikely to provide weekly value. He'll head into a favorable matchup against the Miami Dolphins in Week 3. His role is probably too inconsistent at the moment to trust in most fantasy formats.",
+        "title": "Tyquan Thornton is a Deep League Play for Week 3",
+        "topic_id": "1409745509031112704",
+        "url": "https://www.rotoballer.com/player-news/tyquan-thornton-is-a-deep-league-play-for-week-3/1951781"
+      },
+      "nfl_team": "KC",
+      "player_id": "8188",
+      "player_name": "Tyquan Thornton",
+      "position": "WR",
+      "published": 1790457074000,
+      "source": "rotoballer",
+      "source_key": "222456",
+      "story_id": "nfl|8188|rotoballer|222456|1790457074000",
+      "title": "Tyquan Thornton is a Deep League Play for Week 3",
+      "url": "https://www.rotoballer.com/player-news/tyquan-thornton-is-a-deep-league-play-for-week-3/1951781"
     },
     {
       "analysis": "Coleman has been diagnosed with a high-ankle sprain and was unable to practice all week. He'll now go on IR and will be required to miss at least four games, meaning the earliest he can return is Week 7 against the Cardinals on Sunday, Oct. 25. With Coleman sidelined, Tyler Badie could see an uptick in offensive snaps as the third option in the Broncos' backfield behind J.K. Dobbins and RJ Harvey.",
@@ -233,6 +300,26 @@
       "story_id": "nfl|5022|rotowire|639296|1790452879000",
       "title": "Dallas Goedert - Won't play Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "The San Francisco 49ers announced on Saturday that they placed wide receiver Demarcus Robinson (ankle) on Injured Reserve. Robinson joins Ricky Pearsall (knee), who is out for the season, veteran Christian Kirk (calf), and rookie De'Zhaun Stribling (ankle) as 49ers wideouts on IR. The 32-year-old veteran caught two passes for 50 yards and his first touchdown of the year in the impressive season-opening win over the division-rival Los Angeles Rams in Australia, but he caught three passes for 34 yards before suffering a high right-ankle sprain in last week's blowout win over the Miami Dolphins. He is now facing a recovery timetable of three to six weeks. Robinson will miss at least the next four games, and the earliest he will be eligible to return will be for the team's Oct. 25 game on the road in Atlanta against the Falcons. With veteran Mike Evans (hip) questionable to play in Week 3 against the division-rival Arizona Cardinals, Jacob Cowing could be San Francisco's WR2 this weekend behind Deebo Samuel Sr.",
+      "metadata": {
+        "description": "The San Francisco 49ers announced on Saturday that they placed wide receiver Demarcus Robinson (ankle) on Injured Reserve. Robinson joins Ricky Pearsall (knee), who is out for the season, veteran Christian Kirk (calf), and rookie De'Zhaun Stribling (ankle) as 49ers wideouts on IR. The 32-year-old veteran caught two passes for 50 yards and his first touchdown of the year in the impressive season-opening win over the division-rival Los Angeles Rams in Australia, but he caught three passes for 34 yards before suffering a high right-ankle sprain in last week's blowout win over the Miami Dolphins. He is now facing a recovery timetable of three to six weeks. Robinson will miss at least the next four games, and the earliest he will be eligible to return will be for the team's Oct. 25 game on the road in Atlanta against the Falcons. With veteran Mike Evans (hip) questionable to play in Week 3 against the division-rival Arizona Cardinals, Jacob Cowing could be San Francisco's WR2 this weekend behind Deebo Samuel Sr.",
+        "title": "49ers Put Demarcus Robinson on Injured Reserve on Saturday",
+        "topic_id": "1409720341063897088",
+        "url": "https://www.rotoballer.com/player-news/49ers-put-demarcus-robinson-on-injured-reserve-on-saturday/1951741"
+      },
+      "nfl_team": "SF",
+      "player_id": "3286",
+      "player_name": "Demarcus Robinson",
+      "position": "WR",
+      "published": 1790451138000,
+      "source": "rotoballer",
+      "source_key": "222455",
+      "story_id": "nfl|3286|rotoballer|222455|1790451138000",
+      "title": "49ers Put Demarcus Robinson on Injured Reserve on Saturday",
+      "url": "https://www.rotoballer.com/player-news/49ers-put-demarcus-robinson-on-injured-reserve-on-saturday/1951741"
     },
     {
       "analysis": "Bagent progressed enough through the league's concussion protocol to participate in Saturday's practice without limitations. However, he'll need to be symptom free over the next couple of days and pass an evaluation by an independent neurologist before being cleared to play. Caleb Williams (hamstring) has already been ruled out, so if Bagent cannot play, then Case Keenum would be the Bears' starting quarterback Monday.",
@@ -99556,206 +99643,6 @@
       "source_key": "634967",
       "story_id": "nfl|1373|rotowire|634967|1787881415000",
       "title": "Geno Smith - Not playing Friday",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams quarterback Ty Simpson completed 18 of his 23 pass attempts for 119 yards, one touchdown, zero turnovers, and zero sacks during Thursday's preseason finale against the Los Angeles Chargers. While the first-round rookie didn't have extremely staggering passing numbers, it's still quite encouraging that he posted a 78.3% completion rate and didn't have any turnovers or sacks. Simpson played a role in all three preseason games for the Rams, finishing the preseason with 382 yards, three touchdowns, zero interceptions, and zero sacks. For now, he'll ride the bench behind reigning MVP Matthew Stafford, but he offers spectacular insurance in case Stafford gets hurt or for when he eventually chooses to retire. He ranks as the QB26 in RotoBaller's latest dynasty fantasy football rankings.",
-      "metadata": {
-        "description": "Los Angeles Rams quarterback Ty Simpson completed 18 of his 23 pass attempts for 119 yards, one touchdown, zero turnovers, and zero sacks during Thursday's preseason finale against the Los Angeles Chargers. While the first-round rookie didn't have extremely staggering passing numbers, it's still quite encouraging that he posted a 78.3% completion rate and didn't have any turnovers or sacks. Simpson played a role in all three preseason games for the Rams, finishing the preseason with 382 yards, three touchdowns, zero interceptions, and zero sacks. For now, he'll ride the bench behind reigning MVP Matthew Stafford, but he offers spectacular insurance in case Stafford gets hurt or for when he eventually chooses to retire. He ranks as the QB26 in RotoBaller's latest dynasty fantasy football rankings.",
-        "title": "Ty Simpson Wraps Up His First NFL Preseason",
-        "topic_id": "1398934380260409344",
-        "url": "https://www.rotoballer.com/player-news/ty-simpson-wraps-up-his-first-nfl-preseason/1918108"
-      },
-      "nfl_team": "LAR",
-      "player_id": "13275",
-      "player_name": "Ty Simpson",
-      "position": "QB",
-      "published": 1787879711000,
-      "source": "rotoballer",
-      "source_key": "219552",
-      "story_id": "nfl|13275|rotoballer|219552|1787879711000",
-      "title": "Ty Simpson Wraps Up His First NFL Preseason",
-      "url": "https://www.rotoballer.com/player-news/ty-simpson-wraps-up-his-first-nfl-preseason/1918108"
-    },
-    {
-      "analysis": null,
-      "description": "Tennessee Titans running back Tyjae Spears could be headed for more of the same in 2026. He remains the No. 2 option on the depth chart behind Tony Pollard, putting him in line to handle receiving work without a very sizable role on early downs. Across 13 games last year, Spears logged a career-low 283 rushing yards, but he did catch 45 passes for 264 receiving yards. Tennessee's offense may look a little different with Robert Saleh and Brian Daboll coaching the team and Wan'Dale Robinson and Carnell Tate added to the offense, but from a backfield perspective, not much has changed. We expect to see Tony Pollard go for another 1,000+ rushing yards and 6-8 touchdowns, leaving Spears to catch passes. The big concern is that Spears will be tough to trust week over week. Sure, he'll have some big games -- especially in PPR -- but his inconsistency will make it tough to know which weeks he's worth starting. As a result, he has a modest ranking as the RB44 in RotoBaller's latest fantasy football draft rankings. At that spot, he's not quite a weekly RB3/flex, but he could certainly jump into that tier if he's playing a weaker defense or has been getting more involved in recent weeks.",
-      "metadata": {
-        "description": "Tennessee Titans running back Tyjae Spears could be headed for more of the same in 2026. He remains the No. 2 option on the depth chart behind Tony Pollard, putting him in line to handle receiving work without a very sizable role on early downs. Across 13 games last year, Spears logged a career-low 283 rushing yards, but he did catch 45 passes for 264 receiving yards. Tennessee's offense may look a little different with Robert Saleh and Brian Daboll coaching the team and Wan'Dale Robinson and Carnell Tate added to the offense, but from a backfield perspective, not much has changed. We expect to see Tony Pollard go for another 1,000+ rushing yards and 6-8 touchdowns, leaving Spears to catch passes. The big concern is that Spears will be tough to trust week over week. Sure, he'll have some big games -- especially in PPR -- but his inconsistency will make it tough to know which weeks he's worth starting. As a result, he has a modest ranking as the RB44 in RotoBaller's latest fantasy football draft rankings. At that spot, he's not quite a weekly RB3/flex, but he could certainly jump into that tier if he's playing a weaker defense or has been getting more involved in recent weeks.",
-        "title": "Similar Year Incoming for Tyjae Spears?",
-        "topic_id": "1398931863749267456",
-        "url": "https://www.rotoballer.com/player-news/similar-year-incoming-for-tyjae-spears/1918098"
-      },
-      "nfl_team": "TEN",
-      "player_id": "9508",
-      "player_name": "Tyjae Spears",
-      "position": "RB",
-      "published": 1787878928000,
-      "source": "rotoballer",
-      "source_key": "219550",
-      "story_id": "nfl|9508|rotoballer|219550|1787878928000",
-      "title": "Similar Year Incoming for Tyjae Spears?",
-      "url": "https://www.rotoballer.com/player-news/similar-year-incoming-for-tyjae-spears/1918098"
-    },
-    {
-      "analysis": null,
-      "description": "New York Jets running back Braelon Allen was a low-end handcuff in years past, but he appears to have developed into a legitimate fantasy option with potential standalone value in deeper leagues this season. Allen ran with the first-team offense when Breece Hall (groin) was sidelined, and while we do expect to see Hall back for Week 1, Allen could continue to play a role on offense. He's a versatile running back who contributes as a receiver and ball-carrier, and at 22 years old, he injects some youth into the offense while offering Hall a breather from time to time. Allen has jumped to RB64 in RotoBaller's latest fantasy football rankings for 2026. If this offense starts to show any signs of life this year, we'd be intrigued by the possibility of both Hall and Allen carving out fantasy value.",
-      "metadata": {
-        "description": "New York Jets running back Braelon Allen was a low-end handcuff in years past, but he appears to have developed into a legitimate fantasy option with potential standalone value in deeper leagues this season. Allen ran with the first-team offense when Breece Hall (groin) was sidelined, and while we do expect to see Hall back for Week 1, Allen could continue to play a role on offense. He's a versatile running back who contributes as a receiver and ball-carrier, and at 22 years old, he injects some youth into the offense while offering Hall a breather from time to time. Allen has jumped to RB64 in RotoBaller's latest fantasy football rankings for 2026. If this offense starts to show any signs of life this year, we'd be intrigued by the possibility of both Hall and Allen carving out fantasy value.",
-        "title": "Braelon Allen Developing Into a Legitimate Fantasy Option This Year",
-        "topic_id": "1398930605378449408",
-        "url": "https://www.rotoballer.com/player-news/braelon-allen-developing-into-a-legitimate-fantasy-option-this-year/1918095"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "11576",
-      "player_name": "Braelon Allen",
-      "position": "RB",
-      "published": 1787878630000,
-      "source": "rotoballer",
-      "source_key": "219549",
-      "story_id": "nfl|11576|rotoballer|219549|1787878630000",
-      "title": "Braelon Allen Developing Into a Legitimate Fantasy Option This Year",
-      "url": "https://www.rotoballer.com/player-news/braelon-allen-developing-into-a-legitimate-fantasy-option-this-year/1918095"
-    },
-    {
-      "analysis": null,
-      "description": "Baltimore Ravens tight end Mark Andrews is looking to bounce back following a frustrating TE16 finish in PPR leagues last season. TE16 is nothing to scoff at, but Andrews' fantasy managers would have liked him to contribute a little more, especially after he was the TE6 in 2024. This year, he'll have a chance to return to his TE6 form. Not only is he healthy, but so is quarterback Lamar Jackson, and the duo will be under the guidance of new head coach Jesse Minter, as well as new offensive coordinator Declan Doyle. Although Doyle spent last year as the Bears' OC, he was previously the Broncos' tight ends coach, so perhaps he'll be the key to getting Andrews back on track. The new coaching staff should benefit the Ravens' offense this year, which is one of the reasons why Andrews has jumped back to TE13 in RotoBaller's latest fantasy football rankings for 2026.",
-      "metadata": {
-        "description": "Baltimore Ravens tight end Mark Andrews is looking to bounce back following a frustrating TE16 finish in PPR leagues last season. TE16 is nothing to scoff at, but Andrews' fantasy managers would have liked him to contribute a little more, especially after he was the TE6 in 2024. This year, he'll have a chance to return to his TE6 form. Not only is he healthy, but so is quarterback Lamar Jackson, and the duo will be under the guidance of new head coach Jesse Minter, as well as new offensive coordinator Declan Doyle. Although Doyle spent last year as the Bears' OC, he was previously the Broncos' tight ends coach, so perhaps he'll be the key to getting Andrews back on track. The new coaching staff should benefit the Ravens' offense this year, which is one of the reasons why Andrews has jumped back to TE13 in RotoBaller's latest fantasy football rankings for 2026.",
-        "title": "Mark Andrews Looking to Overcome Poor 2025 Campaign",
-        "topic_id": "1398929347036839936",
-        "url": "https://www.rotoballer.com/player-news/mark-andrews-looking-to-overcome-poor-2025-campaign/1918089"
-      },
-      "nfl_team": "BAL",
-      "player_id": "5012",
-      "player_name": "Mark Andrews",
-      "position": "TE",
-      "published": 1787878204000,
-      "source": "rotoballer",
-      "source_key": "219548",
-      "story_id": "nfl|5012|rotoballer|219548|1787878204000",
-      "title": "Mark Andrews Looking to Overcome Poor 2025 Campaign",
-      "url": "https://www.rotoballer.com/player-news/mark-andrews-looking-to-overcome-poor-2025-campaign/1918089"
-    },
-    {
-      "analysis": null,
-      "description": "Kansas City Chiefs running back Kenneth Walker could play a key role in taking the offense to new heights this season, according to Nate Taylor of ESPN.com. \"The Chiefs know Walker presents a more dangerous threat that should force linebackers and safeties to move forward before Mahomes attempts a play-action pass,\" Taylor wrote. He also noted that Walker was fourth in percentage of runs that gained 10 or more yards last year, and that quarterback Patrick Mahomes recently identified Walker as the reason he's particularly intrigued by the Chiefs' offense. It can be tough to know which hype we should believe during the preseason, but it does seem like Walker could be the answer to the Chiefs' problems. The Chiefs certainly think so, as they signed the ex-Seahawk to a three-year, $43 million deal. If Kansas City can get the run game going this year, they'll remain the favorites to win the AFC West. As it stands, Walker is the RB9 in RotoBaller's latest half-PPR fantasy football draft rankings for 2026.",
-      "metadata": {
-        "description": "Kansas City Chiefs running back Kenneth Walker could play a key role in taking the offense to new heights this season, according to Nate Taylor of ESPN.com. \"The Chiefs know Walker presents a more dangerous threat that should force linebackers and safeties to move forward before Mahomes attempts a play-action pass,\" Taylor wrote. He also noted that Walker was fourth in percentage of runs that gained 10 or more yards last year, and that quarterback Patrick Mahomes recently identified Walker as the reason he's particularly intrigued by the Chiefs' offense. It can be tough to know which hype we should believe during the preseason, but it does seem like Walker could be the answer to the Chiefs' problems. The Chiefs certainly think so, as they signed the ex-Seahawk to a three-year, $43 million deal. If Kansas City can get the run game going this year, they'll remain the favorites to win the AFC West. As it stands, Walker is the RB9 in RotoBaller's latest half-PPR fantasy football draft rankings for 2026.",
-        "title": "Kenneth Walker Could Help to Transform Chiefs' Offense",
-        "topic_id": "1398914245822795776",
-        "url": "https://www.rotoballer.com/player-news/kenneth-walker-could-help-to-transform-chiefs-offense/1918077"
-      },
-      "nfl_team": "KC",
-      "player_id": "8151",
-      "player_name": "Kenneth Walker",
-      "position": "RB",
-      "published": 1787874607000,
-      "source": "rotoballer",
-      "source_key": "219546",
-      "story_id": "nfl|8151|rotoballer|219546|1787874607000",
-      "title": "Kenneth Walker Could Help to Transform Chiefs' Offense",
-      "url": "https://www.rotoballer.com/player-news/kenneth-walker-could-help-to-transform-chiefs-offense/1918077"
-    },
-    {
-      "analysis": "Brown thus won't see any game action during this exhibition season. He's expected to serve as the top target for QB Drake Maye in 2026, considering the key asset (a 2028 first-round pick) sent to Philadelphia to gain his services. In seven campaigns as a pro, Brown has surpassed 1,000 receiving yards six times while racking up 58 total TDs in 105 regular-season contests.",
-      "description": "Brown isn't in uniform for Thursday's preseason game in Cleveland, Evan Lazar of the Patriots' official site reports.",
-      "metadata": {
-        "analysis": "Brown thus won't see any game action during this exhibition season. He's expected to serve as the top target for QB Drake Maye in 2026, considering the key asset (a 2028 first-round pick) sent to Philadelphia to gain his services. In seven campaigns as a pro, Brown has surpassed 1,000 receiving yards six times while racking up 58 total TDs in 105 regular-season contests.",
-        "description": "Brown isn't in uniform for Thursday's preseason game in Cleveland, Evan Lazar of the Patriots' official site reports.",
-        "title": "A.J. Brown - Not playing Thursday",
-        "topic_id": "1398851326451974144"
-      },
-      "nfl_team": "NE",
-      "player_id": "5859",
-      "player_name": "A.J. Brown",
-      "position": "WR",
-      "published": 1787874565000,
-      "source": "rotowire",
-      "source_key": "634952",
-      "story_id": "nfl|5859|rotowire|634952|1787874565000",
-      "title": "A.J. Brown - Not playing Thursday",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots tight end Hunter Henry \"will be important\" within the team's offense this season, according to Mark Daniels of MassLive.com. \"It's hard to overestimate the importance of Hunter Henry here,\" Daniels wrote. \"He's by far the team's best tight end and once again will be a security blanket for Maye. Henry had a good summer and should be applauded for his longevity.\" Even at age 31 and facing new competition for targets from AJ Brown and Romeo Doubs, Henry appears on track to occupy a large role once again in 2026. He was the TE9 in PPR leagues last year, tying the best fantasy finish of his career. Along the way, he caught 60 passes for 768 yards and seven touchdowns. While there are some receivers who will push for more targets, Henry essentially has the tight end room all to himself, and he faces minimal competition there. It's not crazy to project that Henry's 2026 stats will look similar to 2025, which would make him a top-12 fantasy tight end once again.",
-      "metadata": {
-        "description": "New England Patriots tight end Hunter Henry \"will be important\" within the team's offense this season, according to Mark Daniels of MassLive.com. \"It's hard to overestimate the importance of Hunter Henry here,\" Daniels wrote. \"He's by far the team's best tight end and once again will be a security blanket for Maye. Henry had a good summer and should be applauded for his longevity.\" Even at age 31 and facing new competition for targets from AJ Brown and Romeo Doubs, Henry appears on track to occupy a large role once again in 2026. He was the TE9 in PPR leagues last year, tying the best fantasy finish of his career. Along the way, he caught 60 passes for 768 yards and seven touchdowns. While there are some receivers who will push for more targets, Henry essentially has the tight end room all to himself, and he faces minimal competition there. It's not crazy to project that Henry's 2026 stats will look similar to 2025, which would make him a top-12 fantasy tight end once again.",
-        "title": "Hunter Henry Expected to Play a Very Important Role Again in 2026",
-        "topic_id": "1398911728850305024",
-        "url": "https://www.rotoballer.com/player-news/hunter-henry-expected-to-play-a-very-important-role-again-in-2026/1918074"
-      },
-      "nfl_team": "NE",
-      "player_id": "3214",
-      "player_name": "Hunter Henry",
-      "position": "TE",
-      "published": 1787874430000,
-      "source": "rotoballer",
-      "source_key": "219545",
-      "story_id": "nfl|3214|rotoballer|219545|1787874430000",
-      "title": "Hunter Henry Expected to Play a Very Important Role Again in 2026",
-      "url": "https://www.rotoballer.com/player-news/hunter-henry-expected-to-play-a-very-important-role-again-in-2026/1918074"
-    },
-    {
-      "analysis": null,
-      "description": "Pittsburgh Steelers running back Kaleb Johnson is projected to be released within the upcoming weeks, according to a 53-man roster prediction from Mike DeFabo of The Athletic. \"Moving on from a third-round pick just one year after he was drafted would be a tough look for the Steelers,\" DeFabo wrote. \"However, that possibility is looking increasingly likely.\" Johnson was essentially nonexistent on offense as a rookie last year, and he struggled this preseason to the tune of 57 rushing yards on 17 carries (3.1 YPC). Those are subpar numbers, especially for a once-highly-touted running back going up against reserve defenders. DeFabo notes that in addition to the offensive shortcomings, Johnson is replaceable on special teams. He projected that Jaylen Warren and Rico Dowdle will handle almost all of the offensive snaps, while Travis Homer makes the team as the No. 3 running back with plenty of experience and talent on special teams. If that is the case, Johnson will be the odd man out just one year after being a Day 3 pick. He's tough to trust in dynasty leagues, and he should be avoided in all redraft formats.",
-      "metadata": {
-        "description": "Pittsburgh Steelers running back Kaleb Johnson is projected to be released within the upcoming weeks, according to a 53-man roster prediction from Mike DeFabo of The Athletic. \"Moving on from a third-round pick just one year after he was drafted would be a tough look for the Steelers,\" DeFabo wrote. \"However, that possibility is looking increasingly likely.\" Johnson was essentially nonexistent on offense as a rookie last year, and he struggled this preseason to the tune of 57 rushing yards on 17 carries (3.1 YPC). Those are subpar numbers, especially for a once-highly-touted running back going up against reserve defenders. DeFabo notes that in addition to the offensive shortcomings, Johnson is replaceable on special teams. He projected that Jaylen Warren and Rico Dowdle will handle almost all of the offensive snaps, while Travis Homer makes the team as the No. 3 running back with plenty of experience and talent on special teams. If that is the case, Johnson will be the odd man out just one year after being a Day 3 pick. He's tough to trust in dynasty leagues, and he should be avoided in all redraft formats.",
-        "title": "Kaleb Johnson Projected to be Released by Steelers",
-        "topic_id": "1398910470584307712",
-        "url": "https://www.rotoballer.com/player-news/kaleb-johnson-projected-to-be-released-by-steelers/1918070"
-      },
-      "nfl_team": "PIT",
-      "player_id": "12504",
-      "player_name": "Kaleb Johnson",
-      "position": "RB",
-      "published": 1787874127000,
-      "source": "rotoballer",
-      "source_key": "219544",
-      "story_id": "nfl|12504|rotoballer|219544|1787874127000",
-      "title": "Kaleb Johnson Projected to be Released by Steelers",
-      "url": "https://www.rotoballer.com/player-news/kaleb-johnson-projected-to-be-released-by-steelers/1918070"
-    },
-    {
-      "analysis": "Stribling seemingly came out of preseason Week 2 action with a minor shoulder injury, but he was able to mix back into drills as of Sunday while wearing a non-contact jersey. Considering he showed out in the 49ers' first two exhibitions with a combined 11 catches for 109 yards, the team will rest him along with other key members of the receiving corps. Stribling will set his sights on getting healthy for a Week 1 matchup with the Rams in Melbourne, Australia on Thursday, Sept. 10",
-      "description": "Stribling (shoulder) won't suit up for Thursday's preseason contest at Las Vegas, David Lombardi of SFStandard.com reports.",
-      "metadata": {
-        "analysis": "Stribling seemingly came out of preseason Week 2 action with a minor shoulder injury, but he was able to mix back into drills as of Sunday while wearing a non-contact jersey. Considering he showed out in the 49ers' first two exhibitions with a combined 11 catches for 109 yards, the team will rest him along with other key members of the receiving corps. Stribling will set his sights on getting healthy for a Week 1 matchup with the Rams in Melbourne, Australia on Thursday, Sept. 10",
-        "description": "Stribling (shoulder) won't suit up for Thursday's preseason contest at Las Vegas, David Lombardi of SFStandard.com reports.",
-        "title": "De'Zhaun Stribling - Not playing in preseason finale",
-        "topic_id": "1398848808934199296"
-      },
-      "nfl_team": "SF",
-      "player_id": "13417",
-      "player_name": "De'Zhaun Stribling",
-      "position": "WR",
-      "published": 1787873825000,
-      "source": "rotowire",
-      "source_key": "634951",
-      "story_id": "nfl|13417|rotowire|634951|1787873825000",
-      "title": "De'Zhaun Stribling - Not playing in preseason finale",
-      "url": null
-    },
-    {
-      "analysis": "Horton has been sidelined with an undisclosed injury for over a week, but head coach Mike Macdonald shed some light on the situation Thursday, explaining that the wide receiver isn't dealing with a significant injury. With fellow wideout Jake Bobo (knee) already sidelined for the year, Horton will have an opportunity to elevate into a more substantial role with Seattle in his second campaign with the team.",
-      "description": "Horton (undisclosed) is not dealing with a long-term injury, Corbin K. Smith of SI.com reports.",
-      "metadata": {
-        "analysis": "Horton has been sidelined with an undisclosed injury for over a week, but head coach Mike Macdonald shed some light on the situation Thursday, explaining that the wide receiver isn't dealing with a significant injury. With fellow wideout Jake Bobo (knee) already sidelined for the year, Horton will have an opportunity to elevate into a more substantial role with Seattle in his second campaign with the team.",
-        "description": "Horton (undisclosed) is not dealing with a long-term injury, Corbin K. Smith of SI.com reports.",
-        "title": "Tory Horton - Not dealing with significant injury",
-        "topic_id": "1398846293081628673"
-      },
-      "nfl_team": "SEA",
-      "player_id": "12497",
-      "player_name": "Tory Horton",
-      "position": "WR",
-      "published": 1787873225000,
-      "source": "rotowire",
-      "source_key": "634947",
-      "story_id": "nfl|12497|rotowire|634947|1787873225000",
-      "title": "Tory Horton - Not dealing with significant injury",
       "url": null
     }
   ]
