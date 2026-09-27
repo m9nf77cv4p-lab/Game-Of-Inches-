@@ -22254,7 +22254,7 @@
       ],
       "first_name": "Demarcus",
       "full_name": "Demarcus Robinson",
-      "injury_status": "Doubtful",
+      "injury_status": "IR",
       "last_name": "Robinson",
       "nfl_team": "SF",
       "player_id": "3286",
@@ -24520,8 +24520,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-26T23:23:53Z",
-    "source_fingerprint": "29df4e7cd8dde5be267bc5f630fea864f5fab0f191c3894b8a422fce9cca05af"
+    "last_changed_at": "2026-09-27T07:04:57Z",
+    "source_fingerprint": "e84558081ecbe57d94b93ec5ee5ea9b9f7674cb22291a2f3a764453cd6bda25e"
   },
   "teams": [
     {
