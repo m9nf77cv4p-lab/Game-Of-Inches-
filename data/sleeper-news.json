@@ -1,40 +1,50 @@
 {
-  "last_checked_at": "2026-09-29T01:18:13Z",
+  "last_checked_at": "2026-09-29T07:01:05Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 295,
   "new_story_ids": [
-    "nfl|10219|rotowire|639734|1790640095000",
-    "nfl|11256|fantasy_pros|611365|1790637309336",
-    "nfl|11575|rotowire|639762|1790643688000",
-    "nfl|11618|fantasy_pros|611371|1790638510081",
-    "nfl|11618|rotowire|639712|1790637544000",
-    "nfl|11618|rotowire|639736|1790640187000",
-    "nfl|11624|rotowire|639757|1790642897000",
-    "nfl|12487|fantasy_pros|611366|1790637309325",
-    "nfl|12487|rotoballer|222656|1790620513000",
-    "nfl|12487|rotowire|639704|1790636520000",
-    "nfl|12495|fantasy_pros|611347|1790633108885",
-    "nfl|13305|rotowire|639754|1790642545000",
-    "nfl|13346|rotowire|639748|1790641935000",
-    "nfl|2449|rotowire|639741|1790640883000",
-    "nfl|2505|rotoballer|222662|1790629755000",
-    "nfl|3214|rotowire|639738|1790640569000",
-    "nfl|5012|rotowire|639763|1790643849000",
-    "nfl|6794|rotoballer|222658|1790624514000",
-    "nfl|6797|rotoballer|222660|1790625910000",
-    "nfl|7021|fantasy_pros|611370|1790637909474",
-    "nfl|7567|rotowire|639731|1790639416000",
-    "nfl|8110|rotowire|639744|1790641537000",
-    "nfl|8121|rotowire|639742|1790641095000",
-    "nfl|8131|rotowire|639768|1790644056000",
-    "nfl|8210|rotoballer|222653|1790618347000",
-    "nfl|9480|rotowire|639751|1790642287000",
-    "nfl|9493|fantasy_pros|611360|1790635209479",
-    "nfl|9493|rotoballer|222655|1790620030000",
-    "nfl|9493|rotowire|639703|1790635112000",
-    "nfl|9754|rotowire|639737|1790640438000",
-    "nfl|9997|rotoballer|222659|1790625427000",
-    "nfl|9997|rotowire|639729|1790639113000"
+    "nfl|10213|rotowire|639774|1790644626000",
+    "nfl|10219|rotoballer|222678|1790646025000",
+    "nfl|11603|rotowire|639796|1790654401000",
+    "nfl|11618|fantasy_pros|611380|1790655011212",
+    "nfl|11620|rotowire|639799|1790654927000",
+    "nfl|11625|rotoballer|222669|1790634088000",
+    "nfl|12474|rotowire|639783|1790645175000",
+    "nfl|12493|rotoballer|222679|1790646434000",
+    "nfl|12493|rotowire|639805|1790655820000",
+    "nfl|12502|rotowire|639798|1790654692000",
+    "nfl|12509|rotoballer|222672|1790635835000",
+    "nfl|12517|rotowire|639801|1790655154000",
+    "nfl|12519|rotowire|639797|1790654600000",
+    "nfl|12534|rotowire|639804|1790655482000",
+    "nfl|13298|rotowire|639802|1790655301000",
+    "nfl|13317|rotoballer|222673|1790636442000",
+    "nfl|1373|rotoballer|222680|1790646738000",
+    "nfl|1737|rotowire|639793|1790653734000",
+    "nfl|4177|rotoballer|222671|1790635392000",
+    "nfl|4866|rotowire|639790|1790652991000",
+    "nfl|5844|rotoballer|222666|1790631495000",
+    "nfl|5844|rotowire|639806|1790656009000",
+    "nfl|5870|rotoballer|222676|1790641228000",
+    "nfl|6790|rotowire|639789|1790652676000",
+    "nfl|6819|rotowire|639772|1790644558000",
+    "nfl|6904|rotoballer|222665|1790630948000",
+    "nfl|6904|rotowire|639785|1790645433000",
+    "nfl|6904|rotowire|639795|1790654254000",
+    "nfl|7049|rotowire|639811|1790657585000",
+    "nfl|7525|rotowire|639791|1790653347000",
+    "nfl|7600|rotoballer|222667|1790632216000",
+    "nfl|8111|rotowire|639813|1790657859000",
+    "nfl|8126|rotoballer|222664|1790630228000",
+    "nfl|8132|rotowire|639803|1790655350000",
+    "nfl|8134|rotowire|639808|1790656389000",
+    "nfl|8136|rotoballer|222674|1790638300000",
+    "nfl|8154|rotoballer|222677|1790643270000",
+    "nfl|8180|rotowire|639800|1790655034000",
+    "nfl|9225|rotowire|639807|1790656357000",
+    "nfl|9480|rotoballer|222670|1790634670000",
+    "nfl|9511|rotoballer|222668|1790632681000",
+    "nfl|9758|rotoballer|222675|1790638986000"
   ],
   "schema_version": 1,
   "source": {
@@ -44,6 +54,567 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Otton finished second on the Bucs in both targets and receiving yards in his best game of 2026 to date. The majority of the tight end's receiving yardage came on a 37-yard connection with Baker Mayfield midway through the second quarter. However, Mayfield is expected to miss at least three weeks of action due to a thumb injury, so Otton will be working with rookie undrafted QB Jalon Daniels over the next few games.",
+      "description": "Otton tallied three catches on six targets for 56 yards Sunday in a loss to the Vikings.",
+      "metadata": {
+        "analysis": "Otton finished second on the Bucs in both targets and receiving yards in his best game of 2026 to date. The majority of the tight end's receiving yardage came on a 37-yard connection with Baker Mayfield midway through the second quarter. However, Mayfield is expected to miss at least three weeks of action due to a thumb injury, so Otton will be working with rookie undrafted QB Jalon Daniels over the next few games.",
+        "description": "Otton tallied three catches on six targets for 56 yards Sunday in a loss to the Vikings.",
+        "title": "Cade Otton - Produces 56 yards in Week 3 defeat",
+        "topic_id": "1410525566049771520"
+      },
+      "nfl_team": "TB",
+      "player_id": "8111",
+      "player_name": "Cade Otton",
+      "position": "TE",
+      "published": 1790657859000,
+      "source": "rotowire",
+      "source_key": "639813",
+      "story_id": "nfl|8111|rotowire|639813|1790657859000",
+      "title": "Cade Otton - Produces 56 yards in Week 3 defeat",
+      "url": null
+    },
+    {
+      "analysis": "Although Justin Jefferson (ankle) departed in the first half Sunday and didn't return, Jennings didn't see an increase in his production. He did, however, post an 80 percent offensive snap share, and Jennings figures to slide into the No. 2 wideout role alongside Jordan Addison on Sunday versus Miami if Jefferson can't suit up. Even with that in mind, Jennings has produced just one catch on three targets through two contests, so expectations should be held in check regardless of Jefferson's status.",
+      "description": "Jennings caught one of two targets for one yard Sunday in a 23-16 win against Tampa Bay.",
+      "metadata": {
+        "analysis": "Although Justin Jefferson (ankle) departed in the first half Sunday and didn't return, Jennings didn't see an increase in his production. He did, however, post an 80 percent offensive snap share, and Jennings figures to slide into the No. 2 wideout role alongside Jordan Addison on Sunday versus Miami if Jefferson can't suit up. Even with that in mind, Jennings has produced just one catch on three targets through two contests, so expectations should be held in check regardless of Jefferson's status.",
+        "description": "Jennings caught one of two targets for one yard Sunday in a 23-16 win against Tampa Bay.",
+        "title": "Jauan Jennings - Logs just one catch despite Jefferson injury",
+        "topic_id": "1410524307469156352"
+      },
+      "nfl_team": "MIN",
+      "player_id": "7049",
+      "player_name": "Jauan Jennings",
+      "position": "WR",
+      "published": 1790657585000,
+      "source": "rotowire",
+      "source_key": "639811",
+      "story_id": "nfl|7049|rotowire|639811|1790657585000",
+      "title": "Jauan Jennings - Logs just one catch despite Jefferson injury",
+      "url": null
+    },
+    {
+      "analysis": "Shakir played 71 percent of the Bills' offensive snaps in the contest but caught just one pass. The wide receiver was bullied in coverage while Josh Allen struggled on a day when the team's offense combined for five total turnovers.",
+      "description": "Shakir caught one of his three targets for six yards in the Bills' 24-16 win over the Chargers on Sunday.",
+      "metadata": {
+        "analysis": "Shakir played 71 percent of the Bills' offensive snaps in the contest but caught just one pass. The wide receiver was bullied in coverage while Josh Allen struggled on a day when the team's offense combined for five total turnovers.",
+        "description": "Shakir caught one of his three targets for six yards in the Bills' 24-16 win over the Chargers on Sunday.",
+        "title": "Khalil Shakir - One catch in win",
+        "topic_id": "1410520533421899776"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8134",
+      "player_name": "Khalil Shakir",
+      "position": "WR",
+      "published": 1790656389000,
+      "source": "rotowire",
+      "source_key": "639808",
+      "story_id": "nfl|8134|rotowire|639808|1790656389000",
+      "title": "Khalil Shakir - One catch in win",
+      "url": null
+    },
+    {
+      "analysis": "Bigsby logged 13 carries and scored a touchdown in Week 2 against Tennessee after Saquon Barkley suffered a stinger, but he went back to a minor role Monday. That was partly due to Barkley looking healthy and turning 15 totes into 82 yards, though Bigsby's lost fumble following his lone reception near the end of the first quarter may have also had a role in his lack of subsequent touches. Whatever the case may be, Bigsby doesn't seem likely to have a significant week-to-week role on offense whenever Barkley is healthy.",
+      "description": "Bigsby caught his only target for five yards Monday in a Week 3 loss to the Bears. He also lost a fumble.",
+      "metadata": {
+        "analysis": "Bigsby logged 13 carries and scored a touchdown in Week 2 against Tennessee after Saquon Barkley suffered a stinger, but he went back to a minor role Monday. That was partly due to Barkley looking healthy and turning 15 totes into 82 yards, though Bigsby's lost fumble following his lone reception near the end of the first quarter may have also had a role in his lack of subsequent touches. Whatever the case may be, Bigsby doesn't seem likely to have a significant week-to-week role on offense whenever Barkley is healthy.",
+        "description": "Bigsby caught his only target for five yards Monday in a Week 3 loss to the Bears. He also lost a fumble.",
+        "title": "Tank Bigsby - Doesn't log any carries against Chicago",
+        "topic_id": "1410520533413511168"
+      },
+      "nfl_team": "PHI",
+      "player_id": "9225",
+      "player_name": "Tank Bigsby",
+      "position": "RB",
+      "published": 1790656357000,
+      "source": "rotowire",
+      "source_key": "639807",
+      "story_id": "nfl|9225|rotowire|639807|1790656357000",
+      "title": "Tank Bigsby - Doesn't log any carries against Chicago",
+      "url": null
+    },
+    {
+      "analysis": "Hockenson struggled along with the entire Vikings offense in the contest. The team relied on a single explosive rush and a single explosive pass play over the entire 60-minute game. Quarterback Kyler Murray was unable to stoke much of a passing attack against the Buccaneers, relying on a 41-yard touchdown to Jordan Addison for nearly a quarter of his passing yards on the night.",
+      "description": "Hockenson caught two of his four targets for 11 yards in the Vikings' 23-16 win over the Buccaneers on Sunday.",
+      "metadata": {
+        "analysis": "Hockenson struggled along with the entire Vikings offense in the contest. The team relied on a single explosive rush and a single explosive pass play over the entire 60-minute game. Quarterback Kyler Murray was unable to stoke much of a passing attack against the Buccaneers, relying on a 41-yard touchdown to Jordan Addison for nearly a quarter of his passing yards on the night.",
+        "description": "Hockenson caught two of his four targets for 11 yards in the Vikings' 23-16 win over the Buccaneers on Sunday.",
+        "title": "T.J. Hockenson - Catches two passes in win",
+        "topic_id": "1410518015912488960"
+      },
+      "nfl_team": "MIN",
+      "player_id": "5844",
+      "player_name": "T.J. Hockenson",
+      "position": "TE",
+      "published": 1790656009000,
+      "source": "rotowire",
+      "source_key": "639806",
+      "story_id": "nfl|5844|rotowire|639806|1790656009000",
+      "title": "T.J. Hockenson - Catches two passes in win",
+      "url": null
+    },
+    {
+      "analysis": "With Charlie Kolar (forearm) and David Njoku (fibula - IR) both unavailable, Gadsden drew the start Sunday and led Los Angeles' tight ends with a 57 percent offensive snap share. However, he couldn't do anything with that production, failing to reel in any of the three targets QB Justin Herbert tossed his way. Gadsden could have another chance to make an impact this coming Sunday against Seattle with both Kolar and Njoku set to remain sidelined, but the Seahawks have given up the third-fewest receiving yards to tight ends so far this season.",
+      "description": "Gadsden didn't catch any of his three targets in Sunday's loss to the Bills.",
+      "metadata": {
+        "analysis": "With Charlie Kolar (forearm) and David Njoku (fibula - IR) both unavailable, Gadsden drew the start Sunday and led Los Angeles' tight ends with a 57 percent offensive snap share. However, he couldn't do anything with that production, failing to reel in any of the three targets QB Justin Herbert tossed his way. Gadsden could have another chance to make an impact this coming Sunday against Seattle with both Kolar and Njoku set to remain sidelined, but the Seahawks have given up the third-fewest receiving yards to tight ends so far this season.",
+        "description": "Gadsden didn't catch any of his three targets in Sunday's loss to the Bills.",
+        "title": "Oronde Gadsden - Held catchless despite Week 3 start",
+        "topic_id": "1410518015895711744"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12493",
+      "player_name": "Oronde Gadsden",
+      "position": "TE",
+      "published": 1790655820000,
+      "source": "rotowire",
+      "source_key": "639805",
+      "story_id": "nfl|12493|rotowire|639805|1790655820000",
+      "title": "Oronde Gadsden - Held catchless despite Week 3 start",
+      "url": null
+    },
+    {
+      "analysis": "The second-year back logged exactly half of D'Andre Swift's workload on the ground, with Monangai handling his third straight 10-carry total to open the season. The Rutgers product saw his efficiency take a notable dip for the second consecutive game following a stellar Week 1 where he averaged 10.0 yards per carry, yet Monangai's role as a fairly high-volume No. 2 back in Chicago's offense is safe. The lack of receiving work Monday night was a disappointment after Monangai posted a 4-35-0 line through the air in the first two games, but he'll have a chance to atone in what should be a favorable Week 4 home matchup against the Jets on Sunday.",
+      "description": "Monangai rushed 10 times for 31 yards and wasn't targeted in the Bears' 27-7 win over the Eagles on Monday night.",
+      "metadata": {
+        "analysis": "The second-year back logged exactly half of D'Andre Swift's workload on the ground, with Monangai handling his third straight 10-carry total to open the season. The Rutgers product saw his efficiency take a notable dip for the second consecutive game following a stellar Week 1 where he averaged 10.0 yards per carry, yet Monangai's role as a fairly high-volume No. 2 back in Chicago's offense is safe. The lack of receiving work Monday night was a disappointment after Monangai posted a 4-35-0 line through the air in the first two games, but he'll have a chance to atone in what should be a favorable Week 4 home matchup against the Jets on Sunday.",
+        "description": "Monangai rushed 10 times for 31 yards and wasn't targeted in the Bears' 27-7 win over the Eagles on Monday night.",
+        "title": "Kyle Monangai - Kept in check during win",
+        "topic_id": "1410515497610387456"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12534",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "published": 1790655482000,
+      "source": "rotowire",
+      "source_key": "639804",
+      "story_id": "nfl|12534|rotowire|639804|1790655482000",
+      "title": "Kyle Monangai - Kept in check during win",
+      "url": null
+    },
+    {
+      "analysis": "Allgeier wasn't asked to rush much. The No. 2 running back left most of the carries to rookie Jeremiyah Love. The 26-year-old racked up his points on screen passes and checkdowns, catching everything thrown his way for minimal gains.",
+      "description": "Allgeier rushed twice for a loss of one yard and caught all four of his targets for 10 yards in the Cardinals' 36-30 loss to the 49ers on Sunday.",
+      "metadata": {
+        "analysis": "Allgeier wasn't asked to rush much. The No. 2 running back left most of the carries to rookie Jeremiyah Love. The 26-year-old racked up his points on screen passes and checkdowns, catching everything thrown his way for minimal gains.",
+        "description": "Allgeier rushed twice for a loss of one yard and caught all four of his targets for 10 yards in the Cardinals' 36-30 loss to the 49ers on Sunday.",
+        "title": "Tyler Allgeier - Four receptions in loss",
+        "topic_id": "1410515497564250112"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1790655350000,
+      "source": "rotowire",
+      "source_key": "639803",
+      "story_id": "nfl|8132|rotowire|639803|1790655350000",
+      "title": "Tyler Allgeier - Four receptions in loss",
+      "url": null
+    },
+    {
+      "analysis": "Concepcion actually tied tight end Harold Fannin for the team lead with nine targets, but the rookie wideout managed to haul in just two of those looks. His receptions went for five and four yards, continuing what has become a trend, as he's averaging a meager 6.7 yards per reception so far this season. The target share indicates that the Browns want Concepcion to be an integral part of the passing game, but so far he doesn't seem to be clicking with QB Deshaun Watson.",
+      "description": "Concepcion finished Sunday's 21-18 victory versus Carolina with two catches on nine targets for nine yards. He also returned one punt for one yard.",
+      "metadata": {
+        "analysis": "Concepcion actually tied tight end Harold Fannin for the team lead with nine targets, but the rookie wideout managed to haul in just two of those looks. His receptions went for five and four yards, continuing what has become a trend, as he's averaging a meager 6.7 yards per reception so far this season. The target share indicates that the Browns want Concepcion to be an integral part of the passing game, but so far he doesn't seem to be clicking with QB Deshaun Watson.",
+        "description": "Concepcion finished Sunday's 21-18 victory versus Carolina with two catches on nine targets for nine yards. He also returned one punt for one yard.",
+        "title": "KC Concepcion - Records just nine yards in Week 3 win",
+        "topic_id": "1410515497526501376"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13298",
+      "player_name": "KC Concepcion",
+      "position": "WR",
+      "published": 1790655301000,
+      "source": "rotowire",
+      "source_key": "639802",
+      "story_id": "nfl|13298|rotowire|639802|1790655301000",
+      "title": "KC Concepcion - Records just nine yards in Week 3 win",
+      "url": null
+    },
+    {
+      "analysis": "Head coach Ben Johnson appeared to make a concerted effort to get the ball into Loveland's hands Monday after the tight end's slow first two games, and that approach met with some success. While all three components of Loveland's receiving line qualified as season-high figures, the second-year pro's longest reception went for just 12 yards and he was well behind the wideout trio of Kalif Raymond, Luther Burden and Rome Odunze in receiving yards. Loveland's chemistry with fill-in signal-caller Case Keenum was encouraging, however, and the duo should have a chance to continue working together in Sunday's Week 4 home matchup against the Jets.",
+      "description": "Loveland secured all four targets for 31 yards in the Bears' 27-7 win over the Eagles on Monday night.",
+      "metadata": {
+        "analysis": "Head coach Ben Johnson appeared to make a concerted effort to get the ball into Loveland's hands Monday after the tight end's slow first two games, and that approach met with some success. While all three components of Loveland's receiving line qualified as season-high figures, the second-year pro's longest reception went for just 12 yards and he was well behind the wideout trio of Kalif Raymond, Luther Burden and Rome Odunze in receiving yards. Loveland's chemistry with fill-in signal-caller Case Keenum was encouraging, however, and the duo should have a chance to continue working together in Sunday's Week 4 home matchup against the Jets.",
+        "description": "Loveland secured all four targets for 31 yards in the Bears' 27-7 win over the Eagles on Monday night.",
+        "title": "Colston Loveland - Slight uptick in production Monday",
+        "topic_id": "1410515497526501377"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12517",
+      "player_name": "Colston Loveland",
+      "position": "TE",
+      "published": 1790655154000,
+      "source": "rotowire",
+      "source_key": "639801",
+      "story_id": "nfl|12517|rotowire|639801|1790655154000",
+      "title": "Colston Loveland - Slight uptick in production Monday",
+      "url": null
+    },
+    {
+      "analysis": "Nailor struggled for the Raiders in Week 3. The team relied more on tight end Brock Bowers to carry the receiving offense. Tre Tucker and Nailor received over three times fewer targets than the tight end in the contest, with Bowers establishing the pecking order early in his return from injury.",
+      "description": "Nailor caught one of his three targets for 16 yards in the Raiders' 35-27 win over the Saints on Sunday.",
+      "metadata": {
+        "analysis": "Nailor struggled for the Raiders in Week 3. The team relied more on tight end Brock Bowers to carry the receiving offense. Tre Tucker and Nailor received over three times fewer targets than the tight end in the contest, with Bowers establishing the pecking order early in his return from injury.",
+        "description": "Nailor caught one of his three targets for 16 yards in the Raiders' 35-27 win over the Saints on Sunday.",
+        "title": "Jalen Nailor - Three targets in win",
+        "topic_id": "1410514240220975104"
+      },
+      "nfl_team": "LV",
+      "player_id": "8180",
+      "player_name": "Jalen Nailor",
+      "position": "WR",
+      "published": 1790655034000,
+      "source": "rotowire",
+      "source_key": "639800",
+      "story_id": "nfl|8180|rotowire|639800|1790655034000",
+      "title": "Jalen Nailor - Three targets in win",
+      "url": null
+    },
+    {
+      "analysis": "McMillan underwent an MRI that confirmed a PCL sprain. He is expected to miss 6-to-8 weeks. ",
+      "description": "The Buccaneers placed WR Jalen McMillan on injured reserve.",
+      "metadata": {
+        "analysis": "McMillan underwent an MRI that confirmed a PCL sprain. He is expected to miss 6-to-8 weeks. ",
+        "description": "The Buccaneers placed WR Jalen McMillan on injured reserve.",
+        "title": "Jalen McMillan (knee) placed on IR",
+        "topic_id": "1410512985910206464",
+        "url": "https://www.fantasypros.com/nfl/news/611380/jalen-mcmillan-knee-placed-on-ir.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1790655011212,
+      "source": "fantasy_pros",
+      "source_key": "611380",
+      "story_id": "nfl|11618|fantasy_pros|611380|1790655011212",
+      "title": "Jalen McMillan (knee) placed on IR",
+      "url": "https://www.fantasypros.com/nfl/news/611380/jalen-mcmillan-knee-placed-on-ir.php"
+    },
+    {
+      "analysis": "Odunze was relegated to a complementary role in the 20-point victory, finishing fourth in receptions and third in both receiving yards and targets for the Bears on the night. While Odunze entered the season as the presumptive No. 1 receiver, veteran offseason addition Kalif Raymond, who had familiarity with head coach Ben Johnson's scheme from their mutual time with the Lions, has enjoyed an expanded role over the first three games while gathering in an impressive 19 of 21 targets. Conversely, Odunze is averaging a career-best 17.4 yards per reception but has a modest eight catches and no touchdowns through three games, numbers he'll look to significantly boost during a Week 4 home matchup against the Jets on Sunday.",
+      "description": "Odunze secured three of six targets for 44 yards in the Bears' 27-7 win over the Eagles on Monday night.",
+      "metadata": {
+        "analysis": "Odunze was relegated to a complementary role in the 20-point victory, finishing fourth in receptions and third in both receiving yards and targets for the Bears on the night. While Odunze entered the season as the presumptive No. 1 receiver, veteran offseason addition Kalif Raymond, who had familiarity with head coach Ben Johnson's scheme from their mutual time with the Lions, has enjoyed an expanded role over the first three games while gathering in an impressive 19 of 21 targets. Conversely, Odunze is averaging a career-best 17.4 yards per reception but has a modest eight catches and no touchdowns through three games, numbers he'll look to significantly boost during a Week 4 home matchup against the Jets on Sunday.",
+        "description": "Odunze secured three of six targets for 44 yards in the Bears' 27-7 win over the Eagles on Monday night.",
+        "title": "Rome Odunze - Three more catches in win",
+        "topic_id": "1410512982517002240"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1790654927000,
+      "source": "rotowire",
+      "source_key": "639799",
+      "story_id": "nfl|11620|rotowire|639799|1790654927000",
+      "title": "Rome Odunze - Three more catches in win",
+      "url": null
+    },
+    {
+      "analysis": "Helm and fellow tight end Daniel Bellinger each had two catches in the contest, though Helm garnered two more targets. After opening the campaign with a 4-28-0 line against the Jets, Helm has managed a combined 4-27-0 line across his subsequent pair of games. He'll look to be more productive next Sunday in Baltimore, though Tennessee's passing game as a whole is struggling so far, averaging just 159.0 yards per game -- third-fewest in the NFL.",
+      "description": "Helm notched two catches on four targets for 14 yards Sunday in a loss to the Giants.",
+      "metadata": {
+        "analysis": "Helm and fellow tight end Daniel Bellinger each had two catches in the contest, though Helm garnered two more targets. After opening the campaign with a 4-28-0 line against the Jets, Helm has managed a combined 4-27-0 line across his subsequent pair of games. He'll look to be more productive next Sunday in Baltimore, though Tennessee's passing game as a whole is struggling so far, averaging just 159.0 yards per game -- third-fewest in the NFL.",
+        "description": "Helm notched two catches on four targets for 14 yards Sunday in a loss to the Giants.",
+        "title": "Gunnar Helm - Quiet again in Week 3 loss",
+        "topic_id": "1410512982458281984"
+      },
+      "nfl_team": "TEN",
+      "player_id": "12502",
+      "player_name": "Gunnar Helm",
+      "position": "TE",
+      "published": 1790654692000,
+      "source": "rotowire",
+      "source_key": "639798",
+      "story_id": "nfl|12502|rotowire|639798|1790654692000",
+      "title": "Gunnar Helm - Quiet again in Week 3 loss",
+      "url": null
+    },
+    {
+      "analysis": "The second-year wideout led the Bears in receptions and targets in the impressive win with totals that also qualified as season highs, while checking in second only to Kalif Raymond in receiving yards. Burden also scored his first touchdown of the season on a nifty shovel pass that he took eight yards to the house while breaking multiple tackles near the goal line to cap off Chicago's opening possession. Burden's ability to click with fill-in signal-caller Case Keenum bodes well for the receiver's fantasy prospects, considering Caleb Williams (hamstring) is still projected to miss several more games. Burden will look to carry over the momentum into a Week 4 home matchup against the Jets on Sunday.",
+      "description": "Burden secured seven of 11 targets for 61 yards and a touchdown while rushing once for seven yards in the Bears' 27-7 win over the Eagles on Monday night.",
+      "metadata": {
+        "analysis": "The second-year wideout led the Bears in receptions and targets in the impressive win with totals that also qualified as season highs, while checking in second only to Kalif Raymond in receiving yards. Burden also scored his first touchdown of the season on a nifty shovel pass that he took eight yards to the house while breaking multiple tackles near the goal line to cap off Chicago's opening possession. Burden's ability to click with fill-in signal-caller Case Keenum bodes well for the receiver's fantasy prospects, considering Caleb Williams (hamstring) is still projected to miss several more games. Burden will look to carry over the momentum into a Week 4 home matchup against the Jets on Sunday.",
+        "description": "Burden secured seven of 11 targets for 61 yards and a touchdown while rushing once for seven yards in the Bears' 27-7 win over the Eagles on Monday night.",
+        "title": "Luther Burden - Scores TD on productive night",
+        "topic_id": "1410512982445699072"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12519",
+      "player_name": "Luther Burden",
+      "position": "WR",
+      "published": 1790654600000,
+      "source": "rotowire",
+      "source_key": "639797",
+      "story_id": "nfl|12519|rotowire|639797|1790654600000",
+      "title": "Luther Burden - Scores TD on productive night",
+      "url": null
+    },
+    {
+      "analysis": "Barner saw an intense target share in Sunday's contest, picking up the slack for the Seahawks' offense. The Commanders' defense relentlessly prioritized Jaxon Smith-Njigba as the game developed, leaving Barner to see plenty of attention in a losing effort.",
+      "description": "Barner caught 5-of-9 targets for 69 yards in the Seahawks' 33-31 loss to the Commanders on Sunday.",
+      "metadata": {
+        "analysis": "Barner saw an intense target share in Sunday's contest, picking up the slack for the Seahawks' offense. The Commanders' defense relentlessly prioritized Jaxon Smith-Njigba as the game developed, leaving Barner to see plenty of attention in a losing effort.",
+        "description": "Barner caught 5-of-9 targets for 69 yards in the Seahawks' 33-31 loss to the Commanders on Sunday.",
+        "title": "AJ Barner - Nine targets in loss",
+        "topic_id": "1410511723680518144"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11603",
+      "player_name": "AJ Barner",
+      "position": "TE",
+      "published": 1790654401000,
+      "source": "rotowire",
+      "source_key": "639796",
+      "story_id": "nfl|11603|rotowire|639796|1790654401000",
+      "title": "AJ Barner - Nine targets in loss",
+      "url": null
+    },
+    {
+      "analysis": "Hurts scuffled through the air as much as his final suggests, averaging a modest 6.1 yards per attempt while taking a pair of sacks. The star signal-caller also absorbed a big hit on the sideline at the end of a two-yard scramble shortly before the midway point of the second quarter, and he missed four plays while undergoing a concussion check he subsequently passed. Hurts led the Eagles to their only points upon checking back in for the following possession, one he capped off with a one-yard touchdown run as time expired in the first half. That would prove to be the highlight of an otherwise forgettable night, and Hurts is averaging an unremarkable 206.7 passing yards per game alongside a 5:3 TD:INT into a Week 4 home showdown against the Rams on Sunday.",
+      "description": "Hurts completed 16 of 25 passes for 153 yards with no touchdowns and one interception while rushing four times for 25 yards and a touchdown in the Eagles' 27-7 loss to the Bears on Monday night.",
+      "metadata": {
+        "analysis": "Hurts scuffled through the air as much as his final suggests, averaging a modest 6.1 yards per attempt while taking a pair of sacks. The star signal-caller also absorbed a big hit on the sideline at the end of a two-yard scramble shortly before the midway point of the second quarter, and he missed four plays while undergoing a concussion check he subsequently passed. Hurts led the Eagles to their only points upon checking back in for the following possession, one he capped off with a one-yard touchdown run as time expired in the first half. That would prove to be the highlight of an otherwise forgettable night, and Hurts is averaging an unremarkable 206.7 passing yards per game alongside a 5:3 TD:INT into a Week 4 home showdown against the Rams on Sunday.",
+        "description": "Hurts completed 16 of 25 passes for 153 yards with no touchdowns and one interception while rushing four times for 25 yards and a touchdown in the Eagles' 27-7 loss to the Bears on Monday night.",
+        "title": "Jalen Hurts - Forgettable night in loss",
+        "topic_id": "1410510464705712128"
+      },
+      "nfl_team": "PHI",
+      "player_id": "6904",
+      "player_name": "Jalen Hurts",
+      "position": "QB",
+      "published": 1790654254000,
+      "source": "rotowire",
+      "source_key": "639795",
+      "story_id": "nfl|6904|rotowire|639795|1790654254000",
+      "title": "Jalen Hurts - Forgettable night in loss",
+      "url": null
+    },
+    {
+      "analysis": "Keenum's final numbers underscore how effective he was running Ben Johnson's aggressive offense against a quality defense. The 38-year-old signal-caller, who got the starting nod over Tyson Bagent in Caleb Williams' (hamstring) stead, connected with seven different targets overall, facilitating multi-reception tallies for four of his pass catchers. Keenum completed an eight-yard shovel pass to Luther Burden for his first touchdown toss of the night, and he followed it up with an impressive 41-yard scoring strike to Kalif Raymond in the latter portion of the third quarter. He then closed out the scoring with a one-yard run just past the midway point of the final period, rounding out a rewarding fantasy night. Given Monday night's results, Keenum appears well in line to be under center for a Week 4 home matchup against the Jets on Sunday.",
+      "description": "Keenum completed 24 of 34 passes for 247 yards with two touchdowns and no interceptions while rushing four times for six yards and another score in the Bears' 27-7 win over the Eagles on Monday night. He also fumbled once but recovered.",
+      "metadata": {
+        "analysis": "Keenum's final numbers underscore how effective he was running Ben Johnson's aggressive offense against a quality defense. The 38-year-old signal-caller, who got the starting nod over Tyson Bagent in Caleb Williams' (hamstring) stead, connected with seven different targets overall, facilitating multi-reception tallies for four of his pass catchers. Keenum completed an eight-yard shovel pass to Luther Burden for his first touchdown toss of the night, and he followed it up with an impressive 41-yard scoring strike to Kalif Raymond in the latter portion of the third quarter. He then closed out the scoring with a one-yard run just past the midway point of the final period, rounding out a rewarding fantasy night. Given Monday night's results, Keenum appears well in line to be under center for a Week 4 home matchup against the Jets on Sunday.",
+        "description": "Keenum completed 24 of 34 passes for 247 yards with two touchdowns and no interceptions while rushing four times for six yards and another score in the Bears' 27-7 win over the Eagles on Monday night. He also fumbled once but recovered.",
+        "title": "Case Keenum - Stellar in Week 3 spot start",
+        "topic_id": "1410507948337164288"
+      },
+      "nfl_team": "CHI",
+      "player_id": "1737",
+      "player_name": "Case Keenum",
+      "position": "QB",
+      "published": 1790653734000,
+      "source": "rotowire",
+      "source_key": "639793",
+      "story_id": "nfl|1737|rotowire|639793|1790653734000",
+      "title": "Case Keenum - Stellar in Week 3 spot start",
+      "url": null
+    },
+    {
+      "analysis": "Smith led the Eagles across the board in receptions, receiving yards and targets on a night when Jalen Hurts passed for just 153 yards. All three of the speedy wideout's totals also qualified as his second highest of the first three games of the season. Smith appears to be adjusting well to new coordinator Sean Mannion's offense despite the Eagles' collective performance on that side of the ball leaving plenty to be desired, and he'll take a robust 19-235-1 line on 27 targets into a Week 4 home showdown against the Rams on Sunday.",
+      "description": "Smith secured six of eight targets for 65 yards in the Eagles' 27-7 loss to the Bears on Monday night.",
+      "metadata": {
+        "analysis": "Smith led the Eagles across the board in receptions, receiving yards and targets on a night when Jalen Hurts passed for just 153 yards. All three of the speedy wideout's totals also qualified as his second highest of the first three games of the season. Smith appears to be adjusting well to new coordinator Sean Mannion's offense despite the Eagles' collective performance on that side of the ball leaving plenty to be desired, and he'll take a robust 19-235-1 line on 27 targets into a Week 4 home showdown against the Rams on Sunday.",
+        "description": "Smith secured six of eight targets for 65 yards in the Eagles' 27-7 loss to the Bears on Monday night.",
+        "title": "DeVonta Smith - Paces pass catchers in Week 3 loss",
+        "topic_id": "1410507948177780736"
+      },
+      "nfl_team": "PHI",
+      "player_id": "7525",
+      "player_name": "DeVonta Smith",
+      "position": "WR",
+      "published": 1790653347000,
+      "source": "rotowire",
+      "source_key": "639791",
+      "story_id": "nfl|7525|rotowire|639791|1790653347000",
+      "title": "DeVonta Smith - Paces pass catchers in Week 3 loss",
+      "url": null
+    },
+    {
+      "analysis": "Barkley was a rare bright spot for an otherwise moribund Eagles offense, showing no ill effects from the stinger that cost him substantial time in a Week 2 win over the Titans. The star running back got his night started on the right foot with a 12-yard run on Philadelphia's opening possession and a nine-yarder on the second drive that was wiped out by a holding penalty. Barkley would go on to add another four rushes of seven or more yards, including a game-long 17-yard scamper. Barkley has yet to top 15 carries in any of the first three games of the season, but he's been highly efficient while averaging 5.1 yards per carry and posting four runs of 10-plus yards overall. Barkley and the Eagles have a tall order on their Week 4 ledger, however, as the Rams come to town Sunday.",
+      "description": "Barkley rushed 15 times for 82 yards and secured one of two targets for minus-2 yards in the Eagles' 27-7 loss to the Bears on Monday night.",
+      "metadata": {
+        "analysis": "Barkley was a rare bright spot for an otherwise moribund Eagles offense, showing no ill effects from the stinger that cost him substantial time in a Week 2 win over the Titans. The star running back got his night started on the right foot with a 12-yard run on Philadelphia's opening possession and a nine-yarder on the second drive that was wiped out by a holding penalty. Barkley would go on to add another four rushes of seven or more yards, including a game-long 17-yard scamper. Barkley has yet to top 15 carries in any of the first three games of the season, but he's been highly efficient while averaging 5.1 yards per carry and posting four runs of 10-plus yards overall. Barkley and the Eagles have a tall order on their Week 4 ledger, however, as the Rams come to town Sunday.",
+        "description": "Barkley rushed 15 times for 82 yards and secured one of two targets for minus-2 yards in the Eagles' 27-7 loss to the Bears on Monday night.",
+        "title": "Saquon Barkley - Solid numbers in double-digit loss",
+        "topic_id": "1410505432111341568"
+      },
+      "nfl_team": "PHI",
+      "player_id": "4866",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "published": 1790652991000,
+      "source": "rotowire",
+      "source_key": "639790",
+      "story_id": "nfl|4866|rotowire|639790|1790652991000",
+      "title": "Saquon Barkley - Solid numbers in double-digit loss",
+      "url": null
+    },
+    {
+      "analysis": "Facing the team he suited up for back in 2023, Swift had a nifty nine-yard run on the Bears' opening possession, but he otherwise found running room at a premium for the next two-plus quarters. However, Swift got it going late to help ice Chicago's impressive win, rattling off 23 yards on the first three plays of the Bears' final drive and then closing things out with a 15-yard tackle-breaking scamper on fourth-and-1 on the first play after the two-minute warning. Swift has eclipsed 80 rushing yards in two of the first three games of the campaign and will take an average of 4.7 yards per carry into a Week 4 home matchup against the Jets on Sunday.",
+      "description": "Swift rushed 20 times for 84 yards and brought in two of three targets for four yards in the Bears' 27-7 win over the Eagles on Monday night.",
+      "metadata": {
+        "analysis": "Facing the team he suited up for back in 2023, Swift had a nifty nine-yard run on the Bears' opening possession, but he otherwise found running room at a premium for the next two-plus quarters. However, Swift got it going late to help ice Chicago's impressive win, rattling off 23 yards on the first three plays of the Bears' final drive and then closing things out with a 15-yard tackle-breaking scamper on fourth-and-1 on the first play after the two-minute warning. Swift has eclipsed 80 rushing yards in two of the first three games of the campaign and will take an average of 4.7 yards per carry into a Week 4 home matchup against the Jets on Sunday.",
+        "description": "Swift rushed 20 times for 84 yards and brought in two of three targets for four yards in the Bears' 27-7 win over the Eagles on Monday night.",
+        "title": "D'Andre Swift - Strong finish in Week 3 win",
+        "topic_id": "1410504173056806912"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1790652676000,
+      "source": "rotowire",
+      "source_key": "639789",
+      "story_id": "nfl|6790|rotowire|639789|1790652676000",
+      "title": "D'Andre Swift - Strong finish in Week 3 win",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets quarterback Geno Smith has emerged as one of the most appealing waiver wire options heading into Week 4 of the NFL season. In a somewhat shocking turn of events, Smith racked up 321 passing yards and three passing touchdowns on Sunday, becoming the 15th-highest-scoring quarterback in fantasy football this year. This is a huge feat on its own, but it's even more impressive when you consider that Smith didn't have one of his favorite targets, Adonai Mitchell (finger). Maybe Smith won't rack up three touchdowns every game going forward, but he at least proved that he's capable of producing meaningful fantasy value while keeping the Jets in competitive games. The veteran quarterback could find himself in another high-scoring game against the Bears next week, vaulting him to the mid-range QB2 territory and making him one of the top quarterbacks to target on waivers.",
+      "metadata": {
+        "description": "New York Jets quarterback Geno Smith has emerged as one of the most appealing waiver wire options heading into Week 4 of the NFL season. In a somewhat shocking turn of events, Smith racked up 321 passing yards and three passing touchdowns on Sunday, becoming the 15th-highest-scoring quarterback in fantasy football this year. This is a huge feat on its own, but it's even more impressive when you consider that Smith didn't have one of his favorite targets, Adonai Mitchell (finger). Maybe Smith won't rack up three touchdowns every game going forward, but he at least proved that he's capable of producing meaningful fantasy value while keeping the Jets in competitive games. The veteran quarterback could find himself in another high-scoring game against the Bears next week, vaulting him to the mid-range QB2 territory and making him one of the top quarterbacks to target on waivers.",
+        "title": "Geno Smith Among the Top Waiver Wire Targets for Week 4",
+        "topic_id": "1410540663526756352",
+        "url": "https://www.rotoballer.com/player-news/geno-smith-among-the-top-waiver-wire-targets-for-week-4/1953410"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "1373",
+      "player_name": "Geno Smith",
+      "position": "QB",
+      "published": 1790646738000,
+      "source": "rotoballer",
+      "source_key": "222680",
+      "story_id": "nfl|1373|rotoballer|222680|1790646738000",
+      "title": "Geno Smith Among the Top Waiver Wire Targets for Week 4",
+      "url": "https://www.rotoballer.com/player-news/geno-smith-among-the-top-waiver-wire-targets-for-week-4/1953410"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers tight end Oronde Gadsden is coming off an ugly performance in which he caught zero passes on three targets, but he's still one of the more appealing tight ends on the waiver wire ahead of Week 4. Gadsden took on a larger role this past week (57% snap share) after David Njoku (fibula) was placed on injured reserve. Barring anything unexpected, Njoku's injury will leave Gadsden in the No. 1 tight end role through Week 6, at the earliest. Los Angeles' offense hasn't looked amazing lately, but the 23-year-old is still one of the top targets in the Chargers' offense, so he should have some low-end fantasy appeal. Plus, we saw what he could do as Justin Herbert's primary tight end last year, when he caught 49 passes for 664 yards and three touchdowns. Gadsden is a solid waiver wire target in 12+ team leagues.",
+      "metadata": {
+        "description": "Los Angeles Chargers tight end Oronde Gadsden is coming off an ugly performance in which he caught zero passes on three targets, but he's still one of the more appealing tight ends on the waiver wire ahead of Week 4. Gadsden took on a larger role this past week (57% snap share) after David Njoku (fibula) was placed on injured reserve. Barring anything unexpected, Njoku's injury will leave Gadsden in the No. 1 tight end role through Week 6, at the earliest. Los Angeles' offense hasn't looked amazing lately, but the 23-year-old is still one of the top targets in the Chargers' offense, so he should have some low-end fantasy appeal. Plus, we saw what he could do as Justin Herbert's primary tight end last year, when he caught 49 passes for 664 yards and three touchdowns. Gadsden is a solid waiver wire target in 12+ team leagues.",
+        "title": "Oronde Gadsden Still a Worthwhile Streamer Despite Recent Dud",
+        "topic_id": "1410539405818503168",
+        "url": "https://www.rotoballer.com/player-news/oronde-gadsden-still-a-worthwhile-streamer-despite-recent-dud/1953407"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12493",
+      "player_name": "Oronde Gadsden",
+      "position": "TE",
+      "published": 1790646434000,
+      "source": "rotoballer",
+      "source_key": "222679",
+      "story_id": "nfl|12493|rotoballer|222679|1790646434000",
+      "title": "Oronde Gadsden Still a Worthwhile Streamer Despite Recent Dud",
+      "url": "https://www.rotoballer.com/player-news/oronde-gadsden-still-a-worthwhile-streamer-despite-recent-dud/1953407"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. doesn't have weekly standalone value, but he remains an intriguing waiver wire target given his status as the preferred handcuff option behind Bhayshul Tuten. Rodriguez looked solid with an increased workload in Week 3, rushing for 37 yards and one touchdown on eight carries. We can't count on him for a touchdown every week, but his solid volume and efficiency should leave managers feeling encouraged that he can be plugged into lineups as a low-end RB2 or high-end RB3/flex if Tuten ever misses any time. As a result, managers in 12+ team leagues should consider snagging Rodriguez off the waiver wire, especially if they already have Tuten on their roster.",
+      "metadata": {
+        "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. doesn't have weekly standalone value, but he remains an intriguing waiver wire target given his status as the preferred handcuff option behind Bhayshul Tuten. Rodriguez looked solid with an increased workload in Week 3, rushing for 37 yards and one touchdown on eight carries. We can't count on him for a touchdown every week, but his solid volume and efficiency should leave managers feeling encouraged that he can be plugged into lineups as a low-end RB2 or high-end RB3/flex if Tuten ever misses any time. As a result, managers in 12+ team leagues should consider snagging Rodriguez off the waiver wire, especially if they already have Tuten on their roster.",
+        "title": "Chris Rodriguez Jr. Worth Stashing as a Top Handcuff",
+        "topic_id": "1410538146675888128",
+        "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-worth-stashing-as-a-top-handcuff/1953405"
+      },
+      "nfl_team": "JAX",
+      "player_id": "10219",
+      "player_name": "Chris Rodriguez",
+      "position": "RB",
+      "published": 1790646025000,
+      "source": "rotoballer",
+      "source_key": "222678",
+      "story_id": "nfl|10219|rotoballer|222678|1790646025000",
+      "title": "Chris Rodriguez Jr. Worth Stashing as a Top Handcuff",
+      "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-worth-stashing-as-a-top-handcuff/1953405"
+    },
+    {
+      "analysis": "Hurts was pulled after taking a hard hit midway through the second quarter. He headed to the medical tent and was replaced at quarterback by Andy Dalton, who threw an interception in the end zone to end a potential Eagles scoring drive. Hurts is now slated to get back behind center for Philadelphia following the brief but costly exit.",
+      "description": "Hurts exited Monday's game versus Chicago to be evaluated for a concussion and has since been cleared to return.",
+      "metadata": {
+        "analysis": "Hurts was pulled after taking a hard hit midway through the second quarter. He headed to the medical tent and was replaced at quarterback by Andy Dalton, who threw an interception in the end zone to end a potential Eagles scoring drive. Hurts is now slated to get back behind center for Philadelphia following the brief but costly exit.",
+        "description": "Hurts exited Monday's game versus Chicago to be evaluated for a concussion and has since been cleared to return.",
+        "title": "Jalen Hurts - Evaluated for concussion, cleared to return",
+        "topic_id": "1410473972381822976"
+      },
+      "nfl_team": "PHI",
+      "player_id": "6904",
+      "player_name": "Jalen Hurts",
+      "position": "QB",
+      "published": 1790645433000,
+      "source": "rotowire",
+      "source_key": "639785",
+      "story_id": "nfl|6904|rotowire|639785|1790645433000",
+      "title": "Jalen Hurts - Evaluated for concussion, cleared to return",
+      "url": null
+    },
+    {
+      "analysis": "Marks and David Montgomery both averaged only three yards per carry during Sunday's loss, though the former found the end zone for the first time this season on a one-yard rushing touchdown late in the fourth quarter. Marks' 20 snaps on offense was behind Montgomery's 34, though neither running back has found much success in the rushing attack in each of the Texans' last two games. Houston will look to avoid an 0-4 start to the season in Week 4 against Dallas.",
+      "description": "Marks turned five carries into 15 yards and a touchdown and hauled in his lone target for six yards during the Texans' 19-17 loss to the Colts on Sunday. He also returned two kickoffs for 52 yards.",
+      "metadata": {
+        "analysis": "Marks and David Montgomery both averaged only three yards per carry during Sunday's loss, though the former found the end zone for the first time this season on a one-yard rushing touchdown late in the fourth quarter. Marks' 20 snaps on offense was behind Montgomery's 34, though neither running back has found much success in the rushing attack in each of the Texans' last two games. Houston will look to avoid an 0-4 start to the season in Week 4 against Dallas.",
+        "description": "Marks turned five carries into 15 yards and a touchdown and hauled in his lone target for six yards during the Texans' 19-17 loss to the Colts on Sunday. He also returned two kickoffs for 52 yards.",
+        "title": "Woody Marks - Scores first TD of 2026",
+        "topic_id": "1410472717181890560"
+      },
+      "nfl_team": "HOU",
+      "player_id": "12474",
+      "player_name": "Woody Marks",
+      "position": "RB",
+      "published": 1790645175000,
+      "source": "rotowire",
+      "source_key": "639783",
+      "story_id": "nfl|12474|rotowire|639783|1790645175000",
+      "title": "Woody Marks - Scores first TD of 2026",
+      "url": null
+    },
+    {
+      "analysis": "Tucker finished second the team in targets, but he was far behind tight end Brock Bowers (13). The wide receiver was on the field for 40 of the team's 70 offensive snaps, and he was able to make it three straight games with at least two receptions to open the season. Tucker has now caught 11 of 15 targets for 189 yards and a touchdown to this point in 2026.",
+      "description": "Tucker caught all four of his targets for 43 yards during Sunday's 35-27 win over New Orleans.",
+      "metadata": {
+        "analysis": "Tucker finished second the team in targets, but he was far behind tight end Brock Bowers (13). The wide receiver was on the field for 40 of the team's 70 offensive snaps, and he was able to make it three straight games with at least two receptions to open the season. Tucker has now caught 11 of 15 targets for 189 yards and a touchdown to this point in 2026.",
+        "description": "Tucker caught all four of his targets for 43 yards during Sunday's 35-27 win over New Orleans.",
+        "title": "Tre Tucker - Four catches in victory",
+        "topic_id": "1410470196904267776"
+      },
+      "nfl_team": "LV",
+      "player_id": "10213",
+      "player_name": "Tre Tucker",
+      "position": "WR",
+      "published": 1790644626000,
+      "source": "rotowire",
+      "source_key": "639774",
+      "story_id": "nfl|10213|rotowire|639774|1790644626000",
+      "title": "Tre Tucker - Four catches in victory",
+      "url": null
+    },
+    {
+      "analysis": "Pittman was cleared to return from a one-game absence due to a foot injury. Despite the low offensive output, he played 45 of 62 offensive snaps (72.3 percent), which was second-most among Steelers wide receivers behind DK Metcalf (56). Pittman was also tied for the second-most targets, though six Pittsburgh pass catchers were targeted at least four times by Aaron Rodgers. Pittman has a 5-74-0 receiving line (eight targets) across two regular-season games heading into Thursday's game against the Browns, whose secondary could be without starters Grant Delpit (shoulder) and Tyson Campbell (knee).",
+      "description": "Pittman caught two passes on five targets for 16 yards in Sunday's 30-27 win over the Bengals.",
+      "metadata": {
+        "analysis": "Pittman was cleared to return from a one-game absence due to a foot injury. Despite the low offensive output, he played 45 of 62 offensive snaps (72.3 percent), which was second-most among Steelers wide receivers behind DK Metcalf (56). Pittman was also tied for the second-most targets, though six Pittsburgh pass catchers were targeted at least four times by Aaron Rodgers. Pittman has a 5-74-0 receiving line (eight targets) across two regular-season games heading into Thursday's game against the Browns, whose secondary could be without starters Grant Delpit (shoulder) and Tyson Campbell (knee).",
+        "description": "Pittman caught two passes on five targets for 16 yards in Sunday's 30-27 win over the Bengals.",
+        "title": "Michael Pittman - Limited to two catches in return",
+        "topic_id": "1410470196832964608"
+      },
+      "nfl_team": "PIT",
+      "player_id": "6819",
+      "player_name": "Michael Pittman",
+      "position": "WR",
+      "published": 1790644558000,
+      "source": "rotowire",
+      "source_key": "639772",
+      "story_id": "nfl|6819|rotowire|639772|1790644558000",
+      "title": "Michael Pittman - Limited to two catches in return",
+      "url": null
+    },
     {
       "analysis": "After logging 13 catches through the first two games of the regular season, Likely was held to only two receptions in Week 3, the first game with Jameis Winston as the starter instead of Jaxson Dart (knee, IR). Likely's five targets were second-most on the Giants behind Malik Nabers (six), but the scoring floors of all Giants pass catchers figure to be lower with Winston under center. That said, New York could turn the keys over to the recently acquired J.J. McCarthy if Winston continues to underwhelm. The Giants will stay home for Week 4 against the Cardinals, whose defense gave up a 6-82-2 receiving line to tight end George Kittle in a 36-30 loss to the 49ers in Week 3.",
       "description": "Likely caught two of five targets for 13 yards during the Giants' 12-7 win over the Titans on Sunday.",
@@ -105,6 +676,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Atlanta Falcons running back Brian Robinson is clearly the No. 2 option in this backfield, but he has quietly carved out standalone value early in the 2026 season. The backup to Bijan Robinson, Brian Robinson has emerged as more than just a handcuff through the first three weeks. Over his last two games, he has 21 carries, 101 rushing yards, one rushing touchdown, and 16 receiving yards. He has scored at least 8.7 fantasy points (PPR) in each of his last two contests, delivering flex-level production in most leagues. Fantasy managers who have Bijan Robinson on their roster should scoop up Brian Robinson in a heartbeat, as he's one of the top handcuffs in fantasy football. However, there's also a case to be made for him to be claimed by managers who don't have the Falcons' starter.",
+      "metadata": {
+        "description": "Atlanta Falcons running back Brian Robinson is clearly the No. 2 option in this backfield, but he has quietly carved out standalone value early in the 2026 season. The backup to Bijan Robinson, Brian Robinson has emerged as more than just a handcuff through the first three weeks. Over his last two games, he has 21 carries, 101 rushing yards, one rushing touchdown, and 16 receiving yards. He has scored at least 8.7 fantasy points (PPR) in each of his last two contests, delivering flex-level production in most leagues. Fantasy managers who have Bijan Robinson on their roster should scoop up Brian Robinson in a heartbeat, as he's one of the top handcuffs in fantasy football. However, there's also a case to be made for him to be claimed by managers who don't have the Falcons' starter.",
+        "title": "Brian Robinson Quietly Carving Out Standalone Value",
+        "topic_id": "1410525562828578816",
+        "url": "https://www.rotoballer.com/player-news/brian-robinson-quietly-carving-out-standalone-value/1953400"
+      },
+      "nfl_team": "ATL",
+      "player_id": "8154",
+      "player_name": "Brian Robinson",
+      "position": "RB",
+      "published": 1790643270000,
+      "source": "rotoballer",
+      "source_key": "222677",
+      "story_id": "nfl|8154|rotoballer|222677|1790643270000",
+      "title": "Brian Robinson Quietly Carving Out Standalone Value",
+      "url": "https://www.rotoballer.com/player-news/brian-robinson-quietly-carving-out-standalone-value/1953400"
+    },
+    {
       "analysis": "Worthy entered Sunday's game on the heels of a 5-25-1 performance (on seven targets) during the Chiefs' Week 2 overtime win over the Colts. He didn't see any targets in the red zone Sunday compared to the three he had against Indianapolis, though he did lead all Chiefs wide receivers with 43 offensive snaps. His speed makes him a boom-or-bust candidate every week, though Worthy and the Chiefs pass catchers could thrive in a Week 4 road tilt against the Raiders if Las Vegas' rookie safety Treydan Stukes (concussion) is unable to play.",
       "description": "Worthy caught both of his targets for 20 yards during Sunday's 24-10 win over the Dolphins.",
       "metadata": {
@@ -145,10 +736,10 @@
       "url": null
     },
     {
-      "analysis": "Most of Strange's production came on a 23-yard catch midway through the second quarter, which put the Jaguars just outside the red zone and helped lead to a 10-yard touchdown pass from Trevor Lawrence to Jakobi Meyers five plays later. Strange finished Sunday's game tied for the second-most targets and catches and third in receiving yards behind Meyers (64) and Parker Washington (32). Strange is off to a somewhat slow start to the 2026 season, though he's competing against Meyers, Washington and Brian Thomas for targets in the passing game. Strange will take a 7-72-1 receiving line (on 10 targets) into a Week 4 road clash against the Bengals.",
+      "analysis": "Most of Strange's production came on a 23-yard catch midway through the second quarter, which put the Jaguars just outside the red zone and helped lead to a 10-yard touchdown pass from Trevor Lawrence to Jakobi Meyers five plays later. Strange finished Sunday's game tied for the second-most targets and catches and third in receiving yards behind Meyers (64) and Parker Washington (40). Strange is off to a somewhat slow start to the 2026 season, though he's competing against Meyers, Washington and Brian Thomas for targets in the passing game. Strange will take a 7-72-1 receiving line (on 10 targets) into a Week 4 road clash against the Bengals.",
       "description": "Strange caught three of five targets for 32 yards during the Jaguars' 35-6 win over the Patriots on Sunday.",
       "metadata": {
-        "analysis": "Most of Strange's production came on a 23-yard catch midway through the second quarter, which put the Jaguars just outside the red zone and helped lead to a 10-yard touchdown pass from Trevor Lawrence to Jakobi Meyers five plays later. Strange finished Sunday's game tied for the second-most targets and catches and third in receiving yards behind Meyers (64) and Parker Washington (32). Strange is off to a somewhat slow start to the 2026 season, though he's competing against Meyers, Washington and Brian Thomas for targets in the passing game. Strange will take a 7-72-1 receiving line (on 10 targets) into a Week 4 road clash against the Bengals.",
+        "analysis": "Most of Strange's production came on a 23-yard catch midway through the second quarter, which put the Jaguars just outside the red zone and helped lead to a 10-yard touchdown pass from Trevor Lawrence to Jakobi Meyers five plays later. Strange finished Sunday's game tied for the second-most targets and catches and third in receiving yards behind Meyers (64) and Parker Washington (40). Strange is off to a somewhat slow start to the 2026 season, though he's competing against Meyers, Washington and Brian Thomas for targets in the passing game. Strange will take a 7-72-1 receiving line (on 10 targets) into a Week 4 road clash against the Bengals.",
         "description": "Strange caught three of five targets for 32 yards during the Jaguars' 35-6 win over the Patriots on Sunday.",
         "title": "Brenton Strange - Season-high five targets vs. New England",
         "topic_id": "1410460129639305216"
@@ -165,10 +756,10 @@
       "url": null
     },
     {
-      "analysis": "The rookie second-rounder was held without a catch until the fourth quarter, when he caught 28- and 13-yard passes from Deshaun Watson before the duo connected on a two-point conversion late in the fourth quarter to extend the Browns' lead to three points. Boston was unable to record a touchdown catch for a third-straight game, though he still finished Sunday's contest as the Browns' second-leading receiver behind tight end Harold Fannin (51). Boston, Fannin and rookie first-rounder KC Concepcion will continue to serve as Watson's top targets in the passing game, with Jerry Jeudy and Isaiah Bond working in rotation. Boston will take a 9-195-2 receiving line (on 15 targets) into Thursday's AFC North showdown against the Steelers, whose secondary could be without starters Grant Delpit (shoulder) and Tyson Campbell (hip/knee/ankle).",
+      "analysis": "The rookie second-rounder was held without a catch until the fourth quarter, when he caught 28- and 13-yard passes from Deshaun Watson before the duo connected on a two-point conversion late in the fourth quarter to extend the Browns' lead to three points. Boston was unable to record a touchdown catch for a third-straight game, though he still finished Sunday's contest as the Browns' second-leading receiver behind tight end Harold Fannin (51). Boston, Fannin and rookie first-rounder KC Concepcion will continue to serve as Watson's top targets in the passing game, with Jerry Jeudy and Isaiah Bond working in rotation. Boston will take a 9-195-2 receiving line (on 15 targets) into Thursday's AFC North showdown against the Steelers.",
       "description": "Boston caught two passes on four passes for 41 yards during the Browns' 21-18 win over the Panthers on Sunday. He also caught a two-point conversion.",
       "metadata": {
-        "analysis": "The rookie second-rounder was held without a catch until the fourth quarter, when he caught 28- and 13-yard passes from Deshaun Watson before the duo connected on a two-point conversion late in the fourth quarter to extend the Browns' lead to three points. Boston was unable to record a touchdown catch for a third-straight game, though he still finished Sunday's contest as the Browns' second-leading receiver behind tight end Harold Fannin (51). Boston, Fannin and rookie first-rounder KC Concepcion will continue to serve as Watson's top targets in the passing game, with Jerry Jeudy and Isaiah Bond working in rotation. Boston will take a 9-195-2 receiving line (on 15 targets) into Thursday's AFC North showdown against the Steelers, whose secondary could be without starters Grant Delpit (shoulder) and Tyson Campbell (hip/knee/ankle).",
+        "analysis": "The rookie second-rounder was held without a catch until the fourth quarter, when he caught 28- and 13-yard passes from Deshaun Watson before the duo connected on a two-point conversion late in the fourth quarter to extend the Browns' lead to three points. Boston was unable to record a touchdown catch for a third-straight game, though he still finished Sunday's contest as the Browns' second-leading receiver behind tight end Harold Fannin (51). Boston, Fannin and rookie first-rounder KC Concepcion will continue to serve as Watson's top targets in the passing game, with Jerry Jeudy and Isaiah Bond working in rotation. Boston will take a 9-195-2 receiving line (on 15 targets) into Thursday's AFC North showdown against the Steelers.",
         "description": "Boston caught two passes on four passes for 41 yards during the Browns' 21-18 win over the Panthers on Sunday. He also caught a two-point conversion.",
         "title": "Denzel Boston - Records two catches in Week 3 win",
         "topic_id": "1410458870295371776"
@@ -203,6 +794,26 @@
       "story_id": "nfl|8110|rotowire|639744|1790641537000",
       "title": "Jake Ferguson - Reaches end zone again in Brazil",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts quarterback Daniel Jones has emerged as a viable streaming option in fantasy football for Week 4 against the Washington Commanders. Jones is coming off an ugly three-turnover performance, but he still managed to tally a respectable 235 passing yards in the process. Now, he gets a relatively soft matchup in the form of the Commanders, who just surrendered a whopping 379 passing yards and four touchdowns to Sam Darnold. While Washington's offense is playing better than expected without Jayden Daniels (elbow), its defense continues to have plenty of question marks. The Commanders have played in numerous shootouts this year, and we could see Week 4 following the same pattern. The Colts are far from a lock to win, but Jones has a very good chance to put together his best fantasy performance of the season against Washington. He's worth streaming as a mid-range QB2 with additional upside.",
+      "metadata": {
+        "description": "Indianapolis Colts quarterback Daniel Jones has emerged as a viable streaming option in fantasy football for Week 4 against the Washington Commanders. Jones is coming off an ugly three-turnover performance, but he still managed to tally a respectable 235 passing yards in the process. Now, he gets a relatively soft matchup in the form of the Commanders, who just surrendered a whopping 379 passing yards and four touchdowns to Sam Darnold. While Washington's offense is playing better than expected without Jayden Daniels (elbow), its defense continues to have plenty of question marks. The Commanders have played in numerous shootouts this year, and we could see Week 4 following the same pattern. The Colts are far from a lock to win, but Jones has a very good chance to put together his best fantasy performance of the season against Washington. He's worth streaming as a mid-range QB2 with additional upside.",
+        "title": "Daniel Jones on the Streaming Radar for Week 4",
+        "topic_id": "1410516753838067712",
+        "url": "https://www.rotoballer.com/player-news/daniel-jones-on-the-streaming-radar-for-week-4/1953393"
+      },
+      "nfl_team": "IND",
+      "player_id": "5870",
+      "player_name": "Daniel Jones",
+      "position": "QB",
+      "published": 1790641228000,
+      "source": "rotoballer",
+      "source_key": "222676",
+      "story_id": "nfl|5870|rotoballer|222676|1790641228000",
+      "title": "Daniel Jones on the Streaming Radar for Week 4",
+      "url": "https://www.rotoballer.com/player-news/daniel-jones-on-the-streaming-radar-for-week-4/1953393"
     },
     {
       "analysis": "Doubs finished second on the Patriots in both catches and receiving yards to Mack Hollins, the latter of whom finished with a 6-87-0 receiving line on nine targets. Doubs and Hollins will continue to operate as Drake Maye's top targets in the absence of A.J. Brown (ankle), who will miss at least the next two weeks while on injured reserve. Doubs will take a 6-145-0 receiving line on 11 targets into a Week 4 road matchup against Buffalo.",
@@ -365,6 +976,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Houston Texans quarterback C.J. Stroud had his worst showing of the young season in Sunday's Week 3 loss to the division-rival Indianapolis Colts, going 16-for-27 passing (59.3%) for 167 yards with one touchdown and zero interceptions. He added two carries for 10 yards on the ground in the 19-17 loss. The 24-year-old struggled to move the football consistently against the Colts' defense without his top receiver, Nico Collins (hamstring), who missed a second straight game with a hamstring injury. The former second overall pick from Ohio State threw for 353 yards in the Week 2 loss to the Cincinnati Bengals and went for 274 yards and two TDs in the season-opening loss to the Buffalo Bills. Most notably, Stroud has avoided an interception through three weeks, and he could be getting Collins back this weekend in Houston's Week 4 matchup against the Dallas Cowboys, whose defense has surrendered the third-most passing yards per game early in the year. Stroud is still a strong QB2 to have rostered in fantasy, and his arrow could be pointing back up soon once he gets his top target back.",
+      "metadata": {
+        "description": "Houston Texans quarterback C.J. Stroud had his worst showing of the young season in Sunday's Week 3 loss to the division-rival Indianapolis Colts, going 16-for-27 passing (59.3%) for 167 yards with one touchdown and zero interceptions. He added two carries for 10 yards on the ground in the 19-17 loss. The 24-year-old struggled to move the football consistently against the Colts' defense without his top receiver, Nico Collins (hamstring), who missed a second straight game with a hamstring injury. The former second overall pick from Ohio State threw for 353 yards in the Week 2 loss to the Cincinnati Bengals and went for 274 yards and two TDs in the season-opening loss to the Buffalo Bills. Most notably, Stroud has avoided an interception through three weeks, and he could be getting Collins back this weekend in Houston's Week 4 matchup against the Dallas Cowboys, whose defense has surrendered the third-most passing yards per game early in the year. Stroud is still a strong QB2 to have rostered in fantasy, and his arrow could be pointing back up soon once he gets his top target back.",
+        "title": "C.J. Stroud Worth Adding With Top Wideout Nearing a Return",
+        "topic_id": "1410507945006911488",
+        "url": "https://www.rotoballer.com/player-news/c-j-stroud-worth-adding-with-top-wideout-nearing-a-return/1953373"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9758",
+      "player_name": "C.J. Stroud",
+      "position": "QB",
+      "published": 1790638986000,
+      "source": "rotoballer",
+      "source_key": "222675",
+      "story_id": "nfl|9758|rotoballer|222675|1790638986000",
+      "title": "C.J. Stroud Worth Adding With Top Wideout Nearing a Return",
+      "url": "https://www.rotoballer.com/player-news/c-j-stroud-worth-adding-with-top-wideout-nearing-a-return/1953373"
+    },
+    {
       "analysis": "McMillan suffered the initial injury in camp to his left knee. It appears he will miss an extended period of time. There should be an update on his status later in the week. ",
       "description": "Buccaneers WR Jalen McMillan is believed to have suffered re-aggravation of injury from camp and will receive a second opinion. ",
       "metadata": {
@@ -384,6 +1015,26 @@
       "story_id": "nfl|11618|fantasy_pros|611371|1790638510081",
       "title": "Jalen McMillan (knee) to seek second opinion ",
       "url": "https://www.fantasypros.com/nfl/news/611371/jalen-mcmillan-knee-to-seek-second-opinion.php"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Rachaad White's production in the Week 3 upset win over the Seattle Seahawks on Sunday was not eye-popping, but it was the efficiency that stood out. The 27-year-old had a season-high eight carries for 35 yards (4.4 yards per carry) and also caught his only target for a six-yard touchdown, his first of the year. White's touchdown reception came in the first quarter from veteran quarterback Marcus Mariota, who was filling in for injured starter Jayden Daniels (elbow). He has had a minimal role through three weeks in his first season with the Commanders, but he is also averaging a career-high 4.5 yards per carry. Second-year back Jacory Croskey-Merritt saw a bigger piece of the backfield pie on Sunday, but he averaged just 1.9 yards per tote on his 19 rushing attempts. White could see more usage in the coming weeks if he continues to play well and JCM struggles to stand out, making him a decent bench stash in point-per-reception formats. Right now, he is rostered in just under 60% of Yahoo leagues.",
+      "metadata": {
+        "description": "Washington Commanders running back Rachaad White's production in the Week 3 upset win over the Seattle Seahawks on Sunday was not eye-popping, but it was the efficiency that stood out. The 27-year-old had a season-high eight carries for 35 yards (4.4 yards per carry) and also caught his only target for a six-yard touchdown, his first of the year. White's touchdown reception came in the first quarter from veteran quarterback Marcus Mariota, who was filling in for injured starter Jayden Daniels (elbow). He has had a minimal role through three weeks in his first season with the Commanders, but he is also averaging a career-high 4.5 yards per carry. Second-year back Jacory Croskey-Merritt saw a bigger piece of the backfield pie on Sunday, but he averaged just 1.9 yards per tote on his 19 rushing attempts. White could see more usage in the coming weeks if he continues to play well and JCM struggles to stand out, making him a decent bench stash in point-per-reception formats. Right now, he is rostered in just under 60% of Yahoo leagues.",
+        "title": "Rachaad White's Efficiency Could Lead to Bigger Role in Washington",
+        "topic_id": "1410504171123191808",
+        "url": "https://www.rotoballer.com/player-news/rachaad-whites-efficiency-could-lead-to-bigger-role-in-washington/1953370"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1790638300000,
+      "source": "rotoballer",
+      "source_key": "222674",
+      "story_id": "nfl|8136|rotoballer|222674|1790638300000",
+      "title": "Rachaad White's Efficiency Could Lead to Bigger Role in Washington",
+      "url": "https://www.rotoballer.com/player-news/rachaad-whites-efficiency-could-lead-to-bigger-role-in-washington/1953370"
     },
     {
       "analysis": "Dowdle was sidelined this past week. He is likely to remain sidelined for the Steelers on a short week against the Browns. Jaylen Warren would remain the clear lead back for Pittsburgh. ",
@@ -489,6 +1140,66 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers wide receiver Ted Hurst III scored his first career touchdown during Sunday's game against the Minnesota Vikings. Hurst caught a 40-yard deep ball from quarterback Baker Mayfield during the first half of Sunday's game. Hurst didn't do anything else after that, finishing with one reception on four targets in the loss. The rookie wideout has made some solid plays early in the season and is hopeful to get a larger role as the season goes on. Hurst could be an interesting deep league stash option, but his value could take a hit with Jalon Daniels likely taking over under center for a few weeks.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers wide receiver Ted Hurst III scored his first career touchdown during Sunday's game against the Minnesota Vikings. Hurst caught a 40-yard deep ball from quarterback Baker Mayfield during the first half of Sunday's game. Hurst didn't do anything else after that, finishing with one reception on four targets in the loss. The rookie wideout has made some solid plays early in the season and is hopeful to get a larger role as the season goes on. Hurst could be an interesting deep league stash option, but his value could take a hit with Jalon Daniels likely taking over under center for a few weeks.",
+        "title": "Ted Hurst III Could be Deep-League Stash Option",
+        "topic_id": "1410497878056534016",
+        "url": "https://www.rotoballer.com/player-news/ted-hurst-iii-could-be-deep-league-stash-option/1953357"
+      },
+      "nfl_team": "TB",
+      "player_id": "13317",
+      "player_name": "Ted Hurst",
+      "position": "WR",
+      "published": 1790636442000,
+      "source": "rotoballer",
+      "source_key": "222673",
+      "story_id": "nfl|13317|rotoballer|222673|1790636442000",
+      "title": "Ted Hurst III Could be Deep-League Stash Option",
+      "url": "https://www.rotoballer.com/player-news/ted-hurst-iii-could-be-deep-league-stash-option/1953357"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers wide receiver Tre' Harris was able to break out during this past weekend's matchup against the Buffalo Bills. Harris was fairly quiet during the first two games of the year, but he made a solid impact on Sunday. Harris hauled in six of his seven targets for 76 yards in the loss to the Bills. Both the receptions and receiving yards are new season high for Harris. The hope is that this good performance will lead to more opportunities for Harris during the Week 4 matchup against the New England Patriots. Harris is worth a look in deep leagues after this six-catch performance.",
+      "metadata": {
+        "description": "Los Angeles Chargers wide receiver Tre' Harris was able to break out during this past weekend's matchup against the Buffalo Bills. Harris was fairly quiet during the first two games of the year, but he made a solid impact on Sunday. Harris hauled in six of his seven targets for 76 yards in the loss to the Bills. Both the receptions and receiving yards are new season high for Harris. The hope is that this good performance will lead to more opportunities for Harris during the Week 4 matchup against the New England Patriots. Harris is worth a look in deep leagues after this six-catch performance.",
+        "title": "Tre' Harris is Gaining Trust After Solid Performance",
+        "topic_id": "1410495361440649216",
+        "url": "https://www.rotoballer.com/player-news/tre-harris-is-gaining-trust-after-solid-performance/1953350"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12509",
+      "player_name": "Tre' Harris",
+      "position": "WR",
+      "published": 1790635835000,
+      "source": "rotoballer",
+      "source_key": "222672",
+      "story_id": "nfl|12509|rotoballer|222672|1790635835000",
+      "title": "Tre' Harris is Gaining Trust After Solid Performance",
+      "url": "https://www.rotoballer.com/player-news/tre-harris-is-gaining-trust-after-solid-performance/1953350"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver Mack Hollins stepped up for this offense this past weekend. Hollins hauled in six of his nine targets for 87 yards in the blowout loss to the Jacksonville Jaguars. The Pats are without A.J. Brown (ankle) right now, so they needed someone to step up. Hollins did a nice job on Sunday and figures to earn himself a bigger role in the offense going forward. The 33-year-old clearly has good chemistry with quarterback Drake Maye. Fantasy managers needing wide receiver help in deep leagues should consider adding Hollins ahead of the Week 4 matchup against the Buffalo Bills.",
+      "metadata": {
+        "description": "New England Patriots wide receiver Mack Hollins stepped up for this offense this past weekend. Hollins hauled in six of his nine targets for 87 yards in the blowout loss to the Jacksonville Jaguars. The Pats are without A.J. Brown (ankle) right now, so they needed someone to step up. Hollins did a nice job on Sunday and figures to earn himself a bigger role in the offense going forward. The 33-year-old clearly has good chemistry with quarterback Drake Maye. Fantasy managers needing wide receiver help in deep leagues should consider adding Hollins ahead of the Week 4 matchup against the Buffalo Bills.",
+        "title": "Mack Hollins Makes for an Interesting Deep-League Option",
+        "topic_id": "1410492844904296448",
+        "url": "https://www.rotoballer.com/player-news/mack-hollins-makes-for-interesting-deep-league-option/1953344"
+      },
+      "nfl_team": "NE",
+      "player_id": "4177",
+      "player_name": "Mack Hollins",
+      "position": "WR",
+      "published": 1790635392000,
+      "source": "rotoballer",
+      "source_key": "222671",
+      "story_id": "nfl|4177|rotoballer|222671|1790635392000",
+      "title": "Mack Hollins Makes for an Interesting Deep-League Option",
+      "url": "https://www.rotoballer.com/player-news/mack-hollins-makes-for-interesting-deep-league-option/1953344"
+    },
+    {
       "analysis": "Adam Schefter reported Sunday morning that the Rams do not believe surgery will be needed, but it's still on the table. Nacua will need to be monitored in practice throughout the week. ",
       "description": "Rams head coach Sean McVay said he was \"hopeful\" WR Puka Nacua will be able to play in Week 4 against the Eagles.",
       "metadata": {
@@ -530,6 +1241,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Jacksonville Jaguars tight end Brenton Strange has been off to a slow start to begin the season. The 25-year-old was able to get a little more involved in the offense during the Week 3 win over the New England Patriots. Strange hauled in three of his five targets for 32 yards in the blowout win. It's not the best performance on paper, but the five targets are a good sight for the fourth-year tight end. The hope is that the Jaguars continue to keep getting Strange involved with a handful of targets each week. Strange will have a favorable matchup against the Cincinnati Bengals defense in Week 4. He should be on the TE2 radar for that one.",
+      "metadata": {
+        "description": "Jacksonville Jaguars tight end Brenton Strange has been off to a slow start to begin the season. The 25-year-old was able to get a little more involved in the offense during the Week 3 win over the New England Patriots. Strange hauled in three of his five targets for 32 yards in the blowout win. It's not the best performance on paper, but the five targets are a good sight for the fourth-year tight end. The hope is that the Jaguars continue to keep getting Strange involved with a handful of targets each week. Strange will have a favorable matchup against the Cincinnati Bengals defense in Week 4. He should be on the TE2 radar for that one.",
+        "title": "Brenton Strange Gaining Value After Seeing Five Targets",
+        "topic_id": "1410489069108006912",
+        "url": "https://www.rotoballer.com/player-news/brenton-strange-gaining-value-after-seeing-five-targets/1953335"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9480",
+      "player_name": "Brenton Strange",
+      "position": "TE",
+      "published": 1790634670000,
+      "source": "rotoballer",
+      "source_key": "222670",
+      "story_id": "nfl|9480|rotoballer|222670|1790634670000",
+      "title": "Brenton Strange Gaining Value After Seeing Five Targets",
+      "url": "https://www.rotoballer.com/player-news/brenton-strange-gaining-value-after-seeing-five-targets/1953335"
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets wide receiver Adonai Mitchell (finger) was inactive for the Week 3 loss to the Detroit Lions. The hope is that Mitchell will be back for the Week 4 matchup against the Chicago Bears. If he's active, Mitchell could be an interesting streaming option this upcoming weekend. In Week 2, Mitchell hauled in six of his 12 targets for 63 yards in the loss to the Green Bay Packers. The expectation is that Mitchell would once again see heavy usage if he can play in Week 4. The Jets are without Omar Cooper Jr. (ankle) and Mason Taylor (thumb) at the moment. Given the lack of options, Mitchell could see plenty of opportunities in the coming weeks for this Jets offense.",
+      "metadata": {
+        "description": "New York Jets wide receiver Adonai Mitchell (finger) was inactive for the Week 3 loss to the Detroit Lions. The hope is that Mitchell will be back for the Week 4 matchup against the Chicago Bears. If he's active, Mitchell could be an interesting streaming option this upcoming weekend. In Week 2, Mitchell hauled in six of his 12 targets for 63 yards in the loss to the Green Bay Packers. The expectation is that Mitchell would once again see heavy usage if he can play in Week 4. The Jets are without Omar Cooper Jr. (ankle) and Mason Taylor (thumb) at the moment. Given the lack of options, Mitchell could see plenty of opportunities in the coming weeks for this Jets offense.",
+        "title": "Adonai Mitchell Offers Intriguing Stash Value",
+        "topic_id": "1410486552261320704",
+        "url": "https://www.rotoballer.com/player-news/adonai-mitchell-offers-intriguing-stash-value/1953324"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11625",
+      "player_name": "Adonai Mitchell",
+      "position": "WR",
+      "published": 1790634088000,
+      "source": "rotoballer",
+      "source_key": "222669",
+      "story_id": "nfl|11625|rotoballer|222669|1790634088000",
+      "title": "Adonai Mitchell Offers Intriguing Stash Value",
+      "url": "https://www.rotoballer.com/player-news/adonai-mitchell-offers-intriguing-stash-value/1953324"
+    },
+    {
       "analysis": "Gordon remains the most likely player to lead the backfield, but Jaylen Wright will figure to have a role when he is healthy. Gordon can be viewed as a borderline RB2 for now. ",
       "description": "Dolphins coach Jeff Hafley said all running backs on the roster are \"going to have their roles.\"",
       "metadata": {
@@ -549,6 +1300,106 @@
       "story_id": "nfl|12495|fantasy_pros|611347|1790633108885",
       "title": "Ollie Gordon II: All RBs on Dolphins 'are going to have their roles'",
       "url": "https://www.fantasypros.com/nfl/news/611347/ollie-gordon-ii-all-rbs-on-dolphins-are-going-to-have-their-roles.php"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Keaton Mitchell had his best game of the 2026 season in Week 3, recording 47 scrimmage yards and a touchdown on 11 touches in his team's 24-16 loss to the Buffalo Bills. Mitchell has recorded 95 scrimmage yards on 21 touches across the Chargers' first three games of the season, and his production upside is limited by the presence of Los Angeles RB1 Omarion Hampton. However, Mitchell's usage has scaled up each week, and he played just three fewer snaps than Hampton in Week 3. While Hampton should be expected to remain the Chargers' lead back, Mitchell clearly has a role in his team's offense and could work his way into standalone fantasy value in deeper leagues. Obviously, Mitchell also offers significant upside for fantasy managers in the event of an injury to Hampton. In PPR-scoring leagues with 12 or more teams, Mitchell profiles as a worthy waiver wire target.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Keaton Mitchell had his best game of the 2026 season in Week 3, recording 47 scrimmage yards and a touchdown on 11 touches in his team's 24-16 loss to the Buffalo Bills. Mitchell has recorded 95 scrimmage yards on 21 touches across the Chargers' first three games of the season, and his production upside is limited by the presence of Los Angeles RB1 Omarion Hampton. However, Mitchell's usage has scaled up each week, and he played just three fewer snaps than Hampton in Week 3. While Hampton should be expected to remain the Chargers' lead back, Mitchell clearly has a role in his team's offense and could work his way into standalone fantasy value in deeper leagues. Obviously, Mitchell also offers significant upside for fantasy managers in the event of an injury to Hampton. In PPR-scoring leagues with 12 or more teams, Mitchell profiles as a worthy waiver wire target.",
+        "title": "Keaton Mitchell a Worthy Waiver-Wire Target Following Solid Week 3",
+        "topic_id": "1410481519826305024",
+        "url": "https://www.rotoballer.com/player-news/keaton-mitchell-a-worthy-waiver-wire-target-following-solid-week-3-production/1953304"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1790632681000,
+      "source": "rotoballer",
+      "source_key": "222668",
+      "story_id": "nfl|9511|rotoballer|222668|1790632681000",
+      "title": "Keaton Mitchell a Worthy Waiver-Wire Target Following Solid Week 3",
+      "url": "https://www.rotoballer.com/player-news/keaton-mitchell-a-worthy-waiver-wire-target-following-solid-week-3-production/1953304"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers tight end Pat Freiermuth had a quiet game in his team's Week 3 win over the Cincinnati Bengals, recording two catches for 30 yards on four targets. However, the 27-year-old has played a steady role in the Steelers' passing game so far this season, recording 11 catches for 108 yards and a touchdown on 14 targets across the first three weeks of 2026. Freiermuth has proven he can be productive when he sees consistent target volume, recording 65 catches for 653 yards and seven touchdowns on 78 targets in 2024. Given his current role in the Pittsburgh offense, Freiermuth profiles as a worthy waiver wire target in deeper fantasy leagues ahead of his Week 4 matchup against the Cleveland Browns.",
+      "metadata": {
+        "description": "Pittsburgh Steelers tight end Pat Freiermuth had a quiet game in his team's Week 3 win over the Cincinnati Bengals, recording two catches for 30 yards on four targets. However, the 27-year-old has played a steady role in the Steelers' passing game so far this season, recording 11 catches for 108 yards and a touchdown on 14 targets across the first three weeks of 2026. Freiermuth has proven he can be productive when he sees consistent target volume, recording 65 catches for 653 yards and seven touchdowns on 78 targets in 2024. Given his current role in the Pittsburgh offense, Freiermuth profiles as a worthy waiver wire target in deeper fantasy leagues ahead of his Week 4 matchup against the Cleveland Browns.",
+        "title": "Pat Freiermuth Remains a Deep-League Waiver-Wire Target",
+        "topic_id": "1410479001549471744",
+        "url": "https://www.rotoballer.com/player-news/pat-freiermuth-remains-a-deep-league-waiver-wire-target-despite-underwhelming-week-3/1953298"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7600",
+      "player_name": "Pat Freiermuth",
+      "position": "TE",
+      "published": 1790632216000,
+      "source": "rotoballer",
+      "source_key": "222667",
+      "story_id": "nfl|7600|rotoballer|222667|1790632216000",
+      "title": "Pat Freiermuth Remains a Deep-League Waiver-Wire Target",
+      "url": "https://www.rotoballer.com/player-news/pat-freiermuth-remains-a-deep-league-waiver-wire-target-despite-underwhelming-week-3/1953298"
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings tight end T.J. Hockenson has not produced much value for fantasy managers so far in 2026, recording nine catches for 76 yards and a touchdown on 13 targets across three games. However, the 29-year-old could be poised for a larger role in the Minnesota passing game going forward. Superstar Vikings wide receiver Justin Jefferson (ankle) suffered an ankle injury during the team's Week 3 win over the Tampa Bay Buccaneers. Jefferson reportedly avoided a serious injury and could even be active for Minnesota's Week 4 matchup against the Miami Dolphins. Still, if Jefferson is unable to play, Hockenson could be worth targeting on the waiver wire as a tight end streamer ahead of Week 4.",
+      "metadata": {
+        "description": "Minnesota Vikings tight end T.J. Hockenson has not produced much value for fantasy managers so far in 2026, recording nine catches for 76 yards and a touchdown on 13 targets across three games. However, the 29-year-old could be poised for a larger role in the Minnesota passing game going forward. Superstar Vikings wide receiver Justin Jefferson (ankle) suffered an ankle injury during the team's Week 3 win over the Tampa Bay Buccaneers. Jefferson reportedly avoided a serious injury and could even be active for Minnesota's Week 4 matchup against the Miami Dolphins. Still, if Jefferson is unable to play, Hockenson could be worth targeting on the waiver wire as a tight end streamer ahead of Week 4.",
+        "title": "T.J. Hockenson Could Be Poised for Expanded Role in Minnesota",
+        "topic_id": "1410476485256519680",
+        "url": "https://www.rotoballer.com/player-news/t-j-hockenson-could-be-poised-for-expanded-role-in-minnesota/1953285"
+      },
+      "nfl_team": "MIN",
+      "player_id": "5844",
+      "player_name": "T.J. Hockenson",
+      "position": "TE",
+      "published": 1790631495000,
+      "source": "rotoballer",
+      "source_key": "222666",
+      "story_id": "nfl|5844|rotoballer|222666|1790631495000",
+      "title": "T.J. Hockenson Could Be Poised for Expanded Role in Minnesota",
+      "url": "https://www.rotoballer.com/player-news/t-j-hockenson-could-be-poised-for-expanded-role-in-minnesota/1953285"
+    },
+    {
+      "analysis": null,
+      "description": "Updating a previous report, Philadelphia Eagles quarterback Jalen Hurts has been cleared of a concussion and will return to his team's Week 3 matchup against the Chicago Bears on Monday Night Football, per Cameron Wolfe of NFL Network. The 28-year-old was briefly forced to exit the game after taking a big hit along the sidelines. However, Hurts was cleared of a potential concussion. Hurts' brief absence was costly for the Eagles, as backup quarterback Andy Dalton threw an interception in a goal-to-go situation while Hurts was being checked out in the blue medical tent.",
+      "metadata": {
+        "description": "Updating a previous report, Philadelphia Eagles quarterback Jalen Hurts has been cleared of a concussion and will return to his team's Week 3 matchup against the Chicago Bears on Monday Night Football, per Cameron Wolfe of NFL Network. The 28-year-old was briefly forced to exit the game after taking a big hit along the sidelines. However, Hurts was cleared of a potential concussion. Hurts' brief absence was costly for the Eagles, as backup quarterback Andy Dalton threw an interception in a goal-to-go situation while Hurts was being checked out in the blue medical tent.",
+        "title": "Jalen Hurts Cleared to Return on Monday Night After Concussion Scare",
+        "topic_id": "1410473968569257984",
+        "url": "https://www.rotoballer.com/player-news/jalen-hurts-cleared-to-return-on-monday-night-after-concussion-scare/1953273"
+      },
+      "nfl_team": "PHI",
+      "player_id": "6904",
+      "player_name": "Jalen Hurts",
+      "position": "QB",
+      "published": 1790630948000,
+      "source": "rotoballer",
+      "source_key": "222665",
+      "story_id": "nfl|6904|rotoballer|222665|1790630948000",
+      "title": "Jalen Hurts Cleared to Return on Monday Night After Concussion Scare",
+      "url": "https://www.rotoballer.com/player-news/jalen-hurts-cleared-to-return-on-monday-night-after-concussion-scare/1953273"
+    },
+    {
+      "analysis": null,
+      "description": "Tennessee Titans wide receiver Wan'Dale Robinson had his best game of the 2026 season in his team's Week 3 loss to the New York Giants, recording seven catches for 57 yards and a touchdown on 11 targets. The 25-year-old had gotten off to a slow start to his first season in Tennessee, hauling in just six catches on seven targets across the Titans' first two games. However, Robinson has proven he can be a target and reception machine in the past, recording at least 90 catches and 140 targets in both 2024 and 2025. Particularly with Titans quarterback Cam Ward struggling, Robinson should continue to see plenty of work in the short and intermediate areas of the field. Tennessee's overall offensive struggles limit Robinson's upside, but he profiles as a high-floor PPR wide receiver for fantasy managers to target on the waiver wire.",
+      "metadata": {
+        "description": "Tennessee Titans wide receiver Wan'Dale Robinson had his best game of the 2026 season in his team's Week 3 loss to the New York Giants, recording seven catches for 57 yards and a touchdown on 11 targets. The 25-year-old had gotten off to a slow start to his first season in Tennessee, hauling in just six catches on seven targets across the Titans' first two games. However, Robinson has proven he can be a target and reception machine in the past, recording at least 90 catches and 140 targets in both 2024 and 2025. Particularly with Titans quarterback Cam Ward struggling, Robinson should continue to see plenty of work in the short and intermediate areas of the field. Tennessee's overall offensive struggles limit Robinson's upside, but he profiles as a high-floor PPR wide receiver for fantasy managers to target on the waiver wire.",
+        "title": "Wan'Dale Robinson Re-Emerging as a PPR Waiver-Wire Target",
+        "topic_id": "1410471455241547776",
+        "url": "https://www.rotoballer.com/player-news/wandale-robinson-re-emerging-as-a-ppr-waiver-wire-target/1953260"
+      },
+      "nfl_team": "TEN",
+      "player_id": "8126",
+      "player_name": "Wan'Dale Robinson",
+      "position": "WR",
+      "published": 1790630228000,
+      "source": "rotoballer",
+      "source_key": "222664",
+      "story_id": "nfl|8126|rotoballer|222664|1790630228000",
+      "title": "Wan'Dale Robinson Re-Emerging as a PPR Waiver-Wire Target",
+      "url": "https://www.rotoballer.com/player-news/wandale-robinson-re-emerging-as-a-ppr-waiver-wire-target/1953260"
     },
     {
       "analysis": null,
@@ -108174,106 +109025,6 @@
       "story_id": "nfl|1479|rotoballer|219698|1788081130000",
       "title": "Keenan Allen Arrested Sunday Morning for DWI",
       "url": "https://www.rotoballer.com/player-news/keenan-allen-arrested-sunday-morning-for-dwi/1919513"
-    },
-    {
-      "analysis": "Milroe played every offensive snap for Seattle with both Sam Darnold and Drew Lock resting on the sideline. Milroe led the Seahawks on a seven-play scoring drive that ended in a field goal during the first quarter and a 10-play drive that ended with his touchdown pass to Nick Vannett in the third. That TD was his first of a relatively underwhelming preseason. Milroe is locked in behind Darnold and Lock once the regular season starts, so he could regularly serve as Seattle's emergency third QB on gamedays.",
-      "description": "Milroe completed 16 of 26 pass attempts for 223 yards and one touchdown without any interceptions in Friday's 9-9 preseason tie versus Kansas City.",
-      "metadata": {
-        "analysis": "Milroe played every offensive snap for Seattle with both Sam Darnold and Drew Lock resting on the sideline. Milroe led the Seahawks on a seven-play scoring drive that ended in a field goal during the first quarter and a 10-play drive that ended with his touchdown pass to Nick Vannett in the third. That TD was his first of a relatively underwhelming preseason. Milroe is locked in behind Darnold and Lock once the regular season starts, so he could regularly serve as Seattle's emergency third QB on gamedays.",
-        "description": "Milroe completed 16 of 26 pass attempts for 223 yards and one touchdown without any interceptions in Friday's 9-9 preseason tie versus Kansas City.",
-        "title": "Jalen Milroe - Throws for 223 yards in preseason finale",
-        "topic_id": "1399616354771832832"
-      },
-      "nfl_team": "SEA",
-      "player_id": "12510",
-      "player_name": "Jalen Milroe",
-      "position": "QB",
-      "published": 1788056791000,
-      "source": "rotowire",
-      "source_key": "635251",
-      "story_id": "nfl|12510|rotowire|635251|1788056791000",
-      "title": "Jalen Milroe - Throws for 223 yards in preseason finale",
-      "url": null
-    },
-    {
-      "analysis": "The speedy second-year pro opened the game with the starting offense and saw both his targets from Will Levis during the Titans' second possession. Dike had one catch in each of Tennessee's three preseason games, posting a 3-28-0 line on four targets. Dike will open the season in a reserve receiver role with big-play potential after posting a 48-423-4 line across 17 regular-season games during his rookie 2025 campaign.",
-      "description": "Dike secured one of two targets for nine yards in the Titans' 24-15 preseason loss to the Bears on Saturday.",
-      "metadata": {
-        "analysis": "The speedy second-year pro opened the game with the starting offense and saw both his targets from Will Levis during the Titans' second possession. Dike had one catch in each of Tennessee's three preseason games, posting a 3-28-0 line on four targets. Dike will open the season in a reserve receiver role with big-play potential after posting a 48-423-4 line across 17 regular-season games during his rookie 2025 campaign.",
-        "description": "Dike secured one of two targets for nine yards in the Titans' 24-15 preseason loss to the Bears on Saturday.",
-        "title": "Chimere Dike - One catch in preseason finale",
-        "topic_id": "1399611321447677952"
-      },
-      "nfl_team": "TEN",
-      "player_id": "12540",
-      "player_name": "Chimere Dike",
-      "position": "WR",
-      "published": 1788055593000,
-      "source": "rotowire",
-      "source_key": "635250",
-      "story_id": "nfl|12540|rotowire|635250|1788055593000",
-      "title": "Chimere Dike - One catch in preseason finale",
-      "url": null
-    },
-    {
-      "analysis": "The rookie fifth-round pick led the team in rush attempts on the night and finished second behind D'Ernest Johnson and quarterback Hendon Hooker in rushing yards. Singleton was the first Tennessee back to log a touch, gaining six yards on a reception on the second play from scrimmage and subsequently netting 18 yards on three consecutive rush attempts to kick off the Titans' second drive. Singleton finished preseason having rushed 15 times for 57 yards alongside Saturday's 2-18-0 receiving line across two games, and he'll now wait to see if those numbers were enough to garner him the No. 3 running back role.",
-      "description": "Singleton rushed seven times for 26 yards and brought in both targets for 18 yards in the Titans' 24-15 preseason loss to the Bears on Saturday.",
-      "metadata": {
-        "analysis": "The rookie fifth-round pick led the team in rush attempts on the night and finished second behind D'Ernest Johnson and quarterback Hendon Hooker in rushing yards. Singleton was the first Tennessee back to log a touch, gaining six yards on a reception on the second play from scrimmage and subsequently netting 18 yards on three consecutive rush attempts to kick off the Titans' second drive. Singleton finished preseason having rushed 15 times for 57 yards alongside Saturday's 2-18-0 receiving line across two games, and he'll now wait to see if those numbers were enough to garner him the No. 3 running back role.",
-        "description": "Singleton rushed seven times for 26 yards and brought in both targets for 18 yards in the Titans' 24-15 preseason loss to the Bears on Saturday.",
-        "title": "Nicholas Singleton - Tallies 44 scrimmage yards Saturday",
-        "topic_id": "1399610063051624448"
-      },
-      "nfl_team": "TEN",
-      "player_id": "13288",
-      "player_name": "Nicholas Singleton",
-      "position": "RB",
-      "published": 1788055289000,
-      "source": "rotowire",
-      "source_key": "635249",
-      "story_id": "nfl|13288|rotowire|635249|1788055289000",
-      "title": "Nicholas Singleton - Tallies 44 scrimmage yards Saturday",
-      "url": null
-    },
-    {
-      "analysis": "Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but coach Ben Johnson said after Saturday's game that the wideout \"looks 100 percent,\" per Jason Lieser of the Chicago Sun-Times, so the expectation is that he'll be ready to go for Week 1 of the regular season versus the Panthers.",
-      "description": "Burden (groin) did not suit up for Saturday's preseason victory over the Titans but did run routes pregame, according to Brad Biggs of the Chicago Tribune.",
-      "metadata": {
-        "analysis": "Burden resumed practicing Wednesday following a multi-week layoff, so it's not a surprise that he sat Saturday. The report indicates he may not yet be moving at full speed, but coach Ben Johnson said after Saturday's game that the wideout \"looks 100 percent,\" per Jason Lieser of the Chicago Sun-Times, so the expectation is that he'll be ready to go for Week 1 of the regular season versus the Panthers.",
-        "description": "Burden (groin) did not suit up for Saturday's preseason victory over the Titans but did run routes pregame, according to Brad Biggs of the Chicago Tribune.",
-        "title": "Luther Burden - Runs routes Saturday",
-        "topic_id": "1399606286231875584"
-      },
-      "nfl_team": "CHI",
-      "player_id": "12519",
-      "player_name": "Luther Burden",
-      "position": "WR",
-      "published": 1788054273000,
-      "source": "rotowire",
-      "source_key": "635245",
-      "story_id": "nfl|12519|rotowire|635245|1788054273000",
-      "title": "Luther Burden - Runs routes Saturday",
-      "url": null
-    },
-    {
-      "analysis": "The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack beginning with a Week 1 home matchup against the Jets.",
-      "description": "Tate failed to bring in his only target in the Titans' 24-15 preseason loss to the Bears on Saturday.",
-      "metadata": {
-        "analysis": "The rookie fourth overall pick was targeted deep down the left side of the field by Will Levis during the Titans' opening possession, and that was the extent of his action in Saturday's finale. Tate finished preseason without corralling any of the five targets he saw over two games, but he's still teed up to play a significant role in Tennessee's air attack beginning with a Week 1 home matchup against the Jets.",
-        "description": "Tate failed to bring in his only target in the Titans' 24-15 preseason loss to the Bears on Saturday.",
-        "title": "Carnell Tate - One target to close out preseason",
-        "topic_id": "1399601255273218048"
-      },
-      "nfl_team": "TEN",
-      "player_id": "13279",
-      "player_name": "Carnell Tate",
-      "position": "WR",
-      "published": 1788053388000,
-      "source": "rotowire",
-      "source_key": "635243",
-      "story_id": "nfl|13279|rotowire|635243|1788053388000",
-      "title": "Carnell Tate - One target to close out preseason",
-      "url": null
     }
   ]
 }
