@@ -1,24 +1,22 @@
 {
-  "last_checked_at": "2026-09-29T13:58:39Z",
+  "last_checked_at": "2026-09-29T19:15:29Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 294,
   "new_story_ids": [
-    "nfl|11620|fantasy_pros|611385|1790674812808",
-    "nfl|11620|rotoballer|222682|1790673670000",
-    "nfl|12517|fantasy_pros|611387|1790674812788",
-    "nfl|12519|fantasy_pros|611384|1790674212693",
-    "nfl|12534|fantasy_pros|611383|1790674212705",
-    "nfl|13294|fantasy_pros|611395|1790676613072",
-    "nfl|1737|fantasy_pros|611381|1790673612471",
-    "nfl|1737|rotoballer|222683|1790674195000",
-    "nfl|1737|rotoballer|222684|1790674927000",
-    "nfl|4866|fantasy_pros|611391|1790676012867",
-    "nfl|6790|fantasy_pros|611382|1790673612463",
-    "nfl|6904|fantasy_pros|611390|1790675412782",
-    "nfl|6904|rotoballer|222681|1790673252000",
-    "nfl|7525|fantasy_pros|611393|1790676013154",
-    "nfl|9225|fantasy_pros|611392|1790676012855",
-    "nfl|9486|fantasy_pros|611394|1790676613090"
+    "nfl|10218|rotoballer|222703|1790694796000",
+    "nfl|11559|rotoballer|222700|1790690419000",
+    "nfl|11565|rotoballer|222693|1790684649000",
+    "nfl|11566|rotoballer|222694|1790685075000",
+    "nfl|11566|rotowire|639816|1790697815000",
+    "nfl|12504|rotoballer|222689|1790681950000",
+    "nfl|12522|rotoballer|222702|1790692270000",
+    "nfl|13294|rotoballer|222698|1790689144000",
+    "nfl|2307|rotoballer|222699|1790689811000",
+    "nfl|3257|rotoballer|222690|1790682491000",
+    "nfl|8161|rotoballer|222686|1790680027000",
+    "nfl|8228|rotoballer|222692|1790684175000",
+    "nfl|9504|rotoballer|222696|1790687531000",
+    "nfl|9753|fantasy_pros|611418|1790698504859"
   ],
   "schema_version": 1,
   "source": {
@@ -28,6 +26,287 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "They are still deciding on whether Charbonnet will have his practice window opened this week. He can have it opened at any time. ",
+      "description": "Seahawks coach Mike Macdonald said there's no update on RB Zach Charbonnet. ",
+      "metadata": {
+        "analysis": "They are still deciding on whether Charbonnet will have his practice window opened this week. He can have it opened at any time. ",
+        "description": "Seahawks coach Mike Macdonald said there's no update on RB Zach Charbonnet. ",
+        "title": "Zach Charbonnet (knee) uncertain on practicing this week",
+        "topic_id": "1410695411487772672",
+        "url": "https://www.fantasypros.com/nfl/news/611418/zach-charbonnet-knee-uncertain-on-practicing-this-week.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9753",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "published": 1790698504859,
+      "source": "fantasy_pros",
+      "source_key": "611418",
+      "story_id": "nfl|9753|fantasy_pros|611418|1790698504859",
+      "title": "Zach Charbonnet (knee) uncertain on practicing this week",
+      "url": "https://www.fantasypros.com/nfl/news/611418/zach-charbonnet-knee-uncertain-on-practicing-this-week.php"
+    },
+    {
+      "analysis": "Daniels has dislocated the elbow three times in less than a year, with his most recent aggravation of the injury occurring in the Commanders' Sept. 20 loss to the Cowboys. Surgery could provide a more permanent fix for the elbow, but for the time being, Daniels will rehab the injury and wear a brace for added protection when he eventually returns. After Daniels sat out the Commanders' Week 3 win over the Seahawks, head coach Dan Quinn said Monday that the quarterback would travel with the team to London this week and resume practicing in some capacity. The Commanders haven't ruled Daniels out from playing Sunday against the Colts, but he may need to put in at least one full practice in order to have a chance at reclaiming the starting role from Marcus Mariota, who performed well in his stead in Week 3.",
+      "description": "Daniels will avoid a procedure on his dislocated left elbow for the time being, but Adam Schefter of ESPN reports that the quarterback could undergo surgery after the season.",
+      "metadata": {
+        "analysis": "Daniels has dislocated the elbow three times in less than a year, with his most recent aggravation of the injury occurring in the Commanders' Sept. 20 loss to the Cowboys. Surgery could provide a more permanent fix for the elbow, but for the time being, Daniels will rehab the injury and wear a brace for added protection when he eventually returns. After Daniels sat out the Commanders' Week 3 win over the Seahawks, head coach Dan Quinn said Monday that the quarterback would travel with the team to London this week and resume practicing in some capacity. The Commanders haven't ruled Daniels out from playing Sunday against the Colts, but he may need to put in at least one full practice in order to have a chance at reclaiming the starting role from Marcus Mariota, who performed well in his stead in Week 3.",
+        "description": "Daniels will avoid a procedure on his dislocated left elbow for the time being, but Adam Schefter of ESPN reports that the quarterback could undergo surgery after the season.",
+        "title": "Jayden Daniels - Could need surgery after season",
+        "topic_id": "1410694149090418688"
+      },
+      "nfl_team": "WAS",
+      "player_id": "11566",
+      "player_name": "Jayden Daniels",
+      "position": "QB",
+      "published": 1790697815000,
+      "source": "rotowire",
+      "source_key": "639816",
+      "story_id": "nfl|11566|rotowire|639816|1790697815000",
+      "title": "Jayden Daniels - Could need surgery after season",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Xavier Hutchinson has some short-term waiver appeal heading into Week 4, though his value could change quickly if Nico Collins returns. Hutchinson caught three of six targets for 51 yards in Sunday's loss to Indianapolis and added four yards on two carries. He has now seen 21 targets through three games, turning them into nine catches for 120 yards, with Collins missing the last two contests because of a hamstring injury. Houston is hopeful Collins can return against Dallas, which would likely push Hutchinson back down the target pecking order. Hutchinson also left Sunday's game late after a 28-yard catch and was evaluated in the medical tent, so his own status is worth monitoring. He sits 38th on RotoBaller's Week 4 waiver board at 7% rostered, with a recommendation for 12-team leagues. That makes Hutchinson a reasonable short-term add, but not someone fantasy managers need to chase aggressively if Collins is close to returning.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Xavier Hutchinson has some short-term waiver appeal heading into Week 4, though his value could change quickly if Nico Collins returns. Hutchinson caught three of six targets for 51 yards in Sunday's loss to Indianapolis and added four yards on two carries. He has now seen 21 targets through three games, turning them into nine catches for 120 yards, with Collins missing the last two contests because of a hamstring injury. Houston is hopeful Collins can return against Dallas, which would likely push Hutchinson back down the target pecking order. Hutchinson also left Sunday's game late after a 28-yard catch and was evaluated in the medical tent, so his own status is worth monitoring. He sits 38th on RotoBaller's Week 4 waiver board at 7% rostered, with a recommendation for 12-team leagues. That makes Hutchinson a reasonable short-term add, but not someone fantasy managers need to chase aggressively if Collins is close to returning.",
+        "title": "Xavier Hutchinson Has Short-Term Waiver Appeal",
+        "topic_id": "1410740708746227712",
+        "url": "https://www.rotoballer.com/player-news/xavier-hutchinson-has-short-term-waiver-appeal/1953894"
+      },
+      "nfl_team": "HOU",
+      "player_id": "10218",
+      "player_name": "Xavier Hutchinson",
+      "position": "WR",
+      "published": 1790694796000,
+      "source": "rotoballer",
+      "source_key": "222703",
+      "story_id": "nfl|10218|rotoballer|222703|1790694796000",
+      "title": "Xavier Hutchinson Has Short-Term Waiver Appeal",
+      "url": "https://www.rotoballer.com/player-news/xavier-hutchinson-has-short-term-waiver-appeal/1953894"
+    },
+    {
+      "analysis": null,
+      "description": "Tennessee Titans second-year quarterback Cam Ward continued to struggle in Sunday's Week 3 loss to the New York Giants, dropping the Titans to 0-3 and Ward to 3-17 since entering the league as the first overall pick in 2025. The Athletic's Mike Jones writes that Ward's overall play \"raises central questions about whether he is truly grasping the mental demands of the position or whether a benching could spark much-needed growth.\" When asked if he would consider sitting Ward, head coach Robert Saleh offered a quick, unexpounded \"No.\" The 24-year-old has completed 62.5% of his passes for 504 yards, two touchdowns, and one interception in three games played. He has failed to go over 200 yards passing in a game this year and ranks 25th in passer rating (80.9), 22nd in completion percentage (62.5), and dead last in most advanced analytics categories, including EPA/play and success rate. If the Titans do eventually decide to bench Ward if his play does not improve, it would be veteran backup Mitchell Trubisky who would be the next man up under center for the Titans.",
+      "metadata": {
+        "description": "Tennessee Titans second-year quarterback Cam Ward continued to struggle in Sunday's Week 3 loss to the New York Giants, dropping the Titans to 0-3 and Ward to 3-17 since entering the league as the first overall pick in 2025. The Athletic's Mike Jones writes that Ward's overall play \"raises central questions about whether he is truly grasping the mental demands of the position or whether a benching could spark much-needed growth.\" When asked if he would consider sitting Ward, head coach Robert Saleh offered a quick, unexpounded \"No.\" The 24-year-old has completed 62.5% of his passes for 504 yards, two touchdowns, and one interception in three games played. He has failed to go over 200 yards passing in a game this year and ranks 25th in passer rating (80.9), 22nd in completion percentage (62.5), and dead last in most advanced analytics categories, including EPA/play and success rate. If the Titans do eventually decide to bench Ward if his play does not improve, it would be veteran backup Mitchell Trubisky who would be the next man up under center for the Titans.",
+        "title": "Titans Not Considering Benching Cam Ward",
+        "topic_id": "1410731900665925632",
+        "url": "https://www.rotoballer.com/player-news/titans-not-considering-benching-cam-ward/1953881"
+      },
+      "nfl_team": "TEN",
+      "player_id": "12522",
+      "player_name": "Cam Ward",
+      "position": "QB",
+      "published": 1790692270000,
+      "source": "rotoballer",
+      "source_key": "222702",
+      "story_id": "nfl|12522|rotoballer|222702|1790692270000",
+      "title": "Titans Not Considering Benching Cam Ward",
+      "url": "https://www.rotoballer.com/player-news/titans-not-considering-benching-cam-ward/1953881"
+    },
+    {
+      "analysis": null,
+      "description": "Atlanta Falcons quarterback Michael Penix Jr. (knee) made his first start in over 10 months in his team's Thursday night win over the Packers, and while he had obvious rust to work through early, he ended the night with 256 yards and a touchdown. With the strange scheduling quirk of going from Thursday to Monday, the Falcons now have four extra days of rest and preparation ahead of a divisional clash with the Saints. After finishing as the fantasy QB21 in his return to action, Penix is a viable streaming option in a Week 4 matchup with one of the week's highest projected scores, and he is readily available on most waiver wires after going largely undrafted in single-quarterback leagues.",
+      "metadata": {
+        "description": "Atlanta Falcons quarterback Michael Penix Jr. (knee) made his first start in over 10 months in his team's Thursday night win over the Packers, and while he had obvious rust to work through early, he ended the night with 256 yards and a touchdown. With the strange scheduling quirk of going from Thursday to Monday, the Falcons now have four extra days of rest and preparation ahead of a divisional clash with the Saints. After finishing as the fantasy QB21 in his return to action, Penix is a viable streaming option in a Week 4 matchup with one of the week's highest projected scores, and he is readily available on most waiver wires after going largely undrafted in single-quarterback leagues.",
+        "title": "Michael Penix Jr. a Potential Streamer in Monday Night Divisional Matchup",
+        "topic_id": "1410723090542940160",
+        "url": "https://www.rotoballer.com/player-news/michael-penix-jr-a-potential-streamer-in-monday-night-divisional-matchup/1953861"
+      },
+      "nfl_team": "ATL",
+      "player_id": "11559",
+      "player_name": "Michael Penix",
+      "position": "QB",
+      "published": 1790690419000,
+      "source": "rotoballer",
+      "source_key": "222700",
+      "story_id": "nfl|11559|rotoballer|222700|1790690419000",
+      "title": "Michael Penix Jr. a Potential Streamer in Monday Night Divisional Matchup",
+      "url": "https://www.rotoballer.com/player-news/michael-penix-jr-a-potential-streamer-in-monday-night-divisional-matchup/1953861"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders quarterback Marcus Mariota threw three touchdown passes in Sunday's upset victory over the Seahawks, finishing the week as the fantasy QB13. The veteran backup has now averaged 17.7 fantasy points across his last nine starts, topping 21 points four times in that span. Jayden Daniels (elbow) is expected to travel with the team to London, but his status remains up in the air, and after gutting out a victory against one of the league's premier defensive units, Mariota could be in line for a second start against an Indianapolis Colts team that has allowed the third most passing yards through three weeks. Still possessing elite rushing upside even at nearly 33 years old, Mariota makes for a strong potential streaming option in Week 4.",
+      "metadata": {
+        "description": "Washington Commanders quarterback Marcus Mariota threw three touchdown passes in Sunday's upset victory over the Seahawks, finishing the week as the fantasy QB13. The veteran backup has now averaged 17.7 fantasy points across his last nine starts, topping 21 points four times in that span. Jayden Daniels (elbow) is expected to travel with the team to London, but his status remains up in the air, and after gutting out a victory against one of the league's premier defensive units, Mariota could be in line for a second start against an Indianapolis Colts team that has allowed the third most passing yards through three weeks. Still possessing elite rushing upside even at nearly 33 years old, Mariota makes for a strong potential streaming option in Week 4.",
+        "title": "Marcus Mariota Remains One of the NFL's Best Backup Quarterbacks",
+        "topic_id": "1410720573545271296",
+        "url": "https://www.rotoballer.com/player-news/marcus-mariota-remains-one-of-the-nfls-best-backup-quarterbacks-and-a-potential-week-4-streamer/1953851"
+      },
+      "nfl_team": "WAS",
+      "player_id": "2307",
+      "player_name": "Marcus Mariota",
+      "position": "QB",
+      "published": 1790689811000,
+      "source": "rotoballer",
+      "source_key": "222699",
+      "story_id": "nfl|2307|rotoballer|222699|1790689811000",
+      "title": "Marcus Mariota Remains One of the NFL's Best Backup Quarterbacks",
+      "url": "https://www.rotoballer.com/player-news/marcus-mariota-remains-one-of-the-nfls-best-backup-quarterbacks-and-a-potential-week-4-streamer/1953851"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles rookie first-round wide receiver Makai Lemon has seen his snap counts and route participation hold relatively steady through the first three games of his career, but in a Monday night loss to the Bears in which quarterback Jalen Hurts threw for only 153 yards, the rookie showed flashes of growth. Lemon converted his four targets into three receptions and a season-best 29 yards, racking up most of that yardage after the catch, and he should only see his involvement grow. The 2026 first-round pick is unlikely to be readily available on most waiver wires, but he is a must-add wherever still available, and he could soon work his way into the flex conversation as he continues to earn more targets.",
+      "metadata": {
+        "description": "Philadelphia Eagles rookie first-round wide receiver Makai Lemon has seen his snap counts and route participation hold relatively steady through the first three games of his career, but in a Monday night loss to the Bears in which quarterback Jalen Hurts threw for only 153 yards, the rookie showed flashes of growth. Lemon converted his four targets into three receptions and a season-best 29 yards, racking up most of that yardage after the catch, and he should only see his involvement grow. The 2026 first-round pick is unlikely to be readily available on most waiver wires, but he is a must-add wherever still available, and he could soon work his way into the flex conversation as he continues to earn more targets.",
+        "title": "Makai Lemon a Week 4 Add as His Role Continues to Grow",
+        "topic_id": "1410718056530931712",
+        "url": "https://www.rotoballer.com/player-news/makai-lemon-a-week-4-add-as-his-role-continues-to-grow/1953845"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1790689144000,
+      "source": "rotoballer",
+      "source_key": "222698",
+      "story_id": "nfl|13294|rotoballer|222698|1790689144000",
+      "title": "Makai Lemon a Week 4 Add as His Role Continues to Grow",
+      "url": "https://www.rotoballer.com/player-news/makai-lemon-a-week-4-add-as-his-role-continues-to-grow/1953845"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Kayshon Boutte has caught only six passes through the first three games of his Texans tenure, but it's reasonable to assume he could soon work his way into a larger role. Boutte was acquired less than a month before the regular season began, and a gradual ramp-up period was always a possibility. With two-time Pro Bowler Nico Collins (hamstring) missing the last two games, much of the Texans' passing offense has run through tight end Dalton Schultz, but even as Collins nears a return, the team could still benefit from another outside presence. Boutte scored a career-high seven touchdowns in his final season with the Patriots while averaging over 17 yards per reception, and if he can keep building chemistry with quarterback C.J. Stroud, he could work his way back into the flex conversation in deeper leagues, making him a worthy stash from this week's waiver wire.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Kayshon Boutte has caught only six passes through the first three games of his Texans tenure, but it's reasonable to assume he could soon work his way into a larger role. Boutte was acquired less than a month before the regular season began, and a gradual ramp-up period was always a possibility. With two-time Pro Bowler Nico Collins (hamstring) missing the last two games, much of the Texans' passing offense has run through tight end Dalton Schultz, but even as Collins nears a return, the team could still benefit from another outside presence. Boutte scored a career-high seven touchdowns in his final season with the Patriots while averaging over 17 yards per reception, and if he can keep building chemistry with quarterback C.J. Stroud, he could work his way back into the flex conversation in deeper leagues, making him a worthy stash from this week's waiver wire.",
+        "title": "Kayshon Boutte Still Holds Long-Term Value on Waivers",
+        "topic_id": "1410710507278618624",
+        "url": "https://www.rotoballer.com/player-news/kayshon-boutte-still-holds-long-term-value-on-waivers/1953827"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9504",
+      "player_name": "Kayshon Boutte",
+      "position": "WR",
+      "published": 1790687531000,
+      "source": "rotoballer",
+      "source_key": "222696",
+      "story_id": "nfl|9504|rotoballer|222696|1790687531000",
+      "title": "Kayshon Boutte Still Holds Long-Term Value on Waivers",
+      "url": "https://www.rotoballer.com/player-news/kayshon-boutte-still-holds-long-term-value-on-waivers/1953827"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders quarterback Jayden Daniels (elbow) will avoid surgery on his dislocated left elbow for now, but ESPN's Adam Schefter reports that Daniels will probably require surgery after the 2026 season. With that said, Schefter does not believe that Daniels will be active for the Week 4 game in London on Sunday against the Indianapolis Colts, which would be his second straight missed game after dislocating his elbow in the Week 2 loss to the division-rival Dallas Cowboys. But Daniels is expected to return sooner rather than later, and head coach Dan Quinn said that he expects Daniels to be on the practice field in some fashion this week. The 25-year-old former second overall pick from LSU put on a show as a rookie in 2024 and led the Commanders to the NFC Championship, but he managed to play in only seven games last year after he dislocated his left elbow the first time. Daniels has high-end QB1 upside because of his dual-threat abilities at the position, but his inability to stay healthy has become a real concern in real life and in fantasy. If he is not cleared to play in London this week, veteran Marcus Mariota will look to lead Washington to a second straight win.",
+      "metadata": {
+        "description": "Washington Commanders quarterback Jayden Daniels (elbow) will avoid surgery on his dislocated left elbow for now, but ESPN's Adam Schefter reports that Daniels will probably require surgery after the 2026 season. With that said, Schefter does not believe that Daniels will be active for the Week 4 game in London on Sunday against the Indianapolis Colts, which would be his second straight missed game after dislocating his elbow in the Week 2 loss to the division-rival Dallas Cowboys. But Daniels is expected to return sooner rather than later, and head coach Dan Quinn said that he expects Daniels to be on the practice field in some fashion this week. The 25-year-old former second overall pick from LSU put on a show as a rookie in 2024 and led the Commanders to the NFC Championship, but he managed to play in only seven games last year after he dislocated his left elbow the first time. Daniels has high-end QB1 upside because of his dual-threat abilities at the position, but his inability to stay healthy has become a real concern in real life and in fantasy. If he is not cleared to play in London this week, veteran Marcus Mariota will look to lead Washington to a second straight win.",
+        "title": "Jayden Daniels Could Have Offseason Elbow Surgery",
+        "topic_id": "1410701697474453504",
+        "url": "https://www.rotoballer.com/player-news/jayden-daniels-could-have-offseason-elbow-surgery/1953793"
+      },
+      "nfl_team": "WAS",
+      "player_id": "11566",
+      "player_name": "Jayden Daniels",
+      "position": "QB",
+      "published": 1790685075000,
+      "source": "rotoballer",
+      "source_key": "222694",
+      "story_id": "nfl|11566|rotoballer|222694|1790685075000",
+      "title": "Jayden Daniels Could Have Offseason Elbow Surgery",
+      "url": "https://www.rotoballer.com/player-news/jayden-daniels-could-have-offseason-elbow-surgery/1953793"
+    },
+    {
+      "analysis": null,
+      "description": "League sources told SNY's Connor Hughes that the New York Giants do not give up a fifth-round pick unless they plan to play quarterback J.J. McCarthy in the \"near future.\" McCarthy was the Minnesota Vikings' 10th overall pick in the 2024 NFL Draft from Michigan. The 23-year-old was on track to start in his rookie year before a knee injury ended his season early and handed the job to Sam Darnold. Minnesota then let Darnold walk in free agency and handed the starting gig to McCarthy in 2025, but he crashed and burned as a first-time starter, throwing for 1,632 yards, 11 touchdowns, and 12 interceptions while missing extended time with injuries. He was erratic on the field and showed maturity concerns off the field, which is why the Vikings brought in Kyler Murray to compete with him this summer. Murray won the job, and McCarthy fell to third string, behind Carson Wentz. With Jaxson Dart (knee) done for the year, McCarthy gives the G-Men a gritty competitor who is mobile and has a strong arm. Veteran Jameis Winston won his first game as the starter in Week 3, but as soon as McCarthy is up to speed with head coach John Harbaugh's offense, he could get the nod to start games in New York.",
+      "metadata": {
+        "description": "League sources told SNY's Connor Hughes that the New York Giants do not give up a fifth-round pick unless they plan to play quarterback J.J. McCarthy in the \"near future.\" McCarthy was the Minnesota Vikings' 10th overall pick in the 2024 NFL Draft from Michigan. The 23-year-old was on track to start in his rookie year before a knee injury ended his season early and handed the job to Sam Darnold. Minnesota then let Darnold walk in free agency and handed the starting gig to McCarthy in 2025, but he crashed and burned as a first-time starter, throwing for 1,632 yards, 11 touchdowns, and 12 interceptions while missing extended time with injuries. He was erratic on the field and showed maturity concerns off the field, which is why the Vikings brought in Kyler Murray to compete with him this summer. Murray won the job, and McCarthy fell to third string, behind Carson Wentz. With Jaxson Dart (knee) done for the year, McCarthy gives the G-Men a gritty competitor who is mobile and has a strong arm. Veteran Jameis Winston won his first game as the starter in Week 3, but as soon as McCarthy is up to speed with head coach John Harbaugh's offense, he could get the nod to start games in New York.",
+        "title": "Giants Could Turn to J.J. McCarthy in the \"Near Future\"",
+        "topic_id": "1410699180191588352",
+        "url": "https://www.rotoballer.com/player-news/giants-could-turn-to-j-j-mccarthy-in-the-near-future/1953790"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1790684649000,
+      "source": "rotoballer",
+      "source_key": "222693",
+      "story_id": "nfl|11565|rotoballer|222693|1790684649000",
+      "title": "Giants Could Turn to J.J. McCarthy in the \"Near Future\"",
+      "url": "https://www.rotoballer.com/player-news/giants-could-turn-to-j-j-mccarthy-in-the-near-future/1953790"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers running back Jaylen Warren was one of the most important reasons that the offense was able to get back on track in the Week 3 win over the division-rival Cincinnati Bengals on Sunday, and he served in a workhorse role with Rico Dowdle out with a toe injury. On 20 touches, Warren produced a career-high 176 yards from scrimmage. \"He is one of the toughest guys I've ever played with, and I just can't say enough about his energy and the way he runs the football and the way he cares about his teammates,\" quarterback Aaron Rodgers said. The Athletic's Mike DeFabo suggests that it might be time for Pittsburgh to put more on Warren's plate, even with Dowdle returns to the fold. Warren has displayed the versatility to play on every down and has the toughness to play through pain and the stamina to last deep into games. Through the first two games in 2026, Warren and Dowdle were part of an almost even backfield split. Since entering the NFL, Warren has the ninth-highest yards per carry (4.8) and the ninth-most yards after contact per rush (3.3). On a short week with a Thursday night game against the division-rival Cleveland Browns, Dowdle could be held out for a second straight game, making Warren an absolute must-start fantasy RB.",
+      "metadata": {
+        "description": "Pittsburgh Steelers running back Jaylen Warren was one of the most important reasons that the offense was able to get back on track in the Week 3 win over the division-rival Cincinnati Bengals on Sunday, and he served in a workhorse role with Rico Dowdle out with a toe injury. On 20 touches, Warren produced a career-high 176 yards from scrimmage. \"He is one of the toughest guys I've ever played with, and I just can't say enough about his energy and the way he runs the football and the way he cares about his teammates,\" quarterback Aaron Rodgers said. The Athletic's Mike DeFabo suggests that it might be time for Pittsburgh to put more on Warren's plate, even with Dowdle returns to the fold. Warren has displayed the versatility to play on every down and has the toughness to play through pain and the stamina to last deep into games. Through the first two games in 2026, Warren and Dowdle were part of an almost even backfield split. Since entering the NFL, Warren has the ninth-highest yards per carry (4.8) and the ninth-most yards after contact per rush (3.3). On a short week with a Thursday night game against the division-rival Cleveland Browns, Dowdle could be held out for a second straight game, making Warren an absolute must-start fantasy RB.",
+        "title": "Jaylen Warren Could Continue to be Workhorse for Steelers",
+        "topic_id": "1410696663026192384",
+        "url": "https://www.rotoballer.com/player-news/jaylen-warren-could-continue-to-be-workhorse-for-steelers/1953784"
+      },
+      "nfl_team": "PIT",
+      "player_id": "8228",
+      "player_name": "Jaylen Warren",
+      "position": "RB",
+      "published": 1790684175000,
+      "source": "rotoballer",
+      "source_key": "222692",
+      "story_id": "nfl|8228|rotoballer|222692|1790684175000",
+      "title": "Jaylen Warren Could Continue to be Workhorse for Steelers",
+      "url": "https://www.rotoballer.com/player-news/jaylen-warren-could-continue-to-be-workhorse-for-steelers/1953784"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals quarterback Jacoby Brissett is worth a look for managers digging deeper for Week 4 quarterback help. Brissett completed 38 of 52 passes for 280 yards and two touchdowns in Sunday's loss to San Francisco, then added another score on the ground. The 52 attempts were a season high after he threw 37 passes in Week 1 and 28 in Week 2, so there was plenty of volume to work with. The upcoming schedule helps, too. Arizona visits the Giants in Week 4 before hosting Detroit the following week, and both matchups have Brissett on the short-term fantasy radar. He checks in 71st overall on RotoBaller's current waiver board, where the recommendation is geared toward two-quarterback leagues. Brissett makes the most sense as a 2QB or Superflex pickup, though managers in deeper one-quarterback formats can also consider him as a matchup-based streamer.",
+      "metadata": {
+        "description": "Arizona Cardinals quarterback Jacoby Brissett is worth a look for managers digging deeper for Week 4 quarterback help. Brissett completed 38 of 52 passes for 280 yards and two touchdowns in Sunday's loss to San Francisco, then added another score on the ground. The 52 attempts were a season high after he threw 37 passes in Week 1 and 28 in Week 2, so there was plenty of volume to work with. The upcoming schedule helps, too. Arizona visits the Giants in Week 4 before hosting Detroit the following week, and both matchups have Brissett on the short-term fantasy radar. He checks in 71st overall on RotoBaller's current waiver board, where the recommendation is geared toward two-quarterback leagues. Brissett makes the most sense as a 2QB or Superflex pickup, though managers in deeper one-quarterback formats can also consider him as a matchup-based streamer.",
+        "title": "Jacoby Brissett Has Short-Term Value for QB-Needy Managers",
+        "topic_id": "1410690371020705792",
+        "url": "https://www.rotoballer.com/player-news/jacoby-brissett-has-short-term-value-for-qb-needy-managers/1953758"
+      },
+      "nfl_team": "ARI",
+      "player_id": "3257",
+      "player_name": "Jacoby Brissett",
+      "position": "QB",
+      "published": 1790682491000,
+      "source": "rotoballer",
+      "source_key": "222690",
+      "story_id": "nfl|3257|rotoballer|222690|1790682491000",
+      "title": "Jacoby Brissett Has Short-Term Value for QB-Needy Managers",
+      "url": "https://www.rotoballer.com/player-news/jacoby-brissett-has-short-term-value-for-qb-needy-managers/1953758"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back Kaleb Johnson is starting to carve out a larger role, but he remains a deeper-league stash heading into Week 4. Johnson carried four times for six yards and caught one pass for 10 yards in Thursday's loss to Atlanta after rushing eight times for 32 yards in Week 2. The more interesting development is the backfield rotation. Johnson played 22 offensive snaps against the Falcons, ahead of MarShawn Lloyd's 15, while Chris Brooks still led the group with 26. Johnson did not play an offensive snap in Week 1, so his role is clearly moving in the right direction, even if Green Bay is still using multiple backs. RotoBaller has Johnson 46th overall on its Week 4 waiver board, at 6% rostered, with a recommendation for 14-team leagues. He is worth stashing in deeper formats, but managers in standard 10- or 12-team leagues do not need to force the pickup yet.",
+      "metadata": {
+        "description": "Green Bay Packers running back Kaleb Johnson is starting to carve out a larger role, but he remains a deeper-league stash heading into Week 4. Johnson carried four times for six yards and caught one pass for 10 yards in Thursday's loss to Atlanta after rushing eight times for 32 yards in Week 2. The more interesting development is the backfield rotation. Johnson played 22 offensive snaps against the Falcons, ahead of MarShawn Lloyd's 15, while Chris Brooks still led the group with 26. Johnson did not play an offensive snap in Week 1, so his role is clearly moving in the right direction, even if Green Bay is still using multiple backs. RotoBaller has Johnson 46th overall on its Week 4 waiver board, at 6% rostered, with a recommendation for 14-team leagues. He is worth stashing in deeper formats, but managers in standard 10- or 12-team leagues do not need to force the pickup yet.",
+        "title": "Kaleb Johnson Worth Watching After Increased Week 3 Work",
+        "topic_id": "1410687854224367616",
+        "url": "https://www.rotoballer.com/player-news/kaleb-johnson-worth-watching-after-increased-week-3-work/1953749"
+      },
+      "nfl_team": "GB",
+      "player_id": "12504",
+      "player_name": "Kaleb Johnson",
+      "position": "RB",
+      "published": 1790681950000,
+      "source": "rotoballer",
+      "source_key": "222689",
+      "story_id": "nfl|12504|rotoballer|222689|1790681950000",
+      "title": "Kaleb Johnson Worth Watching After Increased Week 3 Work",
+      "url": "https://www.rotoballer.com/player-news/kaleb-johnson-worth-watching-after-increased-week-3-work/1953749"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins quarterback Malik Willis is a deeper-league waiver option heading into Week 4, with most of his fantasy appeal coming from his rushing ability. Willis completed 20 of 36 passes for 210 yards with no touchdowns and one interception in Sunday's 24-10 loss to Kansas City, while adding 56 yards on nine carries. He has now rushed for 101 yards and a touchdown through three games, but the passing production has been much harder to trust. Willis has thrown for 627 yards with only one touchdown and two interceptions this season, and Miami has scored 13 points or fewer in all three games. RotoBaller has him at QB29 for Week 4 and 70th overall on its waiver board, where he is recommended in 14-team leagues. That keeps Willis in the deep-league and Superflex conversation, but he is not one of the stronger streaming choices in standard one-quarterback formats for Sunday's matchup with Minnesota.",
+      "metadata": {
+        "description": "Miami Dolphins quarterback Malik Willis is a deeper-league waiver option heading into Week 4, with most of his fantasy appeal coming from his rushing ability. Willis completed 20 of 36 passes for 210 yards with no touchdowns and one interception in Sunday's 24-10 loss to Kansas City, while adding 56 yards on nine carries. He has now rushed for 101 yards and a touchdown through three games, but the passing production has been much harder to trust. Willis has thrown for 627 yards with only one touchdown and two interceptions this season, and Miami has scored 13 points or fewer in all three games. RotoBaller has him at QB29 for Week 4 and 70th overall on its waiver board, where he is recommended in 14-team leagues. That keeps Willis in the deep-league and Superflex conversation, but he is not one of the stronger streaming choices in standard one-quarterback formats for Sunday's matchup with Minnesota.",
+        "title": "Malik Willis a Deep-League Quarterback Add for Week 4",
+        "topic_id": "1410680305202757632",
+        "url": "https://www.rotoballer.com/player-news/malik-willis-a-deep-league-quarterback-add-for-week-4/1953708"
+      },
+      "nfl_team": "MIA",
+      "player_id": "8161",
+      "player_name": "Malik Willis",
+      "position": "QB",
+      "published": 1790680027000,
+      "source": "rotoballer",
+      "source_key": "222686",
+      "story_id": "nfl|8161|rotoballer|222686|1790680027000",
+      "title": "Malik Willis a Deep-League Quarterback Add for Week 4",
+      "url": "https://www.rotoballer.com/player-news/malik-willis-a-deep-league-quarterback-add-for-week-4/1953708"
+    },
     {
       "analysis": "Wicks finished second on the team in receiving yards on a rough evening for the Philly passing attack. The veteran wideout has been solid for the Eagles thus far, catching nine passes for 179 yards and a touchdown through three games. He will be a flex option in fantasy heading into Week 4 against the Rams.",
       "description": "Dontayvion Wicks caught two of his five targets for 32 yards in a 27-7 loss to the Bears in Week 3.",
@@ -108608,388 +108887,6 @@
       "story_id": "nfl|9493|rotoballer|219745|1788118486000",
       "title": "Puka Nacua Back at Practice on Sunday",
       "url": "https://www.rotoballer.com/player-news/puka-nacua-back-at-practice-on-sunday/1920001"
-    },
-    {
-      "analysis": "Jacobs was officially charged Thursday with two misdemeanors stemming from his May arrest for a domestic incident in Brown County, Wis, with a court appearance scheduled for Nov. 17. For as long as he's on the list, he won't be able to practice or play in games, and there's no word on how long this may be his reality. Aside from Jacobs, the Packers backfield is occupied by MarShawn Lloyd, Chris Brooks and newcomer Kaleb Johnson, with Lloyd the likely favorite to handle the largest workload during Jacobs' absence.",
-      "description": "The NFL placed Jacobs (groin) on the Commissioner's Exempt List on Sunday, Adam Schefter of ESPN reports.",
-      "metadata": {
-        "analysis": "Jacobs was officially charged Thursday with two misdemeanors stemming from his May arrest for a domestic incident in Brown County, Wis, with a court appearance scheduled for Nov. 17. For as long as he's on the list, he won't be able to practice or play in games, and there's no word on how long this may be his reality. Aside from Jacobs, the Packers backfield is occupied by MarShawn Lloyd, Chris Brooks and newcomer Kaleb Johnson, with Lloyd the likely favorite to handle the largest workload during Jacobs' absence.",
-        "description": "The NFL placed Jacobs (groin) on the Commissioner's Exempt List on Sunday, Adam Schefter of ESPN reports.",
-        "title": "Josh Jacobs - Lands on Commissioner's Exempt List",
-        "topic_id": "1399860484252921856"
-      },
-      "nfl_team": "GB",
-      "player_id": "5850",
-      "player_name": "Josh Jacobs",
-      "position": "RB",
-      "published": 1788115086000,
-      "source": "rotowire",
-      "source_key": "635349",
-      "story_id": "nfl|5850|rotowire|635349|1788115086000",
-      "title": "Josh Jacobs - Lands on Commissioner's Exempt List",
-      "url": null
-    },
-    {
-      "analysis": "Jacobs is now ineligible to practice or play for the Packers while the league continues their investigation into alleged improper behavior while being charged with two misdemeanors related to his conduct earlier in the week. If the running back is forced to sit out for any period of the regular season, MarShawn Lloyd will be in line to receive the majority of backfield work while the recently acquired Kaleb Johnson gets up to speed on the offensive playbook with Week 1 approaching.",
-      "description": "Josh Jacobs has been placed on the commissioner exempt list by the National Football League according to Tom Pelissero.",
-      "metadata": {
-        "analysis": "Jacobs is now ineligible to practice or play for the Packers while the league continues their investigation into alleged improper behavior while being charged with two misdemeanors related to his conduct earlier in the week. If the running back is forced to sit out for any period of the regular season, MarShawn Lloyd will be in line to receive the majority of backfield work while the recently acquired Kaleb Johnson gets up to speed on the offensive playbook with Week 1 approaching.",
-        "description": "Josh Jacobs has been placed on the commissioner exempt list by the National Football League according to Tom Pelissero.",
-        "title": "Josh Jacobs placed on commissioner of exempt list",
-        "topic_id": "1399859229015179264",
-        "url": "https://www.fantasypros.com/nfl/news/604854/josh-jacobs-placed-on-commissioner-exempt-list.php"
-      },
-      "nfl_team": "GB",
-      "player_id": "5850",
-      "player_name": "Josh Jacobs",
-      "position": "RB",
-      "published": 1788114957630,
-      "source": "fantasy_pros",
-      "source_key": "604854",
-      "story_id": "nfl|5850|fantasy_pros|604854|1788114957630",
-      "title": "Josh Jacobs placed on commissioner of exempt list",
-      "url": "https://www.fantasypros.com/nfl/news/604854/josh-jacobs-placed-on-commissioner-exempt-list.php"
-    },
-    {
-      "analysis": "Jacobs was formally charged with battery and criminal damage to property last week, and will have his next hearing date in November. We'll await further details to see when he could be reinstated.",
-      "description": "The NFL is placing Jacobs on the commissioner exempt list, Adam Schefter of ESPN reports.",
-      "metadata": {
-        "analysis": "Jacobs was formally charged with battery and criminal damage to property last week, and will have his next hearing date in November. We'll await further details to see when he could be reinstated.",
-        "description": "The NFL is placing Jacobs on the commissioner exempt list, Adam Schefter of ESPN reports.",
-        "title": "Josh Jacobs - Placed on Commissioner Exempt List",
-        "topic_id": "1399859226813149184"
-      },
-      "nfl_team": "GB",
-      "player_id": "5850",
-      "player_name": "Josh Jacobs",
-      "position": "RB",
-      "published": 1788114770000,
-      "source": "rotowire",
-      "source_key": "635347",
-      "story_id": "nfl|5850|rotowire|635347|1788114770000",
-      "title": "Josh Jacobs - Placed on Commissioner Exempt List",
-      "url": null
-    },
-    {
-      "analysis": "Details of the trade are still being finalized between the two organizations, with Johnson receiving the fresh start the running back desperately needs after falling out of favor in a Pittsburgh backfield that will be led by the duo of Jaylen Warren and Rico Dowdle this upcoming season. Johnson's role should become clearer as the National Football League continues their investigation into No. 1 running back Josh Jacobs, potentially resulting in a backup opportunity behind current No. 2 option MarShawn Lloyd.",
-      "description": "Kaleb Johnson is being traded to the Green Bay Packers by the Pittsburgh Steelers according to Tom Pelissero.",
-      "metadata": {
-        "analysis": "Details of the trade are still being finalized between the two organizations, with Johnson receiving the fresh start the running back desperately needs after falling out of favor in a Pittsburgh backfield that will be led by the duo of Jaylen Warren and Rico Dowdle this upcoming season. Johnson's role should become clearer as the National Football League continues their investigation into No. 1 running back Josh Jacobs, potentially resulting in a backup opportunity behind current No. 2 option MarShawn Lloyd.",
-        "description": "Kaleb Johnson is being traded to the Green Bay Packers by the Pittsburgh Steelers according to Tom Pelissero.",
-        "title": "Kaleb Johnson traded to Packers",
-        "topic_id": "1399846646635868160",
-        "url": "https://www.fantasypros.com/nfl/news/604830/kaleb-johnson-traded-to-packers.php"
-      },
-      "nfl_team": "GB",
-      "player_id": "12504",
-      "player_name": "Kaleb Johnson",
-      "position": "RB",
-      "published": 1788111957758,
-      "source": "fantasy_pros",
-      "source_key": "604830",
-      "story_id": "nfl|12504|fantasy_pros|604830|1788111957758",
-      "title": "Kaleb Johnson traded to Packers",
-      "url": "https://www.fantasypros.com/nfl/news/604830/kaleb-johnson-traded-to-packers.php"
-    },
-    {
-      "analysis": "Johnson thus will get a fresh start in Green Bay after the third-round investment made in him last year didn't pan out in Pittsburgh. Working behind Jaylen Warren and Kenny Gainwell in 2025, Johnson turned 28 carries into just 69 yards (2.5 YPC) and no touchdowns while hauling in one of two targets for nine yards in 10 regular-season appearances as a rookie. Johnson will join a Green Bay backfield led by Josh Jacobs (groin) and backed up by MarShawn Lloyd and Chris Brooks.",
-      "description": "The Steelers are expected to trade Johnson to the Packers, Jeremy Fowler of ESPN reports.",
-      "metadata": {
-        "analysis": "Johnson thus will get a fresh start in Green Bay after the third-round investment made in him last year didn't pan out in Pittsburgh. Working behind Jaylen Warren and Kenny Gainwell in 2025, Johnson turned 28 carries into just 69 yards (2.5 YPC) and no touchdowns while hauling in one of two targets for nine yards in 10 regular-season appearances as a rookie. Johnson will join a Green Bay backfield led by Josh Jacobs (groin) and backed up by MarShawn Lloyd and Chris Brooks.",
-        "description": "The Steelers are expected to trade Johnson to the Packers, Jeremy Fowler of ESPN reports.",
-        "title": "Kaleb Johnson - Gets traded to Green Bay",
-        "topic_id": "1399847900527235072"
-      },
-      "nfl_team": "GB",
-      "player_id": "12504",
-      "player_name": "Kaleb Johnson",
-      "position": "RB",
-      "published": 1788111911000,
-      "source": "rotowire",
-      "source_key": "635330",
-      "story_id": "nfl|12504|rotowire|635330|1788111911000",
-      "title": "Kaleb Johnson - Gets traded to Green Bay",
-      "url": null
-    },
-    {
-      "analysis": "Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.",
-      "description": "The Browns would like to keep Green on the 53-man roster if they can fit him, Mary Kay Cabot of the Cleveland Plain Dealer reports.",
-      "metadata": {
-        "analysis": "Green is fourth on the team's quarterback depth chart behind Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The mobile rookie sixth-round pick out of Arkansas is raw as a passer but has intriguing rushing upside. Cleveland would have to release one of the players ahead of Green or carry four quarterbacks to keep him on the roster, which could leave the Browns shorthanded in depth at another position.",
-        "description": "The Browns would like to keep Green on the 53-man roster if they can fit him, Mary Kay Cabot of the Cleveland Plain Dealer reports.",
-        "title": "Taylen Green - Chance to make 53-man roster",
-        "topic_id": "1399835315740405760"
-      },
-      "nfl_team": "CLE",
-      "player_id": "13306",
-      "player_name": "Taylen Green",
-      "position": "QB",
-      "published": 1788109013000,
-      "source": "rotowire",
-      "source_key": "635311",
-      "story_id": "nfl|13306|rotowire|635311|1788109013000",
-      "title": "Taylen Green - Chance to make 53-man roster",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Indianapolis Colts kicker Spencer Shrader has made the 53-man roster, according to Mike Garafolo of NFL.com. He won the kicking competition after Indianapolis released Blake Grupe. Although Grupe reportedly had a good camp, he went just 2-for-4 on field goals during the preseason, while Shrader went 5-for-5. Furthermore, Shrader excelled from long range. All five of his field goals came from 40+ yards out, including two from at least 60 yards. The 27-year-old was impressive last season, going 14-for-14 on extra points and 13-for-14 on field goals. If he continues to demonstrate a blend of accuracy and power, he could sneak onto the fantasy radar as a kicker who gets plenty of opportunities in the Colts' upward-trending offense.",
-      "metadata": {
-        "description": "Indianapolis Colts kicker Spencer Shrader has made the 53-man roster, according to Mike Garafolo of NFL.com. He won the kicking competition after Indianapolis released Blake Grupe. Although Grupe reportedly had a good camp, he went just 2-for-4 on field goals during the preseason, while Shrader went 5-for-5. Furthermore, Shrader excelled from long range. All five of his field goals came from 40+ yards out, including two from at least 60 yards. The 27-year-old was impressive last season, going 14-for-14 on extra points and 13-for-14 on field goals. If he continues to demonstrate a blend of accuracy and power, he could sneak onto the fantasy radar as a kicker who gets plenty of opportunities in the Colts' upward-trending offense.",
-        "title": "Spencer Shrader Wins Colts Kicking Battle",
-        "topic_id": "1399895717836759040",
-        "url": "https://www.rotoballer.com/player-news/spencer-shrader-wins-colts-kicking-battle/1919971"
-      },
-      "nfl_team": "IND",
-      "player_id": "12185",
-      "player_name": "Spencer Shrader",
-      "position": "K",
-      "published": 1788108847000,
-      "source": "rotoballer",
-      "source_key": "219743",
-      "story_id": "nfl|12185|rotoballer|219743|1788108847000",
-      "title": "Spencer Shrader Wins Colts Kicking Battle",
-      "url": "https://www.rotoballer.com/player-news/spencer-shrader-wins-colts-kicking-battle/1919971"
-    },
-    {
-      "analysis": null,
-      "description": "Cleveland Browns quarterback Taylen Green has made the team's initial 53-man roster, according to Daniel Oyefusi, citing Mary Kay Cabot. Cleveland is now expected to carry four quarterbacks, with Green joining Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The sixth-round rookie didn't play in either of the Browns' first two preseason games, but he finally got his chance Thursday against New England. Green completed five of seven passes for 27 yards and did most of his damage with his legs, leading Cleveland with 66 rushing yards on eight carries. The Browns drafted the 6-foot-5 Arkansas product 182nd overall after being drawn to his size, speed and arm talent. Watson is the starter and Sanders is expected to serve as the Week 1 backup, leaving Green buried for immediate fantasy purposes. Cleveland clearly saw enough developmental upside, though, to keep him rather than risk exposing him to waivers.",
-      "metadata": {
-        "description": "Cleveland Browns quarterback Taylen Green has made the team's initial 53-man roster, according to Daniel Oyefusi, citing Mary Kay Cabot. Cleveland is now expected to carry four quarterbacks, with Green joining Deshaun Watson, Shedeur Sanders and Dillon Gabriel. The sixth-round rookie didn't play in either of the Browns' first two preseason games, but he finally got his chance Thursday against New England. Green completed five of seven passes for 27 yards and did most of his damage with his legs, leading Cleveland with 66 rushing yards on eight carries. The Browns drafted the 6-foot-5 Arkansas product 182nd overall after being drawn to his size, speed and arm talent. Watson is the starter and Sanders is expected to serve as the Week 1 backup, leaving Green buried for immediate fantasy purposes. Cleveland clearly saw enough developmental upside, though, to keep him rather than risk exposing him to waivers.",
-        "title": "Taylen Green Sticks in Browns' Four-QB Room",
-        "topic_id": "1399894458899701760",
-        "url": "https://www.rotoballer.com/player-news/taylen-green-sticks-in-browns-four-qb-room/1919966"
-      },
-      "nfl_team": "CLE",
-      "player_id": "13306",
-      "player_name": "Taylen Green",
-      "position": "QB",
-      "published": 1788108494000,
-      "source": "rotoballer",
-      "source_key": "219742",
-      "story_id": "nfl|13306|rotoballer|219742|1788108494000",
-      "title": "Taylen Green Sticks in Browns' Four-QB Room",
-      "url": "https://www.rotoballer.com/player-news/taylen-green-sticks-in-browns-four-qb-room/1919966"
-    },
-    {
-      "analysis": null,
-      "description": "Dallas Cowboys running back Javonte Williams appears poised to remain in the workhorse role following the team's latest batch of cuts. Dallas cut running backs Jaydon Blue, Phil Mafah, and Israel Abanikanda on Sunday, leaving the Cowboys with a backfield of just Williams and Malik Davis. We saw Dallas carry just two running backs into game day quite often last year, and it looks like they're sticking with that same strategy this year. We could see Blue or Mafah return to the practice squad, but at the very least, the Cowboys are making it clear that they only felt compelled to keep Williams and Davis. That's great news for Williams' fantasy managers, as it points to him being used as the workhorse back once again this year. If the Cowboys wanted to spread the workload around, they would've likely kept three running backs. Williams' exact workload will depend on game script, but we wouldn't be surprised to see him consistently get at least 18 to 20 touches per game. Last year, he averaged 18.9 touches per game with 1,138 scrimmage yards and 13 touchdowns by season's end. He remains a mid-to-low RB1 for fantasy purposes in 2026.",
-      "metadata": {
-        "description": "Dallas Cowboys running back Javonte Williams appears poised to remain in the workhorse role following the team's latest batch of cuts. Dallas cut running backs Jaydon Blue, Phil Mafah, and Israel Abanikanda on Sunday, leaving the Cowboys with a backfield of just Williams and Malik Davis. We saw Dallas carry just two running backs into game day quite often last year, and it looks like they're sticking with that same strategy this year. We could see Blue or Mafah return to the practice squad, but at the very least, the Cowboys are making it clear that they only felt compelled to keep Williams and Davis. That's great news for Williams' fantasy managers, as it points to him being used as the workhorse back once again this year. If the Cowboys wanted to spread the workload around, they would've likely kept three running backs. Williams' exact workload will depend on game script, but we wouldn't be surprised to see him consistently get at least 18 to 20 touches per game. Last year, he averaged 18.9 touches per game with 1,138 scrimmage yards and 13 touchdowns by season's end. He remains a mid-to-low RB1 for fantasy purposes in 2026.",
-        "title": "Javonte Williams Set for Workhorse Role After Cowboys' Latest Cuts",
-        "topic_id": "1399893201111756801",
-        "url": "https://www.rotoballer.com/player-news/javonte-williams-set-for-workhorse-role-after-cowboys-latest-cuts/1919952"
-      },
-      "nfl_team": "DAL",
-      "player_id": "7588",
-      "player_name": "Javonte Williams",
-      "position": "RB",
-      "published": 1788108013000,
-      "source": "rotoballer",
-      "source_key": "219740",
-      "story_id": "nfl|7588|rotoballer|219740|1788108013000",
-      "title": "Javonte Williams Set for Workhorse Role After Cowboys' Latest Cuts",
-      "url": "https://www.rotoballer.com/player-news/javonte-williams-set-for-workhorse-role-after-cowboys-latest-cuts/1919952"
-    },
-    {
-      "analysis": null,
-      "description": "Dallas Cowboys running back Malik Davis came out of Sunday's cuts with a much cleaner path behind Javonte Williams. Dallas waived both Jaydon Blue and Phil Mafah, two backs who had spent the summer competing with Davis for the No. 2 job. The timing matters because Davis was already pulling ahead before either move. Jon Machota reported last week that the Cowboys seemed most comfortable with Davis as their RB2, and Cowboys.com made the same call after the second preseason game. Davis gave them reasons to trust him. He led Dallas' backs with 39 yards on seven carries in the preseason opener, then flashed in pass protection against Arizona. He also rushed for 250 yards and two touchdowns on 52 carries last season, averaging 4.8 yards per attempt. This still isn't a path to major standalone volume with Williams healthy, and Dallas could add another back after cuts. For now, though, two of Davis' biggest competitors are gone. He's one of the clearest redraft winners from the Cowboys' roster moves.",
-      "metadata": {
-        "description": "Dallas Cowboys running back Malik Davis came out of Sunday's cuts with a much cleaner path behind Javonte Williams. Dallas waived both Jaydon Blue and Phil Mafah, two backs who had spent the summer competing with Davis for the No. 2 job. The timing matters because Davis was already pulling ahead before either move. Jon Machota reported last week that the Cowboys seemed most comfortable with Davis as their RB2, and Cowboys.com made the same call after the second preseason game. Davis gave them reasons to trust him. He led Dallas' backs with 39 yards on seven carries in the preseason opener, then flashed in pass protection against Arizona. He also rushed for 250 yards and two touchdowns on 52 carries last season, averaging 4.8 yards per attempt. This still isn't a path to major standalone volume with Williams healthy, and Dallas could add another back after cuts. For now, though, two of Davis' biggest competitors are gone. He's one of the clearest redraft winners from the Cowboys' roster moves.",
-        "title": "Malik Davis a Big Winner After Cowboys Backfield Cuts",
-        "topic_id": "1399885650253094912",
-        "url": "https://www.rotoballer.com/player-news/malik-davis-a-big-winner-after-cowboys-backfield-cuts/1919929"
-      },
-      "nfl_team": "DAL",
-      "player_id": "8800",
-      "player_name": "Malik Davis",
-      "position": "RB",
-      "published": 1788106448000,
-      "source": "rotoballer",
-      "source_key": "219736",
-      "story_id": "nfl|8800|rotoballer|219736|1788106448000",
-      "title": "Malik Davis a Big Winner After Cowboys Backfield Cuts",
-      "url": "https://www.rotoballer.com/player-news/malik-davis-a-big-winner-after-cowboys-backfield-cuts/1919929"
-    },
-    {
-      "analysis": null,
-      "description": "Green Bay Packers running back MarShawn Lloyd went from an interesting late-round stash to a potential Week 1 starter in a matter of hours. The NFL placed Josh Jacobs on the Commissioner's Exempt List on Sunday, which means he cannot practice or attend games while he remains there. Matt Schneidman of The Athletic reports that Green Bay will now rely on Lloyd as its No. 1 running back with Jacobs sidelined. Lloyd had already spent August making a case for more work. He started the preseason opener with Jacobs out, then caught an 11-yard touchdown from Jordan Love while working with the first-team offense against Denver. There is still competition. Green Bay acquired Kaleb Johnson from Pittsburgh on Sunday, and Chris Brooks remains in the mix, but neither changes the fact that Lloyd is first in line right now. The 25-year-old has played only one regular-season game through two NFL seasons because of injuries, so durability is impossible to ignore. Still, the opportunity has changed fast. Lloyd is now poised to open the season as Green Bay's lead back.",
-      "metadata": {
-        "description": "Green Bay Packers running back MarShawn Lloyd went from an interesting late-round stash to a potential Week 1 starter in a matter of hours. The NFL placed Josh Jacobs on the Commissioner's Exempt List on Sunday, which means he cannot practice or attend games while he remains there. Matt Schneidman of The Athletic reports that Green Bay will now rely on Lloyd as its No. 1 running back with Jacobs sidelined. Lloyd had already spent August making a case for more work. He started the preseason opener with Jacobs out, then caught an 11-yard touchdown from Jordan Love while working with the first-team offense against Denver. There is still competition. Green Bay acquired Kaleb Johnson from Pittsburgh on Sunday, and Chris Brooks remains in the mix, but neither changes the fact that Lloyd is first in line right now. The 25-year-old has played only one regular-season game through two NFL seasons because of injuries, so durability is impossible to ignore. Still, the opportunity has changed fast. Lloyd is now poised to open the season as Green Bay's lead back.",
-        "title": "MarShawn Lloyd Poised to Begin Season as Green Bay's Lead Running Back",
-        "topic_id": "1399881874876194816",
-        "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-poised-to-begin-season-as-green-bays-lead-running-back/1919914"
-      },
-      "nfl_team": "GB",
-      "player_id": "11581",
-      "player_name": "MarShawn Lloyd",
-      "position": "RB",
-      "published": 1788105612000,
-      "source": "rotoballer",
-      "source_key": "219733",
-      "story_id": "nfl|11581|rotoballer|219733|1788105612000",
-      "title": "MarShawn Lloyd Poised to Begin Season as Green Bay's Lead Running Back",
-      "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-poised-to-begin-season-as-green-bays-lead-running-back/1919914"
-    },
-    {
-      "analysis": null,
-      "description": "The Dallas Cowboys are waiving running back Jaydon Blue, according to Adam Schefter. It's a surprising decision after Dallas appeared to signal that Blue was safe by holding him out of Friday's preseason finale along with Javonte Williams and Malik Davis. The 2025 fifth-round pick had also put together a solid August, rushing for 94 yards on 23 carries through the Cowboys' first two preseason games. That included 75 yards on 15 attempts against Arizona. Blue saw only limited action as a rookie, finishing with 129 yards and one touchdown on 38 carries across five games, but ended the year with 64 yards and his first NFL score in Week 18. Dallas also waived Phil Mafah on Sunday, further reshaping the bottom of its running back room. Williams remains the clear starter, while Blue's departure gives Davis a cleaner path to backup work unless the Cowboys add another back after roster cuts.",
-      "metadata": {
-        "description": "The Dallas Cowboys are waiving running back Jaydon Blue, according to Adam Schefter. It's a surprising decision after Dallas appeared to signal that Blue was safe by holding him out of Friday's preseason finale along with Javonte Williams and Malik Davis. The 2025 fifth-round pick had also put together a solid August, rushing for 94 yards on 23 carries through the Cowboys' first two preseason games. That included 75 yards on 15 attempts against Arizona. Blue saw only limited action as a rookie, finishing with 129 yards and one touchdown on 38 carries across five games, but ended the year with 64 yards and his first NFL score in Week 18. Dallas also waived Phil Mafah on Sunday, further reshaping the bottom of its running back room. Williams remains the clear starter, while Blue's departure gives Davis a cleaner path to backup work unless the Cowboys add another back after roster cuts.",
-        "title": "Cowboys Waive Jaydon Blue in Surprise Roster Move",
-        "topic_id": "1399880616249405440",
-        "url": "https://www.rotoballer.com/player-news/cowboys-waive-jaydon-blue-in-surprise-roster-move/1919908"
-      },
-      "nfl_team": null,
-      "player_id": "12457",
-      "player_name": "Jaydon Blue",
-      "position": "RB",
-      "published": 1788105043000,
-      "source": "rotoballer",
-      "source_key": "219732",
-      "story_id": "nfl|12457|rotoballer|219732|1788105043000",
-      "title": "Cowboys Waive Jaydon Blue in Surprise Roster Move",
-      "url": "https://www.rotoballer.com/player-news/cowboys-waive-jaydon-blue-in-surprise-roster-move/1919908"
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams wide receiver Puka Nacua is expected to avoid the Commissioner's Exempt List, according to Tom Pelissero. The NFL is not expected to place any additional players on paid leave Sunday, though Nacua's situation remains under league review. He is facing a civil lawsuit stemming from an alleged New Year's Eve incident, with his attorney disputing parts of the allegations. For now, Nacua remains available to the Rams. That's significant after he caught an NFL-high 129 passes for 1,715 yards and 10 touchdowns in 16 games last season. He also added 105 rushing yards and another score. Nacua avoiding the exempt list removes an immediate concern for fantasy managers heading toward Week 1, especially after Josh Jacobs was placed on it Sunday. The NFL review is still open, though, so Sunday's news should not be treated as a final ruling on whether Nacua could face discipline later.",
-      "metadata": {
-        "description": "Los Angeles Rams wide receiver Puka Nacua is expected to avoid the Commissioner's Exempt List, according to Tom Pelissero. The NFL is not expected to place any additional players on paid leave Sunday, though Nacua's situation remains under league review. He is facing a civil lawsuit stemming from an alleged New Year's Eve incident, with his attorney disputing parts of the allegations. For now, Nacua remains available to the Rams. That's significant after he caught an NFL-high 129 passes for 1,715 yards and 10 touchdowns in 16 games last season. He also added 105 rushing yards and another score. Nacua avoiding the exempt list removes an immediate concern for fantasy managers heading toward Week 1, especially after Josh Jacobs was placed on it Sunday. The NFL review is still open, though, so Sunday's news should not be treated as a final ruling on whether Nacua could face discipline later.",
-        "title": "Puka Nacua Expected to Avoid Commissioner's Exempt List",
-        "topic_id": "1399873065910833153",
-        "url": "https://www.rotoballer.com/player-news/puka-nacua-expected-to-avoid-commissioners-exempt-list/1919885"
-      },
-      "nfl_team": "LAR",
-      "player_id": "9493",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "published": 1788103630000,
-      "source": "rotoballer",
-      "source_key": "219729",
-      "story_id": "nfl|9493|rotoballer|219729|1788103630000",
-      "title": "Puka Nacua Expected to Avoid Commissioner's Exempt List",
-      "url": "https://www.rotoballer.com/player-news/puka-nacua-expected-to-avoid-commissioners-exempt-list/1919885"
-    },
-    {
-      "analysis": "Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.",
-      "description": "Myers went 1-for-2 on field-goal attempts and missed his lone PAT in Friday's 9-9 preseason tie against the Chiefs.",
-      "metadata": {
-        "analysis": "Myers converted a 46-yard attempt in the first quarter but missed a PAT in the fourth quarter to keep Seattle's lead at 9-6. After the Chiefs tied the game, Myers missed an opportunity to give the Seahawks their only win of the preseason by pushing a 52-yard field-goal attempt wide right on the final play of the game. Myers missed his only field-goal attempt in Seattle's preseason opener against the Cowboys and went 1-for-2 on field-goal attempts while missing a PAT in the Seahawks' second preseason game. His preseason inaccuracy represents a significant departure from Myers' strong performance during the 2025 regular season, when he converted 41 of his league-high 48 field-goal attempts.",
-        "description": "Myers went 1-for-2 on field-goal attempts and missed his lone PAT in Friday's 9-9 preseason tie against the Chiefs.",
-        "title": "Jason Myers - Five missed kicks in preseason",
-        "topic_id": "1399811406093651968"
-      },
-      "nfl_team": "SEA",
-      "player_id": "2747",
-      "player_name": "Jason Myers",
-      "position": "K",
-      "published": 1788103272000,
-      "source": "rotowire",
-      "source_key": "635294",
-      "story_id": "nfl|2747|rotowire|635294|1788103272000",
-      "title": "Jason Myers - Five missed kicks in preseason",
-      "url": null
-    },
-    {
-      "analysis": "With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up versus the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.",
-      "description": "Kittle (Achilles) is expected to practice this week as he continues his push to play in the 49ers' season opener against the Rams in Australia, Adam Schefter of ESPN reports.",
-      "metadata": {
-        "analysis": "With Kittle having been activated from the active/PUP list last Sunday and reportedly avoiding setbacks in his recovery from a torn Achilles, he appears to be trending in the right direction for Week 1. His practice workload this week should offer the clearest indication yet of whether San Francisco's starting tight end will be ready for the opener. Should Kittle indeed be able to suit up versus the Rams, it would mean he'd return to game action almost exactly eight months after he tore his Achilles on Jan. 11 in a wild-card win over Philadelphia.",
-        "description": "Kittle (Achilles) is expected to practice this week as he continues his push to play in the 49ers' season opener against the Rams in Australia, Adam Schefter of ESPN reports.",
-        "title": "George Kittle - Expected to practice this week",
-        "topic_id": "1399805113870073856"
-      },
-      "nfl_team": "SF",
-      "player_id": "4217",
-      "player_name": "George Kittle",
-      "position": "TE",
-      "published": 1788101861000,
-      "source": "rotowire",
-      "source_key": "635292",
-      "story_id": "nfl|4217|rotowire|635292|1788101861000",
-      "title": "George Kittle - Expected to practice this week",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Indianapolis Colts wide receiver Keenan Allen could face a three-game suspension following his arrest early Sunday morning, according to Mark Maske of Front Office Sports. Allen was arrested on preliminary misdemeanor charges of operating a vehicle while intoxicated with an alcohol concentration equivalent of .08 or higher and operating while intoxicated while endangering a person. The Marion County Prosecutor's Office will make the final charging decision. Maske notes that the NFL's substances-of-abuse policy calls for a three-game suspension without pay for a first alcohol-related violation of law, absent aggravating circumstances. No discipline has been announced, and the NFL generally waits for the legal process to conclude before acting. Allen signed with Indianapolis on Aug. 19 and caught one pass for 24 yards in Saturday's preseason finale. He had 81 catches for 777 yards and four touchdowns with the Chargers last season. A suspension would open more work for Alec Pierce, Josh Downs and tight end Tyler Warren.",
-      "metadata": {
-        "description": "Indianapolis Colts wide receiver Keenan Allen could face a three-game suspension following his arrest early Sunday morning, according to Mark Maske of Front Office Sports. Allen was arrested on preliminary misdemeanor charges of operating a vehicle while intoxicated with an alcohol concentration equivalent of .08 or higher and operating while intoxicated while endangering a person. The Marion County Prosecutor's Office will make the final charging decision. Maske notes that the NFL's substances-of-abuse policy calls for a three-game suspension without pay for a first alcohol-related violation of law, absent aggravating circumstances. No discipline has been announced, and the NFL generally waits for the legal process to conclude before acting. Allen signed with Indianapolis on Aug. 19 and caught one pass for 24 yards in Saturday's preseason finale. He had 81 catches for 777 yards and four touchdowns with the Chargers last season. A suspension would open more work for Alec Pierce, Josh Downs and tight end Tyler Warren.",
-        "title": "Keenan Allen Faces Potential Three-Game Suspension",
-        "topic_id": "1399864256920293376",
-        "url": "https://www.rotoballer.com/player-news/keenan-allen-faces-potential-three-game-suspension/1919808"
-      },
-      "nfl_team": "IND",
-      "player_id": "1479",
-      "player_name": "Keenan Allen",
-      "position": "WR",
-      "published": 1788101286000,
-      "source": "rotoballer",
-      "source_key": "219726",
-      "story_id": "nfl|1479|rotoballer|219726|1788101286000",
-      "title": "Keenan Allen Faces Potential Three-Game Suspension",
-      "url": "https://www.rotoballer.com/player-news/keenan-allen-faces-potential-three-game-suspension/1919808"
-    },
-    {
-      "analysis": "After entering camp as an undrafted rookie in a crowded quarterback room, Daniels appears to have climbed into the No. 2 role behind Mayfield. The decision gives him clear roster security and places him next in line if Tampa Bay needs a backup to step into game action. Daniels won the job after a strong preseason during which he completed 27 of 44 passes for 239 yards and a touchdown without being picked off.",
-      "description": "Daniels is moving forward as Tampa Bay's backup quarterback behind Baker Mayfield after impressing throughout training camp, Ian Rapoport of NFL Network reports.",
-      "metadata": {
-        "analysis": "After entering camp as an undrafted rookie in a crowded quarterback room, Daniels appears to have climbed into the No. 2 role behind Mayfield. The decision gives him clear roster security and places him next in line if Tampa Bay needs a backup to step into game action. Daniels won the job after a strong preseason during which he completed 27 of 44 passes for 239 yards and a touchdown without being picked off.",
-        "description": "Daniels is moving forward as Tampa Bay's backup quarterback behind Baker Mayfield after impressing throughout training camp, Ian Rapoport of NFL Network reports.",
-        "title": "Jalon Daniels - Wins backup QB job",
-        "topic_id": "1399796305177399296"
-      },
-      "nfl_team": "TB",
-      "player_id": "13425",
-      "player_name": "Jalon Daniels",
-      "position": "QB",
-      "published": 1788099619000,
-      "source": "rotowire",
-      "source_key": "635287",
-      "story_id": "nfl|13425|rotowire|635287|1788099619000",
-      "title": "Jalon Daniels - Wins backup QB job",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Las Vegas Raiders tight end Brock Bowers spent most of last season fighting through a knee injury. This summer has looked a lot more like the player who caught 112 passes for 1,194 yards as a rookie. Bowers said in May that he felt 100 percent, and the Raiders have spent camp feeding him the ball. He caught two red-zone touchdowns from Kirk Cousins on July 31, added another deep score on Aug. 6, and was one of Las Vegas' best offensive players during the Aug. 18 joint practice with Houston. Cousins found him for another touchdown there, too. That connection matters even more now with Cousins expected to start Week 1. Bowers still managed 64 catches for 680 yards and seven touchdowns in only 12 games last season, so the floor was never the concern when healthy. The draft price is already steep. RotoBaller has him as the TE1 and No. 21 overall in its latest half-PPR rankings. Still, there has been nothing this summer to make fantasy managers back off. If anything, Bowers looks like himself again.",
-      "metadata": {
-        "description": "Las Vegas Raiders tight end Brock Bowers spent most of last season fighting through a knee injury. This summer has looked a lot more like the player who caught 112 passes for 1,194 yards as a rookie. Bowers said in May that he felt 100 percent, and the Raiders have spent camp feeding him the ball. He caught two red-zone touchdowns from Kirk Cousins on July 31, added another deep score on Aug. 6, and was one of Las Vegas' best offensive players during the Aug. 18 joint practice with Houston. Cousins found him for another touchdown there, too. That connection matters even more now with Cousins expected to start Week 1. Bowers still managed 64 catches for 680 yards and seven touchdowns in only 12 games last season, so the floor was never the concern when healthy. The draft price is already steep. RotoBaller has him as the TE1 and No. 21 overall in its latest half-PPR rankings. Still, there has been nothing this summer to make fantasy managers back off. If anything, Bowers looks like himself again.",
-        "title": "Brock Bowers Looks Like Himself Again",
-        "topic_id": "1399854190670381056",
-        "url": "https://www.rotoballer.com/player-news/brock-bowers-looks-like-himself-again/1919761"
-      },
-      "nfl_team": "LV",
-      "player_id": "11604",
-      "player_name": "Brock Bowers",
-      "position": "TE",
-      "published": 1788098947000,
-      "source": "rotoballer",
-      "source_key": "219723",
-      "story_id": "nfl|11604|rotoballer|219723|1788098947000",
-      "title": "Brock Bowers Looks Like Himself Again",
-      "url": "https://www.rotoballer.com/player-news/brock-bowers-looks-like-himself-again/1919761"
-    },
-    {
-      "analysis": null,
-      "description": "Green Bay Packers running back MarShawn Lloyd suddenly has another back to deal with. Green Bay acquired Kaleb Johnson from Pittsburgh on Sunday, a move that comes just days after general manager Brian Gutekunst said the team had been preparing for the possibility of a Josh Jacobs suspension. Lloyd had been moving in the other direction before the trade. He started the preseason opener with Jacobs sidelined, worked extensively with the first-team offense and caught an 11-yard touchdown from Jordan Love against Denver. RotoBaller also noted on Aug. 27 that Lloyd appeared to have the inside track on the No. 2 job, with a path to lead-back work if Jacobs misses time. Johnson is no lock to change that. The 2025 third-round pick rushed for only 69 yards as a rookie and was on Pittsburgh's roster bubble before being dealt. Still, the Packers didn't add him for nothing. Lloyd's opportunity remains interesting, especially with Jacobs facing possible NFL discipline, but there is now another player who could push for those backup touches.",
-      "metadata": {
-        "description": "Green Bay Packers running back MarShawn Lloyd suddenly has another back to deal with. Green Bay acquired Kaleb Johnson from Pittsburgh on Sunday, a move that comes just days after general manager Brian Gutekunst said the team had been preparing for the possibility of a Josh Jacobs suspension. Lloyd had been moving in the other direction before the trade. He started the preseason opener with Jacobs sidelined, worked extensively with the first-team offense and caught an 11-yard touchdown from Jordan Love against Denver. RotoBaller also noted on Aug. 27 that Lloyd appeared to have the inside track on the No. 2 job, with a path to lead-back work if Jacobs misses time. Johnson is no lock to change that. The 2025 third-round pick rushed for only 69 yards as a rookie and was on Pittsburgh's roster bubble before being dealt. Still, the Packers didn't add him for nothing. Lloyd's opportunity remains interesting, especially with Jacobs facing possible NFL discipline, but there is now another player who could push for those backup touches.",
-        "title": "MarShawn Lloyd Facing Potential Competition for No. 2 Role",
-        "topic_id": "1399851673156923392",
-        "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-facing-potential-competition-for-no-2-role/1919757"
-      },
-      "nfl_team": "GB",
-      "player_id": "11581",
-      "player_name": "MarShawn Lloyd",
-      "position": "RB",
-      "published": 1788098348000,
-      "source": "rotoballer",
-      "source_key": "219722",
-      "story_id": "nfl|11581|rotoballer|219722|1788098348000",
-      "title": "MarShawn Lloyd Facing Potential Competition for No. 2 Role",
-      "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-facing-potential-competition-for-no-2-role/1919757"
     }
   ]
 }
