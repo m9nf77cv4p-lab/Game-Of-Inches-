@@ -2,39 +2,71 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **5374**
-- Newly captured: **14**
+- Stored stories: **5367**
+- Newly captured: **16**
 
 ## Latest news
 
-- **NEW — Zach Charbonnet** — Zach Charbonnet (knee) uncertain on practicing this week (2026-09-29T16:15:04.859000Z)
+- **NEW — Dontayvion Wicks** — Dontayvion Wicks - Held quiet in Week 3 loss (2026-09-29T22:56:47Z)
+  - Though he didn't find paydirt, Wicks played a critical role on the Eagles' lone scoring drive on the night late in the second quarter, leading off the possession with a 13-yard catch and run. He was otherwise held in check while the game was still competitive, with his lone other reception coming with 6:30 remaining, when the Bears had built a 20-point lead. Through his first three games with Philadelphia, Wicks has produced a 9-179-1 receiving line on 15 targets.
+- **NEW — Makai Lemon** — Makai Lemon - Notches three receptions in loss (2026-09-29T22:52:09Z)
+  - After taking the field for north of 60 percent of the snaps in both of the Eagles' first two contests, Lemon wasn't a major beneficiary of the absence of tight end Dallas Goedert (knee). Even though the Eagles leaned more heavily on three-wide formations, Lemon saw only a slight uptick in playing time Monday, logging 35 of 50 snaps (70 percent). The rookie first-round pick appears to be little more than a tertiary option in the passing game at this stage of his career, as he's thus far been held to seven catches for 38 yards on nine targets through his first three NFL games.
+- **NEW — Pat Bryant** — Pat Bryant - Finds paydirt in Week 3 win (2026-09-29T22:47:23Z)
+  - Bryant reached the end zone for the first time this season with 7:44 left in the third quarter, connecting with quarterback Bo Nix on a five-yard catch. The second-year wideout has seen his snap share gradually climb through the first three weeks, topping out at 70 percent in Week 3. The Broncos have been without Marvin Mims (foot) for the past two games, however, so Bryant could see a slight downturn in playing time once the Denver receiving corps is at full strength.
+- **NEW — Jack Bech** — Jack Bech - Heads to IR (2026-09-29T22:27:18Z)
+  - Bech will be sidelined for at least the Raiders' next four games after sustaining a fractured left forearm during Sunday's 35-27 win over the Saints. In a corresponding move, the Raiders signed Cody White off their practice squad. White could be the leading candidate to replace Bech as the Raiders' No. 3 wideout behind Tre Tucker and Jalen Nailor.
+- **NEW — Pat Freiermuth** — Pat Freiermuth - Held to two catches in Week 3 (2026-09-29T20:57:44Z)
+  - Freiermuth took the field for 37 of the Steelers' 62 offensive snaps, with his 60 percent share placing him slightly behind fellow tight end Darnell Washington (47 snaps, 76 percent). The Steelers should continue to make ample use of two-tight-end sets to keep Freiermuth involved in their game plans, but since he doesn't project to see heavy target volume week to week, he'll remain a largely touchdown-dependent fantasy option.
+- **NEW — Rico Dowdle** — Rico Dowdle - Spectator for Tuesday's practice (2026-09-29T20:38:01Z)
+  - After sitting out Sunday's win over the Bengals due to a right toe injury, Dowdle will go down as a non-participant on the Steelers' first two Week 4 practice report. Unless he's able to fit in some on-field work during Wednesday's session, Dowdle will likely be ruled out ahead of Thursday's game in Cleveland. Dowdle's potential absence for a second straight game would set up Jaylen Warren for another heavy workload out of the backfield, after Warren handled 20 touches in Week 3.
+- **NEW — Chris Godwin** — Chris Godwin - Another muted performance (2026-09-29T19:33:24Z)
+  - Godwin ranked third among Buccaneers wide receivers in snap share (62 percent) behind Ted Hurst (75 percent) and Emeka Egbuka (74 percent) in Week 3, resulting in his least productive performance of the season. On top of that, Godwin hasn't been targeted more than four times in a game so far on the campaign. With undrafted rookie Jalon Daniels set to take over Tampa Bay's offense for at least a few contests in the wake of Baker Mayfield's dislocated right thumb, Godwin doesn't have an ideal situation in which to build momentum from week to week.
+- **NEW — Jadarian Price** — Seahawks Still Believe in Jadarian Price (2026-09-29T17:59:09Z)
+  - Source: https://www.rotoballer.com/player-news/seahawks-still-believe-in-jadarian-price/1954020
+- **NEW — Brian Thomas** — Brian Thomas Jr. Now the Jaguars' No. 4 Receiver? (2026-09-29T17:25:13Z)
+  - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-now-the-jaguars-no-4-receiver/1953987
+- **NEW — Rico Dowdle** — Rico Dowdle a Non-Participant Again on Tuesday (2026-09-29T17:13:15Z)
+  - Source: https://www.rotoballer.com/player-news/rico-dowdle-a-non-participant-again-on-tuesday/1953974
+- **NEW — Dontayvion Wicks** — Dontayvion Wicks Remains a Must-Add Wide Receiver Despite Quiet Week 3 (2026-09-29T16:57:53Z)
+  - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-remains-a-must-add-wide-receiver-despite-quiet-week-3/1953965
+- **NEW — Kirk Cousins** — Kirk Cousins Emerging as a Must-Roster Quarterback in Two-QB Leagues (2026-09-29T16:25:10Z)
+  - Source: https://www.rotoballer.com/player-news/kirk-cousins-emerging-as-a-must-roster-quarterback-in-two-qb-leagues/1953951
+- **NEW — Tank Bigsby** — Tank Bigsby Remains a High-End Handcuff RB Despite Rough Week 3 (2026-09-29T16:19:09Z)
+  - Source: https://www.rotoballer.com/player-news/tank-bigsby-remains-a-high-end-handcuff-running-back-despite-rough-week-3/1953936
+- **Zach Charbonnet** — Zach Charbonnet (knee) uncertain on practicing this week (2026-09-29T16:15:04.859000Z)
   - They are still deciding on whether Charbonnet will have his practice window opened this week. He can have it opened at any time. 
   - Source: https://www.fantasypros.com/nfl/news/611418/zach-charbonnet-knee-uncertain-on-practicing-this-week.php
-- **NEW — Jayden Daniels** — Jayden Daniels - Could need surgery after season (2026-09-29T16:03:35Z)
+- **NEW — Aaron Rodgers** — Aaron Rodgers a Must-Add in Two-QB Formats Entering Week 4 (2026-09-29T16:11:09Z)
+  - Source: https://www.rotoballer.com/player-news/aaron-rodgers-a-must-add-in-two-qb-formats-entering-week-4/1953925
+- **Jayden Daniels** — Jayden Daniels - Could need surgery after season (2026-09-29T16:03:35Z)
   - Daniels has dislocated the elbow three times in less than a year, with his most recent aggravation of the injury occurring in the Commanders' Sept. 20 loss to the Cowboys. Surgery could provide a more permanent fix for the elbow, but for the time being, Daniels will rehab the injury and wear a brace for added protection when he eventually returns. After Daniels sat out the Commanders' Week 3 win over the Seahawks, head coach Dan Quinn said Monday that the quarterback would travel with the team to London this week and resume practicing in some capacity. The Commanders haven't ruled Daniels out from playing Sunday against the Colts, but he may need to put in at least one full practice in order to have a chance at reclaiming the starting role from Marcus Mariota, who performed well in his stead in Week 3.
-- **NEW — Xavier Hutchinson** — Xavier Hutchinson Has Short-Term Waiver Appeal (2026-09-29T15:13:16Z)
+- **NEW — Ryan Flournoy** — Ryan Flournoy's Target Volume Keeps Him Interesting (2026-09-29T15:35:14Z)
+  - Source: https://www.rotoballer.com/player-news/ryan-flournoys-target-volume-keeps-him-interesting/1953910
+- **NEW — Rashod Bateman** — Rashod Bateman Better Suited to Deeper Leagues (2026-09-29T15:23:12Z)
+  - Source: https://www.rotoballer.com/player-news/rashod-bateman-better-suited-to-deeper-leagues/1953900
+- **Xavier Hutchinson** — Xavier Hutchinson Has Short-Term Waiver Appeal (2026-09-29T15:13:16Z)
   - Source: https://www.rotoballer.com/player-news/xavier-hutchinson-has-short-term-waiver-appeal/1953894
-- **NEW — Cam Ward** — Titans Not Considering Benching Cam Ward (2026-09-29T14:31:10Z)
+- **Cam Ward** — Titans Not Considering Benching Cam Ward (2026-09-29T14:31:10Z)
   - Source: https://www.rotoballer.com/player-news/titans-not-considering-benching-cam-ward/1953881
-- **NEW — Michael Penix** — Michael Penix Jr. a Potential Streamer in Monday Night Divisional Matchup (2026-09-29T14:00:19Z)
+- **Michael Penix** — Michael Penix Jr. a Potential Streamer in Monday Night Divisional Matchup (2026-09-29T14:00:19Z)
   - Source: https://www.rotoballer.com/player-news/michael-penix-jr-a-potential-streamer-in-monday-night-divisional-matchup/1953861
-- **NEW — Marcus Mariota** — Marcus Mariota Remains One of the NFL's Best Backup Quarterbacks (2026-09-29T13:50:11Z)
+- **Marcus Mariota** — Marcus Mariota Remains One of the NFL's Best Backup Quarterbacks (2026-09-29T13:50:11Z)
   - Source: https://www.rotoballer.com/player-news/marcus-mariota-remains-one-of-the-nfls-best-backup-quarterbacks-and-a-potential-week-4-streamer/1953851
-- **NEW — Makai Lemon** — Makai Lemon a Week 4 Add as His Role Continues to Grow (2026-09-29T13:39:04Z)
+- **Makai Lemon** — Makai Lemon a Week 4 Add as His Role Continues to Grow (2026-09-29T13:39:04Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-a-week-4-add-as-his-role-continues-to-grow/1953845
-- **NEW — Kayshon Boutte** — Kayshon Boutte Still Holds Long-Term Value on Waivers (2026-09-29T13:12:11Z)
+- **Kayshon Boutte** — Kayshon Boutte Still Holds Long-Term Value on Waivers (2026-09-29T13:12:11Z)
   - Source: https://www.rotoballer.com/player-news/kayshon-boutte-still-holds-long-term-value-on-waivers/1953827
-- **NEW — Jayden Daniels** — Jayden Daniels Could Have Offseason Elbow Surgery (2026-09-29T12:31:15Z)
+- **Jayden Daniels** — Jayden Daniels Could Have Offseason Elbow Surgery (2026-09-29T12:31:15Z)
   - Source: https://www.rotoballer.com/player-news/jayden-daniels-could-have-offseason-elbow-surgery/1953793
-- **NEW — J.J. McCarthy** — Giants Could Turn to J.J. McCarthy in the "Near Future" (2026-09-29T12:24:09Z)
+- **J.J. McCarthy** — Giants Could Turn to J.J. McCarthy in the "Near Future" (2026-09-29T12:24:09Z)
   - Source: https://www.rotoballer.com/player-news/giants-could-turn-to-j-j-mccarthy-in-the-near-future/1953790
-- **NEW — Jaylen Warren** — Jaylen Warren Could Continue to be Workhorse for Steelers (2026-09-29T12:16:15Z)
+- **Jaylen Warren** — Jaylen Warren Could Continue to be Workhorse for Steelers (2026-09-29T12:16:15Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-warren-could-continue-to-be-workhorse-for-steelers/1953784
-- **NEW — Jacoby Brissett** — Jacoby Brissett Has Short-Term Value for QB-Needy Managers (2026-09-29T11:48:11Z)
+- **Jacoby Brissett** — Jacoby Brissett Has Short-Term Value for QB-Needy Managers (2026-09-29T11:48:11Z)
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-has-short-term-value-for-qb-needy-managers/1953758
-- **NEW — Kaleb Johnson** — Kaleb Johnson Worth Watching After Increased Week 3 Work (2026-09-29T11:39:10Z)
+- **Kaleb Johnson** — Kaleb Johnson Worth Watching After Increased Week 3 Work (2026-09-29T11:39:10Z)
   - Source: https://www.rotoballer.com/player-news/kaleb-johnson-worth-watching-after-increased-week-3-work/1953749
-- **NEW — Malik Willis** — Malik Willis a Deep-League Quarterback Add for Week 4 (2026-09-29T11:07:07Z)
+- **Malik Willis** — Malik Willis a Deep-League Quarterback Add for Week 4 (2026-09-29T11:07:07Z)
   - Source: https://www.rotoballer.com/player-news/malik-willis-a-deep-league-quarterback-add-for-week-4/1953708
 - **Dontayvion Wicks** — Dontayvion Wicks draws five targets in Week 3 (2026-09-29T10:10:13.090000Z)
   - Wicks finished second on the team in receiving yards on a rough evening for the Philly passing attack. The veteran wideout has been solid for the Eagles thus far, catching nine passes for 179 yards and a touchdown through three games. He will be a flex option in fantasy heading into Week 4 against the Rams.
@@ -193,38 +225,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/611366/terrance-ferguson-ankle-to-likely-miss-week-4.php
 - **Terrance Ferguson** — Terrance Ferguson - Likely out for Week 4 (2026-09-28T23:02:00Z)
   - Ferguson missed a portion of Sunday's loss at Denver to get X-rays on an ankle injury, and while he was cleared to return, he finished fourth among Rams tight ends in offensive snaps (22 of 86) behind Tyler Higbee (61), Colby Parkinson (37) and Davis Allen (31). Through three games this season, Ferguson had a 6-54-1 line on nine targets in Week 2 versus the Giants and one catch (on three targets) for nine yards in the other two contests. Now that he's slated to miss some time, the aforementioned trio likely will handle the bulk of the TE workload for L.A., though rookie Max Klare might finally see his first offensive plays.
-- **Ted Hurst** — Ted Hurst III Could be Deep-League Stash Option (2026-09-28T23:00:42Z)
-  - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-could-be-deep-league-stash-option/1953357
-- **Tre' Harris** — Tre' Harris is Gaining Trust After Solid Performance (2026-09-28T22:50:35Z)
-  - Source: https://www.rotoballer.com/player-news/tre-harris-is-gaining-trust-after-solid-performance/1953350
-- **Mack Hollins** — Mack Hollins Makes for an Interesting Deep-League Option (2026-09-28T22:43:12Z)
-  - Source: https://www.rotoballer.com/player-news/mack-hollins-makes-for-interesting-deep-league-option/1953344
-- **Puka Nacua** — Puka Nacua (groin) 'hopeful' to play in Week 4 (2026-09-28T22:40:09.479000Z)
-  - Adam Schefter reported Sunday morning that the Rams do not believe surgery will be needed, but it's still on the table. Nacua will need to be monitored in practice throughout the week. 
-  - Source: https://www.fantasypros.com/nfl/news/611360/puka-nacua-groin-hopeful-to-play-week-4.php
-- **Puka Nacua** — Puka Nacua - Hopeful for Week 4 return (2026-09-28T22:38:32Z)
-  - Nacua has missed the past two gams due to a hip injury (on official practice reports) or what McVay alternatively has called "soreness in his groin" that's unrelated to the psoas discomfort the wide receiver dealt with in training camp. McVay relayed to Sarah Barshop of ESPN.com on Friday that if Nacua doesn't play Sunday at Denver, which came to pass, he likely will be available Week 4. McVay was more subdued Monday, also telling Gary Klein of the Los Angeles Times that Nacua's upcoming status is "to be determined." As a result, the will he or won't he suit up with Nacua likely will continue until close to next weekend's kickoff or even beyond that point.
-- **Brenton Strange** — Brenton Strange Gaining Value After Seeing Five Targets (2026-09-28T22:31:10Z)
-  - Source: https://www.rotoballer.com/player-news/brenton-strange-gaining-value-after-seeing-five-targets/1953335
-- **Adonai Mitchell** — Adonai Mitchell Offers Intriguing Stash Value (2026-09-28T22:21:28Z)
-  - Source: https://www.rotoballer.com/player-news/adonai-mitchell-offers-intriguing-stash-value/1953324
-- **Ollie Gordon** — Ollie Gordon II: All RBs on Dolphins 'are going to have their roles' (2026-09-28T22:05:08.885000Z)
-  - Gordon remains the most likely player to lead the backfield, but Jaylen Wright will figure to have a role when he is healthy. Gordon can be viewed as a borderline RB2 for now. 
-  - Source: https://www.fantasypros.com/nfl/news/611347/ollie-gordon-ii-all-rbs-on-dolphins-are-going-to-have-their-roles.php
-- **Keaton Mitchell** — Keaton Mitchell a Worthy Waiver-Wire Target Following Solid Week 3 (2026-09-28T21:58:01Z)
-  - Source: https://www.rotoballer.com/player-news/keaton-mitchell-a-worthy-waiver-wire-target-following-solid-week-3-production/1953304
-- **Pat Freiermuth** — Pat Freiermuth Remains a Deep-League Waiver-Wire Target (2026-09-28T21:50:16Z)
-  - Source: https://www.rotoballer.com/player-news/pat-freiermuth-remains-a-deep-league-waiver-wire-target-despite-underwhelming-week-3/1953298
-- **T.J. Hockenson** — T.J. Hockenson Could Be Poised for Expanded Role in Minnesota (2026-09-28T21:38:15Z)
-  - Source: https://www.rotoballer.com/player-news/t-j-hockenson-could-be-poised-for-expanded-role-in-minnesota/1953285
-- **Jalen Hurts** — Jalen Hurts Cleared to Return on Monday Night After Concussion Scare (2026-09-28T21:29:08Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-hurts-cleared-to-return-on-monday-night-after-concussion-scare/1953273
-- **Wan'Dale Robinson** — Wan'Dale Robinson Re-Emerging as a PPR Waiver-Wire Target (2026-09-28T21:17:08Z)
-  - Source: https://www.rotoballer.com/player-news/wandale-robinson-re-emerging-as-a-ppr-waiver-wire-target/1953260
-- **Darren Waller** — Darren Waller a Premier Tight End Streamer Ahead of Week 4 (2026-09-28T21:09:15Z)
-  - Source: https://www.rotoballer.com/player-news/darren-waller-a-premier-tight-end-streamer-ahead-of-week-4/1953253
-- **Chig Okonkwo** — Chig Okonkwo - Set to practice in Week 4 (2026-09-28T21:07:45Z)
-  - Okonkwo has been sidelined for the Commanders' last two games due to the hamstring injury, which he sustained during the season-opening loss to the Eagles. He wasn't able to practice at any point in the last two weeks, but the tight end looks poised to take a step forward in that regard in Week 4. Okonkwo will presumably need to upgrade to full participation by Friday in order for the Commanders to clear him to play against the Colts.
-- **Jack Bech** — Jack Bech (forearm) to miss some time (2026-09-28T21:05:08.829000Z)
-  - Kubiak added that the team has yet to make a roster decision. He could be placed on injured reserve. 
-  - Source: https://www.fantasypros.com/nfl/news/611336/jack-bech-forearm-to-miss-some-time.php
