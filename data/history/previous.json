@@ -20179,7 +20179,7 @@
       "full_name": "J.J. McCarthy",
       "injury_status": "Out",
       "last_name": "McCarthy",
-      "nfl_team": "MIN",
+      "nfl_team": "NYG",
       "player_id": "11565",
       "position": "QB",
       "status": "Active",
@@ -22398,7 +22398,7 @@
       ],
       "first_name": "Baker",
       "full_name": "Baker Mayfield",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Mayfield",
       "nfl_team": "TB",
       "player_id": "4892",
@@ -22458,7 +22458,7 @@
       ],
       "first_name": "Josh",
       "full_name": "Josh Allen",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Allen",
       "nfl_team": "BUF",
       "player_id": "4984",
@@ -23088,7 +23088,7 @@
       ],
       "first_name": "Travis",
       "full_name": "Travis Etienne",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Etienne",
       "nfl_team": "NO",
       "player_id": "7543",
@@ -23778,12 +23778,12 @@
       ],
       "first_name": "De'Von",
       "full_name": "De'Von Achane",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Achane",
       "nfl_team": "MIA",
       "player_id": "9226",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 3
     },
     "9228": {
@@ -24379,8 +24379,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-28T07:39:38Z",
-    "source_fingerprint": "235cc95f5db9f2ccf04cefb5fb9e454f6f8dbf88f40b8167e7e9f1a3f5826050"
+    "last_changed_at": "2026-09-28T21:47:54Z",
+    "source_fingerprint": "9d45ea5fc63c8be455b20117d3b8ecee5325342267d18d1f5c82c8c16ca35c93"
   },
   "teams": [
     {
