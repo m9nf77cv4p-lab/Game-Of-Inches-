@@ -58,7 +58,7 @@
       "total_moves": 0,
       "waiver_adjusted": 4,
       "waiver_budget_used": 0,
-      "waiver_position": 7,
+      "waiver_position": 6,
       "wins": 1
     },
     "starters": [
@@ -102,6 +102,7 @@
       "12517",
       "13279",
       "13289",
+      "13425",
       "1945",
       "2306",
       "4943",
@@ -116,10 +117,13 @@
       "8137",
       "8155",
       "9484",
+      "9757",
       "SEA"
     ],
     "reserve": [
-      "11560"
+      "11560",
+      "7543",
+      "8155"
     ],
     "roster_id": 2,
     "settings": {
@@ -134,12 +138,12 @@
       "total_moves": 0,
       "waiver_adjusted": 4,
       "waiver_budget_used": 0,
-      "waiver_position": 6,
+      "waiver_position": 11,
       "wins": 1
     },
     "starters": [
       "6770",
-      "8155",
+      "11576",
       "7588",
       "7564",
       "8112",
@@ -242,14 +246,15 @@
     "players": [
       "1166",
       "12545",
+      "12711",
       "13296",
       "13298",
       "13305",
       "13320",
-      "13545",
       "1373",
       "1479",
       "2449",
+      "3634",
       "4017",
       "4199",
       "5850",
@@ -263,7 +268,6 @@
       "9224",
       "9482",
       "9486",
-      "CIN",
       "SF"
     ],
     "reserve": [
@@ -283,7 +287,7 @@
       "total_moves": 0,
       "waiver_adjusted": 4,
       "waiver_budget_used": 0,
-      "waiver_position": 8,
+      "waiver_position": 12,
       "wins": 2
     },
     "starters": [
@@ -295,8 +299,8 @@
       "9486",
       "8110",
       "4199",
-      "1373",
-      "13545",
+      "4017",
+      "0",
       "SF"
     ],
     "taxi": [
@@ -356,7 +360,7 @@
       "total_moves": 0,
       "waiver_adjusted": 4,
       "waiver_budget_used": 0,
-      "waiver_position": 10,
+      "waiver_position": 8,
       "wins": 2
     },
     "starters": [
@@ -426,7 +430,7 @@
       "total_moves": 0,
       "waiver_adjusted": 4,
       "waiver_budget_used": 0,
-      "waiver_position": 11,
+      "waiver_position": 9,
       "wins": 3
     },
     "starters": [
@@ -499,7 +503,7 @@
       "total_moves": 0,
       "waiver_adjusted": 4,
       "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_position": 7,
       "wins": 2
     },
     "starters": [
@@ -575,7 +579,7 @@
       "total_moves": 0,
       "waiver_adjusted": 4,
       "waiver_budget_used": 0,
-      "waiver_position": 12,
+      "waiver_position": 10,
       "wins": 3
     },
     "starters": [
@@ -589,7 +593,7 @@
       "4866",
       "11559",
       "11533",
-      "NE"
+      "CLE"
     ],
     "taxi": [
       "13272"
