@@ -20732,7 +20732,7 @@
       ],
       "first_name": "Jack",
       "full_name": "Jack Bech",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Bech",
       "nfl_team": "LV",
       "player_id": "12483",
@@ -24334,8 +24334,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-29T19:15:27Z",
-    "source_fingerprint": "6a6e0f186169e4ac8cc12e85591bfdee9356ac3afe30eb6fab9c20bec57598d5"
+    "last_changed_at": "2026-09-29T23:00:48Z",
+    "source_fingerprint": "eb204eda6962097669b1bf27401f94f3b1f2cf62c7b3ec1671033785f6c70d17"
   },
   "teams": [
     {

@@ -2,47 +2,79 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **5367**
+- Stored stories: **5372**
 - Newly captured: **16**
 
 ## Latest news
 
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks - Held quiet in Week 3 loss (2026-09-29T22:56:47Z)
+- **NEW — Travis Hunter** — Travis Hunter - Plays five offensive snaps in Week 3 (2026-09-30T01:56:54Z)
+  - He failed to see a target in the passing game for the second straight week and is clearly not in the team's plans on that side of the ball with everyone healthy at wideout. Hunter would likely need one or even two injuries ahead of him on the depth chart to see significant snaps on offense. On defense against New England, Hunter logged four tackles (three solo) and one pass breakup, including his first career regular-season interception.
+- **NEW — Kaytron Allen** — Kaytron Allen - Limited to special teams in Week 3 (2026-09-30T01:48:49Z)
+  - After being limited mostly to garbage time through the first two games of the regular season, the rookie sixth-rounder didn't see the field on offense against Seattle. Allen saw a heavy workload during the preseason, but he figures to be an afterthought in the Commanders' offensive gameplan unless one of Jacory Croskey-Merritt or Rachaad White were to miss time. The Commanders head to London for a Week 4 tilt against the Colts this Sunday.
+- **NEW — Chig Okonkwo** — Chig Okonkwo - Traveling with team to London (2026-09-30T01:45:13Z)
+  - A hamstring injury has prevented Okonkwo from playing in each of the Commanders' last two games, leading to the team leaning more heavily on Ben Sinnott, John Bates and Colson Yankoff at tight end. Okonkwo's practice participation over the coming days will be worth monitoring, as a full session would greatly increase his chances of being cleared to play against Indianapolis. He signed a three-year contract with the Commanders in March following four years with the Titans, and he finished the 2025 regular season with career highs in receptions (56), yards (560) and targets (79) across 17 games.
+- **NEW — Jayden Daniels** — Jayden Daniels - Making trip to London (2026-09-30T01:41:02Z)
+  - As expected, Daniels will make the trip across the pond and participate in practices over the coming days. He has a lot of work ahead of him in order to be cleared to play Sunday as he continues to recover from a dislocated elbow, so it wouldn't be surprising to see Marcus Mariota get the starting nod for a second week in a row. Logging a full practice at least once this week would go a long way in Daniels' efforts to return to the field.
+- **NEW — Kayshon Boutte** — Kayshon Boutte - Two catches in Week 3 loss vs. Indy (2026-09-30T01:36:54Z)
+  - For a second consecutive week, Boutte operated in an elevated role on offense due to the absence of Nico Collins (hamstring). Boutte's 37 offensive snaps actually led all Texans wide receivers, but he didn't see a target from C.J. Stroud until late in the fourth quarter, when the duo connected on back-to-back passes of 15 and six yards. Those two catches set the Texans up in the red zone and led to a Woody Marks one-yard rushing touchdown at the 1:50 mark. Per Aaron Wilson of KPRC 2 Houston on Monday, head coach DeMeco Ryans expressed optimism that Collins would be back for Week 4 against the Cowboys. Collins' practice participation in the coming days will shed light on what Boutte's workload may look like against Dallas this Sunday.
+- **NEW — Isaac TeSlaa** — Isaac TeSlaa - Goes for 66 yards in Week 3 win (2026-09-30T01:25:38Z)
+  - Detroit's third receiver, TeSlaa played 48 percent of the offensive snaps against New York but made the most of his opportunities and ended up leading the team in receiving yards. With Jameson Williams continuing to struggle to get going early in the season, TeSlaa could start earning a couple more looks from Jared Goff. It's still unlikely to be enough to put TeSlaa in the redraft fantasy mix unless one of Williams or Amon-Ra St. Brown misses time with an injury.
+- **NEW — Ryan Flournoy** — Ryan Flournoy - Sees eight targets in Week 3 (2026-09-30T01:16:37Z)
+  - Flournoy logged 66 percent of the offensive snaps against Baltimore, and his eight targets were good for second on the team and a respectable 20 percent share. He obviously was unable to do much with them against a stingy Ravens secondary. Flournoy has a valuable role as the third receiver in a Dallas offense that likes to use plenty of 11 personnel, but he'd likely need an injury to CeeDee Lamb or George Pickens to become anything more than a bench stash in fantasy.
+- **NEW — Jerry Jeudy** — Jerry Jeudy - Doesn't draw any targets in Week 3 win (2026-09-30T00:32:30Z)
+  - It was the second straight week that Jeudy didn't log a reception, and this time he didn't even get a target (he logged just one in Week 2 versus Tampa Bay). The veteran wideout continues to be on the field fairly often -- he's recorded an offensive snap share of over 50 percent in each of the Browns' three contests, including Sunday, when he played 51 percent of the team's offensive snaps. However, he doesn't seem to be clicking well with QB Deshaun Watson, and at this point fantasy managers have little reason to include him in their lineups.
+- **NEW — Keon Coleman** — Keon Coleman - One big catch in Week 3 win (2026-09-30T00:05:01Z)
+  - Coleman's practice reps during Week 3 prep were limited by an ankle injury that he sustained in Buffalo's Week 2 win over Detroit. He was cleared to play against the Chargers and ended up playing 32 of 66 offensive snaps (48.5 percent), third most among Bills wide receivers behind Khalil Shakir (48) and DJ Moore (42). Coleman was responsible for the Bills' longest play of the game late in the second quarter, when he hauled in a 37-yard pass from Josh Allen that led to a one-yard touchdown run by the superstar QB on the next play. Coleman is capable of making big plays in any given game, but it's hard to rely on him for consistent production when he's competing against Moore, Shakir, tight end Dalton Kincaid and running back James Cook for targets from Allen, with Ty Johnson and Joshua Palmer also in the mix. The Bills wrap up their three-game homestand this Sunday in an AFC East showdown against the Patriots, whose defense gave up 35 points (including three passing touchdowns) to the Jaguars in a Week 3 loss.
+- **NEW — Kaelon Black** — Kaelon Black - Sees workload dip vs. Arizona (2026-09-29T23:49:01Z)
+  - Black accumulated 95 scrimmage yards on 22 touches through the first two games of the regular season and was a regular rotational piece in the offense behind Christian McCaffrey. However, Black observed most of Sunday's game from the sidelines, seeing the field for only eight of the 49ers' 54 offensive snaps (14.8 percent) compared to McCaffrey's 45 snaps. Keeping McCaffrey healthy is a top priority for the 49ers, so Black figures to see more playing time moving forward in order to preserve the former's workload. The 49ers will remain home for Week 4 to host the Broncos this Sunday.
+- **NEW — Rico Dowdle** — Rico Dowdle - Remains listed as 'DNP' (2026-09-29T23:28:15Z)
+  - The Steelers held a walkthrough for the second time in as many days, and as was the case Monday Dowdle was unable to get any work in. He was at least present Tuesday after not being spotted during the media-viewing portion the day before, but he will presumably have to practice in at least some capacity Wednesday in order to have any chance to suit up for Pittsburgh's Week 4 matchup with Cleveland on Thursday.
+- **NEW — Jaylen Waddle** — Jaylen Waddle - Considered 'fine' after sporting boot (2026-09-29T23:10:03Z)
+  - Concern was raised about Waddle's status after he was spotted -- per Jon Heath of Broncos Wire -- with a boot on his foot Sunday night, but Jane's report indicates Waddle is not dealing with any sort of serious setback. More will be known about Waddle's status either at the start of or after Denver's Wednesday practice session.
+- **Dontayvion Wicks** — Dontayvion Wicks - Held quiet in Week 3 loss (2026-09-29T22:56:47Z)
   - Though he didn't find paydirt, Wicks played a critical role on the Eagles' lone scoring drive on the night late in the second quarter, leading off the possession with a 13-yard catch and run. He was otherwise held in check while the game was still competitive, with his lone other reception coming with 6:30 remaining, when the Bears had built a 20-point lead. Through his first three games with Philadelphia, Wicks has produced a 9-179-1 receiving line on 15 targets.
-- **NEW — Makai Lemon** — Makai Lemon - Notches three receptions in loss (2026-09-29T22:52:09Z)
+- **Makai Lemon** — Makai Lemon - Notches three receptions in loss (2026-09-29T22:52:09Z)
   - After taking the field for north of 60 percent of the snaps in both of the Eagles' first two contests, Lemon wasn't a major beneficiary of the absence of tight end Dallas Goedert (knee). Even though the Eagles leaned more heavily on three-wide formations, Lemon saw only a slight uptick in playing time Monday, logging 35 of 50 snaps (70 percent). The rookie first-round pick appears to be little more than a tertiary option in the passing game at this stage of his career, as he's thus far been held to seven catches for 38 yards on nine targets through his first three NFL games.
-- **NEW — Pat Bryant** — Pat Bryant - Finds paydirt in Week 3 win (2026-09-29T22:47:23Z)
+- **Pat Bryant** — Pat Bryant - Finds paydirt in Week 3 win (2026-09-29T22:47:23Z)
   - Bryant reached the end zone for the first time this season with 7:44 left in the third quarter, connecting with quarterback Bo Nix on a five-yard catch. The second-year wideout has seen his snap share gradually climb through the first three weeks, topping out at 70 percent in Week 3. The Broncos have been without Marvin Mims (foot) for the past two games, however, so Bryant could see a slight downturn in playing time once the Denver receiving corps is at full strength.
-- **NEW — Jack Bech** — Jack Bech - Heads to IR (2026-09-29T22:27:18Z)
+- **Jack Bech** — Jack Bech - Heads to IR (2026-09-29T22:27:18Z)
   - Bech will be sidelined for at least the Raiders' next four games after sustaining a fractured left forearm during Sunday's 35-27 win over the Saints. In a corresponding move, the Raiders signed Cody White off their practice squad. White could be the leading candidate to replace Bech as the Raiders' No. 3 wideout behind Tre Tucker and Jalen Nailor.
-- **NEW — Pat Freiermuth** — Pat Freiermuth - Held to two catches in Week 3 (2026-09-29T20:57:44Z)
+- **Pat Freiermuth** — Pat Freiermuth - Held to two catches in Week 3 (2026-09-29T20:57:44Z)
   - Freiermuth took the field for 37 of the Steelers' 62 offensive snaps, with his 60 percent share placing him slightly behind fellow tight end Darnell Washington (47 snaps, 76 percent). The Steelers should continue to make ample use of two-tight-end sets to keep Freiermuth involved in their game plans, but since he doesn't project to see heavy target volume week to week, he'll remain a largely touchdown-dependent fantasy option.
-- **NEW — Rico Dowdle** — Rico Dowdle - Spectator for Tuesday's practice (2026-09-29T20:38:01Z)
+- **Rico Dowdle** — Rico Dowdle - Spectator for Tuesday's practice (2026-09-29T20:38:01Z)
   - After sitting out Sunday's win over the Bengals due to a right toe injury, Dowdle will go down as a non-participant on the Steelers' first two Week 4 practice report. Unless he's able to fit in some on-field work during Wednesday's session, Dowdle will likely be ruled out ahead of Thursday's game in Cleveland. Dowdle's potential absence for a second straight game would set up Jaylen Warren for another heavy workload out of the backfield, after Warren handled 20 touches in Week 3.
-- **NEW — Chris Godwin** — Chris Godwin - Another muted performance (2026-09-29T19:33:24Z)
+- **NEW — Tory Horton** — Tory Horton a Big-Play Receiver Worth Stashing in Deep Leagues (2026-09-29T20:12:09Z)
+  - Source: https://www.rotoballer.com/player-news/tory-horton-a-big-play-receiver-worth-stashing-in-deep-leagues/1954097
+- **NEW — Jayden Daniels** — Jayden Daniels Officially Traveling to London With Commanders (2026-09-29T19:41:55Z)
+  - Source: https://www.rotoballer.com/player-news/jayden-daniels-officially-traveling-to-london-with-commanders/1954091
+- **Chris Godwin** — Chris Godwin - Another muted performance (2026-09-29T19:33:24Z)
   - Godwin ranked third among Buccaneers wide receivers in snap share (62 percent) behind Ted Hurst (75 percent) and Emeka Egbuka (74 percent) in Week 3, resulting in his least productive performance of the season. On top of that, Godwin hasn't been targeted more than four times in a game so far on the campaign. With undrafted rookie Jalon Daniels set to take over Tampa Bay's offense for at least a few contests in the wake of Baker Mayfield's dislocated right thumb, Godwin doesn't have an ideal situation in which to build momentum from week to week.
-- **NEW — Jadarian Price** — Seahawks Still Believe in Jadarian Price (2026-09-29T17:59:09Z)
+- **NEW — Jaylen Waddle** — Jaylen Waddle is "Fine" Going into Week 4 (2026-09-29T19:25:16Z)
+  - Source: https://www.rotoballer.com/player-news/jaylen-waddle-is-fine-going-into-week-4/1954086
+- **NEW — Demond Claiborne** — Demond Claiborne a Short-Term Handcuff Option in Deep Leagues (2026-09-29T18:55:09Z)
+  - Source: https://www.rotoballer.com/player-news/demond-claiborne-a-short-term-handcuff-option-in-deep-leagues/1954058
+- **Jadarian Price** — Seahawks Still Believe in Jadarian Price (2026-09-29T17:59:09Z)
   - Source: https://www.rotoballer.com/player-news/seahawks-still-believe-in-jadarian-price/1954020
-- **NEW — Brian Thomas** — Brian Thomas Jr. Now the Jaguars' No. 4 Receiver? (2026-09-29T17:25:13Z)
+- **Brian Thomas** — Brian Thomas Jr. Now the Jaguars' No. 4 Receiver? (2026-09-29T17:25:13Z)
   - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-now-the-jaguars-no-4-receiver/1953987
-- **NEW — Rico Dowdle** — Rico Dowdle a Non-Participant Again on Tuesday (2026-09-29T17:13:15Z)
+- **Rico Dowdle** — Rico Dowdle a Non-Participant Again on Tuesday (2026-09-29T17:13:15Z)
   - Source: https://www.rotoballer.com/player-news/rico-dowdle-a-non-participant-again-on-tuesday/1953974
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks Remains a Must-Add Wide Receiver Despite Quiet Week 3 (2026-09-29T16:57:53Z)
+- **Dontayvion Wicks** — Dontayvion Wicks Remains a Must-Add Wide Receiver Despite Quiet Week 3 (2026-09-29T16:57:53Z)
   - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-remains-a-must-add-wide-receiver-despite-quiet-week-3/1953965
-- **NEW — Kirk Cousins** — Kirk Cousins Emerging as a Must-Roster Quarterback in Two-QB Leagues (2026-09-29T16:25:10Z)
+- **Kirk Cousins** — Kirk Cousins Emerging as a Must-Roster Quarterback in Two-QB Leagues (2026-09-29T16:25:10Z)
   - Source: https://www.rotoballer.com/player-news/kirk-cousins-emerging-as-a-must-roster-quarterback-in-two-qb-leagues/1953951
-- **NEW — Tank Bigsby** — Tank Bigsby Remains a High-End Handcuff RB Despite Rough Week 3 (2026-09-29T16:19:09Z)
+- **Tank Bigsby** — Tank Bigsby Remains a High-End Handcuff RB Despite Rough Week 3 (2026-09-29T16:19:09Z)
   - Source: https://www.rotoballer.com/player-news/tank-bigsby-remains-a-high-end-handcuff-running-back-despite-rough-week-3/1953936
 - **Zach Charbonnet** — Zach Charbonnet (knee) uncertain on practicing this week (2026-09-29T16:15:04.859000Z)
   - They are still deciding on whether Charbonnet will have his practice window opened this week. He can have it opened at any time. 
   - Source: https://www.fantasypros.com/nfl/news/611418/zach-charbonnet-knee-uncertain-on-practicing-this-week.php
-- **NEW — Aaron Rodgers** — Aaron Rodgers a Must-Add in Two-QB Formats Entering Week 4 (2026-09-29T16:11:09Z)
+- **Aaron Rodgers** — Aaron Rodgers a Must-Add in Two-QB Formats Entering Week 4 (2026-09-29T16:11:09Z)
   - Source: https://www.rotoballer.com/player-news/aaron-rodgers-a-must-add-in-two-qb-formats-entering-week-4/1953925
 - **Jayden Daniels** — Jayden Daniels - Could need surgery after season (2026-09-29T16:03:35Z)
   - Daniels has dislocated the elbow three times in less than a year, with his most recent aggravation of the injury occurring in the Commanders' Sept. 20 loss to the Cowboys. Surgery could provide a more permanent fix for the elbow, but for the time being, Daniels will rehab the injury and wear a brace for added protection when he eventually returns. After Daniels sat out the Commanders' Week 3 win over the Seahawks, head coach Dan Quinn said Monday that the quarterback would travel with the team to London this week and resume practicing in some capacity. The Commanders haven't ruled Daniels out from playing Sunday against the Colts, but he may need to put in at least one full practice in order to have a chance at reclaiming the starting role from Marcus Mariota, who performed well in his stead in Week 3.
-- **NEW — Ryan Flournoy** — Ryan Flournoy's Target Volume Keeps Him Interesting (2026-09-29T15:35:14Z)
+- **Ryan Flournoy** — Ryan Flournoy's Target Volume Keeps Him Interesting (2026-09-29T15:35:14Z)
   - Source: https://www.rotoballer.com/player-news/ryan-flournoys-target-volume-keeps-him-interesting/1953910
-- **NEW — Rashod Bateman** — Rashod Bateman Better Suited to Deeper Leagues (2026-09-29T15:23:12Z)
+- **Rashod Bateman** — Rashod Bateman Better Suited to Deeper Leagues (2026-09-29T15:23:12Z)
   - Source: https://www.rotoballer.com/player-news/rashod-bateman-better-suited-to-deeper-leagues/1953900
 - **Xavier Hutchinson** — Xavier Hutchinson Has Short-Term Waiver Appeal (2026-09-29T15:13:16Z)
   - Source: https://www.rotoballer.com/player-news/xavier-hutchinson-has-short-term-waiver-appeal/1953894
@@ -189,39 +221,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Ferguson was able to reach the end zone for the second straight week, connecting with quarterback Dak Prescott for a 19-yard score in the third quarter. The tight end did have a mishap early in the fourth quarter, losing a fumble after reeling in a short pass from Prescott. Ferguson has now caught nine of 11 targets for 72 yards and three touchdowns over three contests this season, and he'll face a tough test against the Texans dominant defense in Week 4.
 - **Daniel Jones** — Daniel Jones on the Streaming Radar for Week 4 (2026-09-29T00:20:28Z)
   - Source: https://www.rotoballer.com/player-news/daniel-jones-on-the-streaming-radar-for-week-4/1953393
-- **Romeo Doubs** — Romeo Doubs - Logs three catches in Week 3 loss (2026-09-29T00:18:15Z)
-  - Doubs finished second on the Patriots in both catches and receiving yards to Mack Hollins, the latter of whom finished with a 6-87-0 receiving line on nine targets. Doubs and Hollins will continue to operate as Drake Maye's top targets in the absence of A.J. Brown (ankle), who will miss at least the next two weeks while on injured reserve. Doubs will take a 6-145-0 receiving line on 11 targets into a Week 4 road matchup against Buffalo.
-- **Stefon Diggs** — Stefon Diggs - Four snags in victory (2026-09-29T00:14:43Z)
-  - Diggs finished second on the team in targets behind fellow wideout Terry McLaurin, but he was unable to make it three straight games with a touchdown. Diggs has now recorded at least four receptions in each of his first three contests as a member of the Commanders, reeling in 13 of 22 targets for 135 yards and three scores. Backup quarterback Marcus Mariota proved to be a viable starter in Week 3 with Jayden Daniels (elbow) unavailable, so fantasy managers don't have to worry about Diggs moving forward.
-- **Hunter Henry** — Hunter Henry - Only one catch in blowout loss (2026-09-29T00:09:29Z)
-  - The Patriots offense struggled as a whole Sunday, with Drake Maye completing 14 of 25 passes (8.0 YPC) for 199 yards and two interceptions. Even with A.J. Brown (ankle, IR) sidelined for the last two weeks, Henry has logged just four catches for 45 yards on seven targets, and he's well behind pace to match his 60-768-7 receiving line (on 87 targets) across 17 regular-season games in 2025. Up next is a Week 4 road tilt against the Bills, whose defense held Chargers tight end Oronde Gadsden catchless on three targets in a Week 3 win for Buffalo.
-- **Quentin Johnston** — Quentin Johnston - Three catches in loss (2026-09-29T00:07:18Z)
-  - Johnston finished second on the team in targets, and his 40 receiving yards were nearly double his previous season total of 24 yards. He and the rest of the Chargers' offense have yet to find their stride in 2026, making him hard to trust as a fantasy asset. The wide receiver will look to get back on track in a tough matchup in Week 4 against the Seahawks.
-- **Jalen McMillan** — Jalen McMillan - MRI reveals PCL sprain (2026-09-29T00:03:07Z)
-  - McMillan originally suffered a knee injury during training camp in early August, and this is believed to be an aggravation of that issue. The 24-year-old didn't play Week 1, logged just seven offensive snaps Week 2 and then lasted just two offensive snaps this past Sunday versus Minnesota before exiting due to the injury. Per Laine, the "early thinking" on McMillan's timeline suggests a 6-to-8 week absence, which makes him a candidate for IR. All of Ted Hurst, Tez Johnson and Kameron Johnson could be slated for larger roles with McMillan expected to be out for the foreseeable future.
-- **Chris Rodriguez** — Chris Rodriguez - Finds end zone in blowout win vs. NE (2026-09-29T00:01:35Z)
-  - Rodriguez made his way to the end zone for the first time this season on a five-yard rushing touchdown late in the third quarter to extend the Jaguars' lead to 28-3. The 2023 sixth-rounder played only 13 of 62 offensive snaps (21.0 percent), well behind Bhayshul Tuten (30) and just ahead of LeQuint Allen (eight). Rodriguez has 20 carries for 73 yards (3.7 YPC) and a score through three regular-season games, and he'll continue to operate as the backup option out of the backfield behind Tuten. The Jaguars hit the road for a Week 4 tilt against the Bengals.
-- **Kenny Gainwell** — Kenny Gainwell - Struggles as rusher in Week 3 loss (2026-09-28T23:50:16Z)
-  - Gainwell is now averaging just 2.1 yards per carry through the first three games of the regular season. He was utilized heavily as a pass catcher with the Steelers in 2025, but so far he has only six receptions (on 10 targets) for 22 yards. His 32 snaps on offense was slightly fewer than Bucky Irving (36), but the scoring floor of Gainwell and the rest of the Buccaneers' skill players will likely be lower for at least the next three weeks without Baker Mayfield (thumb) at the helm. Undrafted free agent Jalon Daniels will be the Bucs' QB1 in Mayfield's absence, starting with a Week 4 home tilt against the Packers this Sunday.
-- **Zay Flowers** — Zay Flowers - Slated for full workload Week 4 (2026-09-28T23:45:13Z)
-  - Flowers had his workload limited during Sunday's 34-31 win against the Cowboys in Brazil. Despite playing only 21 snaps on offense, the fourth-year wide receiver finished with five catches on six targets for 84 yards to lead the Ravens pass catchers in all three categories. Flowers will be Lamar Jackson's favorite target heading into Week 4 against a Titans defense that ranks eighth in the league in passing yards allowed per game (189.0).
-- **C.J. Stroud** — C.J. Stroud Worth Adding With Top Wideout Nearing a Return (2026-09-28T23:43:06Z)
-  - Source: https://www.rotoballer.com/player-news/c-j-stroud-worth-adding-with-top-wideout-nearing-a-return/1953373
-- **Jalen McMillan** — Jalen McMillan (knee) to seek second opinion  (2026-09-28T23:35:10.081000Z)
-  - McMillan suffered the initial injury in camp to his left knee. It appears he will miss an extended period of time. There should be an update on his status later in the week. 
-  - Source: https://www.fantasypros.com/nfl/news/611371/jalen-mcmillan-knee-to-seek-second-opinion.php
-- **Rachaad White** — Rachaad White's Efficiency Could Lead to Bigger Role in Washington (2026-09-28T23:31:40Z)
-  - Source: https://www.rotoballer.com/player-news/rachaad-whites-efficiency-could-lead-to-bigger-role-in-washington/1953370
-- **Rico Dowdle** — Rico Dowdle (toe) listed as 'DNP' on Monday's estimated practice report (2026-09-28T23:25:09.474000Z)
-  - Dowdle was sidelined this past week. He is likely to remain sidelined for the Steelers on a short week against the Browns. Jaylen Warren would remain the clear lead back for Pittsburgh. 
-  - Source: https://www.fantasypros.com/nfl/news/611370/rico-dowdle-toe-listed-dnp-on-mondays-estimated-practice-report.php
-- **Jalen McMillan** — Jalen McMillan - Injury is aggravation of previous issue (2026-09-28T23:19:04Z)
-  - McMillan departed Sunday's Week 3 loss to Minnesota after logging just two offensive snaps. He underwent an MRI on Monday, the results of which reportedly indicated that the wideout is dealing with an aggravation of the issue he picked up during camp in early August rather than a new injury. However, it's not yet clear how serious McMillan's injury is or how  much more time, if any, he's slated to potentially miss. The Buccaneers' practice reports throughout this week should provide more clarity about McMillan's likelihood of suiting up Sunday versus Green Bay.
-- **Tyson Bagent** — Tyson Bagent (concussion) active for Week 3 (2026-09-28T23:15:09.336000Z)
-  - Bagent will suit up after clearing through concussion protocol at the end of last week, likely backing up veteran signal-caller Case Keenum against the Eagles for head coach Ben Johnson Monday night.
-  - Source: https://www.fantasypros.com/nfl/news/611365/tyson-bagent-concussion-active-week-3.php
-- **Terrance Ferguson** — Terrance Ferguson (ankle) to likely miss Week 4 (2026-09-28T23:15:09.325000Z)
-  - Ferguson left Sunday's game against the Broncos. He did return, but then left again after making one catch. With Colby Parkinson also banged up, Tyler Higbee could be in line for a bigger role. 
-  - Source: https://www.fantasypros.com/nfl/news/611366/terrance-ferguson-ankle-to-likely-miss-week-4.php
-- **Terrance Ferguson** — Terrance Ferguson - Likely out for Week 4 (2026-09-28T23:02:00Z)
-  - Ferguson missed a portion of Sunday's loss at Denver to get X-rays on an ankle injury, and while he was cleared to return, he finished fourth among Rams tight ends in offensive snaps (22 of 86) behind Tyler Higbee (61), Colby Parkinson (37) and Davis Allen (31). Through three games this season, Ferguson had a 6-54-1 line on nine targets in Week 2 versus the Giants and one catch (on three targets) for nine yards in the other two contests. Now that he's slated to miss some time, the aforementioned trio likely will handle the bulk of the TE workload for L.A., though rookie Max Klare might finally see his first offensive plays.
