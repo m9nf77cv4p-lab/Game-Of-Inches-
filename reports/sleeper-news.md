@@ -2,37 +2,187 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **5393**
-- Newly captured: **13**
+- Stored stories: **5434**
+- Newly captured: **67**
 
 ## Latest news
 
-- **NEW — Jalen McMillan** — Jalen McMillan - Lands on IR (2026-09-30T14:34:49Z)
+- **NEW — Mike Evans** — Mike Evans (rib) won't practice Wednesday (2026-09-30T19:55:20.632000Z)
+  - Evans suffered a rib injury in Week 3 and is going to be sidelined at Wednesday's practice as a result. The team is reportedly hopeful that he will be able to practice later on in the week, so fantasy managers should keep close tabs on updates about his health throughout the rest of the week.
+  - Source: https://www.fantasypros.com/nfl/news/611572/mike-evans-rib-wont-practice-wednesday.php
+- **NEW — Mike Evans** — Mike Evans - No practice Wednesday (2026-09-30T19:52:51Z)
+  - Evans was laboring after tacking a big hit from Cardinals safety Budda Baker in the second quarter of this past Sunday's win against Arizona, eventually being ruled out due to a rib injury. Afterward, Evans was diagnosed with a strained rib, but Shanahan also relayed to Vic Tafur of The Athletic on Wednesday that the wide receiver "may" practice later this week. Logging some on-field work Thursday and/or Friday seemingly will give Evans as chance to play Week 4 against the Broncos, but his upcoming availability remains up in the air.
+- **NEW — Lamar Jackson** — Lamar Jackson - Nursing minor injury (2026-09-30T19:41:09Z)
+  - Jackson wasn't known to be nursing an injury during or coming out of this past Sunday's 34-31 win over the Cowboys in Brazil, as he played every snap in the contest while accounting for two touchdowns, 186 passing yards and 50 rushing yards in the victory. The Ravens will post their first Week 4 injury report later Wednesday, when the nature of Jackson's health concern will be revealed. Given Minter's comments, whatever issue Jackson is dealing with isn't expected to keep him from playing Sunday versus the Titans.
+- **NEW — Lamar Jackson** — Lamar Jackson limited at practice Wednesday (2026-09-30T19:35:20.347000Z)
+  - It initially looked like Jackson was going to be a non-participant at practice on Wednesday, but he turned out to be limited, according to HC Jesse Minter. It's still unclear what injury he's dealing with, but fantasy managers should continue to monitor his status throughout the week.
+  - Source: https://www.fantasypros.com/nfl/news/611571/lamar-jackson-limited-practice-wednesday.php
+- **NEW — Caleb Williams** — Caleb Williams - Missing Wednesday's walkthrough (2026-09-30T19:23:25Z)
+  - Williams exited a Week 2 loss to the Vikings in the fourth quarter due to a hamstring injury. He was considered week-to-week by Johnson afterward and then didn't practice at all before being ruled out for Monday's game against the Eagles. On Sunday, Adam Schefter and Ian Rapoport of ESPN reported that Williams was diagnosed with a Grade 2 right hamstring strain, which is considered to be a 3-to-4-week injury. Johnson told Chris Emma of 670TheScore.com on Wednesday that "the direction has already been made" as it pertains to a Week 4 starting QB this Sunday versus the Jets, but who that may be between Case Keenum and Tyson Bagent isn't known.
+- **NEW — Caleb Williams** — Caleb Williams (hamstring) not practicing Wednesday (2026-09-30T19:15:20.145000Z)
+  - The young quarterback reportedly is progressing well with his recovery, but he's not going to be at the team's walkthrough on Wednesday, which indicates that the team is preparing for him to be sidelined another week. It remains to be seen if they would prefer to start Tyson Bagent or Case Keenum in his absence.
+  - Source: https://www.fantasypros.com/nfl/news/611564/caleb-williams-hamstring-not-practicing-wednesday.php
+- **NEW — Rico Dowdle** — Rico Dowdle - Ruled out for Week 4 (2026-09-30T19:05:53Z)
+  - Dowdle will miss a second straight game after he was unable to practice in any fashion on a short week. With Dowdle out of the mix again, Jaylen Warren looks primed to handle a workhorse role out of the Pittsburgh backfield, after he logged 56 of 62 snaps and handled 20 touches (17 carries, three receptions) for 176 yards in a 30-27 win over the Bengals last week.
+- **NEW — Darren Waller** — Darren Waller (rest) absent from practice Wednesday (2026-09-30T19:05:20.146000Z)
+  - As usual, Waller was given Wednesday off as a veteran rest day. He should be back at practice on Thursday and projects to be a full go for Week 4, assuming he suffers no injuries throughout the week.
+  - Source: https://www.fantasypros.com/nfl/news/611557/darren-waller-rest-absent-from-practice-wednesday.php
+- **NEW — Chuba Hubbard** — Chuba Hubbard (rest) doesn't practice Wednesday (2026-09-30T19:05:20.135000Z)
+  - Carolina is making some efforts to limit Hubbard's workload, giving him the day off on Wednesday to recover from any bumps and bruises that he has sustained through the first few weeks of the season. He should be back at practice on Thursday and is expected to be a full go for Sunday night's matchup against the Lions.
+  - Source: https://www.fantasypros.com/nfl/news/611559/chuba-hubbard-rest-doesnt-practice-wednesday.php
+- **NEW — Bryce Young** — Bryce Young (knee) logs full practice Wednesday (2026-09-30T19:05:20.121000Z)
+  - Young was dealing with a minor knee issue of some kind in Week 3, but he seems to be over it already, as he was able to practice in full at the team's first practice of the week on Wednesday. He should be good to go for Week 4, but his fantasy value will largely depend on the health of his receiving core this week, namely Jalen Coker (quad) and Xavier Legette (knee) against Detroit.
+  - Source: https://www.fantasypros.com/nfl/news/611560/bryce-young-knee-logs-full-practice-wednesday.php
+- **NEW — Rico Dowdle** — Rico Dowdle (toe) ruled out for Thursday (2026-09-30T19:05:20.109000Z)
+  - The veteran running back is going to be sidelined for a second-straight game on Thursday night. He's still dealing with a toe injury and was not able to take part in any of Pittsburgh's practice this week. He could miss more time beyond this game, and Jaylen Warren will continue to serve as the team's clear-cut RB1 in Dowdle's absence.
+  - Source: https://www.fantasypros.com/nfl/news/611561/rico-dowdle-toe-ruled-out-thursday.php
+- **NEW — Bryce Young** — Bryce Young - Opens week with full practice (2026-09-30T18:56:03Z)
+  - Young played every snap in this past Sunday's 21-18 loss to the Browns, but he made a visit to the blue medical tent on the Carolina sideline at one point during the contest to get his knee checked out. The knee issue evidently isn't a concern heading into Week 4, when Young and the Panthers will be preparing to face off against a Lions defense that has surrendered an NFL-high 299.3 passing yards per game through three contests. Young will profile as a strong fantasy option this week, even while the status of one of his top pass-catching weapons in wideout Jalen Coker (quadriceps) remains somewhat murky.
+- **NEW — Jalen Coker** — Jalen Coker - Goes down as non-participant Wednesday (2026-09-30T18:50:49Z)
+  - Carolina held a walk-through session for its first Week 4 practice, and though Coker was in attendance for the workout, he looked to be rehabbing off to the side, per Joe Person of The Athletic. Coker had previously appeared on injury reports in Weeks 2 and 3 due to an ankle injury, but he's now tending to a minor quad strain, which knocked him out of this past Sunday's 21-18 loss to the Browns. Per Alex Zietlow of The Charlotte Observer, head coach Dave Canales said he's viewing Coker as day-to-day, so the wideout should have a decent chance at suiting up this Sunday versus the Lions so long as he can practice in some capacity Thursday and/or Friday.
+- **NEW — Jalen Coker** — Jalen Coker (quad) doesn't practice Wednesday (2026-09-30T18:50:20.614000Z)
+  - Coker suffered a quad injury during Week 3's loss to the Browns and was not able to finish out the game. He starts the week as a non-participant at practice on Wednesday, and it remains unclear how likely he is to suit up for the Panthers in Week 4. Xavier Legette (knee) was also not able to participate, so if one or both of those guys are out this week, QB Bryce Young will have tougher time than usual against the Lions this week.
+  - Source: https://www.fantasypros.com/nfl/news/611554/jalen-coker-quad-doesnt-practice-wednesday.php
+- **NEW — Josh Allen** — Josh Allen - Practicing without issue Wednesday (2026-09-30T18:44:37Z)
+  - Allen played every snap in this past Sunday's 24-16 win over the Chargers, but he appeared to take a hard hit to his left knee at one point during the fourth quarter of the contest and looked to be in pain. Head coach Joe Brady spoke to the media Monday and downplayed any concern about Allen's availability heading into this Sunday's matchup with the Patriots, and the quarterback's presence on the field for the start of Week 4 prep supports the notion that he'll be ready to go for game day. Jay Skurski of The Buffalo News noted that Allen had no noticeable protection on his knee during individual drills Wednesday and seemed to be moving around without issue.
+- **NEW — Justin Jefferson** — Justin Jefferson - Not practicing, day-to-day (2026-09-30T18:33:27Z)
+  - Jefferson sprained his left ankle in the second quarter of the Vikings' Week 3 win over the Buccaneers, with the injury sidelining him for the entire second half. Though follow-up imaging on his ankle came back clean, Jefferson's status for Sunday's game against the Dolphins remains uncertain. He may need to get back on the practice field in some capacity by Friday in order for the Vikings and fantasy managers to feel good about his chances of suiting up this weekend.
+- **NEW — Nico Collins** — Nico Collins - Practicing Wednesday (2026-09-30T17:58:29Z)
+  - After Collins sat out Week 2 and Week 3 due to a strained hamstring, coach Demeco Ryans said Monday that the Texans were "hopeful" the wide receiver will be available this coming Sunday versus the Cowboys, per Aaron Wilson of KPRC 2 Houston. Getting back on the practice field Wednesday is a step in the right direction for Collins, but how he progresses the rest of the week will determine whether or not he's able to suit up Week 4.
+- **NEW — Zay Flowers** — Zay Flowers (hamstring) practices Wednesday  (2026-09-30T17:55:19.750000Z)
+  - Flowers returned from a hamstring injury last week. It appears he didn't suffer any setbacks in his return. 
+  - Source: https://www.fantasypros.com/nfl/news/611553/zay-flowers-hamstring-practices-wednesday.php
+- **NEW — Lamar Jackson** — Lamar Jackson not practicing Wednesday  (2026-09-30T17:55:19.476000Z)
+  - It is unclear what the reason why is. Jackson's status will need to be monitored when the injury report is released. 
+  - Source: https://www.fantasypros.com/nfl/news/611550/lamar-jackson-not-practicing-wednesday.php
+- **NEW — Tony Pollard** — Tony Pollard will not practice Wednesday  (2026-09-30T17:45:19.602000Z)
+  - Pollard and Tyjae Spears will both be sidelined from practice to begin the week. They'll need to be monitored in practice on Thursday ahead of Week 4 against the Ravens. 
+  - Source: https://www.fantasypros.com/nfl/news/611547/tony-pollard-will-not-practice-wednesday.php
+- **NEW — Tyjae Spears** — Tyjae Spears not practicing Wednesday  (2026-09-30T17:45:19.586000Z)
+  - Spears and Tony Pollard will both be sidelined from practice to begin the week. They'll need to be monitored in practice on Thursday ahead of Week 4 against the Ravens. 
+  - Source: https://www.fantasypros.com/nfl/news/611548/tyjae-spears-not-practicing-wednesday.php
+- **NEW — Kenyon Sadiq** — Kenyon Sadiq to be limited in practice Wednesday  (2026-09-30T17:45:19.573000Z)
+  - Sadiq is coming off a career best performance this past week. He should remain in a bigger role if Adonai Mitchell (finger) misses another game. 
+  - Source: https://www.fantasypros.com/nfl/news/611549/kenyon-sadiq-to-be-limited-practice-wednesday.php
+- **NEW — Adonai Mitchell** — Adonai Mitchell (finger) not practicing Wednesday  (2026-09-30T17:35:19.666000Z)
+  - Jets head coach Aaron Glenn said Mitchell is considered week-to-week. He is likely to sit this Sunday. 
+  - Source: https://www.fantasypros.com/nfl/news/611544/adonai-mitchell-finger-not-practicing-wednesday.php
+- **NEW — Jalen Coker** — Jalen Coker - Working on side field Wednesday (2026-09-30T17:31:19Z)
+  - Coker has been no stranger to injuries this season, dealing with an ankle issue during Week 2 and Week 3 prep before being ruled out in the middle of this past Sunday's loss at Cleveland due to a quad concern. Officially, he's tending to a minor quadriceps strain but has a chance to be available Week 4 against the Lions, per Ian Rapoport of NFL Network. Wednesday's practice report will reveal how much activity, if any, Coker was able to handle.
+- **NEW — Breece Hall** — Breece Hall (quad) not practicing Wednesday  (2026-09-30T17:25:19.380000Z)
+  - Jets head coach Aaron Glenn said Hall is considered week-to-week. He is likely to sit this Sunday. 
+  - Source: https://www.fantasypros.com/nfl/news/611543/breece-hall-quad-not-practicing-wednesday.php
+- **NEW — Caleb Douglas** — Caleb Douglas (ankle) misses practice Wednesday  (2026-09-30T17:05:19.435000Z)
+  - Douglas did not play last week and he seems likely to miss another game. Malik Washington and Chris Bell would continue to see more run. 
+  - Source: https://www.fantasypros.com/nfl/news/611538/caleb-douglas-ankle-misses-practice-wednesday.php
+- **NEW — Jaylen Wright** — Jaylen Wright (foot) limited in practice Wednesday  (2026-09-30T17:05:19.413000Z)
+  - Wright was sidelined last week. When he is healthy, he'll figure to step into a committee with Ollie Gordon with De'Von Achane (knee) out for the season. 
+  - Source: https://www.fantasypros.com/nfl/news/611539/jaylen-wright-foot-limited-practice-wednesday.php
+- **NEW — Jayden Daniels** — Jayden Daniels (elbow) to be limited in practice Wednesday  (2026-09-30T17:00:19.657000Z)
+  - Daniels will practice in some fashion this week. He remains unlikely to return this Sunday. 
+  - Source: https://www.fantasypros.com/nfl/news/611534/jayden-daniels-elbow-to-be-limited-practice-wednesday.php
+- **NEW — Rachaad White** — Rachaad White receiving treatment for shoulder injury (2026-09-30T17:00:19.646000Z)
+  - It is unclear if it will impact the status of White heading into Week 4. Jacory Croskey-Merritt could see more work with Austin Ekeler still uncertain to make his Commanders debut. 
+  - Source: https://www.fantasypros.com/nfl/news/611535/rachaad-white-receiving-treatment-shoulder-injury.php
+- **NEW — Skyy Moore** — Skyy Moore - Elevated to WR3 role with Reed done (2026-09-30T16:58:17Z)
+  - With Reed out last Thursday night against the Falcons, Moore played 34 of 66 offensive snaps and ran 27 routes on Jordan Love's 55 dropbacks. Moore caught three of seven targets for 31 yards. He's expected to fight for scraps behind all three of Matthew Golden, Christian Watson and Tucker Kraft in the pecking order for targets.
+- **NEW — Caleb Douglas** — Caleb Douglas - Misses practice Wednesday (2026-09-30T16:56:45Z)
+  - Hafley labeled Douglas as day-to-day when he spoke to the media Monday, but the rookie wideout apparently hasn't made enough progress in his recovery from the ankle injury two days later to practice in any fashion. Considering he missed the Dolphins' Week 3 loss to the Chiefs, Douglas will probably need to put in a full practice by Friday in order to approach Sunday's game in Minnesota without a designation.
+- **NEW — Jaylen Wright** — Jaylen Wright - Taking part in practice Wednesday (2026-09-30T16:49:21Z)
+  - Wright sat out the Dolphins' Week 3 loss to the Chiefs while tending to a foot injury as well as a stinger, but the running back is now being viewed as day-to-day and seemingly has decent odds of making it back in action for Sunday's game against the Vikings. The third-year player earned just three touches over the first two contests of 2026, but with lead back De'Von Achane (knee) out for the season, both Wright and Ollie Gordon should be in store for added opportunities moving forward. Following Achane's early departure in Week 3, Gordon finished the game with 20 touches (17 carries, three catches), but he totaled just 55 yards from scrimmage and a touchdown. Prior to sitting out against the Chiefs, Wright had been working ahead of Gordon, so the former could end up being the Dolphins' preferred option once he gets back to full health.
+- **NEW — Tony Pollard** — Tony Pollard - Won't practice Wednesday (2026-09-30T16:45:33Z)
+  - Coach Robert Saleh said neither Pollard nor Spears will practice Wednesday, but there's no concern about their availability for Sunday's game against Baltimore. Pollard rushed 17 times for 74 yards against the Giants last Sunday and added four catches for 22 yards on four targets. Playing in a bad Tennessee offense, Pollard doesn't have much of a fantasy ceiling.
+- **NEW — Tyjae Spears** — Tyjae Spears - Won't practice Wednesday (2026-09-30T16:41:38Z)
+  - Coach Robert Saleh said there's no concern about Spears' availability for Sunday's game against Baltimore. Spears and Tony Pollard are dealing with ankle injuries and will be listed as DNP on Wednesday, but both are expected to be fine for Week 4. Spears rushed just three times for five yards last Sunday against the Giants and wasn't targeted in the passing game. Pollard handled 21 total opportunities, making Spears nothing more than a bench stash in fantasy.
+- **NEW — Jayden Reed** — Jayden Reed - Needs neck surgery, out for season (2026-09-30T16:39:56Z)
+  - The Packers are expected to formally place Reed on injured reserve later Wednesday to open up a spot on the 53-man roster. According to Tom Silverstein of the Milwaukee Journal Sentinel, LaFleur said that he doesn't believe the neck injury that Reed sustained in the Packers' Week 2 win over the Jets is career-threatening, but it's unclear what sort of timeline the receiver might be facing for his recovery. LaFleur indicated that with Reed lost for the season, Skyy Moore -- who recorded three catches for 31 yards on seven targets in the Week 3 loss to Atlanta -- is the next man up to serve as the Packers' No. 3 wideout behind Christian Watson and Matthew Golden, per Ryan Wood of USA Today.
+- **NEW — Kenyon Sadiq** — Kenyon Sadiq - Limited in Wednesday's practice (2026-09-30T16:37:28Z)
+  - It's unclear if Sadiq suffered an injury last Sunday against Detroit or if this is related to his offseason hernia surgery. Coming off a big Week 3 in which he posted a 7-105-1 receiving line on eight targets versus the Lions, Sadiq is poised for a significant pass-catching role Sunday against the Bears as long as he's healthy.
+- **NEW — Jayden Reed** — Jayden Reed (neck) to undergo season-ending surgery (2026-09-30T16:35:19.058000Z)
+  - This seemed like the direction Reed was trending after he was stretchered off the field against the Jets. The wideout will now take the full season and off-season to get surgery and rehab. The Packers will lean heavily on Matthew Golden and Christian Watson in the passing game, while Skyy Moore has been the main beneficiary of Reed's absence.
+  - Source: https://www.fantasypros.com/nfl/news/611526/jayden-reed-neck-to-undergo-season-ending-surgery.php
+- **NEW — Adonai Mitchell** — Adonai Mitchell - Week-to-week with finger injury (2026-09-30T16:23:16Z)
+  - Mitchell sat out the Jets' 31-24 loss to the Lions in Week 3 due to the finger injury, and his absence to begin Week 4 prep in addition to Glenn classifying him as week-to-week rather than day-to-day suggests that the receiver is trending toward another absence this Sunday versus the Bears. If Mitchell ends up sitting out a second straight game, Isaiah Williams would be in store for another elevated snap count as the Jets' No. 2 wideout behind Garrett Wilson.
+- **NEW — Breece Hall** — Breece Hall - Not practicing, deemed week-to-week (2026-09-30T16:21:04Z)
+  - Though Ian Rapoport of NFL Network reported Monday that an MRI on the quad injury Hall sustained in Sunday's loss to the Lions wasn't as significant as the Jets had feared, the running back appears likely to miss at least one game. Unless Hall is able to fit in some practice activity Thursday or Friday, the Jets will likely officially rule him out ahead of Sunday's contest in Chicago. Hall's expected absence would clear the way for Braelon Allen to serve as the Jets' lead option on the ground, while Isaiah Davis would likely be in store for added work in a change-of-pace role.
+- **NEW — Jayden Reed** — Jayden Reed - Headed for injured reserve (2026-09-30T15:55:57Z)
+  - Reed remains without a clear timeline for a return after sustaining a neck injury in the Packers' Week 2 win over the Jets that resulted in a brief stay in the hospital, but his impending move to IR ensures that he'll remain out for at least Green Bay's next four games. With Reed out indefinitely, second-year player Matthew Golden should be further insulated as the Packers' No. 2 receiver, while the likes of Skyy Moore, Bo Melton and J. Michael Sturdivant should see more involvement in three- and four-wide sets.
+- **NEW — Rico Dowdle** — Rico Dowdle Will Miss Second Straight Game (2026-09-30T15:42:00Z)
+  - Source: https://www.rotoballer.com/player-news/rico-dowdle-will-miss-second-straight-game/1954740
+- **NEW — Bryce Young** — Bryce Young a Full Practice Participant on Wednesday (2026-09-30T15:00:14Z)
+  - Source: https://www.rotoballer.com/player-news/bryce-young-a-full-practice-participant-on-wednesday/1954699
+- **NEW — Drake Maye** — Mike Vrabel Stands Behind Drake Maye (2026-09-30T14:42:05Z)
+  - Source: https://www.rotoballer.com/player-news/mike-vrabel-stands-behind-drake-maye/1954672
+- **Jalen McMillan** — Jalen McMillan - Lands on IR (2026-09-30T14:34:49Z)
   - The move to IR officially rules McMillan out for the Buccaneers' next four games, but the wideout is projected to miss around 6-to-8 weeks after he sustained a PCL sprain of his left knee during Sunday's loss to the Vikings. With McMillan sidelined, rookie third-round pick Ted Hurst should be locked in as the Buccaneers' No. 3 wideout behind Emeka Egbuka and Chris Godwin.
-- **NEW — Jayden Daniels** — Jayden Daniels - To be limited in return to practice (2026-09-30T14:09:05Z)
+- **NEW — Justin Jefferson** — Justin Jefferson Won't Practice on Wednesday (2026-09-30T14:34:14Z)
+  - Source: https://www.rotoballer.com/player-news/justin-jefferson-wont-practice-on-wednesday/1954664
+- **NEW — Nico Collins** — Nico Collins Returns to Practice on Wednesday (2026-09-30T14:14:13Z)
+  - Source: https://www.rotoballer.com/player-news/nico-collins-returns-to-practice-on-wednesday/1954644
+- **Jayden Daniels** — Jayden Daniels - Limited in return to practice (2026-09-30T14:09:05Z)
   - After arriving in London ahead of Sunday's game against the Colts, the Commanders are holding more of a jog-through session Wednesday, but Quinn noted that Daniels would be limited if the team had a traditional practice. Even a limited showing still amounts to progress for Daniels, who hadn't practiced in any fashion since sustaining a dislocated left elbow in a Sept. 20 loss to the Cowboys. Quinn hasn't closed the door on Daniels potentially suiting up for Sunday's contest, with the coach noting that he wants to see how the quarterback looks in practice over the next three days before settling on a Week 4 starter, per Nicki Jhabvala of The Athletic. Quinn also confirmed that whenever Daniels returns to action, the 25-year-old will wear a brace on his left elbow for added protection for the rest of the season, according to Zach Selby of the Commanders' official site.
-- **NEW — Chig Okonkwo** — Chig Okonkwo (hamstring) to travel with Commanders to London (2026-09-30T14:05:18.052000Z)
+- **NEW — Josh Allen** — Bills Not Concerned With Josh Allen's Knee (2026-09-30T14:08:14Z)
+  - Source: https://www.rotoballer.com/player-news/bills-not-concerned-with-josh-allens-knee/1954638
+- **Chig Okonkwo** — Chig Okonkwo (hamstring) to travel with Commanders to London (2026-09-30T14:05:18.052000Z)
   - Okonkwo will have a chance to return this week against the Colts. He has been sidelined ever since suffering a hamstring injury during Week 1. 
   - Source: https://www.fantasypros.com/nfl/news/611514/chig-okonkwo-hamstring-to-travel-with-commanders-to-london.php
-- **NEW — Rachaad White** — Rachaad White - Sitting out practice Wednesday (2026-09-30T13:57:15Z)
+- **NEW — Javonte Williams** — Javonte Williams' Floor Elevated by His Hard-Running Style (2026-09-30T14:00:14Z)
+  - Source: https://www.rotoballer.com/player-news/javonte-williams-floor-elevated-by-his-hard-running-style/1954635
+- **Rachaad White** — Rachaad White - Sitting out practice Wednesday (2026-09-30T13:57:15Z)
   - White injured his shoulder late in the first half of Sunday's win over Seattle, but he was able to check back into the game in the third quarter and finished the day with eight carries for 35 yards and a six-yard touchdown reception. The running back is apparently still hurting a few days after the Week 3 contest and will receive treatment Wednesday, so his practice activity will warrant tracking the next two days to see if his shoulder issue affects his availability for Sunday's game against the Colts in London.
-- **NEW — Aaron Jones** — Aaron Jones Sr. Taking Control of Minnesota's Backfield (2026-09-30T10:46:21Z)
+- **NEW — Tyler Shough** — Tyler Shough One of the Biggest Fantasy Success Stories to Begin the Year (2026-09-30T13:48:14Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-shough-one-of-the-biggest-fantasy-success-stories-to-begin-the-year/1954629
+- **NEW — Tyjae Spears** — Tyjae Spears Not Practicing on Wednesday (2026-09-30T13:39:10Z)
+  - Source: https://www.rotoballer.com/player-news/tyjae-spears-not-practicing-on-wednesday/1954624
+- **NEW — Cam Skattebo** — Cam Skattebo Emerging as the Engine of Giants' Offense (2026-09-30T13:37:09Z)
+  - Source: https://www.rotoballer.com/player-news/cam-skattebo-emerging-as-the-engine-of-giants-offense/1954621
+- **NEW — Tony Pollard** — Tony Pollard Not Practicing on Wednesday (2026-09-30T13:33:12Z)
+  - Source: https://www.rotoballer.com/player-news/tony-pollard-not-practicing-on-wednesday/1954619
+- **NEW — Tetairoa McMillan** — Tetairoa McMillan Well-Positioned to Shake Off a Quiet Week 3 (2026-09-30T13:25:16Z)
+  - Source: https://www.rotoballer.com/player-news/tetairoa-mcmillan-well-positioned-to-shake-off-a-quiet-week-3/1954616
+- **NEW — Brock Purdy** — Brock Purdy Surging Up the Weekly Rankings (2026-09-30T13:13:16Z)
+  - Source: https://www.rotoballer.com/player-news/brock-purdy-surging-up-the-weekly-rankings/1954608
+- **NEW — Jaylen Wright** — Jaylen Wright to be Limited on Wednesday (2026-09-30T13:02:15Z)
+  - Source: https://www.rotoballer.com/player-news/jaylen-wright-to-be-limited-on-wednesday/1954606
+- **NEW — Caleb Douglas** — Caleb Douglas Absent From Practice on Wednesday (2026-09-30T12:39:06Z)
+  - Source: https://www.rotoballer.com/player-news/caleb-douglas-absent-from-practice-on-wednesday/1954596
+- **NEW — Josh Downs** — Josh Downs Making the Most of a Bigger Opportunity (2026-09-30T12:37:08Z)
+  - Source: https://www.rotoballer.com/player-news/josh-downs-making-the-most-of-a-bigger-opportunity/1954594
+- **NEW — Jalen McMillan** — Jalen McMillan Placed on Injured Reserve (2026-09-30T12:28:15Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-placed-on-injured-reserve/1954586
+- **NEW — Adonai Mitchell** — Adonai Mitchell Not Practicing on Wednesday (2026-09-30T12:22:13Z)
+  - Source: https://www.rotoballer.com/player-news/adonai-mitchell-not-practicing-on-wednesday/1954580
+- **NEW — Breece Hall** — Breece Hall Missing Practice on Wednesday (2026-09-30T12:16:20Z)
+  - Source: https://www.rotoballer.com/player-news/breece-hall-missing-practice-on-wednesday/1954576
+- **NEW — Terrance Ferguson** — Terrance Ferguson Likely to Miss Week 4 With Ankle Sprain (2026-09-30T12:02:25Z)
+  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-likely-to-miss-week-4-with-ankle-sprain/1954564
+- **NEW — Brian Thomas** — Brian Thomas Jr. Continues to Draw Trade Interest (2026-09-30T11:41:12Z)
+  - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-continues-to-draw-trade-interest/1954548
+- **NEW — Woody Marks** — Woody Marks Starting to Push for More Work (2026-09-30T11:31:53Z)
+  - Source: https://www.rotoballer.com/player-news/woody-marks-starting-to-push-for-more-work/1954538
+- **NEW — Marvin Harrison** — Marvin Harrison Jr. Drawing Trade Interest Ahead of Deadline (2026-09-30T11:19:09Z)
+  - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-drawing-trade-interest-ahead-of-deadline/1954524
+- **NEW — DK Metcalf** — DK Metcalf Finally Gives Fantasy Managers a Payoff (2026-09-30T11:06:24Z)
+  - Source: https://www.rotoballer.com/player-news/dk-metcalf-finally-gives-fantasy-managers-a-payoff/1954512
+- **NEW — Rachaad White** — Rachaad White Won't Practice on Wednesday (2026-09-30T11:00:29Z)
+  - Source: https://www.rotoballer.com/player-news/rachaad-white-wont-practice-on-wednesday/1954504
+- **Aaron Jones** — Aaron Jones Sr. Taking Control of Minnesota's Backfield (2026-09-30T10:46:21Z)
   - Source: https://www.rotoballer.com/player-news/aaron-jones-sr-taking-control-of-minnesotas-backfield/1954486
-- **NEW — Chris Olave** — Chris Olave Re-Establishing Himself as a Fantasy WR1 (2026-09-30T10:34:12Z)
+- **Chris Olave** — Chris Olave Re-Establishing Himself as a Fantasy WR1 (2026-09-30T10:34:12Z)
   - Source: https://www.rotoballer.com/player-news/chris-olave-reestablishing-himself-as-a-fantasy-wr1/1954466
-- **NEW — Jayden Daniels** — Jayden Daniels Limited as He Works Toward Return (2026-09-30T10:24:13Z)
+- **Jayden Daniels** — Jayden Daniels Limited as He Works Toward Return (2026-09-30T10:24:13Z)
   - Source: https://www.rotoballer.com/player-news/jayden-daniels-limited-as-he-works-toward-return/1954455
-- **NEW — Parker Washington** — Parker Washington Carrying Momentum from Strong 2025 Finish (2026-09-30T09:56:15Z)
+- **Parker Washington** — Parker Washington Carrying Momentum from Strong 2025 Finish (2026-09-30T09:56:15Z)
   - Source: https://www.rotoballer.com/player-news/parker-washington-carrying-momentum-from-strong-2025-finish/1954401
-- **NEW — Chuba Hubbard** — Chuba Hubbard the Clear Workhorse in Carolina (2026-09-30T09:48:12Z)
+- **Chuba Hubbard** — Chuba Hubbard the Clear Workhorse in Carolina (2026-09-30T09:48:12Z)
   - Source: https://www.rotoballer.com/player-news/chuba-hubbard-the-clear-workhorse-in-carolina/1954392
-- **NEW — Rashee Rice** — Rashee Rice Picking Up Steam After Slow Start (2026-09-30T09:40:13Z)
+- **Rashee Rice** — Rashee Rice Picking Up Steam After Slow Start (2026-09-30T09:40:13Z)
   - Source: https://www.rotoballer.com/player-news/rashee-rice-picking-up-steam-after-slow-start/1954367
-- **NEW — Drake London** — Drake London Back in WR1 Conversation with QB Back (2026-09-30T09:30:21Z)
+- **Drake London** — Drake London Back in WR1 Conversation with QB Back (2026-09-30T09:30:21Z)
   - Source: https://www.rotoballer.com/player-news/drake-london-back-in-wr1-conversation-with-michael-penix-jr-back/1954357
-- **NEW — Jordan Addison** — Jordan Addison Could See More Volume if Teammate Misses Time (2026-09-30T09:16:15Z)
+- **Jordan Addison** — Jordan Addison Could See More Volume if Teammate Misses Time (2026-09-30T09:16:15Z)
   - Source: https://www.rotoballer.com/player-news/jordan-addison-could-see-more-volume-if-jefferson-misses-time/1954340
-- **NEW — Matthew Golden** — Matthew Golden in the Midst of a Breakout Season (2026-09-30T09:11:55Z)
+- **Matthew Golden** — Matthew Golden in the Midst of a Breakout Season (2026-09-30T09:11:55Z)
   - Source: https://www.rotoballer.com/player-news/matthew-golden-in-the-midst-of-a-breakout-season/1954329
 - **Jack Bech** — Jack Bech (forearm) placed on IR (2026-09-30T06:05:13.995000Z)
   - Bech will miss at least the next four weeks. Cody White was promoted as the corresponding move. 
@@ -81,147 +231,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After being limited mostly to garbage time through the first two games of the regular season, the rookie sixth-rounder didn't see the field on offense against Seattle. Allen saw a heavy workload during the preseason, but he figures to be an afterthought in the Commanders' offensive gameplan unless one of Jacory Croskey-Merritt or Rachaad White were to miss time. The Commanders head to London for a Week 4 tilt against the Colts this Sunday.
 - **Chig Okonkwo** — Chig Okonkwo - Traveling with team to London (2026-09-30T01:45:13Z)
   - A hamstring injury has prevented Okonkwo from playing in each of the Commanders' last two games, leading to the team leaning more heavily on Ben Sinnott, John Bates and Colson Yankoff at tight end. Okonkwo's practice participation over the coming days will be worth monitoring, as a full session would greatly increase his chances of being cleared to play against Indianapolis. He signed a three-year contract with the Commanders in March following four years with the Titans, and he finished the 2025 regular season with career highs in receptions (56), yards (560) and targets (79) across 17 games.
-- **Jayden Daniels** — Jayden Daniels - Making trip to London (2026-09-30T01:41:02Z)
-  - As expected, Daniels will make the trip across the pond and participate in practices over the coming days. He has a lot of work ahead of him in order to be cleared to play Sunday as he continues to recover from a dislocated elbow, so it wouldn't be surprising to see Marcus Mariota get the starting nod for a second week in a row. Logging a full practice at least once this week would go a long way in Daniels' efforts to return to the field.
-- **Kayshon Boutte** — Kayshon Boutte - Two catches in Week 3 loss vs. Indy (2026-09-30T01:36:54Z)
-  - For a second consecutive week, Boutte operated in an elevated role on offense due to the absence of Nico Collins (hamstring). Boutte's 37 offensive snaps actually led all Texans wide receivers, but he didn't see a target from C.J. Stroud until late in the fourth quarter, when the duo connected on back-to-back passes of 15 and six yards. Those two catches set the Texans up in the red zone and led to a Woody Marks one-yard rushing touchdown at the 1:50 mark. Per Aaron Wilson of KPRC 2 Houston on Monday, head coach DeMeco Ryans expressed optimism that Collins would be back for Week 4 against the Cowboys. Collins' practice participation in the coming days will shed light on what Boutte's workload may look like against Dallas this Sunday.
-- **Isaac TeSlaa** — Isaac TeSlaa - Goes for 66 yards in Week 3 win (2026-09-30T01:25:38Z)
-  - Detroit's third receiver, TeSlaa played 48 percent of the offensive snaps against New York but made the most of his opportunities and ended up leading the team in receiving yards. With Jameson Williams continuing to struggle to get going early in the season, TeSlaa could start earning a couple more looks from Jared Goff. It's still unlikely to be enough to put TeSlaa in the redraft fantasy mix unless one of Williams or Amon-Ra St. Brown misses time with an injury.
-- **Ryan Flournoy** — Ryan Flournoy - Sees eight targets in Week 3 (2026-09-30T01:16:37Z)
-  - Flournoy logged 66 percent of the offensive snaps against Baltimore, and his eight targets were good for second on the team and a respectable 20 percent share. He obviously was unable to do much with them against a stingy Ravens secondary. Flournoy has a valuable role as the third receiver in a Dallas offense that likes to use plenty of 11 personnel, but he'd likely need an injury to CeeDee Lamb or George Pickens to become anything more than a bench stash in fantasy.
-- **Raheim Sanders** — Raheim Sanders Pairs Increased Receiving Volume with More Playing Time (2026-09-30T01:05:11Z)
-  - Source: https://www.rotoballer.com/player-news/raheim-sanders-pairs-increased-receiving-volume-with-more-playing-time/1954219
-- **Jerry Jeudy** — Jerry Jeudy - Doesn't draw any targets in Week 3 win (2026-09-30T00:32:30Z)
-  - It was the second straight week that Jeudy didn't log a reception, and this time he didn't even get a target (he logged just one in Week 2 versus Tampa Bay). The veteran wideout continues to be on the field fairly often -- he's recorded an offensive snap share of over 50 percent in each of the Browns' three contests, including Sunday, when he played 51 percent of the team's offensive snaps. However, he doesn't seem to be clicking well with QB Deshaun Watson, and at this point fantasy managers have little reason to include him in their lineups.
-- **Keon Coleman** — Keon Coleman - One big catch in Week 3 win (2026-09-30T00:05:01Z)
-  - Coleman's practice reps during Week 3 prep were limited by an ankle injury that he sustained in Buffalo's Week 2 win over Detroit. He was cleared to play against the Chargers and ended up playing 32 of 66 offensive snaps (48.5 percent), third most among Bills wide receivers behind Khalil Shakir (48) and DJ Moore (42). Coleman was responsible for the Bills' longest play of the game late in the second quarter, when he hauled in a 37-yard pass from Josh Allen that led to a one-yard touchdown run by the superstar QB on the next play. Coleman is capable of making big plays in any given game, but it's hard to rely on him for consistent production when he's competing against Moore, Shakir, tight end Dalton Kincaid and running back James Cook for targets from Allen, with Ty Johnson and Joshua Palmer also in the mix. The Bills wrap up their three-game homestand this Sunday in an AFC East showdown against the Patriots, whose defense gave up 35 points (including three passing touchdowns) to the Jaguars in a Week 3 loss.
-- **Kaelon Black** — Kaelon Black - Sees workload dip vs. Arizona (2026-09-29T23:49:01Z)
-  - Black accumulated 95 scrimmage yards on 22 touches through the first two games of the regular season and was a regular rotational piece in the offense behind Christian McCaffrey. However, Black observed most of Sunday's game from the sidelines, seeing the field for only eight of the 49ers' 54 offensive snaps (14.8 percent) compared to McCaffrey's 45 snaps. Keeping McCaffrey healthy is a top priority for the 49ers, so Black figures to see more playing time moving forward in order to preserve the former's workload. The 49ers will remain home for Week 4 to host the Broncos this Sunday.
-- **Rico Dowdle** — Rico Dowdle - Remains listed as 'DNP' (2026-09-29T23:28:15Z)
-  - The Steelers held a walkthrough for the second time in as many days, and as was the case Monday Dowdle was unable to get any work in. He was at least present Tuesday after not being spotted during the media-viewing portion the day before, but he will presumably have to practice in at least some capacity Wednesday in order to have any chance to suit up for Pittsburgh's Week 4 matchup with Cleveland on Thursday.
-- **Jaylen Waddle** — Jaylen Waddle - Considered 'fine' after sporting boot (2026-09-29T23:10:03Z)
-  - Concern was raised about Waddle's status after he was spotted -- per Jon Heath of Broncos Wire -- with a boot on his foot Sunday night, but Jane's report indicates Waddle is not dealing with any sort of serious setback. More will be known about Waddle's status either at the start of or after Denver's Wednesday practice session.
-- **Dontayvion Wicks** — Dontayvion Wicks - Held quiet in Week 3 loss (2026-09-29T22:56:47Z)
-  - Though he didn't find paydirt, Wicks played a critical role on the Eagles' lone scoring drive on the night late in the second quarter, leading off the possession with a 13-yard catch and run. He was otherwise held in check while the game was still competitive, with his lone other reception coming with 6:30 remaining, when the Bears had built a 20-point lead. Through his first three games with Philadelphia, Wicks has produced a 9-179-1 receiving line on 15 targets.
-- **Justice Hill** — Justice Hill is Beginning to Make Some Noise (2026-09-29T22:52:14Z)
-  - Source: https://www.rotoballer.com/player-news/justice-hill-is-beginning-to-make-some-noise/1954201
-- **Makai Lemon** — Makai Lemon - Notches three receptions in loss (2026-09-29T22:52:09Z)
-  - After taking the field for north of 60 percent of the snaps in both of the Eagles' first two contests, Lemon wasn't a major beneficiary of the absence of tight end Dallas Goedert (knee). Even though the Eagles leaned more heavily on three-wide formations, Lemon saw only a slight uptick in playing time Monday, logging 35 of 50 snaps (70 percent). The rookie first-round pick appears to be little more than a tertiary option in the passing game at this stage of his career, as he's thus far been held to seven catches for 38 yards on nine targets through his first three NFL games.
-- **Pat Bryant** — Pat Bryant - Finds paydirt in Week 3 win (2026-09-29T22:47:23Z)
-  - Bryant reached the end zone for the first time this season with 7:44 left in the third quarter, connecting with quarterback Bo Nix on a five-yard catch. The second-year wideout has seen his snap share gradually climb through the first three weeks, topping out at 70 percent in Week 3. The Broncos have been without Marvin Mims (foot) for the past two games, however, so Bryant could see a slight downturn in playing time once the Denver receiving corps is at full strength.
-- **Deshaun Watson** — Deshaun Watson is Becoming Trustworthy Fantasy Option (2026-09-29T22:36:08Z)
-  - Source: https://www.rotoballer.com/player-news/deshaun-watson-is-becoming-trustworthy-fantasy-option/1954190
-- **Jack Bech** — Jack Bech - Heads to IR (2026-09-29T22:27:18Z)
-  - Bech will be sidelined for at least the Raiders' next four games after sustaining a fractured left forearm during Sunday's 35-27 win over the Saints. In a corresponding move, the Raiders signed Cody White off their practice squad. White could be the leading candidate to replace Bech as the Raiders' No. 3 wideout behind Tre Tucker and Jalen Nailor.
-- **Seth McGowan** — Seth McGowan Remains Stash Option (2026-09-29T22:22:16Z)
-  - Source: https://www.rotoballer.com/player-news/seth-mcgowan-remains-stash-option/1954183
-- **Tyreek Hill** — Tyreek Hill is Gaining Value with Return Looming (2026-09-29T21:59:06Z)
-  - Source: https://www.rotoballer.com/player-news/tyreek-hill-is-gaining-value-with-return-looming/1954160
-- **Pat Freiermuth** — Pat Freiermuth - Held to two catches in Week 3 (2026-09-29T20:57:44Z)
-  - Freiermuth took the field for 37 of the Steelers' 62 offensive snaps, with his 60 percent share placing him slightly behind fellow tight end Darnell Washington (47 snaps, 76 percent). The Steelers should continue to make ample use of two-tight-end sets to keep Freiermuth involved in their game plans, but since he doesn't project to see heavy target volume week to week, he'll remain a largely touchdown-dependent fantasy option.
-- **Rico Dowdle** — Rico Dowdle - Spectator for Tuesday's practice (2026-09-29T20:38:01Z)
-  - After sitting out Sunday's win over the Bengals due to a right toe injury, Dowdle will go down as a non-participant on the Steelers' first two Week 4 practice report. Unless he's able to fit in some on-field work during Wednesday's session, Dowdle will likely be ruled out ahead of Thursday's game in Cleveland. Dowdle's potential absence for a second straight game would set up Jaylen Warren for another heavy workload out of the backfield, after Warren handled 20 touches in Week 3.
-- **Tory Horton** — Tory Horton a Big-Play Receiver Worth Stashing in Deep Leagues (2026-09-29T20:12:09Z)
-  - Source: https://www.rotoballer.com/player-news/tory-horton-a-big-play-receiver-worth-stashing-in-deep-leagues/1954097
-- **Jayden Daniels** — Jayden Daniels Officially Traveling to London With Commanders (2026-09-29T19:41:55Z)
-  - Source: https://www.rotoballer.com/player-news/jayden-daniels-officially-traveling-to-london-with-commanders/1954091
-- **Chris Godwin** — Chris Godwin - Another muted performance (2026-09-29T19:33:24Z)
-  - Godwin ranked third among Buccaneers wide receivers in snap share (62 percent) behind Ted Hurst (75 percent) and Emeka Egbuka (74 percent) in Week 3, resulting in his least productive performance of the season. On top of that, Godwin hasn't been targeted more than four times in a game so far on the campaign. With undrafted rookie Jalon Daniels set to take over Tampa Bay's offense for at least a few contests in the wake of Baker Mayfield's dislocated right thumb, Godwin doesn't have an ideal situation in which to build momentum from week to week.
-- **Jaylen Waddle** — Jaylen Waddle is "Fine" Going into Week 4 (2026-09-29T19:25:16Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-waddle-is-fine-going-into-week-4/1954086
-- **Demond Claiborne** — Demond Claiborne a Short-Term Handcuff Option in Deep Leagues (2026-09-29T18:55:09Z)
-  - Source: https://www.rotoballer.com/player-news/demond-claiborne-a-short-term-handcuff-option-in-deep-leagues/1954058
-- **Jadarian Price** — Seahawks Still Believe in Jadarian Price (2026-09-29T17:59:09Z)
-  - Source: https://www.rotoballer.com/player-news/seahawks-still-believe-in-jadarian-price/1954020
-- **Brian Thomas** — Brian Thomas Jr. Now the Jaguars' No. 4 Receiver? (2026-09-29T17:25:13Z)
-  - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-now-the-jaguars-no-4-receiver/1953987
-- **Rico Dowdle** — Rico Dowdle a Non-Participant Again on Tuesday (2026-09-29T17:13:15Z)
-  - Source: https://www.rotoballer.com/player-news/rico-dowdle-a-non-participant-again-on-tuesday/1953974
-- **Dontayvion Wicks** — Dontayvion Wicks Remains a Must-Add Wide Receiver Despite Quiet Week 3 (2026-09-29T16:57:53Z)
-  - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-remains-a-must-add-wide-receiver-despite-quiet-week-3/1953965
-- **Kirk Cousins** — Kirk Cousins Emerging as a Must-Roster Quarterback in Two-QB Leagues (2026-09-29T16:25:10Z)
-  - Source: https://www.rotoballer.com/player-news/kirk-cousins-emerging-as-a-must-roster-quarterback-in-two-qb-leagues/1953951
-- **Tank Bigsby** — Tank Bigsby Remains a High-End Handcuff RB Despite Rough Week 3 (2026-09-29T16:19:09Z)
-  - Source: https://www.rotoballer.com/player-news/tank-bigsby-remains-a-high-end-handcuff-running-back-despite-rough-week-3/1953936
-- **Zach Charbonnet** — Zach Charbonnet (knee) uncertain on practicing this week (2026-09-29T16:15:04.859000Z)
-  - They are still deciding on whether Charbonnet will have his practice window opened this week. He can have it opened at any time. 
-  - Source: https://www.fantasypros.com/nfl/news/611418/zach-charbonnet-knee-uncertain-on-practicing-this-week.php
-- **Aaron Rodgers** — Aaron Rodgers a Must-Add in Two-QB Formats Entering Week 4 (2026-09-29T16:11:09Z)
-  - Source: https://www.rotoballer.com/player-news/aaron-rodgers-a-must-add-in-two-qb-formats-entering-week-4/1953925
-- **Jayden Daniels** — Jayden Daniels - Could need surgery after season (2026-09-29T16:03:35Z)
-  - Daniels has dislocated the elbow three times in less than a year, with his most recent aggravation of the injury occurring in the Commanders' Sept. 20 loss to the Cowboys. Surgery could provide a more permanent fix for the elbow, but for the time being, Daniels will rehab the injury and wear a brace for added protection when he eventually returns. After Daniels sat out the Commanders' Week 3 win over the Seahawks, head coach Dan Quinn said Monday that the quarterback would travel with the team to London this week and resume practicing in some capacity. The Commanders haven't ruled Daniels out from playing Sunday against the Colts, but he may need to put in at least one full practice in order to have a chance at reclaiming the starting role from Marcus Mariota, who performed well in his stead in Week 3.
-- **Ryan Flournoy** — Ryan Flournoy's Target Volume Keeps Him Interesting (2026-09-29T15:35:14Z)
-  - Source: https://www.rotoballer.com/player-news/ryan-flournoys-target-volume-keeps-him-interesting/1953910
-- **Rashod Bateman** — Rashod Bateman Better Suited to Deeper Leagues (2026-09-29T15:23:12Z)
-  - Source: https://www.rotoballer.com/player-news/rashod-bateman-better-suited-to-deeper-leagues/1953900
-- **Xavier Hutchinson** — Xavier Hutchinson Has Short-Term Waiver Appeal (2026-09-29T15:13:16Z)
-  - Source: https://www.rotoballer.com/player-news/xavier-hutchinson-has-short-term-waiver-appeal/1953894
-- **Cam Ward** — Titans Not Considering Benching Cam Ward (2026-09-29T14:31:10Z)
-  - Source: https://www.rotoballer.com/player-news/titans-not-considering-benching-cam-ward/1953881
-- **Michael Penix** — Michael Penix Jr. a Potential Streamer in Monday Night Divisional Matchup (2026-09-29T14:00:19Z)
-  - Source: https://www.rotoballer.com/player-news/michael-penix-jr-a-potential-streamer-in-monday-night-divisional-matchup/1953861
-- **Marcus Mariota** — Marcus Mariota Remains One of the NFL's Best Backup Quarterbacks (2026-09-29T13:50:11Z)
-  - Source: https://www.rotoballer.com/player-news/marcus-mariota-remains-one-of-the-nfls-best-backup-quarterbacks-and-a-potential-week-4-streamer/1953851
-- **Makai Lemon** — Makai Lemon a Week 4 Add as His Role Continues to Grow (2026-09-29T13:39:04Z)
-  - Source: https://www.rotoballer.com/player-news/makai-lemon-a-week-4-add-as-his-role-continues-to-grow/1953845
-- **Kayshon Boutte** — Kayshon Boutte Still Holds Long-Term Value on Waivers (2026-09-29T13:12:11Z)
-  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-still-holds-long-term-value-on-waivers/1953827
-- **Jayden Daniels** — Jayden Daniels Could Have Offseason Elbow Surgery (2026-09-29T12:31:15Z)
-  - Source: https://www.rotoballer.com/player-news/jayden-daniels-could-have-offseason-elbow-surgery/1953793
-- **J.J. McCarthy** — Giants Could Turn to J.J. McCarthy in the "Near Future" (2026-09-29T12:24:09Z)
-  - Source: https://www.rotoballer.com/player-news/giants-could-turn-to-j-j-mccarthy-in-the-near-future/1953790
-- **Jaylen Warren** — Jaylen Warren Could Continue to be Workhorse for Steelers (2026-09-29T12:16:15Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-warren-could-continue-to-be-workhorse-for-steelers/1953784
-- **Jacoby Brissett** — Jacoby Brissett Has Short-Term Value for QB-Needy Managers (2026-09-29T11:48:11Z)
-  - Source: https://www.rotoballer.com/player-news/jacoby-brissett-has-short-term-value-for-qb-needy-managers/1953758
-- **Kaleb Johnson** — Kaleb Johnson Worth Watching After Increased Week 3 Work (2026-09-29T11:39:10Z)
-  - Source: https://www.rotoballer.com/player-news/kaleb-johnson-worth-watching-after-increased-week-3-work/1953749
-- **Malik Willis** — Malik Willis a Deep-League Quarterback Add for Week 4 (2026-09-29T11:07:07Z)
-  - Source: https://www.rotoballer.com/player-news/malik-willis-a-deep-league-quarterback-add-for-week-4/1953708
-- **Dontayvion Wicks** — Dontayvion Wicks draws five targets in Week 3 (2026-09-29T10:10:13.090000Z)
-  - Wicks finished second on the team in receiving yards on a rough evening for the Philly passing attack. The veteran wideout has been solid for the Eagles thus far, catching nine passes for 179 yards and a touchdown through three games. He will be a flex option in fantasy heading into Week 4 against the Rams.
-  - Source: https://www.fantasypros.com/nfl/news/611394/dontayvion-wicks-draws-five-targets-week-3.php
-- **Makai Lemon** — Makai Lemon catches three passes in Week 3 (2026-09-29T10:10:13.072000Z)
-  - Lemon turned in his best game as a pro on Monday night, finishing third on the team in targets and second in catches. The rookie wideout has now caught seven passes for 38 yards through three games. He remains a bench stash in fantasy heading into Week 4 against the Rams.
-  - Source: https://www.fantasypros.com/nfl/news/611395/makai-lemon-catches-three-passes-week-3.php
-- **Kalif Raymond** — Kalif Raymond Can Be a Solid Pickup in Larger Role (2026-09-29T10:02:38Z)
-  - Source: https://www.rotoballer.com/player-news/kalif-raymond-can-be-a-solid-pickup-in-larger-role/1953600
-- **DeVonta Smith** — DeVonta Smith leads Eagles in receiving in Week 3 (2026-09-29T10:00:13.154000Z)
-  - Smith led the Eagles in all receiving categories in the lopsided loss. The veteran wideout is off to a strong start to the year, catching 19 passes for 235 yards and a touchdown through three games. He will be a low-end WR1 in fantasy in Week 4 against the Rams.
-  - Source: https://www.fantasypros.com/nfl/news/611393/devonta-smith-leads-eagles-receiving-week-3.php
-- **Saquon Barkley** — Saquon Barkley runs for 82 yards in Week 3 (2026-09-29T10:00:12.867000Z)
-  - Barkley was able to suit up and lead the Philadelphia backfield one week after suffering a shoulder stinger. He looked good in the contest, averaging 5.5 yards per carry for the Eagles. Still looking for his first touchdown of the season, Barkley has now gained 174 yards while catching three passes for six yards through three games. He will be a solid fantasy option in Week 4 against the Rams.
-  - Source: https://www.fantasypros.com/nfl/news/611391/saquon-barkley-runs-82-yards-week-3.php
-- **Tank Bigsby** — Tank Bigsby loses fumble in Week 3 loss (2026-09-29T10:00:12.855000Z)
-  - Bigsby did not record any carries and lost a fumble on his lone catch of the contest. The veteran running back will look to bounce back in Week 4 against the Rams. He remains a solid fantasy handcuff moving forward.
-  - Source: https://www.fantasypros.com/nfl/news/611392/tank-bigsby-loses-fumble-week-3-loss.php
-- **Jalen Hurts** — Jalen Hurts runs for a TD, throws INT in Week 3 loss (2026-09-29T09:50:12.782000Z)
-  - Hurts and the Philadelphia offense struggled in the loss to Chicago on Monday night. He briefly left the game to get checked for a concussion but was cleared to return to the contest shortly after. Hurts has thrown for 620 yards, five touchdowns, and three interceptions while adding 87 rushing yards and a touchdown on the ground in three games this season. He will be a solid QB1 in fantasy heading into Week 4 against the Rams.
-  - Source: https://www.fantasypros.com/nfl/news/611390/jalen-hurts-runs-td-throws-int-week-3-loss.php
-- **Case Keenum** — Case Keenum Can Be an Emergency Option from the Waiver Wire (2026-09-29T09:42:07Z)
-  - Source: https://www.rotoballer.com/player-news/case-keenum-can-be-an-emergency-option-from-the-waiver-wire/1953577
-- **Rome Odunze** — Rome Odunze goes for 44 yards in Week 3 (2026-09-29T09:40:12.808000Z)
-  - Odunze finished third on the Bears in targets and receiving yards but he was unable to find the end zone for the third straight game. The veteran wideout has been outproduced by both Luther Burden III and Kalif Raymond this season, catching just eight passes for 139 yards thus far through three games. He will be a fantasy flex option in Week 4 against the Jets.
-  - Source: https://www.fantasypros.com/nfl/news/611385/rome-odunze-goes-44-yards-week-3.php
-- **Kalif Raymond** — Kalif Raymond leads Bears in receiving in Week 3 (2026-09-29T09:40:12.798000Z)
-  - Raymond's surprise involvement in the Chicago passing attack continues as he posted his most productive game of the season. The veteran wideout has caught 19 passes for 214 yards and a touchdown through three games while outproducing both Rome Odunze and Luther Burden III. Raymond will be a solid fantasy option in Week 4 against the Jets.
-  - Source: https://www.fantasypros.com/nfl/news/611386/kalif-raymond-leads-bears-receiving-week-3.php
-- **Colston Loveland** — Colston Loveland hauls in four balls in Week 3 (2026-09-29T09:40:12.788000Z)
-  - Loveland got off to a quick start, bringing in a four-yard pass from Case Keenum on the second play of the game. The Week 3 effort goes down as Loveland's best of the season as he was shut out in Week 1 and held to three receiving yards in Week 2. He has now caught five passes for 34 yards through three games. Loveland will look to break out in Week 4 against the Jets.
-  - Source: https://www.fantasypros.com/nfl/news/611387/colston-loveland-hauls-four-balls-week-3.php
-- **Kyle Monangai** — Kyle Monangai rushes for 31 yards in Week 3 win (2026-09-29T09:30:12.705000Z)
-  - Monangai mixed in behind starter D'Andre Swift. He was held to 3.1 yards per carry by the Philadelphia defense in the contest while failing to find the end zone for the second straight game. Monangai will continue to see a modest workload for the Bears but he won't be a very strong fantasy option unless Swift were forced to miss time. He will now prepare to take on the Jets in Week 4.
-  - Source: https://www.fantasypros.com/nfl/news/611383/kyle-monangai-rushes-31-yards-week-3-win.php
-- **Luther Burden** — Luther Burden III finds the end zone in Week 3 (2026-09-29T09:30:12.693000Z)
-  - Burden found the end zone on an eight-yard pass from Case Keenum in the first quarter. The veteran wideout led the Bears in targets and receptions on Monday night, although Kalif Raymond topped him with 90 receiving yards. Burden has 15 catches for 156 yards and one touchdown through three games. He will be a solid fantasy option in Week 4 against the Jets.
-  - Source: https://www.fantasypros.com/nfl/news/611384/luther-burden-iii-finds-end-zone-week-3.php
-- **Case Keenum** — Luther Burden III Clicks with Third-String QB (2026-09-29T09:29:55Z)
-  - Source: https://www.rotoballer.com/player-news/luther-burden-iii-clicks-with-case-keenum/1953563
-- **Rome Odunze** — Rome Odunze Has Another Quiet Game (2026-09-29T09:21:10Z)
-  - Source: https://www.rotoballer.com/player-news/rome-odunze-has-another-quiet-game/1953552
-- **Case Keenum** — Case Keenum throws two TDs in Week 3 win (2026-09-29T09:20:12.471000Z)
-  - Keenum got the call with Caleb Williams (hamstring) and Tyson Bagent (concussion) both ailing and looked good in the Monday night win over Philly. He completed touchdown passes to Luther Burden III and Kalif Raymond in the contest. Bagent will likely be ready to return to action in Week 4 against the Jets, which will push Keenum to the backup role.
-  - Source: https://www.fantasypros.com/nfl/news/611381/case-keenum-throws-two-tds-week-3-win.php
-- **D'Andre Swift** — D'Andre Swift runs for 84 yards in Week 3 (2026-09-29T09:20:12.463000Z)
-  - Swift led the way on the ground for the Bears, although he was held out of the end zone for the second straight game. Overall, the veteran running back has rushed for 253 yards and three touchdowns while adding eight catches for 68 yards in three games this season. He will be on the RB1 radar in fantasy in Week 4 against the Jets.
-  - Source: https://www.fantasypros.com/nfl/news/611382/dandre-swift-runs-84-yards-week-3.php
