@@ -21327,7 +21327,7 @@
       "years_exp": 0
     },
     "13269": {
-      "age": 22,
+      "age": 23,
       "fantasy_positions": [
         "QB"
       ],
@@ -21468,7 +21468,7 @@
       ],
       "first_name": "Jadarian",
       "full_name": "Jadarian Price",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Price",
       "nfl_team": "SEA",
       "player_id": "13286",
@@ -24424,8 +24424,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-30T23:30:50Z",
-    "source_fingerprint": "3c85b1e0e8603c14171d9cf0431921ad5f2991c5ba0993694f441f59dbb425ed"
+    "last_changed_at": "2026-10-01T02:20:48Z",
+    "source_fingerprint": "e6dacaa314bf03adfc5f5c0661ad78aa2dbcd7d801e7625463708e342eb22a28"
   },
   "teams": [
     {
