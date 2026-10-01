@@ -1,23 +1,25 @@
 {
-  "last_checked_at": "2026-10-01T09:07:39Z",
+  "last_checked_at": "2026-10-01T16:23:50Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 298,
   "new_story_ids": [
-    "nfl|11563|rotoballer|222831|1790814789000",
-    "nfl|11564|rotoballer|222823|1790806690000",
-    "nfl|11603|rotoballer|222832|1790816775000",
-    "nfl|12487|fantasy_pros|611653|1790828732861",
-    "nfl|12489|fantasy_pros|611656|1790828732814",
-    "nfl|13287|rotoballer|222829|1790809690000",
-    "nfl|2216|rotoballer|222824|1790807411000",
-    "nfl|3294|rotoballer|222828|1790808849000",
-    "nfl|5022|fantasy_pros|611658|1790828732788",
-    "nfl|6790|rotoballer|222827|1790810588000",
-    "nfl|6806|fantasy_pros|611655|1790828732827",
-    "nfl|7525|fantasy_pros|611659|1790828732780",
-    "nfl|8148|rotoballer|222825|1790808186000",
-    "nfl|8167|rotoballer|222826|1790810773000",
-    "nfl|9511|fantasy_pros|611657|1790828732800"
+    "nfl|12489|rotoballer|222846|1790855110000",
+    "nfl|12490|rotoballer|222844|1790853251000",
+    "nfl|12507|rotoballer|222847|1790856500000",
+    "nfl|12517|rotoballer|222841|1790852292000",
+    "nfl|13274|rotoballer|222838|1790849289000",
+    "nfl|1466|rotoballer|222843|1790852710000",
+    "nfl|3163|rotoballer|222839|1790851509000",
+    "nfl|4037|fantasy_pros|611662|1790871635512",
+    "nfl|4037|rotowire|640132|1790869642000",
+    "nfl|4217|rotoballer|222842|1790852948000",
+    "nfl|5872|rotoballer|222840|1790851748000",
+    "nfl|5927|rotoballer|222845|1790854332000",
+    "nfl|7021|rotoballer|222835|1790847016000",
+    "nfl|8136|rotoballer|222836|1790847793000",
+    "nfl|8136|rotowire|640131|1790865048000",
+    "nfl|8137|rotoballer|222834|1790846531000",
+    "nfl|9511|rotoballer|222833|1790845747000"
   ],
   "schema_version": 1,
   "source": {
@@ -27,6 +29,347 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Godwin missed practice to open the week on Wednesday. He will be playing with UDFA rookie Jalon Daniels as his quarterback. ",
+      "description": "Chris Godwin Jr. returned to practice on Thursday.",
+      "metadata": {
+        "analysis": "Godwin missed practice to open the week on Wednesday. He will be playing with UDFA rookie Jalon Daniels as his quarterback. ",
+        "description": "Chris Godwin Jr. returned to practice on Thursday.",
+        "title": "Chris Godwin Jr. (ankle) returns to practice Thursday ",
+        "topic_id": "1411421574082428928",
+        "url": "https://www.fantasypros.com/nfl/news/611662/chris-godwin-jr-ankle-returns-to-practice-thursday.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "4037",
+      "player_name": "Chris Godwin",
+      "position": "WR",
+      "published": 1790871635512,
+      "source": "fantasy_pros",
+      "source_key": "611662",
+      "story_id": "nfl|4037|fantasy_pros|611662|1790871635512",
+      "title": "Chris Godwin Jr. (ankle) returns to practice Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/611662/chris-godwin-jr-ankle-returns-to-practice-thursday.php"
+    },
+    {
+      "analysis": "It remains to be seen whether Godwin goes down as a full participant or limited participant Thursday, but any level of activity already marks a step in the right direction after the veteran wide receiver didn't take part in Wednesday's practice. Even if he alleviates any concerns about the ankle injury by Sunday's game against the Packers, Godwin will still be a risky fantasy option in the first start for undrafted rookie QB Jalon Daniels, who is filling in for Baker Mayfield (thumb).",
+      "description": "Godwin (ankle) is participating in Thursday's practice, Greg Auman of Fox Sports reports.",
+      "metadata": {
+        "analysis": "It remains to be seen whether Godwin goes down as a full participant or limited participant Thursday, but any level of activity already marks a step in the right direction after the veteran wide receiver didn't take part in Wednesday's practice. Even if he alleviates any concerns about the ankle injury by Sunday's game against the Packers, Godwin will still be a risky fantasy option in the first start for undrafted rookie QB Jalon Daniels, who is filling in for Baker Mayfield (thumb).",
+        "description": "Godwin (ankle) is participating in Thursday's practice, Greg Auman of Fox Sports reports.",
+        "title": "Chris Godwin - Returns to practice Thursday",
+        "topic_id": "1411414019138461696"
+      },
+      "nfl_team": "TB",
+      "player_id": "4037",
+      "player_name": "Chris Godwin",
+      "position": "WR",
+      "published": 1790869642000,
+      "source": "rotowire",
+      "source_key": "640132",
+      "story_id": "nfl|4037|rotowire|640132|1790869642000",
+      "title": "Chris Godwin - Returns to practice Thursday",
+      "url": null
+    },
+    {
+      "analysis": "White is sitting out a second consecutive practice ahead of Sunday's matchup against the Colts in London, which will kick off at 9:30 a.m. ET. If White is unable to suit up, the recently signed Austin Ekeler could slot in for passing-down work in a Commanders backfield that also includes Jacory Croskey-Merritt and Kaytron Allen.",
+      "description": "White (shoulder) isn't practicing again Thursday, Tashan Reed of The Washington Post reports.",
+      "metadata": {
+        "analysis": "White is sitting out a second consecutive practice ahead of Sunday's matchup against the Colts in London, which will kick off at 9:30 a.m. ET. If White is unable to suit up, the recently signed Austin Ekeler could slot in for passing-down work in a Commanders backfield that also includes Jacory Croskey-Merritt and Kaytron Allen.",
+        "description": "White (shoulder) isn't practicing again Thursday, Tashan Reed of The Washington Post reports.",
+        "title": "Rachaad White - Remains sidelined Thursday",
+        "topic_id": "1411395143730262016"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1790865048000,
+      "source": "rotowire",
+      "source_key": "640131",
+      "story_id": "nfl|8136|rotowire|640131|1790865048000",
+      "title": "Rachaad White - Remains sidelined Thursday",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Omarion Hampton has gotten off to a slow start in his second season. In three games, Hampton has 50 carries for 193 yards and two touchdowns, two receptions for 21 yards, and two fumbles. The second-year back saw a dip in snaps and opportunities in Week 3's loss to the Buffalo Bills, dropping from 61% to 42%. With Keaton Mitchell healthy and producing at a very efficient clip, and with the team struggling offensively, Hampton could struggle to meet expectations given his high draft capital. Adding to the negative points around his fantasy outlook, the Chargers face the Seahawks, Broncos, Chiefs, Rams, and Texans in the next six weeks, all of which ranked inside the top 10 in run defense in 2025. With his tough schedule, decreasing role, and struggles with ball security, Hampton is a risky option moving forward.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Omarion Hampton has gotten off to a slow start in his second season. In three games, Hampton has 50 carries for 193 yards and two touchdowns, two receptions for 21 yards, and two fumbles. The second-year back saw a dip in snaps and opportunities in Week 3's loss to the Buffalo Bills, dropping from 61% to 42%. With Keaton Mitchell healthy and producing at a very efficient clip, and with the team struggling offensively, Hampton could struggle to meet expectations given his high draft capital. Adding to the negative points around his fantasy outlook, the Chargers face the Seahawks, Broncos, Chiefs, Rams, and Texans in the next six weeks, all of which ranked inside the top 10 in run defense in 2025. With his tough schedule, decreasing role, and struggles with ball security, Hampton is a risky option moving forward.",
+        "title": "Omarion Hampton's Role Trending In The Wrong Direction",
+        "topic_id": "1411420309038342144",
+        "url": "https://www.rotoballer.com/player-news/omarion-hamptons-role-trending-in-the-wrong-direction/1955453"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12507",
+      "player_name": "Omarion Hampton",
+      "position": "RB",
+      "published": 1790856500000,
+      "source": "rotoballer",
+      "source_key": "222847",
+      "story_id": "nfl|12507|rotoballer|222847|1790856500000",
+      "title": "Omarion Hampton's Role Trending In The Wrong Direction",
+      "url": "https://www.rotoballer.com/player-news/omarion-hamptons-role-trending-in-the-wrong-direction/1955453"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos running back RJ Harvey has barely been involved as a runner, but Denver keeps finding him in the passing game. Harvey returned from a hamstring injury in Week 3 and caught six of seven targets for 41 yards against the Rams. That came after he caught all four of his targets for 23 yards in the opener. Through two appearances, he has 10 receptions on 11 targets despite only five carries. J.K. Dobbins is still handling the bulk of the rushing work, but his start has been uneven. He has 121 yards on 35 carries, an average of 3.5 yards per attempt, and has yet to score on the ground. Harvey is not taking that job away right now. The receiving work still gives him a real path to fantasy value, though, and it is a role he handled well as a rookie with 47 catches for 356 yards and five touchdowns. If Denver keeps leaning on him in passing situations, Harvey can keep climbing even without a major shift in carries.",
+      "metadata": {
+        "description": "Denver Broncos running back RJ Harvey has barely been involved as a runner, but Denver keeps finding him in the passing game. Harvey returned from a hamstring injury in Week 3 and caught six of seven targets for 41 yards against the Rams. That came after he caught all four of his targets for 23 yards in the opener. Through two appearances, he has 10 receptions on 11 targets despite only five carries. J.K. Dobbins is still handling the bulk of the rushing work, but his start has been uneven. He has 121 yards on 35 carries, an average of 3.5 yards per attempt, and has yet to score on the ground. Harvey is not taking that job away right now. The receiving work still gives him a real path to fantasy value, though, and it is a role he handled well as a rookie with 47 catches for 356 yards and five touchdowns. If Denver keeps leaning on him in passing situations, Harvey can keep climbing even without a major shift in carries.",
+        "title": "RJ Harvey Emerging as a Factor in Broncos Passing Game",
+        "topic_id": "1411414017615962112",
+        "url": "https://www.rotoballer.com/player-news/rj-harvey-emerging-as-a-factor-in-broncos-passing-game/1955440"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12489",
+      "player_name": "RJ Harvey",
+      "position": "RB",
+      "published": 1790855110000,
+      "source": "rotoballer",
+      "source_key": "222846",
+      "story_id": "nfl|12489|rotoballer|222846|1790855110000",
+      "title": "RJ Harvey Emerging as a Factor in Broncos Passing Game",
+      "url": "https://www.rotoballer.com/player-news/rj-harvey-emerging-as-a-factor-in-broncos-passing-game/1955440"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Terry McLaurin finally got going in Week 3, catching six of nine targets for 77 yards and a touchdown against Seattle. His first two games were much quieter, with four catches for 64 yards combined, but the usage had already started to turn. McLaurin went from four targets in Week 1 to nine in Week 2, then saw nine more with Marcus Mariota starting on Sunday. That is much closer to what Washington talked about during the offseason, when offensive coordinator David Blough said the goal was to get McLaurin around 10 targets per game. The quarterback situation is still worth watching. Jayden Daniels was limited in Wednesday's practice as he works back from a left elbow injury, so Mariota could remain under center against Indianapolis. Either way, McLaurin just showed the target volume can survive a quarterback change. After a slow opening week, his fantasy stock is moving back up heading into Sunday's game in London.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Terry McLaurin finally got going in Week 3, catching six of nine targets for 77 yards and a touchdown against Seattle. His first two games were much quieter, with four catches for 64 yards combined, but the usage had already started to turn. McLaurin went from four targets in Week 1 to nine in Week 2, then saw nine more with Marcus Mariota starting on Sunday. That is much closer to what Washington talked about during the offseason, when offensive coordinator David Blough said the goal was to get McLaurin around 10 targets per game. The quarterback situation is still worth watching. Jayden Daniels was limited in Wednesday's practice as he works back from a left elbow injury, so Mariota could remain under center against Indianapolis. Either way, McLaurin just showed the target volume can survive a quarterback change. After a slow opening week, his fantasy stock is moving back up heading into Sunday's game in London.",
+        "title": "Terry McLaurin Getting Back on Track After Slow Start",
+        "topic_id": "1411411500882485248",
+        "url": "https://www.rotoballer.com/player-news/terry-mclaurin-getting-back-on-track-after-slow-start/1955427"
+      },
+      "nfl_team": "WAS",
+      "player_id": "5927",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "published": 1790854332000,
+      "source": "rotoballer",
+      "source_key": "222845",
+      "story_id": "nfl|5927|rotoballer|222845|1790854332000",
+      "title": "Terry McLaurin Getting Back on Track After Slow Start",
+      "url": "https://www.rotoballer.com/player-news/terry-mclaurin-getting-back-on-track-after-slow-start/1955427"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars running back Bhayshul Tuten keeps giving the team reasons to leave him at the front of the backfield. He handled 15 carries for 73 yards and a touchdown against New England on Sunday, adding two catches for another 17 yards. More importantly, he played 30 offensive snaps compared with 13 for Chris Rodriguez Jr. and finished with 17 touches to Rodriguez's nine. That was not a one-week development, either. Tuten has now led Rodriguez in both snaps and touches in all three games, while averaging 4.7 yards on his 43 carries. He has rushed for 204 yards and two touchdowns so far and has not fallen below 13 carries in a game. Rodriguez will continue to get work, and Jacksonville has other backs involved on passing downs, so Tuten is not suddenly a 20-touch workhorse. Still, the lead role looks more secure now than it did entering the season. His fantasy value continues to move up heading into Sunday's matchup with Cincinnati.",
+      "metadata": {
+        "description": "Jacksonville Jaguars running back Bhayshul Tuten keeps giving the team reasons to leave him at the front of the backfield. He handled 15 carries for 73 yards and a touchdown against New England on Sunday, adding two catches for another 17 yards. More importantly, he played 30 offensive snaps compared with 13 for Chris Rodriguez Jr. and finished with 17 touches to Rodriguez's nine. That was not a one-week development, either. Tuten has now led Rodriguez in both snaps and touches in all three games, while averaging 4.7 yards on his 43 carries. He has rushed for 204 yards and two touchdowns so far and has not fallen below 13 carries in a game. Rodriguez will continue to get work, and Jacksonville has other backs involved on passing downs, so Tuten is not suddenly a 20-touch workhorse. Still, the lead role looks more secure now than it did entering the season. His fantasy value continues to move up heading into Sunday's matchup with Cincinnati.",
+        "title": "Bhayshul Tuten Firmly Establishing Himself as Jaguars' Lead Back",
+        "topic_id": "1411406467109588992",
+        "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-firmly-establishing-himself-as-jaguars-lead-back/1955401"
+      },
+      "nfl_team": "JAX",
+      "player_id": "12490",
+      "player_name": "Bhayshul Tuten",
+      "position": "RB",
+      "published": 1790853251000,
+      "source": "rotoballer",
+      "source_key": "222844",
+      "story_id": "nfl|12490|rotoballer|222844|1790853251000",
+      "title": "Bhayshul Tuten Firmly Establishing Himself as Jaguars' Lead Back",
+      "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-firmly-establishing-himself-as-jaguars-lead-back/1955401"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers tight end George Kittle has been an elite fantasy option in the two weeks since he returned to being 100% healthy. Kittle had a limited role in the season opener since it was his first game back from an Achilles injury, but over the last two weeks, he ranks as the overall TE1 in PPR leagues with 10 catches, 162 yards, and three touchdowns. His fantasy stock has benefitted from injuries at other positions, with wide receiver Mike Evans (ribs) up in the air for Week 4 and Demarcus Robinson (ankle), De'Zhaun Stribling (ankle), and Christian Kirk (calf) all on injured reserve. The 49ers are 3-0 and firing on all cylinders offensively, so Kittle should be able to sustain his top-tier fantasy value even as the receivers work back to full health. He should be treated as a high-end TE1 heading into Week 4 against the Broncos.",
+      "metadata": {
+        "description": "San Francisco 49ers tight end George Kittle has been an elite fantasy option in the two weeks since he returned to being 100% healthy. Kittle had a limited role in the season opener since it was his first game back from an Achilles injury, but over the last two weeks, he ranks as the overall TE1 in PPR leagues with 10 catches, 162 yards, and three touchdowns. His fantasy stock has benefitted from injuries at other positions, with wide receiver Mike Evans (ribs) up in the air for Week 4 and Demarcus Robinson (ankle), De'Zhaun Stribling (ankle), and Christian Kirk (calf) all on injured reserve. The 49ers are 3-0 and firing on all cylinders offensively, so Kittle should be able to sustain his top-tier fantasy value even as the receivers work back to full health. He should be treated as a high-end TE1 heading into Week 4 against the Broncos.",
+        "title": "George Kittle Has Been the Top-Scoring Tight End Since Returning to Full Health",
+        "topic_id": "1411405209351041024",
+        "url": "https://www.rotoballer.com/player-news/george-kittle-has-been-the-top-scoring-tight-end-since-returning-to-full-health/1955395"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1790852948000,
+      "source": "rotoballer",
+      "source_key": "222842",
+      "story_id": "nfl|4217|rotoballer|222842|1790852948000",
+      "title": "George Kittle Has Been the Top-Scoring Tight End Since Returning to Full Health",
+      "url": "https://www.rotoballer.com/player-news/george-kittle-has-been-the-top-scoring-tight-end-since-returning-to-full-health/1955395"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs tight end Travis Kelce is past the peak of his career, but he's still a top fantasy option for managers seeking consistent production at the tight end position. At 36 years old, Kelce ranks as the TE2 in PPR scoring through the first three weeks of the season. He already has 14 catches for 231 yards and a pair of touchdowns. It's early, but he's currently on pace to post his highest touchdown total since 2022, which is also the last time he finished a season as the overall TE1. Kansas City's offense is firing on all cylinders right now, so Kelce should remain a must-start fantasy tight end going forward. Given that his ADP was in the eighth round of fantasy drafts, he also has league-winning upside if he continues to produce at his current pace.",
+      "metadata": {
+        "description": "Kansas City Chiefs tight end Travis Kelce is past the peak of his career, but he's still a top fantasy option for managers seeking consistent production at the tight end position. At 36 years old, Kelce ranks as the TE2 in PPR scoring through the first three weeks of the season. He already has 14 catches for 231 yards and a pair of touchdowns. It's early, but he's currently on pace to post his highest touchdown total since 2022, which is also the last time he finished a season as the overall TE1. Kansas City's offense is firing on all cylinders right now, so Kelce should remain a must-start fantasy tight end going forward. Given that his ADP was in the eighth round of fantasy drafts, he also has league-winning upside if he continues to produce at his current pace.",
+        "title": "Travis Kelce Remains a High-Scoring Tight End at 36 Years Old",
+        "topic_id": "1411405209359429632",
+        "url": "https://www.rotoballer.com/player-news/travis-kelce-remains-a-high-scoring-tight-end-at-36-years-old/1955392"
+      },
+      "nfl_team": "KC",
+      "player_id": "1466",
+      "player_name": "Travis Kelce",
+      "position": "TE",
+      "published": 1790852710000,
+      "source": "rotoballer",
+      "source_key": "222843",
+      "story_id": "nfl|1466|rotoballer|222843|1790852710000",
+      "title": "Travis Kelce Remains a High-Scoring Tight End at 36 Years Old",
+      "url": "https://www.rotoballer.com/player-news/travis-kelce-remains-a-high-scoring-tight-end-at-36-years-old/1955392"
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears tight end Colston Loveland endured a very disappointing start to the season, but his performance in Week 3 suggests that he has turned a corner and will return to fantasy relevance going forward. After catching just one pass through the first two weeks, Loveland bounced back on Monday night with four catches for 31 yards. He also nearly had a touchdown, but he was ruled short of the goal line upon further review. Nevertheless, seeing Loveland handle increased volume and get involved around the goal line was very encouraging. He has played more than 79% of snaps in every game so far, so there's no concern about his ability to get on the field. The Bears' quarterback situation is up in the air for Week 4, but regardless of who gets the nod, Loveland is suddenly in a much better place from a fantasy perspective. He's a relatively safe bet to finish this week as a top-12 fantasy tight end.",
+      "metadata": {
+        "description": "Chicago Bears tight end Colston Loveland endured a very disappointing start to the season, but his performance in Week 3 suggests that he has turned a corner and will return to fantasy relevance going forward. After catching just one pass through the first two weeks, Loveland bounced back on Monday night with four catches for 31 yards. He also nearly had a touchdown, but he was ruled short of the goal line upon further review. Nevertheless, seeing Loveland handle increased volume and get involved around the goal line was very encouraging. He has played more than 79% of snaps in every game so far, so there's no concern about his ability to get on the field. The Bears' quarterback situation is up in the air for Week 4, but regardless of who gets the nod, Loveland is suddenly in a much better place from a fantasy perspective. He's a relatively safe bet to finish this week as a top-12 fantasy tight end.",
+        "title": "Colston Loveland Trending Up After Bounce-Back Showing on Monday Night",
+        "topic_id": "1411401433877671936",
+        "url": "https://www.rotoballer.com/player-news/colston-loveland-trending-up-after-bounce-back-showing-on-monday-night/1955384"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12517",
+      "player_name": "Colston Loveland",
+      "position": "TE",
+      "published": 1790852292000,
+      "source": "rotoballer",
+      "source_key": "222841",
+      "story_id": "nfl|12517|rotoballer|222841|1790852292000",
+      "title": "Colston Loveland Trending Up After Bounce-Back Showing on Monday Night",
+      "url": "https://www.rotoballer.com/player-news/colston-loveland-trending-up-after-bounce-back-showing-on-monday-night/1955384"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. is one of the few players who have stayed healthy within his position group, allowing him to increase his fantasy value as the season goes on. Samuel opened the year in a somewhat crowded receiver room, but he's now one of the only sources of availability with Mike Evans (ribs) in doubt for Week 4 and Demarcus Robinson (ankle), De'Zhaun Stribling (ankle), and Christian Kirk (calf) all on injured reserve. If Evans does miss Week 4, Samuel would step up as the No. 1 receiver with minimal competition alongside him. In that hypothetical scenario, he'd be locked in as a fantasy WR2, which falls in line with his total scoring so far this season. He actually didn't catch a pass last week, but he still managed to post double-digit fantasy points with an 80-yard touchdown off a lateral. A more traditional receiver's role surely awaits Samuel this Sunday, giving him WR2 status with low-end WR1 upside against the Broncos.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. is one of the few players who have stayed healthy within his position group, allowing him to increase his fantasy value as the season goes on. Samuel opened the year in a somewhat crowded receiver room, but he's now one of the only sources of availability with Mike Evans (ribs) in doubt for Week 4 and Demarcus Robinson (ankle), De'Zhaun Stribling (ankle), and Christian Kirk (calf) all on injured reserve. If Evans does miss Week 4, Samuel would step up as the No. 1 receiver with minimal competition alongside him. In that hypothetical scenario, he'd be locked in as a fantasy WR2, which falls in line with his total scoring so far this season. He actually didn't catch a pass last week, but he still managed to post double-digit fantasy points with an 80-yard touchdown off a lateral. A more traditional receiver's role surely awaits Samuel this Sunday, giving him WR2 status with low-end WR1 upside against the Broncos.",
+        "title": "Deebo Samuel Sr. Staying Healthy and Climbing Up the Rankings",
+        "topic_id": "1411400176203026432",
+        "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-staying-healthy-and-climbing-up-the-rankings/1955373"
+      },
+      "nfl_team": "SF",
+      "player_id": "5872",
+      "player_name": "Deebo Samuel",
+      "position": "WR",
+      "published": 1790851748000,
+      "source": "rotoballer",
+      "source_key": "222840",
+      "story_id": "nfl|5872|rotoballer|222840|1790851748000",
+      "title": "Deebo Samuel Sr. Staying Healthy and Climbing Up the Rankings",
+      "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-staying-healthy-and-climbing-up-the-rankings/1955373"
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions quarterback Jared Goff has yet to commit a turnover this season, and his role in a high-volume passing offense has vaulted him to QB6 in overall fantasy scoring through three weeks. Although he's not the most flashy name out there, Goff has enjoyed another very productive start to the season. So far, he has completed 70.6% of his pass attempts for 802 yards, eight touchdowns, and zero interceptions. He also has just seven sacks and zero fumbles. Goff has a great supporting cast around him that includes Amon-Ra St. Brown, Jameson Williams, Sam LaPorta, and Jahmyr Gibbs. Additionally, Gibbs' dominance in the rushing game forces defenses to play conservatively, so they can't sell out to defend the pass every play. The Lions have yet to win a game by more than seven points this year, but Goff and his offense are a huge reason why Detroit is above .500 through the first three weeks. He should continue to be deployed as a mid-to-low QB1 in weekly fantasy matchups.",
+      "metadata": {
+        "description": "Detroit Lions quarterback Jared Goff has yet to commit a turnover this season, and his role in a high-volume passing offense has vaulted him to QB6 in overall fantasy scoring through three weeks. Although he's not the most flashy name out there, Goff has enjoyed another very productive start to the season. So far, he has completed 70.6% of his pass attempts for 802 yards, eight touchdowns, and zero interceptions. He also has just seven sacks and zero fumbles. Goff has a great supporting cast around him that includes Amon-Ra St. Brown, Jameson Williams, Sam LaPorta, and Jahmyr Gibbs. Additionally, Gibbs' dominance in the rushing game forces defenses to play conservatively, so they can't sell out to defend the pass every play. The Lions have yet to win a game by more than seven points this year, but Goff and his offense are a huge reason why Detroit is above .500 through the first three weeks. He should continue to be deployed as a mid-to-low QB1 in weekly fantasy matchups.",
+        "title": "Jared Goff Maintaining High-End Value as Clean Streak Continues",
+        "topic_id": "1411398917026746368",
+        "url": "https://www.rotoballer.com/player-news/jared-goff-maintaining-high-end-value-as-clean-streak-continues/1955367"
+      },
+      "nfl_team": "DET",
+      "player_id": "3163",
+      "player_name": "Jared Goff",
+      "position": "QB",
+      "published": 1790851509000,
+      "source": "rotoballer",
+      "source_key": "222839",
+      "story_id": "nfl|3163|rotoballer|222839|1790851509000",
+      "title": "Jared Goff Maintaining High-End Value as Clean Streak Continues",
+      "url": "https://www.rotoballer.com/player-news/jared-goff-maintaining-high-end-value-as-clean-streak-continues/1955367"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers wide receiver Germie Bernard remains an intriguing dynasty stash, but without a clear path to meaningful volume this season, he can be avoided in most redraft formats. Bernard saw a significant spike in usage during Week 2 with Michael Pittman Jr. sidelined. However, in Weeks 1 and 3, with Pittman on the field, he totaled just one catch for 14 yards on one target. Last Sunday, he handled a very modest 27% snap share while operating as the Steelers' No. 4 receiver behind Pittman, DK Metcalf, and Roman Wilson. As long as those three receivers are healthy, the rookie from Alabama faces an extremely difficult challenge to get on the fantasy radar. He can be avoided in most redraft leagues for the time being.",
+      "metadata": {
+        "description": "Pittsburgh Steelers wide receiver Germie Bernard remains an intriguing dynasty stash, but without a clear path to meaningful volume this season, he can be avoided in most redraft formats. Bernard saw a significant spike in usage during Week 2 with Michael Pittman Jr. sidelined. However, in Weeks 1 and 3, with Pittman on the field, he totaled just one catch for 14 yards on one target. Last Sunday, he handled a very modest 27% snap share while operating as the Steelers' No. 4 receiver behind Pittman, DK Metcalf, and Roman Wilson. As long as those three receivers are healthy, the rookie from Alabama faces an extremely difficult challenge to get on the fantasy radar. He can be avoided in most redraft leagues for the time being.",
+        "title": "No Clear Path to Volume for Germie Bernard",
+        "topic_id": "1411390108657020928",
+        "url": "https://www.rotoballer.com/player-news/no-clear-path-to-volume-for-germie-bernard/1955330"
+      },
+      "nfl_team": "PIT",
+      "player_id": "13274",
+      "player_name": "Germie Bernard",
+      "position": "WR",
+      "published": 1790849289000,
+      "source": "rotoballer",
+      "source_key": "222838",
+      "story_id": "nfl|13274|rotoballer|222838|1790849289000",
+      "title": "No Clear Path to Volume for Germie Bernard",
+      "url": "https://www.rotoballer.com/player-news/no-clear-path-to-volume-for-germie-bernard/1955330"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Rachaad White (shoulder) is not practicing on Thursday, according to Tashan Reed of The Athletic. The Commanders are preparing for their game in London against the Colts on Sunday, but it isn't certain if White will be a part of the game plan. The veteran running back sustained the injury last week against the Seahawks but was able to return to the game in the second half. He finished the game with eight carries for 35 yards and a six-yard touchdown catch, showing a solid connection with backup QB Marcus Mariota. White could return to practice Friday and still play on Sunday, but if he isn't able to work through the issue in time, Jacory Croskey-Merritt would likely get more playing time in passing situations, with Kaytron Allen possibly mixing in as well.",
+      "metadata": {
+        "description": "Washington Commanders running back Rachaad White (shoulder) is not practicing on Thursday, according to Tashan Reed of The Athletic. The Commanders are preparing for their game in London against the Colts on Sunday, but it isn't certain if White will be a part of the game plan. The veteran running back sustained the injury last week against the Seahawks but was able to return to the game in the second half. He finished the game with eight carries for 35 yards and a six-yard touchdown catch, showing a solid connection with backup QB Marcus Mariota. White could return to practice Friday and still play on Sunday, but if he isn't able to work through the issue in time, Jacory Croskey-Merritt would likely get more playing time in passing situations, with Kaytron Allen possibly mixing in as well.",
+        "title": "Rachaad White Is Not Practicing Thursday",
+        "topic_id": "1411383815972110336",
+        "url": "https://www.rotoballer.com/player-news/rachaad-white-is-not-practicing-thursday/1955301"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1790847793000,
+      "source": "rotoballer",
+      "source_key": "222836",
+      "story_id": "nfl|8136|rotoballer|222836|1790847793000",
+      "title": "Rachaad White Is Not Practicing Thursday",
+      "url": "https://www.rotoballer.com/player-news/rachaad-white-is-not-practicing-thursday/1955301"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers running back Rico Dowdle (toe) has already been ruled out of his team's Week 4 matchup on Thursday night against the Browns, but his return may not be far away. NFL Network's Ian Rapoport reported Thursday morning that Dowdle is more \"day-to-day than anything else,\" and that he \"has a pretty good chance\" to return in Week 5, when the Steelers host the Colts at Acrisure Stadium in Pittsburgh. Dowdle shared work in the first two weeks of the season with Jaylen Warren, and he'll be back in that timeshare when he returns from his toe injury. Until then, Warren will carry a big workload, giving him a boost in fantasy value.",
+      "metadata": {
+        "description": "Pittsburgh Steelers running back Rico Dowdle (toe) has already been ruled out of his team's Week 4 matchup on Thursday night against the Browns, but his return may not be far away. NFL Network's Ian Rapoport reported Thursday morning that Dowdle is more \"day-to-day than anything else,\" and that he \"has a pretty good chance\" to return in Week 5, when the Steelers host the Colts at Acrisure Stadium in Pittsburgh. Dowdle shared work in the first two weeks of the season with Jaylen Warren, and he'll be back in that timeshare when he returns from his toe injury. Until then, Warren will carry a big workload, giving him a boost in fantasy value.",
+        "title": "Rico Dowdle Has a Pretty Good Chance to Play Next Week",
+        "topic_id": "1411380041274675200",
+        "url": "https://www.rotoballer.com/player-news/rico-dowdle-has-a-pretty-good-chance-to-play-next-week/1955276"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7021",
+      "player_name": "Rico Dowdle",
+      "position": "RB",
+      "published": 1790847016000,
+      "source": "rotoballer",
+      "source_key": "222835",
+      "story_id": "nfl|7021|rotoballer|222835|1790847016000",
+      "title": "Rico Dowdle Has a Pretty Good Chance to Play Next Week",
+      "url": "https://www.rotoballer.com/player-news/rico-dowdle-has-a-pretty-good-chance-to-play-next-week/1955276"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver George Pickens will be an unrestricted free agent in 2027, and he's looking to sign an extension in Dallas, according to ESPN's Adam Schefter. Pickens was traded to the Cowboys from the Steelers before last season, and he had his best season in the NFL with 93 catches for 1,429 receiving yards and nine touchdowns, all personal bests. Pickens hasn't found the end zone in the Cowboys' first three games this season, but he has remained very involved, with a total of 16 catches for 150 yards on 25 targets. Pickens is playing this season on a $27.3 million franchise tender, looking to prove he's worth a massive payday this coming offseason, whether that comes from the Cowboys or another team.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver George Pickens will be an unrestricted free agent in 2027, and he's looking to sign an extension in Dallas, according to ESPN's Adam Schefter. Pickens was traded to the Cowboys from the Steelers before last season, and he had his best season in the NFL with 93 catches for 1,429 receiving yards and nine touchdowns, all personal bests. Pickens hasn't found the end zone in the Cowboys' first three games this season, but he has remained very involved, with a total of 16 catches for 150 yards on 25 targets. Pickens is playing this season on a $27.3 million franchise tender, looking to prove he's worth a massive payday this coming offseason, whether that comes from the Cowboys or another team.",
+        "title": "George Pickens Looking for a Contract Extension",
+        "topic_id": "1411378783117729792",
+        "url": "https://www.rotoballer.com/player-news/george-pickens-looking-for-a-contract-extension/1955266"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8137",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "published": 1790846531000,
+      "source": "rotoballer",
+      "source_key": "222834",
+      "story_id": "nfl|8137|rotoballer|222834|1790846531000",
+      "title": "George Pickens Looking for a Contract Extension",
+      "url": "https://www.rotoballer.com/player-news/george-pickens-looking-for-a-contract-extension/1955266"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Keaton Mitchell (ankle) was wearing a walking boot on his left foot when the locker room was open to reporters, according to ESPN's Kris Rhim. Mitchell initially wasn't on the injury report, but was later added as being limited due to an ankle issue. Mitchell said he was \"OK\" according to Rhim, so there is still a chance he is able to play this weekend when the Chargers take on the Seahawks. Mitchell is getting some deserved attention after a strong showing in Week 3 against the Bills, when he scored the team's only touchdown, racked up 52 yards on eight carries, and hauled in all three of his targets for a loss of five yards. Mitchell will be a deep-league FLEX option if he's healthy for Week 4, while Kimani Vidal would be worth a look if Mitchell's injury ends up costing him a game.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Keaton Mitchell (ankle) was wearing a walking boot on his left foot when the locker room was open to reporters, according to ESPN's Kris Rhim. Mitchell initially wasn't on the injury report, but was later added as being limited due to an ankle issue. Mitchell said he was \"OK\" according to Rhim, so there is still a chance he is able to play this weekend when the Chargers take on the Seahawks. Mitchell is getting some deserved attention after a strong showing in Week 3 against the Bills, when he scored the team's only touchdown, racked up 52 yards on eight carries, and hauled in all three of his targets for a loss of five yards. Mitchell will be a deep-league FLEX option if he's healthy for Week 4, while Kimani Vidal would be worth a look if Mitchell's injury ends up costing him a game.",
+        "title": "Keaton Mitchell in a Walking Boot",
+        "topic_id": "1411376266002628608",
+        "url": "https://www.rotoballer.com/player-news/keaton-mitchell-in-a-walking-boot/1955248"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1790845747000,
+      "source": "rotoballer",
+      "source_key": "222833",
+      "story_id": "nfl|9511|rotoballer|222833|1790845747000",
+      "title": "Keaton Mitchell in a Walking Boot",
+      "url": "https://www.rotoballer.com/player-news/keaton-mitchell-in-a-walking-boot/1955248"
+    },
     {
       "analysis": "Ferguson remains likely to be sidelined this week. ",
       "description": "Terrance Ferguson did not practice on Wednesday. ",
@@ -110665,1012 +111008,6 @@
       "story_id": "nfl|6904|rotowire|635827|1788280017000",
       "title": "Jalen Hurts - Excited about new offense",
       "url": null
-    },
-    {
-      "analysis": "The Patriots made several splash moves this offseason, including the additions of A.J. Brown and Romeo Doubs, that have garnered most of the headlines. Henry, though, is going to be a staple. The veteran has caught 60-or-more passes from Drake Maye in each of the last two seasons. Daniels notes that Henry is particularly crucial due to the lack of experienced options behind him on the depth chart. Rookie Eli Raridon and journeyman Cameron Latu are the next two options for the Patriots at tight end.",
-      "description": "Henry is still expected to be a key part of the Patriots offense this season, Mark Daniels of MassLive.com reports.",
-      "metadata": {
-        "analysis": "The Patriots made several splash moves this offseason, including the additions of A.J. Brown and Romeo Doubs, that have garnered most of the headlines. Henry, though, is going to be a staple. The veteran has caught 60-or-more passes from Drake Maye in each of the last two seasons. Daniels notes that Henry is particularly crucial due to the lack of experienced options behind him on the depth chart. Rookie Eli Raridon and journeyman Cameron Latu are the next two options for the Patriots at tight end.",
-        "description": "Henry is still expected to be a key part of the Patriots offense this season, Mark Daniels of MassLive.com reports.",
-        "title": "Hunter Henry - Key part of offense in 2026",
-        "topic_id": "1400551134598266880"
-      },
-      "nfl_team": "NE",
-      "player_id": "3214",
-      "player_name": "Hunter Henry",
-      "position": "TE",
-      "published": 1788279731000,
-      "source": "rotowire",
-      "source_key": "635826",
-      "story_id": "nfl|3214|rotowire|635826|1788279731000",
-      "title": "Hunter Henry - Key part of offense in 2026",
-      "url": null
-    },
-    {
-      "analysis": "Pierce missed most of training camp while recovering from offseason ankle surgery. He appears to be on track to be good to go for Week 1, though it is unclear if he will be limited in any way. ",
-      "description": "Alec Pierce practiced on Tuesday. ",
-      "metadata": {
-        "analysis": "Pierce missed most of training camp while recovering from offseason ankle surgery. He appears to be on track to be good to go for Week 1, though it is unclear if he will be limited in any way. ",
-        "description": "Alec Pierce practiced on Tuesday. ",
-        "title": "Alec Pierce (ankle) practices Tuesday ",
-        "topic_id": "1400549877607358464",
-        "url": "https://www.fantasypros.com/nfl/news/605297/alec-pierce-ankle-practices-tuesday.php"
-      },
-      "nfl_team": "IND",
-      "player_id": "8142",
-      "player_name": "Alec Pierce",
-      "position": "WR",
-      "published": 1788279621086,
-      "source": "fantasy_pros",
-      "source_key": "605297",
-      "story_id": "nfl|8142|fantasy_pros|605297|1788279621086",
-      "title": "Alec Pierce (ankle) practices Tuesday ",
-      "url": "https://www.fantasypros.com/nfl/news/605297/alec-pierce-ankle-practices-tuesday.php"
-    },
-    {
-      "analysis": "Downs missed time last week with a calf issue. He is on track to be good to go for the season opener next week. ",
-      "description": "Josh Downs practiced on Tuesday. ",
-      "metadata": {
-        "analysis": "Downs missed time last week with a calf issue. He is on track to be good to go for the season opener next week. ",
-        "description": "Josh Downs practiced on Tuesday. ",
-        "title": "Josh Downs (calf) practices Tuesday ",
-        "topic_id": "1400549877531860992",
-        "url": "https://www.fantasypros.com/nfl/news/605298/josh-downs-calf-practices-tuesday.php"
-      },
-      "nfl_team": "IND",
-      "player_id": "9500",
-      "player_name": "Josh Downs",
-      "position": "WR",
-      "published": 1788279621070,
-      "source": "fantasy_pros",
-      "source_key": "605298",
-      "story_id": "nfl|9500|fantasy_pros|605298|1788279621070",
-      "title": "Josh Downs (calf) practices Tuesday ",
-      "url": "https://www.fantasypros.com/nfl/news/605298/josh-downs-calf-practices-tuesday.php"
-    },
-    {
-      "analysis": "It is unclear what the exact reasoning is. There could be an update after practice. Brooks figures to enter the season complementing Chuba Hubbard. ",
-      "description": "Jonathon Brooks was seen working on the side with trainers during practice on Tuesday. ",
-      "metadata": {
-        "analysis": "It is unclear what the exact reasoning is. There could be an update after practice. Brooks figures to enter the season complementing Chuba Hubbard. ",
-        "description": "Jonathon Brooks was seen working on the side with trainers during practice on Tuesday. ",
-        "title": "Jonathon Brooks working with trainers on side during practice Tuesday ",
-        "topic_id": "1400548621740453888",
-        "url": "https://www.fantasypros.com/nfl/news/605293/jonathon-brooks-working-with-trainers-on-side-during-practice-tuesday.php"
-      },
-      "nfl_team": "CAR",
-      "player_id": "11583",
-      "player_name": "Jonathon Brooks",
-      "position": "RB",
-      "published": 1788279321665,
-      "source": "fantasy_pros",
-      "source_key": "605293",
-      "story_id": "nfl|11583|fantasy_pros|605293|1788279321665",
-      "title": "Jonathon Brooks working with trainers on side during practice Tuesday ",
-      "url": "https://www.fantasypros.com/nfl/news/605293/jonathon-brooks-working-with-trainers-on-side-during-practice-tuesday.php"
-    },
-    {
-      "analysis": "Jeanty remains uncertain for Week 1. The fact that he avoided being placed on injured reserve is a positive sign he is expected to miss fewer than four games if he isn't ready to go to begin the season. ",
-      "description": "Ashton Jeanty was not seen practicing on Tuesday. ",
-      "metadata": {
-        "analysis": "Jeanty remains uncertain for Week 1. The fact that he avoided being placed on injured reserve is a positive sign he is expected to miss fewer than four games if he isn't ready to go to begin the season. ",
-        "description": "Ashton Jeanty was not seen practicing on Tuesday. ",
-        "title": "Ashton Jeanty (ankle) not seen practicing Tuesday ",
-        "topic_id": "1400548621673345024",
-        "url": "https://www.fantasypros.com/nfl/news/605294/ashton-jeanty-ankle-not-seen-practicing-tuesday.php"
-      },
-      "nfl_team": "LV",
-      "player_id": "12527",
-      "player_name": "Ashton Jeanty",
-      "position": "RB",
-      "published": 1788279321649,
-      "source": "fantasy_pros",
-      "source_key": "605294",
-      "story_id": "nfl|12527|fantasy_pros|605294|1788279321649",
-      "title": "Ashton Jeanty (ankle) not seen practicing Tuesday ",
-      "url": "https://www.fantasypros.com/nfl/news/605294/ashton-jeanty-ankle-not-seen-practicing-tuesday.php"
-    },
-    {
-      "analysis": "Evans has been absent from practice for much of the past few weeks. He will likely need to log multiple practices early next week to have a good chance of playing in Week 1 against the Rams. ",
-      "description": "49ers GM John Lynch said he hopes Mike Evans will practice next week.",
-      "metadata": {
-        "analysis": "Evans has been absent from practice for much of the past few weeks. He will likely need to log multiple practices early next week to have a good chance of playing in Week 1 against the Rams. ",
-        "description": "49ers GM John Lynch said he hopes Mike Evans will practice next week.",
-        "title": "Mike Evans (adductor) hopeful to return to practice next week",
-        "topic_id": "1400548621589458944",
-        "url": "https://www.fantasypros.com/nfl/news/605295/mike-evans-adductor-hopeful-to-return-to-practice-next-week.php"
-      },
-      "nfl_team": "SF",
-      "player_id": "2216",
-      "player_name": "Mike Evans",
-      "position": "WR",
-      "published": 1788279321629,
-      "source": "fantasy_pros",
-      "source_key": "605295",
-      "story_id": "nfl|2216|fantasy_pros|605295|1788279321629",
-      "title": "Mike Evans (adductor) hopeful to return to practice next week",
-      "url": "https://www.fantasypros.com/nfl/news/605295/mike-evans-adductor-hopeful-to-return-to-practice-next-week.php"
-    },
-    {
-      "analysis": "Warren has been working his way back from a minor groin issue. He should be good to go for Week 1 next week. ",
-      "description": "Tyler Warren was able to practice on Tuesday. ",
-      "metadata": {
-        "analysis": "Warren has been working his way back from a minor groin issue. He should be good to go for Week 1 next week. ",
-        "description": "Tyler Warren was able to practice on Tuesday. ",
-        "title": "Tyler Warren (groin) practices Tuesday ",
-        "topic_id": "1400548621509767168",
-        "url": "https://www.fantasypros.com/nfl/news/605296/tyler-warren-groin-practices-tuesday.php"
-      },
-      "nfl_team": "IND",
-      "player_id": "12518",
-      "player_name": "Tyler Warren",
-      "position": "TE",
-      "published": 1788279321611,
-      "source": "fantasy_pros",
-      "source_key": "605296",
-      "story_id": "nfl|12518|fantasy_pros|605296|1788279321611",
-      "title": "Tyler Warren (groin) practices Tuesday ",
-      "url": "https://www.fantasypros.com/nfl/news/605296/tyler-warren-groin-practices-tuesday.php"
-    },
-    {
-      "analysis": "Kittle is making strides in his recovery from an Achilles tear suffered in the playoffs. He went through some team drills Monday, and the fact that he's going to be on the field back-to-back days is especially encouraging. The 49ers are just over a week away from their season-opener in Australia, so it's still a tight timeline for Kittle be up to game speed. His progress in practice this week will paint a clearer picture for whether he will be ready to go when the season starts.",
-      "description": "Kittle (Achilles) participated in practice Monday and plans to do so again Tuesday, David Lombardi of the San Francisco Standard reports.",
-      "metadata": {
-        "analysis": "Kittle is making strides in his recovery from an Achilles tear suffered in the playoffs. He went through some team drills Monday, and the fact that he's going to be on the field back-to-back days is especially encouraging. The 49ers are just over a week away from their season-opener in Australia, so it's still a tight timeline for Kittle be up to game speed. His progress in practice this week will paint a clearer picture for whether he will be ready to go when the season starts.",
-        "description": "Kittle (Achilles) participated in practice Monday and plans to do so again Tuesday, David Lombardi of the San Francisco Standard reports.",
-        "title": "George Kittle - Going through team drills",
-        "topic_id": "1400548614526230528"
-      },
-      "nfl_team": "SF",
-      "player_id": "4217",
-      "player_name": "George Kittle",
-      "position": "TE",
-      "published": 1788279091000,
-      "source": "rotowire",
-      "source_key": "635825",
-      "story_id": "nfl|4217|rotowire|635825|1788279091000",
-      "title": "George Kittle - Going through team drills",
-      "url": null
-    },
-    {
-      "analysis": "McMillan missed most of training camp with the issue, but there's been optimism about McMillan being available for Week 1 against the Bengals in 12 days. McMillan is expected to fill the third receiver role alongside Emeka Egbuka (toe) and Chris Godwin this season, though rookie Ted Hurst is also likely to see sub-package snaps at the position. McMillan appeared in just four regular-season games last season due to a neck injury. He turned 15 targets into 12 catches for 178 scoreless yards after producing eight touchdowns as a rookie in 2024.",
-      "description": "McMillan (knee) remains sidelined at Tuesday's practice, PewterReport.com reports.",
-      "metadata": {
-        "analysis": "McMillan missed most of training camp with the issue, but there's been optimism about McMillan being available for Week 1 against the Bengals in 12 days. McMillan is expected to fill the third receiver role alongside Emeka Egbuka (toe) and Chris Godwin this season, though rookie Ted Hurst is also likely to see sub-package snaps at the position. McMillan appeared in just four regular-season games last season due to a neck injury. He turned 15 targets into 12 catches for 178 scoreless yards after producing eight touchdowns as a rookie in 2024.",
-        "description": "McMillan (knee) remains sidelined at Tuesday's practice, PewterReport.com reports.",
-        "title": "Jalen McMillan - Remains sidelined at practice",
-        "topic_id": "1400547356411215872"
-      },
-      "nfl_team": "TB",
-      "player_id": "11618",
-      "player_name": "Jalen McMillan",
-      "position": "WR",
-      "published": 1788278885000,
-      "source": "rotowire",
-      "source_key": "635824",
-      "story_id": "nfl|11618|rotowire|635824|1788278885000",
-      "title": "Jalen McMillan - Remains sidelined at practice",
-      "url": null
-    },
-    {
-      "analysis": "Dell was placed on injured reserve with a designation for return to begin the season and will be required to miss at least the Texans' first four games. While Dell is sidelined, the likes of Kayshon Boutte, Jaylin Noel and Xavier Hutchinson will vie for snaps behind No. 1 wideout Nico Collins.",
-      "description": "Texans general manager Nick Caserio said Tuesday that Dell (knee) is getting \"closer\" to a return, Aaron Wilson of KPRC 2 Houston reports. \"He's close, he's not quite there,\" Caserio said. \"He's closer than he was during training camp.\"",
-      "metadata": {
-        "analysis": "Dell was placed on injured reserve with a designation for return to begin the season and will be required to miss at least the Texans' first four games. While Dell is sidelined, the likes of Kayshon Boutte, Jaylin Noel and Xavier Hutchinson will vie for snaps behind No. 1 wideout Nico Collins.",
-        "description": "Texans general manager Nick Caserio said Tuesday that Dell (knee) is getting \"closer\" to a return, Aaron Wilson of KPRC 2 Houston reports. \"He's close, he's not quite there,\" Caserio said. \"He's closer than he was during training camp.\"",
-        "title": "Tank Dell - Inching closer to return",
-        "topic_id": "1400547356373467136"
-      },
-      "nfl_team": "HOU",
-      "player_id": "9502",
-      "player_name": "Tank Dell",
-      "position": "WR",
-      "published": 1788278652000,
-      "source": "rotowire",
-      "source_key": "635823",
-      "story_id": "nfl|9502|rotowire|635823|1788278652000",
-      "title": "Tank Dell - Inching closer to return",
-      "url": null
-    },
-    {
-      "analysis": "The veteran has been slowed by an adductor injury over the last week. The team will continue to be cautious with Evans as they prepare for the season opener on September 10  in Australia. That Evans won't practice this week is notable, given the already tight timeline and the upcoming international travel.",
-      "description": "49ers general manager John Lynch said Tuesday the team hopes to have Evans (groin) back at practice next week, David Lombardi of the San Francisco Standard reports.",
-      "metadata": {
-        "analysis": "The veteran has been slowed by an adductor injury over the last week. The team will continue to be cautious with Evans as they prepare for the season opener on September 10  in Australia. That Evans won't practice this week is notable, given the already tight timeline and the upcoming international travel.",
-        "description": "49ers general manager John Lynch said Tuesday the team hopes to have Evans (groin) back at practice next week, David Lombardi of the San Francisco Standard reports.",
-        "title": "Mike Evans - Eyeing practice return next week",
-        "topic_id": "1400547356348301312"
-      },
-      "nfl_team": "SF",
-      "player_id": "2216",
-      "player_name": "Mike Evans",
-      "position": "WR",
-      "published": 1788278650000,
-      "source": "rotowire",
-      "source_key": "635822",
-      "story_id": "nfl|2216|rotowire|635822|1788278650000",
-      "title": "Mike Evans - Eyeing practice return next week",
-      "url": null
-    },
-    {
-      "analysis": "Hubbard's level of participation in practice will be monitored, but he's on the field with his helmet as the session gets underway. The veteran has been hampered by a hamstring injury sustained in mid-August, but has been progressing well. His participation on Tuesday is a good sign that he's trending in the right direction toward being ready for the start of the season.",
-      "description": "Hubbard (hamstring) returned to practice Tuesday, Joe Person of The Athletic  reports.",
-      "metadata": {
-        "analysis": "Hubbard's level of participation in practice will be monitored, but he's on the field with his helmet as the session gets underway. The veteran has been hampered by a hamstring injury sustained in mid-August, but has been progressing well. His participation on Tuesday is a good sign that he's trending in the right direction toward being ready for the start of the season.",
-        "description": "Hubbard (hamstring) returned to practice Tuesday, Joe Person of The Athletic  reports.",
-        "title": "Chuba Hubbard - Returns to practice Tuesday",
-        "topic_id": "1400544838901841920"
-      },
-      "nfl_team": "CAR",
-      "player_id": "7594",
-      "player_name": "Chuba Hubbard",
-      "position": "RB",
-      "published": 1788278174000,
-      "source": "rotowire",
-      "source_key": "635820",
-      "story_id": "nfl|7594|rotowire|635820|1788278174000",
-      "title": "Chuba Hubbard - Returns to practice Tuesday",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Buffalo Bills wide receiver Khalil Shakir remained out of practice Tuesday, according to Joe Buscaglia of The Athletic. Shakir has not practiced since Aug. 18, when he was one of several Bills held out, and head coach Joe Brady later confirmed he was dealing with an injury. Buffalo has not disclosed what is bothering him. Shakir also missed the final two preseason games after catching two passes for 41 yards in the opener against Carolina. He led the Bills with 72 catches and 719 receiving yards in 16 games last season, adding four touchdowns. Buffalo does not open the regular season until Sept. 13 at Houston, so there is still time for Shakir to get back on the field. Still, the continued absence is worth monitoring until he resumes practice.",
-      "metadata": {
-        "description": "Buffalo Bills wide receiver Khalil Shakir remained out of practice Tuesday, according to Joe Buscaglia of The Athletic. Shakir has not practiced since Aug. 18, when he was one of several Bills held out, and head coach Joe Brady later confirmed he was dealing with an injury. Buffalo has not disclosed what is bothering him. Shakir also missed the final two preseason games after catching two passes for 41 yards in the opener against Carolina. He led the Bills with 72 catches and 719 receiving yards in 16 games last season, adding four touchdowns. Buffalo does not open the regular season until Sept. 13 at Houston, so there is still time for Shakir to get back on the field. Still, the continued absence is worth monitoring until he resumes practice.",
-        "title": "Khalil Shakir Still Not Practicing",
-        "topic_id": "1400624118784659456",
-        "url": "https://www.rotoballer.com/player-news/khalil-shakir-still-not-practicing/1921365"
-      },
-      "nfl_team": "BUF",
-      "player_id": "8134",
-      "player_name": "Khalil Shakir",
-      "position": "WR",
-      "published": 1788278022000,
-      "source": "rotoballer",
-      "source_key": "219863",
-      "story_id": "nfl|8134|rotoballer|219863|1788278022000",
-      "title": "Khalil Shakir Still Not Practicing",
-      "url": "https://www.rotoballer.com/player-news/khalil-shakir-still-not-practicing/1921365"
-    },
-    {
-      "analysis": "The Chiefs had final roster cutdowns Sunday and waived veteran Emari Demercado, clearing a path to a role for Johnson. The rookie out of Nebraska impressed throughout training camp and the preseason. Kansas City also has Brashard Smith on the roster, but Johnson may be the handcuff to target for fantasy managers.",
-      "description": "Johnson is in line to be Kenneth Walker's backup for the Chiefs this season.",
-      "metadata": {
-        "analysis": "The Chiefs had final roster cutdowns Sunday and waived veteran Emari Demercado, clearing a path to a role for Johnson. The rookie out of Nebraska impressed throughout training camp and the preseason. Kansas City also has Brashard Smith on the roster, but Johnson may be the handcuff to target for fantasy managers.",
-        "description": "Johnson is in line to be Kenneth Walker's backup for the Chiefs this season.",
-        "title": "Emmett Johnson - Well-positioned for role",
-        "topic_id": "1400543580086398976"
-      },
-      "nfl_team": "KC",
-      "player_id": "13337",
-      "player_name": "Emmett Johnson",
-      "position": "RB",
-      "published": 1788277865000,
-      "source": "rotowire",
-      "source_key": "635818",
-      "story_id": "nfl|13337|rotowire|635818|1788277865000",
-      "title": "Emmett Johnson - Well-positioned for role",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Tennessee Titans rookie wide receiver Carnell Tate is working through some stiffness, head coach Robert Saleh said Tuesday, according to Turron Davenport of ESPN. Saleh did not specify what is bothering Tate or indicate how much time, if any, he could miss. The fourth overall pick also sat out an Aug. 19 practice after waking up with stiffness, though it is unclear whether this is related to the same issue. Tate was back on the field two days later and finished camp on a high note, catching a team-high seven passes with two touchdowns in an Aug. 27 joint practice against Chicago. There is no indication yet how much the stiffness will affect his preparation for Week 1, making Tate's practice participation the main thing to watch over the next several days.",
-      "metadata": {
-        "description": "Tennessee Titans rookie wide receiver Carnell Tate is working through some stiffness, head coach Robert Saleh said Tuesday, according to Turron Davenport of ESPN. Saleh did not specify what is bothering Tate or indicate how much time, if any, he could miss. The fourth overall pick also sat out an Aug. 19 practice after waking up with stiffness, though it is unclear whether this is related to the same issue. Tate was back on the field two days later and finished camp on a high note, catching a team-high seven passes with two touchdowns in an Aug. 27 joint practice against Chicago. There is no indication yet how much the stiffness will affect his preparation for Week 1, making Tate's practice participation the main thing to watch over the next several days.",
-        "title": "Carnell Tate Working Through Some Stiffness",
-        "topic_id": "1400624118847574016",
-        "url": "https://www.rotoballer.com/player-news/carnell-tate-working-through-some-stiffness/1921350"
-      },
-      "nfl_team": "TEN",
-      "player_id": "13279",
-      "player_name": "Carnell Tate",
-      "position": "WR",
-      "published": 1788277188000,
-      "source": "rotoballer",
-      "source_key": "219864",
-      "story_id": "nfl|13279|rotoballer|219864|1788277188000",
-      "title": "Carnell Tate Working Through Some Stiffness",
-      "url": "https://www.rotoballer.com/player-news/carnell-tate-working-through-some-stiffness/1921350"
-    },
-    {
-      "analysis": "The 53-man roster is set in Indianapolis, and Richardson is in the team's plans for the year despite an offseason that included a trade request from the quarterback. Richardson is set to be Daniel Jones' backup as he enters the final year of his rookie deal.",
-      "description": "Richardson is expected to remain with Indianapolis for the 2026 season, ",
-      "metadata": {
-        "analysis": "The 53-man roster is set in Indianapolis, and Richardson is in the team's plans for the year despite an offseason that included a trade request from the quarterback. Richardson is set to be Daniel Jones' backup as he enters the final year of his rookie deal.",
-        "description": "Richardson is expected to remain with Indianapolis for the 2026 season, ",
-        "title": "Anthony Richardson - Expected to stay with team",
-        "topic_id": "1400539805393141760"
-      },
-      "nfl_team": "IND",
-      "player_id": "9229",
-      "player_name": "Anthony Richardson",
-      "position": "QB",
-      "published": 1788277162000,
-      "source": "rotowire",
-      "source_key": "635817",
-      "story_id": "nfl|9229|rotowire|635817|1788277162000",
-      "title": "Anthony Richardson - Expected to stay with team",
-      "url": null
-    },
-    {
-      "analysis": "Allen will not face discipline from the team following his arrest on DUI charges Sunday. \"We should be good,\" said Ballard when asked about that on Tuesday, and added that \"Good people make mistakes. [Allen] is a tremendous human being...he'll work through the process of the legal system.\" It appears that Allen can now shift his focus to getting up to speed with the team in advance of the season-opener on Sept. 13 against the Ravens.",
-      "description": "Colts general manager Chris Ballard said Tuesday that Allen will play in Week 1 against the Ravens, Jake Arthur of Colts Roundtable reports.",
-      "metadata": {
-        "analysis": "Allen will not face discipline from the team following his arrest on DUI charges Sunday. \"We should be good,\" said Ballard when asked about that on Tuesday, and added that \"Good people make mistakes. [Allen] is a tremendous human being...he'll work through the process of the legal system.\" It appears that Allen can now shift his focus to getting up to speed with the team in advance of the season-opener on Sept. 13 against the Ravens.",
-        "description": "Colts general manager Chris Ballard said Tuesday that Allen will play in Week 1 against the Ravens, Jake Arthur of Colts Roundtable reports.",
-        "title": "Keenan Allen - Will play Week 1, per GM",
-        "topic_id": "1400538547085180928"
-      },
-      "nfl_team": "IND",
-      "player_id": "1479",
-      "player_name": "Keenan Allen",
-      "position": "WR",
-      "published": 1788276623000,
-      "source": "rotowire",
-      "source_key": "635815",
-      "story_id": "nfl|1479|rotowire|635815|1788276623000",
-      "title": "Keenan Allen - Will play Week 1, per GM",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Chicago Bears wide receiver Luther Burden III (groin) will practice Tuesday, head coach Ben Johnson said, according to Mason Williams. Burden injured his groin during an Aug. 8 practice and missed the rest of the preseason. He returned to the field Aug. 26 but was limited to individual drills before heading inside when the Bears moved into 7-on-7 work. Tuesday's practice should give Chicago another look at where he stands as Week 1 approaches. Burden caught 47 passes for 652 yards and two touchdowns in 15 games as a rookie and is listed with the first-team offense on the Bears' current depth chart. Getting him back into team work would be another encouraging step, but his actual participation level Tuesday will matter more than the announcement itself.",
-      "metadata": {
-        "description": "Chicago Bears wide receiver Luther Burden III (groin) will practice Tuesday, head coach Ben Johnson said, according to Mason Williams. Burden injured his groin during an Aug. 8 practice and missed the rest of the preseason. He returned to the field Aug. 26 but was limited to individual drills before heading inside when the Bears moved into 7-on-7 work. Tuesday's practice should give Chicago another look at where he stands as Week 1 approaches. Burden caught 47 passes for 652 yards and two touchdowns in 15 games as a rookie and is listed with the first-team offense on the Bears' current depth chart. Getting him back into team work would be another encouraging step, but his actual participation level Tuesday will matter more than the announcement itself.",
-        "title": "Luther Burden III Will Practice Tuesday",
-        "topic_id": "1400624118860156928",
-        "url": "https://www.rotoballer.com/player-news/luther-burden-iii-will-practice-tuesday/1921338"
-      },
-      "nfl_team": "CHI",
-      "player_id": "12519",
-      "player_name": "Luther Burden",
-      "position": "WR",
-      "published": 1788276366000,
-      "source": "rotoballer",
-      "source_key": "219865",
-      "story_id": "nfl|12519|rotoballer|219865|1788276366000",
-      "title": "Luther Burden III Will Practice Tuesday",
-      "url": "https://www.rotoballer.com/player-news/luther-burden-iii-will-practice-tuesday/1921338"
-    },
-    {
-      "analysis": "This is a big positive for Croskey-Merritt, who had been working through a lower-body issue late in the preseason. He is now trending in the right direction for Week 1, but official injury reports the week of the game will give final confirmation. If healthy, Croskey-Merritt is in line for a prominent role yet again in the Washington backfield.",
-      "description": "Croskey-Merritt (lower body) is dressed for Tuesday's practice, Tashan Reed of The Washington Post reports.",
-      "metadata": {
-        "analysis": "This is a big positive for Croskey-Merritt, who had been working through a lower-body issue late in the preseason. He is now trending in the right direction for Week 1, but official injury reports the week of the game will give final confirmation. If healthy, Croskey-Merritt is in line for a prominent role yet again in the Washington backfield.",
-        "description": "Croskey-Merritt (lower body) is dressed for Tuesday's practice, Tashan Reed of The Washington Post reports.",
-        "title": "Jacory Croskey-Merritt - Back at practice Tuesday",
-        "topic_id": "1400536029403815936"
-      },
-      "nfl_team": "WAS",
-      "player_id": "12533",
-      "player_name": "Jacory Croskey-Merritt",
-      "position": "RB",
-      "published": 1788276137000,
-      "source": "rotowire",
-      "source_key": "635813",
-      "story_id": "nfl|12533|rotowire|635813|1788276137000",
-      "title": "Jacory Croskey-Merritt - Back at practice Tuesday",
-      "url": null
-    },
-    {
-      "analysis": "The second-year wideout is working through a toe injury that has slowed him since mid-August. Coach Todd Bowles said over the weekend that he was \"hopeful\" Egbuka would be available for Week 1, which is now just under two weeks away. Until Egbuka can return to the practice field, his Week 1 status appears to be in limbo.",
-      "description": "Egbuka (toe) is not practicing Tuesday, per Pewter Report.",
-      "metadata": {
-        "analysis": "The second-year wideout is working through a toe injury that has slowed him since mid-August. Coach Todd Bowles said over the weekend that he was \"hopeful\" Egbuka would be available for Week 1, which is now just under two weeks away. Until Egbuka can return to the practice field, his Week 1 status appears to be in limbo.",
-        "description": "Egbuka (toe) is not practicing Tuesday, per Pewter Report.",
-        "title": "Emeka Egbuka - Stting out Tuesday's practice",
-        "topic_id": "1400534771754389504"
-      },
-      "nfl_team": "TB",
-      "player_id": "12514",
-      "player_name": "Emeka Egbuka",
-      "position": "WR",
-      "published": 1788275916000,
-      "source": "rotowire",
-      "source_key": "635812",
-      "story_id": "nfl|12514|rotowire|635812|1788275916000",
-      "title": "Emeka Egbuka - Stting out Tuesday's practice",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams wide receiver Puka Nacua remains under NFL review as Week 1 approaches, and another off-field story surfaced Tuesday. According to the New York Post, Nacua's former girlfriend Hallie Aiono discussed experiencing betrayal, abuse and neglect during a past relationship while explaining why she is seeking professional help. She did not describe a specific incident or explicitly accuse Nacua of committing abuse in the video. Separately, Nacua is facing a civil lawsuit from Madison Atiabi, who alleges he bit her shoulder during a New Year's Eve gathering. Nacua's attorney has disputed allegations in the suit and characterized the biting as consensual horseplay. The NFL has not announced a suspension, and Nacua was not placed on the Commissioner's Exempt List over the weekend, though his situation remains under league review. He caught 129 passes for 1,715 yards and 10 touchdowns in 16 games last season. Until the league makes a decision, his availability for the Rams' Sept. 10 opener against San Francisco remains something fantasy managers need to watch.",
-      "metadata": {
-        "description": "Los Angeles Rams wide receiver Puka Nacua remains under NFL review as Week 1 approaches, and another off-field story surfaced Tuesday. According to the New York Post, Nacua's former girlfriend Hallie Aiono discussed experiencing betrayal, abuse and neglect during a past relationship while explaining why she is seeking professional help. She did not describe a specific incident or explicitly accuse Nacua of committing abuse in the video. Separately, Nacua is facing a civil lawsuit from Madison Atiabi, who alleges he bit her shoulder during a New Year's Eve gathering. Nacua's attorney has disputed allegations in the suit and characterized the biting as consensual horseplay. The NFL has not announced a suspension, and Nacua was not placed on the Commissioner's Exempt List over the weekend, though his situation remains under league review. He caught 129 passes for 1,715 yards and 10 touchdowns in 16 games last season. Until the league makes a decision, his availability for the Rams' Sept. 10 opener against San Francisco remains something fantasy managers need to watch.",
-        "title": "Puka Nacua Remains Under NFL Review Ahead of Week 1",
-        "topic_id": "1400624118952431616",
-        "url": "https://www.rotoballer.com/player-news/puka-nacua-remains-under-nfl-review-ahead-of-week-1/1921331"
-      },
-      "nfl_team": "LAR",
-      "player_id": "9493",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "published": 1788275647000,
-      "source": "rotoballer",
-      "source_key": "219866",
-      "story_id": "nfl|9493|rotoballer|219866|1788275647000",
-      "title": "Puka Nacua Remains Under NFL Review Ahead of Week 1",
-      "url": "https://www.rotoballer.com/player-news/puka-nacua-remains-under-nfl-review-ahead-of-week-1/1921331"
-    },
-    {
-      "analysis": "This marks the first time Jeanty has been participating during a media viewing period since the running back sustained an ankle injury during practice Aug. 23. Jeanty was initially not out with the team for Tuesday's session but has since gotten on the field to work with trainers. There are still some hurdles to be cleared before Jeanty's Week 1 status is confirmed, but the second-year back appears to be making progress.",
-      "description": "Jeanty (ankle) is working off to the side during Tuesday's practice, Sam Warren of The Athletic reports.",
-      "metadata": {
-        "analysis": "This marks the first time Jeanty has been participating during a media viewing period since the running back sustained an ankle injury during practice Aug. 23. Jeanty was initially not out with the team for Tuesday's session but has since gotten on the field to work with trainers. There are still some hurdles to be cleared before Jeanty's Week 1 status is confirmed, but the second-year back appears to be making progress.",
-        "description": "Jeanty (ankle) is working off to the side during Tuesday's practice, Sam Warren of The Athletic reports.",
-        "title": "Ashton Jeanty - Working with trainers Tuesday",
-        "topic_id": "1400533513647706112"
-      },
-      "nfl_team": "LV",
-      "player_id": "12527",
-      "player_name": "Ashton Jeanty",
-      "position": "RB",
-      "published": 1788275572000,
-      "source": "rotowire",
-      "source_key": "635810",
-      "story_id": "nfl|12527|rotowire|635810|1788275572000",
-      "title": "Ashton Jeanty - Working with trainers Tuesday",
-      "url": null
-    },
-    {
-      "analysis": "Head coach Klint Kubiak said Friday that he's \"counting on\" Jeanty to be available for Week 1, but the second-year running back will need to get back on the practice field first. The Raiders will open their season with a Sept. 13 game against the Dolphins, so Jeanty still has time to heal up from his sprained ankle. Rookie Mike Washington would be in store for an expanded role versus Miami if Jeanty is out or limited for that contest.",
-      "description": "Jeanty (ankle) was not spotted at Tuesday's practice, Sam Warren of The Athletic reports.",
-      "metadata": {
-        "analysis": "Head coach Klint Kubiak said Friday that he's \"counting on\" Jeanty to be available for Week 1, but the second-year running back will need to get back on the practice field first. The Raiders will open their season with a Sept. 13 game against the Dolphins, so Jeanty still has time to heal up from his sprained ankle. Rookie Mike Washington would be in store for an expanded role versus Miami if Jeanty is out or limited for that contest.",
-        "description": "Jeanty (ankle) was not spotted at Tuesday's practice, Sam Warren of The Athletic reports.",
-        "title": "Ashton Jeanty - Not spotted Tuesday",
-        "topic_id": "1400530996410974208"
-      },
-      "nfl_team": "LV",
-      "player_id": "12527",
-      "player_name": "Ashton Jeanty",
-      "position": "RB",
-      "published": 1788274931000,
-      "source": "rotowire",
-      "source_key": "635809",
-      "story_id": "nfl|12527|rotowire|635809|1788274931000",
-      "title": "Ashton Jeanty - Not spotted Tuesday",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Chicago Bears head coach Ben Johnson said that running back Kyle Monangai (knee) is more week-to-week with his knee injury, according to Mason Williams of NWI.com. Monangai suffered a right-knee injury in training camp practice on Aug. 16 and is still no closer to returning to the field, which is bad news for his availability for the Week 1 regular-season opener on Sunday, Sept. 13, against the Carolina Panthers. If the 24-year-old is not available to start the year, Roschon Johnson will be the favorite for change-of-pace backup duties behind starter D'Andre Swift. Monangai's injury makes Swift a more appealing RB2, at least in the short term. After being taken in the seventh round last year from Rutgers, Monangai impressed with 783 rushing yards and five rushing touchdowns on 169 carries in 17 regular-season contests, adding only 18 receptions on 30 targets for 164 yards as a receiver. His knee injury and lack of receiving skills out of the backfield are causing him to slip on fantasy draft boards, and RotoBaller has Monangai ranked as the RB40 for the 2026 season. Despite his injury, Monangai is still the handcuff for Swift managers.",
-      "metadata": {
-        "description": "Chicago Bears head coach Ben Johnson said that running back Kyle Monangai (knee) is more week-to-week with his knee injury, according to Mason Williams of NWI.com. Monangai suffered a right-knee injury in training camp practice on Aug. 16 and is still no closer to returning to the field, which is bad news for his availability for the Week 1 regular-season opener on Sunday, Sept. 13, against the Carolina Panthers. If the 24-year-old is not available to start the year, Roschon Johnson will be the favorite for change-of-pace backup duties behind starter D'Andre Swift. Monangai's injury makes Swift a more appealing RB2, at least in the short term. After being taken in the seventh round last year from Rutgers, Monangai impressed with 783 rushing yards and five rushing touchdowns on 169 carries in 17 regular-season contests, adding only 18 receptions on 30 targets for 164 yards as a receiver. His knee injury and lack of receiving skills out of the backfield are causing him to slip on fantasy draft boards, and RotoBaller has Monangai ranked as the RB40 for the 2026 season. Despite his injury, Monangai is still the handcuff for Swift managers.",
-        "title": "Kyle Monangai Week-to-Week With his Knee Injury",
-        "topic_id": "1400624118985986048",
-        "url": "https://www.rotoballer.com/player-news/kyle-monangai-week-to-week-with-his-knee-injury/1921320"
-      },
-      "nfl_team": "CHI",
-      "player_id": "12534",
-      "player_name": "Kyle Monangai",
-      "position": "RB",
-      "published": 1788274811000,
-      "source": "rotoballer",
-      "source_key": "219867",
-      "story_id": "nfl|12534|rotoballer|219867|1788274811000",
-      "title": "Kyle Monangai Week-to-Week With his Knee Injury",
-      "url": "https://www.rotoballer.com/player-news/kyle-monangai-week-to-week-with-his-knee-injury/1921320"
-    },
-    {
-      "analysis": null,
-      "description": "Houston Texans general manager Nick Caserio said on Tuesday that he has had \"productive talks\" with quarterback C.J. Stroud on a potential long-term contract extension, according to Aaron Wilson of KPRC 2 Sports. Caserio said that if nothing gets done before the start of the 2026 regular season, then something will likely be worked out next offseason. According to a source, no deal is imminent. The 24-year-old former second overall pick in 2023 from Ohio State came out swinging as a rookie and threw for 4,108 yards, 23 touchdowns, and only five interceptions in 15 regular-season starts. He regressed in each of the last two seasons, though, and threw for 3,041 yards, 19 touchdowns, and eight interceptions in 14 regular-season games in 2025 before falling apart in the playoffs. Stroud still has the ability to bounce back to his rookie production, but he will need Houston's supporting cast to step up around him, mainly the offensive line. Receiver Jayden Higgins' season-ending knee injury did not help matters. Fantasy managers should treat Stroud as a low-end QB2 option with upside as he looks to prove to the Texans that he is worth a big contract extension next offseason.",
-      "metadata": {
-        "description": "Houston Texans general manager Nick Caserio said on Tuesday that he has had \"productive talks\" with quarterback C.J. Stroud on a potential long-term contract extension, according to Aaron Wilson of KPRC 2 Sports. Caserio said that if nothing gets done before the start of the 2026 regular season, then something will likely be worked out next offseason. According to a source, no deal is imminent. The 24-year-old former second overall pick in 2023 from Ohio State came out swinging as a rookie and threw for 4,108 yards, 23 touchdowns, and only five interceptions in 15 regular-season starts. He regressed in each of the last two seasons, though, and threw for 3,041 yards, 19 touchdowns, and eight interceptions in 14 regular-season games in 2025 before falling apart in the playoffs. Stroud still has the ability to bounce back to his rookie production, but he will need Houston's supporting cast to step up around him, mainly the offensive line. Receiver Jayden Higgins' season-ending knee injury did not help matters. Fantasy managers should treat Stroud as a low-end QB2 option with upside as he looks to prove to the Texans that he is worth a big contract extension next offseason.",
-        "title": "Texans Have Had \"Productive Talks\" With C.J. Stroud on Extension",
-        "topic_id": "1400624119006957568",
-        "url": "https://www.rotoballer.com/player-news/texans-have-had-productive-talks-with-c-j-stroud-on-extension/1921311"
-      },
-      "nfl_team": "HOU",
-      "player_id": "9758",
-      "player_name": "C.J. Stroud",
-      "position": "QB",
-      "published": 1788274267000,
-      "source": "rotoballer",
-      "source_key": "219868",
-      "story_id": "nfl|9758|rotoballer|219868|1788274267000",
-      "title": "Texans Have Had \"Productive Talks\" With C.J. Stroud on Extension",
-      "url": "https://www.rotoballer.com/player-news/texans-have-had-productive-talks-with-c-j-stroud-on-extension/1921311"
-    },
-    {
-      "analysis": null,
-      "description": "Cincinnati Bengals wide receiver Tee Higgins (heel) is dealing with a heel contusion that is not considered a major concern for the Week 1 regular-season opener, according to Ben Baby of ESPN. Top Bengals wideout Ja'Marr Chase is also being eased back into practices after suffering a left-knee injury in training camp practice last week, but as long as there are no setbacks, both Higgins and Chase are expected to be ready to roll on Sunday, Sept. 13, against the Tampa Bay Buccaneers. Despite Chase drawing a massive target share as one of the top overall receivers in football, the 27-year-old Higgins gets his, too, in a pass-happy Bengals offense. The former second-rounder in 2020 from Clemson has not had a 1,000-yard receiving season since 2022, but he has racked up 21 touchdown catches in the last two years and went for 846 yards in just 15 games in 2025 in his sixth year in the league. As long as both Higgins and quarterback Joe Burrow stay healthy, Higgins will be a high-end WR2, at the very least, in an explosive pass-first offense in Cincy.",
-      "metadata": {
-        "description": "Cincinnati Bengals wide receiver Tee Higgins (heel) is dealing with a heel contusion that is not considered a major concern for the Week 1 regular-season opener, according to Ben Baby of ESPN. Top Bengals wideout Ja'Marr Chase is also being eased back into practices after suffering a left-knee injury in training camp practice last week, but as long as there are no setbacks, both Higgins and Chase are expected to be ready to roll on Sunday, Sept. 13, against the Tampa Bay Buccaneers. Despite Chase drawing a massive target share as one of the top overall receivers in football, the 27-year-old Higgins gets his, too, in a pass-happy Bengals offense. The former second-rounder in 2020 from Clemson has not had a 1,000-yard receiving season since 2022, but he has racked up 21 touchdown catches in the last two years and went for 846 yards in just 15 games in 2025 in his sixth year in the league. As long as both Higgins and quarterback Joe Burrow stay healthy, Higgins will be a high-end WR2, at the very least, in an explosive pass-first offense in Cincy.",
-        "title": "Tee Higgins Dealing With Minor Heel Contusion",
-        "topic_id": "1400624119048900608",
-        "url": "https://www.rotoballer.com/player-news/tee-higgins-dealing-with-minor-heel-contusion/1921306"
-      },
-      "nfl_team": "CIN",
-      "player_id": "6801",
-      "player_name": "Tee Higgins",
-      "position": "WR",
-      "published": 1788273392000,
-      "source": "rotoballer",
-      "source_key": "219869",
-      "story_id": "nfl|6801|rotoballer|219869|1788273392000",
-      "title": "Tee Higgins Dealing With Minor Heel Contusion",
-      "url": "https://www.rotoballer.com/player-news/tee-higgins-dealing-with-minor-heel-contusion/1921306"
-    },
-    {
-      "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back is scheduled to make his first appearance in court Nov. 17 and won't be eligible to practice or play while he remains on the exempt list, though head coach Matt LaFleur said Tuesday that Jacobs will be present at the team facility, per Rob Demovsky of ESPN.com. While Jacobs is out, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson as their available backfield options, with Lloyd being the favorite to lead the trio in touches.",
-      "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (personal) playing for the Packers at some point in 2026, Matt Schneidman of The Athletic reports.",
-      "metadata": {
-        "analysis": "Jacobs was placed on the Commissioner's Exempt List on Sunday, three days after he was formally charged with two misdemeanors stemming from his May arrest for a domestic incident. The 28-year-old running back is scheduled to make his first appearance in court Nov. 17 and won't be eligible to practice or play while he remains on the exempt list, though head coach Matt LaFleur said Tuesday that Jacobs will be present at the team facility, per Rob Demovsky of ESPN.com. While Jacobs is out, the Packers will have MarShawn Lloyd, Chris Brooks and Kaleb Johnson as their available backfield options, with Lloyd being the favorite to lead the trio in touches.",
-        "description": "General manager Brian Gutekunst said Tuesday that he anticipates Jacobs (personal) playing for the Packers at some point in 2026, Matt Schneidman of The Athletic reports.",
-        "title": "Josh Jacobs - GM expects him to play in 2026",
-        "topic_id": "1400524704241995776"
-      },
-      "nfl_team": "GB",
-      "player_id": "5850",
-      "player_name": "Josh Jacobs",
-      "position": "RB",
-      "published": 1788273311000,
-      "source": "rotowire",
-      "source_key": "635807",
-      "story_id": "nfl|5850|rotowire|635807|1788273311000",
-      "title": "Josh Jacobs - GM expects him to play in 2026",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots running back TreVeyon Henderson (ankle) continues to rehab a right-ankle injury that he suffered last Monday in training camp practice, according to ESPN's Mike Reiss. Henderson was present in the locker room on Tuesday and was walking normally, but he has not yet been cleared for a return to full participation. The 23-year-old second-year back's injury does not appear to be serious, but the Patriots are playing it safe in hopes that Henderson will be ready for the Week 1 season opener on Wednesday, Sept. 9, against the Seattle Seahawks in a rematch of the Super Bowl. It may not be a serious injury, but Henderson is running out of time, and the Patriots could limit his workload next Wednesday if he is active. The former second-rounder last year from Ohio State was productive with 911 rushing yards and nine rushing scores on 180 carries in 17 regular-season games, adding 35 catches for 221 yards and another touchdown through the air. However, he was a liability in pass protection and did not make strides in that area this summer in training camp. Therefore, Henderson and Rhamondre Stevenson will continue to split backfield work nearly down the middle. Fantasy managers should treat Henderson as a low-end RB2/high-end RB3/flex as he enters Year 2.",
-      "metadata": {
-        "description": "New England Patriots running back TreVeyon Henderson (ankle) continues to rehab a right-ankle injury that he suffered last Monday in training camp practice, according to ESPN's Mike Reiss. Henderson was present in the locker room on Tuesday and was walking normally, but he has not yet been cleared for a return to full participation. The 23-year-old second-year back's injury does not appear to be serious, but the Patriots are playing it safe in hopes that Henderson will be ready for the Week 1 season opener on Wednesday, Sept. 9, against the Seattle Seahawks in a rematch of the Super Bowl. It may not be a serious injury, but Henderson is running out of time, and the Patriots could limit his workload next Wednesday if he is active. The former second-rounder last year from Ohio State was productive with 911 rushing yards and nine rushing scores on 180 carries in 17 regular-season games, adding 35 catches for 221 yards and another touchdown through the air. However, he was a liability in pass protection and did not make strides in that area this summer in training camp. Therefore, Henderson and Rhamondre Stevenson will continue to split backfield work nearly down the middle. Fantasy managers should treat Henderson as a low-end RB2/high-end RB3/flex as he enters Year 2.",
-        "title": "TreVeyon Henderson Not Cleared for Full Practice Participation",
-        "topic_id": "1400624119065677824",
-        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-not-cleared-for-full-practice-participation/1921294"
-      },
-      "nfl_team": "NE",
-      "player_id": "12529",
-      "player_name": "TreVeyon Henderson",
-      "position": "RB",
-      "published": 1788272831000,
-      "source": "rotoballer",
-      "source_key": "219870",
-      "story_id": "nfl|12529|rotoballer|219870|1788272831000",
-      "title": "TreVeyon Henderson Not Cleared for Full Practice Participation",
-      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-not-cleared-for-full-practice-participation/1921294"
-    },
-    {
-      "analysis": "The Colts won't have to reveal the extent of Warren's practice participation until they release their first injury report of the season Sept. 9, but his presence on the field Tuesday is a good indication that he'll be operating with no restrictions leading up to the Week 1 game against the Ravens. The second-year tight end strained his adductor during an Aug. 19 practice, but the Colts never indicated that the injury was anything that would seriously jeopardize his availability for the start of the regular season.",
-      "description": "Warren (adductor) was spotted on the field participating in Tuesday's practice, Nathan Brown of The Indianapolis Star reports.",
-      "metadata": {
-        "analysis": "The Colts won't have to reveal the extent of Warren's practice participation until they release their first injury report of the season Sept. 9, but his presence on the field Tuesday is a good indication that he'll be operating with no restrictions leading up to the Week 1 game against the Ravens. The second-year tight end strained his adductor during an Aug. 19 practice, but the Colts never indicated that the injury was anything that would seriously jeopardize his availability for the start of the regular season.",
-        "description": "Warren (adductor) was spotted on the field participating in Tuesday's practice, Nathan Brown of The Indianapolis Star reports.",
-        "title": "Tyler Warren - Involved in Tuesday's practice",
-        "topic_id": "1400522187449868288"
-      },
-      "nfl_team": "IND",
-      "player_id": "12518",
-      "player_name": "Tyler Warren",
-      "position": "TE",
-      "published": 1788272768000,
-      "source": "rotowire",
-      "source_key": "635806",
-      "story_id": "nfl|12518|rotowire|635806|1788272768000",
-      "title": "Tyler Warren - Involved in Tuesday's practice",
-      "url": null
-    },
-    {
-      "analysis": "Downs missed some practice time last week with what he termed as a \"very minor\" calf injury. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs could be off the report entirely as the team prepares for its season opener against the Ravens.",
-      "description": "Downs (calf) was spotted on the field participating in Tuesday's practice, Jake Arthur of Roundtable.io reports.",
-      "metadata": {
-        "analysis": "Downs missed some practice time last week with what he termed as a \"very minor\" calf injury. The Colts will release their first Week 1 injury report Sept. 9, and if his activity Tuesday is any indication, Downs could be off the report entirely as the team prepares for its season opener against the Ravens.",
-        "description": "Downs (calf) was spotted on the field participating in Tuesday's practice, Jake Arthur of Roundtable.io reports.",
-        "title": "Josh Downs - Taking part in Tuesday's practice",
-        "topic_id": "1400519670607425536"
-      },
-      "nfl_team": "IND",
-      "player_id": "9500",
-      "player_name": "Josh Downs",
-      "position": "WR",
-      "published": 1788272387000,
-      "source": "rotowire",
-      "source_key": "635805",
-      "story_id": "nfl|9500|rotowire|635805|1788272387000",
-      "title": "Josh Downs - Taking part in Tuesday's practice",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Green Bay Packers general manager Brian Gutekunst said on Tuesday that running back MarShawn Lloyd is \"as ready as he's ever been... he looks good,\" according to Dennis Krause of Spectrum News 1 Wisconsin. With starting running back Josh Jacobs (groin) on the commissioner's exempt list due to an ongoing domestic-violence allegation, the 25-year-old Lloyd is looking primed to lead Green Bay's backfield to begin the 2026 regular season in Week 1. The Packers acquired RB Kaleb Johnson from the Pittsburgh Steelers on Sunday for more RB depth, but he should not be a direct threat to Lloyd as the RB1 if Jacobs indeed is suspended for the start of the season. Lloyd, a third-rounder in 2024 from USC, has played in just one game with the Packers due to multiple injuries, but he has held up well physically to the rigors of training camp and the preseason and looks ready to go. Jacobs will be the Packers' lead back whenever he returns, but Lloyd's speed and athleticism make him an intriguing RB3/flex target in upcoming fantasy football drafts.",
-      "metadata": {
-        "description": "Green Bay Packers general manager Brian Gutekunst said on Tuesday that running back MarShawn Lloyd is \"as ready as he's ever been... he looks good,\" according to Dennis Krause of Spectrum News 1 Wisconsin. With starting running back Josh Jacobs (groin) on the commissioner's exempt list due to an ongoing domestic-violence allegation, the 25-year-old Lloyd is looking primed to lead Green Bay's backfield to begin the 2026 regular season in Week 1. The Packers acquired RB Kaleb Johnson from the Pittsburgh Steelers on Sunday for more RB depth, but he should not be a direct threat to Lloyd as the RB1 if Jacobs indeed is suspended for the start of the season. Lloyd, a third-rounder in 2024 from USC, has played in just one game with the Packers due to multiple injuries, but he has held up well physically to the rigors of training camp and the preseason and looks ready to go. Jacobs will be the Packers' lead back whenever he returns, but Lloyd's speed and athleticism make him an intriguing RB3/flex target in upcoming fantasy football drafts.",
-        "title": "MarShawn Lloyd \"as Ready as He's Ever Been\" for Lead-Back Role",
-        "topic_id": "1400624119120203776",
-        "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-as-ready-as-hes-ever-been-for-lead-back-role/1921292"
-      },
-      "nfl_team": "GB",
-      "player_id": "11581",
-      "player_name": "MarShawn Lloyd",
-      "position": "RB",
-      "published": 1788272348000,
-      "source": "rotoballer",
-      "source_key": "219871",
-      "story_id": "nfl|11581|rotoballer|219871|1788272348000",
-      "title": "MarShawn Lloyd \"as Ready as He's Ever Been\" for Lead-Back Role",
-      "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-as-ready-as-hes-ever-been-for-lead-back-role/1921292"
-    },
-    {
-      "analysis": null,
-      "description": "Cincinnati Bengals head coach Zac Taylor said that wide receiver Ja'Marr Chase (knee) will be limited throughout this week in practice, but he \"feels good about where he is,\" according to Jeremy Rauch of FOX 19 Cincinnati. The fantasy football community had a scare last week when Chase injured his left knee in training camp last Tuesday after landing awkwardly. The 26-year-old suffered a minor hyperextension of his knee, and the Bengals are being cautious with him as the 2026 regular season quickly approaching. As long as Chase does not suffer a setback with his knee in practice this week and next week, he should be good to go for the Week 1 regular-season opener on Sunday, Sept. 13. There is no reason for fantasy managers not to take him as the first receiver off the board in fantasy football drafts. The five-time Pro Bowler and two-time first-team All-Pro had a down year in 2025 and still had 125 catches, 1,412 receiving yards, and eight receiving touchdowns on a league-high 185 targets across 16 starts.",
-      "metadata": {
-        "description": "Cincinnati Bengals head coach Zac Taylor said that wide receiver Ja'Marr Chase (knee) will be limited throughout this week in practice, but he \"feels good about where he is,\" according to Jeremy Rauch of FOX 19 Cincinnati. The fantasy football community had a scare last week when Chase injured his left knee in training camp last Tuesday after landing awkwardly. The 26-year-old suffered a minor hyperextension of his knee, and the Bengals are being cautious with him as the 2026 regular season quickly approaching. As long as Chase does not suffer a setback with his knee in practice this week and next week, he should be good to go for the Week 1 regular-season opener on Sunday, Sept. 13. There is no reason for fantasy managers not to take him as the first receiver off the board in fantasy football drafts. The five-time Pro Bowler and two-time first-team All-Pro had a down year in 2025 and still had 125 catches, 1,412 receiving yards, and eight receiving touchdowns on a league-high 185 targets across 16 starts.",
-        "title": "Ja'Marr Chase to Be Limited This Week, No Real Concerns",
-        "topic_id": "1400624119187312641",
-        "url": "https://www.rotoballer.com/player-news/jamarr-chase-to-be-limited-this-week-no-real-concerns/1921282"
-      },
-      "nfl_team": "CIN",
-      "player_id": "7564",
-      "player_name": "Ja'Marr Chase",
-      "position": "WR",
-      "published": 1788271866000,
-      "source": "rotoballer",
-      "source_key": "219872",
-      "story_id": "nfl|7564|rotoballer|219872|1788271866000",
-      "title": "Ja'Marr Chase to Be Limited This Week, No Real Concerns",
-      "url": "https://www.rotoballer.com/player-news/jamarr-chase-to-be-limited-this-week-no-real-concerns/1921282"
-    },
-    {
-      "analysis": null,
-      "description": "After a 20-month recovery from the gruesome knee injury that ended his 2024 season, Houston Texans wide receiver Tank Dell was placed on Injured Reserve with a designation to return to begin the 2026 season. On Tuesday, Texans general manager Nick Caserio provided an update, telling reporters, \"He's close; he's not quite there. He's closer than he was during training camp.\" Dell will miss at least the first four games of the season, but can be activated as early as Week 5, ahead of a divisional clash with the Titans. A third-round pick in 2023, Dell demonstrated an immediate connection with quarterback C.J. Stroud to begin his career, but after a prolonged absence, it is fair to question what his role might look like upon his long-awaited return. The 26-year-old is RotoBaller's WR125 and worthy of final-round consideration in leagues with an IR slot.",
-      "metadata": {
-        "description": "After a 20-month recovery from the gruesome knee injury that ended his 2024 season, Houston Texans wide receiver Tank Dell was placed on Injured Reserve with a designation to return to begin the 2026 season. On Tuesday, Texans general manager Nick Caserio provided an update, telling reporters, \"He's close; he's not quite there. He's closer than he was during training camp.\" Dell will miss at least the first four games of the season, but can be activated as early as Week 5, ahead of a divisional clash with the Titans. A third-round pick in 2023, Dell demonstrated an immediate connection with quarterback C.J. Stroud to begin his career, but after a prolonged absence, it is fair to question what his role might look like upon his long-awaited return. The 26-year-old is RotoBaller's WR125 and worthy of final-round consideration in leagues with an IR slot.",
-        "title": "Texans GM Says Tank Dell is Close to Return",
-        "topic_id": "1400624119329918976",
-        "url": "https://www.rotoballer.com/player-news/texans-gm-says-tank-dell-is-close-to-return/1921275"
-      },
-      "nfl_team": "HOU",
-      "player_id": "9502",
-      "player_name": "Tank Dell",
-      "position": "WR",
-      "published": 1788270545000,
-      "source": "rotoballer",
-      "source_key": "219874",
-      "story_id": "nfl|9502|rotoballer|219874|1788270545000",
-      "title": "Texans GM Says Tank Dell is Close to Return",
-      "url": "https://www.rotoballer.com/player-news/texans-gm-says-tank-dell-is-close-to-return/1921275"
-    },
-    {
-      "analysis": null,
-      "description": "Philadelphia Eagles quarterback Jalen Hurts is adjusting to the new offense really well, according to John Clark of NBC Sports. \"I think Jalen's adjusted really well to the new offense,\" general manager Howie Roseman said. \"Now again, we're at a moment in time, we haven't played a game. This isn't in reference to Jalen; this is in reference to anything else. I think that a lot of the things that we'll do during the regular season when we have game plans, I think from an offensive perspective, they're going to be different than what we've done in the past. Jalen's embraced it. He's excited about it, and obviously we've got to be better than we were last year. That was really how the offseason started, led by coach Sirianni and saying where we were in point score, where we were in offense wasn't good enough. Here we are starting the season looking to improve.\" Hurts and the Eagles' offense did not look right in 2025, but the 28-year-old three-time Pro Bowler still finished as a top-10 fantasy QB, throwing for 3,224 yards, 25 touchdowns, and six interceptions in 16 regular-season starts while adding 421 rushing yards and eight TDs as a rusher. If Philly's offense can bounce back under new coordinator Sean Mannion, Hurts will have easy top-five upside at the QB position in his seventh NFL season.",
-      "metadata": {
-        "description": "Philadelphia Eagles quarterback Jalen Hurts is adjusting to the new offense really well, according to John Clark of NBC Sports. \"I think Jalen's adjusted really well to the new offense,\" general manager Howie Roseman said. \"Now again, we're at a moment in time, we haven't played a game. This isn't in reference to Jalen; this is in reference to anything else. I think that a lot of the things that we'll do during the regular season when we have game plans, I think from an offensive perspective, they're going to be different than what we've done in the past. Jalen's embraced it. He's excited about it, and obviously we've got to be better than we were last year. That was really how the offseason started, led by coach Sirianni and saying where we were in point score, where we were in offense wasn't good enough. Here we are starting the season looking to improve.\" Hurts and the Eagles' offense did not look right in 2025, but the 28-year-old three-time Pro Bowler still finished as a top-10 fantasy QB, throwing for 3,224 yards, 25 touchdowns, and six interceptions in 16 regular-season starts while adding 421 rushing yards and eight TDs as a rusher. If Philly's offense can bounce back under new coordinator Sean Mannion, Hurts will have easy top-five upside at the QB position in his seventh NFL season.",
-        "title": "Jalen Hurts Adjusting Well to the New Scheme",
-        "topic_id": "1400624119409610752",
-        "url": "https://www.rotoballer.com/player-news/jalen-hurts-adjusting-well-to-the-new-scheme/1921268"
-      },
-      "nfl_team": "PHI",
-      "player_id": "6904",
-      "player_name": "Jalen Hurts",
-      "position": "QB",
-      "published": 1788269944000,
-      "source": "rotoballer",
-      "source_key": "219876",
-      "story_id": "nfl|6904|rotoballer|219876|1788269944000",
-      "title": "Jalen Hurts Adjusting Well to the New Scheme",
-      "url": "https://www.rotoballer.com/player-news/jalen-hurts-adjusting-well-to-the-new-scheme/1921268"
-    },
-    {
-      "analysis": null,
-      "description": "Indianapolis Colts wide receiver Josh Downs (calf) did not participate in the team's final preseason game after missing a pair of training camp practices with a minor calf injury, but he was back on the field on Tuesday as the team begins preparations for a Week 1 contest with the Ravens. Downs suffered a minor back injury earlier in camp and saw his draft stock take a hit following the late free agent signing of veteran Keenan Allen. After playing primarily out of the slot through the first three years of his career, Downs found extensive work on the outside throughout the summer, but questions about his role and workload have re-emerged in recent weeks, and he is now RotoBaller's WR38 for 2026.",
-      "metadata": {
-        "description": "Indianapolis Colts wide receiver Josh Downs (calf) did not participate in the team's final preseason game after missing a pair of training camp practices with a minor calf injury, but he was back on the field on Tuesday as the team begins preparations for a Week 1 contest with the Ravens. Downs suffered a minor back injury earlier in camp and saw his draft stock take a hit following the late free agent signing of veteran Keenan Allen. After playing primarily out of the slot through the first three years of his career, Downs found extensive work on the outside throughout the summer, but questions about his role and workload have re-emerged in recent weeks, and he is now RotoBaller's WR38 for 2026.",
-        "title": "Josh Downs Returns from Calf Injury and Practices on Tuesday",
-        "topic_id": "1400624119413805056",
-        "url": "https://www.rotoballer.com/player-news/josh-downs-returns-from-calf-injury-and-practices-on-tuesday/1921266"
-      },
-      "nfl_team": "IND",
-      "player_id": "9500",
-      "player_name": "Josh Downs",
-      "position": "WR",
-      "published": 1788269829000,
-      "source": "rotoballer",
-      "source_key": "219877",
-      "story_id": "nfl|9500|rotoballer|219877|1788269829000",
-      "title": "Josh Downs Returns from Calf Injury and Practices on Tuesday",
-      "url": "https://www.rotoballer.com/player-news/josh-downs-returns-from-calf-injury-and-practices-on-tuesday/1921266"
-    },
-    {
-      "analysis": null,
-      "description": "The Athletic's Nate Atkins writes that Los Angeles Rams running back Kyren Williams and Blake Corum will be \"in a timeshare of carries,\" with Ronnie Rivers serving as a versatile special-teams player who is adequate as a rusher, receiver, and pass protector. Williams is still the clear lead back in L.A. and is coming off his third straight 1,000-yard rushing season in 2025 in which he ran for 1,252 yards and 10 touchdowns on 259 carries, adding a career-high 36 receptions for 281 yards and another three TDs as a receiver in 17 regular-season starts. Corum could have an even bigger role alongside Williams, though, after the Rams used the two more interchangeably down the stretch in 2025. The 26-year-old Williams will continue to be utilized near the goal line and as a pass-catcher, but it could be a much tougher ask for him to finish as a top-12 fantasy back in 2026. If you can get Williams as a high-end RB2 in upcoming drafts, you will be looking good at the RB position. But if you are forced to use Williams as your RB1, you could be worse off than with a highly productive running back in one of the best offenses in football.",
-      "metadata": {
-        "description": "The Athletic's Nate Atkins writes that Los Angeles Rams running back Kyren Williams and Blake Corum will be \"in a timeshare of carries,\" with Ronnie Rivers serving as a versatile special-teams player who is adequate as a rusher, receiver, and pass protector. Williams is still the clear lead back in L.A. and is coming off his third straight 1,000-yard rushing season in 2025 in which he ran for 1,252 yards and 10 touchdowns on 259 carries, adding a career-high 36 receptions for 281 yards and another three TDs as a receiver in 17 regular-season starts. Corum could have an even bigger role alongside Williams, though, after the Rams used the two more interchangeably down the stretch in 2025. The 26-year-old Williams will continue to be utilized near the goal line and as a pass-catcher, but it could be a much tougher ask for him to finish as a top-12 fantasy back in 2026. If you can get Williams as a high-end RB2 in upcoming drafts, you will be looking good at the RB position. But if you are forced to use Williams as your RB1, you could be worse off than with a highly productive running back in one of the best offenses in football.",
-        "title": "Kyren Williams in a Timeshare in Rams' Backfield?",
-        "topic_id": "1400624119480913920",
-        "url": "https://www.rotoballer.com/player-news/kyren-williams-in-a-timeshare-in-rams-backfield/1921262"
-      },
-      "nfl_team": "LAR",
-      "player_id": "8150",
-      "player_name": "Kyren Williams",
-      "position": "RB",
-      "published": 1788269345000,
-      "source": "rotoballer",
-      "source_key": "219878",
-      "story_id": "nfl|8150|rotoballer|219878|1788269345000",
-      "title": "Kyren Williams in a Timeshare in Rams' Backfield?",
-      "url": "https://www.rotoballer.com/player-news/kyren-williams-in-a-timeshare-in-rams-backfield/1921262"
-    },
-    {
-      "analysis": null,
-      "description": "After being activated from the Physically Unable to Perform List on Thursday and sitting out the team's final preseason game, Indianapolis Colts wide receiver Alec Pierce (ankle, heel) was present at Tuesday's practice. Pierce underwent ankle surgery in late March after a platelet-rich plasma injection failed to alleviate the pain he'd reportedly been playing through since the end of the 2024 season. Following a career year in 2025, Pierce signed a four-year, $114 million deal in the opening moments of free agency, and after leading the league in yards per reception in each of the past two seasons, he is expected to see an expanded route tree in 2026. His presence at Tuesday's practice bodes well for his Week 1 availability and should leave drafters more comfortable with his current draft cost of WR38. UPDATE: General manager Chris Ballard said that the \"hope\" is that Pierce will play in Week 1 against the Baltimore Ravens.",
-      "metadata": {
-        "description": "After being activated from the Physically Unable to Perform List on Thursday and sitting out the team's final preseason game, Indianapolis Colts wide receiver Alec Pierce (ankle, heel) was present at Tuesday's practice. Pierce underwent ankle surgery in late March after a platelet-rich plasma injection failed to alleviate the pain he'd reportedly been playing through since the end of the 2024 season. Following a career year in 2025, Pierce signed a four-year, $114 million deal in the opening moments of free agency, and after leading the league in yards per reception in each of the past two seasons, he is expected to see an expanded route tree in 2026. His presence at Tuesday's practice bodes well for his Week 1 availability and should leave drafters more comfortable with his current draft cost of WR38. UPDATE: General manager Chris Ballard said that the \"hope\" is that Pierce will play in Week 1 against the Baltimore Ravens.",
-        "title": "Alec Pierce Practicing with the Colts on Tuesday",
-        "topic_id": "1400624119485108224",
-        "url": "https://www.rotoballer.com/player-news/alec-pierce-practicing-with-the-colts-on-tuesday/1921258"
-      },
-      "nfl_team": "IND",
-      "player_id": "8142",
-      "player_name": "Alec Pierce",
-      "position": "WR",
-      "published": 1788269230000,
-      "source": "rotoballer",
-      "source_key": "219879",
-      "story_id": "nfl|8142|rotoballer|219879|1788269230000",
-      "title": "Alec Pierce Practicing with the Colts on Tuesday",
-      "url": "https://www.rotoballer.com/player-news/alec-pierce-practicing-with-the-colts-on-tuesday/1921258"
-    },
-    {
-      "analysis": "Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout missed some practices last week as well, though the Ravens haven't indicated whether that was related to the prior quad issue. Whatever the case, Flowers' injury or injuries never seemed to be a major concern. He should be ready to handle a high-volume role in the Baltimore passing attack in Week 1.",
-      "description": "Flowers, who is recovering from a lower-body injury, is expected to return to full practice next week and be available for the Ravens' Sept. 13 season opener versus the Colts, Matt Zenitz of CBS Sports reports.",
-      "metadata": {
-        "analysis": "Flowers sustained a left quadriceps bruise in an Aug. 8 practice, but he returned to the field a few days later. The wideout missed some practices last week as well, though the Ravens haven't indicated whether that was related to the prior quad issue. Whatever the case, Flowers' injury or injuries never seemed to be a major concern. He should be ready to handle a high-volume role in the Baltimore passing attack in Week 1.",
-        "description": "Flowers, who is recovering from a lower-body injury, is expected to return to full practice next week and be available for the Ravens' Sept. 13 season opener versus the Colts, Matt Zenitz of CBS Sports reports.",
-        "title": "Zay Flowers - Set to fully practice next week",
-        "topic_id": "1400504569514975232"
-      },
-      "nfl_team": "BAL",
-      "player_id": "9997",
-      "player_name": "Zay Flowers",
-      "position": "WR",
-      "published": 1788268652000,
-      "source": "rotowire",
-      "source_key": "635796",
-      "story_id": "nfl|9997|rotowire|635796|1788268652000",
-      "title": "Zay Flowers - Set to fully practice next week",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Indianapolis Colts tight end Tyler Warren (groin) returned to practice on Tuesday after suffering what had been described as a minor groin injury during a joint practice with the Falcons on August 19. While his availability for Week 1 had never appeared to be in question, his return puts him on track for a full workload when the Colts open the season against the Ravens in less than two weeks. Wide receivers Alec Pierce (ankle, heel) and Josh Downs (calf) also practiced on Monday, marking the first time this summer that Indianapolis has had all three of its top projected pass-catchers on the field together. Warren caught 76 passes for 817 yards and four touchdowns as a rookie in 2025, and with a potentially expanded role in year two, he is RotoBaller's TE4.",
-      "metadata": {
-        "description": "Indianapolis Colts tight end Tyler Warren (groin) returned to practice on Tuesday after suffering what had been described as a minor groin injury during a joint practice with the Falcons on August 19. While his availability for Week 1 had never appeared to be in question, his return puts him on track for a full workload when the Colts open the season against the Ravens in less than two weeks. Wide receivers Alec Pierce (ankle, heel) and Josh Downs (calf) also practiced on Monday, marking the first time this summer that Indianapolis has had all three of its top projected pass-catchers on the field together. Warren caught 76 passes for 817 yards and four touchdowns as a rookie in 2025, and with a potentially expanded role in year two, he is RotoBaller's TE4.",
-        "title": "Tyler Warren Returns to Practice on Tuesday",
-        "topic_id": "1400624119539634176",
-        "url": "https://www.rotoballer.com/player-news/tyler-warren-returns-to-practice-on-tuesday/1921250"
-      },
-      "nfl_team": "IND",
-      "player_id": "12518",
-      "player_name": "Tyler Warren",
-      "position": "TE",
-      "published": 1788268386000,
-      "source": "rotoballer",
-      "source_key": "219880",
-      "story_id": "nfl|12518|rotoballer|219880|1788268386000",
-      "title": "Tyler Warren Returns to Practice on Tuesday",
-      "url": "https://www.rotoballer.com/player-news/tyler-warren-returns-to-practice-on-tuesday/1921250"
-    },
-    {
-      "analysis": null,
-      "description": "Carolina Panthers running back Chuba Hubbard (hamstring) had his helmet on and was dressed for Tuesday's practice, according to Joe Person of The Athletic. Hubbard could be limited in practice, but the fact that he is on the field at all is a good sign for his availability for the Week 1 regular-season opener on Sunday, Sept. 13. Hubbard has missed practice time late in training camp with a hamstring injury that he suffered in the middle of August. Combined with Jonathon Brooks' strong camp, Hubbard has fallen in the RB rankings for 2026 after a poor season in 2025 in which Rico Dowdle took over lead-back duties. The 27-year-old had his first 1,000-yard season with a career-high 10 rushing touchdowns on 250 carries in 2024, but he fell to just 511 rushing yards and one touchdown last year on 134 carries in 15 regular-season games. Head coach Dave Canales is ready to use a committee approach in the backfield between Hubbard and Brooks, and it could be a hot-hand approach from week to week. The former fourth-rounder is no better than an RB3/flex in fantasy football drafts, with Brooks (although injury-prone) possessing more explosive upside.",
-      "metadata": {
-        "description": "Carolina Panthers running back Chuba Hubbard (hamstring) had his helmet on and was dressed for Tuesday's practice, according to Joe Person of The Athletic. Hubbard could be limited in practice, but the fact that he is on the field at all is a good sign for his availability for the Week 1 regular-season opener on Sunday, Sept. 13. Hubbard has missed practice time late in training camp with a hamstring injury that he suffered in the middle of August. Combined with Jonathon Brooks' strong camp, Hubbard has fallen in the RB rankings for 2026 after a poor season in 2025 in which Rico Dowdle took over lead-back duties. The 27-year-old had his first 1,000-yard season with a career-high 10 rushing touchdowns on 250 carries in 2024, but he fell to just 511 rushing yards and one touchdown last year on 134 carries in 15 regular-season games. Head coach Dave Canales is ready to use a committee approach in the backfield between Hubbard and Brooks, and it could be a hot-hand approach from week to week. The former fourth-rounder is no better than an RB3/flex in fantasy football drafts, with Brooks (although injury-prone) possessing more explosive upside.",
-        "title": "Chuba Hubbard Dressed for Practice",
-        "topic_id": "1400624119564800000",
-        "url": "https://www.rotoballer.com/player-news/chuba-hubbard-dressed-for-practice/1921247"
-      },
-      "nfl_team": "CAR",
-      "player_id": "7594",
-      "player_name": "Chuba Hubbard",
-      "position": "RB",
-      "published": 1788267912000,
-      "source": "rotoballer",
-      "source_key": "219881",
-      "story_id": "nfl|7594|rotoballer|219881|1788267912000",
-      "title": "Chuba Hubbard Dressed for Practice",
-      "url": "https://www.rotoballer.com/player-news/chuba-hubbard-dressed-for-practice/1921247"
-    },
-    {
-      "analysis": null,
-      "description": "Tampa Bay Buccaneers general manager Jason Licht said there are no immediate plans to restart contract talks with quarterback Baker Mayfield, according to Rick Stroud of the Tampa Bay Times. Mayfield set the start of training camp as his deadline for negotiations, and nothing came together before then. He is now heading into the last year of the three-year, $100 million deal he signed with Tampa Bay in 2024. Mayfield started all 17 games last season, throwing for 3,693 yards with 26 touchdowns and 11 interceptions. He also ran for 382 yards and another score. There isn't much here that changes his 2026 fantasy outlook. Mayfield is Tampa Bay's unquestioned starter, and the contract situation is more of a concern for what happens after the season. For now, the Bucs appear content to play things out before deciding what comes next.",
-      "metadata": {
-        "description": "Tampa Bay Buccaneers general manager Jason Licht said there are no immediate plans to restart contract talks with quarterback Baker Mayfield, according to Rick Stroud of the Tampa Bay Times. Mayfield set the start of training camp as his deadline for negotiations, and nothing came together before then. He is now heading into the last year of the three-year, $100 million deal he signed with Tampa Bay in 2024. Mayfield started all 17 games last season, throwing for 3,693 yards with 26 touchdowns and 11 interceptions. He also ran for 382 yards and another score. There isn't much here that changes his 2026 fantasy outlook. Mayfield is Tampa Bay's unquestioned starter, and the contract situation is more of a concern for what happens after the season. For now, the Bucs appear content to play things out before deciding what comes next.",
-        "title": "Baker Mayfield Extension Talks Still on Hold",
-        "topic_id": "1400541061775892480",
-        "url": "https://www.rotoballer.com/player-news/baker-mayfield-extension-talks-still-on-hold/1921193"
-      },
-      "nfl_team": "TB",
-      "player_id": "4892",
-      "player_name": "Baker Mayfield",
-      "position": "QB",
-      "published": 1788262632000,
-      "source": "rotoballer",
-      "source_key": "219861",
-      "story_id": "nfl|4892|rotoballer|219861|1788262632000",
-      "title": "Baker Mayfield Extension Talks Still on Hold",
-      "url": "https://www.rotoballer.com/player-news/baker-mayfield-extension-talks-still-on-hold/1921193"
-    },
-    {
-      "analysis": null,
-      "description": "Green Bay Packers running back Josh Jacobs is still expected to play this season despite his uncertain status. General manager Brian Gutekunst told reporters Tuesday that he is hopeful Jacobs will return and expects him to play for Green Bay at some point, according to Matt Schneidman. Gutekunst was also asked whether there is a scenario in which the Packers release Jacobs, but said the team wants to let the process play out before making that kind of decision. Jacobs remains on the NFL's Commissioner's Exempt List after being charged with misdemeanor battery and misdemeanor criminal damage to property stemming from a May incident. He cannot practice or play while on the list, and there is still no timetable for his return. Green Bay has since added Kaleb Johnson to a backfield that also includes MarShawn Lloyd and Chris Brooks. Gutekunst's comments are encouraging for Jacobs' season-long outlook, but his availability remains completely up in the air.",
-      "metadata": {
-        "description": "Green Bay Packers running back Josh Jacobs is still expected to play this season despite his uncertain status. General manager Brian Gutekunst told reporters Tuesday that he is hopeful Jacobs will return and expects him to play for Green Bay at some point, according to Matt Schneidman. Gutekunst was also asked whether there is a scenario in which the Packers release Jacobs, but said the team wants to let the process play out before making that kind of decision. Jacobs remains on the NFL's Commissioner's Exempt List after being charged with misdemeanor battery and misdemeanor criminal damage to property stemming from a May incident. He cannot practice or play while on the list, and there is still no timetable for his return. Green Bay has since added Kaleb Johnson to a backfield that also includes MarShawn Lloyd and Chris Brooks. Gutekunst's comments are encouraging for Jacobs' season-long outlook, but his availability remains completely up in the air.",
-        "title": "Packers Expect Josh Jacobs to Play This Season",
-        "topic_id": "1400536027998789632",
-        "url": "https://www.rotoballer.com/player-news/packers-expect-josh-jacobs-to-play-this-season/1921180"
-      },
-      "nfl_team": "GB",
-      "player_id": "5850",
-      "player_name": "Josh Jacobs",
-      "position": "RB",
-      "published": 1788261427000,
-      "source": "rotoballer",
-      "source_key": "219859",
-      "story_id": "nfl|5850|rotoballer|219859|1788261427000",
-      "title": "Packers Expect Josh Jacobs to Play This Season",
-      "url": "https://www.rotoballer.com/player-news/packers-expect-josh-jacobs-to-play-this-season/1921180"
-    },
-    {
-      "analysis": null,
-      "description": "Green Bay Packers running back Kaleb Johnson has been traded over from the Pittsburgh Steelers and amid the troubles with running back Josh Jacobs, the Packers organization is high on the addition of Johnson. Packers general manager Brian Gutekunst had this to say about Johnson as a newcomer to the team: \"Excited to get Kaleb in here. Young player with huge upside ... He comes from a very strong program. He had a lot of success there. There's some similar scheme stuff, a lot of outside-zone.\" Johnson comes from the Iowa Hawkeyes college program and has a real shot to make a name for himself with Jacobs on the Commissioner's Exempt List. Johnson could be a nice late-round addition to fantasy teams with some \"huge upside\" as stated by his new GM.",
-      "metadata": {
-        "description": "Green Bay Packers running back Kaleb Johnson has been traded over from the Pittsburgh Steelers and amid the troubles with running back Josh Jacobs, the Packers organization is high on the addition of Johnson. Packers general manager Brian Gutekunst had this to say about Johnson as a newcomer to the team: \"Excited to get Kaleb in here. Young player with huge upside ... He comes from a very strong program. He had a lot of success there. There's some similar scheme stuff, a lot of outside-zone.\" Johnson comes from the Iowa Hawkeyes college program and has a real shot to make a name for himself with Jacobs on the Commissioner's Exempt List. Johnson could be a nice late-round addition to fantasy teams with some \"huge upside\" as stated by his new GM.",
-        "title": "Packers High On New Acquisition Kaleb Johnson",
-        "topic_id": "1400530994548723712",
-        "url": "https://www.rotoballer.com/player-news/packers-high-on-new-acquisition-kaleb-johnson/1921169"
-      },
-      "nfl_team": "GB",
-      "player_id": "12504",
-      "player_name": "Kaleb Johnson",
-      "position": "RB",
-      "published": 1788260239000,
-      "source": "rotoballer",
-      "source_key": "219858",
-      "story_id": "nfl|12504|rotoballer|219858|1788260239000",
-      "title": "Packers High On New Acquisition Kaleb Johnson",
-      "url": "https://www.rotoballer.com/player-news/packers-high-on-new-acquisition-kaleb-johnson/1921169"
-    },
-    {
-      "analysis": null,
-      "description": "Houston Texans running back David Montgomery looks like a mid-tier running back draft candidate but has the potential to really reward his drafters this season. Coming over in the offseason from Detroit where he split time with Jahmyr Gibbs, Montgomery has the ability to take over the Texans lead rushing role. The Texans do have Woody Marks as a backup running back who will likely take away some of Montgomery's carries and passing down work but Montgomery looks locked and loaded as the lead back. NFL.com's Kevin Patra, did an article where he picked one new Pro-Bowler from each AFC team and listed Montgomery as his candidate for the Texans, saying, \"The 29-year-old is in line for a significant workload increase in Houston, and his ability to punch in scores from short range will be a boon to the offense.\"",
-      "metadata": {
-        "description": "Houston Texans running back David Montgomery looks like a mid-tier running back draft candidate but has the potential to really reward his drafters this season. Coming over in the offseason from Detroit where he split time with Jahmyr Gibbs, Montgomery has the ability to take over the Texans lead rushing role. The Texans do have Woody Marks as a backup running back who will likely take away some of Montgomery's carries and passing down work but Montgomery looks locked and loaded as the lead back. NFL.com's Kevin Patra, did an article where he picked one new Pro-Bowler from each AFC team and listed Montgomery as his candidate for the Texans, saying, \"The 29-year-old is in line for a significant workload increase in Houston, and his ability to punch in scores from short range will be a boon to the offense.\"",
-        "title": "David Montgomery Could Be a Steal in Texans Offense",
-        "topic_id": "1400527219540901888",
-        "url": "https://www.rotoballer.com/player-news/david-montgomery-could-be-a-steal-in-texans-offense/1921161"
-      },
-      "nfl_team": "HOU",
-      "player_id": "5892",
-      "player_name": "David Montgomery",
-      "position": "RB",
-      "published": 1788259386000,
-      "source": "rotoballer",
-      "source_key": "219857",
-      "story_id": "nfl|5892|rotoballer|219857|1788259386000",
-      "title": "David Montgomery Could Be a Steal in Texans Offense",
-      "url": "https://www.rotoballer.com/player-news/david-montgomery-could-be-a-steal-in-texans-offense/1921161"
-    },
-    {
-      "analysis": null,
-      "description": "Jacksonville Jaguars wide receiver Parker Washington looks like he has real potential this season as a mid-to-late-round draft target. Washington closed the season last year with two 100+ yard receiving games in Weeks 16 and 17. He also had four receiving touchdowns from Week 10 though the end of the season. He finished the season with 58 catches for 847 yards and five touchdowns. The Jaguars offense under Liam Coen has the potential to be very good with Trevor Lawrence at quarterback and Brian Thomas Jr. and Jakobi Meyers also at receiver. Washington, out of Penn State in college, should line up regularly in the slot and be a dynamic receiver in that role. He broke through in a big way late last season and should see that continue this season.",
-      "metadata": {
-        "description": "Jacksonville Jaguars wide receiver Parker Washington looks like he has real potential this season as a mid-to-late-round draft target. Washington closed the season last year with two 100+ yard receiving games in Weeks 16 and 17. He also had four receiving touchdowns from Week 10 though the end of the season. He finished the season with 58 catches for 847 yards and five touchdowns. The Jaguars offense under Liam Coen has the potential to be very good with Trevor Lawrence at quarterback and Brian Thomas Jr. and Jakobi Meyers also at receiver. Washington, out of Penn State in college, should line up regularly in the slot and be a dynamic receiver in that role. He broke through in a big way late last season and should see that continue this season.",
-        "title": "Parker Washington Has Big-Time Potential As Slot Receiver",
-        "topic_id": "1400522186048942080",
-        "url": "https://www.rotoballer.com/player-news/parker-washington-has-big-time-potential-as-slot-receiver/1921148"
-      },
-      "nfl_team": "JAX",
-      "player_id": "9487",
-      "player_name": "Parker Washington",
-      "position": "WR",
-      "published": 1788258487000,
-      "source": "rotoballer",
-      "source_key": "219856",
-      "story_id": "nfl|9487|rotoballer|219856|1788258487000",
-      "title": "Parker Washington Has Big-Time Potential As Slot Receiver",
-      "url": "https://www.rotoballer.com/player-news/parker-washington-has-big-time-potential-as-slot-receiver/1921148"
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers wide receiver De'Zhaun Stribling has been one of the most exciting players to emerge this preseason, stepping up as a key contributor in the team's receiving corps while other receivers battled injury. Ricky Pearsall (knee) was placed on season-ending IR, while Christian Kirk (calf) will also start the year on injured reserve but could return after Week 4. The second-round pick from Ole Miss will begin the year in a starting role alongside Mike Evans and Deebo Samuel, and the rookie could make an immediate impact based on his preseason usage and success. He caught 11 of his 13 targets for 109 yards in his first two preseason games before sitting out the team's third and final preseason contest with the rest of the starters. Stribling's draft stock is sky-rocketing, and he is the WR50 in RotoBaller's rankings. If you can grab him as a bench option in the middle rounds, he could still bring great value if he emerges as one of the go-to options in coach Kyle Shanahan's typically productive passing game.",
-      "metadata": {
-        "description": "San Francisco 49ers wide receiver De'Zhaun Stribling has been one of the most exciting players to emerge this preseason, stepping up as a key contributor in the team's receiving corps while other receivers battled injury. Ricky Pearsall (knee) was placed on season-ending IR, while Christian Kirk (calf) will also start the year on injured reserve but could return after Week 4. The second-round pick from Ole Miss will begin the year in a starting role alongside Mike Evans and Deebo Samuel, and the rookie could make an immediate impact based on his preseason usage and success. He caught 11 of his 13 targets for 109 yards in his first two preseason games before sitting out the team's third and final preseason contest with the rest of the starters. Stribling's draft stock is sky-rocketing, and he is the WR50 in RotoBaller's rankings. If you can grab him as a bench option in the middle rounds, he could still bring great value if he emerges as one of the go-to options in coach Kyle Shanahan's typically productive passing game.",
-        "title": "De'Zhaun Stribling Remains a Top Late-Round Target",
-        "topic_id": "1400518410302967808",
-        "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-remains-a-top-late-round-target/1921145"
-      },
-      "nfl_team": "SF",
-      "player_id": "13417",
-      "player_name": "De'Zhaun Stribling",
-      "position": "WR",
-      "published": 1788257410000,
-      "source": "rotoballer",
-      "source_key": "219855",
-      "story_id": "nfl|13417|rotoballer|219855|1788257410000",
-      "title": "De'Zhaun Stribling Remains a Top Late-Round Target",
-      "url": "https://www.rotoballer.com/player-news/dezhaun-stribling-remains-a-top-late-round-target/1921145"
-    },
-    {
-      "analysis": null,
-      "description": "Kansas City Chiefs running back Kenneth Walker is coming off a big postseason run with the Seahawks that culminated in his Super Bowl MVP Award. After joining the Chiefs this offseason, Walker is being drafted very early in most fantasy drafts, coming off the board in the early rounds. He's ranked RotoBaller's RB No. 7, and he definitely brings top-10 RB potential in his new role with his new team. However, Walker had trouble staying healthy until last season, and he shared a lot of the work with Zach Charbonnet. He finished the regular season with 1,027 rushing yards and 282 receiving yards, with just five total touchdowns. Coach Andy Reid has typically mixed in multiple backs in the past, and the team used a fifth-round pick on Emmett Johnson, while Brashard Smith is also still in the mix. Walker has RB1 potential, but he is less of a sure thing than some of the other RBs being drafted in the same tier. If you do draft Walker, be sure to have plenty of depth at the position with possible pivots if he ends up in a timeshare.",
-      "metadata": {
-        "description": "Kansas City Chiefs running back Kenneth Walker is coming off a big postseason run with the Seahawks that culminated in his Super Bowl MVP Award. After joining the Chiefs this offseason, Walker is being drafted very early in most fantasy drafts, coming off the board in the early rounds. He's ranked RotoBaller's RB No. 7, and he definitely brings top-10 RB potential in his new role with his new team. However, Walker had trouble staying healthy until last season, and he shared a lot of the work with Zach Charbonnet. He finished the regular season with 1,027 rushing yards and 282 receiving yards, with just five total touchdowns. Coach Andy Reid has typically mixed in multiple backs in the past, and the team used a fifth-round pick on Emmett Johnson, while Brashard Smith is also still in the mix. Walker has RB1 potential, but he is less of a sure thing than some of the other RBs being drafted in the same tier. If you do draft Walker, be sure to have plenty of depth at the position with possible pivots if he ends up in a timeshare.",
-        "title": "Kenneth Walker Could Be Over-Hyped",
-        "topic_id": "1400515893737357312",
-        "url": "https://www.rotoballer.com/player-news/kenneth-walker-could-be-over-hyped/1921139"
-      },
-      "nfl_team": "KC",
-      "player_id": "8151",
-      "player_name": "Kenneth Walker",
-      "position": "RB",
-      "published": 1788256748000,
-      "source": "rotoballer",
-      "source_key": "219854",
-      "story_id": "nfl|8151|rotoballer|219854|1788256748000",
-      "title": "Kenneth Walker Could Be Over-Hyped",
-      "url": "https://www.rotoballer.com/player-news/kenneth-walker-could-be-over-hyped/1921139"
-    },
-    {
-      "analysis": null,
-      "description": "Tampa Bay Buccaneers wide receiver Ted Hurst III had a great training camp and preseason, and he has impressed the team to the point that they expect him to be involved early in the season, according to NFL Network's Sara Walsh. The Bucs have dealt with multiple injuries in their receiving corps this preseason, with Emeka Egbuka (toe), Jalen McMillan (knee), and Tez Johnson (groin) all missing practice at different points. Hurst has been very consistent throughout all the different opportunities, and the third-round pick from Georgia State has made the most of his chances. Both head coach Todd Bowles and quarterback Baker Mayfield have praised Hurst's ability and reliability throughout the preseason, and Hurst is definitely worth considering as a late-round WR flier or a waiver-wire add, especially if he gets more playing time as other receivers recover.",
-      "metadata": {
-        "description": "Tampa Bay Buccaneers wide receiver Ted Hurst III had a great training camp and preseason, and he has impressed the team to the point that they expect him to be involved early in the season, according to NFL Network's Sara Walsh. The Bucs have dealt with multiple injuries in their receiving corps this preseason, with Emeka Egbuka (toe), Jalen McMillan (knee), and Tez Johnson (groin) all missing practice at different points. Hurst has been very consistent throughout all the different opportunities, and the third-round pick from Georgia State has made the most of his chances. Both head coach Todd Bowles and quarterback Baker Mayfield have praised Hurst's ability and reliability throughout the preseason, and Hurst is definitely worth considering as a late-round WR flier or a waiver-wire add, especially if he gets more playing time as other receivers recover.",
-        "title": "Ted Hurst III Earning a Larger Role for the Buccaneers",
-        "topic_id": "1400513376899112960",
-        "url": "https://www.rotoballer.com/player-news/ted-hurst-iii-earning-a-larger-role-for-the-buccaneers/1921126"
-      },
-      "nfl_team": "TB",
-      "player_id": "13317",
-      "player_name": "Ted Hurst",
-      "position": "WR",
-      "published": 1788255915000,
-      "source": "rotoballer",
-      "source_key": "219853",
-      "story_id": "nfl|13317|rotoballer|219853|1788255915000",
-      "title": "Ted Hurst III Earning a Larger Role for the Buccaneers",
-      "url": "https://www.rotoballer.com/player-news/ted-hurst-iii-earning-a-larger-role-for-the-buccaneers/1921126"
-    },
-    {
-      "analysis": null,
-      "description": "Tampa Bay Buccaneers wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) are both still dealing with injuries that they picked up this preseason, but there is optimism from the team that both will be ready to play in Week 1, according to NFL Network's Sara Walsh. McMillan is back to running routes after missing a couple of weeks with a knee injury, while Egbuka is recovering from a sprained toe that he suffered in a joint practice with the Jets a few weeks ago. Egbuka had a breakout rookie season, and both he and McMillan bring lots of fantasy upside this year, following the departure of target-magnet Mike Evans. With plenty of work up for grabs in Baker Mayfield's offense, Egbuka has WR1 upside if he's healthy, while McMillan could be a strong late-round sleeper if he secures regular playing time. UPDATE: Egbuka did not practice on Tuesday, per Pewter Report.",
-      "metadata": {
-        "description": "Tampa Bay Buccaneers wide receivers Emeka Egbuka (toe) and Jalen McMillan (knee) are both still dealing with injuries that they picked up this preseason, but there is optimism from the team that both will be ready to play in Week 1, according to NFL Network's Sara Walsh. McMillan is back to running routes after missing a couple of weeks with a knee injury, while Egbuka is recovering from a sprained toe that he suffered in a joint practice with the Jets a few weeks ago. Egbuka had a breakout rookie season, and both he and McMillan bring lots of fantasy upside this year, following the departure of target-magnet Mike Evans. With plenty of work up for grabs in Baker Mayfield's offense, Egbuka has WR1 upside if he's healthy, while McMillan could be a strong late-round sleeper if he secures regular playing time. UPDATE: Egbuka did not practice on Tuesday, per Pewter Report.",
-        "title": "Emeka Egbuka Could Play in Week 1",
-        "topic_id": "1400509601090138112",
-        "url": "https://www.rotoballer.com/player-news/emeka-egbuka-and-jalen-mcmillan-could-play-in-week-1/1921116"
-      },
-      "nfl_team": "TB",
-      "player_id": "11618",
-      "player_name": "Jalen McMillan",
-      "position": "WR",
-      "published": 1788255393000,
-      "source": "rotoballer",
-      "source_key": "219852",
-      "story_id": "nfl|11618|rotoballer|219852|1788255393000",
-      "title": "Emeka Egbuka Could Play in Week 1",
-      "url": "https://www.rotoballer.com/player-news/emeka-egbuka-and-jalen-mcmillan-could-play-in-week-1/1921116"
-    },
-    {
-      "analysis": null,
-      "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) has been limited in practice due to an unspecified lower-body injury, but it looks like it won't impact his availability against the Colts in Week 1, according to Matt Zenitz of CBS Sports. Flowers is expected to practice in full next week and be ready to go on Sunday afternoon in Indianapolis. Flowers finished with 86 catches for 1,211 yards and five touchdowns on 118 targets last season, and the Ravens' offense under new offensive coordinator Declan Doyle will be focused on getting the ball into Flowers' hands in spots where he can make big plays. He's a high-end WR2 with WR1 upside, and it looks like the injury will not slow him at all as the regular season gets underway. He can be started as you normally would, as the Ravens start a new era under new head coach Jesse Minter.",
-      "metadata": {
-        "description": "Baltimore Ravens wide receiver Zay Flowers (lower body) has been limited in practice due to an unspecified lower-body injury, but it looks like it won't impact his availability against the Colts in Week 1, according to Matt Zenitz of CBS Sports. Flowers is expected to practice in full next week and be ready to go on Sunday afternoon in Indianapolis. Flowers finished with 86 catches for 1,211 yards and five touchdowns on 118 targets last season, and the Ravens' offense under new offensive coordinator Declan Doyle will be focused on getting the ball into Flowers' hands in spots where he can make big plays. He's a high-end WR2 with WR1 upside, and it looks like the injury will not slow him at all as the regular season gets underway. He can be started as you normally would, as the Ravens start a new era under new head coach Jesse Minter.",
-        "title": "Zay Flowers Good to Go for Week 1",
-        "topic_id": "1400507083882799104",
-        "url": "https://www.rotoballer.com/player-news/zay-flowers-good-to-go-for-week-1/1921100"
-      },
-      "nfl_team": "BAL",
-      "player_id": "9997",
-      "player_name": "Zay Flowers",
-      "position": "WR",
-      "published": 1788254530000,
-      "source": "rotoballer",
-      "source_key": "219851",
-      "story_id": "nfl|9997|rotoballer|219851|1788254530000",
-      "title": "Zay Flowers Good to Go for Week 1",
-      "url": "https://www.rotoballer.com/player-news/zay-flowers-good-to-go-for-week-1/1921100"
     }
   ]
 }
