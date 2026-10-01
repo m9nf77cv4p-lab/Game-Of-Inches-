@@ -1,30 +1,23 @@
 {
-  "last_checked_at": "2026-10-01T02:20:50Z",
+  "last_checked_at": "2026-10-01T09:07:39Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 296,
+  "monitored_player_count": 298,
   "new_story_ids": [
-    "nfl|11635|fantasy_pros|611632|1790818831616",
-    "nfl|11635|rotoballer|222806|1790796847000",
-    "nfl|12487|rotowire|640063|1790812409000",
-    "nfl|12508|rotoballer|222809|1790799010000",
-    "nfl|12534|rotoballer|222812|1790801895000",
-    "nfl|13286|fantasy_pros|611637|1790819432547",
-    "nfl|13286|rotoballer|222814|1790802308000",
-    "nfl|13330|rotoballer|222815|1790802974000",
-    "nfl|13330|rotowire|640079|1790814114000",
-    "nfl|13421|rotowire|640057|1790811480000",
-    "nfl|1945|rotoballer|222821|1790805910000",
-    "nfl|4983|rotoballer|222810|1790800452000",
-    "nfl|5846|rotoballer|222816|1790802908000",
-    "nfl|6819|rotoballer|222819|1790804236000",
-    "nfl|7526|rotoballer|222808|1790797810000",
-    "nfl|7600|rotoballer|222820|1790804947000",
-    "nfl|8228|rotoballer|222813|1790801890000",
-    "nfl|8676|fantasy_pros|611638|1790819432849",
-    "nfl|9493|rotowire|640060|1790812061000",
-    "nfl|9511|fantasy_pros|611633|1790818831855",
-    "nfl|9511|rotoballer|222807|1790797381000",
-    "nfl|96|rotoballer|222811|1790800773000"
+    "nfl|11563|rotoballer|222831|1790814789000",
+    "nfl|11564|rotoballer|222823|1790806690000",
+    "nfl|11603|rotoballer|222832|1790816775000",
+    "nfl|12487|fantasy_pros|611653|1790828732861",
+    "nfl|12489|fantasy_pros|611656|1790828732814",
+    "nfl|13287|rotoballer|222829|1790809690000",
+    "nfl|2216|rotoballer|222824|1790807411000",
+    "nfl|3294|rotoballer|222828|1790808849000",
+    "nfl|5022|fantasy_pros|611658|1790828732788",
+    "nfl|6790|rotoballer|222827|1790810588000",
+    "nfl|6806|fantasy_pros|611655|1790828732827",
+    "nfl|7525|fantasy_pros|611659|1790828732780",
+    "nfl|8148|rotoballer|222825|1790808186000",
+    "nfl|8167|rotoballer|222826|1790810773000",
+    "nfl|9511|fantasy_pros|611657|1790828732800"
   ],
   "schema_version": 1,
   "source": {
@@ -34,6 +27,132 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Ferguson remains likely to be sidelined this week. ",
+      "description": "Terrance Ferguson did not practice on Wednesday. ",
+      "metadata": {
+        "analysis": "Ferguson remains likely to be sidelined this week. ",
+        "description": "Terrance Ferguson did not practice on Wednesday. ",
+        "title": "Terrance Ferguson (ankle) misses practice ",
+        "topic_id": "1411241627321651200",
+        "url": "https://www.fantasypros.com/nfl/news/611653/terrance-ferguson-ankle-misses-practice.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12487",
+      "player_name": "Terrance Ferguson",
+      "position": "TE",
+      "published": 1790828732861,
+      "source": "fantasy_pros",
+      "source_key": "611653",
+      "story_id": "nfl|12487|fantasy_pros|611653|1790828732861",
+      "title": "Terrance Ferguson (ankle) misses practice ",
+      "url": "https://www.fantasypros.com/nfl/news/611653/terrance-ferguson-ankle-misses-practice.php"
+    },
+    {
+      "analysis": "Dobbins will remain in his lead role in the Broncos backfield. ",
+      "description": "J.K. Dobbins is practicing in full for Week 4 against the 49ers.",
+      "metadata": {
+        "analysis": "Dobbins will remain in his lead role in the Broncos backfield. ",
+        "description": "J.K. Dobbins is practicing in full for Week 4 against the 49ers.",
+        "title": "J.K. Dobbins (hip) practicing in full for Week 4",
+        "topic_id": "1411241627179044864",
+        "url": "https://www.fantasypros.com/nfl/news/611655/jk-dobbins-hip-practicing-full-week-4.php"
+      },
+      "nfl_team": "DEN",
+      "player_id": "6806",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "published": 1790828732827,
+      "source": "fantasy_pros",
+      "source_key": "611655",
+      "story_id": "nfl|6806|fantasy_pros|611655|1790828732827",
+      "title": "J.K. Dobbins (hip) practicing in full for Week 4",
+      "url": "https://www.fantasypros.com/nfl/news/611655/jk-dobbins-hip-practicing-full-week-4.php"
+    },
+    {
+      "analysis": "Harvey was checked for a concussion in Week. He will be good to go in his complimentary role next to J.K. Dobbins. ",
+      "description": "RJ Harvey is off the injury report on Wednesday. ",
+      "metadata": {
+        "analysis": "Harvey was checked for a concussion in Week. He will be good to go in his complimentary role next to J.K. Dobbins. ",
+        "description": "RJ Harvey is off the injury report on Wednesday. ",
+        "title": "RJ Harvey (concussion) off injury report ",
+        "topic_id": "1411241627120324608",
+        "url": "https://www.fantasypros.com/nfl/news/611656/rj-harvey-concussion-off-injury-report.php"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12489",
+      "player_name": "RJ Harvey",
+      "position": "RB",
+      "published": 1790828732814,
+      "source": "fantasy_pros",
+      "source_key": "611656",
+      "story_id": "nfl|12489|fantasy_pros|611656|1790828732814",
+      "title": "RJ Harvey (concussion) off injury report ",
+      "url": "https://www.fantasypros.com/nfl/news/611656/rj-harvey-concussion-off-injury-report.php"
+    },
+    {
+      "analysis": "Mitchell was listed as a limited participant in practice on Wednesday. His status will need to be monitored in practice the rest of the week. ",
+      "description": "Keaton Mitchell was wearing a walking boot on his left foot after practice.",
+      "metadata": {
+        "analysis": "Mitchell was listed as a limited participant in practice on Wednesday. His status will need to be monitored in practice the rest of the week. ",
+        "description": "Keaton Mitchell was wearing a walking boot on his left foot after practice.",
+        "title": "Keaton Mitchell in walking boot",
+        "topic_id": "1411241627061604352",
+        "url": "https://www.fantasypros.com/nfl/news/611657/keaton-mitchell-walking-boot.php"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1790828732800,
+      "source": "fantasy_pros",
+      "source_key": "611657",
+      "story_id": "nfl|9511|fantasy_pros|611657|1790828732800",
+      "title": "Keaton Mitchell in walking boot",
+      "url": "https://www.fantasypros.com/nfl/news/611657/keaton-mitchell-walking-boot.php"
+    },
+    {
+      "analysis": "Goedert remains likely to miss another game. ",
+      "description": "Dallas Goedert did not practice on Wednesday. ",
+      "metadata": {
+        "analysis": "Goedert remains likely to miss another game. ",
+        "description": "Dallas Goedert did not practice on Wednesday. ",
+        "title": "Dallas Goedert (knee) not practicing Wednesday ",
+        "topic_id": "1411241627023855616",
+        "url": "https://www.fantasypros.com/nfl/news/611658/dallas-goedert-knee-not-practicing-wednesday.php"
+      },
+      "nfl_team": "PHI",
+      "player_id": "5022",
+      "player_name": "Dallas Goedert",
+      "position": "TE",
+      "published": 1790828732788,
+      "source": "fantasy_pros",
+      "source_key": "611658",
+      "story_id": "nfl|5022|fantasy_pros|611658|1790828732788",
+      "title": "Dallas Goedert (knee) not practicing Wednesday ",
+      "url": "https://www.fantasypros.com/nfl/news/611658/dallas-goedert-knee-not-practicing-wednesday.php"
+    },
+    {
+      "analysis": "Smith also missed practice to begin last week. His status will need to be monitored the next couple of days. ",
+      "description": "DeVonta Smith did not practice on Wednesday.",
+      "metadata": {
+        "analysis": "Smith also missed practice to begin last week. His status will need to be monitored the next couple of days. ",
+        "description": "DeVonta Smith did not practice on Wednesday.",
+        "title": "DeVonta Smith (hamstring) misses practice Wednesday ",
+        "topic_id": "1411241626977718272",
+        "url": "https://www.fantasypros.com/nfl/news/611659/devonta-smith-hamstring-misses-practice-wednesday.php"
+      },
+      "nfl_team": "PHI",
+      "player_id": "7525",
+      "player_name": "DeVonta Smith",
+      "position": "WR",
+      "published": 1790828732780,
+      "source": "fantasy_pros",
+      "source_key": "611659",
+      "story_id": "nfl|7525|fantasy_pros|611659|1790828732780",
+      "title": "DeVonta Smith (hamstring) misses practice Wednesday ",
+      "url": "https://www.fantasypros.com/nfl/news/611659/devonta-smith-hamstring-misses-practice-wednesday.php"
+    },
     {
       "analysis": "Shaheed is a volatile WR4 with upside in his current role. ",
       "description": "Rashid Shaheed was a full participant in practice on Wednesday. ",
@@ -119,6 +238,46 @@
       "url": "https://www.fantasypros.com/nfl/news/611632/ladd-mcconkey-foot-limited-practice-wednesday.php"
     },
     {
+      "analysis": null,
+      "description": "Seattle Seahawks tight end AJ Barner had a relatively small role in the passing attack through the first two weeks of the season, but his volume shot up with quarterback Sam Darnold returning from injury in Week 3. During Sunday's loss, Barner exploded for nine targets, five catches, and 69 receiving yards. This was the second-highest target total of his career, suggesting that he's trending up with Darnold back in action. Barner may not get nine targets every week, but all signs point to him remaining on the fantasy radar as he continues to show off his rapport with Darnold. There's a case to be made that the 24-year-old is Darnold's second-favorite target, behind only Jaxon Smith-Njigba. Barner has low-end TE1 appeal heading into Week 4 against the Los Angeles Chargers.",
+      "metadata": {
+        "description": "Seattle Seahawks tight end AJ Barner had a relatively small role in the passing attack through the first two weeks of the season, but his volume shot up with quarterback Sam Darnold returning from injury in Week 3. During Sunday's loss, Barner exploded for nine targets, five catches, and 69 receiving yards. This was the second-highest target total of his career, suggesting that he's trending up with Darnold back in action. Barner may not get nine targets every week, but all signs point to him remaining on the fantasy radar as he continues to show off his rapport with Darnold. There's a case to be made that the 24-year-old is Darnold's second-favorite target, behind only Jaxon Smith-Njigba. Barner has low-end TE1 appeal heading into Week 4 against the Los Angeles Chargers.",
+        "title": "AJ Barner Trending Up After Starting Quarterback Returns",
+        "topic_id": "1411254203199799296",
+        "url": "https://www.rotoballer.com/player-news/aj-barner-trending-up-after-starting-quarterback-returns/1955126"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11603",
+      "player_name": "AJ Barner",
+      "position": "TE",
+      "published": 1790816775000,
+      "source": "rotoballer",
+      "source_key": "222832",
+      "story_id": "nfl|11603|rotoballer|222832|1790816775000",
+      "title": "AJ Barner Trending Up After Starting Quarterback Returns",
+      "url": "https://www.rotoballer.com/player-news/aj-barner-trending-up-after-starting-quarterback-returns/1955126"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos quarterback Bo Nix had two turnovers and just 131 passing yards in Week 1, but he has turned the corner with two significantly stronger outings over his last two games. Most recently, in Week 3 against the Rams, he racked up 186 passing yards, three total touchdowns, and one interception. Although he still didn't have an amazing yardage output, his ability to find the end zone three times against a strong Rams defense was quite impressive. Nix has jumped to 18th in fantasy scoring this year, and he's trending back toward the low-end QB1 tier for Week 4 and beyond. The Broncos have a very tough start-of-season schedule, but Nix will have a chance to lead his Broncos to a 3-1 start against the undefeated 49ers on Sunday.",
+      "metadata": {
+        "description": "Denver Broncos quarterback Bo Nix had two turnovers and just 131 passing yards in Week 1, but he has turned the corner with two significantly stronger outings over his last two games. Most recently, in Week 3 against the Rams, he racked up 186 passing yards, three total touchdowns, and one interception. Although he still didn't have an amazing yardage output, his ability to find the end zone three times against a strong Rams defense was quite impressive. Nix has jumped to 18th in fantasy scoring this year, and he's trending back toward the low-end QB1 tier for Week 4 and beyond. The Broncos have a very tough start-of-season schedule, but Nix will have a chance to lead his Broncos to a 3-1 start against the undefeated 49ers on Sunday.",
+        "title": "Bo Nix Turning the Corner After Sluggish Start",
+        "topic_id": "1411245394238705664",
+        "url": "https://www.rotoballer.com/player-news/bo-nix-turning-the-corner-after-sluggish-start/1955115"
+      },
+      "nfl_team": "DEN",
+      "player_id": "11563",
+      "player_name": "Bo Nix",
+      "position": "QB",
+      "published": 1790814789000,
+      "source": "rotoballer",
+      "source_key": "222831",
+      "story_id": "nfl|11563|rotoballer|222831|1790814789000",
+      "title": "Bo Nix Turning the Corner After Sluggish Start",
+      "url": "https://www.rotoballer.com/player-news/bo-nix-turning-the-corner-after-sluggish-start/1955115"
+    },
+    {
       "analysis": "Meanwhile, fellow TE Jeremy Ruckert (knee) also was limited, while Mason Taylor (thumb) didn't practice. In Taylor's absence this past Sunday at Detroit, Sadiq, a rookie first-round pick, broke out with seven catches (on eight targets) for 105 yards and one touchdown. Another hefty workload could be on tap for Sadiq in Week 5 at Chicago if Taylor remains sidelined and Ruckert also is less than 100 percent. First, though, the statuses of the three players will continue to be watched to get a sense of the overall situation.",
       "description": "Sadiq was limited at Wednesday's practice due to a back injury.",
       "metadata": {
@@ -159,10 +318,10 @@
       "url": null
     },
     {
-      "analysis": "Nacua thus upheld coach Sean McVay's expectations of the stud wide receiver as the Rams kicked off Week 4 prep. After missing the last two games due to a hip injury that McVay alternatively has called soreness in his groin, Nacua also is expected to play in Sunday's game at Philadelphia, as McVay told Stu Jackson of the Rams' official site on Wednesday. How Nacua fares at practice Thursday and Friday likely will determine if he heads into the weekend with a designation.",
+      "analysis": "Nacua thus upheld coach Sean McVay's expectations of the stud wide receiver as the Rams kicked off Week 4 prep. After missing the last two games due to a hip injury that McVay alternatively has called soreness in his groin, Nacua is expected to play in Sunday's game at Philadelphia, as McVay told Stu Jackson of the Rams' official site on Wednesday. How Nacua fares at practice Thursday and Friday likely will determine if he heads into the weekend with a designation.",
       "description": "Nacua (hip) officially was limited at Wednesday's practice, Adam Caplan of SiriusXM NFL Radio reports.",
       "metadata": {
-        "analysis": "Nacua thus upheld coach Sean McVay's expectations of the stud wide receiver as the Rams kicked off Week 4 prep. After missing the last two games due to a hip injury that McVay alternatively has called soreness in his groin, Nacua also is expected to play in Sunday's game at Philadelphia, as McVay told Stu Jackson of the Rams' official site on Wednesday. How Nacua fares at practice Thursday and Friday likely will determine if he heads into the weekend with a designation.",
+        "analysis": "Nacua thus upheld coach Sean McVay's expectations of the stud wide receiver as the Rams kicked off Week 4 prep. After missing the last two games due to a hip injury that McVay alternatively has called soreness in his groin, Nacua is expected to play in Sunday's game at Philadelphia, as McVay told Stu Jackson of the Rams' official site on Wednesday. How Nacua fares at practice Thursday and Friday likely will determine if he heads into the weekend with a designation.",
         "description": "Nacua (hip) officially was limited at Wednesday's practice, Adam Caplan of SiriusXM NFL Radio reports.",
         "title": "Puka Nacua - Officially limited Wednesday",
         "topic_id": "1411172411436498945"
@@ -199,6 +358,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Green Bay Packers wide receiver Christian Watson has been fantastic this season, catching 17 passes for 284 yards and four touchdowns through three games. He has at least eight targets in all three games this season, and he also has a four-game touchdown streak dating back to last regular season. The Packers have endured their fair share of struggles en route to a 1-2 start, but Watson has been able to maintain a very sizable role. He ranks as the overall WR5 in PPR leagues this season, putting him in must-start territory for every week regardless of matchup. Managers should have full confidence rolling him out as a mid-to-low WR1 for Week 4 against the Tampa Bay Buccaneers, who are also trending in the wrong direction with a 0-3 start to the year.",
+      "metadata": {
+        "description": "Green Bay Packers wide receiver Christian Watson has been fantastic this season, catching 17 passes for 284 yards and four touchdowns through three games. He has at least eight targets in all three games this season, and he also has a four-game touchdown streak dating back to last regular season. The Packers have endured their fair share of struggles en route to a 1-2 start, but Watson has been able to maintain a very sizable role. He ranks as the overall WR5 in PPR leagues this season, putting him in must-start territory for every week regardless of matchup. Managers should have full confidence rolling him out as a mid-to-low WR1 for Week 4 against the Tampa Bay Buccaneers, who are also trending in the wrong direction with a 0-3 start to the year.",
+        "title": "Christian Watson in Must-Start Territory with Big Role and TD Streak",
+        "topic_id": "1411227778065367040",
+        "url": "https://www.rotoballer.com/player-news/christian-watson-in-must-start-territory-with-big-role-and-touchdown-streak/1955096"
+      },
+      "nfl_team": "GB",
+      "player_id": "8167",
+      "player_name": "Christian Watson",
+      "position": "WR",
+      "published": 1790810773000,
+      "source": "rotoballer",
+      "source_key": "222826",
+      "story_id": "nfl|8167|rotoballer|222826|1790810773000",
+      "title": "Christian Watson in Must-Start Territory with Big Role and TD Streak",
+      "url": "https://www.rotoballer.com/player-news/christian-watson-in-must-start-territory-with-big-role-and-touchdown-streak/1955096"
+    },
+    {
       "analysis": "Price logged career lows in snap share (28 percent) and touches (six) during this past Sunday's loss at Washington, accounting for just 22 yards from scrimmage. Perhaps the current health concern is partly to blame, but fellow RB Emanuel Wilson earned nine touches (all rushes) in Week 3, while George Holani (rib, LP on Wednesday) handled eight touches. Considering Holani now is banged up as well, Wilson may be the safest best among the trio to produce on game days.",
       "description": "Price was limited in practice Wednesday due to a chest injury, Bob Condotta of The Seattle Times reports.",
       "metadata": {
@@ -217,6 +396,26 @@
       "story_id": "nfl|13286|rotowire|640050|1790810757000",
       "title": "Jadarian Price - Limited by chest issue",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears running back D'Andre Swift continues to exceed expectations in his age-27 season. The veteran running back logged a season-high 22 touches last week, and he's now averaging 20.7 touches per game this year. Not only is he handling a large workload, but he has also been quite productive. Swift ranks as the overall RB7 in PPR leagues this year with 253 rushing yards and three rushing touchdowns. He has been able to fend off any sort of competition from Kyle Monangai, who has 10 carries in all three games this year but has handled a moderately low snap share while having a smaller role in the receiving game. It was especially encouraging to see Swift have such a productive game in Week 3, despite Caleb Williams (hamstring) being sidelined. Regardless of who quarterbacks the Bears in Week 4 and beyond, Swift should remain a high-end RB2 in fantasy football.",
+      "metadata": {
+        "description": "Chicago Bears running back D'Andre Swift continues to exceed expectations in his age-27 season. The veteran running back logged a season-high 22 touches last week, and he's now averaging 20.7 touches per game this year. Not only is he handling a large workload, but he has also been quite productive. Swift ranks as the overall RB7 in PPR leagues this year with 253 rushing yards and three rushing touchdowns. He has been able to fend off any sort of competition from Kyle Monangai, who has 10 carries in all three games this year but has handled a moderately low snap share while having a smaller role in the receiving game. It was especially encouraging to see Swift have such a productive game in Week 3, despite Caleb Williams (hamstring) being sidelined. Regardless of who quarterbacks the Bears in Week 4 and beyond, Swift should remain a high-end RB2 in fantasy football.",
+        "title": "Large Workload Fuels Big Start to Season for D'Andre Swift",
+        "topic_id": "1411227778073755648",
+        "url": "https://www.rotoballer.com/player-news/large-workload-fuels-big-start-to-season-for-dandre-swift/1955094"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1790810588000,
+      "source": "rotoballer",
+      "source_key": "222827",
+      "story_id": "nfl|6790|rotoballer|222827|1790810588000",
+      "title": "Large Workload Fuels Big Start to Season for D'Andre Swift",
+      "url": "https://www.rotoballer.com/player-news/large-workload-fuels-big-start-to-season-for-dandre-swift/1955094"
     },
     {
       "analysis": "Head coach John Harbaugh told reporters after Wednesday's session that Tracy is considered day-to-day and believes the knee injury isn't a serious matter. Tracy has mostly played on special teams this season, but if he's not cleared to play against the Cardinals on Sunday, then Devin Singletary -- who was a healthy scratch for Week 3 against the Titans -- would serve as the Giants' RB3 behind Cam Skattebo and Najee Harris.",
@@ -239,10 +438,10 @@
       "url": null
     },
     {
-      "analysis": "Mitchell was spotted with a walking boot on his left leg, and the Chargers updated their injury report to reflect the running back as limited Wednesday. Mitchell likely suffered the left ankle injury during Wednesday's session, but he didn't express much concern about the injury, and the running back will have two more chances this week to log a full practice before Sunday's matchup with the Seahawks. If he is unavailable for Week 4, Kimani Vidal would serve as the top reserve option behind starter Omarion Hampton.",
+      "analysis": "Mitchell was spotted with a walking boot on his left leg, and the Chargers updated their injury report to reflect the running back as limited Wednesday. He may have suffered the left ankle injury during Wednesday's session, but he didn't express much concern about the injury, and the running back will have two more chances this week to log a full practice before Sunday's matchup with the Seahawks. If Mitchell is unavailable for Week 4, Kimani Vidal would serve as the top reserve option behind starter Omarion Hampton.",
       "description": "Mitchell (ankle) was a limited participant at the Chargers' practice Wednesday, Kris Rhim of ESPN.com reports.",
       "metadata": {
-        "analysis": "Mitchell was spotted with a walking boot on his left leg, and the Chargers updated their injury report to reflect the running back as limited Wednesday. Mitchell likely suffered the left ankle injury during Wednesday's session, but he didn't express much concern about the injury, and the running back will have two more chances this week to log a full practice before Sunday's matchup with the Seahawks. If he is unavailable for Week 4, Kimani Vidal would serve as the top reserve option behind starter Omarion Hampton.",
+        "analysis": "Mitchell was spotted with a walking boot on his left leg, and the Chargers updated their injury report to reflect the running back as limited Wednesday. He may have suffered the left ankle injury during Wednesday's session, but he didn't express much concern about the injury, and the running back will have two more chances this week to log a full practice before Sunday's matchup with the Seahawks. If Mitchell is unavailable for Week 4, Kimani Vidal would serve as the top reserve option behind starter Omarion Hampton.",
         "description": "Mitchell (ankle) was a limited participant at the Chargers' practice Wednesday, Kris Rhim of ESPN.com reports.",
         "title": "Keaton Mitchell - Dealing with ankle injury",
         "topic_id": "1411164861693468673"
@@ -299,6 +498,86 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "After playing more of a modest role in his first two NFL games, Arizona Cardinals rookie first-round running back Jeremiyah Love introduced himself as a lead running back in a 36-30 loss to the San Francisco 49ers in Week 3. Love started the game and played 55 out of 86 total offensive snaps (64%). He earned 21 carries for 90 yards (4.3 yards per carry) on the ground, while making his presence felt through the air with five receptions for 19 yards and a receiving touchdown. According to Pro Football Focus, 48 of Love's 90 yards came after contact. The No. 3 overall pick of the 2026 NFL Draft was clearly above veteran Tyler Allgeier in the pecking order in Week 3, which was not the case during the first two weeks. Arizona drafted Love early to be its workhorse back, and he now seems to be taking that role over. In total, through three games, Love has carried the ball 41 times for 160 yards (3.9 yards per carry) and a touchdown, while adding 10 receptions for 44 yards and an additional score. He has a Week 4 matchup against a New York Giants defense that is allowing 104.3 rushing yards per game. Love enters the week as RotoBaller's No. 8 running back.",
+      "metadata": {
+        "description": "After playing more of a modest role in his first two NFL games, Arizona Cardinals rookie first-round running back Jeremiyah Love introduced himself as a lead running back in a 36-30 loss to the San Francisco 49ers in Week 3. Love started the game and played 55 out of 86 total offensive snaps (64%). He earned 21 carries for 90 yards (4.3 yards per carry) on the ground, while making his presence felt through the air with five receptions for 19 yards and a receiving touchdown. According to Pro Football Focus, 48 of Love's 90 yards came after contact. The No. 3 overall pick of the 2026 NFL Draft was clearly above veteran Tyler Allgeier in the pecking order in Week 3, which was not the case during the first two weeks. Arizona drafted Love early to be its workhorse back, and he now seems to be taking that role over. In total, through three games, Love has carried the ball 41 times for 160 yards (3.9 yards per carry) and a touchdown, while adding 10 receptions for 44 yards and an additional score. He has a Week 4 matchup against a New York Giants defense that is allowing 104.3 rushing yards per game. Love enters the week as RotoBaller's No. 8 running back.",
+        "title": "Jeremiyah Love Looks to Keep his Momentum",
+        "topic_id": "1411237844327911424",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-introduced-himself-in-week-3-and-looks-to-continue-momentum/1955093"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1790809690000,
+      "source": "rotoballer",
+      "source_key": "222829",
+      "story_id": "nfl|13287|rotoballer|222829|1790809690000",
+      "title": "Jeremiyah Love Looks to Keep his Momentum",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-introduced-himself-in-week-3-and-looks-to-continue-momentum/1955093"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys quarterback Dak Prescott is off to a strong statistical start in 2026. Through three games, he has completed 73 out of 105 passes (69.5%) for 730 yards, with seven touchdown passes versus just one interception. Prescott has added 59 rushing yards. He is averaging 21 fantasy points per game. Prescott is coming off a performance against the Ravens in Brazil in which he completed 25 out of 40 passes (62.5%) for 276 yards and a touchdown, while throwing zero interceptions. However, the game ended in heartbreak for Prescott and the Cowboys as they fell to 0-2 following a game-winning 56-yard field goal by Baltimore's Tyler Loop as time expired. Prescott has a Week 4 matchup against a Houston Texans defense that ranks near the bottom of the league in passing yards allowed per game (238.7). He enters Week 4 as RotoBaller's No. 11 quarterback and is projected to score 17.9 fantasy points.",
+      "metadata": {
+        "description": "Dallas Cowboys quarterback Dak Prescott is off to a strong statistical start in 2026. Through three games, he has completed 73 out of 105 passes (69.5%) for 730 yards, with seven touchdown passes versus just one interception. Prescott has added 59 rushing yards. He is averaging 21 fantasy points per game. Prescott is coming off a performance against the Ravens in Brazil in which he completed 25 out of 40 passes (62.5%) for 276 yards and a touchdown, while throwing zero interceptions. However, the game ended in heartbreak for Prescott and the Cowboys as they fell to 0-2 following a game-winning 56-yard field goal by Baltimore's Tyler Loop as time expired. Prescott has a Week 4 matchup against a Houston Texans defense that ranks near the bottom of the league in passing yards allowed per game (238.7). He enters Week 4 as RotoBaller's No. 11 quarterback and is projected to score 17.9 fantasy points.",
+        "title": "Dak Prescott Off to a Strong Start in 2026",
+        "topic_id": "1411235327384850432",
+        "url": "https://www.rotoballer.com/player-news/dak-prescott-off-to-a-strong-start-in-2026/1955091"
+      },
+      "nfl_team": "DAL",
+      "player_id": "3294",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "published": 1790808849000,
+      "source": "rotoballer",
+      "source_key": "222828",
+      "story_id": "nfl|3294|rotoballer|222828|1790808849000",
+      "title": "Dak Prescott Off to a Strong Start in 2026",
+      "url": "https://www.rotoballer.com/player-news/dak-prescott-off-to-a-strong-start-in-2026/1955091"
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions wide receiver Jameson Williams won't be charged in an alleged assault case, according to Dave Birkett and John Wisely of the Detroit Free Press. Williams was investigated earlier this month after a woman accused him of assaulting her in August, but the Oakland County prosecutors will not issue any charges. \"Based on the facts presented to us at this time, the Novi Police and our office jointly concluded that there is no cause to file charges against Mr. Williams,\" a statement read, in part. Williams' attorneys, Jason Lampert and Larry Margolis, told the Free Press that \"Mr. Williams unequivocally denies the allegation of domestic violence.\" The Lions said on Wednesday that the team was aware of the investigation, but did not comment further. It appears that Williams will be able to put this matter behind him and focus on the 2026 season. He has 10 catches for 127 yards through three games this season.",
+      "metadata": {
+        "description": "Detroit Lions wide receiver Jameson Williams won't be charged in an alleged assault case, according to Dave Birkett and John Wisely of the Detroit Free Press. Williams was investigated earlier this month after a woman accused him of assaulting her in August, but the Oakland County prosecutors will not issue any charges. \"Based on the facts presented to us at this time, the Novi Police and our office jointly concluded that there is no cause to file charges against Mr. Williams,\" a statement read, in part. Williams' attorneys, Jason Lampert and Larry Margolis, told the Free Press that \"Mr. Williams unequivocally denies the allegation of domestic violence.\" The Lions said on Wednesday that the team was aware of the investigation, but did not comment further. It appears that Williams will be able to put this matter behind him and focus on the 2026 season. He has 10 catches for 127 yards through three games this season.",
+        "title": "Jameson Williams Won't be Charged in Alleged Assault Case",
+        "topic_id": "1411218968244494336",
+        "url": "https://www.rotoballer.com/player-news/jameson-williams-wont-be-charged-in-alleged-assault-case/1955089"
+      },
+      "nfl_team": "DET",
+      "player_id": "8148",
+      "player_name": "Jameson Williams",
+      "position": "WR",
+      "published": 1790808186000,
+      "source": "rotoballer",
+      "source_key": "222825",
+      "story_id": "nfl|8148|rotoballer|222825|1790808186000",
+      "title": "Jameson Williams Won't be Charged in Alleged Assault Case",
+      "url": "https://www.rotoballer.com/player-news/jameson-williams-wont-be-charged-in-alleged-assault-case/1955089"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Mike Evans (ribs) is potentially dealing with fractured ribs. Per Charean Williams of Pro Football Talk, 49ers tight end George Kittle may have shed some light on the specifics of Evans' injury after San Francisco head coach Kyle Shanahan was coy about the situation. \"Fractured ribs suck,\" Kittle said during an appearance on Bay Area radio station KNBR. \"Hey, Mike's a stud. He'll do what's best for him and what's best for the team. We're not worried about it.\" Evans was injured in the first half of a Week 3 victory over the Arizona Cardinals and did not return. Evans did not practice on Wednesday. He is considered \"day-to-day,\" and Shanahan said on Monday that he didn't expect Evans to have a long-term injury.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Mike Evans (ribs) is potentially dealing with fractured ribs. Per Charean Williams of Pro Football Talk, 49ers tight end George Kittle may have shed some light on the specifics of Evans' injury after San Francisco head coach Kyle Shanahan was coy about the situation. \"Fractured ribs suck,\" Kittle said during an appearance on Bay Area radio station KNBR. \"Hey, Mike's a stud. He'll do what's best for him and what's best for the team. We're not worried about it.\" Evans was injured in the first half of a Week 3 victory over the Arizona Cardinals and did not return. Evans did not practice on Wednesday. He is considered \"day-to-day,\" and Shanahan said on Monday that he didn't expect Evans to have a long-term injury.",
+        "title": "Mike Evans Dealing with a Broken Rib?",
+        "topic_id": "1411215193685438464",
+        "url": "https://www.rotoballer.com/player-news/mike-evans-dealing-with-a-broken-rib/1955082"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1790807411000,
+      "source": "rotoballer",
+      "source_key": "222824",
+      "story_id": "nfl|2216|rotoballer|222824|1790807411000",
+      "title": "Mike Evans Dealing with a Broken Rib?",
+      "url": "https://www.rotoballer.com/player-news/mike-evans-dealing-with-a-broken-rib/1955082"
+    },
+    {
       "analysis": "The rookie was limited to start the practice week on Wednesday due to a knee issue. It seems unlikely to affect his availability for Week 4, however, and he seems primed to see more work against the Vikings with Caleb Douglas (ankle) trending towards missing another game for Miami.",
       "description": "Chris Bell (knee) was listed as a limited participant at practice on Wednesday.",
       "metadata": {
@@ -338,6 +617,26 @@
       "story_id": "nfl|11635|rotowire|640031|1790807056000",
       "title": "Ladd McConkey - Dealing with foot injury",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots quarterback Drake Maye is off to a disastrous start in 2026. He has seven turnovers combined, including six interceptions, compared to just one touchdown. He has completed 51 out of 80 passes (63.8%) for 585 yards and a touchdown, while adding 82 rushing yards. Against the Jacksonville Jaguars in Week 3, Maye completed just 56% of his pass attempts for 199 yards, with no touchdowns and two interceptions, while also fumbling the ball twice (losing one). Chad Graff of The Athletic speculates that Maye's issues may be mental more than anything. \"What's fallen apart with Maye looks like it's between the ears as much as anything physical. He looks like a quarterback whose confidence is shot,\" Graff writes. The Patriots fell to 1-2 after a 35-6 loss to the Jaguars. Maye and the Patriots will look to get back on track in a tough divisional matchup against the Buffalo Bills in Week 4.",
+      "metadata": {
+        "description": "New England Patriots quarterback Drake Maye is off to a disastrous start in 2026. He has seven turnovers combined, including six interceptions, compared to just one touchdown. He has completed 51 out of 80 passes (63.8%) for 585 yards and a touchdown, while adding 82 rushing yards. Against the Jacksonville Jaguars in Week 3, Maye completed just 56% of his pass attempts for 199 yards, with no touchdowns and two interceptions, while also fumbling the ball twice (losing one). Chad Graff of The Athletic speculates that Maye's issues may be mental more than anything. \"What's fallen apart with Maye looks like it's between the ears as much as anything physical. He looks like a quarterback whose confidence is shot,\" Graff writes. The Patriots fell to 1-2 after a 35-6 loss to the Jaguars. Maye and the Patriots will look to get back on track in a tough divisional matchup against the Buffalo Bills in Week 4.",
+        "title": "Is Drake Maye's Confidence Gone?",
+        "topic_id": "1411213936509882368",
+        "url": "https://www.rotoballer.com/player-news/is-drake-mayes-confidence-gone/1955076"
+      },
+      "nfl_team": "NE",
+      "player_id": "11564",
+      "player_name": "Drake Maye",
+      "position": "QB",
+      "published": 1790806690000,
+      "source": "rotoballer",
+      "source_key": "222823",
+      "story_id": "nfl|11564|rotoballer|222823|1790806690000",
+      "title": "Is Drake Maye's Confidence Gone?",
+      "url": "https://www.rotoballer.com/player-news/is-drake-mayes-confidence-gone/1955076"
     },
     {
       "analysis": "Jefferson suffered an ankle injury in Week 3 and was not able to practice on Wednesday as a result. He will reportedly have a chance to play in Week 4, so fantasy managers should continue to closely monitor updates about his health throughout the rest of the week to see whether or not that will be the case.",
@@ -728,10 +1027,10 @@
       "url": "https://www.rotoballer.com/player-news/dk-metcalf-draws-favorable-matchup-in-week-4/1955029"
     },
     {
-      "analysis": "It was Collins' first practice since he was injured in practice ahead of Week 2, causing him to miss the last two contests. A limited start to the week is a good sign, but Collins will need to avoid setbacks before being counted on for Sunday's potential showdown with the Cowboys.",
+      "analysis": "It was Collins' first on-field work since he was injured in practice ahead of Week 2, causing him to miss the last two contests. A limited start to the week is a good sign, but Collins will need to avoid setbacks before being counted on for Sunday's potential showdown with the Cowboys.",
       "description": "Collins (hamstring) was limited in Wednesday's practice.",
       "metadata": {
-        "analysis": "It was Collins' first practice since he was injured in practice ahead of Week 2, causing him to miss the last two contests. A limited start to the week is a good sign, but Collins will need to avoid setbacks before being counted on for Sunday's potential showdown with the Cowboys.",
+        "analysis": "It was Collins' first on-field work since he was injured in practice ahead of Week 2, causing him to miss the last two contests. A limited start to the week is a good sign, but Collins will need to avoid setbacks before being counted on for Sunday's potential showdown with the Cowboys.",
         "description": "Collins (hamstring) was limited in Wednesday's practice.",
         "title": "Nico Collins - Officially limited Wednesday",
         "topic_id": "1411133361707143168"
@@ -748,10 +1047,10 @@
       "url": null
     },
     {
-      "analysis": "Though he took every rep Wednesday and is on track to start Sunday's game in Buffalo, the lingering shoulder injury could at least partially explain Maye's rough start to the season. After finishing as the runner-up to the Rams' Matthew Stafford in the MVP balloting in 2025, Maye has been an early disappointment for fantasy managers, completing 63.7 percent of his passes for 585 yards while posting a 1:6 TD:INT and losing a fumble through the Patriots' first three games. A road game against the undefeated Bills doesn't exactly represent a great bounce-back opportunity for Maye, who will face pressure from a Bills pass rush led by NFL sack leader Greg Rousseau.",
+      "analysis": "Though he took every rep Wednesday and is on track to start Sunday's game in Buffalo, the lingering shoulder injury could at least partially explain Maye's rough start to the season. After finishing as the runner-up to the Rams' Matthew Stafford in MVP balloting in 2025, Maye has been an early disappointment for fantasy managers, completing 63.7 percent of his passes for 585 yards while posting a 1:6 TD:INT and losing a fumble through the Patriots' first three games. A road game against the undefeated Bills doesn't exactly represent a great bounce-back opportunity for Maye, who will face pressure from a Bills pass rush led by NFL sack leader Greg Rousseau.",
       "description": "Maye was listed with a right shoulder injury on the Patriots' initial Week 4 practice report but was a full participant.",
       "metadata": {
-        "analysis": "Though he took every rep Wednesday and is on track to start Sunday's game in Buffalo, the lingering shoulder injury could at least partially explain Maye's rough start to the season. After finishing as the runner-up to the Rams' Matthew Stafford in the MVP balloting in 2025, Maye has been an early disappointment for fantasy managers, completing 63.7 percent of his passes for 585 yards while posting a 1:6 TD:INT and losing a fumble through the Patriots' first three games. A road game against the undefeated Bills doesn't exactly represent a great bounce-back opportunity for Maye, who will face pressure from a Bills pass rush led by NFL sack leader Greg Rousseau.",
+        "analysis": "Though he took every rep Wednesday and is on track to start Sunday's game in Buffalo, the lingering shoulder injury could at least partially explain Maye's rough start to the season. After finishing as the runner-up to the Rams' Matthew Stafford in MVP balloting in 2025, Maye has been an early disappointment for fantasy managers, completing 63.7 percent of his passes for 585 yards while posting a 1:6 TD:INT and losing a fumble through the Patriots' first three games. A road game against the undefeated Bills doesn't exactly represent a great bounce-back opportunity for Maye, who will face pressure from a Bills pass rush led by NFL sack leader Greg Rousseau.",
         "description": "Maye was listed with a right shoulder injury on the Patriots' initial Week 4 practice report but was a full participant.",
         "title": "Drake Maye - On injury report, but practices fully",
         "topic_id": "1411133361648422913"
@@ -871,10 +1170,10 @@
       "url": "https://www.rotoballer.com/player-news/jadarian-price-still-on-injury-report-limited-on-wednesday/1955024"
     },
     {
-      "analysis": "Though he was seen donning a walking boot following Sunday's win over the Rams, Waddle may have just wearing the boot as a precaution. He was back on the field three days later and took every rep in practice, with head coach Sean Payton relaying afterward that Waddle is \"doing fine.\" Waddle thus looks like he'll be ready to handle his usual allotment of snaps in Sunday's game at San Francisco.",
+      "analysis": "Though he was seen donning a walking boot following Sunday's win over the Rams, Waddle may have just been wearing the boot as a precaution. He was back on the field three days later and took every rep in practice, with head coach Sean Payton relaying afterward that Waddle is \"doing fine.\" Waddle thus looks like he'll be ready to handle his usual allotment of snaps in Sunday's game at San Francisco.",
       "description": "Waddle (leg) was a full participant in Wednesday's practice, Parker Gabriel of The Denver Post reports.",
       "metadata": {
-        "analysis": "Though he was seen donning a walking boot following Sunday's win over the Rams, Waddle may have just wearing the boot as a precaution. He was back on the field three days later and took every rep in practice, with head coach Sean Payton relaying afterward that Waddle is \"doing fine.\" Waddle thus looks like he'll be ready to handle his usual allotment of snaps in Sunday's game at San Francisco.",
+        "analysis": "Though he was seen donning a walking boot following Sunday's win over the Rams, Waddle may have just been wearing the boot as a precaution. He was back on the field three days later and took every rep in practice, with head coach Sean Payton relaying afterward that Waddle is \"doing fine.\" Waddle thus looks like he'll be ready to handle his usual allotment of snaps in Sunday's game at San Francisco.",
         "description": "Waddle (leg) was a full participant in Wednesday's practice, Parker Gabriel of The Denver Post reports.",
         "title": "Jaylen Waddle - Turns in full practice Wednesday",
         "topic_id": "1411130845808316416"
@@ -991,10 +1290,10 @@
       "url": null
     },
     {
-      "analysis": "Following Sunday's 30-26 win over the Rams, Waddle was spotted wearing a walking boot on his right foot. His presence on the field begin Week 4 prep suggests he might have been wearing the boot as a precaution, but fantasy managers will nonetheless want to track Waddle's practice activity leading up to this weekend's game in San Francisco. Through his first three contests with the Broncos, Waddle has recorded 11 catches for 150 yards on 20 targets while carrying once for a 14-yard gain.",
+      "analysis": "Following Sunday's 30-26 win over the Rams, Waddle was spotted wearing a walking boot on his right foot. His presence on the field to begin Week 4 prep suggests he might have been wearing the boot as a precaution, but fantasy managers nonetheless will want to track Waddle's practice activity leading up to this weekend's game in San Francisco. Through his first three contests with the Broncos, Waddle has recorded 11 catches for 150 yards on 20 targets while carrying once for a 14-yard gain.",
       "description": "Waddle (leg) was on the field Wednesday for the start of the Broncos' practice session, Zac Stevens of TheDNVR.com reports.",
       "metadata": {
-        "analysis": "Following Sunday's 30-26 win over the Rams, Waddle was spotted wearing a walking boot on his right foot. His presence on the field begin Week 4 prep suggests he might have been wearing the boot as a precaution, but fantasy managers will nonetheless want to track Waddle's practice activity leading up to this weekend's game in San Francisco. Through his first three contests with the Broncos, Waddle has recorded 11 catches for 150 yards on 20 targets while carrying once for a 14-yard gain.",
+        "analysis": "Following Sunday's 30-26 win over the Rams, Waddle was spotted wearing a walking boot on his right foot. His presence on the field to begin Week 4 prep suggests he might have been wearing the boot as a precaution, but fantasy managers nonetheless will want to track Waddle's practice activity leading up to this weekend's game in San Francisco. Through his first three contests with the Broncos, Waddle has recorded 11 catches for 150 yards on 20 targets while carrying once for a 14-yard gain.",
         "description": "Waddle (leg) was on the field Wednesday for the start of the Broncos' practice session, Zac Stevens of TheDNVR.com reports.",
         "title": "Jaylen Waddle - Spotted at practice Wednesday",
         "topic_id": "1411125811062349824"
@@ -1074,10 +1373,10 @@
       "url": "https://www.fantasypros.com/nfl/news/611591/zay-flowers-hamstring-officially-limited-wednesday.php"
     },
     {
-      "analysis": "Baltimore is continuing to exercise caution with its star receiver, who is working his way back to 100 percent from a hamstring injury. Flowers was effective in his return Sunday but logged only 21 (33 percent) snaps. He didn't aggravate the injury Sunday, though his practice reps remain limited for now.",
+      "analysis": "Baltimore is continuing to exercise caution with its star receiver, who is working his way back to 100 percent from a hamstring injury. Flowers was effective in his return Sunday but logged only 21 (33 percent) offensive snaps. He didn't aggravate the injury Sunday, though his practice reps remain limited for now.",
       "description": "Flowers (hamstring) was limited in Wednesday's practice, Sam Cohn of The Baltimore Sun reports.",
       "metadata": {
-        "analysis": "Baltimore is continuing to exercise caution with its star receiver, who is working his way back to 100 percent from a hamstring injury. Flowers was effective in his return Sunday but logged only 21 (33 percent) snaps. He didn't aggravate the injury Sunday, though his practice reps remain limited for now.",
+        "analysis": "Baltimore is continuing to exercise caution with its star receiver, who is working his way back to 100 percent from a hamstring injury. Flowers was effective in his return Sunday but logged only 21 (33 percent) offensive snaps. He didn't aggravate the injury Sunday, though his practice reps remain limited for now.",
         "description": "Flowers (hamstring) was limited in Wednesday's practice, Sam Cohn of The Baltimore Sun reports.",
         "title": "Zay Flowers - Limited practice Wednesday",
         "topic_id": "1411125811070738432"
@@ -111372,26 +111671,6 @@
       "story_id": "nfl|9997|rotoballer|219851|1788254530000",
       "title": "Zay Flowers Good to Go for Week 1",
       "url": "https://www.rotoballer.com/player-news/zay-flowers-good-to-go-for-week-1/1921100"
-    },
-    {
-      "analysis": null,
-      "description": "According to the NFL Network's Mike Garafolo, Arizona Cardinals rookie running back Jeremiyah Love (ankle) is deemed \"50/50\" to suit up in Week 1. The third overall pick from this year's NFL Draft has been dealing with a high ankle sprain through much of the preseason and could be in danger of sitting out the opening weekend. While head coach Mike LaFleur did express that he was \"trending\" towards an early return, this recent report suggests the team may look to exercise caution with their franchise cornerstone. During his final season at Notre Dame, Love was a Heisman Trophy finalist, rushing for 1,372 yards and 18 touchdowns. Through the air, he caught another three scores and added 280 yards. In the event Love is unable to play, fantasy managers should expect Tyler Allgeier to be given a heavy workload with veteran James Conner (foot) on injured reserve.",
-      "metadata": {
-        "description": "According to the NFL Network's Mike Garafolo, Arizona Cardinals rookie running back Jeremiyah Love (ankle) is deemed \"50/50\" to suit up in Week 1. The third overall pick from this year's NFL Draft has been dealing with a high ankle sprain through much of the preseason and could be in danger of sitting out the opening weekend. While head coach Mike LaFleur did express that he was \"trending\" towards an early return, this recent report suggests the team may look to exercise caution with their franchise cornerstone. During his final season at Notre Dame, Love was a Heisman Trophy finalist, rushing for 1,372 yards and 18 touchdowns. Through the air, he caught another three scores and added 280 yards. In the event Love is unable to play, fantasy managers should expect Tyler Allgeier to be given a heavy workload with veteran James Conner (foot) on injured reserve.",
-        "title": "Jeremiyah Love Considered \"50/50\" to Play in Week 1",
-        "topic_id": "1400502050801889280",
-        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-considered-50-50-to-play-in-week-1/1921064"
-      },
-      "nfl_team": "ARI",
-      "player_id": "13287",
-      "player_name": "Jeremiyah Love",
-      "position": "RB",
-      "published": 1788253449000,
-      "source": "rotoballer",
-      "source_key": "219850",
-      "story_id": "nfl|13287|rotoballer|219850|1788253449000",
-      "title": "Jeremiyah Love Considered \"50/50\" to Play in Week 1",
-      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-considered-50-50-to-play-in-week-1/1921064"
     }
   ]
 }
