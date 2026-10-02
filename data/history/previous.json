@@ -2983,7 +2983,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -4013,7 +4013,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -5043,7 +5043,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -6073,7 +6073,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -7103,7 +7103,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -8133,7 +8133,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -9163,7 +9163,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -10193,7 +10193,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -11223,7 +11223,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -14299,7 +14299,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -15329,7 +15329,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -16359,7 +16359,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -17389,7 +17389,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -18419,7 +18419,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -19449,7 +19449,7 @@
           "2216",
           "7002",
           "12501",
-          "8188",
+          "1737",
           "4227",
           "BAL"
         ],
@@ -22023,7 +22023,7 @@
       ],
       "first_name": "Keenan",
       "full_name": "Keenan Allen",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Allen",
       "nfl_team": "IND",
       "player_id": "1479",
@@ -22383,7 +22383,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Godwin",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Godwin",
       "nfl_team": "TB",
       "player_id": "4037",
@@ -22518,7 +22518,7 @@
       ],
       "first_name": "Lamar",
       "full_name": "Lamar Jackson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Jackson",
       "nfl_team": "BAL",
       "player_id": "4881",
@@ -22833,7 +22833,7 @@
       ],
       "first_name": "Tony",
       "full_name": "Tony Pollard",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Pollard",
       "nfl_team": "TEN",
       "player_id": "5967",
@@ -22953,7 +22953,7 @@
       ],
       "first_name": "D'Andre",
       "full_name": "D'Andre Swift",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Swift",
       "nfl_team": "CHI",
       "player_id": "6790",
@@ -23223,12 +23223,12 @@
       ],
       "first_name": "Travis",
       "full_name": "Travis Etienne",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Etienne",
       "nfl_team": "NO",
       "player_id": "7543",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 5
     },
     "7547": {
@@ -24203,7 +24203,7 @@
       "nfl_team": "SEA",
       "player_id": "9753",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 3
     },
     "9754": {
@@ -24273,7 +24273,7 @@
       ],
       "first_name": "Zay",
       "full_name": "Zay Flowers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Flowers",
       "nfl_team": "BAL",
       "player_id": "9997",
@@ -24514,8 +24514,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-01T09:07:37Z",
-    "source_fingerprint": "5982841e29edfb410aab0600f976b1ae21bc31cdc55c9b081e19260e15715fcb"
+    "last_changed_at": "2026-10-01T21:10:49Z",
+    "source_fingerprint": "9847795c892096ced7aa6db3f377782265ecd6b0920fafd44f0ef86e0e66a019"
   },
   "teams": [
     {
@@ -24921,9 +24921,7 @@
         "9488",
         "BAL"
       ],
-      "reserve_ids": [
-        "11566"
-      ],
+      "reserve_ids": [],
       "roster_id": 6,
       "settings": {
         "fpts": 491,
@@ -24949,7 +24947,7 @@
         "2216",
         "7002",
         "12501",
-        "8188",
+        "1737",
         "4227",
         "BAL"
       ],
