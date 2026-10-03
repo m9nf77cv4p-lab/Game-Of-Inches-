@@ -22008,7 +22008,7 @@
       ],
       "first_name": "Keenan",
       "full_name": "Keenan Allen",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Allen",
       "nfl_team": "IND",
       "player_id": "1479",
@@ -22788,7 +22788,7 @@
       ],
       "first_name": "Terry",
       "full_name": "Terry McLaurin",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "McLaurin",
       "nfl_team": "WAS",
       "player_id": "5927",
@@ -24514,8 +24514,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-03T01:11:04Z",
-    "source_fingerprint": "b813119170420816f1f29275ceaf5606bd38128f49051e0c3590434a7912ad75"
+    "last_changed_at": "2026-10-03T16:07:08Z",
+    "source_fingerprint": "5366c89631be36342843b2e6e99a5927aff7c7ab874d267e618e3b556aacdf5a"
   },
   "teams": [
     {
