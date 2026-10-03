@@ -1,24 +1,40 @@
 {
-  "last_checked_at": "2026-10-03T01:11:06Z",
+  "last_checked_at": "2026-10-03T06:34:14Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 298,
   "new_story_ids": [
-    "nfl|11256|rotowire|640386|1790984258000",
-    "nfl|11655|rotowire|640380|1790983653000",
-    "nfl|12472|rotowire|640374|1790982906000",
-    "nfl|12533|rotowire|640410|1790987961000",
-    "nfl|13274|rotowire|640382|1790983903000",
-    "nfl|13294|rotowire|640407|1790987506000",
-    "nfl|1737|rotowire|640413|1790988293000",
-    "nfl|2133|rotowire|640385|1790984243000",
-    "nfl|4035|rotowire|640395|1790985780000",
-    "nfl|6783|rotowire|640393|1790985080000",
-    "nfl|6819|rotowire|640373|1790982760000",
-    "nfl|7526|rotoballer|223004|1790967549000",
-    "nfl|9224|rotoballer|223003|1790967074000",
-    "nfl|9486|rotowire|640405|1790987075000",
-    "nfl|9756|rotowire|640389|1790984703000",
-    "nfl|9757|rotowire|640398|1790986135000"
+    "nfl|10859|rotoballer|223015|1790976729000",
+    "nfl|11256|fantasy_pros|611986|1791007518877",
+    "nfl|11435|rotoballer|223018|1790977454000",
+    "nfl|11539|rotoballer|223019|1790977449000",
+    "nfl|11637|rotoballer|223028|1790981649000",
+    "nfl|11655|rotoballer|223031|1790991909000",
+    "nfl|11834|rotoballer|223025|1790979309000",
+    "nfl|12535|rotoballer|223020|1790977328000",
+    "nfl|12711|rotoballer|223022|1790978049000",
+    "nfl|13294|rotoballer|223024|1790978709000",
+    "nfl|13301|rotoballer|223027|1790981171000",
+    "nfl|13421|rotoballer|223033|1790992809000",
+    "nfl|2133|rotoballer|223038|1790993829000",
+    "nfl|2216|rotoballer|223029|1790982069000",
+    "nfl|3163|rotoballer|223005|1790975589000",
+    "nfl|3198|rotoballer|223013|1790976429000",
+    "nfl|3294|rotoballer|223032|1790992869000",
+    "nfl|421|rotoballer|223039|1790994248000",
+    "nfl|4881|rotoballer|223014|1790976309000",
+    "nfl|5045|rotoballer|223007|1790975773000",
+    "nfl|6786|rotoballer|223030|1790991719000",
+    "nfl|6806|fantasy_pros|611984|1791007518902",
+    "nfl|7526|fantasy_pros|611983|1791007518913",
+    "nfl|7547|rotoballer|223010|1790976129000",
+    "nfl|7588|rotoballer|223037|1790993588000",
+    "nfl|7611|rotoballer|223026|1790980149000",
+    "nfl|8137|rotoballer|223034|1790993289000",
+    "nfl|8148|rotoballer|223012|1790976549000",
+    "nfl|9221|rotoballer|223008|1790975709000",
+    "nfl|9493|rotoballer|223036|1790993649000",
+    "nfl|9511|rotoballer|223016|1790977118000",
+    "nfl|9753|rotoballer|223023|1790977989000"
   ],
   "schema_version": 1,
   "source": {
@@ -29,10 +45,253 @@
   },
   "stories": [
     {
-      "analysis": "Keenum was under center for Week 3 and led the Bears to a 27-7 win over the Eagles, when he threw for 247 yards and two touchdowns while adding a rushing TD. However, Bagent has taken the majority of first-team reps during Week 4 prep, with Caleb Williams (hamstring) ruled out for a second consecutive week. Head coach Ben Johnson has yet to name a starter, but for now, it looks like Bagent will be the starter Sunday while Keenum stays ready as the QB2.",
+      "analysis": "Waddle was seen in a walking boot after last Sunday's win. He will be a WR2 play for fantasy managers. ",
+      "description": "Jaylen Waddle is off the injury report for Sunday's game against the 49ers. ",
+      "metadata": {
+        "analysis": "Waddle was seen in a walking boot after last Sunday's win. He will be a WR2 play for fantasy managers. ",
+        "description": "Jaylen Waddle is off the injury report for Sunday's game against the 49ers. ",
+        "title": "Jaylen Waddle (foot) off injury report Sunday ",
+        "topic_id": "1411991510378913792",
+        "url": "https://www.fantasypros.com/nfl/news/611983/jaylen-waddle-foot-off-injury-report-sunday.php"
+      },
+      "nfl_team": "DEN",
+      "player_id": "7526",
+      "player_name": "Jaylen Waddle",
+      "position": "WR",
+      "published": 1791007518913,
+      "source": "fantasy_pros",
+      "source_key": "611983",
+      "story_id": "nfl|7526|fantasy_pros|611983|1791007518913",
+      "title": "Jaylen Waddle (foot) off injury report Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/611983/jaylen-waddle-foot-off-injury-report-sunday.php"
+    },
+    {
+      "analysis": "Dobbins will remain a touchdown dependent low-end RB2 play for fantasy managers. ",
+      "description": "J.K. Dobbins is off the injury report for Sunday's game against the 49ers. ",
+      "metadata": {
+        "analysis": "Dobbins will remain a touchdown dependent low-end RB2 play for fantasy managers. ",
+        "description": "J.K. Dobbins is off the injury report for Sunday's game against the 49ers. ",
+        "title": "J.K. Dobbins (hip) off injury report Sunday ",
+        "topic_id": "1411991510324387840",
+        "url": "https://www.fantasypros.com/nfl/news/611984/jk-dobbins-hip-off-injury-report-sunday.php"
+      },
+      "nfl_team": "DEN",
+      "player_id": "6806",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "published": 1791007518902,
+      "source": "fantasy_pros",
+      "source_key": "611984",
+      "story_id": "nfl|6806|fantasy_pros|611984|1791007518902",
+      "title": "J.K. Dobbins (hip) off injury report Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/611984/jk-dobbins-hip-off-injury-report-sunday.php"
+    },
+    {
+      "analysis": "It is a bit surprising following a big performance for Case Keenum last week. Bagent took the majority of first-team reps this week. The announcement should be made official this weekend. ",
+      "description": "QB Tyson Bagent is expected to start for the Bears in Week 4 against the Jets.",
+      "metadata": {
+        "analysis": "It is a bit surprising following a big performance for Case Keenum last week. Bagent took the majority of first-team reps this week. The announcement should be made official this weekend. ",
+        "description": "QB Tyson Bagent is expected to start for the Bears in Week 4 against the Jets.",
+        "title": "Tyson Bagent expected to start in Week 4 for Bears",
+        "topic_id": "1411991510232113152",
+        "url": "https://www.fantasypros.com/nfl/news/611986/tyson-bagent-expected-to-start-week-4-bears.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11256",
+      "player_name": "Tyson Bagent",
+      "position": "QB",
+      "published": 1791007518877,
+      "source": "fantasy_pros",
+      "source_key": "611986",
+      "story_id": "nfl|11256|fantasy_pros|611986|1791007518877",
+      "title": "Tyson Bagent expected to start in Week 4 for Bears",
+      "url": "https://www.fantasypros.com/nfl/news/611986/tyson-bagent-expected-to-start-week-4-bears.php"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams quarterback Matthew Stafford had already been producing high fantasy totals over the last two weeks, and now, his ceiling will soar even higher as he gets his top target back for Week 4 against the Philadelphia Eagles. Superstar wide receiver Puka Nacua has been cleared to play after a two-week absence due to a hip injury. Stafford will now benefit from having the league's best one-two punch in Nacua and Davante Adams. Although Nacua is the bigger name here, Adams filled in admirably with the 25-year-old sidelined. Over the last two weeks, Adams has 15 catches for 332 yards and two touchdowns. The veteran will return to his role as the No. 2 receiver in Los Angeles, but both he and Nacua are still in must-start consideration for Week 4. The same goes for Stafford, who gets to reap the benefits of throwing to some of the best receivers in the NFL. We're also intrigued by this matchup against the Eagles, who have allowed the seventh-most fantasy points to quarterbacks this season. Philadelphia has yet to intercept a pass, and its defense most recently surrendered 247 yards and three total touchdowns to quarterback Case Keenum. The stars are aligning for another big QB1 performance from Stafford in fantasy football.",
+      "metadata": {
+        "description": "Los Angeles Rams quarterback Matthew Stafford had already been producing high fantasy totals over the last two weeks, and now, his ceiling will soar even higher as he gets his top target back for Week 4 against the Philadelphia Eagles. Superstar wide receiver Puka Nacua has been cleared to play after a two-week absence due to a hip injury. Stafford will now benefit from having the league's best one-two punch in Nacua and Davante Adams. Although Nacua is the bigger name here, Adams filled in admirably with the 25-year-old sidelined. Over the last two weeks, Adams has 15 catches for 332 yards and two touchdowns. The veteran will return to his role as the No. 2 receiver in Los Angeles, but both he and Nacua are still in must-start consideration for Week 4. The same goes for Stafford, who gets to reap the benefits of throwing to some of the best receivers in the NFL. We're also intrigued by this matchup against the Eagles, who have allowed the seventh-most fantasy points to quarterbacks this season. Philadelphia has yet to intercept a pass, and its defense most recently surrendered 247 yards and three total touchdowns to quarterback Case Keenum. The stars are aligning for another big QB1 performance from Stafford in fantasy football.",
+        "title": "Matthew Stafford Gets His Elite Receiver Back for Week 4",
+        "topic_id": "1411997796340355072",
+        "url": "https://www.rotoballer.com/player-news/matthew-stafford-gets-his-elite-receiver-back-for-week-4/1956757"
+      },
+      "nfl_team": "LAR",
+      "player_id": "421",
+      "player_name": "Matthew Stafford",
+      "position": "QB",
+      "published": 1790994248000,
+      "source": "rotoballer",
+      "source_key": "223039",
+      "story_id": "nfl|421|rotoballer|223039|1790994248000",
+      "title": "Matthew Stafford Gets His Elite Receiver Back for Week 4",
+      "url": "https://www.rotoballer.com/player-news/matthew-stafford-gets-his-elite-receiver-back-for-week-4/1956757"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Davante Adams has been playing at an elite level lately, but he might cool off in Week 4 against the Philadelphia Eagles. Teammate Puka Nacua has been cleared to return from his hip injury, dropping Adams back down to second in the pecking order in Los Angeles. It was an elite two-week stretch from Adams, who caught 15 passes for 332 yards and two touchdowns as the de facto alpha receiver for the Rams. Given how well he played with Nacua sidelined, we expect that he'll have no trouble remaining a strong fantasy option in most leagues going forward. After all, this is a high-volume offense that has shown it can support multiple fantasy-relevant receivers. As a result, we're still recommending all managers start Adams in Week 4 against the Eagles. He may not be a WR1 lock, but he has legitimate top-18 appeal at the wide receiver position. He should also benefit from this specific matchup against Philadelphia, which has surrendered the fifth-most touchdowns and 10th-most fantasy points to wide receivers in 2026.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Davante Adams has been playing at an elite level lately, but he might cool off in Week 4 against the Philadelphia Eagles. Teammate Puka Nacua has been cleared to return from his hip injury, dropping Adams back down to second in the pecking order in Los Angeles. It was an elite two-week stretch from Adams, who caught 15 passes for 332 yards and two touchdowns as the de facto alpha receiver for the Rams. Given how well he played with Nacua sidelined, we expect that he'll have no trouble remaining a strong fantasy option in most leagues going forward. After all, this is a high-volume offense that has shown it can support multiple fantasy-relevant receivers. As a result, we're still recommending all managers start Adams in Week 4 against the Eagles. He may not be a WR1 lock, but he has legitimate top-18 appeal at the wide receiver position. He should also benefit from this specific matchup against Philadelphia, which has surrendered the fifth-most touchdowns and 10th-most fantasy points to wide receivers in 2026.",
+        "title": "Davante Adams Remains a Must-Start Despite Teammate's Big Return",
+        "topic_id": "1411996538124726272",
+        "url": "https://www.rotoballer.com/player-news/davante-adams-remains-a-must-start-despite-teammates-big-return/1956755"
+      },
+      "nfl_team": "LAR",
+      "player_id": "2133",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "published": 1790993829000,
+      "source": "rotoballer",
+      "source_key": "223038",
+      "story_id": "nfl|2133|rotoballer|223038|1790993829000",
+      "title": "Davante Adams Remains a Must-Start Despite Teammate's Big Return",
+      "url": "https://www.rotoballer.com/player-news/davante-adams-remains-a-must-start-despite-teammates-big-return/1956755"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Puka Nacua is immediately back in mid-to-high WR1 territory after being removed from the injury report ahead of Week 4 against the Philadelphia Eagles. Nacua sat out two games due to a hip injury, but he has been cleared to return for a battle between two strong offenses. The 25-year-old hasn't seen the field since the season opener, and a lot has changed for Los Angeles since then. The Rams looked their worst during that Week 1 battle; Matthew Stafford threw for 155 yards and one interception in that game, but 717 yards, six touchdowns, and three interceptions in two games since then. Davante Adams has been filling in admirably for Nacua, but the latter should return to his role as Stafford's favorite target and a must-start fantasy receiver in all leagues, especially with no reported limitations on his workload for Week 4. He'll also benefit from this specific matchup against the Eagles, who have allowed the fifth-most touchdowns and 10th-most fantasy points to wide receivers in 2026.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Puka Nacua is immediately back in mid-to-high WR1 territory after being removed from the injury report ahead of Week 4 against the Philadelphia Eagles. Nacua sat out two games due to a hip injury, but he has been cleared to return for a battle between two strong offenses. The 25-year-old hasn't seen the field since the season opener, and a lot has changed for Los Angeles since then. The Rams looked their worst during that Week 1 battle; Matthew Stafford threw for 155 yards and one interception in that game, but 717 yards, six touchdowns, and three interceptions in two games since then. Davante Adams has been filling in admirably for Nacua, but the latter should return to his role as Stafford's favorite target and a must-start fantasy receiver in all leagues, especially with no reported limitations on his workload for Week 4. He'll also benefit from this specific matchup against the Eagles, who have allowed the fifth-most touchdowns and 10th-most fantasy points to wide receivers in 2026.",
+        "title": "Puka Nacua an Immediate WR1 in Highly Anticipated Return",
+        "topic_id": "1411995279556698112",
+        "url": "https://www.rotoballer.com/player-news/puka-nacua-an-immediate-wr1-in-highly-anticipated-return/1956751"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1790993649000,
+      "source": "rotoballer",
+      "source_key": "223036",
+      "story_id": "nfl|9493|rotoballer|223036|1790993649000",
+      "title": "Puka Nacua an Immediate WR1 in Highly Anticipated Return",
+      "url": "https://www.rotoballer.com/player-news/puka-nacua-an-immediate-wr1-in-highly-anticipated-return/1956751"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys running back Javonte Williams got back on track in Week 3 against the Baltimore Ravens by rushing 19 times for 98 yards and a touchdown and catching two of his three targets for five yards, finishing his day with 18.3 PPR fantasy points. The Cowboys clear RB1 was inefficient in his first two contests, mustering under three yards per carry across those two contests. With elite Cowboys run-blocking guard Tyler Smith (thumb) still out with an injury, Williams played well in Week 3 despite problems along the offensive line. Dallas will travel to Houston for their Week 4 game, though, and the Texans are one of the toughest defenses in the NFL. Williams' receiving role helps, though he doesn't get an impressive amount of volume through the air by any means. This makes him a boom-or-bust low-end RB1 -- he has the volume to avoid the low end of single-digit scoring outings, but not the pass-catching role to propel him to overall RB1 finishes in any given week. Still, Williams should be locked into starting lineups in all fantasy leagues for the Cowboys' next game.",
+      "metadata": {
+        "description": "Dallas Cowboys running back Javonte Williams got back on track in Week 3 against the Baltimore Ravens by rushing 19 times for 98 yards and a touchdown and catching two of his three targets for five yards, finishing his day with 18.3 PPR fantasy points. The Cowboys clear RB1 was inefficient in his first two contests, mustering under three yards per carry across those two contests. With elite Cowboys run-blocking guard Tyler Smith (thumb) still out with an injury, Williams played well in Week 3 despite problems along the offensive line. Dallas will travel to Houston for their Week 4 game, though, and the Texans are one of the toughest defenses in the NFL. Williams' receiving role helps, though he doesn't get an impressive amount of volume through the air by any means. This makes him a boom-or-bust low-end RB1 -- he has the volume to avoid the low end of single-digit scoring outings, but not the pass-catching role to propel him to overall RB1 finishes in any given week. Still, Williams should be locked into starting lineups in all fantasy leagues for the Cowboys' next game.",
+        "title": "Javonte Williams Back In RB1 Territory For Difficult Week 4 Matchup",
+        "topic_id": "1411995279602835456",
+        "url": "https://www.rotoballer.com/player-news/javonte-williams-back-in-rb1-territory-for-difficult-week-4-matchup/1956749"
+      },
+      "nfl_team": "DAL",
+      "player_id": "7588",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "published": 1790993588000,
+      "source": "rotoballer",
+      "source_key": "223037",
+      "story_id": "nfl|7588|rotoballer|223037|1790993588000",
+      "title": "Javonte Williams Back In RB1 Territory For Difficult Week 4 Matchup",
+      "url": "https://www.rotoballer.com/player-news/javonte-williams-back-in-rb1-territory-for-difficult-week-4-matchup/1956749"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver George Pickens is fresh off his best game of the 2026 season, but it still feels like there's meat left on the bone for fantasy managers who drafted him in the second round of fantasy drafts. His eight catches for 82 yards against the Baltimore Ravens in Week 3 constituted his best game of the season, but he hasn't reached the end zone yet and ranks outside the top-30 fantasy football wide receivers through three games. It's been a far cry from his WR5 overall finish in 2025, in which he eclipsed 25 PPR fantasy points on five separate occasions. A tough matchup with the Houston Texans on the road lies ahead -- they have one of the best pass defense in the NFL in recent times. Pickens matches up well against all but the best cornerbacks in the NFL, and having wide receiver CeeDee Lamb to draw away coverage helps immensely, but he's just a mid-range WR2 with upside for this matchup. He should be started in all leagues anyway, as he's been targeted at a high enough rate that an explosion game feels imminent.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver George Pickens is fresh off his best game of the 2026 season, but it still feels like there's meat left on the bone for fantasy managers who drafted him in the second round of fantasy drafts. His eight catches for 82 yards against the Baltimore Ravens in Week 3 constituted his best game of the season, but he hasn't reached the end zone yet and ranks outside the top-30 fantasy football wide receivers through three games. It's been a far cry from his WR5 overall finish in 2025, in which he eclipsed 25 PPR fantasy points on five separate occasions. A tough matchup with the Houston Texans on the road lies ahead -- they have one of the best pass defense in the NFL in recent times. Pickens matches up well against all but the best cornerbacks in the NFL, and having wide receiver CeeDee Lamb to draw away coverage helps immensely, but he's just a mid-range WR2 with upside for this matchup. He should be started in all leagues anyway, as he's been targeted at a high enough rate that an explosion game feels imminent.",
+        "title": "George Pickens Has Work Cut Out For Him Against Strong Texans Secondary",
+        "topic_id": "1411994021596807168",
+        "url": "https://www.rotoballer.com/player-news/george-pickens-has-work-cut-out-for-him-against-strong-texans-secondary/1956747"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8137",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "published": 1790993289000,
+      "source": "rotoballer",
+      "source_key": "223034",
+      "story_id": "nfl|8137|rotoballer|223034|1790993289000",
+      "title": "George Pickens Has Work Cut Out For Him Against Strong Texans Secondary",
+      "url": "https://www.rotoballer.com/player-news/george-pickens-has-work-cut-out-for-him-against-strong-texans-secondary/1956747"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys quarterback Dak Prescott will face the best defense in the NFL from a year ago in Week 4. The Cowboys will go on the road to take on the Houston Texans, who have one of the best pass-rushers in the NFL, one of its best cover cornerbacks, and a renowned defensive-minded head coach. Prescott hasn't faced the Texans since 2022, when they were nothing like they team they are today, so we don't have much precedent to go off of. But he's been productive so far this year, with seven passing touchdowns to just one interception. He hasn't fumbled yet either. Taking care of the football will be crucial, as the Texans were third in the NFL in 2025 with 29 turnovers forced. Prescott is a must-start in 2QB and superflex leagues, but there's reason for some trepidation in 1QB leagues, where he's a low-end QB1 due to the difficulty of the matchup.",
+      "metadata": {
+        "description": "Dallas Cowboys quarterback Dak Prescott will face the best defense in the NFL from a year ago in Week 4. The Cowboys will go on the road to take on the Houston Texans, who have one of the best pass-rushers in the NFL, one of its best cover cornerbacks, and a renowned defensive-minded head coach. Prescott hasn't faced the Texans since 2022, when they were nothing like they team they are today, so we don't have much precedent to go off of. But he's been productive so far this year, with seven passing touchdowns to just one interception. He hasn't fumbled yet either. Taking care of the football will be crucial, as the Texans were third in the NFL in 2025 with 29 turnovers forced. Prescott is a must-start in 2QB and superflex leagues, but there's reason for some trepidation in 1QB leagues, where he's a low-end QB1 due to the difficulty of the matchup.",
+        "title": "Dak Prescott To Face Toughest Test Yet In Week 4",
+        "topic_id": "1411992763016245248",
+        "url": "https://www.rotoballer.com/player-news/dak-prescott-to-face-toughest-test-yet-in-week-4/1956745"
+      },
+      "nfl_team": "DAL",
+      "player_id": "3294",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "published": 1790992869000,
+      "source": "rotoballer",
+      "source_key": "223032",
+      "story_id": "nfl|3294|rotoballer|223032|1790992869000",
+      "title": "Dak Prescott To Face Toughest Test Yet In Week 4",
+      "url": "https://www.rotoballer.com/player-news/dak-prescott-to-face-toughest-test-yet-in-week-4/1956745"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots tight end Eli Raridon (thigh) is questionable for this weekend's road outing with the Buffalo Bills. Raridon missed two days of practice and subsequently missed a loss to the Jaguars after injuring his thigh in a Week 2 home game with the Steelers. That the rookie could improve his participation to limited leading up to Sunday is a step in the right direction, but it would seem that he's not out of the woods just yet. If the 22-year-old is inactive again, teammates Cameron Latu and Tanner Arkin will shoulder the snap load alongside starter Hunter Henry. Raridon isn't quite on the radar yet for redraft leagues, but he's a tantalizing stash in dynasty formats because of his strong athletic profile and standing on the depth chart.",
+      "metadata": {
+        "description": "New England Patriots tight end Eli Raridon (thigh) is questionable for this weekend's road outing with the Buffalo Bills. Raridon missed two days of practice and subsequently missed a loss to the Jaguars after injuring his thigh in a Week 2 home game with the Steelers. That the rookie could improve his participation to limited leading up to Sunday is a step in the right direction, but it would seem that he's not out of the woods just yet. If the 22-year-old is inactive again, teammates Cameron Latu and Tanner Arkin will shoulder the snap load alongside starter Hunter Henry. Raridon isn't quite on the radar yet for redraft leagues, but he's a tantalizing stash in dynasty formats because of his strong athletic profile and standing on the depth chart.",
+        "title": "Eli Raridon Questionable With Thigh Issue",
+        "topic_id": "1411992763016245249",
+        "url": "https://www.rotoballer.com/player-news/eli-raridon-questionable-with-thigh-issue/1956743"
+      },
+      "nfl_team": "NE",
+      "player_id": "13421",
+      "player_name": "Eli Raridon",
+      "position": "TE",
+      "published": 1790992809000,
+      "source": "rotoballer",
+      "source_key": "223033",
+      "story_id": "nfl|13421|rotoballer|223033|1790992809000",
+      "title": "Eli Raridon Questionable With Thigh Issue",
+      "url": "https://www.rotoballer.com/player-news/eli-raridon-questionable-with-thigh-issue/1956743"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants running back Tyrone Tracy Jr. will head into Sunday's matchup against the Arizona Cardinals injury-free after a full practice Friday. The third-year back out of Purdue was bothered by a knee issue that forced him to miss Wednesday's practice. However, he upgraded his participation each of the next two days as the team preps for the visiting Cardinals. Following a subpar preseason performance, Tracy has fallen out of favor with the Giants' coaching staff, totaling three carries for 17 yards across four snaps. He appears to be a distant fourth option behind backfield mates Najee Harris, Cam Skattebo, and Devin Singletary, and can be safely avoided by fantasy managers in all formats.",
+      "metadata": {
+        "description": "New York Giants running back Tyrone Tracy Jr. will head into Sunday's matchup against the Arizona Cardinals injury-free after a full practice Friday. The third-year back out of Purdue was bothered by a knee issue that forced him to miss Wednesday's practice. However, he upgraded his participation each of the next two days as the team preps for the visiting Cardinals. Following a subpar preseason performance, Tracy has fallen out of favor with the Giants' coaching staff, totaling three carries for 17 yards across four snaps. He appears to be a distant fourth option behind backfield mates Najee Harris, Cam Skattebo, and Devin Singletary, and can be safely avoided by fantasy managers in all formats.",
+        "title": "Tyrone Tracy Jr. Cleared to Play in Week 4",
+        "topic_id": "1411988987958001664",
+        "url": "https://www.rotoballer.com/player-news/tyrone-tracy-jr-cleared-to-play-in-week-4/1956741"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11655",
+      "player_name": "Tyrone Tracy",
+      "position": "RB",
+      "published": 1790991909000,
+      "source": "rotoballer",
+      "source_key": "223031",
+      "story_id": "nfl|11655|rotoballer|223031|1790991909000",
+      "title": "Tyrone Tracy Jr. Cleared to Play in Week 4",
+      "url": "https://www.rotoballer.com/player-news/tyrone-tracy-jr-cleared-to-play-in-week-4/1956741"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver CeeDee Lamb is back to full health after a long recovery from a high-ankle sprain he suffered early last season. The difference in production was immediately remarkable -- Lamb has 20 receptions for 309 yards and two touchdowns through three games. He's the WR3 overall in PPR fantasy leagues and has wrested the clear WR1 role away from his teammate, WR George Pickens. A tough matchup with the Houston Texans is looming, but Lamb is good enough that he can have big games against any defense. He's also re-established his elite connection with quarterback Dak Prescott. Lamb is moved all over the field, so he won't be exclusively playing on the outside against Derek Stingley Jr. every snap. Lamb's fantasy floor feels extremely safe. He should continue to live up to his first-round ADP in fantasy football, though his ceiling may not be at his career peak levels due to Pickens' presence.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver CeeDee Lamb is back to full health after a long recovery from a high-ankle sprain he suffered early last season. The difference in production was immediately remarkable -- Lamb has 20 receptions for 309 yards and two touchdowns through three games. He's the WR3 overall in PPR fantasy leagues and has wrested the clear WR1 role away from his teammate, WR George Pickens. A tough matchup with the Houston Texans is looming, but Lamb is good enough that he can have big games against any defense. He's also re-established his elite connection with quarterback Dak Prescott. Lamb is moved all over the field, so he won't be exclusively playing on the outside against Derek Stingley Jr. every snap. Lamb's fantasy floor feels extremely safe. He should continue to live up to his first-round ADP in fantasy football, though his ceiling may not be at his career peak levels due to Pickens' presence.",
+        "title": "CeeDee Lamb Still Elite WR1 Despite Tough Week 4 Matchup",
+        "topic_id": "1411986470725570560",
+        "url": "https://www.rotoballer.com/player-news/ceedee-lamb-still-elite-wr1-despite-tough-week-4-matchup/1956739"
+      },
+      "nfl_team": "DAL",
+      "player_id": "6786",
+      "player_name": "CeeDee Lamb",
+      "position": "WR",
+      "published": 1790991719000,
+      "source": "rotoballer",
+      "source_key": "223030",
+      "story_id": "nfl|6786|rotoballer|223030|1790991719000",
+      "title": "CeeDee Lamb Still Elite WR1 Despite Tough Week 4 Matchup",
+      "url": "https://www.rotoballer.com/player-news/ceedee-lamb-still-elite-wr1-despite-tough-week-4-matchup/1956739"
+    },
+    {
+      "analysis": "Keenum was under center for Week 3 and led the Bears to a 27-7 win over the Eagles, when he threw for 247 yards and two touchdowns while adding a rushing TD. However, Bagent has taken the majority of first-team reps during Week 4 prep, with Caleb Williams (hamstring) ruled out for a second consecutive week. Head coach Ben Johnson has yet to name a starter, but for now, it looks like Bagent will get the call Sunday while Keenum stays ready as the QB2.",
       "description": "Ian Rapoport of NFL Network reports that Keenum is expected to serve as the backup quarterback to Tyson Bagent against the Jets on Sunday.",
       "metadata": {
-        "analysis": "Keenum was under center for Week 3 and led the Bears to a 27-7 win over the Eagles, when he threw for 247 yards and two touchdowns while adding a rushing TD. However, Bagent has taken the majority of first-team reps during Week 4 prep, with Caleb Williams (hamstring) ruled out for a second consecutive week. Head coach Ben Johnson has yet to name a starter, but for now, it looks like Bagent will be the starter Sunday while Keenum stays ready as the QB2.",
+        "analysis": "Keenum was under center for Week 3 and led the Bears to a 27-7 win over the Eagles, when he threw for 247 yards and two touchdowns while adding a rushing TD. However, Bagent has taken the majority of first-team reps during Week 4 prep, with Caleb Williams (hamstring) ruled out for a second consecutive week. Head coach Ben Johnson has yet to name a starter, but for now, it looks like Bagent will get the call Sunday while Keenum stays ready as the QB2.",
         "description": "Ian Rapoport of NFL Network reports that Keenum is expected to serve as the backup quarterback to Tyson Bagent against the Jets on Sunday.",
         "title": "Case Keenum - Expected to back up Bagent vs. NYJ",
         "topic_id": "1411912331637637120"
@@ -49,10 +308,10 @@
       "url": null
     },
     {
-      "analysis": "Croskey-Merritt has logged 47 carries through three regular-season games, though he's turned that into only 142 yards (3.0 YPC) and a touchdown while playing less than 50 percent of the Commanders' offensive snaps in two games. White has mostly operated as the change-of-pace, pass-catching RB for the Commanders this season, so Croskey-Merrit figures to see an expanded role Sunday while the former is sidelined. Rookie Kaytron Allen and recently-signed Austin Ekeler are also in the mix for backfield work in London, England.",
+      "analysis": "Croskey-Merritt has logged 47 carries through three regular-season games, though he's turned that into only 142 yards (3.0 YPC) and a touchdown while playing less than 50 percent of the Commanders' offensive snaps in two different contests. White has mostly operated as the change-of-pace, pass-catching RB for Washington this season, so Croskey-Merritt figures to see an expanded role Sunday while the former is sidelined. Rookie Kaytron Allen and recently-signed Austin Ekeler also are in the mix for backfield work this weekend in London.",
       "description": "Croskey-Merritt has served as the Commanders' RB1 this season, but his backfield snap count for Week 4 against the Colts figures to be larger due to the absence of Rachaad White (shoulder).",
       "metadata": {
-        "analysis": "Croskey-Merritt has logged 47 carries through three regular-season games, though he's turned that into only 142 yards (3.0 YPC) and a touchdown while playing less than 50 percent of the Commanders' offensive snaps in two games. White has mostly operated as the change-of-pace, pass-catching RB for the Commanders this season, so Croskey-Merrit figures to see an expanded role Sunday while the former is sidelined. Rookie Kaytron Allen and recently-signed Austin Ekeler are also in the mix for backfield work in London, England.",
+        "analysis": "Croskey-Merritt has logged 47 carries through three regular-season games, though he's turned that into only 142 yards (3.0 YPC) and a touchdown while playing less than 50 percent of the Commanders' offensive snaps in two different contests. White has mostly operated as the change-of-pace, pass-catching RB for Washington this season, so Croskey-Merritt figures to see an expanded role Sunday while the former is sidelined. Rookie Kaytron Allen and recently-signed Austin Ekeler also are in the mix for backfield work this weekend in London.",
         "description": "Croskey-Merritt has served as the Commanders' RB1 this season, but his backfield snap count for Week 4 against the Colts figures to be larger due to the absence of Rachaad White (shoulder).",
         "title": "Jacory Croskey-Merritt - In line for larger workload in London",
         "topic_id": "1411909815428448256"
@@ -69,10 +328,10 @@
       "url": null
     },
     {
-      "analysis": "The rookie first-rounder has seen his receiving yards steadily increase over the first three games of the regular season, and with Smith sidelined for at least one week, Lemon will have the opportunity to establish himself as a go-to target in the passing game for Jalen Hurts. The Rams will be without starting outside cornerback Jaylen Watson (shoulder), so whomever Los Angeles rolls out as a replacement could be a target that Lemon and the Eagles offense exploits.",
+      "analysis": "Lemon, a rookie first-rounder, has seen his receiving yards steadily increase over the first three games of the regular season, and with Smith sidelined for at least one week, the former will have the opportunity to establish himself as a go-to target in the passing game for Jalen Hurts. The Rams will be without starting outside cornerback Jaylen Watson (shoulder), so whomever Los Angeles rolls out as a replacement could be a target that Lemon and the Eagles offense exploits.",
       "description": "Lemon and Dontayvion Wicks will both operate in larger roles against the Rams on Sunday due to the absence of DeVonta Smith (hamstring), Chris McPherson of the Eagles' official site reports.",
       "metadata": {
-        "analysis": "The rookie first-rounder has seen his receiving yards steadily increase over the first three games of the regular season, and with Smith sidelined for at least one week, Lemon will have the opportunity to establish himself as a go-to target in the passing game for Jalen Hurts. The Rams will be without starting outside cornerback Jaylen Watson (shoulder), so whomever Los Angeles rolls out as a replacement could be a target that Lemon and the Eagles offense exploits.",
+        "analysis": "Lemon, a rookie first-rounder, has seen his receiving yards steadily increase over the first three games of the regular season, and with Smith sidelined for at least one week, the former will have the opportunity to establish himself as a go-to target in the passing game for Jalen Hurts. The Rams will be without starting outside cornerback Jaylen Watson (shoulder), so whomever Los Angeles rolls out as a replacement could be a target that Lemon and the Eagles offense exploits.",
         "description": "Lemon and Dontayvion Wicks will both operate in larger roles against the Rams on Sunday due to the absence of DeVonta Smith (hamstring), Chris McPherson of the Eagles' official site reports.",
         "title": "Makai Lemon - Larger role sans Smith",
         "topic_id": "1411908557418344448"
@@ -114,7 +373,7 @@
       "metadata": {
         "analysis": "Etienne's placement on IR on Thursday comes after the star running back aggravated a hamstring injury during the Saints' Week 3 loss to the Raiders. With Etienne sidelined, Miller and Alvin Kamara figure to operate as the Saints' top running backs moving forward, with undrafted rookie CJ Donaldson also in the mix for backfield work. Miller has 13 carries for 44 yards (3.4 YPC) and a touchdown along with two catches (on three targets) for five yards through two regular-season games.",
         "description": "Miller is in line for a larger offensive role for as long as Travis Etienne (hamstring) is on injured reserve, John DeShazler of the Saints' official site reports.",
-        "title": "Kendre Miller - In the mix for more snaps",
+        "title": "Kendre Miller - In mix for more snaps",
         "topic_id": "1411902264662147072"
       },
       "nfl_team": "NO",
@@ -125,15 +384,15 @@
       "source": "rotowire",
       "source_key": "640398",
       "story_id": "nfl|9757|rotowire|640398|1790986135000",
-      "title": "Kendre Miller - In the mix for more snaps",
+      "title": "Kendre Miller - In mix for more snaps",
       "url": null
     },
     {
-      "analysis": "Etienne aggravated a hamstring injury during the Saints' Week 3 loss to the Raiders, and the injury is severe enough for him to require a stint on IR. In Etienne's absence, the veteran Kamara figures to take on RB1 duties for New Orleans, a role he carried through the first nine years of his 10-year NFL career. Kendre Miller will see an uptick in backfield snaps behind Kamara, with with CJ Donaldson and practice squad members Zamir White and Ulysses Bentley also in the mix for work on offense for as long as Etienne is on the shelf.",
-      "description": "Kamara figures to serve as the Saints' top running back for as long as Travis Etienne (hamstring) is on injured reserve, starting with Monday's game against the Falcons, John DeShazler of the Saints' official site reports.",
+      "analysis": "Etienne aggravated a hamstring injury during the Saints' Week 3 loss to the Raiders, and the injury is severe enough for him to require a stint on IR. In Etienne's absence, the veteran Kamara figures to take on RB1 duties for New Orleans, a role he carried through the first nine years of his 10-year NFL career. Kendre Miller will see an uptick in backfield snaps behind Kamara, with CJ Donaldson and practice squad members Zamir White and Ulysses Bentley also in the mix for work on offense for as long as Etienne is on the shelf.",
+      "description": "Kamara figures to serve as the Saints' top running back for as long as Travis Etienne (hamstring) is on injured reserve, starting with Monday's game against the Falcons, John DeShazier of the team's official site reports.",
       "metadata": {
-        "analysis": "Etienne aggravated a hamstring injury during the Saints' Week 3 loss to the Raiders, and the injury is severe enough for him to require a stint on IR. In Etienne's absence, the veteran Kamara figures to take on RB1 duties for New Orleans, a role he carried through the first nine years of his 10-year NFL career. Kendre Miller will see an uptick in backfield snaps behind Kamara, with with CJ Donaldson and practice squad members Zamir White and Ulysses Bentley also in the mix for work on offense for as long as Etienne is on the shelf.",
-        "description": "Kamara figures to serve as the Saints' top running back for as long as Travis Etienne (hamstring) is on injured reserve, starting with Monday's game against the Falcons, John DeShazler of the Saints' official site reports.",
+        "analysis": "Etienne aggravated a hamstring injury during the Saints' Week 3 loss to the Raiders, and the injury is severe enough for him to require a stint on IR. In Etienne's absence, the veteran Kamara figures to take on RB1 duties for New Orleans, a role he carried through the first nine years of his 10-year NFL career. Kendre Miller will see an uptick in backfield snaps behind Kamara, with CJ Donaldson and practice squad members Zamir White and Ulysses Bentley also in the mix for work on offense for as long as Etienne is on the shelf.",
+        "description": "Kamara figures to serve as the Saints' top running back for as long as Travis Etienne (hamstring) is on injured reserve, starting with Monday's game against the Falcons, John DeShazier of the team's official site reports.",
         "title": "Alvin Kamara - Taking on larger role sans Etienne",
         "topic_id": "1411901006584741888"
       },
@@ -169,10 +428,10 @@
       "url": null
     },
     {
-      "analysis": "Jefferson injured his ankle during the first half of the Vikings' Week 3 win over the Buccaneers. That allowed Addison to take over as the WR1, and he finished that game with five catches (on nine targets) for 90 yards and a touchdown. The Dolphins have been a top-5 defense against wide receivers this season, but Addison should still see a healthy amount of targets from Kyler Murray in Jefferson's absence, with Jauan Jennings, Tai Felton and tight end T.J. Hockenson also in the mix for more passes.",
+      "analysis": "Jefferson injured his ankle during the first half of the Vikings' Week 3 win over the Buccaneers. That allowed Addison to take over as the WR1, and he finished that game with five catches (on nine targets) for 90 yards and a touchdown. The Dolphins have been a top-5 defense against wide receivers this season, but Addison still should see a healthy amount of targets from Kyler Murray in Jefferson's absence, with Jauan Jennings, Tai Felton and tight end T.J. Hockenson also in the mix for more passes.",
       "description": "Addison will serve as the Vikings' top wide receiver against the Dolphins on Sunday due to the absence of Justin Jefferson (ankle), Craig Peters of the Vikings' official site reports.",
       "metadata": {
-        "analysis": "Jefferson injured his ankle during the first half of the Vikings' Week 3 win over the Buccaneers. That allowed Addison to take over as the WR1, and he finished that game with five catches (on nine targets) for 90 yards and a touchdown. The Dolphins have been a top-5 defense against wide receivers this season, but Addison should still see a healthy amount of targets from Kyler Murray in Jefferson's absence, with Jauan Jennings, Tai Felton and tight end T.J. Hockenson also in the mix for more passes.",
+        "analysis": "Jefferson injured his ankle during the first half of the Vikings' Week 3 win over the Buccaneers. That allowed Addison to take over as the WR1, and he finished that game with five catches (on nine targets) for 90 yards and a touchdown. The Dolphins have been a top-5 defense against wide receivers this season, but Addison still should see a healthy amount of targets from Kyler Murray in Jefferson's absence, with Jauan Jennings, Tai Felton and tight end T.J. Hockenson also in the mix for more passes.",
         "description": "Addison will serve as the Vikings' top wide receiver against the Dolphins on Sunday due to the absence of Justin Jefferson (ankle), Craig Peters of the Vikings' official site reports.",
         "title": "Jordan Addison - Will be Vikes' top WR for Week 4",
         "topic_id": "1411897230809407488"
@@ -189,11 +448,11 @@
       "url": null
     },
     {
-      "analysis": "Bagent was the backup to Case Keenum in Week 3 against Philadelphia with Caleb Williams (hamstring) sidelined due to a hamstring injury. That arrangement likely had something to do with Bagent coming off a concussion, which resulted in Keenum handling much of the first-team reps in practice during the week. It appeared Keenum may have seized the starting job for Week 4 (with Williams still out of action) after leading Chicago to a win against the Eagles while throwing for 247 yards and two touchdowns, but Bagent's work with the first team this week during practice suggests the script is flipping again. With that said, Johnson has refused so far to announce a Week 4 starter at QB, so it can't yet be said for certain what roles Keenum and Bagent will have this weekend.",
-      "description": "Bagent is expected to start Sunday versus the Jets after getting first-team reps in practice, Ian Rapoport of NFL Network reports. However, coach Ben Johnson has not yet confirmed the plan.",
+      "analysis": "Bagent was the backup to Case Keenum in Week 3 against Philadelphia with Caleb Williams (hamstring) sidelined due to a hamstring injury. That arrangement likely had something to do with Bagent coming off a concussion, which resulted in Keenum handling much of the first-team reps in practice during the week. It appeared Keenum may have seized the starting job for Week 4 (with Williams still out of action) after leading Chicago to a Week 3 win against the Eagles while throwing for 247 yards and two touchdowns, but Bagent's work with the first-team offense this week suggests the script is flipping again. With that said, Johnson has refused so far to announce a Week 4 starter at QB, so it can't yet be said for certain what roles Keenum and Bagent will have this weekend.",
+      "description": "Bagent is expected to start Sunday versus the Jets after getting most of the first-team reps in practice, Ian Rapoport of NFL Network reports. However, coach Ben Johnson has not yet confirmed the plan.",
       "metadata": {
-        "analysis": "Bagent was the backup to Case Keenum in Week 3 against Philadelphia with Caleb Williams (hamstring) sidelined due to a hamstring injury. That arrangement likely had something to do with Bagent coming off a concussion, which resulted in Keenum handling much of the first-team reps in practice during the week. It appeared Keenum may have seized the starting job for Week 4 (with Williams still out of action) after leading Chicago to a win against the Eagles while throwing for 247 yards and two touchdowns, but Bagent's work with the first team this week during practice suggests the script is flipping again. With that said, Johnson has refused so far to announce a Week 4 starter at QB, so it can't yet be said for certain what roles Keenum and Bagent will have this weekend.",
-        "description": "Bagent is expected to start Sunday versus the Jets after getting first-team reps in practice, Ian Rapoport of NFL Network reports. However, coach Ben Johnson has not yet confirmed the plan.",
+        "analysis": "Bagent was the backup to Case Keenum in Week 3 against Philadelphia with Caleb Williams (hamstring) sidelined due to a hamstring injury. That arrangement likely had something to do with Bagent coming off a concussion, which resulted in Keenum handling much of the first-team reps in practice during the week. It appeared Keenum may have seized the starting job for Week 4 (with Williams still out of action) after leading Chicago to a Week 3 win against the Eagles while throwing for 247 yards and two touchdowns, but Bagent's work with the first-team offense this week suggests the script is flipping again. With that said, Johnson has refused so far to announce a Week 4 starter at QB, so it can't yet be said for certain what roles Keenum and Bagent will have this weekend.",
+        "description": "Bagent is expected to start Sunday versus the Jets after getting most of the first-team reps in practice, Ian Rapoport of NFL Network reports. However, coach Ben Johnson has not yet confirmed the plan.",
         "title": "Tyson Bagent - Expected to start Sunday",
         "topic_id": "1411894714768089088"
       },
@@ -209,10 +468,10 @@
       "url": null
     },
     {
-      "analysis": "After a quiet Week 1 against the 49ers in Australia, Adams has put together a 15-332-2 receiving line (23 targets) over the Rams' last two games in the absence of Nacua. The latter does not carry an injury designation for Week 4, though Sarah Barshop of ESPN.com relays that the Rams are still figuring out what kind of snap count that Nacua will operate under in his return. Given that, Adams still figures to be a top target for Matthew Stafford in the passing game, particularly in the red zone, where Adams has thrived for his entire NFL career.",
+      "analysis": "After a quiet Week 1 against the 49ers in Australia, Adams has put together a 15-332-2 line on 23 targets over the Rams' last two games in the absence of Nacua. The latter does not carry an injury designation for Week 4, though Sarah Barshop of ESPN.com relays that the Rams are still figuring out what kind of snap count that Nacua will operate under in his return. Given that, Adams still figures to be a top target for QB Matthew Stafford in the passing game, particularly in the red zone, where Adams has thrived for his entire NFL career.",
       "description": "Adams will serve as the Rams' WR2 against the Eagles on Sunday after Puka Nacua (hip) was cleared to play, Stu Jackson of the Rams' official site reports.",
       "metadata": {
-        "analysis": "After a quiet Week 1 against the 49ers in Australia, Adams has put together a 15-332-2 receiving line (23 targets) over the Rams' last two games in the absence of Nacua. The latter does not carry an injury designation for Week 4, though Sarah Barshop of ESPN.com relays that the Rams are still figuring out what kind of snap count that Nacua will operate under in his return. Given that, Adams still figures to be a top target for Matthew Stafford in the passing game, particularly in the red zone, where Adams has thrived for his entire NFL career.",
+        "analysis": "After a quiet Week 1 against the 49ers in Australia, Adams has put together a 15-332-2 line on 23 targets over the Rams' last two games in the absence of Nacua. The latter does not carry an injury designation for Week 4, though Sarah Barshop of ESPN.com relays that the Rams are still figuring out what kind of snap count that Nacua will operate under in his return. Given that, Adams still figures to be a top target for QB Matthew Stafford in the passing game, particularly in the red zone, where Adams has thrived for his entire NFL career.",
         "description": "Adams will serve as the Rams' WR2 against the Eagles on Sunday after Puka Nacua (hip) was cleared to play, Stu Jackson of the Rams' official site reports.",
         "title": "Davante Adams - Reverting back to WR2 vs. Philadelphia",
         "topic_id": "1411894714696785920"
@@ -229,11 +488,11 @@
       "url": null
     },
     {
-      "analysis": "Bernard was not targeted by Aaron Rodgers until late in the fourth quarter, with the duo connecting on passes for six and five yards to help set up a three-yard touchdown catch by Pat Freiermuth after the two-minute warning. The rookie second-rounder was on the field for 29 of the Steelers' 72 offensive snaps (40.3 percent), which was third-most among wide receivers behind DK Metcalf (70) and Michael Pittman (52) and ahead of Roman Wilson (22). Bernard has a 7-60-0 receiving line on 11 targets through four regular-season games, though his role in the offense will be limited behind Metcalf, Pittman, Freiermuth, Darnell Washington and Jaylen Warren. The Steelers head back home for Week 5 against the Cotls on Sunday, Oct. 11.",
-      "description": "Bernard caught both of his passes for 11 yards during the Steelers' 27-24 loss to the Browns on Thursday.",
+      "analysis": "Bernard was not targeted by Aaron Rodgers until late in the fourth quarter, with the duo connecting on passes for six and five yards to help set up a three-yard touchdown catch by Pat Freiermuth after the two-minute warning. The rookie second-rounder was on the field for 29 of the Steelers' 72 offensive snaps (40.3 percent), which was third most among wide receivers behind DK Metcalf (70) and Michael Pittman (52) and ahead of Roman Wilson (22). Bernard has a 7-60-0 line on 11 targets through four regular-season games, though his role in the offense will be limited behind Metcalf, Pittman, Freiermuth, Darnell Washington and Jaylen Warren. The Steelers head back home for Week 5 against the Colts on Sunday, Oct. 11.",
+      "description": "Bernard caught both of his targets for 11 yards during the Steelers' 27-24 loss to the Browns on Thursday.",
       "metadata": {
-        "analysis": "Bernard was not targeted by Aaron Rodgers until late in the fourth quarter, with the duo connecting on passes for six and five yards to help set up a three-yard touchdown catch by Pat Freiermuth after the two-minute warning. The rookie second-rounder was on the field for 29 of the Steelers' 72 offensive snaps (40.3 percent), which was third-most among wide receivers behind DK Metcalf (70) and Michael Pittman (52) and ahead of Roman Wilson (22). Bernard has a 7-60-0 receiving line on 11 targets through four regular-season games, though his role in the offense will be limited behind Metcalf, Pittman, Freiermuth, Darnell Washington and Jaylen Warren. The Steelers head back home for Week 5 against the Cotls on Sunday, Oct. 11.",
-        "description": "Bernard caught both of his passes for 11 yards during the Steelers' 27-24 loss to the Browns on Thursday.",
+        "analysis": "Bernard was not targeted by Aaron Rodgers until late in the fourth quarter, with the duo connecting on passes for six and five yards to help set up a three-yard touchdown catch by Pat Freiermuth after the two-minute warning. The rookie second-rounder was on the field for 29 of the Steelers' 72 offensive snaps (40.3 percent), which was third most among wide receivers behind DK Metcalf (70) and Michael Pittman (52) and ahead of Roman Wilson (22). Bernard has a 7-60-0 line on 11 targets through four regular-season games, though his role in the offense will be limited behind Metcalf, Pittman, Freiermuth, Darnell Washington and Jaylen Warren. The Steelers head back home for Week 5 against the Colts on Sunday, Oct. 11.",
+        "description": "Bernard caught both of his targets for 11 yards during the Steelers' 27-24 loss to the Browns on Thursday.",
         "title": "Germie Bernard - Two catches vs. Cleveland",
         "topic_id": "1411893456455970816"
       },
@@ -249,10 +508,10 @@
       "url": null
     },
     {
-      "analysis": "Tracy upgraded his practice participation level in each of the Giants' Week 4 prep sessions. The running back went from a DNP on Wednesday to limited Thursday before finally achieving full participation Friday, in time to avoid any injury designation. Tracy is set to suit up for Sunday's game as the No. 3 option behind Cam Skattebo and Najee Harris.",
+      "analysis": "Tracy upgraded his practice participation level in each of the Giants' Week 4 prep sessions. The running back went from a DNP on Wednesday to limited Thursday before finally achieving full participation Friday, in time to avoid an injury designation. Tracy is set to suit up for Sunday's game as the No. 3 option behind Cam Skattebo and Najee Harris.",
       "description": "Tracy (knee) does not have any injury designation ahead of Sunday's game against the Cardinals.",
       "metadata": {
-        "analysis": "Tracy upgraded his practice participation level in each of the Giants' Week 4 prep sessions. The running back went from a DNP on Wednesday to limited Thursday before finally achieving full participation Friday, in time to avoid any injury designation. Tracy is set to suit up for Sunday's game as the No. 3 option behind Cam Skattebo and Najee Harris.",
+        "analysis": "Tracy upgraded his practice participation level in each of the Giants' Week 4 prep sessions. The running back went from a DNP on Wednesday to limited Thursday before finally achieving full participation Friday, in time to avoid an injury designation. Tracy is set to suit up for Sunday's game as the No. 3 option behind Cam Skattebo and Najee Harris.",
         "description": "Tracy (knee) does not have any injury designation ahead of Sunday's game against the Cardinals.",
         "title": "Tyrone Tracy - Set for Sunday",
         "topic_id": "1411892198210850816"
@@ -270,10 +529,10 @@
     },
     {
       "analysis": "Sanders logged 22 offensive snaps, his second-highest mark of the 2026 campaign. However, the 24-year-old was a non-factor offensively. Instead, it was Jaleel McLaughlin who took advantage of his limited workload by scoring a 28-yard rushing touchdown early in the second quarter. While Sanders should remain the No. 2 back on the depth chart behind Quinshon Judkins, assuming the latter stays healthy, he will be difficult to trust from a fantasy standpoint moving ahead.",
-      "description": "Sanders accrued two rushes for nine yards and gathered in all two targets for seven yards during Thursday's 27-24 win versus the Steelers.",
+      "description": "Sanders accrued two rushes for nine yards and gathered in both of his two targets for seven yards during Thursday's 27-24 win versus the Steelers.",
       "metadata": {
         "analysis": "Sanders logged 22 offensive snaps, his second-highest mark of the 2026 campaign. However, the 24-year-old was a non-factor offensively. Instead, it was Jaleel McLaughlin who took advantage of his limited workload by scoring a 28-yard rushing touchdown early in the second quarter. While Sanders should remain the No. 2 back on the depth chart behind Quinshon Judkins, assuming the latter stays healthy, he will be difficult to trust from a fantasy standpoint moving ahead.",
-        "description": "Sanders accrued two rushes for nine yards and gathered in all two targets for seven yards during Thursday's 27-24 win versus the Steelers.",
+        "description": "Sanders accrued two rushes for nine yards and gathered in both of his two targets for seven yards during Thursday's 27-24 win versus the Steelers.",
         "title": "Raheim Sanders - Non-factor offensively Thursday",
         "topic_id": "1411888422548746240"
       },
@@ -309,6 +568,126 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Mike Evans (ribs) will be a game-time decision for the upcoming Week 4 matchup against the Denver Broncos, per Vic Tafur. Head coach Kyle Shanahan confirmed this news on Friday after Evans was listed as questionable to suit up. The veteran wideout is nursing a strained rib that he suffered last week. If active, there is some risk for fantasy managers with Evans not being completely healthy. Without Evans available, Deebo Samuel Sr., George Kittle, and Christian McCaffrey would be the focal points on offense. It's a tough matchup for Evans, and he's banged up, so he's probably a safe WR3, assuming he's active.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Mike Evans (ribs) will be a game-time decision for the upcoming Week 4 matchup against the Denver Broncos, per Vic Tafur. Head coach Kyle Shanahan confirmed this news on Friday after Evans was listed as questionable to suit up. The veteran wideout is nursing a strained rib that he suffered last week. If active, there is some risk for fantasy managers with Evans not being completely healthy. Without Evans available, Deebo Samuel Sr., George Kittle, and Christian McCaffrey would be the focal points on offense. It's a tough matchup for Evans, and he's banged up, so he's probably a safe WR3, assuming he's active.",
+        "title": "Mike Evans to be Game-Time Decision in Week 4",
+        "topic_id": "1411946202055843840",
+        "url": "https://www.rotoballer.com/player-news/mike-evans-to-be-game-time-decision-in-week-4/1956710"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1790982069000,
+      "source": "rotoballer",
+      "source_key": "223029",
+      "story_id": "nfl|2216|rotoballer|223029|1790982069000",
+      "title": "Mike Evans to be Game-Time Decision in Week 4",
+      "url": "https://www.rotoballer.com/player-news/mike-evans-to-be-game-time-decision-in-week-4/1956710"
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills wide receiver Keon Coleman (ankle) is listed as questionable on the team's official injury report ahead of the Week 4 matchup against the New England Patriots. Coleman missed Wednesday's practice before getting in back-to-back limited sessions to wrap up the week. It seems like he'll likely play through the issue, but fantasy managers will have a better idea soon. Coleman had a strong six-catch performance in Week 2, but he has been invisible outside of that. Fellow wideout DJ Moore (shoulder) is active, so Coleman will probably take a backseat to him this weekend.",
+      "metadata": {
+        "description": "Buffalo Bills wide receiver Keon Coleman (ankle) is listed as questionable on the team's official injury report ahead of the Week 4 matchup against the New England Patriots. Coleman missed Wednesday's practice before getting in back-to-back limited sessions to wrap up the week. It seems like he'll likely play through the issue, but fantasy managers will have a better idea soon. Coleman had a strong six-catch performance in Week 2, but he has been invisible outside of that. Fellow wideout DJ Moore (shoulder) is active, so Coleman will probably take a backseat to him this weekend.",
+        "title": "Keon Coleman is Considered Questionable for Week 4",
+        "topic_id": "1411944946188955648",
+        "url": "https://www.rotoballer.com/player-news/keon-coleman-is-considered-questionable-for-week-4/1956708"
+      },
+      "nfl_team": "BUF",
+      "player_id": "11637",
+      "player_name": "Keon Coleman",
+      "position": "WR",
+      "published": 1790981649000,
+      "source": "rotoballer",
+      "source_key": "223028",
+      "story_id": "nfl|11637|rotoballer|223028|1790981649000",
+      "title": "Keon Coleman is Considered Questionable for Week 4",
+      "url": "https://www.rotoballer.com/player-news/keon-coleman-is-considered-questionable-for-week-4/1956708"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Antonio Williams is hopeful to break out of his slump against the Indianapolis Colts this weekend. Williams was solid in the season opener when he hauled in four receptions for 64 yards and a touchdown. Since then, Williams has been quiet, but he has a chance to break out this weekend. Fellow wideout Terry McLaurin (hamstring) is currently listed as questionable to suit up for Sunday's game. He appears to have tweaked something during Friday's practice, so he won't have a ton of time to get ready for Sunday's game. If McLaurin is out, Williams could step into a larger role in the passing game, which might put him in flex territory for Week 4.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Antonio Williams is hopeful to break out of his slump against the Indianapolis Colts this weekend. Williams was solid in the season opener when he hauled in four receptions for 64 yards and a touchdown. Since then, Williams has been quiet, but he has a chance to break out this weekend. Fellow wideout Terry McLaurin (hamstring) is currently listed as questionable to suit up for Sunday's game. He appears to have tweaked something during Friday's practice, so he won't have a ton of time to get ready for Sunday's game. If McLaurin is out, Williams could step into a larger role in the passing game, which might put him in flex territory for Week 4.",
+        "title": "Antonio Williams Could See Bigger Role in Week 4",
+        "topic_id": "1411942427152924672",
+        "url": "https://www.rotoballer.com/player-news/antonio-williams-could-see-bigger-role-in-week-4/1956705"
+      },
+      "nfl_team": "WAS",
+      "player_id": "13301",
+      "player_name": "Antonio Williams",
+      "position": "WR",
+      "published": 1790981171000,
+      "source": "rotoballer",
+      "source_key": "223027",
+      "story_id": "nfl|13301|rotoballer|223027|1790981171000",
+      "title": "Antonio Williams Could See Bigger Role in Week 4",
+      "url": "https://www.rotoballer.com/player-news/antonio-williams-could-see-bigger-role-in-week-4/1956705"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots running back Rhamondre Stevenson has seen his workload in the backfield take a hit in recent weeks. Stevenson carried the ball 18 times for 51 yards in the season opener. Since then, Stevenson has been limited to 13 carries for 65 yards across the last two games. Fellow back TreVeyon Henderson has been getting more involved with 24 carries since Week 2. It looks like the Patriots plan to split up the workload between the two of them going forward. It might be difficult for Stevenson to offer weekly value with Henderson taking half the carries. Fantasy managers can be hopeful for a bounce back performance, but the last two games haven't been pretty for Stevenson. We'll see what he is able to do against the Buffalo Bills in Week 4.",
+      "metadata": {
+        "description": "New England Patriots running back Rhamondre Stevenson has seen his workload in the backfield take a hit in recent weeks. Stevenson carried the ball 18 times for 51 yards in the season opener. Since then, Stevenson has been limited to 13 carries for 65 yards across the last two games. Fellow back TreVeyon Henderson has been getting more involved with 24 carries since Week 2. It looks like the Patriots plan to split up the workload between the two of them going forward. It might be difficult for Stevenson to offer weekly value with Henderson taking half the carries. Fantasy managers can be hopeful for a bounce back performance, but the last two games haven't been pretty for Stevenson. We'll see what he is able to do against the Buffalo Bills in Week 4.",
+        "title": "Rhamondre Stevenson is Losing Touches",
+        "topic_id": "1411938651780259840",
+        "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-is-losing-touches/1956696"
+      },
+      "nfl_team": "NE",
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "published": 1790980149000,
+      "source": "rotoballer",
+      "source_key": "223026",
+      "story_id": "nfl|7611|rotoballer|223026|1790980149000",
+      "title": "Rhamondre Stevenson is Losing Touches",
+      "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-is-losing-touches/1956696"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Devaughn Vele failed to make much of an impact during last week's loss to the Las Vegas Raiders. Vele hauled in three of his six targets for 39 yards last weekend. Before that, Vele posted back-to-back strong games to begin the season. The expectation is that Vele is going to rebound against the Atlanta Falcons defense in Week 4. The Saints are banged up at running back, so they might focus on the passing game instead. Vele has seen six or more targets in each of the first three games of the season. He figures to continue getting a consistent target share until rookie Jordyn Tyson (hamstring) is ready to return. Fantasy managers should be able to count on Vele as a WR3 for Week 4.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Devaughn Vele failed to make much of an impact during last week's loss to the Las Vegas Raiders. Vele hauled in three of his six targets for 39 yards last weekend. Before that, Vele posted back-to-back strong games to begin the season. The expectation is that Vele is going to rebound against the Atlanta Falcons defense in Week 4. The Saints are banged up at running back, so they might focus on the passing game instead. Vele has seen six or more targets in each of the first three games of the season. He figures to continue getting a consistent target share until rookie Jordyn Tyson (hamstring) is ready to return. Fantasy managers should be able to count on Vele as a WR3 for Week 4.",
+        "title": "Devaughn Vele is Interesting Bounce Back Candidate",
+        "topic_id": "1411936135495659520",
+        "url": "https://www.rotoballer.com/player-news/devaughn-vele-is-interesting-bounce-back-candidate/1956683"
+      },
+      "nfl_team": "NO",
+      "player_id": "11834",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "published": 1790979309000,
+      "source": "rotoballer",
+      "source_key": "223025",
+      "story_id": "nfl|11834|rotoballer|223025|1790979309000",
+      "title": "Devaughn Vele is Interesting Bounce Back Candidate",
+      "url": "https://www.rotoballer.com/player-news/devaughn-vele-is-interesting-bounce-back-candidate/1956683"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles wide receiver Makai Lemon hasn't made much of an impact during the first three games of the season. Heading into Week 4, Lemon has recorded seven receptions for 38 yards with zero touchdowns. The rookie wideout hasn't contributed much, but his role is likely going to grow this weekend. Fellow wideout DeVonta Smith (hamstring) has been ruled out for the Week 4 matchup against the Los Angeles Rams. With Smith sidelined, Dontayvion Wicks and Lemon are going to be the primary pass-catchers this weekend. Lemon should force himself into the flex conversation with the move into the No. 2 role in Week 4.",
+      "metadata": {
+        "description": "Philadelphia Eagles wide receiver Makai Lemon hasn't made much of an impact during the first three games of the season. Heading into Week 4, Lemon has recorded seven receptions for 38 yards with zero touchdowns. The rookie wideout hasn't contributed much, but his role is likely going to grow this weekend. Fellow wideout DeVonta Smith (hamstring) has been ruled out for the Week 4 matchup against the Los Angeles Rams. With Smith sidelined, Dontayvion Wicks and Lemon are going to be the primary pass-catchers this weekend. Lemon should force himself into the flex conversation with the move into the No. 2 role in Week 4.",
+        "title": "Makai Lemon Likely to See Expanded Role",
+        "topic_id": "1411932360919838720",
+        "url": "https://www.rotoballer.com/player-news/makai-lemon-likely-to-see-expanded-role/1956669"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1790978709000,
+      "source": "rotoballer",
+      "source_key": "223024",
+      "story_id": "nfl|13294|rotoballer|223024|1790978709000",
+      "title": "Makai Lemon Likely to See Expanded Role",
+      "url": "https://www.rotoballer.com/player-news/makai-lemon-likely-to-see-expanded-role/1956669"
+    },
+    {
       "analysis": "Ferguson underwent X-rays on an ankle injury during this past Sunday's loss at Denver, and while he was able to return to the contest, he then didn't practice in any capacity Wednesday through Friday before being ruled out for Week 4 action. With Ferguson out for at least the next four games and Colby Parkinson (shoulder) questionable for Sunday's road matchup with the Eagles, Davis Allen, Tyler Higbee and rookie second-round pick Max Klare are the current healthy TEs on L.A.'s active roster.",
       "description": "The Rams placed Ferguson (ankle) on injured reserve Friday.",
       "metadata": {
@@ -327,6 +706,46 @@
       "story_id": "nfl|12487|rotowire|640352|1790978215000",
       "title": "Terrance Ferguson - Lands on injured reserve",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens kicker Tyler Loop overcame his 2025 Week 18 demons in the final seconds of the Week 3 matchup against the Dallas Cowboys in Brazil, nailing a 56-yard game-winning field goal as time expired. The AFC Special Teams Player of the Week also made a 27-yard field goal in the second quarter and all four of his point-after attempts. The Ravens' offense enters Week 4 with one of the slate's highest implied point totals at home against the Tennessee Titans, which should give Loop plenty of chances to split the uprights. With injuries to the Ravens' offensive line, the offense has a higher chance to stall within Loop's 50+-yard field goal range, giving the second-year kicker additional upside for fantasy managers. However, there is a 55% chance of rain in Baltimore at kickoff, though winds should remain relatively low. Fantasy managers should be mindful of local weather reports in case conditions worsen Sunday morning. Even so, Loop is RotoBaller's number two overall kicker for Week 4 and, with the Ravens having a late bye week this season, he is shaping up to be a long-term hold option for managers who want to avoid streaming the position.",
+      "metadata": {
+        "description": "Baltimore Ravens kicker Tyler Loop overcame his 2025 Week 18 demons in the final seconds of the Week 3 matchup against the Dallas Cowboys in Brazil, nailing a 56-yard game-winning field goal as time expired. The AFC Special Teams Player of the Week also made a 27-yard field goal in the second quarter and all four of his point-after attempts. The Ravens' offense enters Week 4 with one of the slate's highest implied point totals at home against the Tennessee Titans, which should give Loop plenty of chances to split the uprights. With injuries to the Ravens' offensive line, the offense has a higher chance to stall within Loop's 50+-yard field goal range, giving the second-year kicker additional upside for fantasy managers. However, there is a 55% chance of rain in Baltimore at kickoff, though winds should remain relatively low. Fantasy managers should be mindful of local weather reports in case conditions worsen Sunday morning. Even so, Loop is RotoBaller's number two overall kicker for Week 4 and, with the Ravens having a late bye week this season, he is shaping up to be a long-term hold option for managers who want to avoid streaming the position.",
+        "title": "Tyler Loop Looks to Maintain Hero Status in Week 4",
+        "topic_id": "1411929843196600320",
+        "url": "https://www.rotoballer.com/player-news/tyler-loop-looks-to-maintain-hero-status-in-week-4/1956660"
+      },
+      "nfl_team": "BAL",
+      "player_id": "12711",
+      "player_name": "Tyler Loop",
+      "position": "K",
+      "published": 1790978049000,
+      "source": "rotoballer",
+      "source_key": "223022",
+      "story_id": "nfl|12711|rotoballer|223022|1790978049000",
+      "title": "Tyler Loop Looks to Maintain Hero Status in Week 4",
+      "url": "https://www.rotoballer.com/player-news/tyler-loop-looks-to-maintain-hero-status-in-week-4/1956660"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks running back Zach Charbonnet (knee) won't be available for the upcoming Week 4 matchup against the Los Angeles Chargers. The Seahawks recently opened his practice window, but he remains ineligible for Week 4. According to Brady Henderson, Charbonnet has been looking fantastic in practice. It sounds like Charbonnet is recovering well from the torn ACL he suffered last season. There's a chance that Charbonnet is back in the mix for the Week 5 matchup against the San Francisco 49ers. Emanuel Wilson will likely be the lead back this weekend, with Jadarian Price (chest) also sidelined.",
+      "metadata": {
+        "description": "Seattle Seahawks running back Zach Charbonnet (knee) won't be available for the upcoming Week 4 matchup against the Los Angeles Chargers. The Seahawks recently opened his practice window, but he remains ineligible for Week 4. According to Brady Henderson, Charbonnet has been looking fantastic in practice. It sounds like Charbonnet is recovering well from the torn ACL he suffered last season. There's a chance that Charbonnet is back in the mix for the Week 5 matchup against the San Francisco 49ers. Emanuel Wilson will likely be the lead back this weekend, with Jadarian Price (chest) also sidelined.",
+        "title": "Zach Charbonnet Looks Fantastic During Practice",
+        "topic_id": "1411929843200794624",
+        "url": "https://www.rotoballer.com/player-news/zach-charbonnet-looks-fantastic-during-practice/1956658"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9753",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "published": 1790977989000,
+      "source": "rotoballer",
+      "source_key": "223023",
+      "story_id": "nfl|9753|rotoballer|223023|1790977989000",
+      "title": "Zach Charbonnet Looks Fantastic During Practice",
+      "url": "https://www.rotoballer.com/player-news/zach-charbonnet-looks-fantastic-during-practice/1956658"
     },
     {
       "analysis": "Raridon was a limited participant in all three practices during Week 4 prep, which was enough for the rookie third-rounder to draw the questionable tag for Sunday's AFC East showdown. If Raridon is cleared to play, then he would slot behind Hunter Henry on the tight end depth chart ahead of Cameron Latu and Tanner Arkin.",
@@ -349,6 +768,66 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Seattle Seahawks running back Emanuel Wilson is in line for a big role in Week 4 against the Los Angeles Chargers. The Seahawks will be without rookie running back Jadarian Price (chest), who picked up two DNPs to end the practice week. Wilson has been the preferred running back for carry volume behind Price throughout this season. Wilson has not been a particularly efficient runner this season, but he did manage 92 yards on 21 carries in Week 2 mop-up duty. Seattle figures to play from ahead for most of their matchup with the Chargers this weekend, which should provide Wilson with plenty of chances for touches. Wilson is unlikely to see much receiving volume this week, but he is the Seahawks' goal line back. As such, he should have a chance to fall into the end zone this weekend and accumulate decent yardage. He is a risky play because of his lack of passing game usage, but he will be the starting running back on a good offense this week. Wilson can be best viewed as a flex play in Week 4.",
+      "metadata": {
+        "description": "Seattle Seahawks running back Emanuel Wilson is in line for a big role in Week 4 against the Los Angeles Chargers. The Seahawks will be without rookie running back Jadarian Price (chest), who picked up two DNPs to end the practice week. Wilson has been the preferred running back for carry volume behind Price throughout this season. Wilson has not been a particularly efficient runner this season, but he did manage 92 yards on 21 carries in Week 2 mop-up duty. Seattle figures to play from ahead for most of their matchup with the Chargers this weekend, which should provide Wilson with plenty of chances for touches. Wilson is unlikely to see much receiving volume this week, but he is the Seahawks' goal line back. As such, he should have a chance to fall into the end zone this weekend and accumulate decent yardage. He is a risky play because of his lack of passing game usage, but he will be the starting running back on a good offense this week. Wilson can be best viewed as a flex play in Week 4.",
+        "title": "Emanuel Wilson a Potential Flex Play in Week 4",
+        "topic_id": "1411927326689644545",
+        "url": "https://www.rotoballer.com/player-news/emanuel-wilson-a-potential-flex-play-in-week-4/1956642"
+      },
+      "nfl_team": "SEA",
+      "player_id": "11435",
+      "player_name": "Emanuel Wilson",
+      "position": "RB",
+      "published": 1790977454000,
+      "source": "rotoballer",
+      "source_key": "223018",
+      "story_id": "nfl|11435|rotoballer|223018|1790977454000",
+      "title": "Emanuel Wilson a Potential Flex Play in Week 4",
+      "url": "https://www.rotoballer.com/player-news/emanuel-wilson-a-potential-flex-play-in-week-4/1956642"
+    },
+    {
+      "analysis": null,
+      "description": "Three games into his 2026 season, Detroit Lions kicker Jake Bates has connected on all three of his field goal attempts and converted all 12 of his extra point tries. While the 27-year-old has been effective so far and Detroit is averaging 31 points per game, Bates' fantasy production has been held down by the Lions' touchdown-scoring efficiency so far in 2026. In Week 4, Detroit will travel to Carolina to take on the Panthers. While the matchup profiles as a potentially high-scoring affair on paper, the weather forecast in Charlotte on Sunday currently calls for rain and some wind. If the elements are indeed a factor, fantasy managers should try to avoid Bates in Week 4.",
+      "metadata": {
+        "description": "Three games into his 2026 season, Detroit Lions kicker Jake Bates has connected on all three of his field goal attempts and converted all 12 of his extra point tries. While the 27-year-old has been effective so far and Detroit is averaging 31 points per game, Bates' fantasy production has been held down by the Lions' touchdown-scoring efficiency so far in 2026. In Week 4, Detroit will travel to Carolina to take on the Panthers. While the matchup profiles as a potentially high-scoring affair on paper, the weather forecast in Charlotte on Sunday currently calls for rain and some wind. If the elements are indeed a factor, fantasy managers should try to avoid Bates in Week 4.",
+        "title": "Jake Bates a Risky Kicker Option in Week 4",
+        "topic_id": "1411927326807085056",
+        "url": "https://www.rotoballer.com/player-news/jake-bates-a-risky-kicker-option-in-week-4/1956640"
+      },
+      "nfl_team": "DET",
+      "player_id": "11539",
+      "player_name": "Jake Bates",
+      "position": "K",
+      "published": 1790977449000,
+      "source": "rotoballer",
+      "source_key": "223019",
+      "story_id": "nfl|11539|rotoballer|223019|1790977449000",
+      "title": "Jake Bates a Risky Kicker Option in Week 4",
+      "url": "https://www.rotoballer.com/player-news/jake-bates-a-risky-kicker-option-in-week-4/1956640"
+    },
+    {
+      "analysis": null,
+      "description": "Three games into his 2026 season, Detroit Lions wide receiver Isaac TeSlaa has recorded five catches for 92 yards on nine targets. While TeSlaa's overall line is underwhelming, he's coming off a season-high 60-yard performance in Detroit's Week 3 win over the New York Jets. In Week 4, Detroit will take on a Carolina Panthers defense that has allowed the fifth-fewest yards per pass attempt (6.1) in the NFL through three weeks. However, Carolina's secondary is shorthanded, as starting cornerbacks Jaycee Horn (quad) and Mike Jackson (groin) were both placed on Injured Reserve on Wednesday. With top Lions wideouts Amon-Ra St. Brown and Jameson Williams occupying Carolina's defensive attention, TeSlaa could see some favorable matchups against reserve defensive backs. The Panthers offense should also be able to move the ball against Detroit's 32nd-ranked scoring defense, which could force the Lions offense into a pass-heavy game script. In deeper leagues, TeSlaa could be a decent desperation flex option for fantasy managers in Week 4.",
+      "metadata": {
+        "description": "Three games into his 2026 season, Detroit Lions wide receiver Isaac TeSlaa has recorded five catches for 92 yards on nine targets. While TeSlaa's overall line is underwhelming, he's coming off a season-high 60-yard performance in Detroit's Week 3 win over the New York Jets. In Week 4, Detroit will take on a Carolina Panthers defense that has allowed the fifth-fewest yards per pass attempt (6.1) in the NFL through three weeks. However, Carolina's secondary is shorthanded, as starting cornerbacks Jaycee Horn (quad) and Mike Jackson (groin) were both placed on Injured Reserve on Wednesday. With top Lions wideouts Amon-Ra St. Brown and Jameson Williams occupying Carolina's defensive attention, TeSlaa could see some favorable matchups against reserve defensive backs. The Panthers offense should also be able to move the ball against Detroit's 32nd-ranked scoring defense, which could force the Lions offense into a pass-heavy game script. In deeper leagues, TeSlaa could be a decent desperation flex option for fantasy managers in Week 4.",
+        "title": "Isaac TeSlaa Carries Some Deep-League Flex Intrigue in Week 4",
+        "topic_id": "1411927326794502144",
+        "url": "https://www.rotoballer.com/player-news/isaac-teslaa-carries-some-deep-league-flex-intrigue-in-week-4/1956636"
+      },
+      "nfl_team": "DET",
+      "player_id": "12535",
+      "player_name": "Isaac TeSlaa",
+      "position": "WR",
+      "published": 1790977328000,
+      "source": "rotoballer",
+      "source_key": "223020",
+      "story_id": "nfl|12535|rotoballer|223020|1790977328000",
+      "title": "Isaac TeSlaa Carries Some Deep-League Flex Intrigue in Week 4",
+      "url": "https://www.rotoballer.com/player-news/isaac-teslaa-carries-some-deep-league-flex-intrigue-in-week-4/1956636"
+    },
+    {
       "analysis": "The veteran was able to practice twice this week, but that's not enough to give the team the confidence they need to play him this week, so he will remain out against the Chargers. Fantasy managers should expect Charbonnet to be back in the lineup sometime within the next few weeks, however, which will mean less work for Emmanuel Wilson and Jadarian Price (chest) moving forward.",
       "description": "Zach Charbonnet (knee) won't play in Sunday's game against the Los Angeles Chargers.",
       "metadata": {
@@ -368,6 +847,86 @@
       "story_id": "nfl|9753|fantasy_pros|611961|1790977240912",
       "title": "Zach Charbonnet (knee) won't play Sunday",
       "url": "https://www.fantasypros.com/nfl/news/611961/zach-charbonnet-knee-wont-play-sunday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Keaton Mitchell (ankle) has been cleared to play during the upcoming Week 4 matchup against the Seattle Seahawks. Mitchell was limited in practice on Wednesday and Thursday before getting through a full session on Friday. It appears the ankle issue won't be enough to keep him sidelined this weekend. Mitchell will serve as the primary backup to Omarion Hampton against a tough Seahawks defense. He looked decent on the ground last week when he rushed for 52 yards, but Mitchell remains a shaky fantasy option.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Keaton Mitchell (ankle) has been cleared to play during the upcoming Week 4 matchup against the Seattle Seahawks. Mitchell was limited in practice on Wednesday and Thursday before getting through a full session on Friday. It appears the ankle issue won't be enough to keep him sidelined this weekend. Mitchell will serve as the primary backup to Omarion Hampton against a tough Seahawks defense. He looked decent on the ground last week when he rushed for 52 yards, but Mitchell remains a shaky fantasy option.",
+        "title": "Keaton Mitchell is Ready to Go for Week 4",
+        "topic_id": "1411926068318752768",
+        "url": "https://www.rotoballer.com/player-news/keaton-mitchell-is-ready-to-go-for-week-4/1956630"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1790977118000,
+      "source": "rotoballer",
+      "source_key": "223016",
+      "story_id": "nfl|9511|rotoballer|223016|1790977118000",
+      "title": "Keaton Mitchell is Ready to Go for Week 4",
+      "url": "https://www.rotoballer.com/player-news/keaton-mitchell-is-ready-to-go-for-week-4/1956630"
+    },
+    {
+      "analysis": null,
+      "description": "Across three games so far in 2026, Detroit Lions tight end Sam LaPorta has recorded 14 catches for 144 yards and a touchdown on 19 targets. The 25-year-old is coming off his least productive game of the young season, as he recorded just three catches for 44 yards on four targets against the New York Jets. However, LaPorta will have a chance to bounce back in Week 4 against the Carolina Panthers. The Panthers had a tough time containing Cleveland Browns tight end Harold Fannin Jr. in Week 3, allowing him to record 51 receiving yards and two touchdowns on nine targets. Carolina's potent passing offense should also be able to move the ball against the Lions' struggling secondary, which could lead to a high-scoring, pass-heavy game script for both teams. As long as Detroit quarterback Jared Goff continues to throw the ball at his current rate (36.3 pass attempts per game), LaPorta has a chance for big production. He profiles as a solid TE1 option for fantasy managers in Week 4.",
+      "metadata": {
+        "description": "Across three games so far in 2026, Detroit Lions tight end Sam LaPorta has recorded 14 catches for 144 yards and a touchdown on 19 targets. The 25-year-old is coming off his least productive game of the young season, as he recorded just three catches for 44 yards on four targets against the New York Jets. However, LaPorta will have a chance to bounce back in Week 4 against the Carolina Panthers. The Panthers had a tough time containing Cleveland Browns tight end Harold Fannin Jr. in Week 3, allowing him to record 51 receiving yards and two touchdowns on nine targets. Carolina's potent passing offense should also be able to move the ball against the Lions' struggling secondary, which could lead to a high-scoring, pass-heavy game script for both teams. As long as Detroit quarterback Jared Goff continues to throw the ball at his current rate (36.3 pass attempts per game), LaPorta has a chance for big production. He profiles as a solid TE1 option for fantasy managers in Week 4.",
+        "title": "Sam LaPorta Has a Chance to Bounce Back in Week 4",
+        "topic_id": "1411924809880801280",
+        "url": "https://www.rotoballer.com/player-news/sam-laporta-has-a-chance-to-bounce-back-in-week-4/1956624"
+      },
+      "nfl_team": "DET",
+      "player_id": "10859",
+      "player_name": "Sam LaPorta",
+      "position": "TE",
+      "published": 1790976729000,
+      "source": "rotoballer",
+      "source_key": "223015",
+      "story_id": "nfl|10859|rotoballer|223015|1790976729000",
+      "title": "Sam LaPorta Has a Chance to Bounce Back in Week 4",
+      "url": "https://www.rotoballer.com/player-news/sam-laporta-has-a-chance-to-bounce-back-in-week-4/1956624"
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions wide receiver Jameson Williams has not quite gotten going in the early part of the 2026 season, recording 10 catches for 127 yards and zero touchdowns on 17 targets across three games. The 25-year-old has taken a back seat in his team's passing game so far, ranking fourth on the Lions in targets behind wide receiver Amon-Ra St. Brown, running back Jahmyr Gibbs, and tight end Sam LaPorta. As long as all of Detroit's main pass-catchers stay healthy, Williams may have trouble providing fantasy managers with consistent production. Still, Williams' big-play ability makes him a threat to go off in any given week. Week 4 might be a decent time for fantasy managers to bet on Williams, as he will take on the Carolina Panthers. Carolina has allowed the fifth-fewest yards per pass attempt (6.1) in the NFL through three weeks, but they also placed starting cornerbacks Jaycee Horn (quad) and Mike Jackson (groin) on Injured Reserve on Wednesday. In a relatively favorable matchup on paper, Williams profiles as a high-end WR3/flex option for fantasy managers in Week 4.",
+      "metadata": {
+        "description": "Detroit Lions wide receiver Jameson Williams has not quite gotten going in the early part of the 2026 season, recording 10 catches for 127 yards and zero touchdowns on 17 targets across three games. The 25-year-old has taken a back seat in his team's passing game so far, ranking fourth on the Lions in targets behind wide receiver Amon-Ra St. Brown, running back Jahmyr Gibbs, and tight end Sam LaPorta. As long as all of Detroit's main pass-catchers stay healthy, Williams may have trouble providing fantasy managers with consistent production. Still, Williams' big-play ability makes him a threat to go off in any given week. Week 4 might be a decent time for fantasy managers to bet on Williams, as he will take on the Carolina Panthers. Carolina has allowed the fifth-fewest yards per pass attempt (6.1) in the NFL through three weeks, but they also placed starting cornerbacks Jaycee Horn (quad) and Mike Jackson (groin) on Injured Reserve on Wednesday. In a relatively favorable matchup on paper, Williams profiles as a high-end WR3/flex option for fantasy managers in Week 4.",
+        "title": "Jameson Williams Could Be Poised for Breakout Game in Week 4",
+        "topic_id": "1411923550893305856",
+        "url": "https://www.rotoballer.com/player-news/jameson-williams-could-be-poised-for-breakout-game-in-week-4/1956619"
+      },
+      "nfl_team": "DET",
+      "player_id": "8148",
+      "player_name": "Jameson Williams",
+      "position": "WR",
+      "published": 1790976549000,
+      "source": "rotoballer",
+      "source_key": "223012",
+      "story_id": "nfl|8148|rotoballer|223012|1790976549000",
+      "title": "Jameson Williams Could Be Poised for Breakout Game in Week 4",
+      "url": "https://www.rotoballer.com/player-news/jameson-williams-could-be-poised-for-breakout-game-in-week-4/1956619"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens running back Derrick Henry will face the Tennessee Titans for the first time in his career in Week 4 and is positioned for another bell-cow week. Last week against the Dallas Cowboys in Rio de Janeiro, Henry turned his 26 rushing attempts into 89 yards and two touchdowns, while also logging one reception for zero yards. The 32-year-old running back is dominating the Ravens' rush share, averaging 84% across the first three games. The Ravens are a heavy favorite in Week 4, which is likely to benefit Henry, who leads all qualified rushers in attempts (41), yards (220), and touchdowns (2) when playing with a lead. However, the Ravens' wounded offensive line raises concerns, with starting center Jovaughn Gwyn (ankle) and backup center Ethan Pocic (knee) both ruled out ahead of Week 4. Offensive tackle Ronnie Stanley (toe), who missed Week 3, is questionable heading into the weekend after two limited practices to start the week and missing Friday due to rest. The Titans' run defense ranks top 12 in yards per rushing attempt allowed, but gives up an average of 126 rushing yards per game, and they have the third-highest opposition rush rate of 54%. Also, the Titans' interior linemen are allowing the fifth-fewest yards before contact per carry (0.8) and have the seventh-highest rate of hitting ball carriers at or behind the line of scrimmage (44.2%), according to Next Gen Stats. This should not deter managers from starting Henry, RotoBaller's sixth-ranked running back, with confidence in Week 4 as their fantasy team's RB1.",
+      "metadata": {
+        "description": "Baltimore Ravens running back Derrick Henry will face the Tennessee Titans for the first time in his career in Week 4 and is positioned for another bell-cow week. Last week against the Dallas Cowboys in Rio de Janeiro, Henry turned his 26 rushing attempts into 89 yards and two touchdowns, while also logging one reception for zero yards. The 32-year-old running back is dominating the Ravens' rush share, averaging 84% across the first three games. The Ravens are a heavy favorite in Week 4, which is likely to benefit Henry, who leads all qualified rushers in attempts (41), yards (220), and touchdowns (2) when playing with a lead. However, the Ravens' wounded offensive line raises concerns, with starting center Jovaughn Gwyn (ankle) and backup center Ethan Pocic (knee) both ruled out ahead of Week 4. Offensive tackle Ronnie Stanley (toe), who missed Week 3, is questionable heading into the weekend after two limited practices to start the week and missing Friday due to rest. The Titans' run defense ranks top 12 in yards per rushing attempt allowed, but gives up an average of 126 rushing yards per game, and they have the third-highest opposition rush rate of 54%. Also, the Titans' interior linemen are allowing the fifth-fewest yards before contact per carry (0.8) and have the seventh-highest rate of hitting ball carriers at or behind the line of scrimmage (44.2%), according to Next Gen Stats. This should not deter managers from starting Henry, RotoBaller's sixth-ranked running back, with confidence in Week 4 as their fantasy team's RB1.",
+        "title": "Derrick Henry Ready to Roll Against Former Team in Week 4",
+        "topic_id": "1411923550889111552",
+        "url": "https://www.rotoballer.com/player-news/derrick-henry-ready-to-roll-against-former-team-in-week-4/1956613"
+      },
+      "nfl_team": "BAL",
+      "player_id": "3198",
+      "player_name": "Derrick Henry",
+      "position": "RB",
+      "published": 1790976429000,
+      "source": "rotoballer",
+      "source_key": "223013",
+      "story_id": "nfl|3198|rotoballer|223013|1790976429000",
+      "title": "Derrick Henry Ready to Roll Against Former Team in Week 4",
+      "url": "https://www.rotoballer.com/player-news/derrick-henry-ready-to-roll-against-former-team-in-week-4/1956613"
     },
     {
       "analysis": "McConkey is uncertain to play in Week 4. He is dealing with a foot injury of some kind and was limited at practice on Friday because of it, but the team will wait until closer to game time before making an official determination about his status. Fantasy managers should look for Oronde Gadsden II to see more work if McConkey is unavailable to play this week, though it would be hard to start any Chargers in this tough matchup against Seattle if that's the case.",
@@ -412,6 +971,46 @@
       "url": "https://www.fantasypros.com/nfl/news/611955/keaton-mitchell-ankle-without-injury-designation-sunday.php"
     },
     {
+      "analysis": null,
+      "description": "Baltimore Ravens quarterback Lamar Jackson (back) looks to carry the momentum from the team's thrilling 34-31 win over the Dallas Cowboys in Brazil into Week 4 at home against the Tennessee Titans. The veteran quarterback did pop up on the injury report with a limited practice on Wednesday. Still, he logged two full practices to finish the week and heads into the weekend without an injury designation. In Rio de Janeiro, Lamar was efficient, completing 15 of 20 passes for 186 yards and two passing touchdowns, logging a 136.7 passer rating, which led all quarterbacks in Week 3. Fantasy managers were also pleased with Jackson's season-high 50 rushing yards, 33 of which were off two designed rushing attempts, also a season-high. According to Next Gen Stats, Jackson has scrambled to run on 12% of his dropbacks this season, the fourth-highest rate among qualified quarterbacks, accounting for 89 scramble rush yards, the fifth-highest in the league. Interestingly, the Titans' pass defense has allowed quarterbacks to scramble and run on 7.3% of dropbacks this season, the sixth-highest rate after three weeks, which should enable the elusive play caller to continue his success on the ground. This scramble ability may become even more necessary with the Ravens' depleted offensive line, but the Titans are allowing the NFL's longest quarterback time to throw (3.12 seconds), a bottom-third quarterback pressure rate of 33.3%, and second-lowest pressure rate against play action (17.4%) thus far. Lamar's favorite target, wide receiver Zay Flowers (hamstring), should be back to a full workload if he is active, which is likely to boost the two-time MVP's ability to generate more fantasy points through the air. Lamar Jackson remains a locked-in QB1 starter for fantasy managers across all league formats.",
+      "metadata": {
+        "description": "Baltimore Ravens quarterback Lamar Jackson (back) looks to carry the momentum from the team's thrilling 34-31 win over the Dallas Cowboys in Brazil into Week 4 at home against the Tennessee Titans. The veteran quarterback did pop up on the injury report with a limited practice on Wednesday. Still, he logged two full practices to finish the week and heads into the weekend without an injury designation. In Rio de Janeiro, Lamar was efficient, completing 15 of 20 passes for 186 yards and two passing touchdowns, logging a 136.7 passer rating, which led all quarterbacks in Week 3. Fantasy managers were also pleased with Jackson's season-high 50 rushing yards, 33 of which were off two designed rushing attempts, also a season-high. According to Next Gen Stats, Jackson has scrambled to run on 12% of his dropbacks this season, the fourth-highest rate among qualified quarterbacks, accounting for 89 scramble rush yards, the fifth-highest in the league. Interestingly, the Titans' pass defense has allowed quarterbacks to scramble and run on 7.3% of dropbacks this season, the sixth-highest rate after three weeks, which should enable the elusive play caller to continue his success on the ground. This scramble ability may become even more necessary with the Ravens' depleted offensive line, but the Titans are allowing the NFL's longest quarterback time to throw (3.12 seconds), a bottom-third quarterback pressure rate of 33.3%, and second-lowest pressure rate against play action (17.4%) thus far. Lamar's favorite target, wide receiver Zay Flowers (hamstring), should be back to a full workload if he is active, which is likely to boost the two-time MVP's ability to generate more fantasy points through the air. Lamar Jackson remains a locked-in QB1 starter for fantasy managers across all league formats.",
+        "title": "Lamar Jackson Riding High into Week 4 Against the Tennessee Titans",
+        "topic_id": "1411923551014940672",
+        "url": "https://www.rotoballer.com/player-news/lamar-jackson-riding-high-into-week-4-against-the-tennessee-titans/1956611"
+      },
+      "nfl_team": "BAL",
+      "player_id": "4881",
+      "player_name": "Lamar Jackson",
+      "position": "QB",
+      "published": 1790976309000,
+      "source": "rotoballer",
+      "source_key": "223014",
+      "story_id": "nfl|4881|rotoballer|223014|1790976309000",
+      "title": "Lamar Jackson Riding High into Week 4 Against the Tennessee Titans",
+      "url": "https://www.rotoballer.com/player-news/lamar-jackson-riding-high-into-week-4-against-the-tennessee-titans/1956611"
+    },
+    {
+      "analysis": null,
+      "description": "Detroit Lions wide receiver Amon-Ra St. Brown had a quiet game by his lofty standards in Week 3, recording four catches for 19 yards and a touchdown on eight targets against the New York Jets. However, the 26-year-old is still off to an excellent start to the season, as he's hauled in 23 receptions for 225 yards and five touchdowns on 35 targets across three games. In Week 4, St. Brown and the Lions will go on the road to take on the Carolina Panthers. The Panthers have been tough to throw on so far in 2026, allowing the fifth-fewest yards per pass attempt (6.1) in the NFL. However, Carolina placed starting cornerbacks Jaycee Horn (quad) and Mike Jackson (groin) on Injured Reserve on Wednesday. Particularly if the Lions' defense continues to struggle and Detroit is forced to turn to the air, St. Brown could be well-positioned to have a big day. Even coming off the down week, St. Brown remains a must-start WR1 option for fantasy managers in Week 4.",
+      "metadata": {
+        "description": "Detroit Lions wide receiver Amon-Ra St. Brown had a quiet game by his lofty standards in Week 3, recording four catches for 19 yards and a touchdown on eight targets against the New York Jets. However, the 26-year-old is still off to an excellent start to the season, as he's hauled in 23 receptions for 225 yards and five touchdowns on 35 targets across three games. In Week 4, St. Brown and the Lions will go on the road to take on the Carolina Panthers. The Panthers have been tough to throw on so far in 2026, allowing the fifth-fewest yards per pass attempt (6.1) in the NFL. However, Carolina placed starting cornerbacks Jaycee Horn (quad) and Mike Jackson (groin) on Injured Reserve on Wednesday. Particularly if the Lions' defense continues to struggle and Detroit is forced to turn to the air, St. Brown could be well-positioned to have a big day. Even coming off the down week, St. Brown remains a must-start WR1 option for fantasy managers in Week 4.",
+        "title": "Amon-Ra St. Brown Remains a High-End WR1 Option in Week 4",
+        "topic_id": "1411922293008965632",
+        "url": "https://www.rotoballer.com/player-news/amon-ra-st-brown-remains-a-high-end-wr1-option-in-week-4/1956606"
+      },
+      "nfl_team": "DET",
+      "player_id": "7547",
+      "player_name": "Amon-Ra St. Brown",
+      "position": "WR",
+      "published": 1790976129000,
+      "source": "rotoballer",
+      "source_key": "223010",
+      "story_id": "nfl|7547|rotoballer|223010|1790976129000",
+      "title": "Amon-Ra St. Brown Remains a High-End WR1 Option in Week 4",
+      "url": "https://www.rotoballer.com/player-news/amon-ra-st-brown-remains-a-high-end-wr1-option-in-week-4/1956606"
+    },
+    {
       "analysis": "Ferguson underwent X-rays on an ankle injury during this past Sunday's loss at Denver, and while he was able to return to the contest, he then didn't practice in any capacity Wednesday through Friday before being ruled out for Week 4 action. With Ferguson out for at least the next four games and Colby Parkinson (shoulder) questionable for Sunday's road matchup with the Eagles, Davis Allen, Tyler Higbee and rookie second-round pick Max Klare are the current healthy TEs on L.A.'s active roster.",
       "description": "The Rams placed Ferguson (ankle) on injured reserve Friday.",
       "metadata": {
@@ -432,11 +1031,71 @@
       "url": null
     },
     {
-      "analysis": "With Charbonnet still on the reserve/PUP list after being designated to return to practice Thursday, he remains ineligible for Week 4. Jadarian Price (chest) is also out for Seattle, leaving Emanuel Wilson and George Holani as the team's main RBs for a home game against the Chargers on Sunday.",
-      "description": "Charbonnet (knee) was a limited practice participant Thursday and Friday, John Boyle of seahawks.com reports.",
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Courtland Sutton has not been able to find much success early in the season. Heading into Week 4, Sutton has recorded eight receptions on 16 targets for 82 yards with zero touchdowns. The veteran wideout did finish with a team-high 46 receiving yards last week. The expectation was that the addition of Jaylen Waddle this offseason would hurt Sutton, but it wasn't supposed to make him irrelevant. Fantasy managers shouldn't give up on the veteran wideout just yet. He has posted top-15 seasons in each of the last two years, so give him some time to get going. We'll see if it gets better for Sutton against the San Francisco 49ers in Week 4.",
       "metadata": {
-        "analysis": "With Charbonnet still on the reserve/PUP list after being designated to return to practice Thursday, he remains ineligible for Week 4. Jadarian Price (chest) is also out for Seattle, leaving Emanuel Wilson and George Holani as the team's main RBs for a home game against the Chargers on Sunday.",
-        "description": "Charbonnet (knee) was a limited practice participant Thursday and Friday, John Boyle of seahawks.com reports.",
+        "description": "Denver Broncos wide receiver Courtland Sutton has not been able to find much success early in the season. Heading into Week 4, Sutton has recorded eight receptions on 16 targets for 82 yards with zero touchdowns. The veteran wideout did finish with a team-high 46 receiving yards last week. The expectation was that the addition of Jaylen Waddle this offseason would hurt Sutton, but it wasn't supposed to make him irrelevant. Fantasy managers shouldn't give up on the veteran wideout just yet. He has posted top-15 seasons in each of the last two years, so give him some time to get going. We'll see if it gets better for Sutton against the San Francisco 49ers in Week 4.",
+        "title": "Courtland Sutton is Struggling to Make an Impact",
+        "topic_id": "1411921033971138560",
+        "url": "https://www.rotoballer.com/player-news/courtland-sutton-is-struggling-to-make-an-impact/1956595"
+      },
+      "nfl_team": "DEN",
+      "player_id": "5045",
+      "player_name": "Courtland Sutton",
+      "position": "WR",
+      "published": 1790975773000,
+      "source": "rotoballer",
+      "source_key": "223007",
+      "story_id": "nfl|5045|rotoballer|223007|1790975773000",
+      "title": "Courtland Sutton is Struggling to Make an Impact",
+      "url": "https://www.rotoballer.com/player-news/courtland-sutton-is-struggling-to-make-an-impact/1956595"
+    },
+    {
+      "analysis": null,
+      "description": "Across three games so far in 2026, Detroit Lions running back Jahmyr Gibbs has recorded 463 scrimmage yards and six touchdowns on 83 touches. Gibbs has been productive on the ground, averaging over 100 rushing yards per game and collecting four rushing touchdowns. He's also taken on an even larger role in the Lions' passing game this season, hauling in 18 catches for 156 yards and two touchdowns on 21 targets. Gibbs could be poised for another high-usage day in Week 4 against the Carolina Panthers. The Panthers have had major issues defending the run so far this season, allowing an NFL-worst 5.7 yards per carry and six total rushing touchdowns. Even if the Lions find themselves chasing points, Gibbs' involvement as a receiver out of the backfield should provide him with a safe production floor. Gibbs profiles as a must-start, high-end RB1 option for fantasy managers in Week 4.",
+      "metadata": {
+        "description": "Across three games so far in 2026, Detroit Lions running back Jahmyr Gibbs has recorded 463 scrimmage yards and six touchdowns on 83 touches. Gibbs has been productive on the ground, averaging over 100 rushing yards per game and collecting four rushing touchdowns. He's also taken on an even larger role in the Lions' passing game this season, hauling in 18 catches for 156 yards and two touchdowns on 21 targets. Gibbs could be poised for another high-usage day in Week 4 against the Carolina Panthers. The Panthers have had major issues defending the run so far this season, allowing an NFL-worst 5.7 yards per carry and six total rushing touchdowns. Even if the Lions find themselves chasing points, Gibbs' involvement as a receiver out of the backfield should provide him with a safe production floor. Gibbs profiles as a must-start, high-end RB1 option for fantasy managers in Week 4.",
+        "title": "Jahmyr Gibbs Could Be Poised for Monster Week in Favorable Week 4 Matchup",
+        "topic_id": "1411921034021470208",
+        "url": "https://www.rotoballer.com/player-news/jahmyr-gibbs-could-be-poised-for-monster-week-in-favorable-week-4-matchup/1956592"
+      },
+      "nfl_team": "DET",
+      "player_id": "9221",
+      "player_name": "Jahmyr Gibbs",
+      "position": "RB",
+      "published": 1790975709000,
+      "source": "rotoballer",
+      "source_key": "223008",
+      "story_id": "nfl|9221|rotoballer|223008|1790975709000",
+      "title": "Jahmyr Gibbs Could Be Poised for Monster Week in Favorable Week 4 Matchup",
+      "url": "https://www.rotoballer.com/player-news/jahmyr-gibbs-could-be-poised-for-monster-week-in-favorable-week-4-matchup/1956592"
+    },
+    {
+      "analysis": null,
+      "description": "Three games into his 2026 season, Detroit Lions quarterback Jared Goff has completed 70.6% of his pass attempts for 806 yards, eight touchdowns, and zero interceptions. With the Lions' defense struggling, Goff is averaging 36.3 pass attempts per game and has led the Detroit offense to three straight 30-plus-point performances. In Week 4, Goff and the Lions could find themselves in another high-scoring affair against the Carolina Panthers. Carolina has been fairly stingy against the pass so far this season, allowing the fifth-fewest yards per pass attempt (6.1) in the NFL. However, the Panthers placed starting cornerbacks Jaycee Horn (quad) and Mike Jackson (groin) on Injured Reserve on Wednesday. If Carolina's offense torches Detroit's 32nd-ranked pass defense, Goff could turn to the air early and often against the Panthers' banged-up secondary. Fantasy managers should view Goff as a solid QB1 option in Week 4.",
+      "metadata": {
+        "description": "Three games into his 2026 season, Detroit Lions quarterback Jared Goff has completed 70.6% of his pass attempts for 806 yards, eight touchdowns, and zero interceptions. With the Lions' defense struggling, Goff is averaging 36.3 pass attempts per game and has led the Detroit offense to three straight 30-plus-point performances. In Week 4, Goff and the Lions could find themselves in another high-scoring affair against the Carolina Panthers. Carolina has been fairly stingy against the pass so far this season, allowing the fifth-fewest yards per pass attempt (6.1) in the NFL. However, the Panthers placed starting cornerbacks Jaycee Horn (quad) and Mike Jackson (groin) on Injured Reserve on Wednesday. If Carolina's offense torches Detroit's 32nd-ranked pass defense, Goff could turn to the air early and often against the Panthers' banged-up secondary. Fantasy managers should view Goff as a solid QB1 option in Week 4.",
+        "title": "Jared Goff a Solid QB1 Option in Week 4",
+        "topic_id": "1411918620686082048",
+        "url": "https://www.rotoballer.com/player-news/jared-goff-a-solid-qb1-option-in-week-4/1956587"
+      },
+      "nfl_team": "DET",
+      "player_id": "3163",
+      "player_name": "Jared Goff",
+      "position": "QB",
+      "published": 1790975589000,
+      "source": "rotoballer",
+      "source_key": "223005",
+      "story_id": "nfl|3163|rotoballer|223005|1790975589000",
+      "title": "Jared Goff a Solid QB1 Option in Week 4",
+      "url": "https://www.rotoballer.com/player-news/jared-goff-a-solid-qb1-option-in-week-4/1956587"
+    },
+    {
+      "analysis": "With Charbonnet still on the reserve/PUP list after being designated to return to practice Thursday, he remains ineligible for Week 4. Jadarian Price (chest) also is out for Seattle, leaving Emanuel Wilson and George Holani as the team's main RBs for a home game against the Chargers on Sunday.",
+      "description": "Charbonnet (knee) was a limited practice participant Thursday and Friday, John Boyle of the Seahawks' official site reports.",
+      "metadata": {
+        "analysis": "With Charbonnet still on the reserve/PUP list after being designated to return to practice Thursday, he remains ineligible for Week 4. Jadarian Price (chest) also is out for Seattle, leaving Emanuel Wilson and George Holani as the team's main RBs for a home game against the Chargers on Sunday.",
+        "description": "Charbonnet (knee) was a limited practice participant Thursday and Friday, John Boyle of the Seahawks' official site reports.",
         "title": "Zach Charbonnet - Limited in both practices this week",
         "topic_id": "1411858222544846848"
       },
@@ -680,10 +1339,10 @@
     },
     {
       "analysis": "McConkey missed practice Thursday but returned for Friday's light session, giving him a chance to suit up versus Seattle. With the Chargers still looking for their first win, having McConkey available would give them significantly better odds of beating the Seahawks. Playing through injuries already to begin the season, McConkey has 12 catches for 183 yards and one touchdown on a disappointing 15 targets. He's a fantasy WR2/3 at less than 100 percent in a struggling offense.",
-      "description": "McConkey (foot) is questionable for Sunday's game against Seattle, Kris Rhim of ESPN reports.",
+      "description": "McConkey (foot) is questionable for Sunday's game against Seattle, Kris Rhim of ESPN.com reports.",
       "metadata": {
         "analysis": "McConkey missed practice Thursday but returned for Friday's light session, giving him a chance to suit up versus Seattle. With the Chargers still looking for their first win, having McConkey available would give them significantly better odds of beating the Seahawks. Playing through injuries already to begin the season, McConkey has 12 catches for 183 yards and one touchdown on a disappointing 15 targets. He's a fantasy WR2/3 at less than 100 percent in a struggling offense.",
-        "description": "McConkey (foot) is questionable for Sunday's game against Seattle, Kris Rhim of ESPN reports.",
+        "description": "McConkey (foot) is questionable for Sunday's game against Seattle, Kris Rhim of ESPN.com reports.",
         "title": "Ladd McConkey - Listed questionable for Sunday",
         "topic_id": "1411850670780268544"
       },
@@ -802,10 +1461,10 @@
       "url": null
     },
     {
-      "analysis": "Despite Spears upgrading to a full practice Friday, the Titans aren't yet ready to clear him for Sunday's contest. It would still be somewhat of a shock if he didn't play after coach Robert Saleh has said all week he's optimistic Spears can go versus Baltimore. The running back has minimal fantasy appeal in this Tennessee offense behind clear lead back Tony Pollard.",
+      "analysis": "Despite Spears upgrading to a full practice Friday, the Titans aren't yet ready to clear him for Sunday's contest. It would still be somewhat of a shock if he didn't play after coach Robert Saleh has said all week he's optimistic Spears can go versus Baltimore. The running back has minimal fantasy appeal in the Tennessee offense behind clear lead back Tony Pollard.",
       "description": "Spears (ankle) is questionable for Sunday's game against the Ravens, Jim Wyatt of the Titans' official site reports.",
       "metadata": {
-        "analysis": "Despite Spears upgrading to a full practice Friday, the Titans aren't yet ready to clear him for Sunday's contest. It would still be somewhat of a shock if he didn't play after coach Robert Saleh has said all week he's optimistic Spears can go versus Baltimore. The running back has minimal fantasy appeal in this Tennessee offense behind clear lead back Tony Pollard.",
+        "analysis": "Despite Spears upgrading to a full practice Friday, the Titans aren't yet ready to clear him for Sunday's contest. It would still be somewhat of a shock if he didn't play after coach Robert Saleh has said all week he's optimistic Spears can go versus Baltimore. The running back has minimal fantasy appeal in the Tennessee offense behind clear lead back Tony Pollard.",
         "description": "Spears (ankle) is questionable for Sunday's game against the Ravens, Jim Wyatt of the Titans' official site reports.",
         "title": "Tyjae Spears - Questionable for Week 4",
         "topic_id": "1411843119619543040"
@@ -1006,10 +1665,10 @@
       "url": "https://www.fantasypros.com/nfl/news/611913/devonta-smith-hamstring-ruled-out-sunday.php"
     },
     {
-      "analysis": "With Goedert set to miss another game while recovering from the sprained MCL in his right knee and Devonta Smith set to miss with a hamstring injury, Philadelphia will need to lean heavily on Dontayvion Wicks and first-round rookie Makai Lemon to key the passing game. Goedert has yet to practice since suffering his injury in Week 2 against the Titans and remains week-to-week.",
+      "analysis": "With Goedert set to miss another game while recovering from the sprained MCL in his right knee and DeVonta Smith set to miss due to a hamstring injury, Philadelphia will need to lean heavily on Dontayvion Wicks and first-round rookie Makai Lemon to key the passing game. Goedert has yet to practice since suffering his injury in Week 2 against the Titans and remains week-to-week.",
       "description": "Goedert (knee) has been ruled out for Sunday's game against the Rams.",
       "metadata": {
-        "analysis": "With Goedert set to miss another game while recovering from the sprained MCL in his right knee and Devonta Smith set to miss with a hamstring injury, Philadelphia will need to lean heavily on Dontayvion Wicks and first-round rookie Makai Lemon to key the passing game. Goedert has yet to practice since suffering his injury in Week 2 against the Titans and remains week-to-week.",
+        "analysis": "With Goedert set to miss another game while recovering from the sprained MCL in his right knee and DeVonta Smith set to miss due to a hamstring injury, Philadelphia will need to lean heavily on Dontayvion Wicks and first-round rookie Makai Lemon to key the passing game. Goedert has yet to practice since suffering his injury in Week 2 against the Titans and remains week-to-week.",
         "description": "Goedert (knee) has been ruled out for Sunday's game against the Rams.",
         "title": "Dallas Goedert - Ruled out for Week 4",
         "topic_id": "1411840603955732480"
@@ -1232,10 +1891,10 @@
       "url": "https://www.fantasypros.com/nfl/news/611896/dandre-swift-knee-good-to-go-sunday.php"
     },
     {
-      "analysis": "Maye practiced fully all week but is fighting through a right shoulder issue early in the season. The runner-up for MVP honors last season, Maye has been a colossal fantasy disappointment through three weeks and will now face a Bills defense that generates pressure at a high clip.",
+      "analysis": "Maye practiced fully all week but has been fighting through a right shoulder issue early in the season. The runner-up for MVP honors last season, Maye has been a colossal fantasy disappointment through three weeks and now will face a Bills defense that generates pressure at a high clip.",
       "description": "Maye (shoulder) was a full participant in Friday's practice and does not have an injury designation for Sunday's game against Buffalo.",
       "metadata": {
-        "analysis": "Maye practiced fully all week but is fighting through a right shoulder issue early in the season. The runner-up for MVP honors last season, Maye has been a colossal fantasy disappointment through three weeks and will now face a Bills defense that generates pressure at a high clip.",
+        "analysis": "Maye practiced fully all week but has been fighting through a right shoulder issue early in the season. The runner-up for MVP honors last season, Maye has been a colossal fantasy disappointment through three weeks and now will face a Bills defense that generates pressure at a high clip.",
         "description": "Maye (shoulder) was a full participant in Friday's practice and does not have an injury designation for Sunday's game against Buffalo.",
         "title": "Drake Maye - Good to go for Week 4",
         "topic_id": "1411826762001756160"
@@ -1353,10 +2012,10 @@
       "url": "https://www.fantasypros.com/nfl/news/611893/puka-nacua-groin-will-play-sunday.php"
     },
     {
-      "analysis": "Davis popped up on the injury report Thursday as a full participant, which would suggest he was possibly injured at the end of that practice. If Davis is unable to play Week 4, Ty Johnson and Frank Gore will likely handle the backup duties behind James Cook.",
+      "analysis": "Davis popped up on the injury report Thursday as a full participant, which would suggest he was possibly injured at the end of that practice. If Davis is unable to play in Week 4, Ty Johnson and Frank Gore will likely handle the backup duties behind James Cook.",
       "description": "Davis (hamstring) is questionable for Sunday's game against the Patriots.",
       "metadata": {
-        "analysis": "Davis popped up on the injury report Thursday as a full participant, which would suggest he was possibly injured at the end of that practice. If Davis is unable to play Week 4, Ty Johnson and Frank Gore will likely handle the backup duties behind James Cook.",
+        "analysis": "Davis popped up on the injury report Thursday as a full participant, which would suggest he was possibly injured at the end of that practice. If Davis is unable to play in Week 4, Ty Johnson and Frank Gore will likely handle the backup duties behind James Cook.",
         "description": "Davis (hamstring) is questionable for Sunday's game against the Patriots.",
         "title": "Ray Davis - Questionable for Week 4",
         "topic_id": "1411819211172356096"
@@ -1498,10 +2157,10 @@
       "url": "https://www.fantasypros.com/nfl/news/611871/justin-jefferson-ankle-not-seen-practicing-friday.php"
     },
     {
-      "analysis": "The tight end was injured in the Commanders' Week 1 loss to the Eagles and missed the previous two games. If Terry McLaurin (hamstring) is unable to play through a questionable tag against Indy, it will open up more targets for ancillary parts like Okonkwo, but he's likely little more than a touchdown-or-bust fantasy bet.",
+      "analysis": "The tight end was injured in the Commanders' Week 1 loss to the Eagles and missed the last two games. If Terry McLaurin (hamstring) is unable to play through a questionable tag against Indy, it will open up more targets for ancillary parts like Okonkwo, but he's likely little more than a touchdown-or-bust fantasy bet.",
       "description": "Okonkwo (hamstring) doesn't have an injury designation for Sunday's game against the Colts.",
       "metadata": {
-        "analysis": "The tight end was injured in the Commanders' Week 1 loss to the Eagles and missed the previous two games. If Terry McLaurin (hamstring) is unable to play through a questionable tag against Indy, it will open up more targets for ancillary parts like Okonkwo, but he's likely little more than a touchdown-or-bust fantasy bet.",
+        "analysis": "The tight end was injured in the Commanders' Week 1 loss to the Eagles and missed the last two games. If Terry McLaurin (hamstring) is unable to play through a questionable tag against Indy, it will open up more targets for ancillary parts like Okonkwo, but he's likely little more than a touchdown-or-bust fantasy bet.",
         "description": "Okonkwo (hamstring) doesn't have an injury designation for Sunday's game against the Colts.",
         "title": "Chig Okonkwo - Good to go for Week 4",
         "topic_id": "1411805249370439680"
@@ -1620,10 +2279,10 @@
       "url": null
     },
     {
-      "analysis": "After logging a limited practice Thursday, Allen moved the wrong direction Friday with a DNP tag and now carries a questionable designation into Sunday's contest in London. That leaves the Colts' veteran wide receiver with some added uncertainty for Week 4 availability. If Allen is unable to go, the Colts will dip even deeper into their wideout depth with Alec Pierce (heel) already on the shelf for multiple weeks. Josh Downs and Tyler Warren would be in line to soak up most of the targets.",
+      "analysis": "After logging a limited practice Thursday, Allen moved the wrong direction Friday with a DNP tag and now carries a questionable designation into Sunday's contest in London. That leaves the Colts' veteran wide receiver with some added uncertainty for Week 4 availability. If Allen is unable to go, the Colts will dip even deeper into their wideout depth with Alec Pierce (heel, IR) already on the shelf for multiple weeks. Josh Downs and Tyler Warren would be in line to soak up most of the targets.",
       "description": "Allen (groin) was listed as a non-participant for Friday's practice and is questionable for Sunday's game against the Commanders, Nathan Brown of The Indianapolis Star reports.",
       "metadata": {
-        "analysis": "After logging a limited practice Thursday, Allen moved the wrong direction Friday with a DNP tag and now carries a questionable designation into Sunday's contest in London. That leaves the Colts' veteran wide receiver with some added uncertainty for Week 4 availability. If Allen is unable to go, the Colts will dip even deeper into their wideout depth with Alec Pierce (heel) already on the shelf for multiple weeks. Josh Downs and Tyler Warren would be in line to soak up most of the targets.",
+        "analysis": "After logging a limited practice Thursday, Allen moved the wrong direction Friday with a DNP tag and now carries a questionable designation into Sunday's contest in London. That leaves the Colts' veteran wide receiver with some added uncertainty for Week 4 availability. If Allen is unable to go, the Colts will dip even deeper into their wideout depth with Alec Pierce (heel, IR) already on the shelf for multiple weeks. Josh Downs and Tyler Warren would be in line to soak up most of the targets.",
         "description": "Allen (groin) was listed as a non-participant for Friday's practice and is questionable for Sunday's game against the Commanders, Nathan Brown of The Indianapolis Star reports.",
         "title": "Keenan Allen - Questionable for Week 4",
         "topic_id": "1411801529618382848"
@@ -1640,10 +2299,10 @@
       "url": null
     },
     {
-      "analysis": "White missed practice all week and won't suit up in London. Rookie Kaytron Allen and newly-signed Austin Ekeler will spell Jacory Croskey-Merritt out of the Washington backfield against Indianapolis.",
+      "analysis": "White missed practice all week due to a shoulder injury and won't suit up in London. Rookie Kaytron Allen and newly-signed Austin Ekeler will spell Jacory Croskey-Merritt out of the Washington backfield versus Indianapolis.",
       "description": "White (shoulder) has been ruled out for Sunday's game against the Colts.",
       "metadata": {
-        "analysis": "White missed practice all week and won't suit up in London. Rookie Kaytron Allen and newly-signed Austin Ekeler will spell Jacory Croskey-Merritt out of the Washington backfield against Indianapolis.",
+        "analysis": "White missed practice all week due to a shoulder injury and won't suit up in London. Rookie Kaytron Allen and newly-signed Austin Ekeler will spell Jacory Croskey-Merritt out of the Washington backfield versus Indianapolis.",
         "description": "White (shoulder) has been ruled out for Sunday's game against the Colts.",
         "title": "Rachaad White - Ruled out for Week 4",
         "topic_id": "1411800269800452096"
@@ -1867,10 +2526,10 @@
       "url": null
     },
     {
-      "analysis": "Moore has been limited in practice all week, as he continues to deal with the shoulder injury he suffered in Week 2 against the Lions. The veteran wideout played through the issue last Sunday against the Chargers and ran a team-high 23 routes while seeing 10 targets from Josh Allen. Assuming he didn't suffer a setback, Moore should be able to play Sunday against New England.",
+      "analysis": "Moore has been limited in practice all week, as he continues to deal with the shoulder injury he suffered in Week 2 against the Lions. The veteran wideout played through the issue last Sunday against the Chargers and ran a team-high 23 routes while seeing 10 targets from Josh Allen. Assuming Moore didn't suffer a setback, he should be able to play Sunday against New England.",
       "description": "Moore (shoulder) is practicing in a non-contact jersey Friday, Sal Capaccio of WGR Sports Radio 550 Buffalo reports.",
       "metadata": {
-        "analysis": "Moore has been limited in practice all week, as he continues to deal with the shoulder injury he suffered in Week 2 against the Lions. The veteran wideout played through the issue last Sunday against the Chargers and ran a team-high 23 routes while seeing 10 targets from Josh Allen. Assuming he didn't suffer a setback, Moore should be able to play Sunday against New England.",
+        "analysis": "Moore has been limited in practice all week, as he continues to deal with the shoulder injury he suffered in Week 2 against the Lions. The veteran wideout played through the issue last Sunday against the Chargers and ran a team-high 23 routes while seeing 10 targets from Josh Allen. Assuming Moore didn't suffer a setback, he should be able to play Sunday against New England.",
         "description": "Moore (shoulder) is practicing in a non-contact jersey Friday, Sal Capaccio of WGR Sports Radio 550 Buffalo reports.",
         "title": "DJ Moore - Practicing in non-contact jersey Friday",
         "topic_id": "1411796494750658560"
@@ -2167,10 +2826,10 @@
       "url": "https://www.rotoballer.com/player-news/wayward-vikings-offense-limits-potential-for-t-j-hockenson/1956393"
     },
     {
-      "analysis": "After returning to practice activity late in the week, the Panthers wide receiver at least appears to have a chance to suit up Sunday, but head coach Dave Canales said Coker will go through a Saturday workout before a decision is made. The Panthers and Lions kick off at 8:20 pm ET on Sunday night, so fantasy managers will prefer to have a better idea of Coker's availability sometime in the next 24 hours. If Coker is unable to play, Brycen Tremayne would likely handle a full complement of snaps alongside Tetairoa McMillan.",
+      "analysis": "After returning to practice activity late in the week, the Panthers wide receiver at least appears to have a chance to suit up Sunday, but head coach Dave Canales said Coker will go through a Saturday workout before a decision is made. The Panthers and Lions kick off at 8:20 p.m. ET on Sunday night, so fantasy managers will prefer to have a better idea of Coker's availability sometime in the next 24 hours. If Coker is unable to play, Brycen Tremayne would likely handle a full complement of snaps alongside Tetairoa McMillan with Xavier Legette (knee) already ruled out for Week 4",
       "description": "Coker (quadriceps) is listed as questionable for Sunday night's game against the Lions, Joe Person of The Athletic reports.",
       "metadata": {
-        "analysis": "After returning to practice activity late in the week, the Panthers wide receiver at least appears to have a chance to suit up Sunday, but head coach Dave Canales said Coker will go through a Saturday workout before a decision is made. The Panthers and Lions kick off at 8:20 pm ET on Sunday night, so fantasy managers will prefer to have a better idea of Coker's availability sometime in the next 24 hours. If Coker is unable to play, Brycen Tremayne would likely handle a full complement of snaps alongside Tetairoa McMillan.",
+        "analysis": "After returning to practice activity late in the week, the Panthers wide receiver at least appears to have a chance to suit up Sunday, but head coach Dave Canales said Coker will go through a Saturday workout before a decision is made. The Panthers and Lions kick off at 8:20 p.m. ET on Sunday night, so fantasy managers will prefer to have a better idea of Coker's availability sometime in the next 24 hours. If Coker is unable to play, Brycen Tremayne would likely handle a full complement of snaps alongside Tetairoa McMillan with Xavier Legette (knee) already ruled out for Week 4",
         "description": "Coker (quadriceps) is listed as questionable for Sunday night's game against the Lions, Joe Person of The Athletic reports.",
         "title": "Jalen Coker - Listed questionable for Week 4",
         "topic_id": "1411790203101757440"
@@ -2670,10 +3329,10 @@
       "url": null
     },
     {
-      "analysis": "After a DNP on Wednesday, Coker returned to practice Thursday to get in a limited session. His presence at Friday's session would suggest he's trending in the right direction for Sunday night's showdown with the Lions. He could be headed for a questionable tag, so fantasy managers need to have a backup plan in place in the event Coker isn't cleared to play.",
+      "analysis": "After a DNP on Wednesday, Coker returned to practice Thursday to get in a limited session. His presence Friday suggests he's trending in the right direction for Sunday night's showdown with the Lions. He could be headed for a questionable tag, so fantasy managers need to have a backup plan in place in the event Coker isn't cleared to play.",
       "description": "Coker (quadriceps) is present for Friday's practice, Mike Kaye of ESPN.com reports.",
       "metadata": {
-        "analysis": "After a DNP on Wednesday, Coker returned to practice Thursday to get in a limited session. His presence at Friday's session would suggest he's trending in the right direction for Sunday night's showdown with the Lions. He could be headed for a questionable tag, so fantasy managers need to have a backup plan in place in the event Coker isn't cleared to play.",
+        "analysis": "After a DNP on Wednesday, Coker returned to practice Thursday to get in a limited session. His presence Friday suggests he's trending in the right direction for Sunday night's showdown with the Lions. He could be headed for a questionable tag, so fantasy managers need to have a backup plan in place in the event Coker isn't cleared to play.",
         "description": "Coker (quadriceps) is present for Friday's practice, Mike Kaye of ESPN.com reports.",
         "title": "Jalen Coker - Practicing again Friday",
         "topic_id": "1411771325848055808"
@@ -3201,10 +3860,10 @@
       "url": "https://www.fantasypros.com/nfl/news/611827/jerry-jeudy-hauls-three-passes-thursday-night.php"
     },
     {
-      "analysis": "Jayden Daniels (elbow) practiced this week but was ruled out for Week 4, so Mariota will start under center for the second time in as many weeks. Mariota threw for only 183 yards but tossed three touchdowns in his team's Week 3 victory over the Seahawks, and he will now square off against a Colts team that ranks 30th in the league in passing yards allowed per game.",
+      "analysis": "Jayden Daniels (elbow) practiced this week but was ruled out for Week 4, so Mariota will start under center for the second time in as many weeks. Mariota threw for only 183 yards but tossed three touchdowns in his team's Week 3 victory over the Seahawks, and he now will square off against a Colts team that ranks 30th in the league in passing yards allowed per game.",
       "description": "Mariota will start at quarterback for the Commanders in Sunday's game against the Colts in London, Nicki Jhabvala of The Athletic reports.",
       "metadata": {
-        "analysis": "Jayden Daniels (elbow) practiced this week but was ruled out for Week 4, so Mariota will start under center for the second time in as many weeks. Mariota threw for only 183 yards but tossed three touchdowns in his team's Week 3 victory over the Seahawks, and he will now square off against a Colts team that ranks 30th in the league in passing yards allowed per game.",
+        "analysis": "Jayden Daniels (elbow) practiced this week but was ruled out for Week 4, so Mariota will start under center for the second time in as many weeks. Mariota threw for only 183 yards but tossed three touchdowns in his team's Week 3 victory over the Seahawks, and he now will square off against a Colts team that ranks 30th in the league in passing yards allowed per game.",
         "description": "Mariota will start at quarterback for the Commanders in Sunday's game against the Colts in London, Nicki Jhabvala of The Athletic reports.",
         "title": "Marcus Mariota - Will get another start",
         "topic_id": "1411753707778949120"
@@ -114220,26 +114879,6 @@
       "story_id": "nfl|12501|rotoballer|219992|1788426785000",
       "title": "Matthew Golden Brings Breakout Potential in Expanded Role",
       "url": "https://www.rotoballer.com/player-news/matthew-golden-brings-breakout-potential-in-expanded-role/1922368"
-    },
-    {
-      "analysis": null,
-      "description": "Running back Rhamondre Stevenson appears to be poised to lead the New England Patriots' backfield in the early part of the 2026 season as fellow tailback TreVeyon Henderson remains sidelined with an ankle injury he suffered on Aug. 24. Mike Reiss of ESPN reported on Aug. 31 that Henderson had not yet been cleared for a return to full participation, and he did not practice on Sept. 1. Meanwhile, Stevenson, who has drawn praise throughout training camp, continues to practice and seems to be the front-runner for No. 1 running back duties in New England. Stevenson is carrying momentum from the 2025 postseason, where he out-carried Henderson 58-30 and out-rushed Henderson by a tally of 217 yards to 76. While Henderson could be ready for Week 1 against the Seattle Seahawks, Stevenson is currently in the driver's seat for a larger workload. Stevenson's current Yahoo ADP of 78.1 is good value, as he ranks as RotoBaller's No. 58 overall player and No. 23 running back in half-PPR leagues.",
-      "metadata": {
-        "description": "Running back Rhamondre Stevenson appears to be poised to lead the New England Patriots' backfield in the early part of the 2026 season as fellow tailback TreVeyon Henderson remains sidelined with an ankle injury he suffered on Aug. 24. Mike Reiss of ESPN reported on Aug. 31 that Henderson had not yet been cleared for a return to full participation, and he did not practice on Sept. 1. Meanwhile, Stevenson, who has drawn praise throughout training camp, continues to practice and seems to be the front-runner for No. 1 running back duties in New England. Stevenson is carrying momentum from the 2025 postseason, where he out-carried Henderson 58-30 and out-rushed Henderson by a tally of 217 yards to 76. While Henderson could be ready for Week 1 against the Seattle Seahawks, Stevenson is currently in the driver's seat for a larger workload. Stevenson's current Yahoo ADP of 78.1 is good value, as he ranks as RotoBaller's No. 58 overall player and No. 23 running back in half-PPR leagues.",
-        "title": "Rhamondre Stevenson Gaining Steam as the No. 1 RB for Patriots",
-        "topic_id": "1401236987641331712",
-        "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-gaining-steam-as-the-no-1-rb-for-patriots/1922305"
-      },
-      "nfl_team": "NE",
-      "player_id": "7611",
-      "player_name": "Rhamondre Stevenson",
-      "position": "RB",
-      "published": 1788398229000,
-      "source": "rotoballer",
-      "source_key": "219995",
-      "story_id": "nfl|7611|rotoballer|219995|1788398229000",
-      "title": "Rhamondre Stevenson Gaining Steam as the No. 1 RB for Patriots",
-      "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-gaining-steam-as-the-no-1-rb-for-patriots/1922305"
     }
   ]
 }
