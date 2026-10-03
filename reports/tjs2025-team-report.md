@@ -3,7 +3,7 @@
 - Team: **It Hurts So Good**
 - Manager: **TJS2025**
 - Roster ID: **5**
-- Players: **23**
+- Players: **24**
 - Taxi: **1**
 - Reserve/IR: **2**
 
@@ -11,6 +11,7 @@
 
 - DEN — DEF — DEN
 - HOU — DEF — HOU
+- LV — DEF — LV
 - Jake Bates — K — DET
 - Brock Purdy — QB — SF
 - Jalen Hurts — QB — PHI
@@ -23,8 +24,8 @@
 - Rico Dowdle — RB — PIT — reserve/IR
 - Cade Otton — TE — TB
 - Hunter Henry — TE — NE
+- Noah Fant — TE — NO
 - Travis Kelce — TE — KC
-- Calvin Ridley — WR — TEN
 - Davante Adams — WR — LAR
 - Deebo Samuel — WR — SF
 - Demarcus Robinson — WR — SF — reserve/IR
