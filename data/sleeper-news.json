@@ -1,11 +1,28 @@
 {
-  "last_checked_at": "2026-10-04T00:35:47Z",
+  "last_checked_at": "2026-10-04T06:18:27Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 299,
+  "monitored_player_count": 301,
   "new_story_ids": [
-    "nfl|12492|rotoballer|223186|1791053650000",
-    "nfl|13286|fantasy_pros|611991|1791067539665",
-    "nfl|9501|rotoballer|223187|1791054491000"
+    "nfl|11586|rotoballer|223188|1791060730000",
+    "nfl|11608|rotoballer|223185|1791052793000",
+    "nfl|11608|rotowire|639931|1790735742000",
+    "nfl|11608|rotowire|640402|1790986604000",
+    "nfl|11638|rotoballer|223202|1791066957000",
+    "nfl|11834|rotoballer|223200|1791066250000",
+    "nfl|12048|fantasy_pros|611960|1790977240930",
+    "nfl|12048|rotoballer|223017|1790977553000",
+    "nfl|12048|rotowire|640346|1790976986000",
+    "nfl|12524|rotoballer|223197|1791065291000",
+    "nfl|12545|rotoballer|223190|1791062109000",
+    "nfl|13275|rotoballer|223201|1791066490000",
+    "nfl|13293|rotoballer|223199|1791065530000",
+    "nfl|13349|rotoballer|223205|1791069011000",
+    "nfl|4035|rotoballer|223193|1791063189000",
+    "nfl|7002|rotoballer|223203|1791066850000",
+    "nfl|8144|rotoballer|223198|1791065110000",
+    "nfl|8408|rotoballer|223194|1791063730000",
+    "nfl|9225|rotoballer|223189|1791061930000",
+    "nfl|9757|rotoballer|223195|1791063987000"
   ],
   "schema_version": 1,
   "source": {
@@ -15,6 +32,26 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles tight end Eli Stowers (quad) opened his rookie season on injured reserve after a very disappointing training camp. The Eagles would surely like to have some extra tight end depth right now with Dallas Goedert (knee) injured, but even if Stowers returns before Goedert, he's still unlikely to occupy a sizable role. Stowers, who is eligible to play as early as next week, was reportedly taking a while to acclimate to NFL speed in his first training camp, and the quad injury didn't help his progression. Regardless of his exact position on the depth chart when he returns to the field, all signs point to Stowers focusing on his development this year, rather than producing at a fantasy-relevant level. He's a solid dynasty stash and perhaps even an intriguing buy-low in dynasty leagues where fantasy managers are losing faith. However, he can be dropped to waivers in all redraft leagues.",
+      "metadata": {
+        "description": "Philadelphia Eagles tight end Eli Stowers (quad) opened his rookie season on injured reserve after a very disappointing training camp. The Eagles would surely like to have some extra tight end depth right now with Dallas Goedert (knee) injured, but even if Stowers returns before Goedert, he's still unlikely to occupy a sizable role. Stowers, who is eligible to play as early as next week, was reportedly taking a while to acclimate to NFL speed in his first training camp, and the quad injury didn't help his progression. Regardless of his exact position on the depth chart when he returns to the field, all signs point to Stowers focusing on his development this year, rather than producing at a fantasy-relevant level. He's a solid dynasty stash and perhaps even an intriguing buy-low in dynasty leagues where fantasy managers are losing faith. However, he can be dropped to waivers in all redraft leagues.",
+        "title": "Eli Stowers Likely Headed for a Developmental Season",
+        "topic_id": "1412312459292823552",
+        "url": "https://www.rotoballer.com/player-news/eli-stowers-likely-headed-for-a-developmental-season/1957658"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13349",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "published": 1791069011000,
+      "source": "rotoballer",
+      "source_key": "223205",
+      "story_id": "nfl|13349|rotoballer|223205|1791069011000",
+      "title": "Eli Stowers Likely Headed for a Developmental Season",
+      "url": "https://www.rotoballer.com/player-news/eli-stowers-likely-headed-for-a-developmental-season/1957658"
+    },
     {
       "analysis": "Price aggravated a chest injury during Wednesday's practice. He will now miss at least four games. Emanuel Wilson and George Holani will lead the backfield with Zach Charbonnet returning as early as next week. ",
       "description": "The Seahawks placed RB Jadarian Price on injured reserve.",
@@ -35,6 +72,266 @@
       "story_id": "nfl|13286|fantasy_pros|611991|1791067539665",
       "title": "Jadarian Price (chest) placed on IR",
       "url": "https://www.fantasypros.com/nfl/news/611991/jadarian-price-chest-placed-on-ir.php"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Ricky Pearsall (right knee) is working his way back from a PCL injury that will sideline him for the entire 2026 season. Injuries have plagued the start of Pearsall's career, but we certainly won't discredit him for the gunshot wound that forced him to miss time as a rookie in 2024. With that being said, he will have played in just 20 of his first 51 career regular-season games, calling his long-term durability into question. He's averaging a modest 5.0 catches, 46.4 receiving yards, and 0.2 touchdowns per game in his career, and he has yet to reach 100 career receptions and 1,000 career receiving yards. Upon his return from injury next year, Pearsall will slot into the No. 2 receiver role (at best) behind Mike Evans, and it's still too early to tell whether he'll even be ready for Week 1. At just 26 years old, there's still plenty of time for Pearsall to get back on track as a solid dynasty receiver, but for now, we wouldn't blame managers for trying to trade him away and recoup some of their initial investment.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Ricky Pearsall (right knee) is working his way back from a PCL injury that will sideline him for the entire 2026 season. Injuries have plagued the start of Pearsall's career, but we certainly won't discredit him for the gunshot wound that forced him to miss time as a rookie in 2024. With that being said, he will have played in just 20 of his first 51 career regular-season games, calling his long-term durability into question. He's averaging a modest 5.0 catches, 46.4 receiving yards, and 0.2 touchdowns per game in his career, and he has yet to reach 100 career receptions and 1,000 career receiving yards. Upon his return from injury next year, Pearsall will slot into the No. 2 receiver role (at best) behind Mike Evans, and it's still too early to tell whether he'll even be ready for Week 1. At just 26 years old, there's still plenty of time for Pearsall to get back on track as a solid dynasty receiver, but for now, we wouldn't blame managers for trying to trade him away and recoup some of their initial investment.",
+        "title": "Ricky Pearsall Worth Trading in Dynasty Leagues Amid Recovery?",
+        "topic_id": "1412302392094916609",
+        "url": "https://www.rotoballer.com/player-news/ricky-pearsall-worth-trading-in-dynasty-leagues-amid-recovery/1957646"
+      },
+      "nfl_team": "SF",
+      "player_id": "11638",
+      "player_name": "Ricky Pearsall",
+      "position": "WR",
+      "published": 1791066957000,
+      "source": "rotoballer",
+      "source_key": "223202",
+      "story_id": "nfl|11638|rotoballer|223202|1791066957000",
+      "title": "Ricky Pearsall Worth Trading in Dynasty Leagues Amid Recovery?",
+      "url": "https://www.rotoballer.com/player-news/ricky-pearsall-worth-trading-in-dynasty-leagues-amid-recovery/1957646"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints tight end Juwan Johnson hauled in all eight of his targets for 53 yards and two touchdowns in the team's Week 3 loss to the Raiders. Despite fellow tight end Noah Fant also seeing occasional involvement in the offense, Johnson continues to dominate the position in playing time, outsnapping Fant 158-109 through three weeks. He has clearly become one of Tyler Shough's favorite targets, and his current 78.9% catch rate, 57.7 yards per game, and 9.1 yards per target are all career highs. Through three weeks, Johnson has posted 15 receptions for 173 yards and three touchdowns on 19 targets, ranking as the PPR TE4. He remains a reliable TE1 heading into Monday night's matchup against the Falcons.",
+      "metadata": {
+        "description": "New Orleans Saints tight end Juwan Johnson hauled in all eight of his targets for 53 yards and two touchdowns in the team's Week 3 loss to the Raiders. Despite fellow tight end Noah Fant also seeing occasional involvement in the offense, Johnson continues to dominate the position in playing time, outsnapping Fant 158-109 through three weeks. He has clearly become one of Tyler Shough's favorite targets, and his current 78.9% catch rate, 57.7 yards per game, and 9.1 yards per target are all career highs. Through three weeks, Johnson has posted 15 receptions for 173 yards and three touchdowns on 19 targets, ranking as the PPR TE4. He remains a reliable TE1 heading into Monday night's matchup against the Falcons.",
+        "title": "Juwan Johnson Remains a Reliable TE1 in Week 4 Against Falcons",
+        "topic_id": "1412302392094916608",
+        "url": "https://www.rotoballer.com/player-news/juwan-johnson-remains-a-reliable-te1-in-week-4-against-falcons/1957644"
+      },
+      "nfl_team": "NO",
+      "player_id": "7002",
+      "player_name": "Juwan Johnson",
+      "position": "TE",
+      "published": 1791066850000,
+      "source": "rotoballer",
+      "source_key": "223203",
+      "story_id": "nfl|7002|rotoballer|223203|1791066850000",
+      "title": "Juwan Johnson Remains a Reliable TE1 in Week 4 Against Falcons",
+      "url": "https://www.rotoballer.com/player-news/juwan-johnson-remains-a-reliable-te1-in-week-4-against-falcons/1957644"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams quarterback Ty Simpson entered the season with very little redraft value, and he continues to slip down the rankings as the season goes on. Any value that Simpson had prior to the season was driven by his role on the depth chart, as many people expected him to be the backup quarterback and the insurance option behind Matthew Stafford. Instead, Simpson has been inactive as the emergency third quarterback, which means he wouldn't see the field even if Stafford were to get injured. Instead, the backup duties belong to Stetson Bennett, who has more experience in the Rams' system. As a first-round pick, Simpson still has plenty of dynasty appeal, but any glimmer of redraft value is slipping away as long as Simpson remains inactive.",
+      "metadata": {
+        "description": "Los Angeles Rams quarterback Ty Simpson entered the season with very little redraft value, and he continues to slip down the rankings as the season goes on. Any value that Simpson had prior to the season was driven by his role on the depth chart, as many people expected him to be the backup quarterback and the insurance option behind Matthew Stafford. Instead, Simpson has been inactive as the emergency third quarterback, which means he wouldn't see the field even if Stafford were to get injured. Instead, the backup duties belong to Stetson Bennett, who has more experience in the Rams' system. As a first-round pick, Simpson still has plenty of dynasty appeal, but any glimmer of redraft value is slipping away as long as Simpson remains inactive.",
+        "title": "No Path to Redraft Production for Ty Simpson",
+        "topic_id": "1412301133954793472",
+        "url": "https://www.rotoballer.com/player-news/no-path-to-redraft-production-for-ty-simpson/1957641"
+      },
+      "nfl_team": "LAR",
+      "player_id": "13275",
+      "player_name": "Ty Simpson",
+      "position": "QB",
+      "published": 1791066490000,
+      "source": "rotoballer",
+      "source_key": "223201",
+      "story_id": "nfl|13275|rotoballer|223201|1791066490000",
+      "title": "No Path to Redraft Production for Ty Simpson",
+      "url": "https://www.rotoballer.com/player-news/no-path-to-redraft-production-for-ty-simpson/1957641"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Devaughn Vele recorded three receptions for 39 yards on six targets in Week 3's loss to the Raiders. The third-year receiver has played a key role in the Saints' offense through the first three weeks, leading all skill-position players on the team with a 91% snap percentage. He faces a Falcons defense in Week 4 that has allowed opposing WR2s to average 5.3 receptions and 74.6 yards per game. With another key piece of the offense in Travis Etienne Jr. sidelined, the Saints could also lean more heavily on the passing game rather than putting too much on Alvin Kamara, potentially creating additional opportunities for Vele. He ranks as WR33 in RotoBaller's Week 4 rankings but carries some additional upside.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Devaughn Vele recorded three receptions for 39 yards on six targets in Week 3's loss to the Raiders. The third-year receiver has played a key role in the Saints' offense through the first three weeks, leading all skill-position players on the team with a 91% snap percentage. He faces a Falcons defense in Week 4 that has allowed opposing WR2s to average 5.3 receptions and 74.6 yards per game. With another key piece of the offense in Travis Etienne Jr. sidelined, the Saints could also lean more heavily on the passing game rather than putting too much on Alvin Kamara, potentially creating additional opportunities for Vele. He ranks as WR33 in RotoBaller's Week 4 rankings but carries some additional upside.",
+        "title": "Devaughn Vele Emerging as Intriguing Week 4 Option Against Falcons",
+        "topic_id": "1412299876498259968",
+        "url": "https://www.rotoballer.com/player-news/devaughn-vele-emerging-as-intriguing-week-4-option-against-falcons/1957631"
+      },
+      "nfl_team": "NO",
+      "player_id": "11834",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "published": 1791066250000,
+      "source": "rotoballer",
+      "source_key": "223200",
+      "story_id": "nfl|11834|rotoballer|223200|1791066250000",
+      "title": "Devaughn Vele Emerging as Intriguing Week 4 Option Against Falcons",
+      "url": "https://www.rotoballer.com/player-news/devaughn-vele-emerging-as-intriguing-week-4-option-against-falcons/1957631"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Ja'Kobi Lane (wrist) remains sidelined through Week 5 at the earliest, but he still has some appeal as a player to stash in deeper leagues, especially those that offer injured reserve slots. Lane underwent wrist surgery after the season opener, in which he played 40% of the snaps with three targets, one catch, and 11 yards. The rookie USC product was a third-round pick and has big-play upside, but he'll need to get healthy before he even begins to climb up the depth chart. Once he does return, he'll be no higher than third on the depth chart, putting him behind Zay Flowers and Rashod Bateman. With that said, Bateman has an iffy track record of production and Flowers is still less than 100% after a hamstring injury, so Lane could have a path to a meaningful role by the second half of the season. Managers with an open roster spot in deeper leagues should consider stashing Lane in a low-risk move.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Ja'Kobi Lane (wrist) remains sidelined through Week 5 at the earliest, but he still has some appeal as a player to stash in deeper leagues, especially those that offer injured reserve slots. Lane underwent wrist surgery after the season opener, in which he played 40% of the snaps with three targets, one catch, and 11 yards. The rookie USC product was a third-round pick and has big-play upside, but he'll need to get healthy before he even begins to climb up the depth chart. Once he does return, he'll be no higher than third on the depth chart, putting him behind Zay Flowers and Rashod Bateman. With that said, Bateman has an iffy track record of production and Flowers is still less than 100% after a hamstring injury, so Lane could have a path to a meaningful role by the second half of the season. Managers with an open roster spot in deeper leagues should consider stashing Lane in a low-risk move.",
+        "title": "Ja'Kobi Lane Still a Priority Stash in Deeper Leagues",
+        "topic_id": "1412297359160827904",
+        "url": "https://www.rotoballer.com/player-news/jakobi-lane-still-a-priority-stash-in-deeper-leagues/1957597"
+      },
+      "nfl_team": "BAL",
+      "player_id": "13293",
+      "player_name": "Ja'Kobi Lane",
+      "position": "WR",
+      "published": 1791065530000,
+      "source": "rotoballer",
+      "source_key": "223199",
+      "story_id": "nfl|13293|rotoballer|223199|1791065530000",
+      "title": "Ja'Kobi Lane Still a Priority Stash in Deeper Leagues",
+      "url": "https://www.rotoballer.com/player-news/jakobi-lane-still-a-priority-stash-in-deeper-leagues/1957597"
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns quarterback Shedeur Sanders seemed like an inevitable choice to take over as the team's starter at some point this season, but the impressive production from Deshaun Watson has altered the former fifth-round pick's redraft outlook. Entering this season, it seemed like Watson was on a short leash, with Sanders pushing to take over as the team's No. 1 quarterback. Instead, Watson has led the Browns to a 3-1 start, which currently puts them first in the AFC North. The veteran signal-caller has completed 70% of his pass attempts for 855 passing yards, six touchdowns, and two interceptions, plus an additional 127 rushing yards. He ranks as the overall QB5 in fantasy scoring so far, albeit with one more game than most quarterbacks because he played on Thursday night. At this point, Watson is trending toward occupying the starting role for the rest of the season, barring an injury. Sanders could still represent the long-term future in Cleveland, but his redraft value has declined significantly. He can be dropped to waivers in redraft formats.",
+      "metadata": {
+        "description": "Cleveland Browns quarterback Shedeur Sanders seemed like an inevitable choice to take over as the team's starter at some point this season, but the impressive production from Deshaun Watson has altered the former fifth-round pick's redraft outlook. Entering this season, it seemed like Watson was on a short leash, with Sanders pushing to take over as the team's No. 1 quarterback. Instead, Watson has led the Browns to a 3-1 start, which currently puts them first in the AFC North. The veteran signal-caller has completed 70% of his pass attempts for 855 passing yards, six touchdowns, and two interceptions, plus an additional 127 rushing yards. He ranks as the overall QB5 in fantasy scoring so far, albeit with one more game than most quarterbacks because he played on Thursday night. At this point, Watson is trending toward occupying the starting role for the rest of the season, barring an injury. Sanders could still represent the long-term future in Cleveland, but his redraft value has declined significantly. He can be dropped to waivers in redraft formats.",
+        "title": "Shedeur Sanders' Redraft Value Slipping Away as Offense Surges",
+        "topic_id": "1412296099657535488",
+        "url": "https://www.rotoballer.com/player-news/shedeur-sanders-redraft-value-slipping-away-as-offense-surges/1957595"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12524",
+      "player_name": "Shedeur Sanders",
+      "position": "QB",
+      "published": 1791065291000,
+      "source": "rotoballer",
+      "source_key": "223197",
+      "story_id": "nfl|12524|rotoballer|223197|1791065291000",
+      "title": "Shedeur Sanders' Redraft Value Slipping Away as Offense Surges",
+      "url": "https://www.rotoballer.com/player-news/shedeur-sanders-redraft-value-slipping-away-as-offense-surges/1957595"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Chris Olave continued his hot start to the season, recording nine receptions for 107 yards in Week 3 against the Raiders. Through three games, Olave has 375 receiving yards, which ranks second in the league, while doing so on a 75.0% catch rate. He has been the focal point of the Saints' passing attack, tying for the league lead in both targets (36) and receptions (27). Olave has clearly developed strong chemistry with second-year starter Tyler Shough, making him one of the most reliable options in the Saints' offense. He now faces a Falcons defense allowing 263 passing yards per game, 29th in the league, setting up another favorable matchup in Week 4. Olave remains a weekly must-start and comes in as WR4 in RotoBaller's Week 4 rankings.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Chris Olave continued his hot start to the season, recording nine receptions for 107 yards in Week 3 against the Raiders. Through three games, Olave has 375 receiving yards, which ranks second in the league, while doing so on a 75.0% catch rate. He has been the focal point of the Saints' passing attack, tying for the league lead in both targets (36) and receptions (27). Olave has clearly developed strong chemistry with second-year starter Tyler Shough, making him one of the most reliable options in the Saints' offense. He now faces a Falcons defense allowing 263 passing yards per game, 29th in the league, setting up another favorable matchup in Week 4. Olave remains a weekly must-start and comes in as WR4 in RotoBaller's Week 4 rankings.",
+        "title": "Chris Olave Set for Another Strong Showing in Week 4 Against Falcons",
+        "topic_id": "1412296099653341184",
+        "url": "https://www.rotoballer.com/player-news/chris-olave-set-for-another-strong-showing-in-week-4-against-falcons/1957593"
+      },
+      "nfl_team": "NO",
+      "player_id": "8144",
+      "player_name": "Chris Olave",
+      "position": "WR",
+      "published": 1791065110000,
+      "source": "rotoballer",
+      "source_key": "223198",
+      "story_id": "nfl|8144|rotoballer|223198|1791065110000",
+      "title": "Chris Olave Set for Another Strong Showing in Week 4 Against Falcons",
+      "url": "https://www.rotoballer.com/player-news/chris-olave-set-for-another-strong-showing-in-week-4-against-falcons/1957593"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints running back Kendre Miller rushed four times for 14 yards and added two receptions for five yards in Week 3's loss to the Raiders. He was inactive in Week 2, but when called upon in Week 1, Miller looked solid, rushing nine times for 30 yards and a touchdown against the Lions. With a career average of 3.9 yards per attempt, Miller figures to be in line for additional work with starting running back Travis Etienne Jr. out for Week 4. He will likely be part of a timeshare with fellow running back Alvin Kamara and faces a difficult matchup against the Falcons, who surrender a league-low 47.7 rushing yards per game. Miller ranks as RB37 in RotoBaller's rankings for Week 4.",
+      "metadata": {
+        "description": "New Orleans Saints running back Kendre Miller rushed four times for 14 yards and added two receptions for five yards in Week 3's loss to the Raiders. He was inactive in Week 2, but when called upon in Week 1, Miller looked solid, rushing nine times for 30 yards and a touchdown against the Lions. With a career average of 3.9 yards per attempt, Miller figures to be in line for additional work with starting running back Travis Etienne Jr. out for Week 4. He will likely be part of a timeshare with fellow running back Alvin Kamara and faces a difficult matchup against the Falcons, who surrender a league-low 47.7 rushing yards per game. Miller ranks as RB37 in RotoBaller's rankings for Week 4.",
+        "title": "Kendre Miller Set for Increased Workload in Week 4",
+        "topic_id": "1412289807836565504",
+        "url": "https://www.rotoballer.com/player-news/kendre-miller-set-for-increased-workload-in-week-4/1957583"
+      },
+      "nfl_team": "NO",
+      "player_id": "9757",
+      "player_name": "Kendre Miller",
+      "position": "RB",
+      "published": 1791063987000,
+      "source": "rotoballer",
+      "source_key": "223195",
+      "story_id": "nfl|9757|rotoballer|223195|1791063987000",
+      "title": "Kendre Miller Set for Increased Workload in Week 4",
+      "url": "https://www.rotoballer.com/player-news/kendre-miller-set-for-increased-workload-in-week-4/1957583"
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings running back Jordan Mason (hand) hasn't played since the season opener due to a fracture in his thumb. Mason underwent surgery and was placed on the Injured Reserve following their Week 1 victory over the Green Bay Packers. Getting placed on the IR means that Mason is forced to miss at least four games. The Week 4 matchup versus the Miami Dolphins will be his third absence in a row. Mason could be back in the mix as early as the Week 7 matchup against the Indianapolis Colts. He'll likely see significant involvement in the backfield once he's healthy enough to play again. Given he could be only a few weeks away from playing again, Mason is worth stashing on an IR spot in most leagues where he's available.",
+      "metadata": {
+        "description": "Minnesota Vikings running back Jordan Mason (hand) hasn't played since the season opener due to a fracture in his thumb. Mason underwent surgery and was placed on the Injured Reserve following their Week 1 victory over the Green Bay Packers. Getting placed on the IR means that Mason is forced to miss at least four games. The Week 4 matchup versus the Miami Dolphins will be his third absence in a row. Mason could be back in the mix as early as the Week 7 matchup against the Indianapolis Colts. He'll likely see significant involvement in the backfield once he's healthy enough to play again. Given he could be only a few weeks away from playing again, Mason is worth stashing on an IR spot in most leagues where he's available.",
+        "title": "Jordan Mason Remains Worthy Stash Option",
+        "topic_id": "1412288549692174336",
+        "url": "https://www.rotoballer.com/player-news/jordan-mason-remains-worthy-stash-option/1957576"
+      },
+      "nfl_team": "MIN",
+      "player_id": "8408",
+      "player_name": "Jordan Mason",
+      "position": "RB",
+      "published": 1791063730000,
+      "source": "rotoballer",
+      "source_key": "223194",
+      "story_id": "nfl|8408|rotoballer|223194|1791063730000",
+      "title": "Jordan Mason Remains Worthy Stash Option",
+      "url": "https://www.rotoballer.com/player-news/jordan-mason-remains-worthy-stash-option/1957576"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints running back Alvin Kamara rushed nine times for 36 yards and added one reception for five yards in Week 3's loss to the Raiders. Most of his carries came after starting running back Travis Etienne Jr. exited with a hamstring injury, but Kamara was unable to turn the increased workload into much production. Though he has played just two games this season, his current mark of 2.8 yards per attempt is by far the lowest of his career. Kamara figures to serve as the team's top running back option against the Falcons on Monday night with Etienne Jr. on IR, but he faces a difficult matchup against a defense allowing a league-best 47.7 rushing yards per game. The difficult matchup puts Kamara at RB27 in RotoBaller's running back rankings for Week 4.",
+      "metadata": {
+        "description": "New Orleans Saints running back Alvin Kamara rushed nine times for 36 yards and added one reception for five yards in Week 3's loss to the Raiders. Most of his carries came after starting running back Travis Etienne Jr. exited with a hamstring injury, but Kamara was unable to turn the increased workload into much production. Though he has played just two games this season, his current mark of 2.8 yards per attempt is by far the lowest of his career. Kamara figures to serve as the team's top running back option against the Falcons on Monday night with Etienne Jr. on IR, but he faces a difficult matchup against a defense allowing a league-best 47.7 rushing yards per game. The difficult matchup puts Kamara at RB27 in RotoBaller's running back rankings for Week 4.",
+        "title": "Alvin Kamara Faces Tough Week 4 Matchup Against Falcons",
+        "topic_id": "1412287291212238848",
+        "url": "https://www.rotoballer.com/player-news/title-alvin-kamara-faces-tough-week-4-matchup-against-falcons/1957572"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1791063189000,
+      "source": "rotoballer",
+      "source_key": "223193",
+      "story_id": "nfl|4035|rotoballer|223193|1791063189000",
+      "title": "Alvin Kamara Faces Tough Week 4 Matchup Against Falcons",
+      "url": "https://www.rotoballer.com/player-news/title-alvin-kamara-faces-tough-week-4-matchup-against-falcons/1957572"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints quarterback Tyler Shough completed 29-of-42 passes for 255 yards, four touchdowns, and one interception in Week 3's 35-27 loss to the Raiders. Shough was in control of the offense for much of the game, leading the Saints to an 11-point lead midway through the third quarter. He and the offense eventually stalled, committing turnovers on all four possessions in the fourth quarter and ultimately falling short. He looks to bounce back against a Falcons defense on Monday night that is surrendering 263 passing yards per game, 29th in the league. Through the first three weeks, Shough ranks as QB3 and has another plus matchup against the Falcons. Second in the league in passing yards and with rushing upside, Shough has established himself as a weekly QB1 in fantasy.",
+      "metadata": {
+        "description": "New Orleans Saints quarterback Tyler Shough completed 29-of-42 passes for 255 yards, four touchdowns, and one interception in Week 3's 35-27 loss to the Raiders. Shough was in control of the offense for much of the game, leading the Saints to an 11-point lead midway through the third quarter. He and the offense eventually stalled, committing turnovers on all four possessions in the fourth quarter and ultimately falling short. He looks to bounce back against a Falcons defense on Monday night that is surrendering 263 passing yards per game, 29th in the league. Through the first three weeks, Shough ranks as QB3 and has another plus matchup against the Falcons. Second in the league in passing yards and with rushing upside, Shough has established himself as a weekly QB1 in fantasy.",
+        "title": "Tyler Shough Set Up for Another Strong Showing Against the Falcons",
+        "topic_id": "1412283516040785920",
+        "url": "https://www.rotoballer.com/player-news/tyler-shough-set-up-for-another-strong-showing-against-the-falcons/1957555"
+      },
+      "nfl_team": "NO",
+      "player_id": "12545",
+      "player_name": "Tyler Shough",
+      "position": "QB",
+      "published": 1791062109000,
+      "source": "rotoballer",
+      "source_key": "223190",
+      "story_id": "nfl|12545|rotoballer|223190|1791062109000",
+      "title": "Tyler Shough Set Up for Another Strong Showing Against the Falcons",
+      "url": "https://www.rotoballer.com/player-news/tyler-shough-set-up-for-another-strong-showing-against-the-falcons/1957555"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles running back Tank Bigsby didn't record any carries and lost a fumble on his lone catch during last week's loss to the Chicago Bears. Despite an ugly performance, Bigsby is expected to remain the primary backup to Saquon Barkley. The 24-year-old is unlikely to have a big role while Barkley is healthy. Bigsby carried the ball 13 times for 33 yards and a touchdown when Barkley went down with an injury in Week 2. He still profiles as a high-end handcuff option, but isn't someone that can be started while Barkley is healthy. Fantasy managers can leave Bigsby on the bench ahead of the Week 4 matchup against the Los Angeles Rams.",
+      "metadata": {
+        "description": "Philadelphia Eagles running back Tank Bigsby didn't record any carries and lost a fumble on his lone catch during last week's loss to the Chicago Bears. Despite an ugly performance, Bigsby is expected to remain the primary backup to Saquon Barkley. The 24-year-old is unlikely to have a big role while Barkley is healthy. Bigsby carried the ball 13 times for 33 yards and a touchdown when Barkley went down with an injury in Week 2. He still profiles as a high-end handcuff option, but isn't someone that can be started while Barkley is healthy. Fantasy managers can leave Bigsby on the bench ahead of the Week 4 matchup against the Los Angeles Rams.",
+        "title": "Tank Bigsby Belongs on the Bench in Week 4",
+        "topic_id": "1412282256864665600",
+        "url": "https://www.rotoballer.com/player-news/tank-bigsby-belongs-on-the-bench-in-week-4/1957551"
+      },
+      "nfl_team": "PHI",
+      "player_id": "9225",
+      "player_name": "Tank Bigsby",
+      "position": "RB",
+      "published": 1791061930000,
+      "source": "rotoballer",
+      "source_key": "223189",
+      "story_id": "nfl|9225|rotoballer|223189|1791061930000",
+      "title": "Tank Bigsby Belongs on the Bench in Week 4",
+      "url": "https://www.rotoballer.com/player-news/tank-bigsby-belongs-on-the-bench-in-week-4/1957551"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams running back Blake Corum is coming off a disappointing performance on the ground, and he'll continue to have a lower floor in Week 4 against the Philadelphia Eagles. Corum turned in his worst snap share, rushing attempts total, rushing yards total, and efficiency of the young season last week, and although he caught two passes, it resulted in zero receiving yards. He clearly lost ground to Kyren Williams in the running back pecking order, and to make matters worse, he'll get a tough matchup in Week 4. The Eagles have allowed just one total touchdown and the 11th-fewest fantasy points to opposing running backs in 2026. Philadelphia has been softer against the run than the pass, but we could still see Corum having trouble producing consistently given his relative struggles last week. Long-term, he's a strong handcuff with matchup-based RB3 appeal, but he can be left on the bench for this specific game.",
+      "metadata": {
+        "description": "Los Angeles Rams running back Blake Corum is coming off a disappointing performance on the ground, and he'll continue to have a lower floor in Week 4 against the Philadelphia Eagles. Corum turned in his worst snap share, rushing attempts total, rushing yards total, and efficiency of the young season last week, and although he caught two passes, it resulted in zero receiving yards. He clearly lost ground to Kyren Williams in the running back pecking order, and to make matters worse, he'll get a tough matchup in Week 4. The Eagles have allowed just one total touchdown and the 11th-fewest fantasy points to opposing running backs in 2026. Philadelphia has been softer against the run than the pass, but we could still see Corum having trouble producing consistently given his relative struggles last week. Long-term, he's a strong handcuff with matchup-based RB3 appeal, but he can be left on the bench for this specific game.",
+        "title": "Blake Corum Avoidable Against a Strong Eagles Run Defense",
+        "topic_id": "1412275965156954112",
+        "url": "https://www.rotoballer.com/player-news/blake-corum-avoidable-against-a-strong-eagles-run-defense/1957541"
+      },
+      "nfl_team": "LAR",
+      "player_id": "11586",
+      "player_name": "Blake Corum",
+      "position": "RB",
+      "published": 1791060730000,
+      "source": "rotoballer",
+      "source_key": "223188",
+      "story_id": "nfl|11586|rotoballer|223188|1791060730000",
+      "title": "Blake Corum Avoidable Against a Strong Eagles Run Defense",
+      "url": "https://www.rotoballer.com/player-news/blake-corum-avoidable-against-a-strong-eagles-run-defense/1957541"
     },
     {
       "analysis": "Price saw his practice participation during Week 4 prep decline due to a chest injury before he was ruled out ahead of Sunday's game against the Chargers. The injury is severe enough for the rookie first-rounder to go on IR, meaning Price will be forced to miss at least the next four games and won't be eligible to return until at least Week 8 against the Bears on Sunday, Nov. 2. Emanuel Wilson and George Holani will serve as the Seahawks' top running backs for Week 4 due to Price's absence, but Zach Charbonnet (knee) could also be in the mix for backfield duties as soon as Week 5 against the 49ers if he's activated from the reserve/PUP list.",
@@ -95,6 +392,26 @@
       "story_id": "nfl|12492|rotoballer|223186|1791053650000",
       "title": "Pat Bryant Hopes to Continue His Momentum in Week 4 vs. 49ers",
       "url": "https://www.rotoballer.com/player-news/pat-bryant-hopes-to-continue-his-momentum-in-week-4-vs-49ers/1957516"
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets wideout Isaiah Williams is expected to handle a larger role in the Jets' offense with Adonai Mitchell (finger) out of Sunday's contest. Williams was active last week and saw a season-high 89-snap percentage with two targets. The 25-year-old is expected to handle the WR2 role in an intriguing matchup against the Chicago Bears. The Bears defense allows an average of 207 passing yards per game and has allowed the fewest receptions this season. However, the Bears allowed 361 passing yards and surrendered three touchdowns against the Carolina Panthers in Week 1. As a result, Williams enters Week 4 as RotoBaller's PPR WR75. Williams should remain out of lineups this week in all formats.",
+      "metadata": {
+        "description": "New York Jets wideout Isaiah Williams is expected to handle a larger role in the Jets' offense with Adonai Mitchell (finger) out of Sunday's contest. Williams was active last week and saw a season-high 89-snap percentage with two targets. The 25-year-old is expected to handle the WR2 role in an intriguing matchup against the Chicago Bears. The Bears defense allows an average of 207 passing yards per game and has allowed the fewest receptions this season. However, the Bears allowed 361 passing yards and surrendered three touchdowns against the Carolina Panthers in Week 1. As a result, Williams enters Week 4 as RotoBaller's PPR WR75. Williams should remain out of lineups this week in all formats.",
+        "title": "Isaiah Williams Expected to Handle Bigger Role vs. Bears",
+        "topic_id": "1412243245978624000",
+        "url": "https://www.rotoballer.com/player-news/isaiah-williams-expected-to-handle-bigger-role-vs-bears/1957513"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11608",
+      "player_name": "Isaiah Williams",
+      "position": "WR",
+      "published": 1791052793000,
+      "source": "rotoballer",
+      "source_key": "223185",
+      "story_id": "nfl|11608|rotoballer|223185|1791052793000",
+      "title": "Isaiah Williams Expected to Handle Bigger Role vs. Bears",
+      "url": "https://www.rotoballer.com/player-news/isaiah-williams-expected-to-handle-bigger-role-vs-bears/1957513"
     },
     {
       "analysis": "Fant's practice participation was limited all week due to an abdominal injury that he likely picked up in Week 3 against the Raiders. With the questionable tag, the veteran tight end's status for Monday may not be known until the Saints announce their list of inactive players approximately 90 minutes before the 8:15 p.m. ET kickoff. Oscar Delp and Treyton Welch would see more rotational snaps at tight end behind Juwan Johnson if Fant is not cleared to play against Atlanta.",
@@ -2843,6 +3160,26 @@
       "url": null
     },
     {
+      "analysis": "Williams has played 80 percent or more of the Jets' offensive snaps in each of the last two games, though he logged only one catch (on two targets) in a Week 3 loss to the Lions. However, with both Mitchell and tight end Mason Taylor (thumb) sidelined and tight end Kenyon Sadiq (back) listed as questionable, Williams should see more targets from Geno Smith in the passing game.",
+      "description": "Williams will have the opportunity to work as the Jets' WR2 behind Garrett Wilson for Sunday's game against the Bears due to the absence of Adonai Mitchell (finger).",
+      "metadata": {
+        "analysis": "Williams has played 80 percent or more of the Jets' offensive snaps in each of the last two games, though he logged only one catch (on two targets) in a Week 3 loss to the Lions. However, with both Mitchell and tight end Mason Taylor (thumb) sidelined and tight end Kenyon Sadiq (back) listed as questionable, Williams should see more targets from Geno Smith in the passing game.",
+        "description": "Williams will have the opportunity to work as the Jets' WR2 behind Garrett Wilson for Sunday's game against the Bears due to the absence of Adonai Mitchell (finger).",
+        "title": "Isaiah Williams - Bigger role on tap",
+        "topic_id": "1411904781307379712"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11608",
+      "player_name": "Isaiah Williams",
+      "position": "WR",
+      "published": 1790986604000,
+      "source": "rotowire",
+      "source_key": "640402",
+      "story_id": "nfl|11608|rotowire|640402|1790986604000",
+      "title": "Isaiah Williams - Bigger role on tap",
+      "url": null
+    },
+    {
       "analysis": "Etienne's placement on IR on Thursday comes after the star running back aggravated a hamstring injury during the Saints' Week 3 loss to the Raiders. With Etienne sidelined, Miller and Alvin Kamara figure to operate as the Saints' top running backs moving forward, with undrafted rookie CJ Donaldson also in the mix for backfield work. Miller has 13 carries for 44 yards (3.4 YPC) and a touchdown along with two catches (on three targets) for five yards through two regular-season games.",
       "description": "Miller is in line for a larger offensive role for as long as Travis Etienne (hamstring) is on injured reserve, John DeShazler of the Saints' official site reports.",
       "metadata": {
@@ -3244,6 +3581,26 @@
     },
     {
       "analysis": null,
+      "description": "Seattle Seahawks running back George Holani (ribs) is a risky play in Week 4 against the Los Angeles Chargers. Rookie running back Jadarian Price (chest) is slated to miss this matchup. Holani should see a decent amount of passing game usage, but he will likely cede rushing volume to Emanuel Wilson. This will be the Holani and Wilson show all game long, but it is difficult to trust Holani despite this being a neutral matchup for running backs in fantasy. Additionally, Seattle figures to be ahead for much of this matchup. As such, Holani's passing game usage could be capped. Until Week 3, in which the Seahawks played from behind for much of the game, Holani had not exceeded more than one reception in a game. Wilson is definitely the preferred Seahawks running back in Week 4. Leave Holani on waivers this week.",
+      "metadata": {
+        "description": "Seattle Seahawks running back George Holani (ribs) is a risky play in Week 4 against the Los Angeles Chargers. Rookie running back Jadarian Price (chest) is slated to miss this matchup. Holani should see a decent amount of passing game usage, but he will likely cede rushing volume to Emanuel Wilson. This will be the Holani and Wilson show all game long, but it is difficult to trust Holani despite this being a neutral matchup for running backs in fantasy. Additionally, Seattle figures to be ahead for much of this matchup. As such, Holani's passing game usage could be capped. Until Week 3, in which the Seahawks played from behind for much of the game, Holani had not exceeded more than one reception in a game. Wilson is definitely the preferred Seahawks running back in Week 4. Leave Holani on waivers this week.",
+        "title": "George Holani a Risky Play Despite Increased Role in Week 4",
+        "topic_id": "1411927326689644544",
+        "url": "https://www.rotoballer.com/player-news/george-holani-a-risky-play-despite-increased-role-in-week-4/1956646"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12048",
+      "player_name": "George Holani",
+      "position": "RB",
+      "published": 1790977553000,
+      "source": "rotoballer",
+      "source_key": "223017",
+      "story_id": "nfl|12048|rotoballer|223017|1790977553000",
+      "title": "George Holani a Risky Play Despite Increased Role in Week 4",
+      "url": "https://www.rotoballer.com/player-news/george-holani-a-risky-play-despite-increased-role-in-week-4/1956646"
+    },
+    {
+      "analysis": null,
       "description": "Seattle Seahawks running back Emanuel Wilson is in line for a big role in Week 4 against the Los Angeles Chargers. The Seahawks will be without rookie running back Jadarian Price (chest), who picked up two DNPs to end the practice week. Wilson has been the preferred running back for carry volume behind Price throughout this season. Wilson has not been a particularly efficient runner this season, but he did manage 92 yards on 21 carries in Week 2 mop-up duty. Seattle figures to play from ahead for most of their matchup with the Chargers this weekend, which should provide Wilson with plenty of chances for touches. Wilson is unlikely to see much receiving volume this week, but he is the Seahawks' goal line back. As such, he should have a chance to fall into the end zone this weekend and accumulate decent yardage. He is a risky play because of his lack of passing game usage, but he will be the starting running back on a good offense this week. Wilson can be best viewed as a flex play in Week 4.",
       "metadata": {
         "description": "Seattle Seahawks running back Emanuel Wilson is in line for a big role in Week 4 against the Los Angeles Chargers. The Seahawks will be without rookie running back Jadarian Price (chest), who picked up two DNPs to end the practice week. Wilson has been the preferred running back for carry volume behind Price throughout this season. Wilson has not been a particularly efficient runner this season, but he did manage 92 yards on 21 carries in Week 2 mop-up duty. Seattle figures to play from ahead for most of their matchup with the Chargers this weekend, which should provide Wilson with plenty of chances for touches. Wilson is unlikely to see much receiving volume this week, but he is the Seahawks' goal line back. As such, he should have a chance to fall into the end zone this weekend and accumulate decent yardage. He is a risky play because of his lack of passing game usage, but he will be the starting running back on a good offense this week. Wilson can be best viewed as a flex play in Week 4.",
@@ -3303,6 +3660,27 @@
       "url": "https://www.rotoballer.com/player-news/isaac-teslaa-carries-some-deep-league-flex-intrigue-in-week-4/1956636"
     },
     {
+      "analysis": "Holani's rib injury isn't serious at this point and won't prevent him from playing in Week 4. He will continue to split the backfield with Emmanuel Wilson now that rookie Jadarian Price (chest) has been ruled out for this matchup against the Chargers.",
+      "description": "George Holani (rib) is good to go for Sunday's game against the Los Angeles Chargers.",
+      "metadata": {
+        "analysis": "Holani's rib injury isn't serious at this point and won't prevent him from playing in Week 4. He will continue to split the backfield with Emmanuel Wilson now that rookie Jadarian Price (chest) has been ruled out for this matchup against the Chargers.",
+        "description": "George Holani (rib) is good to go for Sunday's game against the Los Angeles Chargers.",
+        "title": "George Holani (rib) good to go for Sunday",
+        "topic_id": "1411864515305308160",
+        "url": "https://www.fantasypros.com/nfl/news/611960/george-holani-rib-good-to-go-sunday.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12048",
+      "player_name": "George Holani",
+      "position": "RB",
+      "published": 1790977240930,
+      "source": "fantasy_pros",
+      "source_key": "611960",
+      "story_id": "nfl|12048|fantasy_pros|611960|1790977240930",
+      "title": "George Holani (rib) good to go for Sunday",
+      "url": "https://www.fantasypros.com/nfl/news/611960/george-holani-rib-good-to-go-sunday.php"
+    },
+    {
       "analysis": "The veteran was able to practice twice this week, but that's not enough to give the team the confidence they need to play him this week, so he will remain out against the Chargers. Fantasy managers should expect Charbonnet to be back in the lineup sometime within the next few weeks, however, which will mean less work for Emmanuel Wilson and Jadarian Price (chest) moving forward.",
       "description": "Zach Charbonnet (knee) won't play in Sunday's game against the Los Angeles Chargers.",
       "metadata": {
@@ -3342,6 +3720,26 @@
       "story_id": "nfl|9511|rotoballer|223016|1790977118000",
       "title": "Keaton Mitchell is Ready to Go for Week 4",
       "url": "https://www.rotoballer.com/player-news/keaton-mitchell-is-ready-to-go-for-week-4/1956630"
+    },
+    {
+      "analysis": "Holani still figures to get most of his playing time on passing downs but could take on more carries in the absence of Price. The Seahawks also have Jacardia Wright and Velus Jones as backfield options on the practice squad, so Emanuel Wilson and Holani won't automatically get all of the snaps.",
+      "description": "Holani (rib) doesn't have an injury designation for Sunday's game against the Chargers, while teammate Jadarian Price (chest) has been ruled out.",
+      "metadata": {
+        "analysis": "Holani still figures to get most of his playing time on passing downs but could take on more carries in the absence of Price. The Seahawks also have Jacardia Wright and Velus Jones as backfield options on the practice squad, so Emanuel Wilson and Holani won't automatically get all of the snaps.",
+        "description": "Holani (rib) doesn't have an injury designation for Sunday's game against the Chargers, while teammate Jadarian Price (chest) has been ruled out.",
+        "title": "George Holani - Cleared to play, Price ruled out",
+        "topic_id": "1411864512256110592"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12048",
+      "player_name": "George Holani",
+      "position": "RB",
+      "published": 1790976986000,
+      "source": "rotowire",
+      "source_key": "640346",
+      "story_id": "nfl|12048|rotowire|640346|1790976986000",
+      "title": "George Holani - Cleared to play, Price ruled out",
+      "url": null
     },
     {
       "analysis": null,
@@ -14371,6 +14769,26 @@
       "source_key": "639932",
       "story_id": "nfl|11834|rotowire|639932|1790735784000",
       "title": "Devaughn Vele - Logs three receptions in Week 3 defeat",
+      "url": null
+    },
+    {
+      "analysis": "Williams played 90 percent of the Jets' offensive snaps in the contest alongside an additional eight special-teams snaps as a returner. The wide receiver has stayed on the field longer due to the injuries to Adonai Mitchell (finger) and Omar Cooper (ankle). If Mitchell must miss another week, Williams should see similar playing time as the No. 2 option in the Week 4 matchup with the Bears.",
+      "description": "Williams caught one of his two targets for 21 yards and returned four kicks for 95 yards over 63 total snaps in the Jets' 31-24 loss to the Lions on Sunday.",
+      "metadata": {
+        "analysis": "Williams played 90 percent of the Jets' offensive snaps in the contest alongside an additional eight special-teams snaps as a returner. The wide receiver has stayed on the field longer due to the injuries to Adonai Mitchell (finger) and Omar Cooper (ankle). If Mitchell must miss another week, Williams should see similar playing time as the No. 2 option in the Week 4 matchup with the Bears.",
+        "description": "Williams caught one of his two targets for 21 yards and returned four kicks for 95 yards over 63 total snaps in the Jets' 31-24 loss to the Lions on Sunday.",
+        "title": "Isaiah Williams - Stays on field in loss",
+        "topic_id": "1410852731081502720"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11608",
+      "player_name": "Isaiah Williams",
+      "position": "WR",
+      "published": 1790735742000,
+      "source": "rotowire",
+      "source_key": "639931",
+      "story_id": "nfl|11608|rotowire|639931|1790735742000",
+      "title": "Isaiah Williams - Stays on field in loss",
       "url": null
     },
     {
@@ -114468,246 +114886,6 @@
       "story_id": "nfl|9509|rotoballer|220064|1788513006000",
       "title": "Bijan Robinson Still a Fantasy Superstar Despite Goal-Line Concerns",
       "url": "https://www.rotoballer.com/player-news/bijan-robinson-still-a-fantasy-superstar-despite-goal-line-work-concerns/1923097"
-    },
-    {
-      "analysis": "The three QBs to make the roster along with Strand are Tua Tagovailoa, Michael Penix Jr. (knee) and Cooper Rush. Strand is listed as last on the team's initial depth chart, so he's unlikely to see much action, if any, barring injuries to multiple signal-callers ahead of him. Falcons GM Ian Cunningham called the team's decision to carry four quarterbacks \"a little bit of an insurance policy,\" per the Associated Press, in acknowledgement of Tagovailoa's injury history and the knee issue Penix is still working his way back from. Still, Strand -- who signed with Atlanta as an undrafted free agent in May -- could ultimately end up on the practice squad when/if the team needs to provide more depth at other positions.",
-      "description": "Strand is one of four quarterbacks who made Atlanta's 53-man roster, Will McFadden of the team's official site reports.",
-      "metadata": {
-        "analysis": "The three QBs to make the roster along with Strand are Tua Tagovailoa, Michael Penix Jr. (knee) and Cooper Rush. Strand is listed as last on the team's initial depth chart, so he's unlikely to see much action, if any, barring injuries to multiple signal-callers ahead of him. Falcons GM Ian Cunningham called the team's decision to carry four quarterbacks \"a little bit of an insurance policy,\" per the Associated Press, in acknowledgement of Tagovailoa's injury history and the knee issue Penix is still working his way back from. Still, Strand -- who signed with Atlanta as an undrafted free agent in May -- could ultimately end up on the practice squad when/if the team needs to provide more depth at other positions.",
-        "description": "Strand is one of four quarterbacks who made Atlanta's 53-man roster, Will McFadden of the team's official site reports.",
-        "title": "Jack Strand - Makes roster as one of four QBs",
-        "topic_id": "1401463383684857856"
-      },
-      "nfl_team": "ATL",
-      "player_id": "13602",
-      "player_name": "Jack Strand",
-      "position": "QB",
-      "published": 1788497048000,
-      "source": "rotowire",
-      "source_key": "636253",
-      "story_id": "nfl|13602|rotowire|636253|1788497048000",
-      "title": "Jack Strand - Makes roster as one of four QBs",
-      "url": null
-    },
-    {
-      "analysis": "McLaughlin got limited opportunities early in his career, but he's played in 16 or 17 contests each of the past five years, the last three of which have been with the Bucs. He was incredibly accurate in making 94 percent of his FG attempts over his first two seasons with the club, and though that rate dropped a bit to 84 percent last year, McLaughlin also hit a career-high 11 field goals from 50-plus yards (on 12 attempts). He'll be in the final year of the three-year contract he inked in 2024, which could give McLaughlin additional incentive to make a big impact with his leg.",
-      "description": "McLaughlin is slated to be Tampa Bay's primary placekicker for the fourth consecutive campaign in 2026.",
-      "metadata": {
-        "analysis": "McLaughlin got limited opportunities early in his career, but he's played in 16 or 17 contests each of the past five years, the last three of which have been with the Bucs. He was incredibly accurate in making 94 percent of his FG attempts over his first two seasons with the club, and though that rate dropped a bit to 84 percent last year, McLaughlin also hit a career-high 11 field goals from 50-plus yards (on 12 attempts). He'll be in the final year of the three-year contract he inked in 2024, which could give McLaughlin additional incentive to make a big impact with his leg.",
-        "description": "McLaughlin is slated to be Tampa Bay's primary placekicker for the fourth consecutive campaign in 2026.",
-        "title": "Chase McLaughlin - Set for fourth season as Bucs' kicker",
-        "topic_id": "1401458350209687552"
-      },
-      "nfl_team": "TB",
-      "player_id": "6650",
-      "player_name": "Chase McLaughlin",
-      "position": "K",
-      "published": 1788496131000,
-      "source": "rotowire",
-      "source_key": "636252",
-      "story_id": "nfl|6650|rotowire|636252|1788496131000",
-      "title": "Chase McLaughlin - Set for fourth season as Bucs' kicker",
-      "url": null
-    },
-    {
-      "analysis": "Through five campaigns as a pro, Freiermuth has played at least 16 regular-season games on four occasions, and his tally of 486 receiving yards from 2025 marked his lowest among them. He was on the receiving end of passes from QB Aaron Rodgers for the first time, and with Rodgers returning for his age-43 season, Freiermuth likely isn't in store for much more production, even if the addition of WR Michael Pittman frees up more space for the tight end to operate.",
-      "description": "Freiermuth capped the Steelers' preseason schedule with one catch (on one target) for two yards in two contests.",
-      "metadata": {
-        "analysis": "Through five campaigns as a pro, Freiermuth has played at least 16 regular-season games on four occasions, and his tally of 486 receiving yards from 2025 marked his lowest among them. He was on the receiving end of passes from QB Aaron Rodgers for the first time, and with Rodgers returning for his age-43 season, Freiermuth likely isn't in store for much more production, even if the addition of WR Michael Pittman frees up more space for the tight end to operate.",
-        "description": "Freiermuth capped the Steelers' preseason schedule with one catch (on one target) for two yards in two contests.",
-        "title": "Pat Freiermuth - Plays two preseason games",
-        "topic_id": "1401455832784236544"
-      },
-      "nfl_team": "PIT",
-      "player_id": "7600",
-      "player_name": "Pat Freiermuth",
-      "position": "TE",
-      "published": 1788495541000,
-      "source": "rotowire",
-      "source_key": "636251",
-      "story_id": "nfl|7600|rotowire|636251|1788495541000",
-      "title": "Pat Freiermuth - Plays two preseason games",
-      "url": null
-    },
-    {
-      "analysis": "Rodgers didn't suit up in the preseason, and coach Mike McCarthy tied his decision to do so to the fact that Metcalf and Pittman weren't healthy enough to play. Even if one or both of Metcalf and Pittman aren't available for the regular-season opener, Rodgers wouldn't be a consideration to be inactive, but it appears the duo will be able to suit up, barring any setbacks in the meantime. Rodgers led a Steelers offense in 2025 that didn't have much talent at WR aside from Metcalf, but the quarterback still completed 65.7 percent of his passes for 3,322 yards, 24 touchdowns and seven interceptions in 16 regular-season games.",
-      "description": "Rodgers is expected to have WRs DK Metcalf (undisclosed) and Michael Pittman (hamstring) available Week 1 against the Falcons on Sunday, Sept. 13, Brooke Pryor of ESPN.com reports.",
-      "metadata": {
-        "analysis": "Rodgers didn't suit up in the preseason, and coach Mike McCarthy tied his decision to do so to the fact that Metcalf and Pittman weren't healthy enough to play. Even if one or both of Metcalf and Pittman aren't available for the regular-season opener, Rodgers wouldn't be a consideration to be inactive, but it appears the duo will be able to suit up, barring any setbacks in the meantime. Rodgers led a Steelers offense in 2025 that didn't have much talent at WR aside from Metcalf, but the quarterback still completed 65.7 percent of his passes for 3,322 yards, 24 touchdowns and seven interceptions in 16 regular-season games.",
-        "description": "Rodgers is expected to have WRs DK Metcalf (undisclosed) and Michael Pittman (hamstring) available Week 1 against the Falcons on Sunday, Sept. 13, Brooke Pryor of ESPN.com reports.",
-        "title": "Aaron Rodgers - To have Metcalf, Pittman back in Week 1",
-        "topic_id": "1401453316952592384"
-      },
-      "nfl_team": "PIT",
-      "player_id": "96",
-      "player_name": "Aaron Rodgers",
-      "position": "QB",
-      "published": 1788494763000,
-      "source": "rotowire",
-      "source_key": "636249",
-      "story_id": "nfl|96|rotowire|636249|1788494763000",
-      "title": "Aaron Rodgers - To have Metcalf, Pittman back in Week 1",
-      "url": null
-    },
-    {
-      "analysis": "Strange inked a three-year extension with Jacksonville back in June, and in the wake of roster cuts, rookie second-round pick Nate Boerkircher, rookie fifth-rounder Tanner Koziol and fifth-year pro Quintin Morris are the other TEs on the roster. As a result, Strange is the likeliest member of the group, barring health concerns, to end the campaign as the leader in offensive snaps. He's also coming off a 2025 season in which he posted a 46-540-3 line on 60 targets across 12 regular-season games.",
-      "description": "Strange is the Jaguars' projected Week 1 starter at tight end following the NFL's cut-down day, John Oehser of the team's official site reports.",
-      "metadata": {
-        "analysis": "Strange inked a three-year extension with Jacksonville back in June, and in the wake of roster cuts, rookie second-round pick Nate Boerkircher, rookie fifth-rounder Tanner Koziol and fifth-year pro Quintin Morris are the other TEs on the roster. As a result, Strange is the likeliest member of the group, barring health concerns, to end the campaign as the leader in offensive snaps. He's also coming off a 2025 season in which he posted a 46-540-3 line on 60 targets across 12 regular-season games.",
-        "description": "Strange is the Jaguars' projected Week 1 starter at tight end following the NFL's cut-down day, John Oehser of the team's official site reports.",
-        "title": "Brenton Strange - In line to start Week 1",
-        "topic_id": "1401449540866830336"
-      },
-      "nfl_team": "JAX",
-      "player_id": "9480",
-      "player_name": "Brenton Strange",
-      "position": "TE",
-      "published": 1788493888000,
-      "source": "rotowire",
-      "source_key": "636246",
-      "story_id": "nfl|9480|rotowire|636246|1788493888000",
-      "title": "Brenton Strange - In line to start Week 1",
-      "url": null
-    },
-    {
-      "analysis": "Allen is the only one of the quartet whose status for Week 1 appears to be up in the air, but Rodriguez nonetheless is poised for a regular role in Jacksonville's offense. What kind of workload that entails remains to be seen, but Tuten is Rodriguez's primary competitor for touches. At least when it comes to short-yardage and goal-line usage, the more imposing Rodriguez likely will handle those after earning 33 carries inside the 20-yard line last season for the Commanders. The Jaguars' season opener against the Browns on Sunday, Sept. 13 ultimately will provide insight into what to expect from the duo.",
-      "description": "Rodriguez currently is one of two healthy running backs on the Jaguars' roster along with Ameer Abdullah due to health concerns for Bhayshul Tuten (illness) and LeQuint Allen (undisclosed).",
-      "metadata": {
-        "analysis": "Allen is the only one of the quartet whose status for Week 1 appears to be up in the air, but Rodriguez nonetheless is poised for a regular role in Jacksonville's offense. What kind of workload that entails remains to be seen, but Tuten is Rodriguez's primary competitor for touches. At least when it comes to short-yardage and goal-line usage, the more imposing Rodriguez likely will handle those after earning 33 carries inside the 20-yard line last season for the Commanders. The Jaguars' season opener against the Browns on Sunday, Sept. 13 ultimately will provide insight into what to expect from the duo.",
-        "description": "Rodriguez currently is one of two healthy running backs on the Jaguars' roster along with Ameer Abdullah due to health concerns for Bhayshul Tuten (illness) and LeQuint Allen (undisclosed).",
-        "title": "Chris Rodriguez - Healthy ahead of Week 1",
-        "topic_id": "1401447024288653312"
-      },
-      "nfl_team": "JAX",
-      "player_id": "10219",
-      "player_name": "Chris Rodriguez",
-      "position": "RB",
-      "published": 1788493283000,
-      "source": "rotowire",
-      "source_key": "636244",
-      "story_id": "nfl|10219|rotowire|636244|1788493283000",
-      "title": "Chris Rodriguez - Healthy ahead of Week 1",
-      "url": null
-    },
-    {
-      "analysis": "Not long after Washington sat out Jacksonville's exhibition opener on Aug. 15, Washington missed a week of practice due to an undisclosed injury before retaking the field during a joint session with the Buccaneers on Aug. 25, so his lack of in-game activity isn't much a surprise. After reeling off three 100-yard receiving efforts in his final four appearances, including playoffs, of the 2025 campaign, he entered the offseason on a high note and also considered the team's most sought-after WR in fantasy terms ahead of Brian Thomas, Jakobi Meyers (hand) and Travis Hunter.",
-      "description": "Washington didn't make an appearance during the Jaguars' three-game preseason slate.",
-      "metadata": {
-        "analysis": "Not long after Washington sat out Jacksonville's exhibition opener on Aug. 15, Washington missed a week of practice due to an undisclosed injury before retaking the field during a joint session with the Buccaneers on Aug. 25, so his lack of in-game activity isn't much a surprise. After reeling off three 100-yard receiving efforts in his final four appearances, including playoffs, of the 2025 campaign, he entered the offseason on a high note and also considered the team's most sought-after WR in fantasy terms ahead of Brian Thomas, Jakobi Meyers (hand) and Travis Hunter.",
-        "description": "Washington didn't make an appearance during the Jaguars' three-game preseason slate.",
-        "title": "Parker Washington - No preseason snaps",
-        "topic_id": "1401443249079529472"
-      },
-      "nfl_team": "JAX",
-      "player_id": "9487",
-      "player_name": "Parker Washington",
-      "position": "WR",
-      "published": 1788492548000,
-      "source": "rotowire",
-      "source_key": "636242",
-      "story_id": "nfl|9487|rotowire|636242|1788492548000",
-      "title": "Parker Washington - No preseason snaps",
-      "url": null
-    },
-    {
-      "analysis": "Cooper served as one of QB Fernando Mendoza's top targets at Indiana last season, finishing with a 69-937-13 line in 16 games. After turning in a 4.42 40 time at the combine, his prospect profile was enough for the Jets to use the 30th overall pick on him in the 2026 NFL Draft. Joining a receiving corps already boasting Garrett Wilson and Adonai Mitchell, Cooper wasn't destined for more than the No. 3 WR role in the offense, but he worked behind even Isaiah Williams in three-wide sets during training camp, and his current depth-chart slotting indicates he still has work to do to earn significant reps in New York's passing game.",
-      "description": "Cooper is listed as a backup wide receiver on the Jets' unofficial depth chart.",
-      "metadata": {
-        "analysis": "Cooper served as one of QB Fernando Mendoza's top targets at Indiana last season, finishing with a 69-937-13 line in 16 games. After turning in a 4.42 40 time at the combine, his prospect profile was enough for the Jets to use the 30th overall pick on him in the 2026 NFL Draft. Joining a receiving corps already boasting Garrett Wilson and Adonai Mitchell, Cooper wasn't destined for more than the No. 3 WR role in the offense, but he worked behind even Isaiah Williams in three-wide sets during training camp, and his current depth-chart slotting indicates he still has work to do to earn significant reps in New York's passing game.",
-        "description": "Cooper is listed as a backup wide receiver on the Jets' unofficial depth chart.",
-        "title": "Omar Cooper - Listed as second-teamer on depth chart",
-        "topic_id": "1401433181583855616"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "13276",
-      "player_name": "Omar Cooper",
-      "position": "WR",
-      "published": 1788490092000,
-      "source": "rotowire",
-      "source_key": "636238",
-      "story_id": "nfl|13276|rotowire|636238|1788490092000",
-      "title": "Omar Cooper - Listed as second-teamer on depth chart",
-      "url": null
-    },
-    {
-      "analysis": "Sutton will look to make it three straight seasons with over 1,000 receiving yards as he once again operates as a top option in the wide receiver room with Denver. The Broncos traded for Jaylen Waddle in the offseason, and as a result, Sutton will likely see a reduction in targets, but his role as a top red-zone threat will remain.",
-      "description": "Sutton is listed as a starting wide receiver on the Broncos' unofficial depth chart.",
-      "metadata": {
-        "analysis": "Sutton will look to make it three straight seasons with over 1,000 receiving yards as he once again operates as a top option in the wide receiver room with Denver. The Broncos traded for Jaylen Waddle in the offseason, and as a result, Sutton will likely see a reduction in targets, but his role as a top red-zone threat will remain.",
-        "description": "Sutton is listed as a starting wide receiver on the Broncos' unofficial depth chart.",
-        "title": "Courtland Sutton - Atop depth chart again in 2026",
-        "topic_id": "1401429406265643008"
-      },
-      "nfl_team": "DEN",
-      "player_id": "5045",
-      "player_name": "Courtland Sutton",
-      "position": "WR",
-      "published": 1788489107000,
-      "source": "rotowire",
-      "source_key": "636237",
-      "story_id": "nfl|5045|rotowire|636237|1788489107000",
-      "title": "Courtland Sutton - Atop depth chart again in 2026",
-      "url": null
-    },
-    {
-      "analysis": "Coleman was selected in the fourth round of April's draft after completing his four-year college career with a 2025 campaign with Washington during which he compiled 758 rushing yards and 15 touchdowns on 156 carries over 12 contests. He also added 31 catches for 354 yards and two scores during his senior season. The Huskies played with an up-tempo style, so Coleman was on the field for all downs, resulting in him becoming a capable receiver and pass blocker. The running back is considered a more physical back than RJ Harvey, who is also set to serve as reserve option behind Dobbins this season, and as a result, Coleman could be ticketed to serve more frequently as a direct replacement for Dobbins.",
-      "description": "Coleman is likely to serve as the Broncos' between-the-tackles complement to starter J.K. Dobbins this season, Nick Kosmider of The Athletic reports.",
-      "metadata": {
-        "analysis": "Coleman was selected in the fourth round of April's draft after completing his four-year college career with a 2025 campaign with Washington during which he compiled 758 rushing yards and 15 touchdowns on 156 carries over 12 contests. He also added 31 catches for 354 yards and two scores during his senior season. The Huskies played with an up-tempo style, so Coleman was on the field for all downs, resulting in him becoming a capable receiver and pass blocker. The running back is considered a more physical back than RJ Harvey, who is also set to serve as reserve option behind Dobbins this season, and as a result, Coleman could be ticketed to serve more frequently as a direct replacement for Dobbins.",
-        "description": "Coleman is likely to serve as the Broncos' between-the-tackles complement to starter J.K. Dobbins this season, Nick Kosmider of The Athletic reports.",
-        "title": "Jonah Coleman - Destined for between-the-tackles role",
-        "topic_id": "1401413048698150912"
-      },
-      "nfl_team": "DEN",
-      "player_id": "13345",
-      "player_name": "Jonah Coleman",
-      "position": "RB",
-      "published": 1788485094000,
-      "source": "rotowire",
-      "source_key": "636230",
-      "story_id": "nfl|13345|rotowire|636230|1788485094000",
-      "title": "Jonah Coleman - Destined for between-the-tackles role",
-      "url": null
-    },
-    {
-      "analysis": "Bryant reeled in 31 of 49 targets for 378 yards and a touchdown over 15 regular-season contests in his rookie campaign with Denver in 2025. The 23-year-old possesses a 6-foot-2, 200-plus pound frame, and he's on track to operate as the immediate backup behind Courtland Sutton as a boundary receiver with Denver this season. Bryant has already impressed with his physicality at his position, and he could earn more opportunities in his first campaign with new playcaller Davis Webb.",
-      "description": "Bryant is slotted in as a top reserve option on the Broncos' unofficial depth chart.",
-      "metadata": {
-        "analysis": "Bryant reeled in 31 of 49 targets for 378 yards and a touchdown over 15 regular-season contests in his rookie campaign with Denver in 2025. The 23-year-old possesses a 6-foot-2, 200-plus pound frame, and he's on track to operate as the immediate backup behind Courtland Sutton as a boundary receiver with Denver this season. Bryant has already impressed with his physicality at his position, and he could earn more opportunities in his first campaign with new playcaller Davis Webb.",
-        "description": "Bryant is slotted in as a top reserve option on the Broncos' unofficial depth chart.",
-        "title": "Pat Bryant - Poised to operate as top depth option",
-        "topic_id": "1401405496992215040"
-      },
-      "nfl_team": "DEN",
-      "player_id": "12492",
-      "player_name": "Pat Bryant",
-      "position": "WR",
-      "published": 1788483222000,
-      "source": "rotowire",
-      "source_key": "636223",
-      "story_id": "nfl|12492|rotowire|636223|1788483222000",
-      "title": "Pat Bryant - Poised to operate as top depth option",
-      "url": null
-    },
-    {
-      "analysis": "It's been nearly 10 years since Smith last took a snap for the Jets, but after revitalizing his career with the Seahawks and Raiders over the last four seasons, he's back in New York as a grizzled vet with age (34) and experience on his side. Smith recorded at least 3,000 yards and 19 touchdowns through the air in each of those four campaigns, but he also tossed 52 interceptions in 64 regular-season games during that span. Picks are often an issue for Smith, but he at least will have a nice skill-position group of RB Breece Hall (groin), WRs Garrett Wilson, Adonai Mitchell and Omar Cooper and TEs Mason Taylor and Kenyon Sadiq (abdomen) to throw to in 2026.",
-      "description": "Smith was voted a Jets captain by his teammates ahead of the 2026 season, Amanda Vogt and Eric Allen of the team's official site reports.",
-      "metadata": {
-        "analysis": "It's been nearly 10 years since Smith last took a snap for the Jets, but after revitalizing his career with the Seahawks and Raiders over the last four seasons, he's back in New York as a grizzled vet with age (34) and experience on his side. Smith recorded at least 3,000 yards and 19 touchdowns through the air in each of those four campaigns, but he also tossed 52 interceptions in 64 regular-season games during that span. Picks are often an issue for Smith, but he at least will have a nice skill-position group of RB Breece Hall (groin), WRs Garrett Wilson, Adonai Mitchell and Omar Cooper and TEs Mason Taylor and Kenyon Sadiq (abdomen) to throw to in 2026.",
-        "description": "Smith was voted a Jets captain by his teammates ahead of the 2026 season, Amanda Vogt and Eric Allen of the team's official site reports.",
-        "title": "Geno Smith - Voted team captain",
-        "topic_id": "1401402979835195392"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "1373",
-      "player_name": "Geno Smith",
-      "position": "QB",
-      "published": 1788482754000,
-      "source": "rotowire",
-      "source_key": "636221",
-      "story_id": "nfl|1373|rotowire|636221|1788482754000",
-      "title": "Geno Smith - Voted team captain",
-      "url": null
     }
   ]
 }

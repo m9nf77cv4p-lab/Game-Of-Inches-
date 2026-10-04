@@ -2,20 +2,50 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **5659**
-- Newly captured: **3**
+- Stored stories: **5667**
+- Newly captured: **20**
 
 ## Latest news
 
-- **NEW — Jadarian Price** — Jadarian Price (chest) placed on IR (2026-10-03T22:45:39.665000Z)
+- **NEW — Eli Stowers** — Eli Stowers Likely Headed for a Developmental Season (2026-10-03T23:10:11Z)
+  - Source: https://www.rotoballer.com/player-news/eli-stowers-likely-headed-for-a-developmental-season/1957658
+- **Jadarian Price** — Jadarian Price (chest) placed on IR (2026-10-03T22:45:39.665000Z)
   - Price aggravated a chest injury during Wednesday's practice. He will now miss at least four games. Emanuel Wilson and George Holani will lead the backfield with Zach Charbonnet returning as early as next week. 
   - Source: https://www.fantasypros.com/nfl/news/611991/jadarian-price-chest-placed-on-ir.php
+- **NEW — Ricky Pearsall** — Ricky Pearsall Worth Trading in Dynasty Leagues Amid Recovery? (2026-10-03T22:35:57Z)
+  - Source: https://www.rotoballer.com/player-news/ricky-pearsall-worth-trading-in-dynasty-leagues-amid-recovery/1957646
+- **NEW — Juwan Johnson** — Juwan Johnson Remains a Reliable TE1 in Week 4 Against Falcons (2026-10-03T22:34:10Z)
+  - Source: https://www.rotoballer.com/player-news/juwan-johnson-remains-a-reliable-te1-in-week-4-against-falcons/1957644
+- **NEW — Ty Simpson** — No Path to Redraft Production for Ty Simpson (2026-10-03T22:28:10Z)
+  - Source: https://www.rotoballer.com/player-news/no-path-to-redraft-production-for-ty-simpson/1957641
+- **NEW — Devaughn Vele** — Devaughn Vele Emerging as Intriguing Week 4 Option Against Falcons (2026-10-03T22:24:10Z)
+  - Source: https://www.rotoballer.com/player-news/devaughn-vele-emerging-as-intriguing-week-4-option-against-falcons/1957631
+- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane Still a Priority Stash in Deeper Leagues (2026-10-03T22:12:10Z)
+  - Source: https://www.rotoballer.com/player-news/jakobi-lane-still-a-priority-stash-in-deeper-leagues/1957597
+- **NEW — Shedeur Sanders** — Shedeur Sanders' Redraft Value Slipping Away as Offense Surges (2026-10-03T22:08:11Z)
+  - Source: https://www.rotoballer.com/player-news/shedeur-sanders-redraft-value-slipping-away-as-offense-surges/1957595
+- **NEW — Chris Olave** — Chris Olave Set for Another Strong Showing in Week 4 Against Falcons (2026-10-03T22:05:10Z)
+  - Source: https://www.rotoballer.com/player-news/chris-olave-set-for-another-strong-showing-in-week-4-against-falcons/1957593
+- **NEW — Kendre Miller** — Kendre Miller Set for Increased Workload in Week 4 (2026-10-03T21:46:27Z)
+  - Source: https://www.rotoballer.com/player-news/kendre-miller-set-for-increased-workload-in-week-4/1957583
+- **NEW — Jordan Mason** — Jordan Mason Remains Worthy Stash Option (2026-10-03T21:42:10Z)
+  - Source: https://www.rotoballer.com/player-news/jordan-mason-remains-worthy-stash-option/1957576
+- **NEW — Alvin Kamara** — Alvin Kamara Faces Tough Week 4 Matchup Against Falcons (2026-10-03T21:33:09Z)
+  - Source: https://www.rotoballer.com/player-news/title-alvin-kamara-faces-tough-week-4-matchup-against-falcons/1957572
+- **NEW — Tyler Shough** — Tyler Shough Set Up for Another Strong Showing Against the Falcons (2026-10-03T21:15:09Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-shough-set-up-for-another-strong-showing-against-the-falcons/1957555
+- **NEW — Tank Bigsby** — Tank Bigsby Belongs on the Bench in Week 4 (2026-10-03T21:12:10Z)
+  - Source: https://www.rotoballer.com/player-news/tank-bigsby-belongs-on-the-bench-in-week-4/1957551
+- **NEW — Blake Corum** — Blake Corum Avoidable Against a Strong Eagles Run Defense (2026-10-03T20:52:10Z)
+  - Source: https://www.rotoballer.com/player-news/blake-corum-avoidable-against-a-strong-eagles-run-defense/1957541
 - **Jadarian Price** — Jadarian Price - Placed on injured reserve (2026-10-03T20:02:41Z)
   - Price saw his practice participation during Week 4 prep decline due to a chest injury before he was ruled out ahead of Sunday's game against the Chargers. The injury is severe enough for the rookie first-rounder to go on IR, meaning Price will be forced to miss at least the next four games and won't be eligible to return until at least Week 8 against the Bears on Sunday, Nov. 2. Emanuel Wilson and George Holani will serve as the Seahawks' top running backs for Week 4 due to Price's absence, but Zach Charbonnet (knee) could also be in the mix for backfield duties as soon as Week 5 against the 49ers if he's activated from the reserve/PUP list.
-- **NEW — DeMario Douglas** — DeMario Douglas Remains Off Fantasy Radars in Week 4 vs. Bills (2026-10-03T19:08:11Z)
+- **DeMario Douglas** — DeMario Douglas Remains Off Fantasy Radars in Week 4 vs. Bills (2026-10-03T19:08:11Z)
   - Source: https://www.rotoballer.com/player-news/demario-douglas-remains-off-fantasy-radars-in-week-4-vs-bills/1957520
-- **NEW — Pat Bryant** — Pat Bryant Hopes to Continue His Momentum in Week 4 vs. 49ers (2026-10-03T18:54:10Z)
+- **Pat Bryant** — Pat Bryant Hopes to Continue His Momentum in Week 4 vs. 49ers (2026-10-03T18:54:10Z)
   - Source: https://www.rotoballer.com/player-news/pat-bryant-hopes-to-continue-his-momentum-in-week-4-vs-49ers/1957516
+- **NEW — Isaiah Williams** — Isaiah Williams Expected to Handle Bigger Role vs. Bears (2026-10-03T18:39:53Z)
+  - Source: https://www.rotoballer.com/player-news/isaiah-williams-expected-to-handle-bigger-role-vs-bears/1957513
 - **Noah Fant** — Noah Fant - Questionable for MNF (2026-10-03T18:05:34Z)
   - Fant's practice participation was limited all week due to an abdominal injury that he likely picked up in Week 3 against the Raiders. With the questionable tag, the veteran tight end's status for Monday may not be known until the Saints announce their list of inactive players approximately 90 minutes before the 8:15 p.m. ET kickoff. Oscar Delp and Treyton Welch would see more rotational snaps at tight end behind Juwan Johnson if Fant is not cleared to play against Atlanta.
 - **Hunter Henry** — Hunter Henry Should Remain a Non-Factor in Week 4 (2026-10-03T17:04:11Z)
@@ -181,33 +211,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/omarion-hampton-a-risky-rb2-in-week-4-vs-seahawks/1957025
 - **Justin Herbert** — Justin Herbert Nightmare Season Could Get Worse in Week 4 vs. Seahawks (2026-10-03T09:12:13Z)
   - Source: https://www.rotoballer.com/player-news/justin-herbert-nightmare-season-could-get-worse-in-week-4-vs-seahawks/1957021
-- **Jalen Coker** — Jalen Coker Set Up for Big Game if Active in Week 4 (2026-10-03T09:10:10Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-coker-set-up-for-big-game-if-active-in-week-4/1957018
-- **Kayshon Boutte** — Kayshon Boutte Set for Smaller Role (2026-10-03T08:44:16Z)
-  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-set-for-smaller-role/1956980
-- **Nico Collins** — Nico Collins Is a Top-10 Option in His Return (2026-10-03T08:37:28Z)
-  - Source: https://www.rotoballer.com/player-news/nico-collins-is-a-top-10-option-in-his-return/1956973
-- **Bo Nix** — Bo Nix Coming Off Three-Touchdown Effort (2026-10-03T08:29:09Z)
-  - Source: https://www.rotoballer.com/player-news/bo-nix-coming-off-three-touchdown-effort/1956967
-- **Dalton Schultz** — Dalton Schultz a Borderline Starter in Week 4 (2026-10-03T08:23:08Z)
-  - Source: https://www.rotoballer.com/player-news/dalton-schultz-a-borderline-starter-in-week-4/1956962
-- **Ka'imi Fairbairn** — Ka'imi Fairbairn Is a Solid Starter Against the Cowboys (2026-10-03T08:16:14Z)
-  - Source: https://www.rotoballer.com/player-news/kaimi-fairbairn-is-a-solid-starter-against-the-cowboys/1956955
-- **Jaylen Waddle** — Jaylen Waddle Struggling to Find Consistency (2026-10-03T08:11:09Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-waddle-struggling-to-find-consistency/1956953
-- **RJ Harvey** — RJ Harvey a Factor in Broncos Passing Game (2026-10-03T08:00:10Z)
-  - Source: https://www.rotoballer.com/player-news/rj-harvey-a-factor-in-broncos-passing-game/1956945
-- **J.K. Dobbins** — J.K. Dobbins Faces Tough Matchup vs. 49ers (2026-10-03T07:54:10Z)
-  - Source: https://www.rotoballer.com/player-news/j-k-dobbins-faces-tough-matchup-vs-49ers/1956941
-- **Chris Bell** — Chris Bell Can Be a Deep-League Option in Week 4 (2026-10-03T07:42:11Z)
-  - Source: https://www.rotoballer.com/player-news/chris-bell-can-be-a-deep-league-option-in-week-4/1956935
-- **Malik Washington** — Malik Washington Set for a Big Workload (2026-10-03T07:32:10Z)
-  - Source: https://www.rotoballer.com/player-news/malik-washington-set-for-a-big-workload/1956921
-- **Jaylen Wright** — Jaylen Wright Has Deep-League Sleeper Potential (2026-10-03T07:21:09Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-wright-has-deep-league-sleeper-potential/1956911
-- **Mark Andrews** — Mark Andrews Faces a Tough Matchup in Week 4 with Declining Peripherals (2026-10-03T07:06:14Z)
-  - Source: https://www.rotoballer.com/player-news/mark-andrews-faces-a-tough-matchup-in-week-4-with-declining-peripherals/1956876
-- **Ollie Gordon** — Ollie Gordon II Is a Deep-League FLEX Option (2026-10-03T07:05:10Z)
-  - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-is-a-deep-league-flex-option/1956874
-- **Makai Lemon** — Makai Lemon Set For WR2 Role In Absence of Top Pass-Catchers In Week 4 (2026-10-03T06:58:10Z)
-  - Source: https://www.rotoballer.com/player-news/makai-lemon-set-for-wr2-role-in-absence-of-top-pass-catchers-in-week-4/1956869

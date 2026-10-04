@@ -21543,12 +21543,12 @@
       ],
       "first_name": "Jadarian",
       "full_name": "Jadarian Price",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Price",
       "nfl_team": "SEA",
       "player_id": "13286",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 0
     },
     "13287": {
@@ -24559,8 +24559,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-03T19:11:45Z",
-    "source_fingerprint": "26692e5787d95876a017e96b5c9bac91459fe9be61a593250996c947beeabccd"
+    "last_changed_at": "2026-10-03T22:08:02Z",
+    "source_fingerprint": "83a89fa0892211a0c58a5c7648a84e1282bca2e68c018ee58e86402589d33cbe"
   },
   "teams": [
     {
