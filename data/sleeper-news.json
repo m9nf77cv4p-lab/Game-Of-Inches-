@@ -1,22 +1,11 @@
 {
-  "last_checked_at": "2026-10-03T22:08:04Z",
+  "last_checked_at": "2026-10-04T00:35:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 299,
   "new_story_ids": [
-    "nfl|10219|rotoballer|223180|1791045972000",
-    "nfl|11435|rotoballer|223173|1791043749000",
-    "nfl|11631|rotoballer|223170|1791041820000",
-    "nfl|12490|rotoballer|223166|1791039975000",
-    "nfl|13286|rotoballer|223172|1791043511000",
-    "nfl|13286|rotowire|640465|1791057761000",
-    "nfl|3214|rotoballer|223183|1791047051000",
-    "nfl|4177|rotoballer|223178|1791046210000",
-    "nfl|5857|rotoballer|223167|1791040452000",
-    "nfl|5947|rotoballer|223169|1791041050000",
-    "nfl|7611|rotoballer|223176|1791044775000",
-    "nfl|8121|rotoballer|223179|1791046029000",
-    "nfl|9480|rotoballer|223177|1791045600000",
-    "nfl|9487|rotoballer|223168|1791040749000"
+    "nfl|12492|rotoballer|223186|1791053650000",
+    "nfl|13286|fantasy_pros|611991|1791067539665",
+    "nfl|9501|rotoballer|223187|1791054491000"
   ],
   "schema_version": 1,
   "source": {
@@ -26,6 +15,27 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Price aggravated a chest injury during Wednesday's practice. He will now miss at least four games. Emanuel Wilson and George Holani will lead the backfield with Zach Charbonnet returning as early as next week. ",
+      "description": "The Seahawks placed RB Jadarian Price on injured reserve.",
+      "metadata": {
+        "analysis": "Price aggravated a chest injury during Wednesday's practice. He will now miss at least four games. Emanuel Wilson and George Holani will lead the backfield with Zach Charbonnet returning as early as next week. ",
+        "description": "The Seahawks placed RB Jadarian Price on injured reserve.",
+        "title": "Jadarian Price (chest) placed on IR",
+        "topic_id": "1412243255650742272",
+        "url": "https://www.fantasypros.com/nfl/news/611991/jadarian-price-chest-placed-on-ir.php"
+      },
+      "nfl_team": "SEA",
+      "player_id": "13286",
+      "player_name": "Jadarian Price",
+      "position": "RB",
+      "published": 1791067539665,
+      "source": "fantasy_pros",
+      "source_key": "611991",
+      "story_id": "nfl|13286|fantasy_pros|611991|1791067539665",
+      "title": "Jadarian Price (chest) placed on IR",
+      "url": "https://www.fantasypros.com/nfl/news/611991/jadarian-price-chest-placed-on-ir.php"
+    },
     {
       "analysis": "Price saw his practice participation during Week 4 prep decline due to a chest injury before he was ruled out ahead of Sunday's game against the Chargers. The injury is severe enough for the rookie first-rounder to go on IR, meaning Price will be forced to miss at least the next four games and won't be eligible to return until at least Week 8 against the Bears on Sunday, Nov. 2. Emanuel Wilson and George Holani will serve as the Seahawks' top running backs for Week 4 due to Price's absence, but Zach Charbonnet (knee) could also be in the mix for backfield duties as soon as Week 5 against the 49ers if he's activated from the reserve/PUP list.",
       "description": "Price (chest) was placed on injured reserve Saturday, Adam Schefter of ESPN reports.",
@@ -45,6 +55,46 @@
       "story_id": "nfl|13286|rotowire|640465|1791057761000",
       "title": "Jadarian Price - Placed on injured reserve",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wideout DeMario Douglas has fallen victim to a broken Patriots passing offense. Once a fantasy favorite in the community has now drifted off fantasy radars in 2026. The 25-year-old is the PPR WR84 overall and is averaging 4.6 PPR points per game. In addition, the Patriots offense looks like a shell of itself from a year ago, when Drake Maye was an MVP runner-up. As a result, Douglas enters Week 4 as RotoBaller's PPR WR72 against an intriguing Buffalo Bills defense. The Bills defense has allowed the fifth-most receiving touchdowns (7) and the seventh-most receiving yards this season. This is a prime opportunity for the Patriots offense to jump-start their season. However, Douglas should remain out of the fantasy lineups in Week 4 and until the Patriots have a reliable passing game again.",
+      "metadata": {
+        "description": "New England Patriots wideout DeMario Douglas has fallen victim to a broken Patriots passing offense. Once a fantasy favorite in the community has now drifted off fantasy radars in 2026. The 25-year-old is the PPR WR84 overall and is averaging 4.6 PPR points per game. In addition, the Patriots offense looks like a shell of itself from a year ago, when Drake Maye was an MVP runner-up. As a result, Douglas enters Week 4 as RotoBaller's PPR WR72 against an intriguing Buffalo Bills defense. The Bills defense has allowed the fifth-most receiving touchdowns (7) and the seventh-most receiving yards this season. This is a prime opportunity for the Patriots offense to jump-start their season. However, Douglas should remain out of the fantasy lineups in Week 4 and until the Patriots have a reliable passing game again.",
+        "title": "DeMario Douglas Remains Off Fantasy Radars in Week 4 vs. Bills",
+        "topic_id": "1412252054751092736",
+        "url": "https://www.rotoballer.com/player-news/demario-douglas-remains-off-fantasy-radars-in-week-4-vs-bills/1957520"
+      },
+      "nfl_team": "NE",
+      "player_id": "9501",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "published": 1791054491000,
+      "source": "rotoballer",
+      "source_key": "223187",
+      "story_id": "nfl|9501|rotoballer|223187|1791054491000",
+      "title": "DeMario Douglas Remains Off Fantasy Radars in Week 4 vs. Bills",
+      "url": "https://www.rotoballer.com/player-news/demario-douglas-remains-off-fantasy-radars-in-week-4-vs-bills/1957520"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wideout Pat Bryant is coming off his best fantasy performance in 2026. The 23-year-old caught both his targets for 44 yards and landed in the end zone for 14.4 PPR points. However, Bryant has fallen victim to an inconsistent, shaky start by the Broncos' passing game and is teetering on being flex-viable in deeper leagues. As a result, Bryant enters Week 4 as RotoBaller's PPR WR55 against a stout San Francisco 49ers defense. The 49ers defense has allowed the second-fewest touchdowns (3) and the 10th-fewest receiving yards this season. Bryant can be plugged into lineups as a desperation flex option in deep leagues for Week 4. He could become a reliable fantasy option for managers if the Broncos' passing offense becomes more consistent.",
+      "metadata": {
+        "description": "Denver Broncos wideout Pat Bryant is coming off his best fantasy performance in 2026. The 23-year-old caught both his targets for 44 yards and landed in the end zone for 14.4 PPR points. However, Bryant has fallen victim to an inconsistent, shaky start by the Broncos' passing game and is teetering on being flex-viable in deeper leagues. As a result, Bryant enters Week 4 as RotoBaller's PPR WR55 against a stout San Francisco 49ers defense. The 49ers defense has allowed the second-fewest touchdowns (3) and the 10th-fewest receiving yards this season. Bryant can be plugged into lineups as a desperation flex option in deep leagues for Week 4. He could become a reliable fantasy option for managers if the Broncos' passing offense becomes more consistent.",
+        "title": "Pat Bryant Hopes to Continue His Momentum in Week 4 vs. 49ers",
+        "topic_id": "1412247020822880256",
+        "url": "https://www.rotoballer.com/player-news/pat-bryant-hopes-to-continue-his-momentum-in-week-4-vs-49ers/1957516"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12492",
+      "player_name": "Pat Bryant",
+      "position": "WR",
+      "published": 1791053650000,
+      "source": "rotoballer",
+      "source_key": "223186",
+      "story_id": "nfl|12492|rotoballer|223186|1791053650000",
+      "title": "Pat Bryant Hopes to Continue His Momentum in Week 4 vs. 49ers",
+      "url": "https://www.rotoballer.com/player-news/pat-bryant-hopes-to-continue-his-momentum-in-week-4-vs-49ers/1957516"
     },
     {
       "analysis": "Fant's practice participation was limited all week due to an abdominal injury that he likely picked up in Week 3 against the Raiders. With the questionable tag, the veteran tight end's status for Monday may not be known until the Saints announce their list of inactive players approximately 90 minutes before the 8:15 p.m. ET kickoff. Oscar Delp and Treyton Welch would see more rotational snaps at tight end behind Juwan Johnson if Fant is not cleared to play against Atlanta.",
@@ -114658,306 +114708,6 @@
       "story_id": "nfl|1373|rotowire|636221|1788482754000",
       "title": "Geno Smith - Voted team captain",
       "url": null
-    },
-    {
-      "analysis": "Swift was reportedly \"in significant discomfort\" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will carry an injury designation for the time being, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injury report, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.",
-      "description": "Swift (abdomen) is believed to have left Thursday's practice with \"a cramp,\" Adam Schefter of ESPN reports.",
-      "metadata": {
-        "analysis": "Swift was reportedly \"in significant discomfort\" when leaving Thursday's practice with an apparent abdominal issue, but the early diagnosis seems to suggest he is not dealing with a serious setback. Even still, Swift will carry an injury designation for the time being, and it could be a few days before an official update from the team is released. Both Swift and Kyle Monangai (knee) now find themselves on the injury report, and if either is limited or unavailable altogether in the opener, Roschon Johnson would stand to benefit.",
-        "description": "Swift (abdomen) is believed to have left Thursday's practice with \"a cramp,\" Adam Schefter of ESPN reports.",
-        "title": "D'Andre Swift - Believed to be dealing with cramp",
-        "topic_id": "1401399204957433856"
-      },
-      "nfl_team": "CHI",
-      "player_id": "6790",
-      "player_name": "D'Andre Swift",
-      "position": "RB",
-      "published": 1788481922000,
-      "source": "rotowire",
-      "source_key": "636216",
-      "story_id": "nfl|6790|rotowire|636216|1788481922000",
-      "title": "D'Andre Swift - Believed to be dealing with cramp",
-      "url": null
-    },
-    {
-      "analysis": "Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.",
-      "description": "Coker is listed as a starting wide receiver on the Panthers' unofficial depth chart.",
-      "metadata": {
-        "analysis": "Despite going undrafted in 2024, Coker has made his presence felt through two pro campaigns, resulting in 65 catches (on 89 targets) for 872 yards and five touchdowns in 22 regular-season games. His defining moment of sorts occurred the last time he was on the field for a contest that counts, when he torched the Rams for 9-134-1 on 12 targets in a wild-card loss. Coker will continue to operate as a complementary option to No. 1 WR Tetairoa McMillan for QB Bryce Young in 2026.",
-        "description": "Coker is listed as a starting wide receiver on the Panthers' unofficial depth chart.",
-        "title": "Jalen Coker - Listed as starting WR",
-        "topic_id": "1401391653889011712"
-      },
-      "nfl_team": "CAR",
-      "player_id": "11646",
-      "player_name": "Jalen Coker",
-      "position": "WR",
-      "published": 1788480204000,
-      "source": "rotowire",
-      "source_key": "636209",
-      "story_id": "nfl|11646|rotowire|636209|1788480204000",
-      "title": "Jalen Coker - Listed as starting WR",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Green Bay Packers wide receiver Jayden Reed is likely headed for a larger role on offense in 2026. Not only is Reed fully healthy after recovering from last year's injuries, but he also faces slightly less competition for targets after Romeo Doubs departed for New England in free agency. Injuries limited Reed to just 19 catches, 207 yards, and one touchdown last year, but he finished as the WR29 or higher in PPR leagues in both 2023 and 2024. Even if he doesn't return to his top-30 receiver form, he can still be a WR3/flex in fantasy leagues with 12+ teams. His biggest competition for targets is Matthew Golden, and the good news is that Reed has more experience in the NFL than Golden. Plus, Golden still needs to prove that he's worthy of a larger role after catching just 29 passes with zero touchdowns as a rookie last year, whereas Reed has more of an established track record. For now, it seems like Reed has the edge over Golden. He currently has an ADP of 117.3, which corresponds to the 10th round of fantasy drafts and makes him the 31st receiver off the board.",
-      "metadata": {
-        "description": "Green Bay Packers wide receiver Jayden Reed is likely headed for a larger role on offense in 2026. Not only is Reed fully healthy after recovering from last year's injuries, but he also faces slightly less competition for targets after Romeo Doubs departed for New England in free agency. Injuries limited Reed to just 19 catches, 207 yards, and one touchdown last year, but he finished as the WR29 or higher in PPR leagues in both 2023 and 2024. Even if he doesn't return to his top-30 receiver form, he can still be a WR3/flex in fantasy leagues with 12+ teams. His biggest competition for targets is Matthew Golden, and the good news is that Reed has more experience in the NFL than Golden. Plus, Golden still needs to prove that he's worthy of a larger role after catching just 29 passes with zero touchdowns as a rookie last year, whereas Reed has more of an established track record. For now, it seems like Reed has the edge over Golden. He currently has an ADP of 117.3, which corresponds to the 10th round of fantasy drafts and makes him the 31st receiver off the board.",
-        "title": "Jayden Reed Set for Larger Role Amid Improved Health",
-        "topic_id": "1401452055020756992",
-        "url": "https://www.rotoballer.com/player-news/jayden-reed-set-for-larger-role-amid-improved-health/1922987"
-      },
-      "nfl_team": "GB",
-      "player_id": "10222",
-      "player_name": "Jayden Reed",
-      "position": "WR",
-      "published": 1788480127000,
-      "source": "rotoballer",
-      "source_key": "220062",
-      "story_id": "nfl|10222|rotoballer|220062|1788480127000",
-      "title": "Jayden Reed Set for Larger Role Amid Improved Health",
-      "url": "https://www.rotoballer.com/player-news/jayden-reed-set-for-larger-role-amid-improved-health/1922987"
-    },
-    {
-      "analysis": null,
-      "description": "Miami Dolphins running back De'Von Achane doesn't have a very strong supporting cast around him, but he should still prevail as a top-10 fantasy running back with elite upside this season. Miami's offense will look quite different this year with Tua Tagovailoa, Jaylen Waddle, and Tyreek Hill gone. The only truly familiar face is Achane, who has been the RB5 in PPR leagues for each of the last two years. In 2025, he tallied 1,350 rushing yards, 67 catches, 488 receiving yards, and 12 touchdowns. He offers game-changing speed and athleticism while still offering impressive touchdown potential, even if the Dolphins' offense isn't expected to see a ton of scoring opportunities. We're also excited about Achane's volume, assuming he can stay healthy. Head coach Jeff Hafley previously said that Achane could get 40+ touches per game. That's obviously hyperbole, but fantasy managers should be excited that the head coach doesn't plan to limit Achane's workload at all. Not only does he project as the Dolphins' workhorse back, but he's really the only flashy option in this offense. We would not be surprised to see him finish as the RB5 (or higher) once again this year. He's currently being drafted near the start of the second round in most leagues, which means managers at the one-two turn could pair him with someone like James Cook, Amon-Ra St. Brown, Chase Brown, or Saquon Barkley.",
-      "metadata": {
-        "description": "Miami Dolphins running back De'Von Achane doesn't have a very strong supporting cast around him, but he should still prevail as a top-10 fantasy running back with elite upside this season. Miami's offense will look quite different this year with Tua Tagovailoa, Jaylen Waddle, and Tyreek Hill gone. The only truly familiar face is Achane, who has been the RB5 in PPR leagues for each of the last two years. In 2025, he tallied 1,350 rushing yards, 67 catches, 488 receiving yards, and 12 touchdowns. He offers game-changing speed and athleticism while still offering impressive touchdown potential, even if the Dolphins' offense isn't expected to see a ton of scoring opportunities. We're also excited about Achane's volume, assuming he can stay healthy. Head coach Jeff Hafley previously said that Achane could get 40+ touches per game. That's obviously hyperbole, but fantasy managers should be excited that the head coach doesn't plan to limit Achane's workload at all. Not only does he project as the Dolphins' workhorse back, but he's really the only flashy option in this offense. We would not be surprised to see him finish as the RB5 (or higher) once again this year. He's currently being drafted near the start of the second round in most leagues, which means managers at the one-two turn could pair him with someone like James Cook, Amon-Ra St. Brown, Chase Brown, or Saquon Barkley.",
-        "title": "De'Von Achane Still Holds Elite Upside Despite Poor Supporting Cast",
-        "topic_id": "1401452055024951296",
-        "url": "https://www.rotoballer.com/player-news/devon-achane-still-holds-elite-upside-despite-poor-supporting-cast/1922985"
-      },
-      "nfl_team": "MIA",
-      "player_id": "9226",
-      "player_name": "De'Von Achane",
-      "position": "RB",
-      "published": 1788479827000,
-      "source": "rotoballer",
-      "source_key": "220063",
-      "story_id": "nfl|9226|rotoballer|220063|1788479827000",
-      "title": "De'Von Achane Still Holds Elite Upside Despite Poor Supporting Cast",
-      "url": "https://www.rotoballer.com/player-news/devon-achane-still-holds-elite-upside-despite-poor-supporting-cast/1922985"
-    },
-    {
-      "analysis": "Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as \"aggressive, which is huge for us.\" The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.",
-      "description": "Young will be working with a new play caller in 2026 with offensive coordinator Brad Idzik taking those duties from head coach Dave Canales, Mike Kaye of ESPN.com reports.",
-      "metadata": {
-        "analysis": "Idzik is entering his third year as the Panthers' OC, and the switch in play callers has been described by Young as \"aggressive, which is huge for us.\" The results in two preseason contests were tepid, to say the least, as Young completed eight of 11 passes for 67 yards, no touchdowns and no interceptions while directing four drives. Having dynamic second-year WR Tetairoa McMillan at their disposal will help matters once the games begin to count Week 1, but the rest of the skill-position group leaves something to be desired.",
-        "description": "Young will be working with a new play caller in 2026 with offensive coordinator Brad Idzik taking those duties from head coach Dave Canales, Mike Kaye of ESPN.com reports.",
-        "title": "Bryce Young - Working with new play caller",
-        "topic_id": "1401390396033994752"
-      },
-      "nfl_team": "CAR",
-      "player_id": "9228",
-      "player_name": "Bryce Young",
-      "position": "QB",
-      "published": 1788479701000,
-      "source": "rotowire",
-      "source_key": "636206",
-      "story_id": "nfl|9228|rotowire|636206|1788479701000",
-      "title": "Bryce Young - Working with new play caller",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Indianapolis Colts running back Jonathan Taylor is poised to have another very productive season in 2026. Taylor ranked as the overall RB4 in PPR leagues last year, and even that finish was somewhat underwhelming relative to how dominant he started the season. Through the first 10 weeks last year, he scored a whopping 17 touchdowns while ranking as the RB1 in PPR leagues. In fact, during that span, he scored 25.1 points more than the RB2, Christian McCaffrey. He also had a torrid stretch where he recorded five different three-touchdown games within eight weeks. In other words, Taylor was playing at an MVP level before cooling off after the bye week (and after quarterback Daniel Jones went down with an Achilles injury). Jones is healthy again, restoring a semblance of life to this offense and potentially reigniting Taylor's upside as the overall RB1 if he can stay healthy. He is currently being drafted in the middle of the first round of fantasy drafts, typically as the fourth running back off the board.",
-      "metadata": {
-        "description": "Indianapolis Colts running back Jonathan Taylor is poised to have another very productive season in 2026. Taylor ranked as the overall RB4 in PPR leagues last year, and even that finish was somewhat underwhelming relative to how dominant he started the season. Through the first 10 weeks last year, he scored a whopping 17 touchdowns while ranking as the RB1 in PPR leagues. In fact, during that span, he scored 25.1 points more than the RB2, Christian McCaffrey. He also had a torrid stretch where he recorded five different three-touchdown games within eight weeks. In other words, Taylor was playing at an MVP level before cooling off after the bye week (and after quarterback Daniel Jones went down with an Achilles injury). Jones is healthy again, restoring a semblance of life to this offense and potentially reigniting Taylor's upside as the overall RB1 if he can stay healthy. He is currently being drafted in the middle of the first round of fantasy drafts, typically as the fourth running back off the board.",
-        "title": "Jonathan Taylor Poised for Another Productive Year",
-        "topic_id": "1401448280075870208",
-        "url": "https://www.rotoballer.com/player-news/jonathan-taylor-poised-for-another-productive-year/1922981"
-      },
-      "nfl_team": "IND",
-      "player_id": "6813",
-      "player_name": "Jonathan Taylor",
-      "position": "RB",
-      "published": 1788479174000,
-      "source": "rotoballer",
-      "source_key": "220060",
-      "story_id": "nfl|6813|rotoballer|220060|1788479174000",
-      "title": "Jonathan Taylor Poised for Another Productive Year",
-      "url": "https://www.rotoballer.com/player-news/jonathan-taylor-poised-for-another-productive-year/1922981"
-    },
-    {
-      "analysis": null,
-      "description": "Philadelphia Eagles wide receiver Dontayvion Wicks is expected to occupy a starting role when the regular season gets underway next week. Wicks was traded from the Packers to the Eagles this offseason, and he'll immediately occupy a significant role following the departure of A.J. Brown. All signs point to the 25-year-old opening the regular season as Philly's No. 2 receiver, starting opposite DeVonta Smith. His track record in Green Bay was iffy, but there was never any doubt about his role with the Eagles. After all, he was held out of all three preseason games due to his status as a projected starter. We expect the Eagles' offense to trend upward under new offensive coordinator Sean Mannion, which bodes well for Wicks' upside as a low-end WR3/flex. For now, he's an extremely affordable option in fantasy drafts. The latest ADP has him as a fringe draft pick in 12-team leagues and a 14th-round pick in 14-team leagues.",
-      "metadata": {
-        "description": "Philadelphia Eagles wide receiver Dontayvion Wicks is expected to occupy a starting role when the regular season gets underway next week. Wicks was traded from the Packers to the Eagles this offseason, and he'll immediately occupy a significant role following the departure of A.J. Brown. All signs point to the 25-year-old opening the regular season as Philly's No. 2 receiver, starting opposite DeVonta Smith. His track record in Green Bay was iffy, but there was never any doubt about his role with the Eagles. After all, he was held out of all three preseason games due to his status as a projected starter. We expect the Eagles' offense to trend upward under new offensive coordinator Sean Mannion, which bodes well for Wicks' upside as a low-end WR3/flex. For now, he's an extremely affordable option in fantasy drafts. The latest ADP has him as a fringe draft pick in 12-team leagues and a 14th-round pick in 14-team leagues.",
-        "title": "Dontayvion Wicks Set for Starting Role in Philadelphia",
-        "topic_id": "1401448280071675904",
-        "url": "https://www.rotoballer.com/player-news/dontayvion-wicks-set-for-starting-role-in-philadelphia/1922979"
-      },
-      "nfl_team": "PHI",
-      "player_id": "9486",
-      "player_name": "Dontayvion Wicks",
-      "position": "WR",
-      "published": 1788478928000,
-      "source": "rotoballer",
-      "source_key": "220061",
-      "story_id": "nfl|9486|rotoballer|220061|1788478928000",
-      "title": "Dontayvion Wicks Set for Starting Role in Philadelphia",
-      "url": "https://www.rotoballer.com/player-news/dontayvion-wicks-set-for-starting-role-in-philadelphia/1922979"
-    },
-    {
-      "analysis": null,
-      "description": "Jacksonville Jaguars quarterback Trevor Lawrence had an impressive 2025 season, but he could take yet another step forward with a very strong supporting cast at his disposal in 2026. Lawrence has a stacked wide receiver room featuring Brian Thomas Jr., Jakobi Meyers, Parker Washington, and (sometimes) Travis Hunter. Meanwhile, tight end Brenton Strange is expected to make a big Year 4 leap, and Bhayshul Tuten projects as another key target for Lawrence in the short-yardage passing game. Last year, Lawrence completed 60.9% of his pass attempts for 4,007 passing yards, 29 passing touchdowns, and 12 interceptions. He was arguably even more impressive with his legs, rushing for an additional 359 yards and nine touchdowns. Throughout the course of the year, he totaled 38 touchdowns, allowing him to rank as the overall QB4 in fantasy football. He has a chance to replicate (or even improve upon) that career-best fantasy finish from last year. The current rankings are on the safer side, though, as RotoBaller's experts have Lawrence as the QB9 in redraft. He currently has an ADP of 93.7, which corresponds to the eighth round of drafts and makes him the 10th quarterback off the board.",
-      "metadata": {
-        "description": "Jacksonville Jaguars quarterback Trevor Lawrence had an impressive 2025 season, but he could take yet another step forward with a very strong supporting cast at his disposal in 2026. Lawrence has a stacked wide receiver room featuring Brian Thomas Jr., Jakobi Meyers, Parker Washington, and (sometimes) Travis Hunter. Meanwhile, tight end Brenton Strange is expected to make a big Year 4 leap, and Bhayshul Tuten projects as another key target for Lawrence in the short-yardage passing game. Last year, Lawrence completed 60.9% of his pass attempts for 4,007 passing yards, 29 passing touchdowns, and 12 interceptions. He was arguably even more impressive with his legs, rushing for an additional 359 yards and nine touchdowns. Throughout the course of the year, he totaled 38 touchdowns, allowing him to rank as the overall QB4 in fantasy football. He has a chance to replicate (or even improve upon) that career-best fantasy finish from last year. The current rankings are on the safer side, though, as RotoBaller's experts have Lawrence as the QB9 in redraft. He currently has an ADP of 93.7, which corresponds to the eighth round of drafts and makes him the 10th quarterback off the board.",
-        "title": "Trevor Lawrence Set for Potential Career-Best Season",
-        "topic_id": "1401445762977505280",
-        "url": "https://www.rotoballer.com/player-news/trevor-lawrence-set-for-potential-career-best-season-with-strong-supporting-cast/1922975"
-      },
-      "nfl_team": "JAX",
-      "player_id": "7523",
-      "player_name": "Trevor Lawrence",
-      "position": "QB",
-      "published": 1788478502000,
-      "source": "rotoballer",
-      "source_key": "220059",
-      "story_id": "nfl|7523|rotoballer|220059|1788478502000",
-      "title": "Trevor Lawrence Set for Potential Career-Best Season",
-      "url": "https://www.rotoballer.com/player-news/trevor-lawrence-set-for-potential-career-best-season-with-strong-supporting-cast/1922975"
-    },
-    {
-      "analysis": null,
-      "description": "Philadelphia Eagles wide receiver DeVonta Smith could be headed for a breakout season in 2026. The 27-year-old is poised to handle a significantly larger target share after teammate AJ Brown was traded to the New England Patriots. Smith had a total of nine catches and 136 yards across the two games that Brown missed last year, which likely represents his floor for the upcoming season. He is the undisputed No. 1 target in Philadelphia, offering a high-upside weapon for Jalen Hurts in all parts of the field. Perhaps the biggest question mark is whether Smith will take on a larger role around the goal line. He tallied a career-low four touchdowns last year, but he'll presumably get more goal-line targets following the departure of Brown, who scored seven touchdowns in 2025. As it stands, Smith has jumped to WR13 in RotoBaller's latest redraft rankings for 2026. He has an ADP of 31.4, which corresponds to the third round of fantasy drafts and makes him the 14th receiver off the board.",
-      "metadata": {
-        "description": "Philadelphia Eagles wide receiver DeVonta Smith could be headed for a breakout season in 2026. The 27-year-old is poised to handle a significantly larger target share after teammate AJ Brown was traded to the New England Patriots. Smith had a total of nine catches and 136 yards across the two games that Brown missed last year, which likely represents his floor for the upcoming season. He is the undisputed No. 1 target in Philadelphia, offering a high-upside weapon for Jalen Hurts in all parts of the field. Perhaps the biggest question mark is whether Smith will take on a larger role around the goal line. He tallied a career-low four touchdowns last year, but he'll presumably get more goal-line targets following the departure of Brown, who scored seven touchdowns in 2025. As it stands, Smith has jumped to WR13 in RotoBaller's latest redraft rankings for 2026. He has an ADP of 31.4, which corresponds to the third round of fantasy drafts and makes him the 14th receiver off the board.",
-        "title": "DeVonta Smith Primed for Breakout as Eagles' Undisputed No. 1 WR",
-        "topic_id": "1401444504413741056",
-        "url": "https://www.rotoballer.com/player-news/devonta-smith-primed-for-breakout-as-undisputed-no-1/1922973"
-      },
-      "nfl_team": "PHI",
-      "player_id": "7525",
-      "player_name": "DeVonta Smith",
-      "position": "WR",
-      "published": 1788478206000,
-      "source": "rotoballer",
-      "source_key": "220058",
-      "story_id": "nfl|7525|rotoballer|220058|1788478206000",
-      "title": "DeVonta Smith Primed for Breakout as Eagles' Undisputed No. 1 WR",
-      "url": "https://www.rotoballer.com/player-news/devonta-smith-primed-for-breakout-as-undisputed-no-1/1922973"
-    },
-    {
-      "analysis": null,
-      "description": "Philadelphia Eagles' second-round rookie tight end Eli Stowers, out of Vanderbilt in the 2026 NFL Draft, has struggled in camp. He has faced heavy criticism and struggled to stand out as a receiver or blocker during practices, including a tough joint practice against the New England Patriots. Ultimately, the learning curve has been steep for him, and while he flashed some upside at the combine with his athleticism, recent reports from camp suggest he's not ready to play at the NFL level. He has also been slowed down by a hamstring injury, and Jimmy Kempski of PhillyVoice reported that he could be a healthy scratch on Sundays. During his senior season at Vanderbilt, he had 62 receptions, 769 yards, and four touchdowns. At this point, Stowers is a dynasty stash at best. RotoBaller ranks Stowers as the TE64 and 377th player off the board, making him undraftable in most standard-sized redraft formats.",
-      "metadata": {
-        "description": "Philadelphia Eagles' second-round rookie tight end Eli Stowers, out of Vanderbilt in the 2026 NFL Draft, has struggled in camp. He has faced heavy criticism and struggled to stand out as a receiver or blocker during practices, including a tough joint practice against the New England Patriots. Ultimately, the learning curve has been steep for him, and while he flashed some upside at the combine with his athleticism, recent reports from camp suggest he's not ready to play at the NFL level. He has also been slowed down by a hamstring injury, and Jimmy Kempski of PhillyVoice reported that he could be a healthy scratch on Sundays. During his senior season at Vanderbilt, he had 62 receptions, 769 yards, and four touchdowns. At this point, Stowers is a dynasty stash at best. RotoBaller ranks Stowers as the TE64 and 377th player off the board, making him undraftable in most standard-sized redraft formats.",
-        "title": "Eli Stowers Struggling in Camp, Difficult to Trust in Redraft Formats",
-        "topic_id": "1401436954507108352",
-        "url": "https://www.rotoballer.com/player-news/eli-stowers-struggling-in-camp-difficult-to-trust-in-redraft-formats/1922969"
-      },
-      "nfl_team": "PHI",
-      "player_id": "13349",
-      "player_name": "Eli Stowers",
-      "position": "TE",
-      "published": 1788476406000,
-      "source": "rotoballer",
-      "source_key": "220057",
-      "story_id": "nfl|13349|rotoballer|220057|1788476406000",
-      "title": "Eli Stowers Struggling in Camp, Difficult to Trust in Redraft Formats",
-      "url": "https://www.rotoballer.com/player-news/eli-stowers-struggling-in-camp-difficult-to-trust-in-redraft-formats/1922969"
-    },
-    {
-      "analysis": "Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.",
-      "description": "Odunze \"should be all good\" after leaving Thursday's practice with an apparent right leg injury, Dan Wiederer of the Chicago Tribune reports.",
-      "metadata": {
-        "analysis": "Odunze exited in the first hour of Thursday's session, but despite attempting to stay on the field, he was escorted off of it with team trainers. Wiederer's report seems to back up that Odunze's new health concern isn't a serious one, but he'll still enter Week 1 prep with a question mark regarding his status. With fellow WR Luther Burden also tending to a groin injury, the Bears currently have only Kalif Raymond, Zavion Thomas and Jahdae Walker as healthy options at the position on the active roster.",
-        "description": "Odunze \"should be all good\" after leaving Thursday's practice with an apparent right leg injury, Dan Wiederer of the Chicago Tribune reports.",
-        "title": "Rome Odunze - Seemingly avoids serious setback",
-        "topic_id": "1401375270392360960"
-      },
-      "nfl_team": "CHI",
-      "player_id": "11620",
-      "player_name": "Rome Odunze",
-      "position": "WR",
-      "published": 1788476225000,
-      "source": "rotowire",
-      "source_key": "636197",
-      "story_id": "nfl|11620|rotowire|636197|1788476225000",
-      "title": "Rome Odunze - Seemingly avoids serious setback",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "2025 Super Bowl-winning quarterback Sam Darnold enters his second season with the Seattle Seahawks with a chance to emerge as a high-end QB2, alongside star wide receiver Jaxon Smith-Njigba and the emergence of Rashid Shaheed, with a full offseason under his belt to build chemistry with Darnold. Shaheed was brought over to the Seahawks in Week 9 of the 2025 season. Darnold finished the 2025 season as the QB13, throwing for 4,048 yards, 25 touchdowns, and 14 interceptions. This was followed by a season with the Vikings in 2024, where he finished as the QB9. Although he lost his offensive coordinator, Klint Kubiak, who was brought on to be the head coach for the Raiders, RotoBaller currently ranks Darnold as the QB23 and the 140th player taken off the board. Fantasy managers in superflex formats could look to target Darnold as their QB2, as he has finished in the top 15 at the position in back-to-back seasons.",
-      "metadata": {
-        "description": "2025 Super Bowl-winning quarterback Sam Darnold enters his second season with the Seattle Seahawks with a chance to emerge as a high-end QB2, alongside star wide receiver Jaxon Smith-Njigba and the emergence of Rashid Shaheed, with a full offseason under his belt to build chemistry with Darnold. Shaheed was brought over to the Seahawks in Week 9 of the 2025 season. Darnold finished the 2025 season as the QB13, throwing for 4,048 yards, 25 touchdowns, and 14 interceptions. This was followed by a season with the Vikings in 2024, where he finished as the QB9. Although he lost his offensive coordinator, Klint Kubiak, who was brought on to be the head coach for the Raiders, RotoBaller currently ranks Darnold as the QB23 and the 140th player taken off the board. Fantasy managers in superflex formats could look to target Darnold as their QB2, as he has finished in the top 15 at the position in back-to-back seasons.",
-        "title": "Sam Darnold Should Benefit From Second Season in Seahawks Offense",
-        "topic_id": "1401434437639520256",
-        "url": "https://www.rotoballer.com/player-news/sam-darnold-should-benefit-from-second-season-in-seahawks-offense/1922966"
-      },
-      "nfl_team": "SEA",
-      "player_id": "4943",
-      "player_name": "Sam Darnold",
-      "position": "QB",
-      "published": 1788475615000,
-      "source": "rotoballer",
-      "source_key": "220056",
-      "story_id": "nfl|4943|rotoballer|220056|1788475615000",
-      "title": "Sam Darnold Should Benefit From Second Season in Seahawks Offense",
-      "url": "https://www.rotoballer.com/player-news/sam-darnold-should-benefit-from-second-season-in-seahawks-offense/1922966"
-    },
-    {
-      "analysis": null,
-      "description": "Washington Commanders third-year quarterback Jayden Daniels, out of LSU, had a down season in 2025 after his rookie campaign, in which he finished as the QB5 while rushing for 891 yards and throwing for 3,568 yards, and led the Commanders to the NFC title game. His 2025 season was derailed by multiple injuries, and he played in only seven games. Daniels is healthy entering the 2026 season with an improved receiving group. The Commanders brought in Stefon Diggs over the Patriots, Chig Okonkwo from the Titans, and Terry McLaurin is healthy entering the season. Diggs remained efficient on a per-route basis with the Patriots last season, and McLaurin had a career year with Daniels in 2024, when he had 1,096 receiving yards and 13 touchdowns on 117 targets. Daniels still has elite rushing upside and should bounce back in a big way this season. RotoBaller ranks Daniels as the QB4 for the season and the 60th overall player off the board.",
-      "metadata": {
-        "description": "Washington Commanders third-year quarterback Jayden Daniels, out of LSU, had a down season in 2025 after his rookie campaign, in which he finished as the QB5 while rushing for 891 yards and throwing for 3,568 yards, and led the Commanders to the NFC title game. His 2025 season was derailed by multiple injuries, and he played in only seven games. Daniels is healthy entering the 2026 season with an improved receiving group. The Commanders brought in Stefon Diggs over the Patriots, Chig Okonkwo from the Titans, and Terry McLaurin is healthy entering the season. Diggs remained efficient on a per-route basis with the Patriots last season, and McLaurin had a career year with Daniels in 2024, when he had 1,096 receiving yards and 13 touchdowns on 117 targets. Daniels still has elite rushing upside and should bounce back in a big way this season. RotoBaller ranks Daniels as the QB4 for the season and the 60th overall player off the board.",
-        "title": "Jayden Daniels Primed for a Bounce-Back Season in 2026",
-        "topic_id": "1401431920516038656",
-        "url": "https://www.rotoballer.com/player-news/jayden-daniels-primed-for-a-bounce-back-season-in-2026-with-improved-receiving-core/1922958"
-      },
-      "nfl_team": "WAS",
-      "player_id": "11566",
-      "player_name": "Jayden Daniels",
-      "position": "QB",
-      "published": 1788474974000,
-      "source": "rotoballer",
-      "source_key": "220055",
-      "story_id": "nfl|11566|rotoballer|220055|1788474974000",
-      "title": "Jayden Daniels Primed for a Bounce-Back Season in 2026",
-      "url": "https://www.rotoballer.com/player-news/jayden-daniels-primed-for-a-bounce-back-season-in-2026-with-improved-receiving-core/1922958"
-    },
-    {
-      "analysis": null,
-      "description": "Dallas Cowboys 27-year-old tight end Jake Ferguson restructured his contract with the Cowboys, turning his $7.25 million base salary into a signing bonus, and Ferguson's cap number will increase by $1.2 million, Todd Archer of ESPN reports. Archer also mentions that the adjustments are accounting tools and do not change how much the players are paid weekly. Ferguson finished the 2025 season as the TE5, hauling in 82 of his 105 targets for 600 yards and eight touchdowns. His 7.32 YPR was very modest, and the eight touchdowns were a career high for him. With Dak Prescott leaning mostly on his two stud wide receivers, CeeDee Lamb and George Pickens, it will be tough sledding for Ferguson to be a reliable fantasy asset if he experiences any sort of touchdown regression. RotoBaller ranks Ferguson as the TE16 for the season, and fantasy managers who decide to wait on the tight end position should look to target Ferguson based on the high-powered nature of this Cowboys offense.",
-      "metadata": {
-        "description": "Dallas Cowboys 27-year-old tight end Jake Ferguson restructured his contract with the Cowboys, turning his $7.25 million base salary into a signing bonus, and Ferguson's cap number will increase by $1.2 million, Todd Archer of ESPN reports. Archer also mentions that the adjustments are accounting tools and do not change how much the players are paid weekly. Ferguson finished the 2025 season as the TE5, hauling in 82 of his 105 targets for 600 yards and eight touchdowns. His 7.32 YPR was very modest, and the eight touchdowns were a career high for him. With Dak Prescott leaning mostly on his two stud wide receivers, CeeDee Lamb and George Pickens, it will be tough sledding for Ferguson to be a reliable fantasy asset if he experiences any sort of touchdown regression. RotoBaller ranks Ferguson as the TE16 for the season, and fantasy managers who decide to wait on the tight end position should look to target Ferguson based on the high-powered nature of this Cowboys offense.",
-        "title": "Jake Ferguson Restructures Contract With the Cowboys",
-        "topic_id": "1401428145373982720",
-        "url": "https://www.rotoballer.com/player-news/jake-ferguson-restructures-contract-with-the-cowboys/1922954"
-      },
-      "nfl_team": "DAL",
-      "player_id": "8110",
-      "player_name": "Jake Ferguson",
-      "position": "TE",
-      "published": 1788474236000,
-      "source": "rotoballer",
-      "source_key": "220054",
-      "story_id": "nfl|8110|rotoballer|220054|1788474236000",
-      "title": "Jake Ferguson Restructures Contract With the Cowboys",
-      "url": "https://www.rotoballer.com/player-news/jake-ferguson-restructures-contract-with-the-cowboys/1922954"
-    },
-    {
-      "analysis": null,
-      "description": "Denver Broncos rookie running back out of Washington, Jonah Coleman, was drafted in the fourth round by the Broncos to work alongside J.K. Dobbins and RJ Harvey. However, Nick Kosmider of The Athletic wrote about how Coleman could be involved between the tackles as a complementary piece to Dobbins to lessen Dobbins' rushing load with the aim of keeping him healthy throughout the season. Dobbins has a long injury history, having yet to stay healthy for a full season in his six-year career. Last season, Dobbins rushed for 772 yards (5.05 YPC) with four touchdowns before going down with an injury and playing in only 10 games. Coleman was a solid back at Washington, rushing for 25 touchdowns over his past two seasons and 1,053 yards during his junior season. Coleman has a receiving profile as well, as he saw 54 receptions in his final two seasons, but Harvey is expected to assume most of that work. RotoBaller ranks Harvey as the RB54 entering the season, but any injury to Dobbins would propel him into RB3 consideration.",
-      "metadata": {
-        "description": "Denver Broncos rookie running back out of Washington, Jonah Coleman, was drafted in the fourth round by the Broncos to work alongside J.K. Dobbins and RJ Harvey. However, Nick Kosmider of The Athletic wrote about how Coleman could be involved between the tackles as a complementary piece to Dobbins to lessen Dobbins' rushing load with the aim of keeping him healthy throughout the season. Dobbins has a long injury history, having yet to stay healthy for a full season in his six-year career. Last season, Dobbins rushed for 772 yards (5.05 YPC) with four touchdowns before going down with an injury and playing in only 10 games. Coleman was a solid back at Washington, rushing for 25 touchdowns over his past two seasons and 1,053 yards during his junior season. Coleman has a receiving profile as well, as he saw 54 receptions in his final two seasons, but Harvey is expected to assume most of that work. RotoBaller ranks Harvey as the RB54 entering the season, but any injury to Dobbins would propel him into RB3 consideration.",
-        "title": "Jonah Coleman Could Be Between-the-Tackles Complement in Denver",
-        "topic_id": "1401424370093563904",
-        "url": "https://www.rotoballer.com/player-news/jonah-coleman-could-be-between-the-tackles-complement-to-j-k-dobbins/1922946"
-      },
-      "nfl_team": "DEN",
-      "player_id": "6806",
-      "player_name": "J.K. Dobbins",
-      "position": "RB",
-      "published": 1788473532000,
-      "source": "rotoballer",
-      "source_key": "220053",
-      "story_id": "nfl|6806|rotoballer|220053|1788473532000",
-      "title": "Jonah Coleman Could Be Between-the-Tackles Complement in Denver",
-      "url": "https://www.rotoballer.com/player-news/jonah-coleman-could-be-between-the-tackles-complement-to-j-k-dobbins/1922946"
     }
   ]
 }
