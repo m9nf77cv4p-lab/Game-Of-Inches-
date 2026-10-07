@@ -3507,7 +3507,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -4541,7 +4541,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -5575,7 +5575,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -6609,7 +6609,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -7643,7 +7643,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -8677,7 +8677,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -9711,7 +9711,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -10745,7 +10745,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -11779,7 +11779,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -15897,7 +15897,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -16931,7 +16931,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -17965,7 +17965,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -18999,7 +18999,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -20033,7 +20033,7 @@
           "11631",
           "5844",
           "4035",
-          "2307",
+          "12509",
           "6650",
           "MIN"
         ],
@@ -22207,7 +22207,7 @@
       ],
       "first_name": "Stefon",
       "full_name": "Stefon Diggs",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Diggs",
       "nfl_team": "WAS",
       "player_id": "2449",
@@ -22732,7 +22732,7 @@
       ],
       "first_name": "Dallas",
       "full_name": "Dallas Goedert",
-      "injury_status": "Doubtful",
+      "injury_status": "Questionable",
       "last_name": "Goedert",
       "nfl_team": "PHI",
       "player_id": "5022",
@@ -22987,7 +22987,7 @@
       ],
       "first_name": "Chase",
       "full_name": "Chase McLaughlin",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "McLaughlin",
       "nfl_team": "TB",
       "player_id": "6650",
@@ -23182,7 +23182,7 @@
       ],
       "first_name": "Michael",
       "full_name": "Michael Pittman",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Pittman",
       "nfl_team": "PIT",
       "player_id": "6819",
@@ -23467,7 +23467,7 @@
       ],
       "first_name": "Rhamondre",
       "full_name": "Rhamondre Stevenson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Stevenson",
       "nfl_team": "NE",
       "player_id": "7611",
@@ -24322,7 +24322,7 @@
       ],
       "first_name": "Jordan",
       "full_name": "Jordan Addison",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Addison",
       "nfl_team": "MIN",
       "player_id": "9756",
@@ -24367,7 +24367,7 @@
       ],
       "first_name": "Zay",
       "full_name": "Zay Flowers",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Flowers",
       "nfl_team": "BAL",
       "player_id": "9997",
@@ -24623,8 +24623,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-07T13:35:38Z",
-    "source_fingerprint": "78766933c8eba2119abca35b4bd197c707252cb01251e4e90d0401d5180bc3f1"
+    "last_changed_at": "2026-10-07T19:30:43Z",
+    "source_fingerprint": "63d2bc295a17b2687a33a1356232dc2312f47a64aefd51f6e93f0e60ff69e217"
   },
   "teams": [
     {
@@ -25525,7 +25525,7 @@
         "11631",
         "5844",
         "4035",
-        "2307",
+        "12509",
         "6650",
         "MIN"
       ],
