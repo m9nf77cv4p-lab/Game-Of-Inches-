@@ -2,47 +2,58 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6162**
-- Newly captured: **13**
+- Stored stories: **6154**
+- Newly captured: **19**
 
 ## Latest news
 
-- **NEW — Travis Hunter** — Travis Hunter - Tallies four tackles in Week 4 win (2026-10-07T02:13:34Z)
+- **NEW — Kendre Miller** — Kendre Miller Could be FLEX Option if Kamara Misses Time (2026-10-07T09:18:10Z)
+  - Source: https://www.rotoballer.com/player-news/kendre-miller-could-be-flex-option-if-kamara-misses-time/1960154
+- **NEW — Terry McLaurin** — Terry McLaurin (hamstring) without timetable to return (2026-10-07T07:30:05.639000Z)
+  - McLaurin sat out last week's loss against the Colts. It appears he could miss another game. He is week-to-week. 
+  - Source: https://www.fantasypros.com/nfl/news/612572/terry-mclaurin-hamstring-without-timetable-to-return.php
+- **NEW — Jayden Daniels** — Jayden Daniels (elbow) to practice this week (2026-10-07T07:20:05.907000Z)
+  - Daniels remains hopeful to return in Week 5. His status will need to be monitored in practice the next few days. 
+  - Source: https://www.fantasypros.com/nfl/news/612568/jayden-daniels-elbow-to-practice-this-week.php
+- **NEW — Rachaad White** — Rachaad White (shoulder) to return to practice this week (2026-10-07T07:20:05.866000Z)
+  - White sat out last week's game against the Colts. Austin Ekeler has since signed with the team where he took over a role in the passing game in his debut with Washington. It could be White and Ekeler splitting the passing down role when they're both healthy. 
+  - Source: https://www.fantasypros.com/nfl/news/612571/rachaad-white-shoulder-to-return-to-practice-this-week.php
+- **Travis Hunter** — Travis Hunter - Tallies four tackles in Week 4 win (2026-10-07T02:13:34Z)
   - After snagging his first NFL interception against the Patriots in Week 3, Hunter demonstrated his defensive prowess in Week 4 with two pass defenses. Notably, for the first time this season, the 2025 second-overall pick did not play a single snap on offense. It appears the Jaguars are comfortable with rookie Josh Cameron serving as the depth wideout behind Parker Washington, Jakobi Meyers and Brian Thomas, so Hunter's playing time figures to be limited to defense. Hunter has 13 tackles (nine solo) and four pass defenses (including one interception) through the first four games of the regular season.
 - **Tank Bigsby** — Tank Bigsby (core) lands on IR  (2026-10-07T00:15:03.057000Z)
   - Bigsby will miss at least the next four games for the Eagles. 
   - Source: https://www.fantasypros.com/nfl/news/612557/tank-bigsby-core-lands-on-ir.php
 - **Kendre Miller** — Kendre Miller - Six carries in defeat (2026-10-07T00:08:42Z)
   - Miller was rumored to be on track for a larger workload in Week 4 after starting running back Travis Etienne (hamstring) was placed on injured reserve. Miller was only on the field for 26 percent of the team's offensive snaps, which could have been as a result of a first-quarter fumble that Atlanta ultimately recovered. Veteran Alvin Kamara was on the field for 41 percent of the offensive snaps, turning seven carries into 23 yards and two scores while also reeling in five of seven targets for 35 yards in the contest. It appears as if Miller will operate as the No. 2 option behind Kamara in Etienne's absence, making him a low-upside fantasy option.
-- **NEW — Daniel Jones** — Daniel Jones Worth Stashing Before Receivers Return (2026-10-07T00:04:10Z)
+- **Daniel Jones** — Daniel Jones Worth Stashing Before Receivers Return (2026-10-07T00:04:10Z)
   - Source: https://www.rotoballer.com/player-news/daniel-jones-worth-stashing-before-receivers-return/1960053
 - **Zachariah Branch** — Zachariah Branch - Two catches in dominant win (2026-10-07T00:02:21Z)
   - Branch garnered exactly two targets for the third game in a row as he played 13 snaps on offense. The wide receiver is primarily a special-teams asset, making him an unappealing fantasy option. As long as Drake London, Jahan Dotson and Olamide Zaccheaus are available, Branch has little to no offensive upside.
-- **NEW — Isaiah Williams** — Isaiah Williams a Priority Waiver Wire Target with Large Snap Share (2026-10-06T23:49:09Z)
+- **Isaiah Williams** — Isaiah Williams a Priority Waiver Wire Target with Large Snap Share (2026-10-06T23:49:09Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-williams-a-priority-waiver-wire-target-with-large-snap-share/1960048
 - **Tank Bigsby** — Tank Bigsby - Placed on IR (2026-10-06T23:17:48Z)
   - Bigsby will require core muscle surgery for an abdominal injury that he picked up during the Eagles' Week 4 loss to the Rams. The fourth-year pro will be required to miss at least the next four games, so the earliest he can return is Week 9 against the Giants on Sunday, Nov. 8. Saquon Barkley (hamstring) is considered week-to-week, and with Bigsby on IR, Will Shipley could be the Eagles' starting running back for Week 5 against the Jaguars on Sunday in London.
-- **NEW — Tank Bigsby** — Tank Bigsby Officially Placed on Injured Reserve (2026-10-06T23:08:19Z)
+- **Tank Bigsby** — Tank Bigsby Officially Placed on Injured Reserve (2026-10-06T23:08:19Z)
   - Source: https://www.rotoballer.com/player-news/tank-bigbsy-officially-placed-on-injured-reserve/1960040
-- **NEW — Michael Penix** — Michael Penix Jr. A Solid 2QB And Deep League Waiver Target (2026-10-06T21:42:10Z)
+- **Michael Penix** — Michael Penix Jr. A Solid 2QB And Deep League Waiver Target (2026-10-06T21:42:10Z)
   - Source: https://www.rotoballer.com/player-news/michael-penix-jr-a-solid-2qb-and-deep-league-waiver-target/1960000
-- **NEW — Deshaun Watson** — Deshaun Watson is Becoming Priority Streaming Option (2026-10-06T21:41:09Z)
+- **Deshaun Watson** — Deshaun Watson is Becoming Priority Streaming Option (2026-10-06T21:41:09Z)
   - Source: https://www.rotoballer.com/player-news/deshaun-watson-is-becoming-priority-streaming-option/1959998
-- **NEW — Brian Robinson** — Brian Robinson Jr. A Strong Waiver Wire Option For Week 5 (2026-10-06T21:37:44Z)
+- **Brian Robinson** — Brian Robinson Jr. A Strong Waiver Wire Option For Week 5 (2026-10-06T21:37:44Z)
   - Source: https://www.rotoballer.com/player-news/brian-robinson-jr-a-strong-waiver-wire-option-for-week-5/1959995
-- **NEW — Michael Mayer** — Michael Mayer A Key Waiver Target Despite Brock Bowers' Return (2026-10-06T21:33:54Z)
+- **Michael Mayer** — Michael Mayer A Key Waiver Target Despite Brock Bowers' Return (2026-10-06T21:33:54Z)
   - Source: https://www.rotoballer.com/player-news/michael-mayer-a-key-waiver-target-despite-brock-bowers-return/1959990
-- **NEW — Aaron Rodgers** — Aaron Rodgers A Waiver Wire Target In All Formats For Week 5 (2026-10-06T21:23:09Z)
+- **Aaron Rodgers** — Aaron Rodgers A Waiver Wire Target In All Formats For Week 5 (2026-10-06T21:23:09Z)
   - Source: https://www.rotoballer.com/player-news/aaron-rodgers-a-waiver-wire-target-in-all-formats-for-week-5/1959978
-- **NEW — Ted Hurst** — Ted Hurst III Still Worth Waiver Consideration For Week 5 (2026-10-06T21:19:09Z)
+- **Ted Hurst** — Ted Hurst III Still Worth Waiver Consideration For Week 5 (2026-10-06T21:19:09Z)
   - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-still-worth-waiver-consideration-for-week-5/1959976
-- **NEW — Kaleb Johnson** — Kaleb Johnson Remains Deep League Stash (2026-10-06T21:15:09Z)
+- **Kaleb Johnson** — Kaleb Johnson Remains Deep League Stash (2026-10-06T21:15:09Z)
   - Source: https://www.rotoballer.com/player-news/kaleb-johnson-remains-deep-league-stash/1959972
 - **Chase McLaughlin** — Chase McLaughlin - Misses practice Tuesday with injury (2026-10-06T21:08:54Z)
   - Though he wasn't included on the team's initial Week 5 injury report released Monday, McLaughlin's absence from practice a day later makes his status worth tracking as Thursday's game against the Cowboys approaches. For the time being, the Buccaneers still seem to be proceeding with the expectation that McLaughlin will be ready to play Thursday, as Greg Auman of Fox Sports relays that the team hasn't reached out to free agent kicker B.T. Potter, who served as McLaughlin's backup in the preseason.
-- **NEW — Ja'Marr Chase** — Mitchell Tinsley A Waiver Pickup Consideration After Ja'Marr Chase Injury (2026-10-06T21:04:10Z)
+- **Ja'Marr Chase** — Mitchell Tinsley A Waiver Pickup Consideration After Ja'Marr Chase Injury (2026-10-06T21:04:10Z)
   - Source: https://www.rotoballer.com/player-news/mitchell-tinsley-a-waiver-pickup-consideration-after-jamarr-chase-injury/1959957
-- **NEW — C.J. Stroud** — C.J. Stroud Entering Borderline QB1, Waiver-Pickup Territory (2026-10-06T20:56:52Z)
+- **C.J. Stroud** — C.J. Stroud Entering Borderline QB1, Waiver-Pickup Territory (2026-10-06T20:56:52Z)
   - Source: https://www.rotoballer.com/player-news/c-j-stroud-entering-borderline-qb1-waiver-pickup-territory/1959954
 - **Lamar Jackson** — Lamar Jackson - Viewed as 'unlikely' for Week 5 (2026-10-06T20:50:56Z)
   - The ankle injury sidelined Jackson for the entire second half of last Sunday's 24-18 win over the Titans, resulting in backup Tyler Huntley directing the offense for the final two quarters. Huntley now appears to be trending toward the Week 5 start while Jackson recovers from the ankle issue, which Rapoport suggests is an "unconventional" injury that's not necessarily a low- or high-ankle sprain. The Ravens are expected to take a week-by-week approach with their star quarterback, who isn't believed to be at risk of a long-term absence but could end up sitting out more than one game, depending on how he responds to rehab.
@@ -102,6 +113,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/eagles-planning-to-keep-jalen-hurts-under-center/1959668
 - **Joe Mixon** — Joe Mixon Remains a Free Agent Following His Physical with Seahawks (2026-10-06T14:01:09Z)
   - Source: https://www.rotoballer.com/player-news/joe-mixon-remains-a-free-agent-following-his-physical-with-seahawks/1959664
+- **NEW — Mike Gesicki** — Mike Gesicki a Waiver Priority Following Injuries to High-Profile Teammates (2026-10-06T13:49:09Z)
+  - Source: https://www.rotoballer.com/player-news/mike-gesicki-a-waiver-priority-following-injuries-to-high-profile-teammates/1959653
 - **Lamar Jackson** — Lamar Jackson (ankle) unlikely to play in Week 5 (2026-10-06T13:40:45.773000Z)
   - Jackson sustained a sprained ankle in Week 4's win over the Titans. Now, the two-time MVP's status is uncertain for the next few weeks. The Ravens have not officially ruled him out for this Sunday's game, but the chances of him playing seem very thin. Tyler Huntley would be set to step in at quarter in Jackson's stead. 
   - Source: https://www.fantasypros.com/nfl/news/612458/lamar-jackson-ankle-unlikely-to-play-week-5.php
@@ -215,13 +228,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Fresh off a 194-yard, two-touchdown effort against the Packers that kicked off the Week 3 slate back on Sept. 24, a well-rested Robinson put together a very similar performance, albeit with a slight reduction in workload. Robinson set the tone just three plays into the contest, capping off the opening possession with a 59-yard touchdown run down the left side of the field. He came back just before the opening period ending with a four-yard scoring rush, and he then ceded three other red-zone opportunities in the second half to backfield mate Brian Robinson. Bijan already has 494 rushing yards and four touchdowns on the ground through his first four contests, and the switch to Michael Penix at quarterback has led to the star running back's top two efforts to date this season. Robinson next takes aim at a tough Ravens defense in a Week 5 home matchup Sunday night.
 - **Kalif Raymond** — Kalif Raymond - Catches two passes in win (2026-10-06T03:34:05Z)
   - Raymond had a quiet outing just one week after leading the team with 90 receiving yards during the win over the Eagles. The 31-year-old has caught 21 passes for 220 yards and one touchdown across four games this season and should continue to serve as the Bears' No. 3 receiver behind Rome Odunze and Luther Burden.
-- **George Holani** — George Holani - Totals 20 yards in Week 4 win (2026-10-06T03:29:08Z)
-  - Even with Jadarian Price (chest) on injured reserve, Holani played a distant second fiddle to Emanuel Wilson, who rushed 21 times for 81 yards and a touchdown. Wilson also turned four targets into three catches for 30 yards and a second score. Holani has minimal fantasy value, especially with Zach Charbonnet (knee) due back in the near future.
-- **DeMario Douglas** — DeMario Douglas - Two catches in victory (2026-10-06T02:57:27Z)
-  - Douglas didn't really make much of a splash in Week 4, but he was able to reel in multiple passes for the first time since Week 1. The wide receiver could step into a more prominent role beginning in Week 5 against the Raiders after Mack Hollins suffered a calf injury in Sunday's victory. Through four contests this season, Douglas has caught nine of 17 targets for 82 yards.
-- **Ted Hurst** — Ted Hurst - Two receptions in loss (2026-10-06T02:57:01Z)
-  - Hurst has now seen three targets in consecutive weeks. While the third-round rookie did not score as he did in Week 3, he doubled his receptions while garnering attention from new quarterback Jalon Daniels.
-- **Alvin Kamara** — Alvin Kamara - Exits briefly but returns to Monday's game (2026-10-06T02:46:37Z)
-  - Kamara appeared to hurt his knee in the third quarter and headed to the medical tent. The veteran running back exited the tent, tested out his knee on the sideline, then briefly returned to the tent, but he was able to re-enter the contest before the end of the period. Kamara is serving as New Orleans' lead running back in the absence of Travis Etienne (ankle) and scored his first touchdown of the campaign earlier in Monday's contest.
-- **Kaelon Black** — Kaelon Black - Inefficient in Week 4 win (2026-10-06T02:41:35Z)
-  - Black's longest carry of the day went for five yards, with four of his other touches going for two yards or fewer. With Christian McCaffrey clearly leading the backfield, Black's workload will be volatile on a week-to-week basis and dependant on game script. The 49ers will hit the road for Week 5 in an NFC West showdown against the 3-1 Seahawks.
