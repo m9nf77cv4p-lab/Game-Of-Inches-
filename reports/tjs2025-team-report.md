@@ -21,7 +21,7 @@
 - Christian McCaffrey — RB — SF
 - Derrick Henry — RB — BAL
 - Justice Hill — RB — BAL
-- Rico Dowdle — RB — PIT — reserve/IR
+- Rico Dowdle — RB — PIT
 - Cade Otton — TE — TB
 - Hunter Henry — TE — NE
 - Noah Fant — TE — NO
@@ -31,7 +31,7 @@
 - Demarcus Robinson — WR — SF — reserve/IR
 - Elic Ayomanor — WR — TEN
 - Jalen Nailor — WR — LV
-- Pat Bryant — WR — DEN
+- Pat Bryant — WR — DEN — reserve/IR
 - Xavier Hutchinson — WR — HOU
 
 ## Acquired future picks
