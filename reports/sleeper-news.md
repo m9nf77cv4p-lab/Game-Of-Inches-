@@ -2,149 +2,193 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6473**
-- Newly captured: **69**
+- Stored stories: **6451**
+- Newly captured: **25**
 
 ## Latest news
 
-- **NEW — Ted Hurst** — Ted Hurst - Zero targets on TNF (2026-10-10T17:27:11Z)
+- **NEW — Michael Pittman** — Michael Pittman - Officially placed on IR (2026-10-10T19:52:42Z)
+  - With the expected move now official, Pittman will be required to miss at least the next four games, making Week 10 against the Bengals on Sunday, Nov. 15 the earliest that the veteran wide receiver can return. Roman Wilson and Germie Bernard are both in line for more offensive snaps for as long as Pittman is sidelined.
+- **NEW — Michael Pittman** — Michael Pittman - Bound for injured reserve (2026-10-10T19:05:15Z)
+  - Pittman was already ruled out for Sunday's game against the Colts after aggravating a foot injury in practice during Week 5 prep. The team has yet to announce the move, but once it's official, Pittman will be required to miss at least the next four games. With the Steelers on a bye for Week 9, that means the earliest that the veteran wide receiver will be eligible to return is Week 10 against the Bengals on Sunday, Nov. 15. Roman Wilson figures to step into the WR2 role behind DK Metcalf in Pittman's absence, and rookie second-rounder Germie Bernard should also be in the mix for more targets from veteran quarterback Aaron Rodgers.
+- **NEW — DJ Moore** — DJ Moore - Questionable for Week 5 (2026-10-10T18:05:14Z)
+  - Moore was able to participate in Saturday's practice in a limited capacity after being sidelined for the first two sessions of Week 5 prep, and that's enough for the veteran wide receiver to draw the questionable tag for Monday night's contest. Joshua Palmer (shoulder) has already been ruled out, so if Moore is also sidelined, then Khalil Shakir and Keon Coleman would operate as the top wide receivers for Buffalo.
+- **Ted Hurst** — Ted Hurst - Zero targets on TNF (2026-10-10T17:27:11Z)
   - Hurst saw at least three targets in each of the first four games of the regular season, but he did not see a pass from Jalon Daniels during Thursday's game, and the former's 33 offensive snaps were a distant third among Bucs wideouts behind Emeka Egbuka (64) and Chris Godwin (63). Hurst will take an 8-128-1 receiving line (16 targets) into Tampa Bay's Week 6 home game against Pittsburgh, and for now, it looks like Daniels will remain as the starter while Baker Mayfield (thumb) continues to recover from his injury.
-- **NEW — DJ Moore** — DJ Moore - Spotted at practice Saturday (2026-10-10T16:58:49Z)
+- **DJ Moore** — DJ Moore - Spotted at practice Saturday (2026-10-10T16:58:49Z)
   - Moore was a non-participant in each of the Bills' first two practices of the week, so it's a positive sign for him to be on the field for Saturday's session. The Bills' injury report following practice will provide clarity on Moore's status for Monday night's road game against the Rams, and if the veteran wide receiver cannot play, then Khalil Shakir and Keon Coleman would serve as Buffalo's top wide receivers, with tight end Dalton Kincaid also in the mix for more targets from quarterback Josh Allen.
-- **NEW — Marvin Harrison** — Marvin Harrison Jr: Cardinals finalizing trade (2026-10-10T16:00:05.926000Z)
+- **NEW — Terry McLaurin** — Van Jefferson Added to 53-Man Roster with Terry McLaurin's Status in Doubt (2026-10-10T16:34:09Z)
+  - Source: https://www.rotoballer.com/player-news/van-jefferson-added-to-53-man-roster-with-terry-mclaurins-status-in-doubt/1963313
+- **NEW — Romeo Doubs** — Romeo Doubs Looks to Stay Hot in Week 5 Against Raiders (2026-10-10T16:04:10Z)
+  - Source: https://www.rotoballer.com/player-news/romeo-doubs-looks-to-stay-hot-in-week-5-against-raiders/1963299
+- **Marvin Harrison** — Marvin Harrison Jr: Cardinals finalizing trade (2026-10-10T16:00:05.926000Z)
   - The Cardinals informed Harrison this morning that he will be inactive for Sunday's game against the Lions as the details of the trade are finalized. It remains unclear as of now where he will be traded. 
   - Source: https://www.fantasypros.com/nfl/news/613173/marvin-harrison-jr-cardinals-finalizing-trade.php
-- **NEW — Marvin Harrison** — Marvin Harrison - Will sit amid trade talks (2026-10-10T15:35:04Z)
+- **NEW — Anthony Richardson** — Anthony Richardson Sr. Can be Dropped in Most Dynasty Leagues (2026-10-10T15:58:09Z)
+  - Source: https://www.rotoballer.com/player-news/anthony-richardson-sr-can-be-dropped-in-most-dynasty-leagues/1963293
+- **NEW — Khalil Shakir** — Khalil Shakir Could See Increased Opportunities in Week 5 (2026-10-10T15:56:15Z)
+  - Source: https://www.rotoballer.com/player-news/khalil-shakir-could-see-increased-opportunities-in-week-5/1963290
+- **NEW — Dalton Kincaid** — Dalton Kincaid Looking for More Targets After Quiet Stretch (2026-10-10T15:54:11Z)
+  - Source: https://www.rotoballer.com/player-news/dalton-kincaid-looking-for-more-targets-after-quiet-stretch/1963288
+- **NEW — DJ Moore** — DJ Moore's Shoulder Injury Leaves Week 5 Status Uncertain (2026-10-10T15:53:09Z)
+  - Source: https://www.rotoballer.com/player-news/dj-moores-shoulder-injury-leaves-week-5-status-uncertain/1963286
+- **NEW — Keon Coleman** — Keon Coleman Could Have a Bigger Role in Week 5 (2026-10-10T15:51:35Z)
+  - Source: https://www.rotoballer.com/player-news/keon-coleman-could-have-a-bigger-role-in-week-5/1963284
+- **NEW — James Cook** — James Cook III Remains an RB1 After Lighter Week 4 Workload (2026-10-10T15:50:11Z)
+  - Source: https://www.rotoballer.com/player-news/james-cook-iii-remains-an-rb1-after-lighter-week-4-workload/1963282
+- **NEW — Josh Allen** — Josh Allen's Rushing Touchdowns Keep Him Atop Week 5 Rankings (2026-10-10T15:47:09Z)
+  - Source: https://www.rotoballer.com/player-news/josh-allens-rushing-touchdowns-keep-him-atop-week-5-rankings/1963277
+- **NEW — Jayden Higgins** — Jayden Higgins an Appealing Dynasty Option Despite Injury (2026-10-10T15:36:15Z)
+  - Source: https://www.rotoballer.com/player-news/jayden-higgins-an-appealing-dynasty-option-despite-injury/1963275
+- **Marvin Harrison** — Marvin Harrison - Will sit amid trade talks (2026-10-10T15:35:04Z)
   - Harrison's long-term outlook is firmly up in the air after it was announced earlier Saturday that he will be traded to an unspecified team, but per the latest report, "The one certainty is that Harrison's time in Arizona is done." Michael Wilson and Trey McBride figure to remain plenty busy in the passing game, and Harrison's absence will open up some opportunities for Kendrick Bourne and presumably Jalen Brooks.
-- **NEW — Marvin Harrison** — Marvin Harrison - Trade being finalized (2026-10-10T15:12:43Z)
+- **NEW — Chris Brazzell** — Chris Brazzell II Still Worth Stashing After Lost Rookie Season (2026-10-10T15:28:09Z)
+  - Source: https://www.rotoballer.com/player-news/chris-brazzell-ii-still-worth-stashing-after-lost-rookie-season/1963269
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson an Uninspiring RB3 if Active on Sunday (2026-10-10T15:25:10Z)
+  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-an-uninspiring-rb3-if-active-on-sunday/1963267
+- **NEW — Michael Pittman** — Steelers Place Michael Pittman Jr. on Injured Reserve (2026-10-10T15:20:10Z)
+  - Source: https://www.rotoballer.com/player-news/steelers-place-michael-pittman-jr-on-injured-reserve/1963265
+- **NEW — Marvin Harrison** — Chiefs Not Trading for Marvin Harrison Jr. (2026-10-10T15:17:08Z)
+  - Source: https://www.rotoballer.com/player-news/chiefs-not-trading-for-marvin-harrison-jr/1963263
+- **Marvin Harrison** — Marvin Harrison - Trade being finalized (2026-10-10T15:12:43Z)
   - Harrison's destination is unclear, but he is on the move after spending two seasons and the early portion of the current campaign in Arizona. Per the report, the Cardinals informed Harrison "that he will be inactive for Sunday's game against the Lions as details of the trade are finalized," so one way or another he will not see action in Week 5.
-- **NEW — Noah Fant** — Noah Fant - Cleared to play vs. Minnesota (2026-10-10T14:05:50Z)
-  - Fant opened the week with back-to-back limited practices before logging a full session Friday, which was enough for him to shed an injury tag and return from a one-game absence due to an abdominal injury. He has an 8-66-3 receiving line (on 12 targets) through three regular-season games while operating as the Saints' TE2 behind Juwan Johnson.
-- **NEW — Spencer Shrader** — Spencer Shrader A Must-Start Kicker In All Fantasy Leagues for Week 5 (2026-10-10T13:23:09Z)
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson Could Occupy Lead-Back Role in Week 5 (2026-10-10T15:06:13Z)
+  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-could-occupy-lead-back-role-in-week-5/1963253
+- **NEW — Fernando Mendoza** — Fernando Mendoza Remains a Strong Dynasty Hold Despite Backup Role (2026-10-10T14:58:09Z)
+  - Source: https://www.rotoballer.com/player-news/fernando-mendoza-remains-a-strong-dynasty-hold-despite-backup-role/1963248
+- **NEW — Keenan Allen** — Keenan Allen Has Opportunity if Cleared for Week 5 (2026-10-10T14:08:09Z)
+  - Source: https://www.rotoballer.com/player-news/keenan-allen-has-opportunity-if-cleared-for-week-5/1963233
+- **Noah Fant** — Noah Fant - Cleared to play vs. Minnesota (2026-10-10T14:05:50Z)
+  - Fant opened the week with back-to-back limited practices before logging a full session Friday, which was enough for him to shed an injury tag and put himself in a position to return from a one-game absence due to an abdominal injury. He has an 8-66-3 receiving line (on 12 targets) through three regular-season games while operating as the Saints' TE2 behind Juwan Johnson.
+- **NEW — Troy Franklin** — Troy Franklin Still Waiting for Targets Entering Week 5 (2026-10-10T13:54:10Z)
+  - Source: https://www.rotoballer.com/player-news/troy-franklin-still-waiting-for-targets-entering-week-5/1963218
+- **Spencer Shrader** — Spencer Shrader A Must-Start Kicker In All Fantasy Leagues for Week 5 (2026-10-10T13:23:09Z)
   - Source: https://www.rotoballer.com/player-news/spencer-shrader-a-must-start-kicker-in-all-fantasy-leagues-for-week-5/1963181
-- **NEW — Courtland Sutton** — Courtland Sutton Still a Tough Start Despite Chargers Injuries (2026-10-10T13:15:10Z)
+- **Courtland Sutton** — Courtland Sutton Still a Tough Start Despite Chargers Injuries (2026-10-10T13:15:10Z)
   - Source: https://www.rotoballer.com/player-news/courtland-sutton-still-a-tough-start-despite-chargers-injuries/1963174
-- **NEW — Tyler Warren** — Tyler Warren Set For Big Workload in Week 5 With Multiple Colts WRs Injured (2026-10-10T13:14:10Z)
+- **Tyler Warren** — Tyler Warren Set For Big Workload in Week 5 With Multiple Colts WRs Injured (2026-10-10T13:14:10Z)
   - Source: https://www.rotoballer.com/player-news/tyler-warren-set-for-big-workload-in-week-5-with-multiple-colts-wrs-injured/1963172
-- **NEW — Raheim Sanders** — Raheim Sanders Does Not Have Standalone Value in Week 5 (2026-10-10T13:05:10Z)
+- **Raheim Sanders** — Raheim Sanders Does Not Have Standalone Value in Week 5 (2026-10-10T13:05:10Z)
   - Source: https://www.rotoballer.com/player-news/raheim-sanders-does-not-have-standalone-value-in-week-5/1963170
-- **NEW — Jonathan Taylor** — Jonathan Taylor Remains An Elite Must-Start RB1 In Week 5 (2026-10-10T13:02:10Z)
+- **Jonathan Taylor** — Jonathan Taylor Remains An Elite Must-Start RB1 In Week 5 (2026-10-10T13:02:10Z)
   - Source: https://www.rotoballer.com/player-news/jonathan-taylor-remains-an-elite-must-start-rb1-in-week-5/1963168
-- **NEW — Oronde Gadsden** — Oronde Gadsden a Borderline TE2 in Week 5 vs. Broncos (2026-10-10T12:37:43Z)
+- **Oronde Gadsden** — Oronde Gadsden a Borderline TE2 in Week 5 vs. Broncos (2026-10-10T12:37:43Z)
   - Source: https://www.rotoballer.com/player-news/oronde-gadsden-borderline-te2-in-week-5-vs-broncos/1963159
-- **NEW — Tre' Harris** — Tre' Harris a Viable Flex Play in Week 5 vs. Broncos (2026-10-10T12:34:09Z)
+- **Tre' Harris** — Tre' Harris a Viable Flex Play in Week 5 vs. Broncos (2026-10-10T12:34:09Z)
   - Source: https://www.rotoballer.com/player-news/tre-harris-viable-flex-play-with-injured-teammates-in-week-5-vs-broncos/1963155
-- **NEW — Ladd McConkey** — Ladd McConkey Carries Greater Risk With Foot Injury in Week 5 vs. Broncos (2026-10-10T12:30:11Z)
+- **Ladd McConkey** — Ladd McConkey Carries Greater Risk With Foot Injury in Week 5 vs. Broncos (2026-10-10T12:30:11Z)
   - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-carries-greater-risk-with-foot-injury-in-week-5-vs-broncos/1963149
-- **NEW — Jayden Daniels** — Giants D/ST a Risky Start Against Commanders in Week 5 (2026-10-10T12:29:09Z)
+- **Jayden Daniels** — Giants D/ST a Risky Start Against Commanders in Week 5 (2026-10-10T12:29:09Z)
   - Source: https://www.rotoballer.com/player-news/giants-d-st-a-risky-start-with-jayden-daniels-returning/1963147
-- **NEW — Keaton Mitchell** — Keaton Mitchell Carries Deep-League Flex Appeal in Week 5 vs. Broncos (2026-10-10T12:24:09Z)
+- **NEW — Cam Little** — Cam Little a Great Starting Option in London Face-off (2026-10-10T12:25:10Z)
+  - Source: https://www.rotoballer.com/player-news/cam-little-a-great-starting-option-in-london-face-off/1963143
+- **Keaton Mitchell** — Keaton Mitchell Carries Deep-League Flex Appeal in Week 5 vs. Broncos (2026-10-10T12:24:09Z)
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-carries-deep-league-flex-appeal-in-week-5-vs-broncos/1963140
-- **NEW — Omarion Hampton** — Omarion Hampton a Low-Ceiling Flex Play in Week 5 vs. Broncos (2026-10-10T12:23:09Z)
+- **Omarion Hampton** — Omarion Hampton a Low-Ceiling Flex Play in Week 5 vs. Broncos (2026-10-10T12:23:09Z)
   - Source: https://www.rotoballer.com/player-news/omarion-hampton-low-ceiling-flex-play-in-week-5-vs-broncos/1963138
-- **NEW — Malachi Fields** — Malachi Fields Has Favorable Matchup Against Commanders (2026-10-10T12:21:09Z)
+- **Malachi Fields** — Malachi Fields Has Favorable Matchup Against Commanders (2026-10-10T12:21:09Z)
   - Source: https://www.rotoballer.com/player-news/malachi-fields-has-favorable-matchup-against-commanders/1963136
-- **NEW — Nick Folk** — Nick Folk Moves into Streaming Range for Week 5 (2026-10-10T12:20:11Z)
+- **Nick Folk** — Nick Folk Moves into Streaming Range for Week 5 (2026-10-10T12:20:11Z)
   - Source: https://www.rotoballer.com/player-news/nick-folk-moves-into-streaming-range-for-week-5/1963134
-- **NEW — Justin Herbert** — Justin Herbert a Low-Ceiling Superflex Option in Week 5 vs. Broncos (2026-10-10T12:18:14Z)
+- **Justin Herbert** — Justin Herbert a Low-Ceiling Superflex Option in Week 5 vs. Broncos (2026-10-10T12:18:14Z)
   - Source: https://www.rotoballer.com/player-news/justin-herbert-low-ceiling-superflex-option-in-week-5-vs-broncos/1963131
-- **NEW — Isaiah Likely** — Isaiah Likely Remains a TE1 Option in Week 5 (2026-10-10T12:11:09Z)
+- **Isaiah Likely** — Isaiah Likely Remains a TE1 Option in Week 5 (2026-10-10T12:11:09Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-likely-off-injury-report-remains-a-te1-option-in-week-5/1963118
-- **NEW — Drake Maye** — Drake Maye Carries Extraordinary Momentum Into Week 5 (2026-10-10T12:00:11Z)
+- **Drake Maye** — Drake Maye Carries Extraordinary Momentum Into Week 5 (2026-10-10T12:00:11Z)
   - Source: https://www.rotoballer.com/player-news/drake-maye-carries-extraordinary-momentum-into-week-5/1963105
-- **NEW — Jerry Jeudy** — Jerry Jeudy has Become an Afterthought (2026-10-10T11:56:14Z)
+- **Jerry Jeudy** — Jerry Jeudy has Become an Afterthought (2026-10-10T11:56:14Z)
   - Source: https://www.rotoballer.com/player-news/jerry-jeudy-an-afterthought/1963099
-- **NEW — Brian Robinson** — Brian Robinson a Viable Flex Option After Scoring in Consecutive Weeks (2026-10-10T11:51:09Z)
+- **Brian Robinson** — Brian Robinson a Viable Flex Option After Scoring in Consecutive Weeks (2026-10-10T11:51:09Z)
   - Source: https://www.rotoballer.com/player-news/brian-robinson-a-viable-flex-option-after-scoring-in-consecutive-weeks/1963088
-- **NEW — Daniel Jones** — Daniel Jones a Low-Upside QB2 in Week 5 (2026-10-10T11:50:11Z)
+- **Daniel Jones** — Daniel Jones a Low-Upside QB2 in Week 5 (2026-10-10T11:50:11Z)
   - Source: https://www.rotoballer.com/player-news/daniel-jones-a-low-upside-qb2-in-week-5/1963085
-- **NEW — Malik Nabers** — Malik Nabers Has Great Matchup in Week 5 (2026-10-10T11:48:10Z)
+- **Malik Nabers** — Malik Nabers Has Great Matchup in Week 5 (2026-10-10T11:48:10Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-off-injury-report-has-great-matchup-in-week-5/1963082
-- **NEW — Michael Penix** — Michael Penix Jr. Outside QB2 Ranks Despite Banged-Up Ravens Defense (2026-10-10T11:43:08Z)
+- **Michael Penix** — Michael Penix Jr. Outside QB2 Ranks Despite Banged-Up Ravens Defense (2026-10-10T11:43:08Z)
   - Source: https://www.rotoballer.com/player-news/michael-penix-jr-outside-qb2-ranks-despite-banged-up-ravens-defense/1963070
-- **NEW — Josh Downs** — Josh Downs Has Upside In Week 5 Despite Disappointing Week 4 (2026-10-10T11:32:09Z)
+- **Josh Downs** — Josh Downs Has Upside In Week 5 Despite Disappointing Week 4 (2026-10-10T11:32:09Z)
   - Source: https://www.rotoballer.com/player-news/josh-downs-has-upside-in-week-5-despite-disappointing-week-4/1963044
-- **NEW — KC Concepcion** — KC Concepcion Jr. Looks to Continue Strong Start (2026-10-10T11:26:13Z)
+- **KC Concepcion** — KC Concepcion Jr. Looks to Continue Strong Start (2026-10-10T11:26:13Z)
   - Source: https://www.rotoballer.com/player-news/kc-concepcion-looks-to-continue-strong-start/1963024
-- **NEW — Justice Hill** — Justice Hill Offers Little Standalone Value vs. Falcons (2026-10-10T11:23:09Z)
+- **Justice Hill** — Justice Hill Offers Little Standalone Value vs. Falcons (2026-10-10T11:23:09Z)
   - Source: https://www.rotoballer.com/player-news/justice-hill-offers-little-standalone-value-vs-falcons/1963019
-- **NEW — Kyle Pitts** — Kyle Pitts Sr. a Low-Floor TE3 in Tough Week 5 Matchup (2026-10-10T11:22:09Z)
+- **Kyle Pitts** — Kyle Pitts Sr. a Low-Floor TE3 in Tough Week 5 Matchup (2026-10-10T11:22:09Z)
   - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-a-low-floor-te3-in-tough-week-5-matchup/1963017
-- **NEW — Harold Fannin** — Harold Fannin Jr. With Three Touchdowns in Last Two Games (2026-10-10T11:20:11Z)
+- **Harold Fannin** — Harold Fannin Jr. With Three Touchdowns in Last Two Games (2026-10-10T11:20:11Z)
   - Source: https://www.rotoballer.com/player-news/harold-fannin-jr-with-three-touchdowns-in-last-two-games/1963015
-- **NEW — Denzel Boston** — Denzel Boston Remains a Quality Play in Week 5 (2026-10-10T11:19:09Z)
+- **Denzel Boston** — Denzel Boston Remains a Quality Play in Week 5 (2026-10-10T11:19:09Z)
   - Source: https://www.rotoballer.com/player-news/denzel-boston-remains-quality-play/1963012
-- **NEW — Najee Harris** — Najee Harris Remains a Handcuff Against Commanders (2026-10-10T11:18:09Z)
+- **Najee Harris** — Najee Harris Remains a Handcuff Against Commanders (2026-10-10T11:18:09Z)
   - Source: https://www.rotoballer.com/player-news/najee-harris-remains-a-handcuff-against-commanders/1963008
-- **NEW — Cam Skattebo** — Cam Skattebo Faces Tough Commanders Run Defense (2026-10-10T11:16:18Z)
+- **Cam Skattebo** — Cam Skattebo Faces Tough Commanders Run Defense (2026-10-10T11:16:18Z)
   - Source: https://www.rotoballer.com/player-news/cam-skattebo-off-injury-report-faces-tough-commanders-run-defense/1963005
-- **NEW — Quinshon Judkins** — Quinshon Judkins Has Tasty Matchup in Week 5 (2026-10-10T11:14:10Z)
+- **Quinshon Judkins** — Quinshon Judkins Has Tasty Matchup in Week 5 (2026-10-10T11:14:10Z)
   - Source: https://www.rotoballer.com/player-news/quinshon-judkins-has-tasty-matchup-in-week-5/1963002
-- **NEW — Isaiah Williams** — Isaiah Williams Worth Monitoring After Week 4 Touchdown (2026-10-10T11:11:09Z)
+- **Isaiah Williams** — Isaiah Williams Worth Monitoring After Week 4 Touchdown (2026-10-10T11:11:09Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-williams-worth-monitoring-after-week-4-touchdown/1962996
-- **NEW — Kenyon Sadiq** — Kenyon Sadiq Faces More Competition for Targets in Week 5 (2026-10-10T11:10:11Z)
+- **Kenyon Sadiq** — Kenyon Sadiq Faces More Competition for Targets in Week 5 (2026-10-10T11:10:11Z)
   - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-faces-more-competition-for-targets-in-week-5/1962993
-- **NEW — Garrett Wilson** — Garrett Wilson Remains a Strong WR2 Despite Recent Struggles (2026-10-10T11:08:10Z)
+- **Garrett Wilson** — Garrett Wilson Remains a Strong WR2 Despite Recent Struggles (2026-10-10T11:08:10Z)
   - Source: https://www.rotoballer.com/player-news/garrett-wilson-remains-a-strong-wr2-despite-recent-struggles/1962990
-- **NEW — Deshaun Watson** — Deshaun Watson Faces Vulnerable Jets Pass Defense (2026-10-10T11:07:09Z)
+- **Deshaun Watson** — Deshaun Watson Faces Vulnerable Jets Pass Defense (2026-10-10T11:07:09Z)
   - Source: https://www.rotoballer.com/player-news/deshaun-watson-faces-vulnerable-jets-pass-defense/1962988
-- **NEW — Braelon Allen** — Braelon Allen Gets Another Chance to Lead Jets Backfield (2026-10-10T11:05:11Z)
+- **Braelon Allen** — Braelon Allen Gets Another Chance to Lead Jets Backfield (2026-10-10T11:05:11Z)
   - Source: https://www.rotoballer.com/player-news/braelon-allen-gets-another-chance-to-lead-jets-backfield/1962985
-- **NEW — Jameis Winston** — Jameis Winston Still a Risky Option Against Commanders (2026-10-10T11:04:09Z)
+- **Jameis Winston** — Jameis Winston Still a Risky Option Against Commanders (2026-10-10T11:04:09Z)
   - Source: https://www.rotoballer.com/player-news/jameis-winston-still-a-risky-option-against-commanders/1962982
-- **NEW — Geno Smith** — Geno Smith Faces Another Difficult Matchup in Week 5 (2026-10-10T11:02:14Z)
+- **Geno Smith** — Geno Smith Faces Another Difficult Matchup in Week 5 (2026-10-10T11:02:14Z)
   - Source: https://www.rotoballer.com/player-news/geno-smith-faces-another-difficult-matchup-in-week-5/1962978
-- **NEW — Drake London** — Drake London a Low-End WR1 Against Vulnerable Ravens Defense (2026-10-10T11:02:09Z)
+- **Drake London** — Drake London a Low-End WR1 Against Vulnerable Ravens Defense (2026-10-10T11:02:09Z)
   - Source: https://www.rotoballer.com/player-news/drake-london-a-low-end-wr1-against-vulnerable-ravens-defense/1962976
-- **NEW — Pat Bryant** — Pat Bryant Needs More Targets (2026-10-10T10:56:15Z)
+- **Pat Bryant** — Pat Bryant Needs More Targets (2026-10-10T10:56:15Z)
   - Source: https://www.rotoballer.com/player-news/pat-bryant-needs-more-targets/1962965
-- **NEW — Juwan Johnson** — Juwan Johnson Continues to Build a Solid Fantasy Floor (2026-10-10T10:54:01Z)
+- **Juwan Johnson** — Juwan Johnson Continues to Build a Solid Fantasy Floor (2026-10-10T10:54:01Z)
   - Source: https://www.rotoballer.com/player-news/juwan-johnson-continues-to-build-a-solid-fantasy-floor/1962957
-- **NEW — Bijan Robinson** — Bijan Robinson an Elite Option Once Again in Week 5 (2026-10-10T10:50:11Z)
+- **Bijan Robinson** — Bijan Robinson an Elite Option Once Again in Week 5 (2026-10-10T10:50:11Z)
   - Source: https://www.rotoballer.com/player-news/bijan-robinson-an-elite-option-once-again-in-week-5/1962949
-- **NEW — Devaughn Vele** — Devaughn Vele Continues to Carve Out Important Role in Saints' Offense (2026-10-10T10:48:10Z)
+- **Devaughn Vele** — Devaughn Vele Continues to Carve Out Important Role in Saints' Offense (2026-10-10T10:48:10Z)
   - Source: https://www.rotoballer.com/player-news/devaughn-vele-continues-to-carve-out-important-role-in-saints-offense/1962943
-- **NEW — Chris Olave** — Chris Olave Remains a Must-Start WR1 Despite Tough Matchup (2026-10-10T10:39:09Z)
+- **Chris Olave** — Chris Olave Remains a Must-Start WR1 Despite Tough Matchup (2026-10-10T10:39:09Z)
   - Source: https://www.rotoballer.com/player-news/chris-olave-remains-a-must-start-wr1-despite-tough-matchup/1962916
-- **NEW — Kendre Miller** — Kendre Miller Could See Increased Role Against the Vikings (2026-10-10T10:33:09Z)
+- **Kendre Miller** — Kendre Miller Could See Increased Role Against the Vikings (2026-10-10T10:33:09Z)
   - Source: https://www.rotoballer.com/player-news/kendre-miller-could-see-increased-role-against-the-vikings/1962905
-- **NEW — Chris Rodriguez** — Chris Rodriguez Jr. Will Remain Involved as Jaguars' RB2 Vs. Eagles (2026-10-10T10:28:15Z)
+- **Chris Rodriguez** — Chris Rodriguez Jr. Will Remain Involved as Jaguars' RB2 Vs. Eagles (2026-10-10T10:28:15Z)
   - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-will-remain-involved-as-jaguars-rb2-vs-eagles/1962893
-- **NEW — Rashod Bateman** — Rashod Bateman Still on Deep-League Radars as a Risky Start in Week 5 (2026-10-10T10:25:10Z)
+- **Rashod Bateman** — Rashod Bateman Still on Deep-League Radars as a Risky Start in Week 5 (2026-10-10T10:25:10Z)
   - Source: https://www.rotoballer.com/player-news/rashod-bateman-still-on-deep-league-radars-as-a-risky-start-in-week-5/1962887
-- **NEW — Alvin Kamara** — Alvin Kamara Could Have Limited Upside Against Vikings (2026-10-10T10:23:09Z)
+- **Alvin Kamara** — Alvin Kamara Could Have Limited Upside Against Vikings (2026-10-10T10:23:09Z)
   - Source: https://www.rotoballer.com/player-news/alvin-kamara-could-have-limited-upside-against-vikings/1962882
-- **NEW — Tyler Shough** — Tyler Shough Faces Tough Week 5 Matchup Against Vikings (2026-10-10T10:21:09Z)
+- **Tyler Shough** — Tyler Shough Faces Tough Week 5 Matchup Against Vikings (2026-10-10T10:21:09Z)
   - Source: https://www.rotoballer.com/player-news/tyler-shough-faces-tough-week-5-matchup-against-vikings/1962879
-- **NEW — Cooper Kupp** — Cooper Kupp Remains an Unreliable Fantasy Option (2026-10-10T10:05:10Z)
+- **Cooper Kupp** — Cooper Kupp Remains an Unreliable Fantasy Option (2026-10-10T10:05:10Z)
   - Source: https://www.rotoballer.com/player-news/cooper-kupp-remains-an-unreliable-fantasy-option/1962864
-- **NEW — George Holani** — George Holani Still a Riskier Play Despite Climbing the Depth Chart (2026-10-10T10:00:11Z)
+- **George Holani** — George Holani Still a Riskier Play Despite Climbing the Depth Chart (2026-10-10T10:00:11Z)
   - Source: https://www.rotoballer.com/player-news/george-holani-still-a-riskier-play-despite-climbing-the-depth-chart/1962860
-- **NEW — Malik Willis** — Malik Willis Needs a Bounce-Back Game Against Cincinnati (2026-10-10T09:53:15Z)
+- **Malik Willis** — Malik Willis Needs a Bounce-Back Game Against Cincinnati (2026-10-10T09:53:15Z)
   - Source: https://www.rotoballer.com/player-news/malik-willis-needs-a-bounce-back-game-against-cincinnati/1962852
-- **NEW — Bo Nix** — Bo Nix Takes on Tall Task in Week 5 (2026-10-10T09:50:10Z)
+- **Bo Nix** — Bo Nix Takes on Tall Task in Week 5 (2026-10-10T09:50:10Z)
   - Source: https://www.rotoballer.com/player-news/bo-nix-takes-on-tall-task-in-week-5/1962845
-- **NEW — Zay Flowers** — Zay Flowers Still a Locked-in Starter Despite Missing His QB (2026-10-10T09:49:09Z)
+- **Zay Flowers** — Zay Flowers Still a Locked-in Starter Despite Missing His QB (2026-10-10T09:49:09Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-still-a-locked-in-start-despite-missing-his-quarterback/1962843
-- **NEW — Jaylen Wright** — Jaylen Wright a Shaky Play in Week 5 (2026-10-10T09:47:09Z)
+- **Jaylen Wright** — Jaylen Wright a Shaky Play in Week 5 (2026-10-10T09:47:09Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-wright-a-shaky-play-in-week-5/1962837
-- **NEW — Jaylen Waddle** — Jaylen Waddle Facing Hot Chargers Pass Defense (2026-10-10T09:43:09Z)
+- **Jaylen Waddle** — Jaylen Waddle Facing Hot Chargers Pass Defense (2026-10-10T09:43:09Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-waddle-facing-hot-chargers-pass-defense/1962813
-- **NEW — Jauan Jennings** — Jauan Jennings Remains Off the Radar for Week 5 (2026-10-10T09:39:04Z)
+- **Jauan Jennings** — Jauan Jennings Remains Off the Radar for Week 5 (2026-10-10T09:39:04Z)
   - Source: https://www.rotoballer.com/player-news/jauan-jennings-remains-off-the-radar-for-week-5/1962809
-- **NEW — Ollie Gordon** — Ollie Gordon II a Strong RB3 in Week 5 (2026-10-10T09:37:29Z)
+- **Ollie Gordon** — Ollie Gordon II a Strong RB3 in Week 5 (2026-10-10T09:37:29Z)
   - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-a-strong-rb3-in-week-5/1962804
-- **NEW — RJ Harvey** — RJ Harvey Coming Off Productive Effort (2026-10-10T09:33:09Z)
+- **RJ Harvey** — RJ Harvey Coming Off Productive Effort (2026-10-10T09:33:09Z)
   - Source: https://www.rotoballer.com/player-news/rj-harvey-coming-off-productive-effort/1962793
-- **NEW — Chris Bell** — Chris Bell a High-Risk Play in Week 5 (2026-10-10T09:26:15Z)
+- **Chris Bell** — Chris Bell a High-Risk Play in Week 5 (2026-10-10T09:26:15Z)
   - Source: https://www.rotoballer.com/player-news/chris-bell-a-high-risk-play-in-week-5/1962777
-- **NEW — J.K. Dobbins** — J.K. Dobbins Experiencing Slow Start (2026-10-10T09:23:09Z)
+- **J.K. Dobbins** — J.K. Dobbins Experiencing Slow Start (2026-10-10T09:23:09Z)
   - Source: https://www.rotoballer.com/player-news/jk-dobbins-experiencing-slow-start/1962773
-- **NEW — Malik Washington** — Malik Washington a Fringe FLEX Play vs. Bengals (2026-10-10T09:21:09Z)
+- **Malik Washington** — Malik Washington a Fringe FLEX Play vs. Bengals (2026-10-10T09:21:09Z)
   - Source: https://www.rotoballer.com/player-news/malik-washington-a-fringe-flex-play-vs-bengals/1962771
-- **NEW — Rico Dowdle** — Rico Dowdle Has Slight Pass-Catching Appeal in Potential Return (2026-10-10T09:20:11Z)
+- **Rico Dowdle** — Rico Dowdle Has Slight Pass-Catching Appeal in Potential Return (2026-10-10T09:20:11Z)
   - Source: https://www.rotoballer.com/player-news/rico-dowdle-has-slight-pass-catching-appeal-in-potential-return/1962769
-- **NEW — Mark Andrews** — Mark Andrews is a Fringe Starter With a Steady Role in Week 5 (2026-10-10T09:14:09Z)
+- **Mark Andrews** — Mark Andrews is a Fringe Starter With a Steady Role in Week 5 (2026-10-10T09:14:09Z)
   - Source: https://www.rotoballer.com/player-news/mark-andrews-is-a-fringe-starter-with-a-steady-role-in-week-5/1962763
 - **Ka'imi Fairbairn** — Ka'imi Fairbairn Remains a Strong Starter (2026-10-10T08:21:09Z)
   - Source: https://www.rotoballer.com/player-news/kaimi-fairbairn-remains-a-strong-starter/1962712
@@ -164,53 +208,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-due-for-flex-consideration-in-soft-matchup/1962643
 - **Michael Wilson** — Michael Wilson In A Smash Spot Against Detroit (2026-10-10T07:30:11Z)
   - Source: https://www.rotoballer.com/player-news/michael-wilson-in-a-smash-spot-against-detroit/1962641
-- **Tyler Allgeier** — Tyler Allgeier A Potential Flex With A Good Matchup (2026-10-10T07:28:10Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-allgeier-a-potential-flex-with-a-good-matchup/1962637
-- **David Montgomery** — David Montgomery Hard to Trust in Tennessee (2026-10-10T07:23:09Z)
-  - Source: https://www.rotoballer.com/player-news/david-montgomery-hard-to-trust-in-tennessee/1962633
-- **Jeremiyah Love** — Jeremiyah Love In A Good Spot Against Detroit (2026-10-10T07:15:10Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-in-a-good-spot-against-detroit/1962624
-- **Jacoby Brissett** — Jacoby Brissett A Top Streamer In Favorable Matchup (2026-10-10T07:09:09Z)
-  - Source: https://www.rotoballer.com/player-news/jacoby-brissett-a-top-streamer-in-favorable-matchup/1962618
-- **C.J. Stroud** — C.J. Stroud a Borderline Starter against the Titans (2026-10-10T07:06:14Z)
-  - Source: https://www.rotoballer.com/player-news/c-j-stroud-a-borderline-starter-against-the-titans/1962613
-- **George Kittle** — George Kittle Remains Top Option Against Seattle (2026-10-10T06:50:11Z)
-  - Source: https://www.rotoballer.com/player-news/george-kittle-remains-top-option-against-seattle/1962601
-- **Deebo Samuel** — Deebo Samuel Sr. Still A Flex Option Against Tough Defense (2026-10-10T06:22:10Z)
-  - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-still-a-flex-option-against-tough-defense/1962587
-- **Mike Evans** — Mike Evans A Risky Start While Playing Through Rib Injury (2026-10-10T06:08:10Z)
-  - Source: https://www.rotoballer.com/player-news/mike-evans-a-risky-start-while-playing-through-rib-injury/1962581
-- **Kaelon Black** — Kaelon Black Best Left On Bench In Week 5 (2026-10-10T05:59:09Z)
-  - Source: https://www.rotoballer.com/player-news/kaelon-black-best-left-on-bench-in-week-5/1962574
-- **Derrick Henry** — Derrick Henry Remains a Top Starter Despite a Tough Road Matchup in Week 5 (2026-10-10T05:56:14Z)
-  - Source: https://www.rotoballer.com/player-news/derrick-henry-remains-a-top-starter-despite-a-tough-road-matchup-in-week-5/1962572
-- **Christian McCaffrey** — Christian McCaffrey Can Extend TD Streak To Fourth Game On Sunday (2026-10-10T05:42:37Z)
-  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-can-extend-td-streak-to-fourth-game-on-sunday/1962563
-- **Brock Purdy** — Brock Purdy Still A Top Option Despite Challenging Week 5 Opponent (2026-10-10T05:19:09Z)
-  - Source: https://www.rotoballer.com/player-news/brock-purdy-still-a-top-option-despite-challenging-week-5-opponent/1962556
-- **Jayden Daniels** — Jayden Daniels (elbow) still not '100 percent' healthy  (2026-10-10T05:11:00.515000Z)
-  - Daniels is still slated to play on Sunday against the Giants, but re-injury risk is a bit of a concern. 
-  - Source: https://www.fantasypros.com/nfl/news/613148/jayden-daniels-elbow-still-not-100-percent-healthy.php
-- **Justin Jefferson** — Justin Jefferson (ankle) plans to play Sunday, to see how he feels Saturday (2026-10-10T05:11:00.506000Z)
-  - We should know by the end of Saturday if Jefferson will be good to go on Sunday. He will be a WR1 play if he is good to go. 
-  - Source: https://www.fantasypros.com/nfl/news/613149/justin-jefferson-ankle-plans-to-play-sunday-to-see-how-he-feels-saturday.php
-- **Lamar Jackson** — Lamar Jackson (ankle) uncertain for Week 6 (2026-10-10T05:01:00.845000Z)
-  - Jackson remains week-to-week after he was ruled out for this Sunday. Tyler Huntley could be seeing more than one start. 
-  - Source: https://www.fantasypros.com/nfl/news/613144/lamar-jackson-ankle-uncertain-week-6.php
-- **Zach Charbonnet** — Zach Charbonnet (knee) uncertain for Week 6 (2026-10-10T05:01:00.826000Z)
-  - Charbonnet has been limited since returning to practice, but a short week in Week 6 makes a return then tricky. It sounds like Week 7 against the Chiefs is more likely when he returns. 
-  - Source: https://www.fantasypros.com/nfl/news/613145/zach-charbonnet-knee-uncertain-week-6.php
-- **Tyler Huntley** — Tyler Huntley is a Fringe, Deep-League Superflex Option in Week 5 (2026-10-10T05:00:11Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-huntley-is-a-fringe-deep-league-superflex-option-in-week-5/1962552
-- **Colston Loveland** — Colston Loveland Showing Signs of Life Ahead of Week 5 (2026-10-10T02:19:09Z)
-  - Source: https://www.rotoballer.com/player-news/colston-loveland-showing-signs-of-life-ahead-of-week-5/1962536
-- **Chase McLaughlin** — Chase McLaughlin has solid night in win (2026-10-10T02:10:59.327000Z)
-  - McLaughlin bounced back from a down week against the Packers, but the offense was also able to move the ball much more effectively against the hapless Dallas defense, giving McLaughlin more chances than he had previously. He's been perfect on the season so far, going 10-for-10 on Field Goals and 10-for-10 on PATs. He should continue to be a solid kicker for those in need.
-  - Source: https://www.fantasypros.com/nfl/news/613142/chase-mclaughlin-has-solid-night-win.php
-- **Kalif Raymond** — Kalif Raymond Eyeing Rebound Against Rival Packers (2026-10-10T02:10:11Z)
-  - Source: https://www.rotoballer.com/player-news/kalif-raymond-eyeing-rebound-against-rival-packers/1962534
-- **Luther Burden** — Luther Burden III Enters WR2 Territory for Divisional Clash (2026-10-10T02:03:09Z)
-  - Source: https://www.rotoballer.com/player-news/luther-burden-iii-enters-wr2-territory-for-divisional-clash/1962532
-- **Jake Ferguson** — Jake Ferguson has critical drop in loss to Bucs (2026-10-10T02:00:59.590000Z)
-  - Ferguson had a critical drop on the Cowboys' final drive as they were trying to tie the game, failing to catch a pass and instead bobbling it straight up and into the arms of LB Alex Anzalone. It was a tough night for the veteran, but better days will come.
-  - Source: https://www.fantasypros.com/nfl/news/613139/jake-ferguson-has-critical-drop-loss-to-bucs.php
