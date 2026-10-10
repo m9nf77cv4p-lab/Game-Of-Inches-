@@ -2,65 +2,77 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6451**
-- Newly captured: **25**
+- Stored stories: **6425**
+- Newly captured: **6**
 
 ## Latest news
 
-- **NEW — Michael Pittman** — Michael Pittman - Officially placed on IR (2026-10-10T19:52:42Z)
+- **Michael Pittman** — Michael Pittman - Officially placed on IR (2026-10-10T19:52:42Z)
   - With the expected move now official, Pittman will be required to miss at least the next four games, making Week 10 against the Bengals on Sunday, Nov. 15 the earliest that the veteran wide receiver can return. Roman Wilson and Germie Bernard are both in line for more offensive snaps for as long as Pittman is sidelined.
-- **NEW — Michael Pittman** — Michael Pittman - Bound for injured reserve (2026-10-10T19:05:15Z)
+- **Michael Pittman** — Michael Pittman - Bound for injured reserve (2026-10-10T19:05:15Z)
   - Pittman was already ruled out for Sunday's game against the Colts after aggravating a foot injury in practice during Week 5 prep. The team has yet to announce the move, but once it's official, Pittman will be required to miss at least the next four games. With the Steelers on a bye for Week 9, that means the earliest that the veteran wide receiver will be eligible to return is Week 10 against the Bengals on Sunday, Nov. 15. Roman Wilson figures to step into the WR2 role behind DK Metcalf in Pittman's absence, and rookie second-rounder Germie Bernard should also be in the mix for more targets from veteran quarterback Aaron Rodgers.
-- **NEW — DJ Moore** — DJ Moore - Questionable for Week 5 (2026-10-10T18:05:14Z)
+- **NEW — Jaxson Dart** — Jaxson Dart Still an Exciting Quarterback for Dynasty Leagues (2026-10-10T19:00:11Z)
+  - Source: https://www.rotoballer.com/player-news/jaxson-dart-still-an-exciting-quarterback-for-dynasty-leagues/1963373
+- **NEW — Jayden Reed** — Is Jayden Reed a Worthy Injured Reserve Stash in Dynasty Leagues? (2026-10-10T18:41:40Z)
+  - Source: https://www.rotoballer.com/player-news/is-jayden-reed-a-worthy-injured-reserve-stash-in-dynasty-leagues/1963368
+- **DJ Moore** — DJ Moore - Questionable for Week 5 (2026-10-10T18:05:14Z)
   - Moore was able to participate in Saturday's practice in a limited capacity after being sidelined for the first two sessions of Week 5 prep, and that's enough for the veteran wide receiver to draw the questionable tag for Monday night's contest. Joshua Palmer (shoulder) has already been ruled out, so if Moore is also sidelined, then Khalil Shakir and Keon Coleman would operate as the top wide receivers for Buffalo.
+- **NEW — Matthew Stafford** — Matthew Stafford Has a Great Opportunity to Bounce Back Against Buffalo (2026-10-10T18:04:09Z)
+  - Source: https://www.rotoballer.com/player-news/matthew-stafford-has-a-great-opportunity-to-bounce-back-against-buffalo/1963348
+- **NEW — Nicholas Singleton** — Nicholas Singleton Remains a Solid Stash with Future Backfield Uncertainty (2026-10-10T17:48:10Z)
+  - Source: https://www.rotoballer.com/player-news/nicholas-singleton-remains-a-solid-stash-with-future-backfield-uncertainty/1963342
 - **Ted Hurst** — Ted Hurst - Zero targets on TNF (2026-10-10T17:27:11Z)
   - Hurst saw at least three targets in each of the first four games of the regular season, but he did not see a pass from Jalon Daniels during Thursday's game, and the former's 33 offensive snaps were a distant third among Bucs wideouts behind Emeka Egbuka (64) and Chris Godwin (63). Hurst will take an 8-128-1 receiving line (16 targets) into Tampa Bay's Week 6 home game against Pittsburgh, and for now, it looks like Daniels will remain as the starter while Baker Mayfield (thumb) continues to recover from his injury.
 - **DJ Moore** — DJ Moore - Spotted at practice Saturday (2026-10-10T16:58:49Z)
   - Moore was a non-participant in each of the Bills' first two practices of the week, so it's a positive sign for him to be on the field for Saturday's session. The Bills' injury report following practice will provide clarity on Moore's status for Monday night's road game against the Rams, and if the veteran wide receiver cannot play, then Khalil Shakir and Keon Coleman would serve as Buffalo's top wide receivers, with tight end Dalton Kincaid also in the mix for more targets from quarterback Josh Allen.
-- **NEW — Terry McLaurin** — Van Jefferson Added to 53-Man Roster with Terry McLaurin's Status in Doubt (2026-10-10T16:34:09Z)
+- **NEW — Tee Higgins** — Bengals Add No Receivers with Ja'Marr Chase, Tee Higgins Questionable (2026-10-10T16:57:09Z)
+  - Source: https://www.rotoballer.com/player-news/bengals-add-no-receivers-with-jamarr-chase-tee-higgins-listed-as-questionable/1963322
+- **NEW — Hunter Henry** — Hunter Henry Looks to Build on Momentum in Week 5 (2026-10-10T16:45:10Z)
+  - Source: https://www.rotoballer.com/player-news/hunter-henry-looks-to-build-on-momentum-in-week-5/1963317
+- **Terry McLaurin** — Van Jefferson Added to 53-Man Roster with Teammate's Status in Doubt (2026-10-10T16:34:09Z)
   - Source: https://www.rotoballer.com/player-news/van-jefferson-added-to-53-man-roster-with-terry-mclaurins-status-in-doubt/1963313
-- **NEW — Romeo Doubs** — Romeo Doubs Looks to Stay Hot in Week 5 Against Raiders (2026-10-10T16:04:10Z)
+- **Romeo Doubs** — Romeo Doubs Looks to Stay Hot in Week 5 Against Raiders (2026-10-10T16:04:10Z)
   - Source: https://www.rotoballer.com/player-news/romeo-doubs-looks-to-stay-hot-in-week-5-against-raiders/1963299
 - **Marvin Harrison** — Marvin Harrison Jr: Cardinals finalizing trade (2026-10-10T16:00:05.926000Z)
   - The Cardinals informed Harrison this morning that he will be inactive for Sunday's game against the Lions as the details of the trade are finalized. It remains unclear as of now where he will be traded. 
   - Source: https://www.fantasypros.com/nfl/news/613173/marvin-harrison-jr-cardinals-finalizing-trade.php
-- **NEW — Anthony Richardson** — Anthony Richardson Sr. Can be Dropped in Most Dynasty Leagues (2026-10-10T15:58:09Z)
+- **Anthony Richardson** — Anthony Richardson Sr. Can be Dropped in Most Dynasty Leagues (2026-10-10T15:58:09Z)
   - Source: https://www.rotoballer.com/player-news/anthony-richardson-sr-can-be-dropped-in-most-dynasty-leagues/1963293
-- **NEW — Khalil Shakir** — Khalil Shakir Could See Increased Opportunities in Week 5 (2026-10-10T15:56:15Z)
+- **Khalil Shakir** — Khalil Shakir Could See Increased Opportunities in Week 5 (2026-10-10T15:56:15Z)
   - Source: https://www.rotoballer.com/player-news/khalil-shakir-could-see-increased-opportunities-in-week-5/1963290
-- **NEW — Dalton Kincaid** — Dalton Kincaid Looking for More Targets After Quiet Stretch (2026-10-10T15:54:11Z)
+- **Dalton Kincaid** — Dalton Kincaid Looking for More Targets After Quiet Stretch (2026-10-10T15:54:11Z)
   - Source: https://www.rotoballer.com/player-news/dalton-kincaid-looking-for-more-targets-after-quiet-stretch/1963288
-- **NEW — DJ Moore** — DJ Moore's Shoulder Injury Leaves Week 5 Status Uncertain (2026-10-10T15:53:09Z)
+- **DJ Moore** — DJ Moore's Shoulder Injury Leaves Week 5 Status Uncertain (2026-10-10T15:53:09Z)
   - Source: https://www.rotoballer.com/player-news/dj-moores-shoulder-injury-leaves-week-5-status-uncertain/1963286
-- **NEW — Keon Coleman** — Keon Coleman Could Have a Bigger Role in Week 5 (2026-10-10T15:51:35Z)
+- **Keon Coleman** — Keon Coleman Could Have a Bigger Role in Week 5 (2026-10-10T15:51:35Z)
   - Source: https://www.rotoballer.com/player-news/keon-coleman-could-have-a-bigger-role-in-week-5/1963284
-- **NEW — James Cook** — James Cook III Remains an RB1 After Lighter Week 4 Workload (2026-10-10T15:50:11Z)
+- **James Cook** — James Cook III Remains an RB1 After Lighter Week 4 Workload (2026-10-10T15:50:11Z)
   - Source: https://www.rotoballer.com/player-news/james-cook-iii-remains-an-rb1-after-lighter-week-4-workload/1963282
-- **NEW — Josh Allen** — Josh Allen's Rushing Touchdowns Keep Him Atop Week 5 Rankings (2026-10-10T15:47:09Z)
+- **Josh Allen** — Josh Allen's Rushing Touchdowns Keep Him Atop Week 5 Rankings (2026-10-10T15:47:09Z)
   - Source: https://www.rotoballer.com/player-news/josh-allens-rushing-touchdowns-keep-him-atop-week-5-rankings/1963277
-- **NEW — Jayden Higgins** — Jayden Higgins an Appealing Dynasty Option Despite Injury (2026-10-10T15:36:15Z)
+- **Jayden Higgins** — Jayden Higgins an Appealing Dynasty Option Despite Injury (2026-10-10T15:36:15Z)
   - Source: https://www.rotoballer.com/player-news/jayden-higgins-an-appealing-dynasty-option-despite-injury/1963275
 - **Marvin Harrison** — Marvin Harrison - Will sit amid trade talks (2026-10-10T15:35:04Z)
   - Harrison's long-term outlook is firmly up in the air after it was announced earlier Saturday that he will be traded to an unspecified team, but per the latest report, "The one certainty is that Harrison's time in Arizona is done." Michael Wilson and Trey McBride figure to remain plenty busy in the passing game, and Harrison's absence will open up some opportunities for Kendrick Bourne and presumably Jalen Brooks.
-- **NEW — Chris Brazzell** — Chris Brazzell II Still Worth Stashing After Lost Rookie Season (2026-10-10T15:28:09Z)
+- **Chris Brazzell** — Chris Brazzell II Still Worth Stashing After Lost Rookie Season (2026-10-10T15:28:09Z)
   - Source: https://www.rotoballer.com/player-news/chris-brazzell-ii-still-worth-stashing-after-lost-rookie-season/1963269
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson an Uninspiring RB3 if Active on Sunday (2026-10-10T15:25:10Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson an Uninspiring RB3 if Active on Sunday (2026-10-10T15:25:10Z)
   - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-an-uninspiring-rb3-if-active-on-sunday/1963267
-- **NEW — Michael Pittman** — Steelers Place Michael Pittman Jr. on Injured Reserve (2026-10-10T15:20:10Z)
+- **Michael Pittman** — Steelers Place Michael Pittman Jr. on Injured Reserve (2026-10-10T15:20:10Z)
   - Source: https://www.rotoballer.com/player-news/steelers-place-michael-pittman-jr-on-injured-reserve/1963265
-- **NEW — Marvin Harrison** — Chiefs Not Trading for Marvin Harrison Jr. (2026-10-10T15:17:08Z)
+- **Marvin Harrison** — Chiefs Not Trading for Marvin Harrison Jr. (2026-10-10T15:17:08Z)
   - Source: https://www.rotoballer.com/player-news/chiefs-not-trading-for-marvin-harrison-jr/1963263
 - **Marvin Harrison** — Marvin Harrison - Trade being finalized (2026-10-10T15:12:43Z)
   - Harrison's destination is unclear, but he is on the move after spending two seasons and the early portion of the current campaign in Arizona. Per the report, the Cardinals informed Harrison "that he will be inactive for Sunday's game against the Lions as details of the trade are finalized," so one way or another he will not see action in Week 5.
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson Could Occupy Lead-Back Role in Week 5 (2026-10-10T15:06:13Z)
+- **TreVeyon Henderson** — TreVeyon Henderson Could Occupy Lead-Back Role in Week 5 (2026-10-10T15:06:13Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-could-occupy-lead-back-role-in-week-5/1963253
-- **NEW — Fernando Mendoza** — Fernando Mendoza Remains a Strong Dynasty Hold Despite Backup Role (2026-10-10T14:58:09Z)
+- **Fernando Mendoza** — Fernando Mendoza Remains a Strong Dynasty Hold Despite Backup Role (2026-10-10T14:58:09Z)
   - Source: https://www.rotoballer.com/player-news/fernando-mendoza-remains-a-strong-dynasty-hold-despite-backup-role/1963248
-- **NEW — Keenan Allen** — Keenan Allen Has Opportunity if Cleared for Week 5 (2026-10-10T14:08:09Z)
+- **Keenan Allen** — Keenan Allen Has Opportunity if Cleared for Week 5 (2026-10-10T14:08:09Z)
   - Source: https://www.rotoballer.com/player-news/keenan-allen-has-opportunity-if-cleared-for-week-5/1963233
 - **Noah Fant** — Noah Fant - Cleared to play vs. Minnesota (2026-10-10T14:05:50Z)
   - Fant opened the week with back-to-back limited practices before logging a full session Friday, which was enough for him to shed an injury tag and put himself in a position to return from a one-game absence due to an abdominal injury. He has an 8-66-3 receiving line (on 12 targets) through three regular-season games while operating as the Saints' TE2 behind Juwan Johnson.
-- **NEW — Troy Franklin** — Troy Franklin Still Waiting for Targets Entering Week 5 (2026-10-10T13:54:10Z)
+- **Troy Franklin** — Troy Franklin Still Waiting for Targets Entering Week 5 (2026-10-10T13:54:10Z)
   - Source: https://www.rotoballer.com/player-news/troy-franklin-still-waiting-for-targets-entering-week-5/1963218
 - **Spencer Shrader** — Spencer Shrader A Must-Start Kicker In All Fantasy Leagues for Week 5 (2026-10-10T13:23:09Z)
   - Source: https://www.rotoballer.com/player-news/spencer-shrader-a-must-start-kicker-in-all-fantasy-leagues-for-week-5/1963181
@@ -80,7 +92,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-carries-greater-risk-with-foot-injury-in-week-5-vs-broncos/1963149
 - **Jayden Daniels** — Giants D/ST a Risky Start Against Commanders in Week 5 (2026-10-10T12:29:09Z)
   - Source: https://www.rotoballer.com/player-news/giants-d-st-a-risky-start-with-jayden-daniels-returning/1963147
-- **NEW — Cam Little** — Cam Little a Great Starting Option in London Face-off (2026-10-10T12:25:10Z)
+- **Cam Little** — Cam Little a Great Starting Option in London Face-off (2026-10-10T12:25:10Z)
   - Source: https://www.rotoballer.com/player-news/cam-little-a-great-starting-option-in-london-face-off/1963143
 - **Keaton Mitchell** — Keaton Mitchell Carries Deep-League Flex Appeal in Week 5 vs. Broncos (2026-10-10T12:24:09Z)
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-carries-deep-league-flex-appeal-in-week-5-vs-broncos/1963140
@@ -196,15 +208,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/dalton-schultz-a-solid-te2-in-complementary-role/1962680
 - **Xavier Hutchinson** — Xavier Hutchinson Not a Strong Option in Reduced Role (2026-10-10T08:01:09Z)
   - Source: https://www.rotoballer.com/player-news/xavier-hutchinson-not-a-strong-option-in-reduced-role/1962671
-- **Kayshon Boutte** — Kayshon Boutte Only a Starting Option in Deep Leagues (2026-10-10T07:56:15Z)
-  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-only-a-starting-option-in-deep-leagues/1962669
-- **Nico Collins** — Nico Collins Remains an Elite Option Against the Titans (2026-10-10T07:41:09Z)
-  - Source: https://www.rotoballer.com/player-news/nico-collins-remains-an-elite-option-against-the-titans/1962657
-- **Trey McBride** — Trey McBride A Must-Start Against Lions (2026-10-10T07:33:09Z)
-  - Source: https://www.rotoballer.com/player-news/trey-mcbride-a-must-start-against-lions/1962647
-- **Woody Marks** — Woody Marks an Intriguing FLEX Sleeper in Week 5 (2026-10-10T07:32:10Z)
-  - Source: https://www.rotoballer.com/player-news/woody-marks-an-intriguing-flex-sleeper-in-week-5/1962645
-- **Marvin Harrison** — Marvin Harrison Jr. Due For Flex Consideration In Soft Matchup (2026-10-10T07:31:09Z)
-  - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-due-for-flex-consideration-in-soft-matchup/1962643
-- **Michael Wilson** — Michael Wilson In A Smash Spot Against Detroit (2026-10-10T07:30:11Z)
-  - Source: https://www.rotoballer.com/player-news/michael-wilson-in-a-smash-spot-against-detroit/1962641
