@@ -2,35 +2,50 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6420**
-- Newly captured: **11**
+- Stored stories: **6395**
+- Newly captured: **7**
 
 ## Latest news
 
-- **NEW — Davante Adams** — Davante Adams off injury report Monday  (2026-10-11T02:15:10.357000Z)
+- **NEW — Davante Adams** — Davante Adams Gets an Opportunity to Bounce Back with Favorable Matchup (2026-10-11T03:41:09Z)
+  - Source: https://www.rotoballer.com/player-news/davante-adams-gets-an-opportunity-to-bounce-back-with-favorable-matchup/1963485
+- **NEW — Puka Nacua** — Puka Nacua Could Feast with Favorable Matchup in Potential Shootout (2026-10-11T03:38:09Z)
+  - Source: https://www.rotoballer.com/player-news/puka-nacua-could-feast-with-favorable-matchup-in-potential-shootout/1963483
+- **NEW — Blake Corum** — Blake Corum No Longer Worth Starting in Fantasy Football (2026-10-11T03:32:09Z)
+  - Source: https://www.rotoballer.com/player-news/blake-corum-no-longer-worth-starting-in-fantasy-football/1963481
+- **NEW — Kyren Williams** — Kyren Williams Has High-End RB1 Upside Against Buffalo (2026-10-11T03:30:10Z)
+  - Source: https://www.rotoballer.com/player-news/kyren-williams-has-high-end-rb1-upside-against-buffalo/1963479
+- **NEW — Terry McLaurin** — Terry McLaurin (hamstring) remains game-time decision Sunday  (2026-10-11T02:35:10.482000Z)
+  - Keim notes that at this point, there's a slight lean to McLaurin playing, but it's "just slight." His status will need to be monitored 90 minutes before kickoff. 
+  - Source: https://www.fantasypros.com/nfl/news/613197/terry-mclaurin-hamstring-remains-game-time-decision-sunday.php
+- **Davante Adams** — Davante Adams off injury report Monday  (2026-10-11T02:15:10.357000Z)
   - Adams received a rest day in practice during the week. He'll remain a WR2 play for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/613186/davante-adams-off-injury-report-monday.php
-- **NEW — DJ Moore** — DJ Moore (shoulder) listed questionable Monday  (2026-10-11T01:25:09.975000Z)
+- **DJ Moore** — DJ Moore (shoulder) listed questionable Monday  (2026-10-11T01:25:09.975000Z)
   - Moore returned to a limited practice on Saturday. He's a risky start this week for fantasy managers with him playing on Monday. 
   - Source: https://www.fantasypros.com/nfl/news/613177/dj-moore-shoulder-listed-questionable-monday.php
-- **NEW — Michael Pittman** — Michael Pittman Jr. (foot) placed on IR (2026-10-11T01:25:09.931000Z)
+- **Michael Pittman** — Michael Pittman Jr. (foot) placed on IR (2026-10-11T01:25:09.931000Z)
   - Pittman will miss at least the next four weeks. Roman Wilson and Germie Bernard should both step into bigger roles in the Steelers wide receiver room. 
   - Source: https://www.fantasypros.com/nfl/news/613180/michael-pittman-jr-foot-placed-on-ir.php
-- **NEW — Terry McLaurin** — Terry McLaurin - Trending toward playing Sunday (2026-10-11T00:32:57Z)
-  - After missing last Sunday's contest against the Colts with the hamstring issue, McLaurin is trying to push to play Week 5. If he's able to suit up, Washington would get back its top wide receiver, which would be welcomed news after Stefon Diggs suffered a hamstring injury of his own this past week and has been ruled out against New York.
-- **NEW — DeMario Douglas** — DeMario Douglas Trending Up After Teammate's Injury (2026-10-10T22:21:09Z)
+- **Terry McLaurin** — Terry McLaurin - Trending toward playing Sunday (2026-10-11T00:32:57Z)
+  - After missing last Sunday's contest against the Colts with the hamstring issue, McLaurin is trying to push to play for Week 5. If he's able to suit up, Washington would get back its top wide receiver, which would be welcome news after Stefon Diggs suffered a hamstring injury of his own this past week and has been ruled out against New York.
+- **NEW — Germie Bernard** — Germie Bernard Headed for Significant Uptick in Volume (2026-10-10T23:16:13Z)
+  - Source: https://www.rotoballer.com/player-news/germie-bernard-headed-for-significant-uptick-in-volume/1963468
+- **NEW — Tory Horton** — Tory Horton Gradually Making a Bigger Impact in Seattle (2026-10-10T22:54:09Z)
+  - Source: https://www.rotoballer.com/player-news/tory-horton-gradually-making-a-bigger-impact-in-seattle/1963455
+- **DeMario Douglas** — DeMario Douglas Trending Up After Teammate's Injury (2026-10-10T22:21:09Z)
   - Source: https://www.rotoballer.com/player-news/demario-douglas-trending-up-after-teammates-injury/1963442
-- **NEW — Marvin Harrison** — League Circles Expect Texans to Acquire Marvin Harrison Jr. (2026-10-10T22:14:09Z)
+- **Marvin Harrison** — League Circles Expect Texans to Acquire Marvin Harrison Jr. (2026-10-10T22:14:09Z)
   - Source: https://www.rotoballer.com/player-news/league-circles-expect-texans-to-acquire-marvin-harrison-jr/1963440
-- **NEW — Jalen McMillan** — Jalen McMillan Could be Sneaky Stash Candidate (2026-10-10T21:44:09Z)
+- **Jalen McMillan** — Jalen McMillan Could be Sneaky Stash Candidate (2026-10-10T21:44:09Z)
   - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-could-be-sneaky-stash-candidate/1963432
-- **NEW — Tua Tagovailoa** — No Path to Playing Time for Tua Tagovailoa? (2026-10-10T20:58:10Z)
+- **Tua Tagovailoa** — No Path to Playing Time for Tua Tagovailoa? (2026-10-10T20:58:10Z)
   - Source: https://www.rotoballer.com/player-news/no-path-to-playing-time-for-tua-tagovailoa/1963406
-- **NEW — Elijah Arroyo** — Elijah Arroyo Operating as a True Backup in Second Pro Season (2026-10-10T20:44:09Z)
+- **Elijah Arroyo** — Elijah Arroyo Operating as a True Backup in Second Pro Season (2026-10-10T20:44:09Z)
   - Source: https://www.rotoballer.com/player-news/elijah-arroyo-operating-as-a-true-backup-in-second-pro-season/1963401
-- **NEW — Terry McLaurin** — Terry McLaurin Remains a Game-Time Decision, Slightly Leaning Toward Playing (2026-10-10T20:35:57Z)
+- **Terry McLaurin** — Terry McLaurin Remains a Game-Time Decision, Slightly Leaning Toward Playing (2026-10-10T20:35:57Z)
   - Source: https://www.rotoballer.com/player-news/terry-mclaurin-remains-a-game-time-decision-slightly-leaning-toward-playing/1963396
-- **NEW — Marvin Harrison** — Saints Had Trade Talks for Marvin Harrison Jr. in the Spring (2026-10-10T20:20:11Z)
+- **Marvin Harrison** — Saints Had Trade Talks for Marvin Harrison Jr. in the Spring (2026-10-10T20:20:11Z)
   - Source: https://www.rotoballer.com/player-news/saints-had-trade-talks-for-marvin-harrison-jr-in-the-spring/1963386
 - **Michael Pittman** — Michael Pittman - Officially placed on IR (2026-10-10T19:52:42Z)
   - With the expected move now official, Pittman will be required to miss at least the next four games, making Week 10 against the Bengals on Sunday, Nov. 15 the earliest that the veteran wide receiver can return. Roman Wilson and Germie Bernard are both in line for more offensive snaps for as long as Pittman is sidelined.
@@ -197,17 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/alvin-kamara-could-have-limited-upside-against-vikings/1962882
 - **Tyler Shough** — Tyler Shough Faces Tough Week 5 Matchup Against Vikings (2026-10-10T10:21:09Z)
   - Source: https://www.rotoballer.com/player-news/tyler-shough-faces-tough-week-5-matchup-against-vikings/1962879
-- **Cooper Kupp** — Cooper Kupp Remains an Unreliable Fantasy Option (2026-10-10T10:05:10Z)
-  - Source: https://www.rotoballer.com/player-news/cooper-kupp-remains-an-unreliable-fantasy-option/1962864
-- **George Holani** — George Holani Still a Riskier Play Despite Climbing the Depth Chart (2026-10-10T10:00:11Z)
-  - Source: https://www.rotoballer.com/player-news/george-holani-still-a-riskier-play-despite-climbing-the-depth-chart/1962860
-- **Malik Willis** — Malik Willis Needs a Bounce-Back Game Against Cincinnati (2026-10-10T09:53:15Z)
-  - Source: https://www.rotoballer.com/player-news/malik-willis-needs-a-bounce-back-game-against-cincinnati/1962852
-- **Bo Nix** — Bo Nix Takes on Tall Task in Week 5 (2026-10-10T09:50:10Z)
-  - Source: https://www.rotoballer.com/player-news/bo-nix-takes-on-tall-task-in-week-5/1962845
-- **Zay Flowers** — Zay Flowers Still a Locked-in Starter Despite Missing His QB (2026-10-10T09:49:09Z)
-  - Source: https://www.rotoballer.com/player-news/zay-flowers-still-a-locked-in-start-despite-missing-his-quarterback/1962843
-- **Jaylen Wright** — Jaylen Wright a Shaky Play in Week 5 (2026-10-10T09:47:09Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-wright-a-shaky-play-in-week-5/1962837
-- **Jaylen Waddle** — Jaylen Waddle Facing Hot Chargers Pass Defense (2026-10-10T09:43:09Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-waddle-facing-hot-chargers-pass-defense/1962813
