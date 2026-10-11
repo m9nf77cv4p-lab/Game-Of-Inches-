@@ -1,14 +1,19 @@
 {
-  "last_checked_at": "2026-10-10T23:51:18Z",
+  "last_checked_at": "2026-10-11T02:34:06Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 301,
   "new_story_ids": [
-    "nfl|10222|rotoballer|223937|1791657700000",
-    "nfl|12508|rotoballer|223938|1791658811000",
-    "nfl|13288|rotoballer|223933|1791654490000",
-    "nfl|3214|rotoballer|223929|1791650710000",
-    "nfl|421|rotoballer|223934|1791655449000",
-    "nfl|6801|rotoballer|223930|1791651429000"
+    "nfl|11618|rotoballer|223947|1791668649000",
+    "nfl|11628|rotoballer|223939|1791663611000",
+    "nfl|11628|rotoballer|223949|1791670449000",
+    "nfl|12521|rotoballer|223942|1791665049000",
+    "nfl|2133|fantasy_pros|613186|1791684910357",
+    "nfl|4983|fantasy_pros|613177|1791681909975",
+    "nfl|5927|rotoballer|223941|1791664557000",
+    "nfl|5927|rotowire|641778|1791678777000",
+    "nfl|6768|rotoballer|223943|1791665890000",
+    "nfl|6819|fantasy_pros|613180|1791681909931",
+    "nfl|9501|rotoballer|223950|1791670869000"
   ],
   "schema_version": 1,
   "source": {
@@ -18,6 +23,229 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Adams received a rest day in practice during the week. He'll remain a WR2 play for fantasy managers. ",
+      "description": "Davante Adams is off the injury report for Monday's game against the Bills. ",
+      "metadata": {
+        "analysis": "Adams received a rest day in practice during the week. He'll remain a WR2 play for fantasy managers. ",
+        "description": "Davante Adams is off the injury report for Monday's game against the Bills. ",
+        "title": "Davante Adams off injury report Monday ",
+        "topic_id": "1414832696017874944",
+        "url": "https://www.fantasypros.com/nfl/news/613186/davante-adams-off-injury-report-monday.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "2133",
+      "player_name": "Davante Adams",
+      "position": "WR",
+      "published": 1791684910357,
+      "source": "fantasy_pros",
+      "source_key": "613186",
+      "story_id": "nfl|2133|fantasy_pros|613186|1791684910357",
+      "title": "Davante Adams off injury report Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/613186/davante-adams-off-injury-report-monday.php"
+    },
+    {
+      "analysis": "Moore returned to a limited practice on Saturday. He's a risky start this week for fantasy managers with him playing on Monday. ",
+      "description": "DJ Moore is listed as questionable for Monday's game against the Rams. ",
+      "metadata": {
+        "analysis": "Moore returned to a limited practice on Saturday. He's a risky start this week for fantasy managers with him playing on Monday. ",
+        "description": "DJ Moore is listed as questionable for Monday's game against the Rams. ",
+        "title": "DJ Moore (shoulder) listed questionable Monday ",
+        "topic_id": "1414820111491088384",
+        "url": "https://www.fantasypros.com/nfl/news/613177/dj-moore-shoulder-listed-questionable-monday.php"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4983",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "published": 1791681909975,
+      "source": "fantasy_pros",
+      "source_key": "613177",
+      "story_id": "nfl|4983|fantasy_pros|613177|1791681909975",
+      "title": "DJ Moore (shoulder) listed questionable Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/613177/dj-moore-shoulder-listed-questionable-monday.php"
+    },
+    {
+      "analysis": "Pittman will miss at least the next four weeks. Roman Wilson and Germie Bernard should both step into bigger roles in the Steelers wide receiver room. ",
+      "description": "The Steelers placed WR Michael Pittman on injured reserve.",
+      "metadata": {
+        "analysis": "Pittman will miss at least the next four weeks. Roman Wilson and Germie Bernard should both step into bigger roles in the Steelers wide receiver room. ",
+        "description": "The Steelers placed WR Michael Pittman on injured reserve.",
+        "title": "Michael Pittman Jr. (foot) placed on IR",
+        "topic_id": "1414820111314927616",
+        "url": "https://www.fantasypros.com/nfl/news/613180/michael-pittman-jr-foot-placed-on-ir.php"
+      },
+      "nfl_team": "PIT",
+      "player_id": "6819",
+      "player_name": "Michael Pittman",
+      "position": "WR",
+      "published": 1791681909931,
+      "source": "fantasy_pros",
+      "source_key": "613180",
+      "story_id": "nfl|6819|fantasy_pros|613180|1791681909931",
+      "title": "Michael Pittman Jr. (foot) placed on IR",
+      "url": "https://www.fantasypros.com/nfl/news/613180/michael-pittman-jr-foot-placed-on-ir.php"
+    },
+    {
+      "analysis": "After missing last Sunday's contest against the Colts with the hamstring issue, McLaurin is trying to push to play Week 5. If he's able to suit up, Washington would get back its top wide receiver, which would be welcomed news after Stefon Diggs suffered a hamstring injury of his own this past week and has been ruled out against New York.",
+      "description": "McLaurin (hamstring) remains a game-time decision for Sunday's game against the Giants, with a \"slight lean\" toward him playing, John Keim of ESPN.com reports.",
+      "metadata": {
+        "analysis": "After missing last Sunday's contest against the Colts with the hamstring issue, McLaurin is trying to push to play Week 5. If he's able to suit up, Washington would get back its top wide receiver, which would be welcomed news after Stefon Diggs suffered a hamstring injury of his own this past week and has been ruled out against New York.",
+        "description": "McLaurin (hamstring) remains a game-time decision for Sunday's game against the Giants, with a \"slight lean\" toward him playing, John Keim of ESPN.com reports.",
+        "title": "Terry McLaurin - Trending toward playing Sunday",
+        "topic_id": "1414807522316972033"
+      },
+      "nfl_team": "WAS",
+      "player_id": "5927",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "published": 1791678777000,
+      "source": "rotowire",
+      "source_key": "641778",
+      "story_id": "nfl|5927|rotowire|641778|1791678777000",
+      "title": "Terry McLaurin - Trending toward playing Sunday",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver DeMario Douglas could take on a larger role starting in Week 5 against the Las Vegas Raiders. The Patriots placed wide receiver Mack Hollins (calf) on injured reserve Sunday, and they will also be without A.J. Brown (ankle) for at least one more week. As a result, New England is carrying just four wide receivers into Sunday's home game, with Douglas the presumptive No. 2 receiver behind Romeo Doubs. He and Hollins are different styles of receivers; the former offers a short-to-medium yardage outlet, while the latter makes physical catches downfield. However, it's still reasonable to expect that plenty of Hollins' vacated targets could go to Douglas, especially since the Patriots already have Doubs, Kyle Williams, and Efton Chism III to handle those aforementioned big plays downfield. The expanded role will vault Douglas into the WR3/flex conversation in deeper leagues, although the duration of his fantasy relevance will depend on how much more time Brown misses.",
+      "metadata": {
+        "description": "New England Patriots wide receiver DeMario Douglas could take on a larger role starting in Week 5 against the Las Vegas Raiders. The Patriots placed wide receiver Mack Hollins (calf) on injured reserve Sunday, and they will also be without A.J. Brown (ankle) for at least one more week. As a result, New England is carrying just four wide receivers into Sunday's home game, with Douglas the presumptive No. 2 receiver behind Romeo Doubs. He and Hollins are different styles of receivers; the former offers a short-to-medium yardage outlet, while the latter makes physical catches downfield. However, it's still reasonable to expect that plenty of Hollins' vacated targets could go to Douglas, especially since the Patriots already have Doubs, Kyle Williams, and Efton Chism III to handle those aforementioned big plays downfield. The expanded role will vault Douglas into the WR3/flex conversation in deeper leagues, although the duration of his fantasy relevance will depend on how much more time Brown misses.",
+        "title": "DeMario Douglas Trending Up After Teammate's Injury",
+        "topic_id": "1414835206120083456",
+        "url": "https://www.rotoballer.com/player-news/demario-douglas-trending-up-after-teammates-injury/1963442"
+      },
+      "nfl_team": "NE",
+      "player_id": "9501",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "published": 1791670869000,
+      "source": "rotoballer",
+      "source_key": "223950",
+      "story_id": "nfl|9501|rotoballer|223950|1791670869000",
+      "title": "DeMario Douglas Trending Up After Teammate's Injury",
+      "url": "https://www.rotoballer.com/player-news/demario-douglas-trending-up-after-teammates-injury/1963442"
+    },
+    {
+      "analysis": null,
+      "description": "Multiple NFL executives tapped into the trade market expect Arizona Cardinals wide receiver Marvin Harrison Jr. to be traded to the Houston Texans, according to Jeremy Fowler of ESPN.com. A player source in the Cardinals organization also told Fowler that he expects the Texans to acquire Harrison. On Saturday morning, it was reported that the Cardinals were finalizing a trade with an undisclosed team for the former No. 3 overall pick, but the team's identity would not be revealed until after the trade became official. As the trade talks continue, Harrison will be inactive for Arizona's Week 5 contest against the Detroit Lions on Sunday. After two-plus years with the Cardinals, it looks like Harrison will get a much-needed fresh start elsewhere. The 24-year-old caught just 41 passes last season, and he has only five catches through four games to open the 2026 campaign. If the landing spot is indeed Houston, Harrison will get a quarterback upgrade in the form of C.J. Stroud. He could also find himself playing against a slightly easier group of cornerbacks, since most defenses will focus their efforts on covering Nico Collins. For the Texans, this move represents an urgency to get back in the win column and stay competitive in the AFC South. At 0-4, trading for Harrison allows Houston to reverse its woes this season, while also keeping him under team control through 2028 to stay competitive long-term. A trade to the Texans would presumably land Harrison in the WR3 range for fantasy football.",
+      "metadata": {
+        "description": "Multiple NFL executives tapped into the trade market expect Arizona Cardinals wide receiver Marvin Harrison Jr. to be traded to the Houston Texans, according to Jeremy Fowler of ESPN.com. A player source in the Cardinals organization also told Fowler that he expects the Texans to acquire Harrison. On Saturday morning, it was reported that the Cardinals were finalizing a trade with an undisclosed team for the former No. 3 overall pick, but the team's identity would not be revealed until after the trade became official. As the trade talks continue, Harrison will be inactive for Arizona's Week 5 contest against the Detroit Lions on Sunday. After two-plus years with the Cardinals, it looks like Harrison will get a much-needed fresh start elsewhere. The 24-year-old caught just 41 passes last season, and he has only five catches through four games to open the 2026 campaign. If the landing spot is indeed Houston, Harrison will get a quarterback upgrade in the form of C.J. Stroud. He could also find himself playing against a slightly easier group of cornerbacks, since most defenses will focus their efforts on covering Nico Collins. For the Texans, this move represents an urgency to get back in the win column and stay competitive in the AFC South. At 0-4, trading for Harrison allows Houston to reverse its woes this season, while also keeping him under team control through 2028 to stay competitive long-term. A trade to the Texans would presumably land Harrison in the WR3 range for fantasy football.",
+        "title": "League Circles Expect Texans to Acquire Marvin Harrison Jr.",
+        "topic_id": "1414833948000874496",
+        "url": "https://www.rotoballer.com/player-news/league-circles-expect-texans-to-acquire-marvin-harrison-jr/1963440"
+      },
+      "nfl_team": "ARI",
+      "player_id": "11628",
+      "player_name": "Marvin Harrison",
+      "position": "WR",
+      "published": 1791670449000,
+      "source": "rotoballer",
+      "source_key": "223949",
+      "story_id": "nfl|11628|rotoballer|223949|1791670449000",
+      "title": "League Circles Expect Texans to Acquire Marvin Harrison Jr.",
+      "url": "https://www.rotoballer.com/player-news/league-circles-expect-texans-to-acquire-marvin-harrison-jr/1963440"
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers wide receiver Jalen McMillan (knee) hasn't been able to make an impact this season due to injury. He sustained a PCL sprain of his left knee in Week 3 and has been sidelined since then. McMillan was placed on the Injured Reserve shortly after that and is expected to miss around two months of action. The hope is that McMillan will be back in action around mid-season, but that depends on his recovery. Once healthy, McMillan should immediately move into the No. 3 role on the depth chart. The 24-year-old showed flashes during his rookie season, but he hasn't been able to stay healthy since then. He remains worth stashing in dynasty formats and is someone who could be a sneaky stash candidate in deep leagues once he creeps closer to getting back on the field.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers wide receiver Jalen McMillan (knee) hasn't been able to make an impact this season due to injury. He sustained a PCL sprain of his left knee in Week 3 and has been sidelined since then. McMillan was placed on the Injured Reserve shortly after that and is expected to miss around two months of action. The hope is that McMillan will be back in action around mid-season, but that depends on his recovery. Once healthy, McMillan should immediately move into the No. 3 role on the depth chart. The 24-year-old showed flashes during his rookie season, but he hasn't been able to stay healthy since then. He remains worth stashing in dynasty formats and is someone who could be a sneaky stash candidate in deep leagues once he creeps closer to getting back on the field.",
+        "title": "Jalen McMillan Could be Sneaky Stash Candidate",
+        "topic_id": "1414826396886237184",
+        "url": "https://www.rotoballer.com/player-news/jalen-mcmillan-could-be-sneaky-stash-candidate/1963432"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1791668649000,
+      "source": "rotoballer",
+      "source_key": "223947",
+      "story_id": "nfl|11618|rotoballer|223947|1791668649000",
+      "title": "Jalen McMillan Could be Sneaky Stash Candidate",
+      "url": "https://www.rotoballer.com/player-news/jalen-mcmillan-could-be-sneaky-stash-candidate/1963432"
+    },
+    {
+      "analysis": null,
+      "description": "Atlanta Falcons quarterback Tua Tagovailoa remains firmly entrenched in the backup role, and it appears that he's stuck in his No. 2 position on the depth chart given how well starter Michael Penix Jr. has played lately. Penix has 479 passing yards, two touchdowns, and one interception in two games since returning from injury, and he has turned the team around from a 0-2 start to a 2-2 record and a tie for first place in the NFC South. Other than an injury to Penix, Tagovailoa's only path to meaningful playing time would have required the former Washington product to play poorly. Instead, he's looked great, widening the gap between him and Tagovailoa and solidifying himself in the starting role. As long as Penix is healthy, Tagovailoa can be left on waivers in both redraft and dynasty fantasy football leagues.",
+      "metadata": {
+        "description": "Atlanta Falcons quarterback Tua Tagovailoa remains firmly entrenched in the backup role, and it appears that he's stuck in his No. 2 position on the depth chart given how well starter Michael Penix Jr. has played lately. Penix has 479 passing yards, two touchdowns, and one interception in two games since returning from injury, and he has turned the team around from a 0-2 start to a 2-2 record and a tie for first place in the NFC South. Other than an injury to Penix, Tagovailoa's only path to meaningful playing time would have required the former Washington product to play poorly. Instead, he's looked great, widening the gap between him and Tagovailoa and solidifying himself in the starting role. As long as Penix is healthy, Tagovailoa can be left on waivers in both redraft and dynasty fantasy football leagues.",
+        "title": "No Path to Playing Time for Tua Tagovailoa?",
+        "topic_id": "1414815070889713664",
+        "url": "https://www.rotoballer.com/player-news/no-path-to-playing-time-for-tua-tagovailoa/1963406"
+      },
+      "nfl_team": "ATL",
+      "player_id": "6768",
+      "player_name": "Tua Tagovailoa",
+      "position": "QB",
+      "published": 1791665890000,
+      "source": "rotoballer",
+      "source_key": "223943",
+      "story_id": "nfl|6768|rotoballer|223943|1791665890000",
+      "title": "No Path to Playing Time for Tua Tagovailoa?",
+      "url": "https://www.rotoballer.com/player-news/no-path-to-playing-time-for-tua-tagovailoa/1963406"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks tight end Elijah Arroyo remains buried in the No. 2 role on the depth chart through the first four weeks of the season (and counting). Arroyo was a mid-second-round pick in the 2025 NFL Draft, but his role so far has not reflected that draft capital. He has played fewer than one-third of the snaps in every game this season, and he has just one catch for 17 yards so far. He continues to operate as the clear backup behind AJ Barner. While Barner has certainly earned his position atop the depth chart, there had been some preseason speculation that the two tight ends could coexist in this offense. After all, the Seahawks' offensive coordinator is Brian Fleury, who had a clear connection to the tight end position after spending several years as the tight ends coach in San Francisco. Instead, Fleury has consistently preferred to use just one tight end, giving Barner a 90% snap share in each of the last two weeks. As long as Barner stays healthy, Arroyo won't sniff the fantasy radar.",
+      "metadata": {
+        "description": "Seattle Seahawks tight end Elijah Arroyo remains buried in the No. 2 role on the depth chart through the first four weeks of the season (and counting). Arroyo was a mid-second-round pick in the 2025 NFL Draft, but his role so far has not reflected that draft capital. He has played fewer than one-third of the snaps in every game this season, and he has just one catch for 17 yards so far. He continues to operate as the clear backup behind AJ Barner. While Barner has certainly earned his position atop the depth chart, there had been some preseason speculation that the two tight ends could coexist in this offense. After all, the Seahawks' offensive coordinator is Brian Fleury, who had a clear connection to the tight end position after spending several years as the tight ends coach in San Francisco. Instead, Fleury has consistently preferred to use just one tight end, giving Barner a 90% snap share in each of the last two weeks. As long as Barner stays healthy, Arroyo won't sniff the fantasy radar.",
+        "title": "Elijah Arroyo Operating as a True Backup in Second Pro Season",
+        "topic_id": "1414811295714189312",
+        "url": "https://www.rotoballer.com/player-news/elijah-arroyo-operating-as-a-true-backup-in-second-pro-season/1963401"
+      },
+      "nfl_team": "SEA",
+      "player_id": "12521",
+      "player_name": "Elijah Arroyo",
+      "position": "TE",
+      "published": 1791665049000,
+      "source": "rotoballer",
+      "source_key": "223942",
+      "story_id": "nfl|12521|rotoballer|223942|1791665049000",
+      "title": "Elijah Arroyo Operating as a True Backup in Second Pro Season",
+      "url": "https://www.rotoballer.com/player-news/elijah-arroyo-operating-as-a-true-backup-in-second-pro-season/1963401"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Terry McLaurin (hamstring) is listed as questionable for Week 5 and is expected to be a true game-time decision, according to John Keim of ESPN.com. Keim added that there is a \"slight lean\" toward McLaurin playing, but he made sure to reiterate that it was \"just slight.\" In other words, his status in Week 5 will depend on how he feels during pregame warmups on Sunday morning. The Commanders would surely love to get McLaurin back from his one-week absence, as the Commanders are 1-3 and need to start getting all the wins they can get. Plus, the wide receiver's upside would get a boost with quarterback Jayden Daniels back in action. With that being said, Washington will also be smart and won't rush him back before he's ready. The 31-year-old would rank as a mid-range fantasy WR2 against the Giants if active. The team will confirm his status at 11:30 a.m. local time on Sunday.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Terry McLaurin (hamstring) is listed as questionable for Week 5 and is expected to be a true game-time decision, according to John Keim of ESPN.com. Keim added that there is a \"slight lean\" toward McLaurin playing, but he made sure to reiterate that it was \"just slight.\" In other words, his status in Week 5 will depend on how he feels during pregame warmups on Sunday morning. The Commanders would surely love to get McLaurin back from his one-week absence, as the Commanders are 1-3 and need to start getting all the wins they can get. Plus, the wide receiver's upside would get a boost with quarterback Jayden Daniels back in action. With that being said, Washington will also be smart and won't rush him back before he's ready. The 31-year-old would rank as a mid-range fantasy WR2 against the Giants if active. The team will confirm his status at 11:30 a.m. local time on Sunday.",
+        "title": "Terry McLaurin Remains a Game-Time Decision, Slightly Leaning Toward Playing",
+        "topic_id": "1414808778561404928",
+        "url": "https://www.rotoballer.com/player-news/terry-mclaurin-remains-a-game-time-decision-slightly-leaning-toward-playing/1963396"
+      },
+      "nfl_team": "WAS",
+      "player_id": "5927",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "published": 1791664557000,
+      "source": "rotoballer",
+      "source_key": "223941",
+      "story_id": "nfl|5927|rotoballer|223941|1791664557000",
+      "title": "Terry McLaurin Remains a Game-Time Decision, Slightly Leaning Toward Playing",
+      "url": "https://www.rotoballer.com/player-news/terry-mclaurin-remains-a-game-time-decision-slightly-leaning-toward-playing/1963396"
+    },
+    {
+      "analysis": null,
+      "description": "The New Orleans Saints had \"preliminary talks\" with the Arizona Cardinals for wide receiver Marvin Harrison Jr. in the spring, according to Johnny Venerable of PHNX Sports. Venerable reports that the talks took place prior to the NFL Draft, with the Cardinals looking to stockpile some extra draft capital so they could pursue quarterback Ty Simpson. The deal obviously never came to fruition, and New Orleans pivoted to selecting wide receiver Jordyn Tyson in the first round. Those failed trade talks are worth mentioning as the Cardinals are reportedly in the process of finalizing a Harrison trade with an unknown team. At this moment, there is no indication that Harrison is being traded to the Saints. However, it wouldn't shock us to see New Orleans pursue a wide receiver upgrade. They have fallen to 1-3 in a wide-open NFC South, and adding Harrison would give Tyler Shough another weapon in the passing game. We expect more information to emerge on the Harrison sweepstakes within the next 48 hours.",
+      "metadata": {
+        "description": "The New Orleans Saints had \"preliminary talks\" with the Arizona Cardinals for wide receiver Marvin Harrison Jr. in the spring, according to Johnny Venerable of PHNX Sports. Venerable reports that the talks took place prior to the NFL Draft, with the Cardinals looking to stockpile some extra draft capital so they could pursue quarterback Ty Simpson. The deal obviously never came to fruition, and New Orleans pivoted to selecting wide receiver Jordyn Tyson in the first round. Those failed trade talks are worth mentioning as the Cardinals are reportedly in the process of finalizing a Harrison trade with an unknown team. At this moment, there is no indication that Harrison is being traded to the Saints. However, it wouldn't shock us to see New Orleans pursue a wide receiver upgrade. They have fallen to 1-3 in a wide-open NFC South, and adding Harrison would give Tyler Shough another weapon in the passing game. We expect more information to emerge on the Harrison sweepstakes within the next 48 hours.",
+        "title": "Saints Had Trade Talks for Marvin Harrison Jr. in the Spring",
+        "topic_id": "1414806276067565568",
+        "url": "https://www.rotoballer.com/player-news/saints-had-trade-talks-for-marvin-harrison-jr-in-the-spring/1963386"
+      },
+      "nfl_team": "ARI",
+      "player_id": "11628",
+      "player_name": "Marvin Harrison",
+      "position": "WR",
+      "published": 1791663611000,
+      "source": "rotoballer",
+      "source_key": "223939",
+      "story_id": "nfl|11628|rotoballer|223939|1791663611000",
+      "title": "Saints Had Trade Talks for Marvin Harrison Jr. in the Spring",
+      "url": "https://www.rotoballer.com/player-news/saints-had-trade-talks-for-marvin-harrison-jr-in-the-spring/1963386"
+    },
     {
       "analysis": "With the expected move now official, Pittman will be required to miss at least the next four games, making Week 10 against the Bengals on Sunday, Nov. 15 the earliest that the veteran wide receiver can return. Roman Wilson and Germie Bernard are both in line for more offensive snaps for as long as Pittman is sidelined.",
       "description": "The Steelers placed Pittman (foot) on injured reserve Saturday.",
@@ -130039,329 +130267,6 @@
       "story_id": "nfl|4034|rotoballer|220609|1789096626000",
       "title": "Christian McCaffrey Has Modest Production In Lopsided Victory",
       "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-has-modest-production-in-lopsided-victory/1928110"
-    },
-    {
-      "analysis": "Stribling was quickly ruled out after being carted back to the locker room, which is not good. There should be a further update after Thursday's game or by this weekend. ",
-      "description": "49ers WR De'Zhaun Stribling has been ruled out for the rest of Thursday's game against the Rams. ",
-      "metadata": {
-        "analysis": "Stribling was quickly ruled out after being carted back to the locker room, which is not good. There should be a further update after Thursday's game or by this weekend. ",
-        "description": "49ers WR De'Zhaun Stribling has been ruled out for the rest of Thursday's game against the Rams. ",
-        "title": "De'Zhaun Stribling (ankle) ruled out for rest of game Thursday ",
-        "topic_id": "1403957373277577216",
-        "url": "https://www.fantasypros.com/nfl/news/607054/dezhaun-stribling-ankle-ruled-out-rest-game-thursday.php"
-      },
-      "nfl_team": "SF",
-      "player_id": "13417",
-      "player_name": "De'Zhaun Stribling",
-      "position": "WR",
-      "published": 1789092031363,
-      "source": "fantasy_pros",
-      "source_key": "607054",
-      "story_id": "nfl|13417|fantasy_pros|607054|1789092031363",
-      "title": "De'Zhaun Stribling (ankle) ruled out for rest of game Thursday ",
-      "url": "https://www.fantasypros.com/nfl/news/607054/dezhaun-stribling-ankle-ruled-out-rest-game-thursday.php"
-    },
-    {
-      "analysis": "Stribling briefly exited Thursday's game in the first quarter with a left ankle injury but was quickly cleared to return after being checked out in the blue medical tent. However, on the next drive, Stribling crumpled to the ground while running a route and had to be assisted off the field by the training staff before being carted to the locker room. He's now done for the night Thursday, having recorded zero targets. Demarcus Robinson is operating as the Niners' WR3 behind Mike Evans and Deebo Samuel.",
-      "description": "Stribling (ankle) has been ruled out for the remainder of Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports.",
-      "metadata": {
-        "analysis": "Stribling briefly exited Thursday's game in the first quarter with a left ankle injury but was quickly cleared to return after being checked out in the blue medical tent. However, on the next drive, Stribling crumpled to the ground while running a route and had to be assisted off the field by the training staff before being carted to the locker room. He's now done for the night Thursday, having recorded zero targets. Demarcus Robinson is operating as the Niners' WR3 behind Mike Evans and Deebo Samuel.",
-        "description": "Stribling (ankle) has been ruled out for the remainder of Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports.",
-        "title": "De'Zhaun Stribling - Ruled out for remainder of Thursday's game",
-        "topic_id": "1403957373067927552"
-      },
-      "nfl_team": "SF",
-      "player_id": "13417",
-      "player_name": "De'Zhaun Stribling",
-      "position": "WR",
-      "published": 1789091603000,
-      "source": "rotowire",
-      "source_key": "636797",
-      "story_id": "nfl|13417|rotowire|636797|1789091603000",
-      "title": "De'Zhaun Stribling - Ruled out for remainder of Thursday's game",
-      "url": null
-    },
-    {
-      "analysis": "Stribling appeared to suffer a non-contact injury running a route. There will be a further update provided on his status when available. ",
-      "description": "49ers WR De'Zhaun Stribling was carted to the locker room on Thursday. ",
-      "metadata": {
-        "analysis": "Stribling appeared to suffer a non-contact injury running a route. There will be a further update provided on his status when available. ",
-        "description": "49ers WR De'Zhaun Stribling was carted to the locker room on Thursday. ",
-        "title": "De'Zhaun Stribling carted to locker room",
-        "topic_id": "1403954856238100480",
-        "url": "https://www.fantasypros.com/nfl/news/607052/dezhaun-stribling-carted-to-locker-room.php"
-      },
-      "nfl_team": "SF",
-      "player_id": "13417",
-      "player_name": "De'Zhaun Stribling",
-      "position": "WR",
-      "published": 1789091431256,
-      "source": "fantasy_pros",
-      "source_key": "607052",
-      "story_id": "nfl|13417|fantasy_pros|607052|1789091431256",
-      "title": "De'Zhaun Stribling carted to locker room",
-      "url": "https://www.fantasypros.com/nfl/news/607052/dezhaun-stribling-carted-to-locker-room.php"
-    },
-    {
-      "analysis": "After previously returning from an ankle issue earlier Thursday, Stribling again came up lame while running a route in the second quarter. He fell to the turf and had to be assisted off the field by the training staff. Demarcus Robinson is now operating as the Niners' clear WR3 behind Mike Evans and Deebo Samuel. Stribling didn't draw a target prior to his injury.",
-      "description": "Stribling had to be helped off the field and headed back to the blue medical tent during Thursday's game against the Rams after appearing to re-injure his left ankle, Matt Barrows of The Athletic reports.",
-      "metadata": {
-        "analysis": "After previously returning from an ankle issue earlier Thursday, Stribling again came up lame while running a route in the second quarter. He fell to the turf and had to be assisted off the field by the training staff. Demarcus Robinson is now operating as the Niners' clear WR3 behind Mike Evans and Deebo Samuel. Stribling didn't draw a target prior to his injury.",
-        "description": "Stribling had to be helped off the field and headed back to the blue medical tent during Thursday's game against the Rams after appearing to re-injure his left ankle, Matt Barrows of The Athletic reports.",
-        "title": "De'Zhaun Stribling - Leaves game again Thursday",
-        "topic_id": "1403953594918526976"
-      },
-      "nfl_team": "SF",
-      "player_id": "13417",
-      "player_name": "De'Zhaun Stribling",
-      "position": "WR",
-      "published": 1789090869000,
-      "source": "rotowire",
-      "source_key": "636796",
-      "story_id": "nfl|13417|rotowire|636796|1789090869000",
-      "title": "De'Zhaun Stribling - Leaves game again Thursday",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams wide receiver Davante Adams caught three of his six targets for 26 receiving yards during Thursday's Week 1 loss against the San Francisco 49ers in Australia. The Rams' pass-catchers had a really frustrating outing in the season opener, and Adams was no exception. His 5.6 PPR points represent a massive decline from his average of 15.9 PPR points per game last season. Fantasy managers will hope that this game from Adams was an anomaly and can simply be chalked up to the nature of playing a game in Australia after arriving less than 24 hours earlier. Adams and his teammates will have plenty of time to return home and reacclimate to the conditions in the United States before returning to action in 11 days for a Week 2 contest against the New York Giants. He still ranks as a low-end fantasy WR2 for that game, but his floor is admittedly lower than before.",
-      "metadata": {
-        "description": "Los Angeles Rams wide receiver Davante Adams caught three of his six targets for 26 receiving yards during Thursday's Week 1 loss against the San Francisco 49ers in Australia. The Rams' pass-catchers had a really frustrating outing in the season opener, and Adams was no exception. His 5.6 PPR points represent a massive decline from his average of 15.9 PPR points per game last season. Fantasy managers will hope that this game from Adams was an anomaly and can simply be chalked up to the nature of playing a game in Australia after arriving less than 24 hours earlier. Adams and his teammates will have plenty of time to return home and reacclimate to the conditions in the United States before returning to action in 11 days for a Week 2 contest against the New York Giants. He still ranks as a low-end fantasy WR2 for that game, but his floor is admittedly lower than before.",
-        "title": "Davante Adams Held in Check as Rams Drop Season Opener",
-        "topic_id": "1404013959270412288",
-        "url": "https://www.rotoballer.com/player-news/davante-adams-held-in-check-as-rams-drop-season-opener/1928105"
-      },
-      "nfl_team": "LAR",
-      "player_id": "2133",
-      "player_name": "Davante Adams",
-      "position": "WR",
-      "published": 1789090627000,
-      "source": "rotoballer",
-      "source_key": "220608",
-      "story_id": "nfl|2133|rotoballer|220608|1789090627000",
-      "title": "Davante Adams Held in Check as Rams Drop Season Opener",
-      "url": "https://www.rotoballer.com/player-news/davante-adams-held-in-check-as-rams-drop-season-opener/1928105"
-    },
-    {
-      "analysis": "Stribling had already been in the blue medical tent before returning to the game. He went down after running a route. There will be an update provided on his status when available. ",
-      "description": "49ers WR De'Zhaun Stribling was helped off the field during Thursday's game against the Rams. ",
-      "metadata": {
-        "analysis": "Stribling had already been in the blue medical tent before returning to the game. He went down after running a route. There will be an update provided on his status when available. ",
-        "description": "49ers WR De'Zhaun Stribling was helped off the field during Thursday's game against the Rams. ",
-        "title": "De'Zhaun Stribling helped off field Thursday ",
-        "topic_id": "1403951080735346688",
-        "url": "https://www.fantasypros.com/nfl/news/607051/dezhaun-stribling-helped-off-field-thursday.php"
-      },
-      "nfl_team": "SF",
-      "player_id": "13417",
-      "player_name": "De'Zhaun Stribling",
-      "position": "WR",
-      "published": 1789090531104,
-      "source": "fantasy_pros",
-      "source_key": "607051",
-      "story_id": "nfl|13417|fantasy_pros|607051|1789090531104",
-      "title": "De'Zhaun Stribling helped off field Thursday ",
-      "url": "https://www.fantasypros.com/nfl/news/607051/dezhaun-stribling-helped-off-field-thursday.php"
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams wide receiver Puka Nacua caught five of his nine targets for 74 receiving yards during Thursday's Week 1 loss against the San Francisco 49ers in Australia. The final output is nothing to scoff at, but it didn't quite live up to the standards that Nacua set during his elite campaign last year. He tallied 12.4 PPR points on Thursday, as opposed to his average of 23.4 PPR points per game in 2025. Along the way, Nacua finished as the overall WR1 last year, and he'll hope to defend that title in 2026. The good news for Nacua's manager is that Thursday's modest performance wasn't exactly his fault. He made some great plays, including a big 41-yard catch-and-run in the first quarter, and his fantasy output would have been higher if not for the iffy quarterback play of Matthew Stafford (and the offense's performance as a whole). We still view Nacua as a high-end WR1 for the rest of the season.",
-      "metadata": {
-        "description": "Los Angeles Rams wide receiver Puka Nacua caught five of his nine targets for 74 receiving yards during Thursday's Week 1 loss against the San Francisco 49ers in Australia. The final output is nothing to scoff at, but it didn't quite live up to the standards that Nacua set during his elite campaign last year. He tallied 12.4 PPR points on Thursday, as opposed to his average of 23.4 PPR points per game in 2025. Along the way, Nacua finished as the overall WR1 last year, and he'll hope to defend that title in 2026. The good news for Nacua's manager is that Thursday's modest performance wasn't exactly his fault. He made some great plays, including a big 41-yard catch-and-run in the first quarter, and his fantasy output would have been higher if not for the iffy quarterback play of Matthew Stafford (and the offense's performance as a whole). We still view Nacua as a high-end WR1 for the rest of the season.",
-        "title": "Puka Nacua Delivers Modest Production Despite High Target Share",
-        "topic_id": "1404010183952211968",
-        "url": "https://www.rotoballer.com/player-news/puka-nacua-delivers-modest-production-despite-high-target-share/1928103"
-      },
-      "nfl_team": "LAR",
-      "player_id": "9493",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "published": 1789089605000,
-      "source": "rotoballer",
-      "source_key": "220607",
-      "story_id": "nfl|9493|rotoballer|220607|1789089605000",
-      "title": "Puka Nacua Delivers Modest Production Despite High Target Share",
-      "url": "https://www.rotoballer.com/player-news/puka-nacua-delivers-modest-production-despite-high-target-share/1928103"
-    },
-    {
-      "analysis": "Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deebo Samuel, George Kittle and Christian McCaffrey for opportunities.",
-      "description": "Stribling (ankle) returned to Thursday's game against the Rams, Jennifer Lee Chan of NBC Sports Bay Area reports.",
-      "metadata": {
-        "analysis": "Stribling spent a brief amount of time in the medical tent on the 49ers' sideline but was quickly cleared to return to the game. The second-round rookie has yet to draw a target on 18 pass attempts by Brock Purdy, and Stribling appears to be pretty clearly behind all of Mike Evans, Deebo Samuel, George Kittle and Christian McCaffrey for opportunities.",
-        "description": "Stribling (ankle) returned to Thursday's game against the Rams, Jennifer Lee Chan of NBC Sports Bay Area reports.",
-        "title": "De'Zhaun Stribling - Returns to Thursday's game",
-        "topic_id": "1403947304410443776"
-      },
-      "nfl_team": "SF",
-      "player_id": "13417",
-      "player_name": "De'Zhaun Stribling",
-      "position": "WR",
-      "published": 1789089571000,
-      "source": "rotowire",
-      "source_key": "636789",
-      "story_id": "nfl|13417|rotowire|636789|1789089571000",
-      "title": "De'Zhaun Stribling - Returns to Thursday's game",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams running back Kyren Williams tallied 11 carries, 41 rushing yards, and one rushing touchdown during Thursday's Week 1 loss against the San Francisco 49ers. He also caught all three of his targets for an additional 24 receiving yards. Williams was inefficient on the ground, and he was out-rushed by Blake Corum despite having one more rushing attempt than his backfield-mate. Fortunately for Williams' fantasy managers, the 26-year-old salvaged his performance by catching some passes and breaking into the end zone. He won't bail out his fantasy managers with a touchdown every week, and he's unlikely to handle a noticeable increase in volume since Blake Corum will continue to have a big role. Therefore, we'd like to see him bounce back in terms of efficiency. Improving upon Thursday's 3.7 yards per carry will help Williams get back into the RB1 tier this season. For now, he's more of a high-end RB1 for the Rams' Week 2 matchup against the New York Giants.",
-      "metadata": {
-        "description": "Los Angeles Rams running back Kyren Williams tallied 11 carries, 41 rushing yards, and one rushing touchdown during Thursday's Week 1 loss against the San Francisco 49ers. He also caught all three of his targets for an additional 24 receiving yards. Williams was inefficient on the ground, and he was out-rushed by Blake Corum despite having one more rushing attempt than his backfield-mate. Fortunately for Williams' fantasy managers, the 26-year-old salvaged his performance by catching some passes and breaking into the end zone. He won't bail out his fantasy managers with a touchdown every week, and he's unlikely to handle a noticeable increase in volume since Blake Corum will continue to have a big role. Therefore, we'd like to see him bounce back in terms of efficiency. Improving upon Thursday's 3.7 yards per carry will help Williams get back into the RB1 tier this season. For now, he's more of a high-end RB1 for the Rams' Week 2 matchup against the New York Giants.",
-        "title": "Kyren Williams Salvages Fantasy Performance with a Touchdown in Australia",
-        "topic_id": "1404008925191262208",
-        "url": "https://www.rotoballer.com/player-news/kyren-williams-salvages-fantasy-performance-with-a-touchdown-in-australia/1928101"
-      },
-      "nfl_team": "LAR",
-      "player_id": "8150",
-      "player_name": "Kyren Williams",
-      "position": "RB",
-      "published": 1789089307000,
-      "source": "rotoballer",
-      "source_key": "220606",
-      "story_id": "nfl|8150|rotoballer|220606|1789089307000",
-      "title": "Kyren Williams Salvages Fantasy Performance with a Touchdown in Australia",
-      "url": "https://www.rotoballer.com/player-news/kyren-williams-salvages-fantasy-performance-with-a-touchdown-in-australia/1928101"
-    },
-    {
-      "analysis": "Stribling took a trip to the blue medical tent on the sideline near the end of the first quarter. Prior to the injury, Stribling wasn't targeted on any of Brock Purdy's 14 pass attempts. Demarcus Robinson would be in line for more work behind Mike Evans and Deebo Samuel if Stribling is unable to return Thursday.",
-      "description": "Stribling (ankle) is questionable to return to Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports.",
-      "metadata": {
-        "analysis": "Stribling took a trip to the blue medical tent on the sideline near the end of the first quarter. Prior to the injury, Stribling wasn't targeted on any of Brock Purdy's 14 pass attempts. Demarcus Robinson would be in line for more work behind Mike Evans and Deebo Samuel if Stribling is unable to return Thursday.",
-        "description": "Stribling (ankle) is questionable to return to Thursday's game against the Rams, Matt Maiocco of NBC Sports Bay Area reports.",
-        "title": "De'Zhaun Stribling - Questionable to return Thursday",
-        "topic_id": "1403947304347529216"
-      },
-      "nfl_team": "SF",
-      "player_id": "13417",
-      "player_name": "De'Zhaun Stribling",
-      "position": "WR",
-      "published": 1789089266000,
-      "source": "rotowire",
-      "source_key": "636787",
-      "story_id": "nfl|13417|rotowire|636787|1789089266000",
-      "title": "De'Zhaun Stribling - Questionable to return Thursday",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams quarterback Matthew Stafford completed 15 of his 25 pass attempts (60% completion rate) for 155 passing yards, zero touchdowns, and one interception. He didn't take a sack in the contest. That stat line would be subpar for any quarterback, but it's especially frustrating for a veteran passer who won the league MVP award last season while having Puka Nacua and Davante Adams at his disposal. Stafford was unable to keep the Rams in this game for long, and he ended up getting replaced by Stetson Bennett once the score got out of hand. There's no real excuse for this performance, but if it's any consolation, managers should expect him to play a little better once he's not traveling to Australia and turning around to play a football game less than 24 hours later. The Rams will return to the United States soon, giving Stafford 11 days to get back on track before his next game against the New York Giants in Week 2. Largely thanks to his supporting cast, Stafford remains a fringe top-12 fantasy quarterback for the time being.",
-      "metadata": {
-        "description": "Los Angeles Rams quarterback Matthew Stafford completed 15 of his 25 pass attempts (60% completion rate) for 155 passing yards, zero touchdowns, and one interception. He didn't take a sack in the contest. That stat line would be subpar for any quarterback, but it's especially frustrating for a veteran passer who won the league MVP award last season while having Puka Nacua and Davante Adams at his disposal. Stafford was unable to keep the Rams in this game for long, and he ended up getting replaced by Stetson Bennett once the score got out of hand. There's no real excuse for this performance, but if it's any consolation, managers should expect him to play a little better once he's not traveling to Australia and turning around to play a football game less than 24 hours later. The Rams will return to the United States soon, giving Stafford 11 days to get back on track before his next game against the New York Giants in Week 2. Largely thanks to his supporting cast, Stafford remains a fringe top-12 fantasy quarterback for the time being.",
-        "title": "Matthew Stafford Delivers a Season-Opening Letdown in Australia",
-        "topic_id": "1404007667566968832",
-        "url": "https://www.rotoballer.com/player-news/matthew-stafford-delivers-a-season-opening-letdown-in-australia/1928099"
-      },
-      "nfl_team": "LAR",
-      "player_id": "421",
-      "player_name": "Matthew Stafford",
-      "position": "QB",
-      "published": 1789089125000,
-      "source": "rotoballer",
-      "source_key": "220605",
-      "story_id": "nfl|421|rotoballer|220605|1789089125000",
-      "title": "Matthew Stafford Delivers a Season-Opening Letdown in Australia",
-      "url": "https://www.rotoballer.com/player-news/matthew-stafford-delivers-a-season-opening-letdown-in-australia/1928099"
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams running back Blake Corum rushed for 54 yards on 10 carries during Thursday's Week 1 loss against the San Francisco 49ers. He led the team in rushing yards, and his 5.4 yards per carry were nearly 50% greater than Kyren Williams' per-carry average. Williams was less productive on the ground despite having one more carry. However, there were two clear differences between the running backs on Thursday. First, Williams found his way into the end zone, building on last season's total of 13 touchdowns. Additionally, he had three catches for 24 yards, while Corum wasn't targeted in the passing game. For a while, there was some chatter that Corum and Williams could have a relatively equal split in the backfield, and that came to fruition in Week 1. Williams still ranks higher in fantasy football because he should tally more receptions and touchdowns, but Corum's heavy involvement in the rushing attack will keep him in the RB3 tier for Week 2 against the New York Giants.",
-      "metadata": {
-        "description": "Los Angeles Rams running back Blake Corum rushed for 54 yards on 10 carries during Thursday's Week 1 loss against the San Francisco 49ers. He led the team in rushing yards, and his 5.4 yards per carry were nearly 50% greater than Kyren Williams' per-carry average. Williams was less productive on the ground despite having one more carry. However, there were two clear differences between the running backs on Thursday. First, Williams found his way into the end zone, building on last season's total of 13 touchdowns. Additionally, he had three catches for 24 yards, while Corum wasn't targeted in the passing game. For a while, there was some chatter that Corum and Williams could have a relatively equal split in the backfield, and that came to fruition in Week 1. Williams still ranks higher in fantasy football because he should tally more receptions and touchdowns, but Corum's heavy involvement in the rushing attack will keep him in the RB3 tier for Week 2 against the New York Giants.",
-        "title": "Blake Corum Finishes Week 1 as the Rams' Leading Rusher",
-        "topic_id": "1404005120634564608",
-        "url": "https://www.rotoballer.com/player-news/blake-corum-finishes-week-1-as-the-rams-leading-rusher/1928097"
-      },
-      "nfl_team": "LAR",
-      "player_id": "11586",
-      "player_name": "Blake Corum",
-      "position": "RB",
-      "published": 1789088945000,
-      "source": "rotoballer",
-      "source_key": "220603",
-      "story_id": "nfl|11586|rotoballer|220603|1789088945000",
-      "title": "Blake Corum Finishes Week 1 as the Rams' Leading Rusher",
-      "url": "https://www.rotoballer.com/player-news/blake-corum-finishes-week-1-as-the-rams-leading-rusher/1928097"
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers quarterback Brock Purdy completed 25 of his 34 pass attempts for 205 yards, three passing touchdowns, and one interception during Thursday's Week 1 win over the Los Angeles Rams. He also rushed for 29 yards and didn't get sacked. Outside of the interception, Purdy had a phenomenal performance against the Rams in Australia, headlined by his 74% completion rate and three touchdowns. He was able to produce at such a high level despite wide receiver De'Zhaun Stribling (ankle) and tight end Jake Tonges (knee) exiting early, as well as tight end George Kittle playing on a reduced workload. He wasted no time showing off his new connections with Mike Evans and Deebo Samuel Sr., and he also found success throwing to familiar faces such as Christian McCaffrey and Demarcus Robinson. Purdy remains in the mid-to-low QB1 tier for his next game against the Miami Dolphins in Week 2.",
-      "metadata": {
-        "description": "San Francisco 49ers quarterback Brock Purdy completed 25 of his 34 pass attempts for 205 yards, three passing touchdowns, and one interception during Thursday's Week 1 win over the Los Angeles Rams. He also rushed for 29 yards and didn't get sacked. Outside of the interception, Purdy had a phenomenal performance against the Rams in Australia, headlined by his 74% completion rate and three touchdowns. He was able to produce at such a high level despite wide receiver De'Zhaun Stribling (ankle) and tight end Jake Tonges (knee) exiting early, as well as tight end George Kittle playing on a reduced workload. He wasted no time showing off his new connections with Mike Evans and Deebo Samuel Sr., and he also found success throwing to familiar faces such as Christian McCaffrey and Demarcus Robinson. Purdy remains in the mid-to-low QB1 tier for his next game against the Miami Dolphins in Week 2.",
-        "title": "Brock Purdy Shines in Upset Win Over Rams",
-        "topic_id": "1404005120634564609",
-        "url": "https://www.rotoballer.com/player-news/brock-purdy-shines-in-upset-win-over-rams/1928095"
-      },
-      "nfl_team": "SF",
-      "player_id": "8183",
-      "player_name": "Brock Purdy",
-      "position": "QB",
-      "published": 1789088707000,
-      "source": "rotoballer",
-      "source_key": "220604",
-      "story_id": "nfl|8183|rotoballer|220604|1789088707000",
-      "title": "Brock Purdy Shines in Upset Win Over Rams",
-      "url": "https://www.rotoballer.com/player-news/brock-purdy-shines-in-upset-win-over-rams/1928095"
-    },
-    {
-      "analysis": null,
-      "description": "The Dallas Cowboys have signed wide receiver Ryan Flournoy to a one-year extension worth up to $6 million, according to NFL insider Jordan Schultz. Flournoy is coming off a career year as the No. 3 wide receiver in Dallas. The 26-year-old finished the 2025 season with 40 catches, 475 yards, and four touchdowns, producing in a big way despite operating behind CeeDee Lamb and George Pickens in the pecking order. The Cowboys' offense showed that it can support a very high passing volume, so we'd expect Flournoy to remain in a fantasy-relevant role this upcoming season. He should be rostered in all 14+ team leagues, as well as some deeper 12+ team leagues.",
-      "metadata": {
-        "description": "The Dallas Cowboys have signed wide receiver Ryan Flournoy to a one-year extension worth up to $6 million, according to NFL insider Jordan Schultz. Flournoy is coming off a career year as the No. 3 wide receiver in Dallas. The 26-year-old finished the 2025 season with 40 catches, 475 yards, and four touchdowns, producing in a big way despite operating behind CeeDee Lamb and George Pickens in the pecking order. The Cowboys' offense showed that it can support a very high passing volume, so we'd expect Flournoy to remain in a fantasy-relevant role this upcoming season. He should be rostered in all 14+ team leagues, as well as some deeper 12+ team leagues.",
-        "title": "Cowboys Sign Ryan Flournoy to One-Year Extension",
-        "topic_id": "1404000086958051328",
-        "url": "https://www.rotoballer.com/player-news/cowboys-sign-ryan-flournoy-to-one-year-extension/1928088"
-      },
-      "nfl_team": "DAL",
-      "player_id": "11783",
-      "player_name": "Ryan Flournoy",
-      "position": "WR",
-      "published": 1789087326000,
-      "source": "rotoballer",
-      "source_key": "220601",
-      "story_id": "nfl|11783|rotoballer|220601|1789087326000",
-      "title": "Cowboys Sign Ryan Flournoy to One-Year Extension",
-      "url": "https://www.rotoballer.com/player-news/cowboys-sign-ryan-flournoy-to-one-year-extension/1928088"
-    },
-    {
-      "analysis": "Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial pitch count against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.",
-      "description": "Bell estimated Thursday that his conditioning is back to \"80 to 85 percent\" following last season's torn ACL, Joe Schad of The Palm Beach Post reports.",
-      "metadata": {
-        "analysis": "Bell underwent surgery for a clean tear of his ACL last December and isn't on the injury report for Miami's Week 1 game against the Raiders on Sunday, but the rookie wideout is still working back into game shape. While he won't be on a proverbial pitch count against Las Vegas, there's a chance the Dolphins use multiple receivers with some sort of rotation. Bell is listed as a starter, but he's highly unlikely to run 100 percent of the routes Sunday. He could develop into the team's No. 1 wide receiver by the end of the season.",
-        "description": "Bell estimated Thursday that his conditioning is back to \"80 to 85 percent\" following last season's torn ACL, Joe Schad of The Palm Beach Post reports.",
-        "title": "Chris Bell - Still working on conditioning",
-        "topic_id": "1403929683665354752"
-      },
-      "nfl_team": "MIA",
-      "player_id": "13311",
-      "player_name": "Chris Bell",
-      "position": "WR",
-      "published": 1789085326000,
-      "source": "rotowire",
-      "source_key": "636764",
-      "story_id": "nfl|13311|rotowire|636764|1789085326000",
-      "title": "Chris Bell - Still working on conditioning",
-      "url": null
-    },
-    {
-      "analysis": "The Rams liked Klare enough to select him in the second round of the NFL Draft in April, but he's not going to be an option for the team in Week 1. Los Angeles has a crowded tight-end room that includes three veterans in Colby Parkinson, Tyler Higbee and Davis Allen along with second-year pro Terrance Ferguson, so Klare may not log much playing time this year as long as those above him in the pecking order are healthy.",
-      "description": "Klare (coach's decision) is inactive for Thursday's season-opener versus San Francisco in Melbourne, Australia, Nate Atkins of The Athletic reports.",
-      "metadata": {
-        "analysis": "The Rams liked Klare enough to select him in the second round of the NFL Draft in April, but he's not going to be an option for the team in Week 1. Los Angeles has a crowded tight-end room that includes three veterans in Colby Parkinson, Tyler Higbee and Davis Allen along with second-year pro Terrance Ferguson, so Klare may not log much playing time this year as long as those above him in the pecking order are healthy.",
-        "description": "Klare (coach's decision) is inactive for Thursday's season-opener versus San Francisco in Melbourne, Australia, Nate Atkins of The Athletic reports.",
-        "title": "Max Klare - Healthy scratch to begin rookie campaign",
-        "topic_id": "1403929683526942720"
-      },
-      "nfl_team": "LAR",
-      "player_id": "13278",
-      "player_name": "Max Klare",
-      "position": "TE",
-      "published": 1789085274000,
-      "source": "rotowire",
-      "source_key": "636763",
-      "story_id": "nfl|13278|rotowire|636763|1789085274000",
-      "title": "Max Klare - Healthy scratch to begin rookie campaign",
-      "url": null
     }
   ]
 }
