@@ -18,6 +18,7 @@
       "11563",
       "11583",
       "11603",
+      "11625",
       "11635",
       "11786",
       "12474",
@@ -26,7 +27,6 @@
       "13405",
       "13424",
       "4033",
-      "4663",
       "4984",
       "4993",
       "5045",
@@ -59,7 +59,7 @@
       "total_moves": 0,
       "waiver_adjusted": 6,
       "waiver_budget_used": 0,
-      "waiver_position": 5,
+      "waiver_position": 12,
       "wins": 3
     },
     "starters": [
@@ -139,7 +139,7 @@
       "total_moves": 0,
       "waiver_adjusted": 6,
       "waiver_budget_used": 0,
-      "waiver_position": 6,
+      "waiver_position": 5,
       "wins": 3
     },
     "starters": [
@@ -216,7 +216,7 @@
       "total_moves": 0,
       "waiver_adjusted": 6,
       "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 1
     },
     "starters": [
@@ -290,7 +290,7 @@
       "total_moves": 0,
       "waiver_adjusted": 6,
       "waiver_budget_used": 0,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 2
     },
     "starters": [
@@ -437,7 +437,7 @@
       "total_moves": 0,
       "waiver_adjusted": 6,
       "waiver_budget_used": 0,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 4
     },
     "starters": [
@@ -510,7 +510,7 @@
       "total_moves": 0,
       "waiver_adjusted": 6,
       "waiver_budget_used": 0,
-      "waiver_position": 7,
+      "waiver_position": 6,
       "wins": 4
     },
     "starters": [
@@ -584,7 +584,7 @@
       "total_moves": 0,
       "waiver_adjusted": 6,
       "waiver_budget_used": 0,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 5
     },
     "starters": [
@@ -838,7 +838,7 @@
       "total_moves": 0,
       "waiver_adjusted": 6,
       "waiver_budget_used": 0,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 3
     },
     "starters": [
