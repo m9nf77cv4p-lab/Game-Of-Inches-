@@ -2,79 +2,105 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6627**
-- Newly captured: **27**
+- Stored stories: **6526**
+- Newly captured: **12**
 
 ## Latest news
 
-- **NEW — Raheim Sanders** — Raheim Sanders - Bound for IR (2026-10-13T21:00:34Z)
+- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba - Listed as limited again (2026-10-13T23:56:37Z)
+  - The Seahawks did not practice Tuesday for a second straight day, and as was the case Monday, Smith-Njigba was estimated as a limited participant. He will have one more day to clear the injury report before Seattle officially reveals his status for Thursday's game against the Broncos.
+- **NEW — Noah Fant** — Noah Fant - Only one catch in return (2026-10-13T23:55:01Z)
+  - Fant played 30 of 45 offensive snaps Sunday in his return from a one-game absence due to an abdominal injury, which was one more than fellow tight end Juwan Johnson. Fant saw only one target from Tyler Shough, although the Saints' offense struggled as a whole against the Vikings' =defense under coordinator Brian Flores, with Shough averaging only 3.8 yards per pass attempt while tossing two interceptions. Fant has a 9-73-3 receiving line on 13 targets through four games heading into Week 7 against the Giants, whose defense has given up 33 catches to opposing tight ends this season, which is tied for fifth-most in the NFL.
+- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba (ankle) limited on estimated practice report Tuesday  (2026-10-13T23:45:33.564000Z)
+  - Smith-Njigba got the same designation on Monday. He should be good to go for Thursday's game against the Broncos.  
+  - Source: https://www.fantasypros.com/nfl/news/613714/jaxon-smith-njigba-ankle-limited-on-estimated-practice-report-tuesday.php
+- **NEW — Rashod Bateman** — Rashod Bateman - Aides Baltimore's comeback vs. Atlanta (2026-10-13T23:43:33Z)
+  - Bateman ended up leading the Ravens in receiving yards while finishing second in catches and targets to Zay Flowers (eight catches on nine targets). Bateman played a crucial role in Baltimore's come-from-behind victory, with the veteran wide receiver logging catches of 11, seven and 20 yards late in the fourth quarter (all for first downs), with the drive ending on a seven-yard touchdown pass from Tyler Huntley to Devontez Walker. Bateman has a 16-233-1 receiving line on 20 targets over his last four games, but his role on offense would likely decrease once rookie third-round wide receiver Ja'Kobi Lane (wrist) returns from injured reserve, which could happen as soon as Week 7 against the Browns on Oct. 18.
+- **NEW — Kalif Raymond** — Kalif Raymond - Quiet in Week 5 loss at Lambeau Field (2026-10-13T23:34:33Z)
+  - Sunday's NFC North was an offensive struggle for the Bears, with head coach Ben Johnson opting to bench Tyson Bagent late in the third quarter after the latter threw his second interception of the contest. Two of Raymond's four touches resulted in negative yards, and the veteran wide receiver has logged six receiving yards in each of his last two games after producing a 19-214-1 receiving line (21 targets) through Chicago's first three games of the regular season. He's reverted to the WR3 role behind Luther Burden and Rome Odunze, but Raymond and the other Bears pass catchers would all have their scoring floors boosted if Caleb Williams (hamstring) is cleared to return for Week 7 against the Falcons this Sunday.
+- **NEW — Keon Coleman** — Keon Coleman - Catches TD pass in MNF victory (2026-10-13T23:25:10Z)
+  - It was a statistically quiet night for Coleman despite the fact that DJ Moore (shoulder) was inactive, although it's worth noting that Josh Allen attempted only 19 passes (12 completions) during Monday's overtime win. Coleman's first target was late in the second quarter and essentially an arm punt by Allen, with the ball intercepted by Jaylen Watson at midfield. Coleman's catches of 17 and seven yards in the third quarter were both negated by offensive penalties, but the third-year pro was wide open on a seven-yard touchdown pass after two Rams defensive backs collided with each other. Coleman's 45 offensive snaps led all Bills wide receivers, and he has a 15-224-2 receiving line on 18 targets through five regular-season games. The Bills will stay on the road for Week 7 against the Raiders on Sunday, and Coleman's role on offense would shrink if Moore is cleared to return for that contest.
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson - Set for heavier workload without Henderson (2026-10-13T23:07:59Z)
+  - The good news for Henderson is that surgery is not required, but whether an stint on injured reserve is necessary remains to be seen. Stevenson has served as the Patriots' RB1 this season, and the veteran's share of the backfield snap count figures to grow even more for as long as Henderson is sidelined, with Corey Kiner slated to take on backup duties. Over his last two games, Stevenson has turned 26 carries into 111 yards (4.3 YPC) and two touchdowns while adding six catches on eight targets for 48 yards.
+- **NEW — Raheim Sanders** — Raheim Sanders (hip) placed on IR (2026-10-13T21:40:32.902000Z)
+  - Sanders will miss at least the next four games for Cleveland. Jaleel McLaughlin and Audric Estime will backup Quinshon Judkins. 
+  - Source: https://www.fantasypros.com/nfl/news/613686/raheim-sanders-hip-placed-on-ir.php
+- **Raheim Sanders** — Raheim Sanders - Bound for IR (2026-10-13T21:00:34Z)
   - Sanders had opened the season as Cleveland's No. 3 running back but saw his role increase a bit over the previous four weeks following Dylan Sampson's (knee) move to IR. During that stretch, Sanders carried eight times for 42 yards and added eight catches for 49 yards on nine targets before going down with the hip injury in the Browns' Week 5 loss to the Jets. Sanders will now be sidelined for at least the next four games as a result of his placement on IR.
-- **NEW — Tre' Harris** — Tre' Harris (hamstring) considered week-to-week  (2026-10-13T18:50:49.530000Z)
+- **NEW — Chase Brown** — Chase Brown's Workload to Shrink in Bengals' Offense? (2026-10-13T19:19:12Z)
+  - Source: https://www.rotoballer.com/player-news/chase-browns-workload-to-shrink-in-bengals-offense/1965629
+- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba Still Listed as Limited on Tuesday (2026-10-13T19:08:12Z)
+  - Source: https://www.rotoballer.com/player-news/jaxon-smith-njigba-still-listed-as-limited-on-tuesday/1965627
+- **Tre' Harris** — Tre' Harris (hamstring) considered week-to-week  (2026-10-13T18:50:49.530000Z)
   - Harris will likely be targeting a return in Week 8 following the Chargers bye. 
   - Source: https://www.fantasypros.com/nfl/news/613668/tre-harris-hamstring-considered-week-to-week.php
-- **NEW — Quentin Johnston** — Quentin Johnston (chest) expected to be limited in practice  (2026-10-13T18:50:49.518000Z)
+- **Quentin Johnston** — Quentin Johnston (chest) expected to be limited in practice  (2026-10-13T18:50:49.518000Z)
   - "We'll see where he's at the end of the week," Harbaugh said. Johnston will have a chance to return in Week 6. 
   - Source: https://www.fantasypros.com/nfl/news/613669/quentin-johnston-chest-expected-to-be-limited-practice.php
-- **NEW — Ladd McConkey** — Ladd McConkey (foot) 'working back this week' (2026-10-13T18:50:49.507000Z)
+- **Ladd McConkey** — Ladd McConkey (foot) 'working back this week' (2026-10-13T18:50:49.507000Z)
   - McConkey was active this past week, but he did not see the field. His status will need to be monitored the rest of this week. 
   - Source: https://www.fantasypros.com/nfl/news/613670/ladd-mcconkey-foot-working-back-this-week.php
-- **NEW — Jauan Jennings** — Jauan Jennings: 49ers team to monitor  (2026-10-13T18:45:49.519000Z)
+- **Jauan Jennings** — Jauan Jennings: 49ers team to monitor  (2026-10-13T18:45:49.519000Z)
   - Jennings has been disappointing to start the season with the Vikings. A reunion with the 49ers could be a possibility as their wide receiver room remains banged up. 
   - Source: https://www.fantasypros.com/nfl/news/613666/jauan-jennings-49ers-team-to-monitor.php
-- **NEW — Jerry Jeudy** — Jerry Jeudy could be traded by Browns (2026-10-13T18:40:49.875000Z)
+- **Jerry Jeudy** — Jerry Jeudy could be traded by Browns (2026-10-13T18:40:49.875000Z)
   - Jordan Schultz reported he's not sure they'll be able to get it. Jeudy will be a player to monitor closer to the trade deadline. 
   - Source: https://www.fantasypros.com/nfl/news/613663/jerry-jeudy-could-be-traded-by-browns.php
-- **NEW — Jalen Coker** — Jalen Coker (quad) remains on track to return in Week 6 (2026-10-13T18:40:49.864000Z)
+- **Jalen Coker** — Jalen Coker (quad) remains on track to return in Week 6 (2026-10-13T18:40:49.864000Z)
   - This confirms a previous report from Monday. He was spotted practicing on Tuesday. 
   - Source: https://www.fantasypros.com/nfl/news/613664/jalen-coker-quad-remains-on-track-to-return-week-6.php
-- **NEW — Tyquan Thornton** — Tyquan Thornton - Officially placed on IR (2026-10-13T18:29:06Z)
+- **Tyquan Thornton** — Tyquan Thornton - Officially placed on IR (2026-10-13T18:29:06Z)
   - The transaction frees up a spot on the 53-man roster for linebacker Cam Jones, who was signed off the practice squad. After dislocating his left ankle in the Chiefs' Oct. 4 win over the Raiders and requiring surgery, Thornton is facing an estimated recovery timeline of 3-to-4 months, which means that he'll likely be sidelined until at least Week 17 or 18 in a best-case scenario. While Thornton is out, the Chiefs are expected to lean on Jalen Royals and Cyrus Allen to handle more reps in three-receiver sets alongside starters Rashee Rice (hamstring) and Xavier Worthy.
-- **NEW — Jalen Coker** — Jalen Coker - Takes part in practice Tuesday (2026-10-13T18:21:06Z)
+- **Jalen Coker** — Jalen Coker - Takes part in practice Tuesday (2026-10-13T18:21:06Z)
   - After missing the Panthers' Week 4 win over Detroit due to the quad injury, Coker appears to be trending in the right direction coming out of a Week 5 bye. Head coach Dave Canales noted Monday that Coker is "on track" to play Sunday against the Eagles, and the wideout's involvement in Tuesday's session further supports Canales' optimism. Carolina will release its first Week 6 injury report Wednesday, when it will be known whether Coker is practicing in full or in a limited fashion.
-- **NEW — Dalton Kincaid** — Joe Brady Takes Responsibility for Dalton Kincaid's Limited Usage (2026-10-13T16:57:33Z)
+- **NEW — James Cook** — James Cook III in Danger of Losing Carries (2026-10-13T17:34:12Z)
+  - Source: https://www.rotoballer.com/player-news/james-cook-iii-in-danger-of-losing-carries/1965591
+- **NEW — Tyreek Hill** — Tyreek Hill's Situation is "Fluid" (2026-10-13T17:13:12Z)
+  - Source: https://www.rotoballer.com/player-news/tyreek-hills-situation-is-fluid/1965571
+- **Dalton Kincaid** — Joe Brady Takes Responsibility for Dalton Kincaid's Limited Usage (2026-10-13T16:57:33Z)
   - Source: https://www.rotoballer.com/player-news/joe-brady-takes-responsibility-for-dalton-kincaids-limited-usage/1965559
-- **NEW — Raheim Sanders** — Raheim Sanders Placed on Injured Reserve (2026-10-13T16:41:12Z)
+- **Raheim Sanders** — Raheim Sanders Placed on Injured Reserve (2026-10-13T16:41:12Z)
   - Source: https://www.rotoballer.com/player-news/raheim-sanders-placed-on-injured-reserve/1965549
-- **NEW — Ryan Flournoy** — Ryan Flournoy Remains a High-End Wide Receiver Stash (2026-10-13T16:34:20Z)
+- **Ryan Flournoy** — Ryan Flournoy Remains a High-End Wide Receiver Stash (2026-10-13T16:34:20Z)
   - Source: https://www.rotoballer.com/player-news/ryan-flournoy-remains-a-high-end-wide-receiver-stash/1965542
-- **NEW — Tank Dell** — Tank Dell Worth an IR Stash in Deeper Fantasy Leagues (2026-10-13T16:12:17Z)
+- **Tank Dell** — Tank Dell Worth an IR Stash in Deeper Fantasy Leagues (2026-10-13T16:12:17Z)
   - Source: https://www.rotoballer.com/player-news/tank-dell-worth-an-ir-stash-in-deeper-fantasy-leagues/1965519
-- **NEW — D'Andre Swift** — D'Andre Swift Battling Multiple Lower-Body Injuries (2026-10-13T16:12:12Z)
+- **D'Andre Swift** — D'Andre Swift Battling Multiple Lower-Body Injuries (2026-10-13T16:12:12Z)
   - Source: https://www.rotoballer.com/player-news/dandre-swift-battling-multiple-lower-body-injuries-week-6-availability-in-question/1965517
-- **NEW — Raheim Sanders** — Raheim Sanders' Waiver Value Hinges on Two Injuries (2026-10-13T15:38:12Z)
+- **Raheim Sanders** — Raheim Sanders' Waiver Value Hinges on Two Injuries (2026-10-13T15:38:12Z)
   - Source: https://www.rotoballer.com/player-news/raheim-sanders-waiver-value-hinges-on-two-injuries/1965485
 - **Woody Marks** — Woody Marks - Lead role awaits sans Montgomery (2026-10-13T15:30:57Z)
   - Montgomery logged just nine snaps in the Texans' 26-3 win over the Titans in Week 5 before departing with the injury, which cleared the way for Marks to see his heftiest workload of the season. The second-year player out of USC ended up taking the field for 56 of 66 snaps, finishing with 62 yards on 15 carries to go with four catches for 23 yards on four targets. With Montgomery on track to miss at least the London game and potentially additional contests beyond that, Marks should have a decent chance at replicating his Week 5 touch count. Beyond Marks, Dare Ogunbowale is the only other healthy running back on the 53-man roster, while Jawhar Jordan and Deuce Vaughn loom as potential candidates to be elevated from the practice squad to add depth to the position group amid Montgomery's expected absence.
-- **NEW — Roschon Johnson** — Roschon Johnson's Five-Catch Day Comes With a Major Caveat (2026-10-13T15:25:14Z)
+- **Roschon Johnson** — Roschon Johnson's Five-Catch Day Comes With a Major Caveat (2026-10-13T15:25:14Z)
   - Source: https://www.rotoballer.com/player-news/roschon-johnsons-five-catch-day-comes-with-a-major-caveat/1965467
 - **Caleb Douglas** — Caleb Douglas - Not yet practicing (2026-10-13T15:12:10Z)
   - Even though they're on bye for Week 6, the Dolphins held an informal session Tuesday. Douglas didn't look to be mixing into drills with his healthy teammates, which has been the trend since he injured his ankle in a Week 2 loss to the 49ers. The rookie wideout will look to take advantage of the bye week with the hope of making enough progress in his recovery to potentially resume practicing with the Dolphins when the team kicks off Week 7 prep next Wednesday.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) to miss multiple weeks  (2026-10-13T14:45:11.112000Z)
   - Henderson left Sunday's game early and was reevaluated Monday. On a positive note, the young running back will not require surgery, but he is going to miss some games. Veteran Rhamondre Stevenson will take over as the ball carrier in Henderson's absence. 
   - Source: https://www.fantasypros.com/nfl/news/613650/treveyon-henderson-ankle-to-miss-multiple-weeks.php
-- **NEW — Jerry Jeudy** — Jerry Jeudy Available With Trade Deadline Approaching (2026-10-13T14:41:12Z)
+- **Jerry Jeudy** — Jerry Jeudy Available With Trade Deadline Approaching (2026-10-13T14:41:12Z)
   - Source: https://www.rotoballer.com/player-news/jerry-jeudy-available-with-trade-deadline-approaching/1965412
-- **NEW — Jalen Coker** — Jalen Coker at Practice on Tuesday, "On Track" for Week 6 (2026-10-13T14:32:12Z)
+- **Jalen Coker** — Jalen Coker at Practice on Tuesday, "On Track" for Week 6 (2026-10-13T14:32:12Z)
   - Source: https://www.rotoballer.com/player-news/jalen-coker-at-practice-on-tuesday-on-track-for-week-6/1965401
 - **TreVeyon Henderson** — TreVeyon Henderson - Out multiple weeks with high-ankle sprain (2026-10-13T14:26:24Z)
   - Henderson sustained the injury in the second quarter of Sunday's 45-17 win over the Raiders and was unable to return. Schefter notes that Henderson won't need surgery to address the ankle sprain, so the running back may be able to avoid a stint on injured reserve and the automatic four-game absence that comes with it. Even so, Henderson still looks poised to be sidelined for at least a couple of contests, which will clear the way for Rhamondre Stevenson to take on a heightened role out of the backfield. Corey Kiner will also be in line for increased snaps as the top change-of-pace option behind Stevenson while Henderson is out of the mix.
-- **NEW — Caleb Williams** — Caleb Williams Looking "Pretty Good" for Week 6 (2026-10-13T14:19:12Z)
+- **Caleb Williams** — Caleb Williams Looking "Pretty Good" for Week 6 (2026-10-13T14:19:12Z)
   - Source: https://www.rotoballer.com/player-news/caleb-williams-looking-pretty-good-for-week-6/1965385
-- **NEW — Jauan Jennings** — Jauan Jennings Could be Hot Name on the Trade Market (2026-10-13T14:12:14Z)
+- **Jauan Jennings** — Jauan Jennings Could be Hot Name on the Trade Market (2026-10-13T14:12:14Z)
   - Source: https://www.rotoballer.com/player-news/jauan-jennings-could-be-hot-name-on-the-trade-market/1965370
-- **NEW — Michael Mayer** — Michael Mayer Remains in the Streaming Conversation (2026-10-13T14:02:32Z)
+- **Michael Mayer** — Michael Mayer Remains in the Streaming Conversation (2026-10-13T14:02:32Z)
   - Source: https://www.rotoballer.com/player-news/michael-mayer-remains-in-the-streaming-conversation-despite-a-lackluster-showing-in-a-difficult-matchup/1965359
-- **NEW — Keaton Mitchell** — Keaton Mitchell Remains a Long-term Stash Despite a Quiet Week (2026-10-13T13:26:18Z)
+- **Keaton Mitchell** — Keaton Mitchell Remains a Long-term Stash Despite a Quiet Week (2026-10-13T13:26:18Z)
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-remains-a-long-term-stash-despite-a-quiet-week/1965323
-- **NEW — Kaelon Black** — Kaelon Black Potentially in Line for an Expanded Role (2026-10-13T13:13:11Z)
+- **Kaelon Black** — Kaelon Black Potentially in Line for an Expanded Role (2026-10-13T13:13:11Z)
   - Source: https://www.rotoballer.com/player-news/kaelon-black-potentially-in-line-for-an-expanded-role/1965301
-- **NEW — Chig Okonkwo** — Chig Okonkwo a Waiver Target at TE Now That He's Healthy (2026-10-13T13:01:17Z)
+- **Chig Okonkwo** — Chig Okonkwo a Waiver Target at TE Now That He's Healthy (2026-10-13T13:01:17Z)
   - Source: https://www.rotoballer.com/player-news/chig-okonkwo-a-waiver-target-at-te-now-that-hes-healthy/1965294
-- **NEW — Justin Herbert** — Chargers Not Considering Trading Justin Herbert (2026-10-13T12:35:13Z)
+- **Justin Herbert** — Chargers Not Considering Trading Justin Herbert (2026-10-13T12:35:13Z)
   - Source: https://www.rotoballer.com/player-news/chargers-not-considering-trading-justin-herbert/1965287
-- **NEW — Caleb Douglas** — Caleb Douglas Working on the Side on Tuesday (2026-10-13T12:08:12Z)
+- **Caleb Douglas** — Caleb Douglas Working on the Side on Tuesday (2026-10-13T12:08:12Z)
   - Source: https://www.rotoballer.com/player-news/caleb-douglas-working-on-the-side-on-tuesday/1965277
-- **NEW — Darren Waller** — Darren Waller Carries Limited Week 6 Streaming Appeal (2026-10-13T12:00:20Z)
+- **Darren Waller** — Darren Waller Carries Limited Week 6 Streaming Appeal (2026-10-13T12:00:20Z)
   - Source: https://www.rotoballer.com/player-news/darren-waller-carries-limited-week-6-streaming-appeal/1965268
 - **Malachi Fields** — Malachi Fields Remains a Deep-League Waiver Stash Entering Week 6 (2026-10-13T11:32:17Z)
   - Source: https://www.rotoballer.com/player-news/malachi-fields-remains-a-deep-league-waiver-stash-entering-week-6/1965237
@@ -204,28 +230,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **DJ Moore** — DJ Moore (shoulder) inactive for Week 5 (2026-10-12T22:55:05.802000Z)
   - Moore will not suit up after being unable to progress through pregame activities while entering Monday night with a questionable designation, leaving quarterback Josh Allen without his top pass-catching option against the Rams. Khalil Shakir should command more targets in the wideout's absence Monday night.
   - Source: https://www.fantasypros.com/nfl/news/613588/dj-moore-shoulder-inactive-week-5.php
-- **Keenan Allen** — Keenan Allen has Flex PPR Value Heading into Week 6 (2026-10-12T22:54:12Z)
-  - Source: https://www.rotoballer.com/player-news/keenan-allen-has-flex-ppr-value-heading-into-week-6/1964883
-- **DJ Moore** — DJ Moore - Inactive in Week 5 (2026-10-12T22:49:41Z)
-  - After suffering a shoulder injury in Week 4, Moore wasn't expected to be tending to a long-term issue, and head coach Joe Brady told Katherine Fitzgerald of The Buffalo News on Thursday that the wide receiver was "going to be able to do everything he can to be able to rock this week." Moore then managed just one limited session (Saturday) during Week 5 prep, which wasn't enough for him to gain clearance to play Monday. With both Moore and Joshua Palmer (shoulder) unavailable, Khalil Shakir, Keon Coleman, Greg Dortch, Skyler Bell and Trent Sherfield will handle WR reps for the Bills.
-- **Jameis Winston** — Jameis Winston an Interesting Streaming Choice for Week 6 (2026-10-12T22:48:13Z)
-  - Source: https://www.rotoballer.com/player-news/jameis-winston-is-interesting-streaming-choice-for-week-6/1964880
-- **Aaron Rodgers** — Aaron Rodgers has Intriguing Value Ahead of Week 6 (2026-10-12T22:41:23Z)
-  - Source: https://www.rotoballer.com/player-news/aaron-rodgers-has-intriguing-value-ahead-of-week-6/1964878
-- **Dontayvion Wicks** — Dontayvion Wicks a Worthy Deep Flex Option (2026-10-12T22:28:13Z)
-  - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-is-worthy-deep-flex-option/1964872
-- **Tre Tucker** — Tre Tucker is Gaining Traction in Deep Leagues (2026-10-12T22:18:13Z)
-  - Source: https://www.rotoballer.com/player-news/tre-tucker-is-gaining-traction-in-deep-leagues/1964860
-- **Hunter Henry** — Hunter Henry Re-Establishing Himself as a Viable Tight End Streamer (2026-10-12T21:59:11Z)
-  - Source: https://www.rotoballer.com/player-news/hunter-henry-re-establishing-himself-as-a-viable-tight-end-streamer/1964852
-- **Kirk Cousins** — Kirk Cousins Remains a Viable Quarterback Streamer on the Waiver Wire (2026-10-12T21:49:12Z)
-  - Source: https://www.rotoballer.com/player-news/kirk-cousins-remains-a-viable-quarterback-streamer-on-the-waiver-wire/1964841
-- **Jakobi Meyers** — Jakobi Meyers an Under-the-Radar Waiver-Wire Target (2026-10-12T21:40:29Z)
-  - Source: https://www.rotoballer.com/player-news/jakobi-meyers-an-under-the-radar-waiver-wire-target/1964834
-- **Kendre Miller** — Kendre Miller a Viable Deep-League Streamer Option (2026-10-12T21:32:12Z)
-  - Source: https://www.rotoballer.com/player-news/kendre-miller-a-viable-deep-league-streamer-option-amid-workload-increase/1964827
-- **George Holani** — George Holani (ribs/knee) fully practices on estimated practice report  (2026-10-12T21:25:05.582000Z)
-  - Holani will figure to remain in his usual role for one more week with Zach Charbonnet missing one more game. He remains off the fantasy radar. 
-  - Source: https://www.fantasypros.com/nfl/news/613574/george-holani-ribsknee-fully-practices-on-estimated-practice-report.php
-- **C.J. Stroud** — C.J. Stroud Emerging as a Potential Top-12 Quarterback Option (2026-10-12T21:22:12Z)
-  - Source: https://www.rotoballer.com/player-news/c-j-stroud-emerging-as-a-potential-top-12-quarterback-option/1964818
