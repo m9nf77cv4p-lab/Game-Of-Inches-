@@ -1,8 +1,20 @@
 {
-  "last_checked_at": "2026-10-15T10:00:15Z",
+  "last_checked_at": "2026-10-15T14:52:05Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 302,
-  "new_story_ids": [],
+  "monitored_player_count": 303,
+  "new_story_ids": [
+    "nfl|11565|rotowire|642559|1792074494000",
+    "nfl|11581|rotoballer|224308|1792057474000",
+    "nfl|11584|rotoballer|224310|1792060622000",
+    "nfl|12711|fantasy_pros|613461|1791813329057",
+    "nfl|12711|rotoballer|223788|1791614529000",
+    "nfl|12711|rotowire|642195|1791825658000",
+    "nfl|2197|fantasy_pros|613408|1791783325245",
+    "nfl|2197|rotoballer|223861|1791632110000",
+    "nfl|2197|rotoballer|224160|1791893714000",
+    "nfl|7594|rotoballer|224311|1792061026000",
+    "nfl|8151|rotoballer|224309|1792058416000"
+  ],
   "schema_version": 1,
   "source": {
     "documented": false,
@@ -11,6 +23,106 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Acquired from the Vikings on Sept. 28, McCarthy has suited up for both of the Giants' ensuing two games but didn't make his team debut until this past Sunday's 27-27 tie with the Commanders. He ended up replacing Winston under center for five snaps, gaining two yards on two carries and having two of the plays wiped out by penalties. Despite the meager returns in his package of plays last week, McCarthy looks like he'll remain a marginal part of the game plan in Week 6 against the Saints. Harbaugh has given no indication that McCarthy will take over for Winston as the team's starter anytime soon.",
+      "description": "Giants head coach Jim Harbaugh said Wednesday that he plans to keep using McCarthy in a change-of-pace role behind starting quarterback Jameis Winston in an effort to take advantage of McCarthy's scrambling ability, Jordan Raanan of ESPN.com reports.",
+      "metadata": {
+        "analysis": "Acquired from the Vikings on Sept. 28, McCarthy has suited up for both of the Giants' ensuing two games but didn't make his team debut until this past Sunday's 27-27 tie with the Commanders. He ended up replacing Winston under center for five snaps, gaining two yards on two carries and having two of the plays wiped out by penalties. Despite the meager returns in his package of plays last week, McCarthy looks like he'll remain a marginal part of the game plan in Week 6 against the Saints. Harbaugh has given no indication that McCarthy will take over for Winston as the team's starter anytime soon.",
+        "description": "Giants head coach Jim Harbaugh said Wednesday that he plans to keep using McCarthy in a change-of-pace role behind starting quarterback Jameis Winston in an effort to take advantage of McCarthy's scrambling ability, Jordan Raanan of ESPN.com reports.",
+        "title": "J.J. McCarthy - Will continue to have package of plays",
+        "topic_id": "1416467245541924864"
+      },
+      "nfl_team": "NYG",
+      "player_id": "11565",
+      "player_name": "J.J. McCarthy",
+      "position": "QB",
+      "published": 1792074494000,
+      "source": "rotowire",
+      "source_key": "642559",
+      "story_id": "nfl|11565|rotowire|642559|1792074494000",
+      "title": "J.J. McCarthy - Will continue to have package of plays",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers running back Chuba Hubbard has drastically exceeded expectations this season. The 27-year-old has 306 rushing yards, 10 catches, 84 receiving yards, and five touchdowns through four games in 2026, establishing himself as a steal relative to his price tag in 2026 fantasy drafts. He ranks as the overall RB6 so far in terms of half-PPR points per game. Hubbard has faced minimal competition for touches all season long, and his role became even more clearly defined in Week 3 when Jonathon Brooks (core) was placed on injured reserve. Volume-wise, over his last two games, Hubbard stole the show with an 84% overall snap share and 44 total touches. There is no reason to leave Hubbard on the bench in fantasy football as long as he continues to produce at a decent level. He'll rank as a fringe top-10 fantasy running back rest-of-season, starting with a Week 6 matchup against the struggling Philadelphia Eagles.",
+      "metadata": {
+        "description": "Carolina Panthers running back Chuba Hubbard has drastically exceeded expectations this season. The 27-year-old has 306 rushing yards, 10 catches, 84 receiving yards, and five touchdowns through four games in 2026, establishing himself as a steal relative to his price tag in 2026 fantasy drafts. He ranks as the overall RB6 so far in terms of half-PPR points per game. Hubbard has faced minimal competition for touches all season long, and his role became even more clearly defined in Week 3 when Jonathon Brooks (core) was placed on injured reserve. Volume-wise, over his last two games, Hubbard stole the show with an 84% overall snap share and 44 total touches. There is no reason to leave Hubbard on the bench in fantasy football as long as he continues to produce at a decent level. He'll rank as a fringe top-10 fantasy running back rest-of-season, starting with a Week 6 matchup against the struggling Philadelphia Eagles.",
+        "title": "Chuba Hubbard Emerging as One of the Biggest Steals in Fantasy Football",
+        "topic_id": "1416472271450628096",
+        "url": "https://www.rotoballer.com/player-news/chuba-hubbard-emerging-as-one-of-the-biggest-steals-in-fantasy-football/1966924"
+      },
+      "nfl_team": "CAR",
+      "player_id": "7594",
+      "player_name": "Chuba Hubbard",
+      "position": "RB",
+      "published": 1792061026000,
+      "source": "rotoballer",
+      "source_key": "224311",
+      "story_id": "nfl|7594|rotoballer|224311|1792061026000",
+      "title": "Chuba Hubbard Emerging as One of the Biggest Steals in Fantasy Football",
+      "url": "https://www.rotoballer.com/player-news/chuba-hubbard-emerging-as-one-of-the-biggest-steals-in-fantasy-football/1966924"
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers running back Bucky Irving has full control over the No. 1 role in the backfield through the first five weeks of the season, and we don't expect that to change anytime soon. Irving is coming off his best game of the year, in which he totaled 175 scrimmage yards and two total touchdowns. Even with Kenny Gainwell, Sean Tucker, and Jalon Daniel all pushing to earn rushing attempts, Irving has shown no signs of relinquishing his lead-back role. After all, he had 23 touches last week. After missing seven games last year and finishing as the RB34 in PPR leagues, it certainly appears as though Irving is in the midst of a significant bounce-back campaign. We'll look for him to keep up that momentum heading into Week 6 against the Pittsburgh Steelers, who have allowed the 13th-fewest rushing yards per game in 2026.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers running back Bucky Irving has full control over the No. 1 role in the backfield through the first five weeks of the season, and we don't expect that to change anytime soon. Irving is coming off his best game of the year, in which he totaled 175 scrimmage yards and two total touchdowns. Even with Kenny Gainwell, Sean Tucker, and Jalon Daniel all pushing to earn rushing attempts, Irving has shown no signs of relinquishing his lead-back role. After all, he had 23 touches last week. After missing seven games last year and finishing as the RB34 in PPR leagues, it certainly appears as though Irving is in the midst of a significant bounce-back campaign. We'll look for him to keep up that momentum heading into Week 6 against the Pittsburgh Steelers, who have allowed the 13th-fewest rushing yards per game in 2026.",
+        "title": "Bucky Irving in Complete Control of Lead-Back Role",
+        "topic_id": "1416471013461364736",
+        "url": "https://www.rotoballer.com/player-news/bucky-irving-in-complete-control-of-lead-back-role/1966913"
+      },
+      "nfl_team": "TB",
+      "player_id": "11584",
+      "player_name": "Bucky Irving",
+      "position": "RB",
+      "published": 1792060622000,
+      "source": "rotoballer",
+      "source_key": "224310",
+      "story_id": "nfl|11584|rotoballer|224310|1792060622000",
+      "title": "Bucky Irving in Complete Control of Lead-Back Role",
+      "url": "https://www.rotoballer.com/player-news/bucky-irving-in-complete-control-of-lead-back-role/1966913"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs running back Kenneth Walker is returning from his team's bye week with a home game this week against the Chargers. He has gotten off to a fantastic start with his new team, racking up 537 rushing yards in four games with four rushing touchdowns. He has also been very involved in the passing game with 12 catches on 19 targets for 84 receiving yards and two more touchdowns. He has been an elite fantasy running back so far this season, and he will return to action in a favorable matchup against the struggling Chargers. If he continues to be the focal point of the Chiefs' offense, Walker should remain an elite option at the position and is emerging as one of the top early-season contenders for fantasy football MVP this season.",
+      "metadata": {
+        "description": "Kansas City Chiefs running back Kenneth Walker is returning from his team's bye week with a home game this week against the Chargers. He has gotten off to a fantastic start with his new team, racking up 537 rushing yards in four games with four rushing touchdowns. He has also been very involved in the passing game with 12 catches on 19 targets for 84 receiving yards and two more touchdowns. He has been an elite fantasy running back so far this season, and he will return to action in a favorable matchup against the struggling Chargers. If he continues to be the focal point of the Chiefs' offense, Walker should remain an elite option at the position and is emerging as one of the top early-season contenders for fantasy football MVP this season.",
+        "title": "Kenneth Walker Looks to Continue His Hot Start",
+        "topic_id": "1416462203892121600",
+        "url": "https://www.rotoballer.com/player-news/kenneth-walker-looks-to-continue-his-hot-start/1966880"
+      },
+      "nfl_team": "KC",
+      "player_id": "8151",
+      "player_name": "Kenneth Walker",
+      "position": "RB",
+      "published": 1792058416000,
+      "source": "rotoballer",
+      "source_key": "224309",
+      "story_id": "nfl|8151|rotoballer|224309|1792058416000",
+      "title": "Kenneth Walker Looks to Continue His Hot Start",
+      "url": "https://www.rotoballer.com/player-news/kenneth-walker-looks-to-continue-his-hot-start/1966880"
+    },
+    {
+      "analysis": null,
+      "description": "Green Bay Packers running back MarShawn Lloyd started the season as the team's first option to replace Josh Jacobs (personal), but he struggled to get much traction and had a key fumble against the Jets. As a result, Kaleb Johnson and Chris Brooks got more work with Lloyd in a smaller role in Week 2 and Week 3. In Week 4, though, Lloyd played a season-high 55% of snaps, and in Week 5, he played 44% of snaps, posting solid fantasy performances each week. He had five catches in Week 4 to show his potential as a receiver and converted two short rushing touchdowns in Week 5 to show his potential as the team's preferred short-yardage option. Lloyd is trending back toward a larger role in the timeshare and can be a touchdown-dependent FLEX play for as long as he stays in that position.",
+      "metadata": {
+        "description": "Green Bay Packers running back MarShawn Lloyd started the season as the team's first option to replace Josh Jacobs (personal), but he struggled to get much traction and had a key fumble against the Jets. As a result, Kaleb Johnson and Chris Brooks got more work with Lloyd in a smaller role in Week 2 and Week 3. In Week 4, though, Lloyd played a season-high 55% of snaps, and in Week 5, he played 44% of snaps, posting solid fantasy performances each week. He had five catches in Week 4 to show his potential as a receiver and converted two short rushing touchdowns in Week 5 to show his potential as the team's preferred short-yardage option. Lloyd is trending back toward a larger role in the timeshare and can be a touchdown-dependent FLEX play for as long as he stays in that position.",
+        "title": "MarShawn Lloyd Regains Top Spot in Green Bay's Backfield",
+        "topic_id": "1416458427927949312",
+        "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-regains-top-spot-in-green-bays-backfield/1966850"
+      },
+      "nfl_team": "GB",
+      "player_id": "11581",
+      "player_name": "MarShawn Lloyd",
+      "position": "RB",
+      "published": 1792057474000,
+      "source": "rotoballer",
+      "source_key": "224308",
+      "story_id": "nfl|11581|rotoballer|224308|1792057474000",
+      "title": "MarShawn Lloyd Regains Top Spot in Green Bay's Backfield",
+      "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-regains-top-spot-in-green-bays-backfield/1966850"
+    },
     {
       "analysis": "Harris is considered week-to-week with a hamstring injury right now, so it's no surprise that he was sidelined at practice on Wednesday. Fantasy managers should look for Quentin Johnston (chest) to see a bit more work if the young wideout is sidelined this week.",
       "description": "Tre' Harris (hamstring) officially did not take part in Los Angeles' practice on Wednesday.",
@@ -6057,6 +6169,26 @@
     },
     {
       "analysis": null,
+      "description": "San Francisco 49ers veteran wide receiver Deebo Samuel Sr. (hamstring) suffered a significant hamstring strain in the third quarter of Sunday's Week 5 win over the division-rival Seattle Seahawks and will miss \"some time.\" It points to a bigger role for veteran Brandin Cooks, who played almost every snap after Samuel left, according to Matt Barrows of The Athletic. The 33-year-old Cooks caught one of his two targets for a seven-yard touchdown after not catching his only target in the Week 4 win over the Denver Broncos in his debut with the 49ers. Ricky Pearsall (knee) is out for the season, and De'Zhaun Stribling (ankle), Demarcus Robinson (ankle), and Christian Kirk (calf) all remain on Injured Reserve, so the 49ers' receiving corps is among the most banged-up units around the league. Veteran Mike Evans continues to battle injuries as well, so Cooks should become a much bigger part of the team's passing attack now that Samuel will also miss a couple of weeks. Cooks has six career 1,000-yard receiving seasons and caught 24 passes for 279 yards and no touchdowns in 15 games last year with the New Orleans Saints and Buffalo Bills. He is not currently rostered in any Yahoo leagues, but Cooks is worth a look for WR depth in deeper formats, with his role set to grow, starting in Week 6 on Monday night versus the Washington Commanders.",
+      "metadata": {
+        "description": "San Francisco 49ers veteran wide receiver Deebo Samuel Sr. (hamstring) suffered a significant hamstring strain in the third quarter of Sunday's Week 5 win over the division-rival Seattle Seahawks and will miss \"some time.\" It points to a bigger role for veteran Brandin Cooks, who played almost every snap after Samuel left, according to Matt Barrows of The Athletic. The 33-year-old Cooks caught one of his two targets for a seven-yard touchdown after not catching his only target in the Week 4 win over the Denver Broncos in his debut with the 49ers. Ricky Pearsall (knee) is out for the season, and De'Zhaun Stribling (ankle), Demarcus Robinson (ankle), and Christian Kirk (calf) all remain on Injured Reserve, so the 49ers' receiving corps is among the most banged-up units around the league. Veteran Mike Evans continues to battle injuries as well, so Cooks should become a much bigger part of the team's passing attack now that Samuel will also miss a couple of weeks. Cooks has six career 1,000-yard receiving seasons and caught 24 passes for 279 yards and no touchdowns in 15 games last year with the New Orleans Saints and Buffalo Bills. He is not currently rostered in any Yahoo leagues, but Cooks is worth a look for WR depth in deeper formats, with his role set to grow, starting in Week 6 on Monday night versus the Washington Commanders.",
+        "title": "Brandin Cooks the Next Man Up in San Fran's Banged-Up WR Corps",
+        "topic_id": "1415771535037255680",
+        "url": "https://www.rotoballer.com/player-news/brandin-cooks-the-next-man-up-in-san-frans-banged-up-wr-corps/1965281"
+      },
+      "nfl_team": "SF",
+      "player_id": "2197",
+      "player_name": "Brandin Cooks",
+      "position": "WR",
+      "published": 1791893714000,
+      "source": "rotoballer",
+      "source_key": "224160",
+      "story_id": "nfl|2197|rotoballer|224160|1791893714000",
+      "title": "Brandin Cooks the Next Man Up in San Fran's Banged-Up WR Corps",
+      "url": "https://www.rotoballer.com/player-news/brandin-cooks-the-next-man-up-in-san-frans-banged-up-wr-corps/1965281"
+    },
+    {
+      "analysis": null,
       "description": "Miami Dolphins rookie wide receiver Caleb Douglas (ankle) was seen working off to the side during the team's unofficial practice on Tuesday as they head into their bye week, according to Joe Schad of The Palm Beach Post. Douglas injured his ankle in the Week 2 loss to the San Francisco 49ers and has not played since, missing the team's last three games. The Dolphins are bringing the third-rounder out of Texas Tech along slowly, but hopefully the 23-year-old will be ready to play when the Dolphins return to action in Week 7 against the division-rival New York Jets. Fellow rookie Chris Bell has seen more playing time with Douglas banged up, although it has not led to him being a realistic standalone starting option in fantasy football in Miami's lackluster offense. Douglas will have an opportunity to become a key member of the passing attack when he returns, but he is mostly just a stash option in dynasty/keeper leagues in 2026. In his first two NFL games to begin the season, Douglas caught seven of his 10 targets for 113 yards (16.1 yards per catch).",
       "metadata": {
         "description": "Miami Dolphins rookie wide receiver Caleb Douglas (ankle) was seen working off to the side during the team's unofficial practice on Tuesday as they head into their bye week, according to Joe Schad of The Palm Beach Post. Douglas injured his ankle in the Week 2 loss to the San Francisco 49ers and has not played since, missing the team's last three games. The Dolphins are bringing the third-rounder out of Texas Tech along slowly, but hopefully the 23-year-old will be ready to play when the Dolphins return to action in Week 7 against the division-rival New York Jets. Fellow rookie Chris Bell has seen more playing time with Douglas banged up, although it has not led to him being a realistic standalone starting option in fantasy football in Miami's lackluster offense. Douglas will have an opportunity to become a key member of the passing attack when he returns, but he is mostly just a stash option in dynasty/keeper leagues in 2026. In his first two NFL games to begin the season, Douglas caught seven of his 10 targets for 113 yards (16.1 yards per catch).",
@@ -8367,6 +8499,26 @@
       "url": null
     },
     {
+      "analysis": "All three of Loop's made field goals came in the first half, the last two of which both came from 51 yards. It was his first game of the season of at least three field goals, and his five makes from 50-plus yards are tied for second-most in the NFL behind Spencer Shrader (six). Loop is 9-for-11 on field-goal attempts and 15-for-15 on PATs through five regular-season games, and the Ravens will hit the road for a Week 6 AFC North clash against the Browns on Oct. 18.",
+      "description": "Loop went 3-for-3 on field-goal attempts and made his lone extra-point try during the Ravens' 30-23 overtime win over the Falcons on Sunday.",
+      "metadata": {
+        "analysis": "All three of Loop's made field goals came in the first half, the last two of which both came from 51 yards. It was his first game of the season of at least three field goals, and his five makes from 50-plus yards are tied for second-most in the NFL behind Spencer Shrader (six). Loop is 9-for-11 on field-goal attempts and 15-for-15 on PATs through five regular-season games, and the Ravens will hit the road for a Week 6 AFC North clash against the Browns on Oct. 18.",
+        "description": "Loop went 3-for-3 on field-goal attempts and made his lone extra-point try during the Ravens' 30-23 overtime win over the Falcons on Sunday.",
+        "title": "Tyler Loop - Converts all four kicks vs. Atlanta",
+        "topic_id": "1415424063228141568"
+      },
+      "nfl_team": "BAL",
+      "player_id": "12711",
+      "player_name": "Tyler Loop",
+      "position": "K",
+      "published": 1791825658000,
+      "source": "rotowire",
+      "source_key": "642195",
+      "story_id": "nfl|12711|rotowire|642195|1791825658000",
+      "title": "Tyler Loop - Converts all four kicks vs. Atlanta",
+      "url": null
+    },
+    {
       "analysis": null,
       "description": "Seattle Seahawks running back Zach Charbonnet (knee) was estimated as limited on the team's Monday practice report, according to The Seattle Times' Bob Condotta. Charbonnet had his 21-day practice window opened last week to return from the Physically Unable to Perform list following a torn ACL in the postseason in January, but he did not return for the Week 5 loss to the division-rival San Francisco 49ers on Sunday, and he is not expected to make his 2026 debut this Thursday night in Denver against the Broncos. Seattle will most likely want to see Charbonnet practice in full for an entire week before bringing him back. His next chance to return will come in a Week 7 tilt on Sunday Night Football on Oct. 25 against the Kansas City Chiefs. The Seahawks could ease Charbonnet back into the backfield when he returns, but eventually, he is expected to be the primary ball-carrier in a RB room that also includes Emanuel Wilson, George Holani, and rookie first-rounder Jadarian Price (chest). Charbonnet should be stashed in most fantasy football leagues with his return on the horizon.",
       "metadata": {
@@ -9944,6 +10096,27 @@
       "url": "https://www.rotoballer.com/player-news/jordyn-tyson-remains-a-critical-stash-despite-no-signs-of-return/1964500"
     },
     {
+      "analysis": "Loop is now 9-of-11 on field goals with a long of 64 yards through five games. He's also made 15-of-15 PATs. The second-year pro impressed as a rookie, and he's further cemented himself as a reliable kicker so far this season. ",
+      "description": "Tyler Loop made all three of his field-goal attempts and his only PAT in Sunday night's 30-23 win over the Falcons. ",
+      "metadata": {
+        "analysis": "Loop is now 9-of-11 on field goals with a long of 64 yards through five games. He's also made 15-of-15 PATs. The second-year pro impressed as a rookie, and he's further cemented himself as a reliable kicker so far this season. ",
+        "description": "Tyler Loop made all three of his field-goal attempts and his only PAT in Sunday night's 30-23 win over the Falcons. ",
+        "title": "Tyler Loop hits three field goals in Sunday's win",
+        "topic_id": "1415371323072356352",
+        "url": "https://www.fantasypros.com/nfl/news/613461/tyler-loop-hits-three-field-goals-sundays-win.php"
+      },
+      "nfl_team": "BAL",
+      "player_id": "12711",
+      "player_name": "Tyler Loop",
+      "position": "K",
+      "published": 1791813329057,
+      "source": "fantasy_pros",
+      "source_key": "613461",
+      "story_id": "nfl|12711|fantasy_pros|613461|1791813329057",
+      "title": "Tyler Loop hits three field goals in Sunday's win",
+      "url": "https://www.fantasypros.com/nfl/news/613461/tyler-loop-hits-three-field-goals-sundays-win.php"
+    },
+    {
       "analysis": null,
       "description": "Following the team's Week 5 bye, Carolina Panthers wide receiver Jalen Coker (quad) is on track to return for a Week 6 matchup with the Eagles, according to head coach Dave Canales and The Athletic's Joe Person. Coker has been dealing with a quadriceps injury and missed the team's Week 4 win over the Lions, but Canales told the media on Monday that he has a couple of big days of practice ahead of him. Coker led the team in receptions and yards through the first three games, but in his absence, 2025 Offensive Rookie of the Year Tetairoa McMillan exploded for career highs of 14 catches and 192 yards, adding two touchdowns in the win over Detroit. The potential return of Coker likely hurts McMillan's overall ceiling, but if both receivers can stay involved, Carolina's surprising offense should remain one of the league's most fantasy-friendly moving forward.",
       "metadata": {
@@ -11053,6 +11226,27 @@
       "story_id": "nfl|4943|fantasy_pros|613412|1791783625011",
       "title": "Sam Darnold struggles Sunday ",
       "url": "https://www.fantasypros.com/nfl/news/613412/sam-darnold-struggles-sunday.php"
+    },
+    {
+      "analysis": "Cooks took advantage of the opportunity with 49ers wide receivers going down with injuries. He could see some more opportunity heading into Week 6 against the Commanders, but he remains off the fantasy radar for now. ",
+      "description": "Brandin Cooks hauled in a seven-yard touchdown on Sunday against the Seahawks. ",
+      "metadata": {
+        "analysis": "Cooks took advantage of the opportunity with 49ers wide receivers going down with injuries. He could see some more opportunity heading into Week 6 against the Commanders, but he remains off the fantasy radar for now. ",
+        "description": "Brandin Cooks hauled in a seven-yard touchdown on Sunday against the Seahawks. ",
+        "title": "Brandin Cooks catches touchdown Sunday ",
+        "topic_id": "1415245477972049920",
+        "url": "https://www.fantasypros.com/nfl/news/613408/brandin-cooks-catches-touchdown-sunday.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "2197",
+      "player_name": "Brandin Cooks",
+      "position": "WR",
+      "published": 1791783325245,
+      "source": "fantasy_pros",
+      "source_key": "613408",
+      "story_id": "nfl|2197|fantasy_pros|613408|1791783325245",
+      "title": "Brandin Cooks catches touchdown Sunday ",
+      "url": "https://www.fantasypros.com/nfl/news/613408/brandin-cooks-catches-touchdown-sunday.php"
     },
     {
       "analysis": "Kittle was used as a dump off pass catcher from Brock Purdy all afternoon. He'll look to bounce back next week against the Commanders. ",
@@ -21013,6 +21207,26 @@
     },
     {
       "analysis": null,
+      "description": "San Francisco 49ers wide receiver Brandin Cooks should be active for Week 5 against the Seattle Seahawks, given the number of injuries plaguing the rest of the receiver room. As a result, he is starting to warrant some consideration as a low-end flex option in fantasy football. The Niners are marching into this divisional battle shorthanded on both sides of the ball, but perhaps no position group has been impacted by injuries more than the wide receivers. With Mike Evans (ribs) questionable and De'Zhaun Stribling (ankle), Christian Kirk (calf), and Demarcus Robinson (ankle) all sidelined, the 49ers will turn to a group of Cooks, Deebo Samuel Sr., and Jacob Cowing to step up. Evans played through his rib injury last week, keeping Cooks and Cowing off the fantasy radar. However, if the veteran receiver isn't able to play on Sunday, we could see one of Cooks or Cowing possess some flex appeal alongside Samuel. Cooks can be left on waivers for now, but he's not a bad streamer once the inactives are announced and we know whether Evans will be playing.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Brandin Cooks should be active for Week 5 against the Seattle Seahawks, given the number of injuries plaguing the rest of the receiver room. As a result, he is starting to warrant some consideration as a low-end flex option in fantasy football. The Niners are marching into this divisional battle shorthanded on both sides of the ball, but perhaps no position group has been impacted by injuries more than the wide receivers. With Mike Evans (ribs) questionable and De'Zhaun Stribling (ankle), Christian Kirk (calf), and Demarcus Robinson (ankle) all sidelined, the 49ers will turn to a group of Cooks, Deebo Samuel Sr., and Jacob Cowing to step up. Evans played through his rib injury last week, keeping Cooks and Cowing off the fantasy radar. However, if the veteran receiver isn't able to play on Sunday, we could see one of Cooks or Cowing possess some flex appeal alongside Samuel. Cooks can be left on waivers for now, but he's not a bad streamer once the inactives are announced and we know whether Evans will be playing.",
+        "title": "Brandin Cooks a Riskier Week 5 Play Despite Veteran Status",
+        "topic_id": "1414672874274340864",
+        "url": "https://www.rotoballer.com/player-news/brandin-cooks-a-riskier-week-5-play-despite-veteran-status/1963050"
+      },
+      "nfl_team": "SF",
+      "player_id": "2197",
+      "player_name": "Brandin Cooks",
+      "position": "WR",
+      "published": 1791632110000,
+      "source": "rotoballer",
+      "source_key": "223861",
+      "story_id": "nfl|2197|rotoballer|223861|1791632110000",
+      "title": "Brandin Cooks a Riskier Week 5 Play Despite Veteran Status",
+      "url": "https://www.rotoballer.com/player-news/brandin-cooks-a-riskier-week-5-play-despite-veteran-status/1963050"
+    },
+    {
+      "analysis": null,
       "description": "Indianapolis Colts wide receiver Josh Downs has been separating from defensive coverage very well this season. His problem has just been that he hasn't gotten the ball enough. Colts quarterback Daniel Jones hasn't been a productive passer, and it's dragged the whole offense down. Downs was only targeted four times in Week 4, but that could be simply an impossibly low number for Week 5, as Indy is dealing with yet more injuries to its already thin pass-catching corps. WR Ashton Dulin (hamstring) has been ruled out for Week 5, and WR Keenan Allen (groin) is dealing with a groin strain and is questionable to play. It's possible that Jones continues to be stubborn, and simply gives extra targets to WR Darius Slayton (knee), but it would be unwise. Downs is a reliable target, but it's obvious now that Jones prefers to hit his bigger-bodied wideouts. If he decides he wants to get easy completions and move the chains, and perhaps even win the matchup with the Pittsburgh Steelers in Week 5, Downs should bounce back.",
       "metadata": {
         "description": "Indianapolis Colts wide receiver Josh Downs has been separating from defensive coverage very well this season. His problem has just been that he hasn't gotten the ball enough. Colts quarterback Daniel Jones hasn't been a productive passer, and it's dragged the whole offense down. Downs was only targeted four times in Week 4, but that could be simply an impossibly low number for Week 5, as Indy is dealing with yet more injuries to its already thin pass-catching corps. WR Ashton Dulin (hamstring) has been ruled out for Week 5, and WR Keenan Allen (groin) is dealing with a groin strain and is questionable to play. It's possible that Jones continues to be stubborn, and simply gives extra targets to WR Darius Slayton (knee), but it would be unwise. Downs is a reliable target, but it's obvious now that Jones prefers to hit his bigger-bodied wideouts. If he decides he wants to get easy completions and move the chains, and perhaps even win the matchup with the Pittsburgh Steelers in Week 5, Downs should bounce back.",
@@ -22150,6 +22364,26 @@
       "story_id": "nfl|4217|rotoballer|223789|1791615011000",
       "title": "George Kittle Remains Top Option Against Seattle",
       "url": "https://www.rotoballer.com/player-news/george-kittle-remains-top-option-against-seattle/1962601"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens kicker Tyler Loop drilled a 64-yard field goal and made all three extra-point attempts against the Tennessee Titans in Week 4. Loop did miss a 40-yard field goal wide left late in the fourth quarter, but the hold on that attempt may have been an issue. Loop should benefit from the controlled environment inside Mercedes-Benz Stadium in Atlanta against the Falcons in Week 5, with the second-year kicker making six of seven field goals and all six extra points across his young career playing indoors. However, the Ravens offense gets a slight downgrade with two-time MVP quarterback Lamar Jackson (ankle) missing Week 5 due to injury. Veteran backup quarterback Tyler Huntley will step in for Lamar, but he's far less efficient and effective than the team's starter, which could stall drives inside Loop's field goal range. Even so, Loop is RotoBaller's sixth-overall kicker for Week 5 and, with the Ravens on a late bye week, he profiles as a long-term hold option for managers who want to avoid streaming the position.",
+      "metadata": {
+        "description": "Baltimore Ravens kicker Tyler Loop drilled a 64-yard field goal and made all three extra-point attempts against the Tennessee Titans in Week 4. Loop did miss a 40-yard field goal wide left late in the fourth quarter, but the hold on that attempt may have been an issue. Loop should benefit from the controlled environment inside Mercedes-Benz Stadium in Atlanta against the Falcons in Week 5, with the second-year kicker making six of seven field goals and all six extra points across his young career playing indoors. However, the Ravens offense gets a slight downgrade with two-time MVP quarterback Lamar Jackson (ankle) missing Week 5 due to injury. Veteran backup quarterback Tyler Huntley will step in for Lamar, but he's far less efficient and effective than the team's starter, which could stall drives inside Loop's field goal range. Even so, Loop is RotoBaller's sixth-overall kicker for Week 5 and, with the Ravens on a late bye week, he profiles as a long-term hold option for managers who want to avoid streaming the position.",
+        "title": "Tyler Loop is a Mid-Tier Kicking Option in Week 5",
+        "topic_id": "1414599876880216064",
+        "url": "https://www.rotoballer.com/player-news/tyler-loop-is-a-mid-tier-kicking-option-in-week-5/1962594"
+      },
+      "nfl_team": "BAL",
+      "player_id": "12711",
+      "player_name": "Tyler Loop",
+      "position": "K",
+      "published": 1791614529000,
+      "source": "rotoballer",
+      "source_key": "223788",
+      "story_id": "nfl|12711|rotoballer|223788|1791614529000",
+      "title": "Tyler Loop is a Mid-Tier Kicking Option in Week 5",
+      "url": "https://www.rotoballer.com/player-news/tyler-loop-is-a-mid-tier-kicking-option-in-week-5/1962594"
     },
     {
       "analysis": null,
@@ -129244,904 +129478,6 @@
       "story_id": "nfl|4943|fantasy_pros|608055|1789484714814",
       "title": "Sam Darnold (glute) estimated to return in four weeks",
       "url": "https://www.fantasypros.com/nfl/news/608055/sam-darnold-glute-estimated-to-return-four-weeks.php"
-    },
-    {
-      "analysis": null,
-      "description": "Attorneys for Green Bay Packers running back Josh Jacobs' ex-girlfriend on Tuesday filed a motion to seal evidence and discovery materials in the criminal case involving Jacobs, according to Jeremy Fowler of ESPN. Jacobs' ex-girlfriend wishes to protect her privacy in light of Jacobs taking responsibility for his actions in the criminal proceeding. The NFL is attempting to obtain the alleged video from the incident that led to Jacobs being charged with battery and criminal damage to property, and they want to interview Jacobs before they potentially hand down a suspension. The 28-year-old is currently on the commissioner's exempt list and missed the Week 1 season-opening loss to the Minnesota Vikings. If the NFL suspends Jacobs, it likely will not be for longer than four to six games, including the game he already missed. In Sunday's loss to Minnesota, MarShawn Lloyd and Chris Brooks were the Packers' primary RBs, but they could involve Kaleb Johnson eventually as well. While Jacobs' legal situation plays out, he should be stashed in all fantasy leagues as Green Bay's clear lead back when he returns.",
-      "metadata": {
-        "description": "Attorneys for Green Bay Packers running back Josh Jacobs' ex-girlfriend on Tuesday filed a motion to seal evidence and discovery materials in the criminal case involving Jacobs, according to Jeremy Fowler of ESPN. Jacobs' ex-girlfriend wishes to protect her privacy in light of Jacobs taking responsibility for his actions in the criminal proceeding. The NFL is attempting to obtain the alleged video from the incident that led to Jacobs being charged with battery and criminal damage to property, and they want to interview Jacobs before they potentially hand down a suspension. The 28-year-old is currently on the commissioner's exempt list and missed the Week 1 season-opening loss to the Minnesota Vikings. If the NFL suspends Jacobs, it likely will not be for longer than four to six games, including the game he already missed. In Sunday's loss to Minnesota, MarShawn Lloyd and Chris Brooks were the Packers' primary RBs, but they could involve Kaleb Johnson eventually as well. While Jacobs' legal situation plays out, he should be stashed in all fantasy leagues as Green Bay's clear lead back when he returns.",
-        "title": "Attorneys File Motion to Seal Evidence in Josh Jacobs' Criminal Case",
-        "topic_id": "1405662478678929408",
-        "url": "https://www.rotoballer.com/player-news/attorneys-file-motion-to-seal-evidence-in-josh-jacobs-criminal-case/1932096"
-      },
-      "nfl_team": "GB",
-      "player_id": "5850",
-      "player_name": "Josh Jacobs",
-      "position": "RB",
-      "published": 1789483724000,
-      "source": "rotoballer",
-      "source_key": "221133",
-      "story_id": "nfl|5850|rotoballer|221133|1789483724000",
-      "title": "Attorneys File Motion to Seal Evidence in Josh Jacobs' Criminal Case",
-      "url": "https://www.rotoballer.com/player-news/attorneys-file-motion-to-seal-evidence-in-josh-jacobs-criminal-case/1932096"
-    },
-    {
-      "analysis": null,
-      "description": "The Athletic's Matt Barrows writes that San Francisco 49ers rookie running back Kaelon Black has the trust of head coach Kyle Shanahan and running backs coach Bobby Turner. In his NFL debut in the Week 1 season-opening win over the division-rival Los Angeles Rams in Australia last Thursday, Black played 43% of the offensive snaps behind Christian McCaffrey (55%) and was awarded 14 carries for 65 yards (4.6 yards per carry). The 24-year-old third-rounder from Indiana caught his only target for a pickup of five yards as a receiver. The Niners did not put too much on McCaffrey's plate in the season opener, especially in a blowout of the Rams, but they could be looking to dial back the All-Pro's touches throughout the year, which would obviously benefit Black. Given CMC's lengthy injury history and the coaching staff's trust in Black, he is a valuable RB stash in 12-team leagues, even if you do not have McCaffrey rostered. Right now, Black is rostered in 27% of Yahoo leagues. If McCaffrey were to go down with an injury, Black would become a weekly must-start in fantasy leagues.",
-      "metadata": {
-        "description": "The Athletic's Matt Barrows writes that San Francisco 49ers rookie running back Kaelon Black has the trust of head coach Kyle Shanahan and running backs coach Bobby Turner. In his NFL debut in the Week 1 season-opening win over the division-rival Los Angeles Rams in Australia last Thursday, Black played 43% of the offensive snaps behind Christian McCaffrey (55%) and was awarded 14 carries for 65 yards (4.6 yards per carry). The 24-year-old third-rounder from Indiana caught his only target for a pickup of five yards as a receiver. The Niners did not put too much on McCaffrey's plate in the season opener, especially in a blowout of the Rams, but they could be looking to dial back the All-Pro's touches throughout the year, which would obviously benefit Black. Given CMC's lengthy injury history and the coaching staff's trust in Black, he is a valuable RB stash in 12-team leagues, even if you do not have McCaffrey rostered. Right now, Black is rostered in 27% of Yahoo leagues. If McCaffrey were to go down with an injury, Black would become a weekly must-start in fantasy leagues.",
-        "title": "Kaelon Black has the Trust of the Coaching Staff",
-        "topic_id": "1405657444918558720",
-        "url": "https://www.rotoballer.com/player-news/kaelon-black-has-the-trust-of-the-coaching-staff/1932090"
-      },
-      "nfl_team": "SF",
-      "player_id": "13414",
-      "player_name": "Kaelon Black",
-      "position": "RB",
-      "published": 1789482545000,
-      "source": "rotoballer",
-      "source_key": "221132",
-      "story_id": "nfl|13414|rotoballer|221132|1789482545000",
-      "title": "Kaelon Black has the Trust of the Coaching Staff",
-      "url": "https://www.rotoballer.com/player-news/kaelon-black-has-the-trust-of-the-coaching-staff/1932090"
-    },
-    {
-      "analysis": "Cooper had an MRI on Monday, which showed his ankle injury was not severe. The rookie first-rounder caught his only target for a 30-yard gain before exiting the Jets' Week 1 win over the Titans. He is probably a long shot to play in Week 2, but Cooper should return sometime in the next couple of weeks. ",
-      "description": "Omar Cooper Jr. is considered week-to-week after sustaining an ankle sprain in Sunday's game. ",
-      "metadata": {
-        "analysis": "Cooper had an MRI on Monday, which showed his ankle injury was not severe. The rookie first-rounder caught his only target for a 30-yard gain before exiting the Jets' Week 1 win over the Titans. He is probably a long shot to play in Week 2, but Cooper should return sometime in the next couple of weeks. ",
-        "description": "Omar Cooper Jr. is considered week-to-week after sustaining an ankle sprain in Sunday's game. ",
-        "title": "Omar Cooper Jr. (ankle) considered week-to-week",
-        "topic_id": "1405594339937193984",
-        "url": "https://www.fantasypros.com/nfl/news/608053/omar-cooper-jr-ankle-considered-week-to-week.php"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "13276",
-      "player_name": "Omar Cooper",
-      "position": "WR",
-      "published": 1789482314628,
-      "source": "fantasy_pros",
-      "source_key": "608053",
-      "story_id": "nfl|13276|fantasy_pros|608053|1789482314628",
-      "title": "Omar Cooper Jr. (ankle) considered week-to-week",
-      "url": "https://www.fantasypros.com/nfl/news/608053/omar-cooper-jr-ankle-considered-week-to-week.php"
-    },
-    {
-      "analysis": null,
-      "description": "Sports Illustrated's Albert Breer writes that the Arizona Cardinals' split in their run-game workload in their Week 1 season-opening win over the Los Angeles Chargers on Sunday is \"probably a good window\" into how they will manage rookie first-round running back Jeremiyah Love's first year in the league. The third overall pick from Notre Dame had 11 carries for 41 yards and his first career rushing touchdown while catching two of his four targets for nine yards as a receiver. Meanwhile, Tyler Allgeier had a team-high 17 rushing attempts for 61 yards while catching both of his targets for nine yards. Breer adds that Arizona plans to \"be judicious about running up mileage on their special young talent.\" Trey Benson (knee) is already done for the season, but in time, veteran James Conner (foot) will return to help lighten the load on Love. Allgeier saw 59% of the offensive snaps in Week 1, compared to 43% for Love. The 21-year-old has clear three-down potential, but especially after Love dealt with an ankle injury in the preseason, the Cardinals will continue to be mindful of his overall workload, making him more of a fringe RB2/3 for fantasy managers going into a Week 2 showdown against the division-rival Seattle Seahawks.",
-      "metadata": {
-        "description": "Sports Illustrated's Albert Breer writes that the Arizona Cardinals' split in their run-game workload in their Week 1 season-opening win over the Los Angeles Chargers on Sunday is \"probably a good window\" into how they will manage rookie first-round running back Jeremiyah Love's first year in the league. The third overall pick from Notre Dame had 11 carries for 41 yards and his first career rushing touchdown while catching two of his four targets for nine yards as a receiver. Meanwhile, Tyler Allgeier had a team-high 17 rushing attempts for 61 yards while catching both of his targets for nine yards. Breer adds that Arizona plans to \"be judicious about running up mileage on their special young talent.\" Trey Benson (knee) is already done for the season, but in time, veteran James Conner (foot) will return to help lighten the load on Love. Allgeier saw 59% of the offensive snaps in Week 1, compared to 43% for Love. The 21-year-old has clear three-down potential, but especially after Love dealt with an ankle injury in the preseason, the Cardinals will continue to be mindful of his overall workload, making him more of a fringe RB2/3 for fantasy managers going into a Week 2 showdown against the division-rival Seattle Seahawks.",
-        "title": "Cardinals Plan to be \"Judicious\" With Jeremiyah Love's Workload",
-        "topic_id": "1405654927140827136",
-        "url": "https://www.rotoballer.com/player-news/cardinals-plan-to-be-judicious-with-jeremiyah-loves-workload/1932087"
-      },
-      "nfl_team": "ARI",
-      "player_id": "13287",
-      "player_name": "Jeremiyah Love",
-      "position": "RB",
-      "published": 1789482077000,
-      "source": "rotoballer",
-      "source_key": "221131",
-      "story_id": "nfl|13287|rotoballer|221131|1789482077000",
-      "title": "Cardinals Plan to be \"Judicious\" With Jeremiyah Love's Workload",
-      "url": "https://www.rotoballer.com/player-news/cardinals-plan-to-be-judicious-with-jeremiyah-loves-workload/1932087"
-    },
-    {
-      "analysis": "Cooper underwent an MRI after spraining his ankle in Sunday's victory over the Titans, and per the report he received \"positive news\" and could be back at some point in the next month. Isaiah Williams picked up the bulk of the work in Cooper's place in Week 1, and he figures to see extra snaps until the rookie first-round pick is ready to return.",
-      "description": "Cooper (ankle) is \"week-to-week,\" and the hope is he returns \"within the next four weeks,\" Ian Rapoport of NFL Network reports.",
-      "metadata": {
-        "analysis": "Cooper underwent an MRI after spraining his ankle in Sunday's victory over the Titans, and per the report he received \"positive news\" and could be back at some point in the next month. Isaiah Williams picked up the bulk of the work in Cooper's place in Week 1, and he figures to see extra snaps until the rookie first-round pick is ready to return.",
-        "description": "Cooper (ankle) is \"week-to-week,\" and the hope is he returns \"within the next four weeks,\" Ian Rapoport of NFL Network reports.",
-        "title": "Omar Cooper - Considered week-to-week",
-        "topic_id": "1405591819370164224"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "13276",
-      "player_name": "Omar Cooper",
-      "position": "WR",
-      "published": 1789481597000,
-      "source": "rotowire",
-      "source_key": "637494",
-      "story_id": "nfl|13276|rotowire|637494|1789481597000",
-      "title": "Omar Cooper - Considered week-to-week",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Carolina Panthers quarterback Bryce Young looked very strong in the Week 1 season-opening loss to the Chicago Bears on Sunday and could already be in contention as a Week 2 streamer in an upcoming matchup against the division-rival Atlanta Falcons this Sunday. In the first game of his fourth year in the NFL, Young completed 62.2% of his 37 pass attempts for 361 yards, three touchdowns, and an interception in a 59-37 loss to the Bears. The 25-year-old former first overall pick from Alabama in 2023 also ran the ball twice for 10 yards and an additional touchdown. Young had his best season as a pro, particularly late in the season, in 2025, throwing for a career-best 3,011 yards, 23 touchdowns, and 11 interceptions in 16 regular-season starts to get the Panthers into the postseason. He is off to a great start in 2026 and has an excellent chance to build on his numbers from a year ago in another season with Dave Canales as his head coach. Young is only rostered in 14% of Yahoo leagues.",
-      "metadata": {
-        "description": "Carolina Panthers quarterback Bryce Young looked very strong in the Week 1 season-opening loss to the Chicago Bears on Sunday and could already be in contention as a Week 2 streamer in an upcoming matchup against the division-rival Atlanta Falcons this Sunday. In the first game of his fourth year in the NFL, Young completed 62.2% of his 37 pass attempts for 361 yards, three touchdowns, and an interception in a 59-37 loss to the Bears. The 25-year-old former first overall pick from Alabama in 2023 also ran the ball twice for 10 yards and an additional touchdown. Young had his best season as a pro, particularly late in the season, in 2025, throwing for a career-best 3,011 yards, 23 touchdowns, and 11 interceptions in 16 regular-season starts to get the Panthers into the postseason. He is off to a great start in 2026 and has an excellent chance to build on his numbers from a year ago in another season with Dave Canales as his head coach. Young is only rostered in 14% of Yahoo leagues.",
-        "title": "Bryce Young on the Waiver Radar After Strong Week 1 Performance",
-        "topic_id": "1405653668904108032",
-        "url": "https://www.rotoballer.com/player-news/bryce-young-on-the-waiver-radar-after-strong-week-1-performance/1932082"
-      },
-      "nfl_team": "CAR",
-      "player_id": "9228",
-      "player_name": "Bryce Young",
-      "position": "QB",
-      "published": 1789481530000,
-      "source": "rotoballer",
-      "source_key": "221130",
-      "story_id": "nfl|9228|rotoballer|221130|1789481530000",
-      "title": "Bryce Young on the Waiver Radar After Strong Week 1 Performance",
-      "url": "https://www.rotoballer.com/player-news/bryce-young-on-the-waiver-radar-after-strong-week-1-performance/1932082"
-    },
-    {
-      "analysis": null,
-      "description": "After going largely undrafted in most single-quarterback leagues, Houston Texans quarterback C.J. Stroud has worked his way back into the streaming conversation after a solid outing in a Week 1 loss to the Bills. The Texans face the Bengals in Week 2, but after being one of the top defenses to target in 2025, Cincinnati held Buccaneers quarterback Baker Mayfield to 7.6 fantasy points in Week 1, forcing three turnovers. After throwing four interceptions of his own in a season-ending playoff loss to the Patriots, Stroud protected the ball better in Sunday's season opener but still lost two fumbles, including one deep in Bills territory on a potential game-winning drive. Even with the two turnovers, Stroud finished the week as the QB15 and is RotoBaller's QB19 for Week 2.",
-      "metadata": {
-        "description": "After going largely undrafted in most single-quarterback leagues, Houston Texans quarterback C.J. Stroud has worked his way back into the streaming conversation after a solid outing in a Week 1 loss to the Bills. The Texans face the Bengals in Week 2, but after being one of the top defenses to target in 2025, Cincinnati held Buccaneers quarterback Baker Mayfield to 7.6 fantasy points in Week 1, forcing three turnovers. After throwing four interceptions of his own in a season-ending playoff loss to the Patriots, Stroud protected the ball better in Sunday's season opener but still lost two fumbles, including one deep in Bills territory on a potential game-winning drive. Even with the two turnovers, Stroud finished the week as the QB15 and is RotoBaller's QB19 for Week 2.",
-        "title": "C.J. Stroud a Potential Waiver-Wire Streamer Against the Bengals",
-        "topic_id": "1405651152489508864",
-        "url": "https://www.rotoballer.com/player-news/c-j-stroud-a-potential-waiver-wire-streamer-against-the-bengals/1932073"
-      },
-      "nfl_team": "HOU",
-      "player_id": "9758",
-      "player_name": "C.J. Stroud",
-      "position": "QB",
-      "published": 1789480926000,
-      "source": "rotoballer",
-      "source_key": "221129",
-      "story_id": "nfl|9758|rotoballer|221129|1789480926000",
-      "title": "C.J. Stroud a Potential Waiver-Wire Streamer Against the Bengals",
-      "url": "https://www.rotoballer.com/player-news/c-j-stroud-a-potential-waiver-wire-streamer-against-the-bengals/1932073"
-    },
-    {
-      "analysis": null,
-      "description": "Minnesota Vikings quarterback Kyler Murray (concussion) exited Sunday's win over the Packers with a scary concussion, and his timeline to return remains unclear. In his absence, backup Carson Wentz led the Vikings to victory, throwing three touchdowns in the come-from-behind win, but NFL Insider Ian Rapoport believes the starting job still belongs to Murray. When asked if Wentz has a chance to take the QB1 role with another strong performance against the Bears in Week 2, Rapoport told Pat McAfee, \"Kyler is going to come back, and I would expect it to be him.\" Murray signed a one-year veteran minimum deal with the Vikings this offseason and beat out both Wentz and 2024 first-round pick J.J. McCarthy to earn the starting job, and although he managed only 11 snaps in Week 1, Rapoport believes the team is still excited about what he can bring to the offense.",
-      "metadata": {
-        "description": "Minnesota Vikings quarterback Kyler Murray (concussion) exited Sunday's win over the Packers with a scary concussion, and his timeline to return remains unclear. In his absence, backup Carson Wentz led the Vikings to victory, throwing three touchdowns in the come-from-behind win, but NFL Insider Ian Rapoport believes the starting job still belongs to Murray. When asked if Wentz has a chance to take the QB1 role with another strong performance against the Bears in Week 2, Rapoport told Pat McAfee, \"Kyler is going to come back, and I would expect it to be him.\" Murray signed a one-year veteran minimum deal with the Vikings this offseason and beat out both Wentz and 2024 first-round pick J.J. McCarthy to earn the starting job, and although he managed only 11 snaps in Week 1, Rapoport believes the team is still excited about what he can bring to the offense.",
-        "title": "Kyler Murray To Remain the Vikings' QB1 When Healthy",
-        "topic_id": "1405648635080847360",
-        "url": "https://www.rotoballer.com/player-news/kyler-murray-to-remain-the-vikings-qb1-when-healthy/1932060"
-      },
-      "nfl_team": "MIN",
-      "player_id": "5849",
-      "player_name": "Kyler Murray",
-      "position": "QB",
-      "published": 1789480261000,
-      "source": "rotoballer",
-      "source_key": "221128",
-      "story_id": "nfl|5849|rotoballer|221128|1789480261000",
-      "title": "Kyler Murray To Remain the Vikings' QB1 When Healthy",
-      "url": "https://www.rotoballer.com/player-news/kyler-murray-to-remain-the-vikings-qb1-when-healthy/1932060"
-    },
-    {
-      "analysis": "Reports on Darnold's return date have varied, but the latest one indicates he could miss a bit more time than initially anticipated. What's certain is he's dealing with what the Seahawks are calling a \"very unique\" soft-tissue injury, but one that is expected to lead to a long-term absence. Drew Lock should continue to start at quarterback for however long Darnold remains sidelined.",
-      "description": "Darnold (glute) is \"looking at about a four-week return to play\" but could return \"a little bit sooner than that,\" Mike Garafolo of NFL Network reports.",
-      "metadata": {
-        "analysis": "Reports on Darnold's return date have varied, but the latest one indicates he could miss a bit more time than initially anticipated. What's certain is he's dealing with what the Seahawks are calling a \"very unique\" soft-tissue injury, but one that is expected to lead to a long-term absence. Drew Lock should continue to start at quarterback for however long Darnold remains sidelined.",
-        "description": "Darnold (glute) is \"looking at about a four-week return to play\" but could return \"a little bit sooner than that,\" Mike Garafolo of NFL Network reports.",
-        "title": "Sam Darnold - Could have four-week timeline",
-        "topic_id": "1405586784783544320"
-      },
-      "nfl_team": "SEA",
-      "player_id": "4943",
-      "player_name": "Sam Darnold",
-      "position": "QB",
-      "published": 1789480123000,
-      "source": "rotowire",
-      "source_key": "637493",
-      "story_id": "nfl|4943|rotowire|637493|1789480123000",
-      "title": "Sam Darnold - Could have four-week timeline",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Chargers wide receiver Ladd McConkey will be evaluated this week after leaving Sunday's loss to the Cardinals with a rib injury, according to NFL Insider Ian Rapoport. McConkey was originally listed with a chest injury, but further reporting has indicated an acute rib issue, and Rapoport notes it is not believed to be significant, adding that the third-year wideout is considered \"day-to-day\" and noting that it's an injury that can be played through. McConkey caught five of seven targets for 82 yards and a touchdown before exiting in the third quarter, and he appears to be a focal point of Mike McDaniel's offense. Los Angeles hosts the Raiders in Week 2, and fantasy managers will need to monitor McConkey's status throughout the week, as he boasts low-end WR1 upside if he's able to suit up.",
-      "metadata": {
-        "description": "Los Angeles Chargers wide receiver Ladd McConkey will be evaluated this week after leaving Sunday's loss to the Cardinals with a rib injury, according to NFL Insider Ian Rapoport. McConkey was originally listed with a chest injury, but further reporting has indicated an acute rib issue, and Rapoport notes it is not believed to be significant, adding that the third-year wideout is considered \"day-to-day\" and noting that it's an injury that can be played through. McConkey caught five of seven targets for 82 yards and a touchdown before exiting in the third quarter, and he appears to be a focal point of Mike McDaniel's offense. Los Angeles hosts the Raiders in Week 2, and fantasy managers will need to monitor McConkey's status throughout the week, as he boasts low-end WR1 upside if he's able to suit up.",
-        "title": "Ladd McConkey to Be Evaluated This Week, Not Believed to Be Significant",
-        "topic_id": "1405644860232404992",
-        "url": "https://www.rotoballer.com/player-news/ladd-mcconkey-to-be-evaluated-this-week-not-believed-to-be-significant/1932051"
-      },
-      "nfl_team": "LAC",
-      "player_id": "11635",
-      "player_name": "Ladd McConkey",
-      "position": "WR",
-      "published": 1789479545000,
-      "source": "rotoballer",
-      "source_key": "221127",
-      "story_id": "nfl|11635|rotoballer|221127|1789479545000",
-      "title": "Ladd McConkey to Be Evaluated This Week, Not Believed to Be Significant",
-      "url": "https://www.rotoballer.com/player-news/ladd-mcconkey-to-be-evaluated-this-week-not-believed-to-be-significant/1932051"
-    },
-    {
-      "analysis": null,
-      "description": "Despite running the most routes of all Los Angeles Rams tight ends in Week 1, second-year player Terrance Ferguson was targeted only once and held without a catch in the team's season-opening loss to the 49ers. While the results weren't encouraging after an offseason of hype, fantasy managers should stay patient and avoid dropping him unless necessary. Week 1 brings extra challenges in parsing what will be predictive from a season-long perspective, and that is especially true in a game where the Rams arrived in Australia roughly 28 hours ahead of kickoff. With four trustworthy tight ends on the roster, Ferguson's usage may see issues of predictability, but he earned a healthy route share to begin the year, and the Rams are still in need of a third pass-catcher behind Puka Nacua and Davante Adams, who saw more than 55% of the team's targets in Week 1. At RotoBaller's TE28, Ferguson is a difficult play against the Giants on Monday night, but he should still be held wherever it makes sense to keep a second tight end.",
-      "metadata": {
-        "description": "Despite running the most routes of all Los Angeles Rams tight ends in Week 1, second-year player Terrance Ferguson was targeted only once and held without a catch in the team's season-opening loss to the 49ers. While the results weren't encouraging after an offseason of hype, fantasy managers should stay patient and avoid dropping him unless necessary. Week 1 brings extra challenges in parsing what will be predictive from a season-long perspective, and that is especially true in a game where the Rams arrived in Australia roughly 28 hours ahead of kickoff. With four trustworthy tight ends on the roster, Ferguson's usage may see issues of predictability, but he earned a healthy route share to begin the year, and the Rams are still in need of a third pass-catcher behind Puka Nacua and Davante Adams, who saw more than 55% of the team's targets in Week 1. At RotoBaller's TE28, Ferguson is a difficult play against the Giants on Monday night, but he should still be held wherever it makes sense to keep a second tight end.",
-        "title": "Terrance Ferguson Still Worth Watching on Waiver Wire",
-        "topic_id": "1405638567463596032",
-        "url": "https://www.rotoballer.com/player-news/terrance-ferguson-a-player-to-watch-for-after-drops/1932018"
-      },
-      "nfl_team": "LAR",
-      "player_id": "12487",
-      "player_name": "Terrance Ferguson",
-      "position": "TE",
-      "published": 1789477986000,
-      "source": "rotoballer",
-      "source_key": "221125",
-      "story_id": "nfl|12487|rotoballer|221125|1789477986000",
-      "title": "Terrance Ferguson Still Worth Watching on Waiver Wire",
-      "url": "https://www.rotoballer.com/player-news/terrance-ferguson-a-player-to-watch-for-after-drops/1932018"
-    },
-    {
-      "analysis": null,
-      "description": "The Athletic's Josh Kendall reports that the Atlanta Falcons updated their media advisory for the week on Tuesday, with the old one listed as \"starting QB press conference\" on Wednesday. The new one reads: \"QB Cooper Rush press conference.\" The NFL Network's Steve Wyche checked in on this and was told that the Falcons listed Rush \"based on no new information.\" Head coach Kevin Stefanski will announce who the Week starting QB is \"whenever he decides to make his decision public.\" So for lack of a better term, Rush is the team's starting QB placeholder for now, with both Michael Penix Jr. (knee) and Tua Tagovailoa (oblique) dealing with injuries. Penix is still recovering from a partially torn ACL late last year, and while he is progressing, he might not be ready for the Week 2 contest against the division-rival Carolina Panthers. Tagovailoa was set to start in the Week 1 game against the Pittsburgh Steelers on Sunday, but an oblique injury in practice last Thursday forced him out, and he might be trending towards missing a second straight game. If Rush makes a second straight start for Atlanta this weekend, fantasy managers will need to downgrade all of the team's offensive weapons again. The 32-year-old Rush threw for 143 yards with a touchdown and two interceptions in the 20-13 loss to Pittsburgh.",
-      "metadata": {
-        "description": "The Athletic's Josh Kendall reports that the Atlanta Falcons updated their media advisory for the week on Tuesday, with the old one listed as \"starting QB press conference\" on Wednesday. The new one reads: \"QB Cooper Rush press conference.\" The NFL Network's Steve Wyche checked in on this and was told that the Falcons listed Rush \"based on no new information.\" Head coach Kevin Stefanski will announce who the Week starting QB is \"whenever he decides to make his decision public.\" So for lack of a better term, Rush is the team's starting QB placeholder for now, with both Michael Penix Jr. (knee) and Tua Tagovailoa (oblique) dealing with injuries. Penix is still recovering from a partially torn ACL late last year, and while he is progressing, he might not be ready for the Week 2 contest against the division-rival Carolina Panthers. Tagovailoa was set to start in the Week 1 game against the Pittsburgh Steelers on Sunday, but an oblique injury in practice last Thursday forced him out, and he might be trending towards missing a second straight game. If Rush makes a second straight start for Atlanta this weekend, fantasy managers will need to downgrade all of the team's offensive weapons again. The 32-year-old Rush threw for 143 yards with a touchdown and two interceptions in the 20-13 loss to Pittsburgh.",
-        "title": "Cooper Rush the QB Placeholder For Falcons Going into Week 2",
-        "topic_id": "1405636051338264576",
-        "url": "https://www.rotoballer.com/player-news/cooper-rush-the-qb-placeholder-for-falcons-going-into-week-2/1932010"
-      },
-      "nfl_team": "ATL",
-      "player_id": "4574",
-      "player_name": "Cooper Rush",
-      "position": "QB",
-      "published": 1789477506000,
-      "source": "rotoballer",
-      "source_key": "221124",
-      "story_id": "nfl|4574|rotoballer|221124|1789477506000",
-      "title": "Cooper Rush the QB Placeholder For Falcons Going into Week 2",
-      "url": "https://www.rotoballer.com/player-news/cooper-rush-the-qb-placeholder-for-falcons-going-into-week-2/1932010"
-    },
-    {
-      "analysis": null,
-      "description": "The Baltimore Ravens are apparently having a wide receiver workout on Tuesday, according to Jeff Zrebiec of The Athletic. Zrebiec does not think the Ravens are desperate, even with rookie Ja'Kobi Lane (wrist) expected to miss extended time and Zay Flowers (hamstring) potentially missing a game or two after they were both injured in the Week 1 season-opening win over the Indianapolis Colts on Sunday. Devontez Walker (groin), who was inactive in the season opener, and rookie Elijah Surratt, who was a healthy scratch, could both get an opportunity for big roles in Week 2 on Sunday in the team's home opener against the New Orleans Saints. The 26-year-old Flowers' hamstring injury is not considered serious, but the fact that he did not return to Sunday's win over Indy is a bit concerning for fantasy managers in terms of his availability going into Week 2. Before injuring his hamstring, Flowers caught five passes for a career-high 150 yards and a touchdown to make his fantasy managers happy. However, quarterback Lamar Jackson's top target could miss a game or two. Keep a close eye on Flowers' practice status from Wednesday through Friday.",
-      "metadata": {
-        "description": "The Baltimore Ravens are apparently having a wide receiver workout on Tuesday, according to Jeff Zrebiec of The Athletic. Zrebiec does not think the Ravens are desperate, even with rookie Ja'Kobi Lane (wrist) expected to miss extended time and Zay Flowers (hamstring) potentially missing a game or two after they were both injured in the Week 1 season-opening win over the Indianapolis Colts on Sunday. Devontez Walker (groin), who was inactive in the season opener, and rookie Elijah Surratt, who was a healthy scratch, could both get an opportunity for big roles in Week 2 on Sunday in the team's home opener against the New Orleans Saints. The 26-year-old Flowers' hamstring injury is not considered serious, but the fact that he did not return to Sunday's win over Indy is a bit concerning for fantasy managers in terms of his availability going into Week 2. Before injuring his hamstring, Flowers caught five passes for a career-high 150 yards and a touchdown to make his fantasy managers happy. However, quarterback Lamar Jackson's top target could miss a game or two. Keep a close eye on Flowers' practice status from Wednesday through Friday.",
-        "title": "Zay Flowers Could Potentially Miss A Game or Two",
-        "topic_id": "1405634792325738496",
-        "url": "https://www.rotoballer.com/player-news/zay-flowers-could-potentially-miss-a-game-or-two/1932005"
-      },
-      "nfl_team": "BAL",
-      "player_id": "9997",
-      "player_name": "Zay Flowers",
-      "position": "WR",
-      "published": 1789476965000,
-      "source": "rotoballer",
-      "source_key": "221123",
-      "story_id": "nfl|9997|rotoballer|221123|1789476965000",
-      "title": "Zay Flowers Could Potentially Miss A Game or Two",
-      "url": "https://www.rotoballer.com/player-news/zay-flowers-could-potentially-miss-a-game-or-two/1932005"
-    },
-    {
-      "analysis": "Bryant was one of the few Broncos who had a respectable showing on Monday night. He looked great at the start of the game but tapered off as it went on and as Denver continued to fall further and further behind on the scoreboard. He was the best out of Denver's receivers in this bad matchup, however, so the breakout potential seems to be there for the second-year wideout this season.",
-      "description": "Pat Bryant caught 4-of-6 targets for 42 yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
-      "metadata": {
-        "analysis": "Bryant was one of the few Broncos who had a respectable showing on Monday night. He looked great at the start of the game but tapered off as it went on and as Denver continued to fall further and further behind on the scoreboard. He was the best out of Denver's receivers in this bad matchup, however, so the breakout potential seems to be there for the second-year wideout this season.",
-        "description": "Pat Bryant caught 4-of-6 targets for 42 yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
-        "title": "Pat Bryant leads team in receiving Monday",
-        "topic_id": "1405571687981805568",
-        "url": "https://www.fantasypros.com/nfl/news/608045/pat-bryant-leads-team-receiving-monday.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "12492",
-      "player_name": "Pat Bryant",
-      "position": "WR",
-      "published": 1789476913980,
-      "source": "fantasy_pros",
-      "source_key": "608045",
-      "story_id": "nfl|12492|fantasy_pros|608045|1789476913980",
-      "title": "Pat Bryant leads team in receiving Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608045/pat-bryant-leads-team-receiving-monday.php"
-    },
-    {
-      "analysis": "It was no surprise that Franklin was uninvolved for the Broncos on Monday night, as their offense struggled heavily to get even their best players the ball against the Chiefs. He seems to be squarely behind at least three other wideouts on the depth chart at this point, however, which makes him irrelevant from a fantasy perspective until further notice.",
-      "description": "Troy Franklin failed to catch his lone target and had one rush for five yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
-      "metadata": {
-        "analysis": "It was no surprise that Franklin was uninvolved for the Broncos on Monday night, as their offense struggled heavily to get even their best players the ball against the Chiefs. He seems to be squarely behind at least three other wideouts on the depth chart at this point, however, which makes him irrelevant from a fantasy perspective until further notice.",
-        "description": "Troy Franklin failed to catch his lone target and had one rush for five yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
-        "title": "Troy Franklin doesn't contribute in loss Monday",
-        "topic_id": "1405571687868559360",
-        "url": "https://www.fantasypros.com/nfl/news/608047/troy-franklin-doesnt-contribute-loss-monday.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "11627",
-      "player_name": "Troy Franklin",
-      "position": "WR",
-      "published": 1789476913953,
-      "source": "fantasy_pros",
-      "source_key": "608047",
-      "story_id": "nfl|11627|fantasy_pros|608047|1789476913953",
-      "title": "Troy Franklin doesn't contribute in loss Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608047/troy-franklin-doesnt-contribute-loss-monday.php"
-    },
-    {
-      "analysis": "There was a time where it looked like Mims had the potential to be a relevant fantasy option, but that ship has long sailed, which was confirmed by the zero opportunities he saw on Monday night. He didn't see even a single snap on offense, meaning that he should be considered entirely irrelevant for fantasy moving forward.",
-      "description": "Marvin Mims Jr. did not see a single offensive opportunity in Monday night's 31-10 loss to the Kansas City Chiefs.",
-      "metadata": {
-        "analysis": "There was a time where it looked like Mims had the potential to be a relevant fantasy option, but that ship has long sailed, which was confirmed by the zero opportunities he saw on Monday night. He didn't see even a single snap on offense, meaning that he should be considered entirely irrelevant for fantasy moving forward.",
-        "description": "Marvin Mims Jr. did not see a single offensive opportunity in Monday night's 31-10 loss to the Kansas City Chiefs.",
-        "title": "Marvin Mims Jr. entirely uninvolved in loss Monday",
-        "topic_id": "1405571687805644800",
-        "url": "https://www.fantasypros.com/nfl/news/608048/marvin-mims-jr-entirely-uninvolved-loss-monday.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "9494",
-      "player_name": "Marvin Mims",
-      "position": "WR",
-      "published": 1789476913939,
-      "source": "fantasy_pros",
-      "source_key": "608048",
-      "story_id": "nfl|9494|fantasy_pros|608048|1789476913939",
-      "title": "Marvin Mims Jr. entirely uninvolved in loss Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608048/marvin-mims-jr-entirely-uninvolved-loss-monday.php"
-    },
-    {
-      "analysis": "There has been a lot of hype about the potential of the rookie over the course of the offseason, but he didn't see even a single opportunity in the three snaps he played in his NFL debut on Monday night. He will likely see involvement in more favorable matchups moving forward, but this start is very discouraging and indicates that he is squarely behind both J.K. Dobbins and RJ Harvey in the pecking order at this point.",
-      "description": "Jonah Coleman did not see a single opportunity in Monday night's 31-10 loss to the Kansas City Chiefs.",
-      "metadata": {
-        "analysis": "There has been a lot of hype about the potential of the rookie over the course of the offseason, but he didn't see even a single opportunity in the three snaps he played in his NFL debut on Monday night. He will likely see involvement in more favorable matchups moving forward, but this start is very discouraging and indicates that he is squarely behind both J.K. Dobbins and RJ Harvey in the pecking order at this point.",
-        "description": "Jonah Coleman did not see a single opportunity in Monday night's 31-10 loss to the Kansas City Chiefs.",
-        "title": "Jonah Coleman without attempt in NFL debut Monday",
-        "topic_id": "1405569171181314048",
-        "url": "https://www.fantasypros.com/nfl/news/608044/jonah-coleman-without-attempt-nfl-debut-monday.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "13345",
-      "player_name": "Jonah Coleman",
-      "position": "RB",
-      "published": 1789476313928,
-      "source": "fantasy_pros",
-      "source_key": "608044",
-      "story_id": "nfl|13345|fantasy_pros|608044|1789476313928",
-      "title": "Jonah Coleman without attempt in NFL debut Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608044/jonah-coleman-without-attempt-nfl-debut-monday.php"
-    },
-    {
-      "analysis": "Dobbins wasn't able to get much going on Monday night, being left with just 36 scoreless yards in a loss to the Chiefs. The game script was entirely unfavorable to his role, however, with Denver quickly abandoning the run after falling behind early in the game. He should be more involved than this in most games moving forward.",
-      "description": "J.K. Dobbins rushed the ball eight times for 36 yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
-      "metadata": {
-        "analysis": "Dobbins wasn't able to get much going on Monday night, being left with just 36 scoreless yards in a loss to the Chiefs. The game script was entirely unfavorable to his role, however, with Denver quickly abandoning the run after falling behind early in the game. He should be more involved than this in most games moving forward.",
-        "description": "J.K. Dobbins rushed the ball eight times for 36 yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
-        "title": "J.K. Dobbins underwhelming in loss Monday",
-        "topic_id": "1405569169629421568",
-        "url": "https://www.fantasypros.com/nfl/news/608041/jk-dobbins-underwhelming-loss-monday.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "6806",
-      "player_name": "J.K. Dobbins",
-      "position": "RB",
-      "published": 1789476313559,
-      "source": "fantasy_pros",
-      "source_key": "608041",
-      "story_id": "nfl|6806|fantasy_pros|608041|1789476313559",
-      "title": "J.K. Dobbins underwhelming in loss Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608041/jk-dobbins-underwhelming-loss-monday.php"
-    },
-    {
-      "analysis": "Denver's offense as a whole struggled heavily on Monday night, and Sutton was no exception to that. He caught just two of his five targets over the course of the game and was only able to turn that into a measly 11 yards. He remains off of the fantasy radar for the foreseeable future, even in more favorable matchups.",
-      "description": "Courtland Sutton caught 2-of-5 targets for just 11 yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
-      "metadata": {
-        "analysis": "Denver's offense as a whole struggled heavily on Monday night, and Sutton was no exception to that. He caught just two of his five targets over the course of the game and was only able to turn that into a measly 11 yards. He remains off of the fantasy radar for the foreseeable future, even in more favorable matchups.",
-        "description": "Courtland Sutton caught 2-of-5 targets for just 11 yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
-        "title": "Courtland Sutton uninvolved in loss Monday",
-        "topic_id": "1405569169545535488",
-        "url": "https://www.fantasypros.com/nfl/news/608042/courtland-sutton-uninvolved-loss-monday.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "5045",
-      "player_name": "Courtland Sutton",
-      "position": "WR",
-      "published": 1789476313538,
-      "source": "fantasy_pros",
-      "source_key": "608042",
-      "story_id": "nfl|5045|fantasy_pros|608042|1789476313538",
-      "title": "Courtland Sutton uninvolved in loss Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608042/courtland-sutton-uninvolved-loss-monday.php"
-    },
-    {
-      "analysis": "The young running back was one of Denver's more effective offensive players on Monday night, which isn't saying much considering he finished with just 41 scoreless yards in the team's loss to the Chiefs. It looks like J.K. Dobbins will be the team's top rushing option this season, but it's encouraging to see Harvey's involvement in the passing game in Week 1, which is his path to relevance over the course of the season.",
-      "description": "RJ Harvey rushed the ball three times for 18 yards and caught four passes for 23 yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
-      "metadata": {
-        "analysis": "The young running back was one of Denver's more effective offensive players on Monday night, which isn't saying much considering he finished with just 41 scoreless yards in the team's loss to the Chiefs. It looks like J.K. Dobbins will be the team's top rushing option this season, but it's encouraging to see Harvey's involvement in the passing game in Week 1, which is his path to relevance over the course of the season.",
-        "description": "RJ Harvey rushed the ball three times for 18 yards and caught four passes for 23 yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
-        "title": "RJ Harvey totals 41 yards in loss Monday",
-        "topic_id": "1405569169486815232",
-        "url": "https://www.fantasypros.com/nfl/news/608043/rj-harvey-totals-41-yards-loss-monday.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "12489",
-      "player_name": "RJ Harvey",
-      "position": "RB",
-      "published": 1789476313526,
-      "source": "fantasy_pros",
-      "source_key": "608043",
-      "story_id": "nfl|12489|fantasy_pros|608043|1789476313526",
-      "title": "RJ Harvey totals 41 yards in loss Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608043/rj-harvey-totals-41-yards-loss-monday.php"
-    },
-    {
-      "analysis": "Nix had a poor performance on Monday night. He was held to just 131 passing yards on the night and wasn't able to get Denver's offense going, leading them to score just ten points en route to a blowout loss at the hands of their divisional rivals. He should improve and play better in more favorable matchups moving forward, but they will continue to have a tough schedule for the foreseeable future, so fantasy managers might be better off looking for another option for the time being.",
-      "description": "Bo Nix completed 17-of-28 passing attempts for 131 yards, one touchdown, and one interception in Monday night's 31-10 loss to the Kansas City Chiefs.",
-      "metadata": {
-        "analysis": "Nix had a poor performance on Monday night. He was held to just 131 passing yards on the night and wasn't able to get Denver's offense going, leading them to score just ten points en route to a blowout loss at the hands of their divisional rivals. He should improve and play better in more favorable matchups moving forward, but they will continue to have a tough schedule for the foreseeable future, so fantasy managers might be better off looking for another option for the time being.",
-        "description": "Bo Nix completed 17-of-28 passing attempts for 131 yards, one touchdown, and one interception in Monday night's 31-10 loss to the Kansas City Chiefs.",
-        "title": "Bo Nix struggles in loss Monday",
-        "topic_id": "1405566654754123776",
-        "url": "https://www.fantasypros.com/nfl/news/608039/bo-nix-struggles-loss-monday.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "11563",
-      "player_name": "Bo Nix",
-      "position": "QB",
-      "published": 1789475713968,
-      "source": "fantasy_pros",
-      "source_key": "608039",
-      "story_id": "nfl|11563|fantasy_pros|608039|1789475713968",
-      "title": "Bo Nix struggles in loss Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608039/bo-nix-struggles-loss-monday.php"
-    },
-    {
-      "analysis": "There has been a lot of hype for the veteran wideout after the Broncos traded for him this offseason, but he got off to a poor start with his new team on Monday night. He caught one pass for just two yards over the course of the game, which burned any fantasy manager who risked starting him in this matchup. Denver's offense as a whole struggled heavily against Kansas City's defense, however, so there's a good chance that he and the rest of the offense bounce back and return to solid fantasy production in easier matchups moving forward.",
-      "description": "Jaylen Waddle caught 1-of-3 targets for just two yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
-      "metadata": {
-        "analysis": "There has been a lot of hype for the veteran wideout after the Broncos traded for him this offseason, but he got off to a poor start with his new team on Monday night. He caught one pass for just two yards over the course of the game, which burned any fantasy manager who risked starting him in this matchup. Denver's offense as a whole struggled heavily against Kansas City's defense, however, so there's a good chance that he and the rest of the offense bounce back and return to solid fantasy production in easier matchups moving forward.",
-        "description": "Jaylen Waddle caught 1-of-3 targets for just two yards in Monday night's 31-10 loss to the Kansas City Chiefs.",
-        "title": "Jaylen Waddle disappoints in Broncos debut Monday",
-        "topic_id": "1405566654640877568",
-        "url": "https://www.fantasypros.com/nfl/news/608040/jaylen-waddle-disappoints-broncos-debut-monday.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "7526",
-      "player_name": "Jaylen Waddle",
-      "position": "WR",
-      "published": 1789475713942,
-      "source": "fantasy_pros",
-      "source_key": "608040",
-      "story_id": "nfl|7526|fantasy_pros|608040|1789475713942",
-      "title": "Jaylen Waddle disappoints in Broncos debut Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608040/jaylen-waddle-disappoints-broncos-debut-monday.php"
-    },
-    {
-      "analysis": null,
-      "description": "Denver Broncos quarterback Bo Nix called the team's offensive performance \"pitiful\" in their season-opening loss to the division-rival Kansas City Chiefs on Monday night, according to Parker Gabriel of The Denver Post. Head coach Sean Payton and new offensive coordinator Davis Webb planned to invigorate the team's ground game in 2026 after re-signing J.K. Dobbins and adding rookie Jonah Coleman in the fourth round of this year's draft, but that went out the window quickly in the first half of Week 1. Nix attempted 19 passes in the first half, compared to only six rushes for the Broncos. They ran the ball four times on 12 first-down snaps. Dobbins had just two carries in the first half. Nix was sacked four times, just the third time he has been sacked that many times in 35 NFL starts, and he also turned the ball over twice. It was not the start that Nix and the Broncos offense wanted, but the good news for Broncos fans is that there is plenty of time to turn it around, starting in the team's Week 2 home opener against the Jacksonville Jaguars.",
-      "metadata": {
-        "description": "Denver Broncos quarterback Bo Nix called the team's offensive performance \"pitiful\" in their season-opening loss to the division-rival Kansas City Chiefs on Monday night, according to Parker Gabriel of The Denver Post. Head coach Sean Payton and new offensive coordinator Davis Webb planned to invigorate the team's ground game in 2026 after re-signing J.K. Dobbins and adding rookie Jonah Coleman in the fourth round of this year's draft, but that went out the window quickly in the first half of Week 1. Nix attempted 19 passes in the first half, compared to only six rushes for the Broncos. They ran the ball four times on 12 first-down snaps. Dobbins had just two carries in the first half. Nix was sacked four times, just the third time he has been sacked that many times in 35 NFL starts, and he also turned the ball over twice. It was not the start that Nix and the Broncos offense wanted, but the good news for Broncos fans is that there is plenty of time to turn it around, starting in the team's Week 2 home opener against the Jacksonville Jaguars.",
-        "title": "Bo Nix Calls Broncos' Offensive Performance \"Pitiful\"",
-        "topic_id": "1405627242217799680",
-        "url": "https://www.rotoballer.com/player-news/bo-nix-calls-broncos-offensive-performance-pitiful/1931997"
-      },
-      "nfl_team": "DEN",
-      "player_id": "11563",
-      "player_name": "Bo Nix",
-      "position": "QB",
-      "published": 1789475345000,
-      "source": "rotoballer",
-      "source_key": "221121",
-      "story_id": "nfl|11563|rotoballer|221121|1789475345000",
-      "title": "Bo Nix Calls Broncos' Offensive Performance \"Pitiful\"",
-      "url": "https://www.rotoballer.com/player-news/bo-nix-calls-broncos-offensive-performance-pitiful/1931997"
-    },
-    {
-      "analysis": "The rookie looked good in his NFL debut on Monday night, totaling 68 yards on ten opportunities against one of the NFL's best defensive fronts. Kenneth Walker III is clearly the bellcow running back on this offense, but it looks like Johnson has solidified himself as the RB2 and will continue to play an important depth role for the Chiefs over the course of the season.",
-      "description": "Emmett Johnson rushed the ball eight times for 24 yards and caught two passes for 44 yards in Monday night's 31-10 win over the Denver Broncos.",
-      "metadata": {
-        "analysis": "The rookie looked good in his NFL debut on Monday night, totaling 68 yards on ten opportunities against one of the NFL's best defensive fronts. Kenneth Walker III is clearly the bellcow running back on this offense, but it looks like Johnson has solidified himself as the RB2 and will continue to play an important depth role for the Chiefs over the course of the season.",
-        "description": "Emmett Johnson rushed the ball eight times for 24 yards and caught two passes for 44 yards in Monday night's 31-10 win over the Denver Broncos.",
-        "title": "Emmett Johnson totals 68 yards in NFL debut Monday",
-        "topic_id": "1405564137181888512",
-        "url": "https://www.fantasypros.com/nfl/news/608034/emmett-johnson-totals-68-yards-nfl-debut-monday.php"
-      },
-      "nfl_team": "KC",
-      "player_id": "13337",
-      "player_name": "Emmett Johnson",
-      "position": "RB",
-      "published": 1789475113731,
-      "source": "fantasy_pros",
-      "source_key": "608034",
-      "story_id": "nfl|13337|fantasy_pros|608034|1789475113731",
-      "title": "Emmett Johnson totals 68 yards in NFL debut Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608034/emmett-johnson-totals-68-yards-nfl-debut-monday.php"
-    },
-    {
-      "analysis": "The rookie was silent in his NFL debut on Monday, being held without a catch in the team's big win over the Broncos. They didn't need to pass much in this matchup, so it's possible that he will improve and play better in closer games moving forward. Still, this was a discouraging debut from a utilization standpoint, and fantasy managers shouldn't have high expectations for him for the foreseeable future.",
-      "description": "Cyrus Allen did not haul in his lone target in Monday night's 31-10 win over the Denver Broncos.",
-      "metadata": {
-        "analysis": "The rookie was silent in his NFL debut on Monday, being held without a catch in the team's big win over the Broncos. They didn't need to pass much in this matchup, so it's possible that he will improve and play better in closer games moving forward. Still, this was a discouraging debut from a utilization standpoint, and fantasy managers shouldn't have high expectations for him for the foreseeable future.",
-        "description": "Cyrus Allen did not haul in his lone target in Monday night's 31-10 win over the Denver Broncos.",
-        "title": "Cyrus Allen held catchless in win Monday",
-        "topic_id": "1405564136988950528",
-        "url": "https://www.fantasypros.com/nfl/news/608036/cyrus-allen-held-catchless-win-monday.php"
-      },
-      "nfl_team": "KC",
-      "player_id": "13413",
-      "player_name": "Cyrus Allen",
-      "position": "WR",
-      "published": 1789475113683,
-      "source": "fantasy_pros",
-      "source_key": "608036",
-      "story_id": "nfl|13413|fantasy_pros|608036|1789475113683",
-      "title": "Cyrus Allen held catchless in win Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608036/cyrus-allen-held-catchless-win-monday.php"
-    },
-    {
-      "analysis": "Butker did his job on Monday night, hitting all five of his kicks in the team's big win over the Broncos. He didn't end up with a good total from a fantasy perspective, but he should still be considered one of the better fantasy options at his position moving forward.",
-      "description": "Harrison Butker went 4-for-4 on his extra-point attempts and made his lone field-goal attempt in Monday night's 31-10 win over the Denver Broncos.",
-      "metadata": {
-        "analysis": "Butker did his job on Monday night, hitting all five of his kicks in the team's big win over the Broncos. He didn't end up with a good total from a fantasy perspective, but he should still be considered one of the better fantasy options at his position moving forward.",
-        "description": "Harrison Butker went 4-for-4 on his extra-point attempts and made his lone field-goal attempt in Monday night's 31-10 win over the Denver Broncos.",
-        "title": "Harrison Butker perfect in win Monday",
-        "topic_id": "1405564136909258752",
-        "url": "https://www.fantasypros.com/nfl/news/608037/harrison-butker-perfect-win-monday.php"
-      },
-      "nfl_team": "KC",
-      "player_id": "4227",
-      "player_name": "Harrison Butker",
-      "position": "K",
-      "published": 1789475113667,
-      "source": "fantasy_pros",
-      "source_key": "608037",
-      "story_id": "nfl|4227|fantasy_pros|608037|1789475113667",
-      "title": "Harrison Butker perfect in win Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608037/harrison-butker-perfect-win-monday.php"
-    },
-    {
-      "analysis": null,
-      "description": "The Pittsburgh Steelers did not make any changes to their official depth chart as they head into a Week 2 battle on the road against the New England Patriots on Sunday, according to Alan Saunders of PGH Steelers Now. Running back Jaylen Warren had a team-high 10 carries for 46 yards in the Week 1 season-opening win over the Atlanta Falcons and added five catches on six targets for another 27 yards, and he is still listed as the team's RB1 on the depth chart over Rico Dowdle. In his Steelers debut on Sunday, Dowdle had two fewer carries (eight) than Warren, running for just 15 yards (1.9 yards per carry). He caught two of his five targets for six yards. The 27-year-old Warren also lost a fumble, and although the distribution of touches between him and Dowdle was pretty even, Warren was much more efficient with the ball in his hands. Going into the Week 2 matchup this weekend against the Pats, Warren should be the slight fantasy favorite at RB for the Steelers, especially in PPR leagues.",
-      "metadata": {
-        "description": "The Pittsburgh Steelers did not make any changes to their official depth chart as they head into a Week 2 battle on the road against the New England Patriots on Sunday, according to Alan Saunders of PGH Steelers Now. Running back Jaylen Warren had a team-high 10 carries for 46 yards in the Week 1 season-opening win over the Atlanta Falcons and added five catches on six targets for another 27 yards, and he is still listed as the team's RB1 on the depth chart over Rico Dowdle. In his Steelers debut on Sunday, Dowdle had two fewer carries (eight) than Warren, running for just 15 yards (1.9 yards per carry). He caught two of his five targets for six yards. The 27-year-old Warren also lost a fumble, and although the distribution of touches between him and Dowdle was pretty even, Warren was much more efficient with the ball in his hands. Going into the Week 2 matchup this weekend against the Pats, Warren should be the slight fantasy favorite at RB for the Steelers, especially in PPR leagues.",
-        "title": "Jaylen Warren Remains the RB1 on Steelers' Depth Chart",
-        "topic_id": "1405624725173968896",
-        "url": "https://www.rotoballer.com/player-news/jaylen-warren-remains-the-rb1-on-steelers-depth-chart/1931992"
-      },
-      "nfl_team": "PIT",
-      "player_id": "8228",
-      "player_name": "Jaylen Warren",
-      "position": "RB",
-      "published": 1789474582000,
-      "source": "rotoballer",
-      "source_key": "221120",
-      "story_id": "nfl|8228|rotoballer|221120|1789474582000",
-      "title": "Jaylen Warren Remains the RB1 on Steelers' Depth Chart",
-      "url": "https://www.rotoballer.com/player-news/jaylen-warren-remains-the-rb1-on-steelers-depth-chart/1931992"
-    },
-    {
-      "analysis": "Worthy was Kansas City's most targeted player on Monday night, but he wasn't able to do much with his opportunities, finishing with just three catches for 18 yards against the Broncos. He isn't expected to be a relevant fantasy option for the foreseeable future.",
-      "description": "Xavier Worthy caught 3-of-6 targets for 18 yards in Monday night's 31-10 win over the Denver Broncos.",
-      "metadata": {
-        "analysis": "Worthy was Kansas City's most targeted player on Monday night, but he wasn't able to do much with his opportunities, finishing with just three catches for 18 yards against the Broncos. He isn't expected to be a relevant fantasy option for the foreseeable future.",
-        "description": "Xavier Worthy caught 3-of-6 targets for 18 yards in Monday night's 31-10 win over the Denver Broncos.",
-        "title": "Xavier Worthy quiet in win Monday",
-        "topic_id": "1405561622080094208",
-        "url": "https://www.fantasypros.com/nfl/news/608033/xavier-worthy-quiet-win-monday.php"
-      },
-      "nfl_team": "KC",
-      "player_id": "11624",
-      "player_name": "Xavier Worthy",
-      "position": "WR",
-      "published": 1789474514083,
-      "source": "fantasy_pros",
-      "source_key": "608033",
-      "story_id": "nfl|11624|fantasy_pros|608033|1789474514083",
-      "title": "Xavier Worthy quiet in win Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608033/xavier-worthy-quiet-win-monday.php"
-    },
-    {
-      "analysis": "Walker was absolutely dominant in his debut with the Chiefs on Monday night. He totaled 191 yards and two touchdowns over the course of the game, which was especially impressive considering that he did it against one of the best defenses in the NFL in the Broncos. He looks great on his new offense and should be in line for a huge season if he can stay healthy with this increased workload.",
-      "description": "Kenneth Walker III rushed the ball 23 times for 173 yards and a touchdown while catching 3-of-6 targets for 18 yards and an additional touchdown in Monday night's 31-10 win over the Denver Broncos.",
-      "metadata": {
-        "analysis": "Walker was absolutely dominant in his debut with the Chiefs on Monday night. He totaled 191 yards and two touchdowns over the course of the game, which was especially impressive considering that he did it against one of the best defenses in the NFL in the Broncos. He looks great on his new offense and should be in line for a huge season if he can stay healthy with this increased workload.",
-        "description": "Kenneth Walker III rushed the ball 23 times for 173 yards and a touchdown while catching 3-of-6 targets for 18 yards and an additional touchdown in Monday night's 31-10 win over the Denver Broncos.",
-        "title": "Kenneth Walker III dominant in win Monday",
-        "topic_id": "1405561620276543488",
-        "url": "https://www.fantasypros.com/nfl/news/608029/kenneth-walker-iii-dominant-win-monday.php"
-      },
-      "nfl_team": "KC",
-      "player_id": "8151",
-      "player_name": "Kenneth Walker",
-      "position": "RB",
-      "published": 1789474513653,
-      "source": "fantasy_pros",
-      "source_key": "608029",
-      "story_id": "nfl|8151|fantasy_pros|608029|1789474513653",
-      "title": "Kenneth Walker III dominant in win Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608029/kenneth-walker-iii-dominant-win-monday.php"
-    },
-    {
-      "analysis": "Rice had an underwhelming game on Monday night. He was held to just two catches for 19 yards against the Broncos, but he was able to get into the end zone on one of those receptions, which helped to salvage his fantasy total. QB Patrick Mahomes II didn't look his way very much in this game, but it seems like the team wanted Mahomes to drop back as little as possible given that it was his first game back from a major knee injury. Rice will likely improve going forward, but fantasy managers should keep a close eye on his production over the next few weeks to gauge whether this poor showing was a fluke or a sign of the things to come for the veteran wideout this season.",
-      "description": "Rashee Rice caught two passes for 19 yards and a touchdown in Monday night's 31-10 win over the Denver Broncos.",
-      "metadata": {
-        "analysis": "Rice had an underwhelming game on Monday night. He was held to just two catches for 19 yards against the Broncos, but he was able to get into the end zone on one of those receptions, which helped to salvage his fantasy total. QB Patrick Mahomes II didn't look his way very much in this game, but it seems like the team wanted Mahomes to drop back as little as possible given that it was his first game back from a major knee injury. Rice will likely improve going forward, but fantasy managers should keep a close eye on his production over the next few weeks to gauge whether this poor showing was a fluke or a sign of the things to come for the veteran wideout this season.",
-        "description": "Rashee Rice caught two passes for 19 yards and a touchdown in Monday night's 31-10 win over the Denver Broncos.",
-        "title": "Rashee Rice finds end zone in win Monday",
-        "topic_id": "1405561620209434624",
-        "url": "https://www.fantasypros.com/nfl/news/608031/rashee-rice-finds-end-zone-win-monday.php"
-      },
-      "nfl_team": "KC",
-      "player_id": "10229",
-      "player_name": "Rashee Rice",
-      "position": "WR",
-      "published": 1789474513636,
-      "source": "fantasy_pros",
-      "source_key": "608031",
-      "story_id": "nfl|10229|fantasy_pros|608031|1789474513636",
-      "title": "Rashee Rice finds end zone in win Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608031/rashee-rice-finds-end-zone-win-monday.php"
-    },
-    {
-      "analysis": "Kelce wasn't very involved for much of Monday night's game, but he was able to haul in a big catch at one point that helped to leave him with a solid 71 yards on the night. Fantasy managers should be pleased with his performance in this matchup but should not expect him to be a TE1 on a week-to-week basis for the foreseeable future, especially with Kansas City seemingly wanting to operate as a run-heavy team this season.",
-      "description": "Travis Kelce caught 3-of-5 targets for 71 yards in Monday night's 31-10 win over the Denver Broncos.",
-      "metadata": {
-        "analysis": "Kelce wasn't very involved for much of Monday night's game, but he was able to haul in a big catch at one point that helped to leave him with a solid 71 yards on the night. Fantasy managers should be pleased with his performance in this matchup but should not expect him to be a TE1 on a week-to-week basis for the foreseeable future, especially with Kansas City seemingly wanting to operate as a run-heavy team this season.",
-        "description": "Travis Kelce caught 3-of-5 targets for 71 yards in Monday night's 31-10 win over the Denver Broncos.",
-        "title": "Travis Kelce solid in win Monday",
-        "topic_id": "1405561620125548544",
-        "url": "https://www.fantasypros.com/nfl/news/608032/travis-kelce-solid-win-monday.php"
-      },
-      "nfl_team": "KC",
-      "player_id": "1466",
-      "player_name": "Travis Kelce",
-      "position": "TE",
-      "published": 1789474513619,
-      "source": "fantasy_pros",
-      "source_key": "608032",
-      "story_id": "nfl|1466|fantasy_pros|608032|1789474513619",
-      "title": "Travis Kelce solid in win Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608032/travis-kelce-solid-win-monday.php"
-    },
-    {
-      "analysis": null,
-      "description": "Detroit Lions wide receiver Jameson Williams caught only four of his nine targets for 45 yards in the Week 1 season-opening win in overtime over the New Orleans Saints on Sunday, adding three dropped passes. One of Williams' drops likely would have gone for a long touchdown against New Orleans. The Detroit Free Press' Dave Birkett reports that head coach Dan Campbell said he is not concerned about Williams' drops to begin the 2026 season. The good news is that Williams led the Lions with 128 air yards and was second with a 23% target share, running a route on 37 of the team's 40 dropbacks during the game. The 25-year-old former first-rounder in 2022 from Ohio State does have a tendency to drop passes, but he is coming off back-to-back 1,000-yard seasons in Detroit with 14 combined touchdowns in 2024 and 2025 during the regular season. In a game that could easily turn into a shootout on Thursday night to kick off Week 2 action, Williams should be locked into all starting fantasy lineups as he looks for his first touchdown of the year.",
-      "metadata": {
-        "description": "Detroit Lions wide receiver Jameson Williams caught only four of his nine targets for 45 yards in the Week 1 season-opening win in overtime over the New Orleans Saints on Sunday, adding three dropped passes. One of Williams' drops likely would have gone for a long touchdown against New Orleans. The Detroit Free Press' Dave Birkett reports that head coach Dan Campbell said he is not concerned about Williams' drops to begin the 2026 season. The good news is that Williams led the Lions with 128 air yards and was second with a 23% target share, running a route on 37 of the team's 40 dropbacks during the game. The 25-year-old former first-rounder in 2022 from Ohio State does have a tendency to drop passes, but he is coming off back-to-back 1,000-yard seasons in Detroit with 14 combined touchdowns in 2024 and 2025 during the regular season. In a game that could easily turn into a shootout on Thursday night to kick off Week 2 action, Williams should be locked into all starting fantasy lineups as he looks for his first touchdown of the year.",
-        "title": "Dan Campbell \"Not Concerned\" About Jameson Williams' Drops",
-        "topic_id": "1405622208688029696",
-        "url": "https://www.rotoballer.com/player-news/dan-campbell-not-concerned-about-jameson-williams-drops/1931986"
-      },
-      "nfl_team": "DET",
-      "player_id": "8148",
-      "player_name": "Jameson Williams",
-      "position": "WR",
-      "published": 1789474208000,
-      "source": "rotoballer",
-      "source_key": "221119",
-      "story_id": "nfl|8148|rotoballer|221119|1789474208000",
-      "title": "Dan Campbell \"Not Concerned\" About Jameson Williams' Drops",
-      "url": "https://www.rotoballer.com/player-news/dan-campbell-not-concerned-about-jameson-williams-drops/1931986"
-    },
-    {
-      "analysis": "Monday night marked Mahomes' first game back after suffering a serious knee injury that ended his 2025 season prematurely. He looked good in his first game back, totaling over 200 yards and scoring three touchdowns on the night, including one impressive rushing touchdown from over ten yards out. He and Kansas City's offense as a whole are looking promising right now and may be primed for a big season if they can stay healthy this year.",
-      "description": "Patrick Mahomes II completed 15-of-27 passing attempts for 184 yards, two touchdowns, and one interception while adding 23 yards and a touchdown on the ground in Monday night's 31-10 win over the Denver Broncos.",
-      "metadata": {
-        "analysis": "Monday night marked Mahomes' first game back after suffering a serious knee injury that ended his 2025 season prematurely. He looked good in his first game back, totaling over 200 yards and scoring three touchdowns on the night, including one impressive rushing touchdown from over ten yards out. He and Kansas City's offense as a whole are looking promising right now and may be primed for a big season if they can stay healthy this year.",
-        "description": "Patrick Mahomes II completed 15-of-27 passing attempts for 184 yards, two touchdowns, and one interception while adding 23 yards and a touchdown on the ground in Monday night's 31-10 win over the Denver Broncos.",
-        "title": "Patrick Mahomes II scores three touchdowns in return game Monday",
-        "topic_id": "1405559104243535872",
-        "url": "https://www.fantasypros.com/nfl/news/608027/patrick-mahomes-ii-scores-three-touchdowns-return-game-monday.php"
-      },
-      "nfl_team": "KC",
-      "player_id": "4046",
-      "player_name": "Patrick Mahomes",
-      "position": "QB",
-      "published": 1789473913785,
-      "source": "fantasy_pros",
-      "source_key": "608027",
-      "story_id": "nfl|4046|fantasy_pros|608027|1789473913785",
-      "title": "Patrick Mahomes II scores three touchdowns in return game Monday",
-      "url": "https://www.fantasypros.com/nfl/news/608027/patrick-mahomes-ii-scores-three-touchdowns-return-game-monday.php"
-    },
-    {
-      "analysis": null,
-      "description": "New York Giants wide receiver Malik Nabers told NFL insider Josina Anderson that he did not think he was going to be cleared by the team to play in the Week 1 season-opening win over the division-rival Dallas Cowboys on Sunday night. \"I canceled the trip for my family to be here just because I thought I wasn't playing. So, I came out here all alone. I had to do it myself. I had to lock myself up in the room and fight that 1-on-1 battle,\" Nabers said. The 23-year-old was active in the 28-20 win over Dallas, but he played just over half (52%) of the offensive snaps, which came in third among the team's WRs, behind rookie Malachi Fields (72%) and Darnell Mooney (57%). Nabers finished second on the team in receiving, though, catching a healthy six passes on a team-high nine targets for 69 yards, which has to be considered a successful debut after the Giants were tight-lipped about his status right up until kickoff on Sunday night. It was his first game action since tearing his ACL early in 2025, and although he had his snaps monitored, he looked good when he was on the field and drew the attention of quarterback Jaxson Dart often. Going into Week 2 against the Los Angeles Rams on Monday Night Football, Nabers should see more action and should be a must-start in fantasy lineups.",
-      "metadata": {
-        "description": "New York Giants wide receiver Malik Nabers told NFL insider Josina Anderson that he did not think he was going to be cleared by the team to play in the Week 1 season-opening win over the division-rival Dallas Cowboys on Sunday night. \"I canceled the trip for my family to be here just because I thought I wasn't playing. So, I came out here all alone. I had to do it myself. I had to lock myself up in the room and fight that 1-on-1 battle,\" Nabers said. The 23-year-old was active in the 28-20 win over Dallas, but he played just over half (52%) of the offensive snaps, which came in third among the team's WRs, behind rookie Malachi Fields (72%) and Darnell Mooney (57%). Nabers finished second on the team in receiving, though, catching a healthy six passes on a team-high nine targets for 69 yards, which has to be considered a successful debut after the Giants were tight-lipped about his status right up until kickoff on Sunday night. It was his first game action since tearing his ACL early in 2025, and although he had his snaps monitored, he looked good when he was on the field and drew the attention of quarterback Jaxson Dart often. Going into Week 2 against the Los Angeles Rams on Monday Night Football, Nabers should see more action and should be a must-start in fantasy lineups.",
-        "title": "Malik Nabers Didn't Think he Would Play in Week 1",
-        "topic_id": "1405620949792935936",
-        "url": "https://www.rotoballer.com/player-news/malik-nabers-didnt-think-he-would-play-in-week-1/1931984"
-      },
-      "nfl_team": "NYG",
-      "player_id": "11632",
-      "player_name": "Malik Nabers",
-      "position": "WR",
-      "published": 1789473907000,
-      "source": "rotoballer",
-      "source_key": "221117",
-      "story_id": "nfl|11632|rotoballer|221117|1789473907000",
-      "title": "Malik Nabers Didn't Think he Would Play in Week 1",
-      "url": "https://www.rotoballer.com/player-news/malik-nabers-didnt-think-he-would-play-in-week-1/1931984"
-    },
-    {
-      "analysis": null,
-      "description": "Kansas City Chiefs rookie running back Emmett Johnson made a strong first impression Monday night, turning eight carries into 24 yards and catching both of his targets for another 44 yards in a 31-10 win over Denver. Kenneth Walker was the clear lead back, piling up 173 rushing yards on 23 carries, but Johnson still played 25 snaps and ran 10 routes in his NFL debut. That is the part worth chasing. The fifth-round rookie is now listed second on Kansas City's depth chart, and his two receptions included gains of 19 and 25 yards. Some of Johnson's work came after the Chiefs had taken control, so fantasy managers should not treat 10 touches as a guaranteed weekly floor. He does not need to be in Week 2 lineups against Indianapolis, either. Johnson has already shown enough as both a runner and receiver to offer more than ordinary handcuff appeal, though. He should be one of the priority running back additions in 12-team leagues, with even more value for managers rostering Walker.",
-      "metadata": {
-        "description": "Kansas City Chiefs rookie running back Emmett Johnson made a strong first impression Monday night, turning eight carries into 24 yards and catching both of his targets for another 44 yards in a 31-10 win over Denver. Kenneth Walker was the clear lead back, piling up 173 rushing yards on 23 carries, but Johnson still played 25 snaps and ran 10 routes in his NFL debut. That is the part worth chasing. The fifth-round rookie is now listed second on Kansas City's depth chart, and his two receptions included gains of 19 and 25 yards. Some of Johnson's work came after the Chiefs had taken control, so fantasy managers should not treat 10 touches as a guaranteed weekly floor. He does not need to be in Week 2 lineups against Indianapolis, either. Johnson has already shown enough as both a runner and receiver to offer more than ordinary handcuff appeal, though. He should be one of the priority running back additions in 12-team leagues, with even more value for managers rostering Walker.",
-        "title": "Emmett Johnson Has Already Earned a Bigger Fantasy Look",
-        "topic_id": "1405620949797130240",
-        "url": "https://www.rotoballer.com/player-news/emmett-johnson-has-already-earned-a-bigger-fantasy-look/1931977"
-      },
-      "nfl_team": "KC",
-      "player_id": "13337",
-      "player_name": "Emmett Johnson",
-      "position": "RB",
-      "published": 1789473677000,
-      "source": "rotoballer",
-      "source_key": "221118",
-      "story_id": "nfl|13337|rotoballer|221118|1789473677000",
-      "title": "Emmett Johnson Has Already Earned a Bigger Fantasy Look",
-      "url": "https://www.rotoballer.com/player-news/emmett-johnson-has-already-earned-a-bigger-fantasy-look/1931977"
-    },
-    {
-      "analysis": null,
-      "description": "Atlanta Falcons running back Brian Robinson handled nine carries for 31 yards in Sunday's 20-13 loss to Pittsburgh, giving fantasy managers a clear look at his role behind starter Bijan Robinson. He played 15 offensive snaps and was not targeted, so there is not enough standalone work here to trust him in Week 2 lineups. The handcuff case is much stronger. Atlanta lists Robinson second on the depth chart, and the Falcons kept only two running backs on their initial 53-man roster. He also brings far more lead-back experience than most reserves, topping 700 rushing yards in each of his first three NFL seasons. Sunday's nine carries were already a slight step up from the workload he handled as San Francisco's RB2 last year. Robinson is not going to carry much weekly value while the backfield is intact, but he would be in line for a major increase in touches if that changes. He belongs on benches in deeper leagues and remains one of the stronger contingency backs available.",
-      "metadata": {
-        "description": "Atlanta Falcons running back Brian Robinson handled nine carries for 31 yards in Sunday's 20-13 loss to Pittsburgh, giving fantasy managers a clear look at his role behind starter Bijan Robinson. He played 15 offensive snaps and was not targeted, so there is not enough standalone work here to trust him in Week 2 lineups. The handcuff case is much stronger. Atlanta lists Robinson second on the depth chart, and the Falcons kept only two running backs on their initial 53-man roster. He also brings far more lead-back experience than most reserves, topping 700 rushing yards in each of his first three NFL seasons. Sunday's nine carries were already a slight step up from the workload he handled as San Francisco's RB2 last year. Robinson is not going to carry much weekly value while the backfield is intact, but he would be in line for a major increase in touches if that changes. He belongs on benches in deeper leagues and remains one of the stronger contingency backs available.",
-        "title": "Brian Robinson Could Be One Injury Away From a Huge Role",
-        "topic_id": "1405617175087095808",
-        "url": "https://www.rotoballer.com/player-news/brian-robinson-jr-could-be-one-injury-away-from-a-huge-role/1931969"
-      },
-      "nfl_team": "ATL",
-      "player_id": "8154",
-      "player_name": "Brian Robinson",
-      "position": "RB",
-      "published": 1789473132000,
-      "source": "rotoballer",
-      "source_key": "221115",
-      "story_id": "nfl|8154|rotoballer|221115|1789473132000",
-      "title": "Brian Robinson Could Be One Injury Away From a Huge Role",
-      "url": "https://www.rotoballer.com/player-news/brian-robinson-jr-could-be-one-injury-away-from-a-huge-role/1931969"
-    },
-    {
-      "analysis": null,
-      "description": "Las Vegas Raiders quarterback Kirk Cousins completed 21-of-30 passes for 160 yards with three touchdowns and two interceptions in the team's Week 1 victory over the Miami Dolphins. Cousins did not light up the scoreboard with his passing yardage but he did find Jack Bech on a touchdown pass and found Ashton Jeanty on two touchdown strikes. The two interceptions are worrisome for fantasy managers as you never like to see that from your quarterback. Cousins should continue to get better as the season progresses and the team welcomes back tight end Brock Bowers to the lineup. He will have to continue to hold off backup Fernando Mendoza as the season progresses, but he could nonetheless be a help to fantasy teams early in the season.",
-      "metadata": {
-        "description": "Las Vegas Raiders quarterback Kirk Cousins completed 21-of-30 passes for 160 yards with three touchdowns and two interceptions in the team's Week 1 victory over the Miami Dolphins. Cousins did not light up the scoreboard with his passing yardage but he did find Jack Bech on a touchdown pass and found Ashton Jeanty on two touchdown strikes. The two interceptions are worrisome for fantasy managers as you never like to see that from your quarterback. Cousins should continue to get better as the season progresses and the team welcomes back tight end Brock Bowers to the lineup. He will have to continue to hold off backup Fernando Mendoza as the season progresses, but he could nonetheless be a help to fantasy teams early in the season.",
-        "title": "Kirk Cousins Gets Season Off To Solid Start With Three TDs",
-        "topic_id": "1405617175091290112",
-        "url": "https://www.rotoballer.com/player-news/kirk-cousins-gets-season-off-to-solid-start-with-3-tds/1931966"
-      },
-      "nfl_team": "LV",
-      "player_id": "1166",
-      "player_name": "Kirk Cousins",
-      "position": "QB",
-      "published": 1789473066000,
-      "source": "rotoballer",
-      "source_key": "221116",
-      "story_id": "nfl|1166|rotoballer|221116|1789473066000",
-      "title": "Kirk Cousins Gets Season Off To Solid Start With Three TDs",
-      "url": "https://www.rotoballer.com/player-news/kirk-cousins-gets-season-off-to-solid-start-with-3-tds/1931966"
-    },
-    {
-      "analysis": null,
-      "description": "New York Jets quarterback Geno Smith completed 19-of-24 passes for 215 yards with no touchdowns and rushed six times for seven yards in the team's Week 1 win over the Tennessee Titans. He showed good accuracy to begin the season but was not able to find a touchdown. Moving forward, Smith has some weapons in Garrett Wilson and Adonai Mitchell and once Omar Cooper, Jr. gets healthy. Smith is worth monitoring on the waiver wire as someone who can be a backup fantasy quarterback with some upside. He didn't have a huge game in Week 1, but he is capable in the Jets offense of producing fantasy relevant stats. Look for him to build off the accuracy he showed in the season opener and produce some more fruitful fantasy lines with more touchdowns up coming.",
-      "metadata": {
-        "description": "New York Jets quarterback Geno Smith completed 19-of-24 passes for 215 yards with no touchdowns and rushed six times for seven yards in the team's Week 1 win over the Tennessee Titans. He showed good accuracy to begin the season but was not able to find a touchdown. Moving forward, Smith has some weapons in Garrett Wilson and Adonai Mitchell and once Omar Cooper, Jr. gets healthy. Smith is worth monitoring on the waiver wire as someone who can be a backup fantasy quarterback with some upside. He didn't have a huge game in Week 1, but he is capable in the Jets offense of producing fantasy relevant stats. Look for him to build off the accuracy he showed in the season opener and produce some more fruitful fantasy lines with more touchdowns up coming.",
-        "title": "Geno Smith Worth Monitoring On The Waiver Wire Early In The Season",
-        "topic_id": "1405615727259533312",
-        "url": "https://www.rotoballer.com/player-news/geno-smith-worth-monitoring-on-the-waiver-wire-early-in-the-season/1931963"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "1373",
-      "player_name": "Geno Smith",
-      "position": "QB",
-      "published": 1789472527000,
-      "source": "rotoballer",
-      "source_key": "221114",
-      "story_id": "nfl|1373|rotoballer|221114|1789472527000",
-      "title": "Geno Smith Worth Monitoring On The Waiver Wire Early In The Season",
-      "url": "https://www.rotoballer.com/player-news/geno-smith-worth-monitoring-on-the-waiver-wire-early-in-the-season/1931963"
-    },
-    {
-      "analysis": null,
-      "description": "Miami Dolphins quarterback Malik Willis didn't throw a touchdown in Sunday's 27-13 loss to Las Vegas, but he still gave fantasy managers something to work with. Willis completed 15 of 27 passes for 220 yards with one interception, then added 39 yards and a touchdown on six carries. That rushing production is the reason he belongs on the Week 2 waiver radar. Miami committed to Willis as its starter with a three-year deal in March, so there is no short-term job security question hanging over him. The passing side still needs work after a 55.6% completion rate and five sacks in the opener, which keeps Willis from joining the top tier of quarterback pickups this week. His legs give him a different path to fantasy points, though, and that matters in leagues where managers are already questioning their QB1. Willis is worth adding in deeper 12-team formats and 14-team leagues ahead of Sunday's trip to San Francisco, especially as a bench option with rushing upside.",
-      "metadata": {
-        "description": "Miami Dolphins quarterback Malik Willis didn't throw a touchdown in Sunday's 27-13 loss to Las Vegas, but he still gave fantasy managers something to work with. Willis completed 15 of 27 passes for 220 yards with one interception, then added 39 yards and a touchdown on six carries. That rushing production is the reason he belongs on the Week 2 waiver radar. Miami committed to Willis as its starter with a three-year deal in March, so there is no short-term job security question hanging over him. The passing side still needs work after a 55.6% completion rate and five sacks in the opener, which keeps Willis from joining the top tier of quarterback pickups this week. His legs give him a different path to fantasy points, though, and that matters in leagues where managers are already questioning their QB1. Willis is worth adding in deeper 12-team formats and 14-team leagues ahead of Sunday's trip to San Francisco, especially as a bench option with rushing upside.",
-        "title": "Malik Willis' Rushing Makes Him an Intriguing Week 2 Add",
-        "topic_id": "1405614468179795968",
-        "url": "https://www.rotoballer.com/player-news/malik-willis-rushing-makes-him-an-intriguing-week-2-add/1931960"
-      },
-      "nfl_team": "MIA",
-      "player_id": "8161",
-      "player_name": "Malik Willis",
-      "position": "QB",
-      "published": 1789472475000,
-      "source": "rotoballer",
-      "source_key": "221113",
-      "story_id": "nfl|8161|rotoballer|221113|1789472475000",
-      "title": "Malik Willis' Rushing Makes Him an Intriguing Week 2 Add",
-      "url": "https://www.rotoballer.com/player-news/malik-willis-rushing-makes-him-an-intriguing-week-2-add/1931960"
-    },
-    {
-      "analysis": null,
-      "description": "Seattle Seahawks backup quarterback Drew Lock led the team to a Week 1 win over the New England Patriots while filling in for starter Sam Darnold, who suffered a glute injury. Lock was 16-for-22 passing for 187 yards and a touchdown in relief of Darnold. He also rushed two times for 13 yards. Darnold could be looking at a four-to-six week recovery period and Lock looks like a more than capable backup quarterback during that time. Expect the Seahawks to be a run-heavy team while Darnold is out, but with receivers like Jaxon Smith-Njigba, Lock has some potential to put up some decent stat lines. However for fantasy purposes, Lock is more of a backup quarterback and should not put up QB1 numbers during Darnold's time out.",
-      "metadata": {
-        "description": "Seattle Seahawks backup quarterback Drew Lock led the team to a Week 1 win over the New England Patriots while filling in for starter Sam Darnold, who suffered a glute injury. Lock was 16-for-22 passing for 187 yards and a touchdown in relief of Darnold. He also rushed two times for 13 yards. Darnold could be looking at a four-to-six week recovery period and Lock looks like a more than capable backup quarterback during that time. Expect the Seahawks to be a run-heavy team while Darnold is out, but with receivers like Jaxon Smith-Njigba, Lock has some potential to put up some decent stat lines. However for fantasy purposes, Lock is more of a backup quarterback and should not put up QB1 numbers during Darnold's time out.",
-        "title": "Drew Lock Can Fill In As Backup Fantasy QB",
-        "topic_id": "1405613210266062848",
-        "url": "https://www.rotoballer.com/player-news/drew-lock-can-fill-in-as-backup-fantasy-qb/1931957"
-      },
-      "nfl_team": "SEA",
-      "player_id": "5854",
-      "player_name": "Drew Lock",
-      "position": "QB",
-      "published": 1789472045000,
-      "source": "rotoballer",
-      "source_key": "221112",
-      "story_id": "nfl|5854|rotoballer|221112|1789472045000",
-      "title": "Drew Lock Can Fill In As Backup Fantasy QB",
-      "url": "https://www.rotoballer.com/player-news/drew-lock-can-fill-in-as-backup-fantasy-qb/1931957"
-    },
-    {
-      "analysis": null,
-      "description": "Minnesota Vikings tight end T.J. Hockenson opened 2026 with four catches for 36 yards and a touchdown on five targets in Sunday's 39-22 win over Green Bay. The score came on a 16-yard pass from Carson Wentz, who took over after Kyler Murray left in the first quarter with a concussion. It was a better fantasy line than Hockenson gave managers most weeks last season, when he finished with 51 catches for 438 yards and three touchdowns in 15 games. Five targets still do not suddenly make him an every-week starter, especially in an offense with Justin Jefferson, Jordan Addison and Jauan Jennings. Murray also remains in the concussion protocol, leaving Minnesota's Week 2 quarterback situation unsettled for now. Hockenson is back in the streaming conversation after finding the end zone, but this is still a deeper-league play rather than a priority claim. Managers looking for help at tight end can consider him for Sunday's trip to Chicago, particularly in 14-team formats.",
-      "metadata": {
-        "description": "Minnesota Vikings tight end T.J. Hockenson opened 2026 with four catches for 36 yards and a touchdown on five targets in Sunday's 39-22 win over Green Bay. The score came on a 16-yard pass from Carson Wentz, who took over after Kyler Murray left in the first quarter with a concussion. It was a better fantasy line than Hockenson gave managers most weeks last season, when he finished with 51 catches for 438 yards and three touchdowns in 15 games. Five targets still do not suddenly make him an every-week starter, especially in an offense with Justin Jefferson, Jordan Addison and Jauan Jennings. Murray also remains in the concussion protocol, leaving Minnesota's Week 2 quarterback situation unsettled for now. Hockenson is back in the streaming conversation after finding the end zone, but this is still a deeper-league play rather than a priority claim. Managers looking for help at tight end can consider him for Sunday's trip to Chicago, particularly in 14-team formats.",
-        "title": "T.J. Hockenson Back in Week 2 Streaming Mix",
-        "topic_id": "1405611951547039744",
-        "url": "https://www.rotoballer.com/player-news/t-j-hockenson-back-in-week-2-streaming-mix/1931955"
-      },
-      "nfl_team": "MIN",
-      "player_id": "5844",
-      "player_name": "T.J. Hockenson",
-      "position": "TE",
-      "published": 1789471805000,
-      "source": "rotoballer",
-      "source_key": "221111",
-      "story_id": "nfl|5844|rotoballer|221111|1789471805000",
-      "title": "T.J. Hockenson Back in Week 2 Streaming Mix",
-      "url": "https://www.rotoballer.com/player-news/t-j-hockenson-back-in-week-2-streaming-mix/1931955"
-    },
-    {
-      "analysis": null,
-      "description": "Tennessee Titans quarterback Cam Ward is coming off of a disappointing performance in the team's Week 1 loss to the New York Jets. Ward was 19-for-32 passing for 140 yards and a touchdown. On a positive note, Ward didn't turn the ball over, but his passing stats were just not good enough to be useful for fantasy managers. He also rushed four times for 21 yards. Ward could still improve on his passing numbers but the Week 1 start does not give much hope to fantasy managers. He is certainly not in QB1 territory and it seems as if he isn't really in the territory to be a backup quarterback on a fantasy roster at the moment. Give Ward some time to improve but right now it is best to just leave him be on the waiver wire.",
-      "metadata": {
-        "description": "Tennessee Titans quarterback Cam Ward is coming off of a disappointing performance in the team's Week 1 loss to the New York Jets. Ward was 19-for-32 passing for 140 yards and a touchdown. On a positive note, Ward didn't turn the ball over, but his passing stats were just not good enough to be useful for fantasy managers. He also rushed four times for 21 yards. Ward could still improve on his passing numbers but the Week 1 start does not give much hope to fantasy managers. He is certainly not in QB1 territory and it seems as if he isn't really in the territory to be a backup quarterback on a fantasy roster at the moment. Give Ward some time to improve but right now it is best to just leave him be on the waiver wire.",
-        "title": "Cam Ward Best Left On Waiver Wire",
-        "topic_id": "1405610693192855552",
-        "url": "https://www.rotoballer.com/player-news/cam-ward-best-left-on-waiver-wire/1931951"
-      },
-      "nfl_team": "TEN",
-      "player_id": "12522",
-      "player_name": "Cam Ward",
-      "position": "QB",
-      "published": 1789471506000,
-      "source": "rotoballer",
-      "source_key": "221110",
-      "story_id": "nfl|12522|rotoballer|221110|1789471506000",
-      "title": "Cam Ward Best Left On Waiver Wire",
-      "url": "https://www.rotoballer.com/player-news/cam-ward-best-left-on-waiver-wire/1931951"
-    },
-    {
-      "analysis": null,
-      "description": "Philadelphia Eagles running back Tank Bigsby barely touched the ball in Sunday's 24-22 win over Washington, carrying once for three yards on six offensive snaps. Will Shipley actually saw more work, logging 10 snaps and two carries, but Philadelphia's current depth chart still lists Bigsby directly behind Saquon Barkley. That is where the fantasy case starts. Bigsby showed last season that he can produce when the workload expands, rushing for 104 yards on nine carries against the Giants before finishing the year with 75 yards and a touchdown on 16 carries in Week 18. He added a 31-yard catch in that finale. None of that gives him standalone value while Barkley is healthy, and Week 1 made that clear. Bigsby is still the back positioned to benefit most if Philadelphia suddenly needs someone else to handle meaningful carries. He belongs on benches in deeper leagues and remains one of the stronger pure handcuffs available, but managers in ordinary 10- and 12-team formats do not need to treat him as a priority waiver claim.",
-      "metadata": {
-        "description": "Philadelphia Eagles running back Tank Bigsby barely touched the ball in Sunday's 24-22 win over Washington, carrying once for three yards on six offensive snaps. Will Shipley actually saw more work, logging 10 snaps and two carries, but Philadelphia's current depth chart still lists Bigsby directly behind Saquon Barkley. That is where the fantasy case starts. Bigsby showed last season that he can produce when the workload expands, rushing for 104 yards on nine carries against the Giants before finishing the year with 75 yards and a touchdown on 16 carries in Week 18. He added a 31-yard catch in that finale. None of that gives him standalone value while Barkley is healthy, and Week 1 made that clear. Bigsby is still the back positioned to benefit most if Philadelphia suddenly needs someone else to handle meaningful carries. He belongs on benches in deeper leagues and remains one of the stronger pure handcuffs available, but managers in ordinary 10- and 12-team formats do not need to treat him as a priority waiver claim.",
-        "title": "Tank Bigsby Still an Elite Handcuff After Quiet Opener",
-        "topic_id": "1405609434566107136",
-        "url": "https://www.rotoballer.com/player-news/tank-bigsby-still-an-elite-handcuff-after-quiet-opener/1931947"
-      },
-      "nfl_team": "PHI",
-      "player_id": "9225",
-      "player_name": "Tank Bigsby",
-      "position": "RB",
-      "published": 1789471145000,
-      "source": "rotoballer",
-      "source_key": "221109",
-      "story_id": "nfl|9225|rotoballer|221109|1789471145000",
-      "title": "Tank Bigsby Still an Elite Handcuff After Quiet Opener",
-      "url": "https://www.rotoballer.com/player-news/tank-bigsby-still-an-elite-handcuff-after-quiet-opener/1931947"
-    },
-    {
-      "analysis": null,
-      "description": "New York Jets wide receiver Omar Cooper Jr. (ankle) is considered week-to-week after getting some encouraging news from his MRI, according to Ian Rapoport. Cooper left Sunday's win over Tennessee in the first quarter after making his first NFL catch, a 30-yard gain, and did not return. X-rays were negative after the game, and Rapoport said the hope is that the rookie can return within the next four weeks. That still puts his Week 2 availability against Green Bay very much in doubt. New York traded back into the first round to take Cooper 30th overall in April, and he opened the season behind Garrett Wilson on the depth chart. The positive MRI news helps, but fantasy managers may still be without him for multiple games. Cooper remains worth holding in dynasty formats, while redraft managers without an IR spot may have a tougher decision if the absence stretches into October.",
-      "metadata": {
-        "description": "New York Jets wide receiver Omar Cooper Jr. (ankle) is considered week-to-week after getting some encouraging news from his MRI, according to Ian Rapoport. Cooper left Sunday's win over Tennessee in the first quarter after making his first NFL catch, a 30-yard gain, and did not return. X-rays were negative after the game, and Rapoport said the hope is that the rookie can return within the next four weeks. That still puts his Week 2 availability against Green Bay very much in doubt. New York traded back into the first round to take Cooper 30th overall in April, and he opened the season behind Garrett Wilson on the depth chart. The positive MRI news helps, but fantasy managers may still be without him for multiple games. Cooper remains worth holding in dynasty formats, while redraft managers without an IR spot may have a tougher decision if the absence stretches into October.",
-        "title": "Omar Cooper Jr. Week-to-Week With Ankle Sprain",
-        "topic_id": "1405608176019156992",
-        "url": "https://www.rotoballer.com/player-news/omar-cooper-jr-week-to-week-with-ankle-sprain/1931935"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "13276",
-      "player_name": "Omar Cooper",
-      "position": "WR",
-      "published": 1789470606000,
-      "source": "rotoballer",
-      "source_key": "221108",
-      "story_id": "nfl|13276|rotoballer|221108|1789470606000",
-      "title": "Omar Cooper Jr. Week-to-Week With Ankle Sprain",
-      "url": "https://www.rotoballer.com/player-news/omar-cooper-jr-week-to-week-with-ankle-sprain/1931935"
     }
   ]
 }

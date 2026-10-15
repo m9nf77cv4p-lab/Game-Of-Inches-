@@ -2,11 +2,21 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6410**
-- Newly captured: **0**
+- Stored stories: **6377**
+- Newly captured: **11**
 
 ## Latest news
 
+- **NEW — J.J. McCarthy** — J.J. McCarthy - Will continue to have package of plays (2026-10-15T14:28:14Z)
+  - Acquired from the Vikings on Sept. 28, McCarthy has suited up for both of the Giants' ensuing two games but didn't make his team debut until this past Sunday's 27-27 tie with the Commanders. He ended up replacing Winston under center for five snaps, gaining two yards on two carries and having two of the plays wiped out by penalties. Despite the meager returns in his package of plays last week, McCarthy looks like he'll remain a marginal part of the game plan in Week 6 against the Saints. Harbaugh has given no indication that McCarthy will take over for Winston as the team's starter anytime soon.
+- **NEW — Chuba Hubbard** — Chuba Hubbard Emerging as One of the Biggest Steals in Fantasy Football (2026-10-15T10:43:46Z)
+  - Source: https://www.rotoballer.com/player-news/chuba-hubbard-emerging-as-one-of-the-biggest-steals-in-fantasy-football/1966924
+- **NEW — Bucky Irving** — Bucky Irving in Complete Control of Lead-Back Role (2026-10-15T10:37:02Z)
+  - Source: https://www.rotoballer.com/player-news/bucky-irving-in-complete-control-of-lead-back-role/1966913
+- **NEW — Kenneth Walker** — Kenneth Walker Looks to Continue His Hot Start (2026-10-15T10:00:16Z)
+  - Source: https://www.rotoballer.com/player-news/kenneth-walker-looks-to-continue-his-hot-start/1966880
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd Regains Top Spot in Green Bay's Backfield (2026-10-15T09:44:34Z)
+  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-regains-top-spot-in-green-bays-backfield/1966850
 - **Tre' Harris** — Tre' Harris (hamstring) officially doesn't practice Wednesday (2026-10-15T04:45:12.605000Z)
   - Harris is considered week-to-week with a hamstring injury right now, so it's no surprise that he was sidelined at practice on Wednesday. Fantasy managers should look for Quentin Johnston (chest) to see a bit more work if the young wideout is sidelined this week.
   - Source: https://www.fantasypros.com/nfl/news/613967/tre-harris-hamstring-officially-doesnt-practice-wednesday.php
@@ -237,14 +247,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/ashton-jeanty-a-full-participant-in-wednesdays-practice/1966533
 - **Keenan Allen** — Keenan Allen - Rests up during Wednesday's practice (2026-10-14T20:51:56Z)
   - Allen previously missed the Colts' Week 4 win over the Commanders due to a groin issue and was listed with the same injury on the team's Week 5 report, but his absence from practice to begin Week 6 looks to be a planned off day. In his return from a one-game absence during this past Sunday's 34-22 loss to the Steelers, Allen logged just 32 of the Colts' 71 offensive snaps, but he could see an uptick in playing time this weekend against the Titans now that he's further removed from the groin injury.
-- **Tony Pollard** — Tony Pollard (rest) absent from practice Wednesday (2026-10-14T20:50:09.015000Z)
-  - Pollard was given the day off on Wednesday as a veteran rest day. He should be back at practice on Thursday and is expected to be fully healthy for Week 6, assuming nothing happens throughout the week.
-  - Source: https://www.fantasypros.com/nfl/news/613851/tony-pollard-rest-absent-from-practice-wednesday.php
-- **Brock Bowers** — Brock Bowers Listed as Limited on Wednesday (2026-10-14T20:46:15Z)
-  - Source: https://www.rotoballer.com/player-news/brock-bowers-listed-as-limited-on-wednesday/1966526
-- **Josh Downs** — Josh Downs - Shows up on Week 6 injury report (2026-10-14T20:45:15Z)
-  - Per Stephen Holder of ESPN.com, Downs was able to take part in individual drills during the portion of practice that was open to the media, which suggests that his hamstring injury isn't an overly serious one. The fact that Downs' limitations Wednesday were also attributed to rest is another positive sign that he'll be ready to play Sunday against the Titans. The wideout will still likely need to upgrade to full practice participation by Friday to avoid carrying an injury designation into the weekend.
-- **Tony Pollard** — Tony Pollard - Receives rest day to kick off Week 6 (2026-10-14T20:37:56Z)
-  - Pollard had been listed on Titans injury reports each of the last three weeks due to either a foot or ankle issue, but his absence from practice Wednesday was a result of planned maintenance rather than any sort of health concern. The 29-year-old will likely return to practice Thursday and should be ready to handle a lead role out of the backfield Sunday at Indianapolis.
-- **Chris Olave** — Chris Olave - DNP due to illness (2026-10-14T20:33:56Z)
-  - Olave is coming off a season-worst 4-46-0 line on six targets in this past Sunday's loss to the Vikings, but a stout defense and not a health concern was to blame. As Week 6 prep kicks off, his absence on a Wednesday with an illness isn't as worrisome as it would be if it occurred not long before game day, and he has two more chances to practice Thursday and Friday to prove his health ahead of Sunday's contest at the Giants.

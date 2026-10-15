@@ -3,7 +3,7 @@
 - Team: **It Hurts So Good**
 - Manager: **TJS2025**
 - Roster ID: **5**
-- Players: **24**
+- Players: **25**
 - Taxi: **1**
 - Reserve/IR: **3**
 
@@ -13,6 +13,7 @@
 - HOU — DEF — HOU
 - LV — DEF — LV
 - Jake Bates — K — DET
+- Tyler Loop — K — BAL
 - Brock Purdy — QB — SF
 - Jalen Hurts — QB — PHI
 - Shedeur Sanders — QB — CLE — taxi
