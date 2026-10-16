@@ -2,50 +2,83 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6463**
-- Newly captured: **20**
+- Stored stories: **6474**
+- Newly captured: **18**
 
 ## Latest news
 
-- **NEW — Jeremiyah Love** — Jeremiyah Love - Another DNP on Thursday (2026-10-15T23:41:57Z)
+- **NEW — Dylan Sampson** — Dylan Sampson (knee) officially limited Thursday (2026-10-16T03:30:35.503000Z)
+  - Sampson wasn't able to practice on Wednesday due to a knee issue of some kind, but he was back and able to practice in a limited fashion on Thursday. He may play in Week 6, and if that's the case, he would likely be an involved member of the committee that would be needed to replace Quinshon Judkins (ankle) if he's unable to play against the Ravens.
+  - Source: https://www.fantasypros.com/nfl/news/614144/dylan-sampson-knee-officially-limited-thursday.php
+- **NEW — Denzel Boston** — Denzel Boston (foot) limited again Thursday (2026-10-16T03:25:35.276000Z)
+  - The rookie was limited for a second-straight practice on Thursday due to a nagging foot injury that he's dealing with. It looks like he will be available to play through it in Week 6, however, and fantasy managers should feel comfortable starting him if he doesn't carry an injury designation heading into the weekend.
+  - Source: https://www.fantasypros.com/nfl/news/614139/denzel-boston-foot-limited-again-thursday.php
+- **NEW — KC Concepcion** — KC Concepcion Jr. (concussion) limited at practice Thursday (2026-10-16T03:25:35.259000Z)
+  - The rookie has been limited at both of Cleveland's practices to start the week, meaning that he has not yet fully cleared the NFL's concussion protocols. It looks like he's trending toward playing in Week 6, however, but fantasy managers still shouldn't have high expectations for him for the foreseeable future.
+  - Source: https://www.fantasypros.com/nfl/news/614140/kc-concepcion-jr-concussion-limited-practice-thursday.php
+- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane (wrist) practices in full Thursday (2026-10-16T03:20:35.443000Z)
+  - The rookie was able to log a full practice session on Thursday, which was expected. He seems to be primed to make his return to the lineup in the very near future, and we should know what his status is for Week 6 sometime within the next 24 hours or so.
+  - Source: https://www.fantasypros.com/nfl/news/614135/jakobi-lane-wrist-practices-full-thursday.php
+- **NEW — Zay Flowers** — Zay Flowers (toe) limited at practice Thursday (2026-10-16T03:10:36.028000Z)
+  - Flowers is a new addition to Baltimore's injury report. He was limited at practice on Thursday after being a full participant on Wednesday, but this may just be a load management move on the part of the team. For now, fantasy managers should expect him to play in Week 6, although his projected output is likely to be lower than usual with QB Lamar Jackson (ankle) trending towards being sidelined again.
+  - Source: https://www.fantasypros.com/nfl/news/614132/zay-flowers-toe-limited-practice-thursday.php
+- **NEW — Jaylen Waddle** — Jaylen Waddle - Back in Thursday's game (2026-10-16T02:20:56Z)
+  - Now that he's back after missing a handful of minutes of game action, Waddle will look to add to his two catches (on five targets) for 15 yards.
+- **NEW — Jalen Nailor** — Jalen Nailor - Back at practice Thursday (2026-10-16T01:24:26Z)
+  - Thursday's was Nailor's first practice since he suffered a concussion back in Week 4 versus the Chiefs. He presumably still needs to clear league concussion protocol before he'll be able to return to game action, and his status for Week 6 should become more clear when Las Vegas publishes its final injury report of the week Friday.
+- **NEW — Colby Parkinson** — Colby Parkinson - Still dealing with shoulder issue (2026-10-16T00:48:13Z)
+  - Parkinson was able to play through his shoulder injury in Week 5 versus the Bills, but it still appears to be bothering him as Sunday's game versus the Cardinals approaches. He'll now look to repeat what he did a week ago and upgrade to full participation at practice Friday and avoid carrying an injury designation into the weekend.
+- **NEW — Brock Bowers** — Brock Bowers - Full practice Thursday (2026-10-16T00:25:41Z)
+  - Bowers followed the same practice regimen last week, going from limited Wednesday to uncapped one day later. He appears to be in a maintenance program after missing the first two games of the season due to a meniscus trim, which so far has yielded a massive 24-312-3 line on 35 targets in his three appearances in 2026.
+- **NEW — DJ Moore** — DJ Moore - Still no practice (2026-10-16T00:07:57Z)
+  - In the wake of missing his first game of the season Monday at the Rams, Moore hasn't been able to practice in any capacity this week and has only one more opportunity Friday to prove the health of his shoulder before the Bills potentially make a ruling on his status for Sunday's contest in Las Vegas. Meanwhile, fellow WR Joshua Palmer (shoulder) remained limited Thursday, which leaves Khalil Shakir, Keon Coleman, Greg Dortch and Skyler Bell as the healthy options at the position on the active roster
+- **Jeremiyah Love** — Jeremiyah Love - Another DNP on Thursday (2026-10-15T23:41:57Z)
   - Love now has just one more chance to mix into drills this week Friday before the Cardinals potentially make a decision on his status for Sunday's game at the Rams. Considering head coach Mike LaFleur told Theo Mackie of The Arizona Republic on Wednesday that the team wants to "get this ankle right and do it the right way," there's a chance that means missed games and not just missed practices for Love. In the event Arizona opts to sit Love this weekend, Tyler Allgeier will stand to step in as the lead runner, with Bam Knight in reserve.
-- **NEW — George Holani** — George Holani active for Thursday Night Football (2026-10-15T23:20:33.447000Z)
+- **George Holani** — George Holani active for Thursday Night Football (2026-10-15T23:20:33.447000Z)
   - Holani was able to get back from a rib injury after missing the past several weeks. He will split the backfield workload with Emanuel Wilson, but Wilson is the better fantasy option, with Holani being primarily a third down back with little upside.
   - Source: https://www.fantasypros.com/nfl/news/614120/george-holani-active-thursday-night-football.php
-- **NEW — Jalen Milroe** — Jalen Milroe - Remains emergency QB in Week 6 (2026-10-15T23:03:17Z)
-  - With Sam Darnold and Drew Lock active, Milroe will be available only if one of those players exits the contest due to injury, illness or ejection.
-- **NEW — Tre' Harris** — Tre' Harris - Sidelined for another practice (2026-10-15T22:27:07Z)
+- **Jalen Milroe** — Jalen Milroe - Remains emergency QB in Week 6 (2026-10-15T23:03:17Z)
+  - With Sam Darnold and Drew Lock active, Milroe will be available only if both players exit the contest due to injury, illness or ejection.
+- **Tre' Harris** — Tre' Harris - Sidelined for another practice (2026-10-15T22:27:07Z)
   - The Chargers have held Harris out of their first two practices of the week, a development that comes as little surprise after head coach Jim Harbaugh described the wideout as "more week-to-week" than day-to-day coming out of this past Sunday's loss to the Broncos, per Alex Insdorf of BoltBeat.com. Unless Harris is able to make a surprise return to practice Friday, he'll likely miss his first game of the season this Sunday in Kansas City.
-- **NEW — Quentin Johnston** — Quentin Johnston - Remains limited in practice (2026-10-15T22:19:17Z)
+- **Quentin Johnston** — Quentin Johnston - Remains limited in practice (2026-10-15T22:19:17Z)
   - Johnston practiced in a limited fashion for the second day in a row, which offers hope that he'll be able to put an end to a one-game absence and return to action Sunday in Kansas City. In order to avoid carrying a designation into the weekend, however, Johnston may need to upgrade to full participation during Friday's practice.
-- **NEW — Terry McLaurin** — Terry McLaurin - Limited Thursday (2026-10-15T22:18:54Z)
+- **Terry McLaurin** — Terry McLaurin - Limited Thursday (2026-10-15T22:18:54Z)
   - McLaurin sat out the Commanders' Week 4 matchup with the Colts in London due to a hamstring injury, which capped him to one limited practice during Week 5 prep. He was able to play this past Sunday against the Giants, when he handled a 57 percent snap share and gathered in all four targets for 62 yards. With a capped session already to begin this week, McLaurin appears to be in a better spot, health-wise, than he was a week ago, while fellow WR Stefon Diggs continued to sit out due to his own hamstring issue.
-- **NEW — Ladd McConkey** — Ladd McConkey - Stays limited in practice (2026-10-15T22:17:56Z)
+- **Ladd McConkey** — Ladd McConkey - Stays limited in practice (2026-10-15T22:17:56Z)
   - After being active but not playing in this past Sunday's 23-17 loss to the Broncos, McConkey is in a better spot on the health front in Week 6. He's participated on a limited basis in the Chargers' first two practices of the week, and if he can maintain that level of activity of upgrade to full Friday, McConkey could head into Sunday's game against the Chiefs without an injury designation. Much like the other core members of a struggling Chargers offense, McConkey has gotten off to an underwhelming start to 2026 with a 12-183-1 receiving line on 17 targets through his four appearances.
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt - DNP due to groin injury (2026-10-15T22:10:45Z)
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - DNP due to groin injury (2026-10-15T22:10:45Z)
   - Croskey-Merritt logged two limited practices during Week 5 prep due to a groin issue and still suited up this past Sunday against the Giants, turning his 11 carries into 82 yards and one touchdown. As a result, his absence Thursday could be more for maintenance than anything, but his status nonetheless will be watched closely in advance of Monday's game at San Francisco.
-- **NEW — Tank Dell** — Tank Dell (knee) will not return in Week 6 (2026-10-15T22:00:33.170000Z)
+- **Tank Dell** — Tank Dell (knee) will not return in Week 6 (2026-10-15T22:00:33.170000Z)
   - There was some thought that Dell would finally make his long-awaited return for the Texans on Sunday. Instead, even after practicing in full on Wednesday, he will remain behind as the team travels to London. Dell seems likely to play in Week 7 against the Giants. 
   - Source: https://www.fantasypros.com/nfl/news/614119/tank-dell-knee-will-not-return-week-6.php
-- **NEW — David Montgomery** — David Montgomery (groin) out for Week 6 (2026-10-15T21:55:32.906000Z)
+- **NEW — Mark Andrews** — Mark Andrews Battling Declining Efficiency So Far in 2026 (2026-10-15T21:57:12Z)
+  - Source: https://www.rotoballer.com/player-news/mark-andrews-battling-declining-efficiency-so-far-in-2026/1967399
+- **David Montgomery** — David Montgomery (groin) out for Week 6 (2026-10-15T21:55:32.906000Z)
   - As expected, Montgomery will not play in Sunday's divisional matchup in London. The veteran back has not practiced this week due to a groin injury and will cede the lead RB role to Woody Marks.
   - Source: https://www.fantasypros.com/nfl/news/614118/david-montgomery-groin-out-week-6.php
-- **NEW — Will Shipley** — Will Shipley - DNP on Thursday (2026-10-15T21:53:22Z)
+- **Will Shipley** — Will Shipley - DNP on Thursday (2026-10-15T21:53:22Z)
   - Considering Shipley suffered a partial tear of his plantar fascia during this past Sunday's defeat to the Jaguars in London and is facing a multi-week absence, his lack of practice reps so far this week is expected. With No. 1 RB Saquon Barkley (hamstring) also not practicing Wednesday or Thursday, the Eagles may be preparing to deploy the duo of Dameon Pierce and Carson Steele out of their backfield Sunday against the Panthers.
-- **NEW — DJ Moore** — DJ Moore - Not practicing again (2026-10-15T21:50:40Z)
+- **DJ Moore** — DJ Moore - Not practicing again (2026-10-15T21:50:40Z)
   - While Moore was in attendance for practice, he was sporting a red no-contact jersey and didn't take part in stretching or drills with his healthy teammates before heading inside to presumably get in some individual work, per Matt Parrino of The Syracuse Post-Standard. After sitting out Monday's overtime win over the Rams and having gone down as a non-participant on the Bills' first two Week 6 practice report, Moore looks to be trending toward missing another game Sunday in Las Vegas.
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks - Doesn't practice Thursday (2026-10-15T21:46:29Z)
+- **Dontayvion Wicks** — Dontayvion Wicks - Doesn't practice Thursday (2026-10-15T21:46:29Z)
   - Wicks was limited on the final two Week 5 injury reports due to a hamstring issue, but he didn't carry a designation into the weekend and suited up for this past Sunday's loss to the Jaguars in London, earning an 84 percent snap share and hauling in five of eight targets for 63 yards. He opened this week as limited Wednesday, so his downgrade one day later may be cause for concern. Friday's practice report could unveil if Wicks is in danger of missing Sunday's contest against the Panthers.
-- **NEW — Tank Dell** — Tank Dell - Won't debut in Week 6 (2026-10-15T21:43:09Z)
+- **Tank Dell** — Tank Dell - Won't debut in Week 6 (2026-10-15T21:43:09Z)
   - Currently in the midst of his second week of practicing with the Texans after having his 21-day evaluation window opened Oct. 7, Dell has taken a notable step forward in his recovery from a severe left knee injury by turning in back-to-back full sessions Wednesday and Thursday. Though the Texans won't bring him back from injured reserve for the London game, Dell stands a strong chance of being activated ahead of the team's Oct. 25 matchup with the Giants and seeing his first game action since December 2024 if he can continue to practice without restrictions next week.
 - **DeVonta Smith** — DeVonta Smith - Upgrades to limited Thursday (2026-10-15T21:39:35Z)
   - Before he mixed back into drills Thursday, Smith hadn't practiced since logging all 50 offensive snaps during a Week 3 loss at Chicago. On a positive note, he's been working on the side since last Thursday, and his upgrade from DNP this Wednesday to limited one day later gives him a reasonable to chance to return to action Sunday versus the Panthers. Friday's injury report will reveal Smith's odds to play this weekend, and if he's able to do so, he'll be on the receiving end of passes from QB Tanner McKee after Jalen Hurts was ruled out for Week 6 action due to a blood clot.
+- **NEW — Colston Loveland** — Colston Loveland Remains Tough for Fantasy Managers to Rely on (2026-10-15T21:37:10Z)
+  - Source: https://www.rotoballer.com/player-news/colston-loveland-remains-tough-for-fantasy-managers-to-rely-on/1967395
 - **David Montgomery** — David Montgomery - Ruled out for London game (2026-10-15T21:34:50Z)
   - After making an early exit from the Texans' Week 5 win over the Titans due to the groin injury, Montgomery was unable to practice in any capacity Wednesday or Thursday. He'll stay behind in Houston while the Texans make the trip overseas and will set his sights on a return to action Week 7 against the Giants. With Montgomery set to miss his first game of the season, Woody Marks should be in store for a sizable workload once again after handling 19 touches and playing 56 of 66 offensive snaps in Week 5.
 - **Saquon Barkley** — Saquon Barkley - Remains sidelined Thursday (2026-10-15T21:32:02Z)
   - Barkley's lack of activity so far this week isn't a surprise considering he hasn't been present for either of the Eagles' two practices. He thus has one more opportunity to attempt to mix into drills Friday, at which point the team may make a ruling on his status ahead of Sunday's game against the Panthers. If Barkley and fellow RB Will Shipley (foot) are sidelined this weekend, Dameon Pierce is the top candidate to pace Philadelphia's backfield, with Carson Steele also on hand for reps that linger.
+- **NEW — Brock Bowers** — Brock Bowers Upgraded to Full Practice Participation on Thursday (2026-10-15T21:25:15Z)
+  - Source: https://www.rotoballer.com/player-news/brock-bowers-upgraded-to-full-practice-participation-on-thursday/1967389
 - **David Montgomery** — David Montgomery - Remains sidelined for practice (2026-10-15T21:20:57Z)
   - Since being labeled week-to-week by head coach DeMeco Ryans on Monday, Montgomery has sat out the Texans' ensuing two practices. Unless he's able to take part in Friday's practice in some fashion, Montgomery will likely be officially ruled out for Sunday's game against the Jaguars in London. Woody Marks looks poised to handle a workhorse role out of the backfield Week 6 with Montgomery expected to be inactive for the first time this season.
+- **NEW — Ashton Jeanty** — Ashton Jeanty Practices in Full on Thursday (2026-10-15T21:18:13Z)
+  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-practices-in-full-on-thursday/1967384
 - **Rico Dowdle** — Rico Dowdle (toe) upgraded to full participant Thursday (2026-10-15T21:15:32.729000Z)
   - The veteran running back was able to practice in a full capacity on Thursday after being limited by a toe injury on Wednesday. He should be available to play in Week 6 and will likely be an involved RB2 for the Steelers behind Jaylen Warren moving forward.
   - Source: https://www.fantasypros.com/nfl/news/614116/rico-dowdle-toe-upgraded-to-full-participant-thursday.php
@@ -56,6 +89,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/614110/rashee-rice-hamstring-sits-out-thursdays-practice.php
 - **KC Concepcion** — KC Concepcion - Remains limited in practice (2026-10-15T21:09:13Z)
   - While Concepcion's ability to practice in some capacity for a second straight day is an encouraging sign, he still has a couple of hurdles to clear in order to play Sunday versus the Ravens. In addition to upgrading to full practice participation Friday, Concepcion will need to be cleared by an independent neurologist no later than Saturday before he's removed from concussion protocol. If the rookie wideout can't play against Baltimore, Jerry Jeudy and Isaiah Bond would be in store for more reps behind Denzel Boston (foot), who was also limited in practice Thursday.
+- **NEW — DJ Moore** — DJ Moore Misses Another Practice on Thursday (2026-10-15T21:09:12Z)
+  - Source: https://www.rotoballer.com/player-news/dj-moore-misses-another-practice-on-thursday/1967377
 - **Tyjae Spears** — Tyjae Spears (knee) downgraded to non-participant Thursday (2026-10-15T21:05:32.286000Z)
   - Spears was limited at Wednesday's practice due to a knee issue, but he was downgraded to a non-participant on Thursday. It's still unclear if this was simply a load management move on the part of the team or if this is a real issue for him, so fantasy managers should keep close tabs on his status heading into the weekend and expect more work for Tony Pollard if Spears is ruled out for Week 6.
   - Source: https://www.fantasypros.com/nfl/news/614109/tyjae-spears-knee-downgraded-to-non-participant-thursday.php
@@ -131,7 +166,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/614080/jalen-coker-quad-practices-full-again-thursday.php
 - **Demarcus Robinson** — Demarcus Robinson - Likely to return after Week 8 bye (2026-10-15T19:50:05Z)
   - Robinson is on the mend from a right high-ankle sprain, which he sustained in the 49ers' Week 2 win over the Dolphins. The 49ers have a dire need for reinforcements at receiver with Deebo Samuel (hamstring) out through the bye and three other wideouts currently on IR, but unless he has his 21-day window opened next week and looks better than expected in practice, Robinson doesn't look like he'll be able to help the team until its Week 9 game versus the Raiders.
-- **NEW — Jalen Hurts** — Jalen Hurts Facing 6-12 Week Recovery Period? (2026-10-15T19:49:12Z)
+- **Jalen Hurts** — Jalen Hurts Facing 6-12 Week Recovery Period? (2026-10-15T19:49:12Z)
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-facing-6-12-week-recovery-period/1967335
 - **Darren Waller** — Darren Waller - Limited again Thursday (2026-10-15T19:42:55Z)
   - Waller has registered back-to-back limited practice sessions coming out of Carolina's Week 5 bye. The veteran TE could avoid an injury designation for Sunday's game against the Eagles but ramping up his participation level to full Friday. Tommy Tremble (ribs) has also opened Week 6 prep with consecutive limited practices, but both Waller and Tremble seem likely to suit up Sunday, as neither has missed a game this season.
@@ -156,7 +191,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **TreVeyon Henderson** — TreVeyon Henderson (ankle) practices Thursday  (2026-10-15T18:40:32.235000Z)
   - It is noteworthy with Henderson dealing with a high-ankle sprain. He was also limited in practice on Wednesday. His status will need to be monitored in practice on Friday. 
   - Source: https://www.fantasypros.com/nfl/news/614064/treveyon-henderson-ankle-practices-thursday.php
-- **NEW — DeVonta Smith** — Devonta Smith Returns to Limited Practice on Thursday (2026-10-15T18:31:13Z)
+- **DeVonta Smith** — Devonta Smith Returns to Limited Practice on Thursday (2026-10-15T18:31:13Z)
   - Source: https://www.rotoballer.com/player-news/devonta-smith-returns-to-limited-practice-on-thursday/1967282
 - **Quinshon Judkins** — Quinshon Judkins (ankle) misses practice Thursday  (2026-10-15T18:30:31.391000Z)
   - Judkins will likely need to practice in some capacity on Friday to have a chance to play on Sunday against the Ravens. 
@@ -176,11 +211,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Omar Cooper** — Omar Cooper Jr. (ankle) practices Thursday  (2026-10-15T18:15:31.309000Z)
   - Cooper was designated to return to practice on Wednesday where he was limited. It is unclear if he has a chance to return on Sunday. 
   - Source: https://www.fantasypros.com/nfl/news/614052/omar-cooper-jr-ankle-practices-thursday.php
-- **NEW — Tank Dell** — Tank Dell Will Remain on Injured Reserve in Week 6 (2026-10-15T18:15:15Z)
+- **Tank Dell** — Tank Dell Will Remain on Injured Reserve in Week 6 (2026-10-15T18:15:15Z)
   - Source: https://www.rotoballer.com/player-news/tank-dell-will-remain-on-injured-reserve-in-week-6/1967273
 - **Josh Jacobs** — Josh Jacobs - Files civil suit Wednesday (2026-10-15T18:15:13Z)
   - After being arrested following the domestic incident, Jacobs appeared in court Sept. 10 and pleaded no contest to charges of battery and criminal destruction of property. He was ultimately convicted of battery and fined $1,000, while agreeing to a deferred judgment agreement on a charge of damage to property. Later that month, a judge lifted a temporary seal of the records pertaining to the case and turned the decision whether to release part or all of the records over to the Hobart/Lawrence Police Department. Jacobs has appealed the release of those records, which could further delay the NFL's efforts to wrap up its investigation into the running back and levy a potential suspension. So long as the NFL's investigation is ongoing, Jacobs will remain on the commissioner's exempt list.
-- **NEW — Josh Jacobs** — Josh Jacobs and Accuser File to Block Release of Evidence (2026-10-15T18:07:10Z)
+- **Josh Jacobs** — Josh Jacobs and Accuser File to Block Release of Evidence (2026-10-15T18:07:10Z)
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-and-accuser-file-to-block-release-of-evidence/1967267
 - **TreVeyon Henderson** — TreVeyon Henderson - Set to practice in pads Thursday (2026-10-15T18:04:07Z)
   - Henderson was a limited participant at Wednesday's practice, and he looks poised to practice in some capacity again Thursday, though the extent of his participation remains to bee seen. After initial pessimism following his exit from the Week 5 win over the Raiders, Henderson seemingly has a chance to suit up Sunday against the Jets without missing any additional game action.
@@ -190,12 +225,12 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt not seen practicing Thursday  (2026-10-15T18:00:50.904000Z)
   - It is unclear what the injury is for Croskey-Merritt. He'll need to be monitored on the official injury report. 
   - Source: https://www.fantasypros.com/nfl/news/614048/jacory-croskey-merritt-not-seen-practicing-thursday.php
-- **NEW — CeeDee Lamb** — CeeDee Lamb Not Expected to Have Any Limitations in Week 6 (2026-10-15T17:53:14Z)
+- **CeeDee Lamb** — CeeDee Lamb Not Expected to Have Any Limitations in Week 6 (2026-10-15T17:53:14Z)
   - Source: https://www.rotoballer.com/player-news/ceedee-lamb-not-expected-to-have-any-limitations-in-week-6/1967259
 - **Tanner McKee** — Tanner McKee expected to start for Eagles Sunday (2026-10-15T17:50:51.042000Z)
   - Jalen Hurts was ruled out due to a blood clot. The Eagles released Andy Dalton, leaving McKee as the likely starter. 
   - Source: https://www.fantasypros.com/nfl/news/614046/tanner-mckee-expected-to-start-eagles-sunday.php
-- **NEW — Deebo Samuel** — Deebo Samuel Sr. Not Seen at Practice on Thursday (2026-10-15T17:47:00Z)
+- **Deebo Samuel** — Deebo Samuel Sr. Not Seen at Practice on Thursday (2026-10-15T17:47:00Z)
   - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-not-seen-at-practice-on-thursday/1967252
 - **A.J. Brown** — A.J. Brown - Week 6 status "up in the air" (2026-10-15T17:43:40Z)
   - Brown practiced Wednesday after having his 21-day window to return from injured reserve opened. "I felt pretty good," Brown said regarding Wednesday's practice, during which he was listed as limited. "It's one step at a time." The flashy offseason acquisition has missed the past four games due to a sprained ankle sustained in the second half of New England's season-opening loss to Seattle. A loss to the Jets on Sunday would drop the Patriots to third in the AFC East standings, but New England's passing game has been trending in the right direction despite Brown's ongoing absence, as Drake Maye has a 7:1 TD:INT over the past two games after posting a 1:6 ratio through Week 3.
@@ -206,38 +241,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/lamar-jackson-still-not-practicing-on-thursday/1967250
 - **Zay Flowers** — Zay Flowers Added to Week 6 Injury Report With Toe Injury (2026-10-15T17:34:51Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-added-to-week-6-injury-report-with-toe-injury/1967245
-- **Quinshon Judkins** — Quinshon Judkins - No activity in open portion Thursday (2026-10-15T17:32:14Z)
-  - Judkins was listed as a non-participant Wednesday, and while his presence Thursday is encouraging, he may go down as a non-participant again unless he ramps up his activity level behind closed doors. The Browns placed Raheim Sanders (hip) on injured reserve Tuesday and opened Dylan Sampson's 21-day window to return from IR on Wednesday. If neither Judkins or Sampson are available Sunday against the Ravens, Jaleel McLaughlin and Audric Estime would split Cleveland's backfield duties in a rehash of the 2024 Broncos backfield.
-- **Tyjae Spears** — Tyjae Spears Downgraded to DNP on Thursday With Knee Injury (2026-10-15T17:30:14Z)
-  - Source: https://www.rotoballer.com/player-news/tyjae-spears-downgraded-to-dnp-on-thursday-with-knee-injury/1967243
-- **Tanner McKee** — Tanner McKee - Primed for start Week 6 (2026-10-15T17:29:26Z)
-  - While the Eagles could look to re-sign the recently released Andy Dalton to give the quarterback room another experienced option in Hurts' absence, McKee looks poised to draw the start after moving ahead of Dalton on the depth chart prior to Week 4. Hurts' availability beyond Week 6 is in flux while the Eagles determine the appropriate course for his treatment, so McKee could be headed for a multi-game run as the team's starter. A 2023 sixth-round pick, McKee has appeared in just six games (two starts) during his four-year career, completing 54 of 88 pass attempts (61.4 percent) for 597 yards (6.8 YPA) and a 5:1 TD:INT. Assuming he starts, McKee may have few weapons at his disposal, as running back Saquon Barkley (hamstring) and wideout DeVonta Smith (hamstring) were absent from practice Wednesday and could be tracking toward sitting out this weekend.
-- **Lamar Jackson** — Lamar Jackson - Another absence Thursday (2026-10-15T17:24:36Z)
-  - Head coach Jesse Minter has stated that Jackson doesn't necessarily need to practice in order to take the field Sunday against the Browns, but a return to practice in any capacity Friday certainly wouldn't hurt considering Jackson hasn't practiced or played since the first half of Baltimore's Week 4 win over the Titans. Tyler Huntley finished out that victory and guided the Ravens to an overtime win over the Falcons in Week 5. Huntley would make a second consecutive start in Sunday's clash between AFC North rivals if Jackson is ultimately unable to play.
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Not spotted Thursday (2026-10-15T17:21:51Z)
-  - Croskey-Merritt has been listed on the injury report at various points this season due to a groin issue, but he's still mustered 67 carries and five catches (on seven targets) for 279 yards from scrimmage and two rushing touchdowns in five appearances. The Commanders are kicking off Week 6 prep Thursday in advance of a Monday game at San Francisco, but the reason for Croskey-Merritt's potential absence isn't yet known.
-- **Lamar Jackson** — Lamar Jackson (ankle) not at practice Thursday  (2026-10-15T17:15:51.317000Z)
-  - Jackson will likely have to practice in some fashion on Friday to have a chance to return this week. Otherwise, Tyler Huntley will be in line to see another start. 
-  - Source: https://www.fantasypros.com/nfl/news/614040/lamar-jackson-ankle-not-practice-thursday.php
-- **Jalen Hurts** — Jalen Hurts - Out Week 6 due to blood clot on calf (2026-10-15T17:11:45Z)
-  - According to a statement from the team, Hurts requested treatment for his calf following practice Oct. 8, a few days after he had been cleated in the leg during the team's Week 4 loss to the Rams. Hurts underwent an initial ultrasound Saturday following the Eagles' flight to London, with imaging revealing the superficial blood clot. After the results of the ultrasound were reviewed, doctors determined that Hurts could safely play in the Eagles' eventual 19-17 loss to the Jaguars. However, after practicing fully Wednesday to kick off Week 6 prep, the quarterback was sent in for a follow-up ultrasound, which showed movement in the blood clot. As a result, the Eagles have elected to hold Hurts out of action for at least one game, with backup Tanner McKee now primed to start against the Panthers. Since the Eagles are still in the process of determining the appropriate course of treatment for Hurts, his status beyond Week 6 is uncertain at the moment.
-- **Breece Hall** — Breece Hall (quad) working with trainers on side field (2026-10-15T17:05:50.970000Z)
-  - It is a step in the right direction for Hall. He remains week-to-week. 
-  - Source: https://www.fantasypros.com/nfl/news/614035/breece-hall-quad-working-with-trainers-on-side-field.php
-- **Jalen Hurts** — Jalen Hurts ruled out Sunday due to superficial blood clot (2026-10-15T17:05:50.925000Z)
-  - Per the Eagles, Hurts underwent an ultrasound that revealed a superficial blood clot. "On Wednesday night, a follow-up ultrasound revealed movement in the small blood clot." It will likely be Tanner McKee starting for the Eagles. 
-  - Source: https://www.fantasypros.com/nfl/news/614038/jalen-hurts-ruled-out-sunday-due-to-superficial-blood-clot.php
-- **Breece Hall** — Breece Hall - Not practicing, but working off to side (2026-10-15T16:59:50Z)
-  - Though he'll go down as a non-participant in practice once again Thursday since he isn't taking part in individual or team drills, Hall is at least showing some incremental signs of progress in his recovery from a quadriceps injury he sustained during the Jets' Week 3 loss to the Lions. He has missed the team's last two games, with Braelon Allen stepping into the lead role at running back. With head coach Aaron Glenn labeling him week-to-week Wednesday, Hall is expected to remain out for Sunday's game against the Patriots, setting up Allen for another turn as the main option out of the New York backfield.
-- **Chris Olave** — Chris Olave Misses Second Straight Practice on Thursday (2026-10-15T16:59:13Z)
-  - Source: https://www.rotoballer.com/player-news/chris-olave-misses-second-straight-practice-on-thursday/1967234
-- **Stefon Diggs** — Stefon Diggs (hamstring) not practicing Thursday  (2026-10-15T16:55:12.875000Z)
-  - Diggs will miss practice again to start the week. His status will need to be monitored the couple of days ahead of Monday's game against the 49ers. 
-  - Source: https://www.fantasypros.com/nfl/news/614032/stefon-diggs-hamstring-not-practicing-thursday.php
-- **Kyle Monangai** — Kyle Monangai Misses Another Practice on Thursday (2026-10-15T16:50:13Z)
-  - Source: https://www.rotoballer.com/player-news/kyle-monangai-misses-another-practice-on-thursday/1967228
-- **Stefon Diggs** — Stefon Diggs - Not ready to practice Thursday (2026-10-15T16:49:36Z)
-  - Diggs sat out Washington's Week 5 tie against the Giants, and he won't participate in the Commanders' first practice ahead of Monday's Week 6 matchup against the 49ers. The veteran wide receiver gets the benefit of an extra day to recover from his hamstring injury, but his fantasy managers could face a difficult decision with few replacements available if Diggs' availability isn't clarified one way or another by the time Washington releases game statuses Saturday.
-- **Jalon Daniels** — Jalon Daniels expected to start in Week 6 (2026-10-15T16:45:12.910000Z)
-  - Baker Mayfield has yet to resume throwing. Daniels will remain a QB2 play for fantasy managers. 
-  - Source: https://www.fantasypros.com/nfl/news/614026/jalon-daniels-expected-to-start-week-6.php
