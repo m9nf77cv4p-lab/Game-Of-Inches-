@@ -20715,12 +20715,12 @@
       ],
       "first_name": "Roman",
       "full_name": "Roman Wilson",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Wilson",
       "nfl_team": "PIT",
       "player_id": "11630",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 2
     },
     "11631": {
@@ -21661,7 +21661,7 @@
       ],
       "first_name": "Omar",
       "full_name": "Omar Cooper",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "last_name": "Cooper",
       "nfl_team": "NYJ",
       "player_id": "13276",
@@ -21796,12 +21796,12 @@
       ],
       "first_name": "Ja'Kobi",
       "full_name": "Ja'Kobi Lane",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "last_name": "Lane",
       "nfl_team": "BAL",
       "player_id": "13293",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "years_exp": 0
     },
     "13294": {
@@ -22951,7 +22951,7 @@
       ],
       "first_name": "A.J.",
       "full_name": "A.J. Brown",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "last_name": "Brown",
       "nfl_team": "NE",
       "player_id": "5859",
@@ -23011,7 +23011,7 @@
       ],
       "first_name": "Terry",
       "full_name": "Terry McLaurin",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "McLaurin",
       "nfl_team": "WAS",
       "player_id": "5927",
@@ -23311,12 +23311,12 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen Hurts",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Hurts",
       "nfl_team": "PHI",
       "player_id": "6904",
       "position": "QB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 6
     },
     "7002": {
@@ -23776,7 +23776,7 @@
       ],
       "first_name": "Rachaad",
       "full_name": "Rachaad White",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "White",
       "nfl_team": "WAS",
       "player_id": "8136",
@@ -24752,8 +24752,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-17T18:35:26Z",
-    "source_fingerprint": "6a841d81b588c0ac973666b0f485018409f684ff698e9bd7ed8d371424307872"
+    "last_changed_at": "2026-10-17T20:55:52Z",
+    "source_fingerprint": "b737015008c2d7e33fe1c6bcec2da4b88eb48bc4ce06c558508b111176f7e5db"
   },
   "teams": [
     {

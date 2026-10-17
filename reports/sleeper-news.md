@@ -2,46 +2,66 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6592**
-- Newly captured: **27**
+- Stored stories: **6566**
+- Newly captured: **11**
 
 ## Latest news
 
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane (wrist) activated off of IR, will play against Cleveland (2026-10-17T20:50:48.331000Z)
+- **NEW — Kaelon Black** — Kaelon Black - Misses practice Saturday, will play Monday (2026-10-17T21:51:08Z)
+  - Since Black wasn't given an injury designation, his absence from practice Saturday isn't expected to impact his availability Monday. The rookie should thus continue to work as the 49ers' No.2 running back behind Christian McCaffrey. That role hasn't yielded much fruit for Black of late, however, as he's totaled fewer than 20 yards in each of his past three contests.
+- **NEW — Mike Evans** — Mike Evans - Questionable for MNF (2026-10-17T20:58:11Z)
+  - Evans worked to the side during each of the 49ers' last two practices while nursing injuries to his ribs and Achilles. That was enough for him to draw the questionable tag for MNF, and there's also a chance that Christian Kirk (calf) will be activated from injured reserve before the game, per Nick Wagoner of ESPN.com. Deebo Samuel (hamstring) has already been ruled out, so Brandin Cooks, Jacob Cowing, Jordan Watkins and tight end George Kittle would all carry heaver workloads in the passing game if Evans joins Samuel on the sidelines for Week 6.
+- **Ja'Kobi Lane** — Ja'Kobi Lane (wrist) activated off of IR, will play against Cleveland (2026-10-17T20:50:48.331000Z)
   - Lane has been out since fracturing his wrist in Week 1, so it will be interesting to see what his snap counts and route shares look like after the IR stint. The team praised him all offseason and focused on him during his brief playing time in Week 1, so hopefully he will be able to find himself a decent role as the WR2 of the offense.
   - Source: https://www.fantasypros.com/nfl/news/614435/jakobi-lane.php
-- **NEW — Caleb Williams** — Caleb Williams (hamstring) starting for the Bears Sunday (2026-10-17T20:40:48.422000Z)
+- **Caleb Williams** — Caleb Williams (hamstring) starting for the Bears Sunday (2026-10-17T20:40:48.422000Z)
   - Williams was initially questionable to play, but the Bears are now planning on getting him back in the lineup after a week of practice where he took starter reps. It will be interesting to see Caleb in a more "regular" game and how it affects the pass catchers, who have only played with Caleb in one normal game, and even that "normal" game saw copious amounts of production from the running backs. 
   - Source: https://www.fantasypros.com/nfl/news/614434/caleb-williams-hamstring-starting-bears-sunday.php
-- **NEW — Caleb Williams** — Caleb Williams - Expected to start Sunday (2026-10-17T20:37:16Z)
+- **Caleb Williams** — Caleb Williams - Expected to start Sunday (2026-10-17T20:37:16Z)
   - Williams is still listed as questionable for Sunday's game, and his status may not be officially announced until the Bears release their list of inactive players about 90 minutes before the 1:00 p.m. ET kickoff. However, it looks like the third-year quarterback will be back on the field after missing the Bears' last three games due to a torn right hamstring that he suffered in Week 2 against the Vikings. Given Williams' return, Tyson Bagent will likely serve as the Bears' backup while Case Keenum moves down to the QB3 role.
-- **NEW — Jalen Hurts** — Jalen Hurts (blood clot) placed on IR (2026-10-17T20:35:48.600000Z)
+- **Jalen Hurts** — Jalen Hurts (blood clot) placed on IR (2026-10-17T20:35:48.600000Z)
   - At first the Eagles were not going to place him on IR, but after further consultations, they have decided to make that move. Tanner McKee will start in his place for at least the next four games, with Carolina on tap tomorrow. All the pass catchers will likely see a downtick in production, but should still be usable if McKee is halfway decent.
   - Source: https://www.fantasypros.com/nfl/news/614433/jalen-hurts-blood-clot-placed-on-ir.php
-- **NEW — Omar Cooper** — Omar Cooper - Activated from IR (2026-10-17T20:18:46Z)
+- **Omar Cooper** — Omar Cooper - Activated from IR (2026-10-17T20:18:46Z)
   - Cooper is still listed as questionable for Sunday's game against the Patriots, but he's likely to be cleared to play given his activation from IR. The rookie fourth-rounder has missed the Jets' last four games due to an ankle injury, but he could be thrust into a prominent role offensively given the absence of Adonai Mitchell (finger).
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane - Removed from IR (2026-10-17T20:16:45Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane - Removed from IR (2026-10-17T20:16:45Z)
   - Although Lane is still listed as questionable, his activation from IR puts the rookie wide receiver on track to return for Sunday's game against the Browns. Lane was one of the Ravens' standout players during training camp, so he could be featured prominently in the offense alongside Zay Flowers and Rashod Bateman in his return.
-- **NEW — A.J. Brown** — A.J. Brown - Activated from injured reserve (2026-10-17T20:12:58Z)
+- **A.J. Brown** — A.J. Brown - Activated from injured reserve (2026-10-17T20:12:58Z)
   - Even though he's still questionable, the fact that Brown was activated from IR indicates that the veteran wide receiver will be on the field for Sunday's AFC East showdown. Brown has fully recovered from a right ankle sprain that he sustained in Week 1 against the Seahawks, and he will serve as Drake Maye's top target in the passing game.
-- **NEW — Jalen Hurts** — Jalen Hurts - Placed on IR, out indefinitely (2026-10-17T20:02:26Z)
+- **Jalen Hurts** — Jalen Hurts - Placed on IR, out indefinitely (2026-10-17T20:02:26Z)
   - After prior reports indicated that a stint on injured reserve wasn't necessary, Hurts will now go on IR after multiple consultations with doctors. He'll be required to miss at least four games, and while Week 11 against the Steelers on Sunday, Nov. 22 is the earliest he can return, Schefter notes that Hurts' move to IR has the veteran quarterback sidelined "indefinitely." Tanner McKee will be the Eagles' starting QB for as long as Hurts is out of action, and rookie fifth-rounder Cole Payton will step into the Eagles' backup role.
-- **NEW — Mike Evans** — Mike Evans - Still limited to side work (2026-10-17T19:52:11Z)
+- **Mike Evans** — Mike Evans - Still limited to side work (2026-10-17T19:52:11Z)
   - Evans been working to side for each of the 49ers' last two practices while recovering from rib and Achilles injuries, the latter of which is a new issue for the veteran wide receiver. The 49ers will announce injury designations following Saturday's practice, at which point Evans' status for Monday night's game against the Commanders will be more clear. Deebo Samuel (hamstring) has already been ruled out, so if Evans is also sidelined, then the 49ers' top wideouts would be Brandin Cooks, Jacob Cowing and Jordan Watkins.
-- **NEW — Rachaad White** — Rachaad White - Clear for Week 6 (2026-10-17T19:29:41Z)
+- **Rachaad White** — Rachaad White - Clear for Week 6 (2026-10-17T19:29:41Z)
   - Despite ending Week 6 prep with back-to-back limited practices due to a shoulder injury, White will be available to the Commanders backfield Monday along with Austin Ekeler (chest). With Jacory Croskey-Merritt (groin) ruled out, White and Ekeler are the candidates to lead Washington's backfield this week. On the season, White had 39 touches for 171 yards from scrimmage and one receiving TD in four appearances.
-- **NEW — Roman Wilson** — Roman Wilson - Lands on injured reserve (2026-10-17T19:27:09Z)
+- **Roman Wilson** — Roman Wilson - Lands on injured reserve (2026-10-17T19:27:09Z)
   - Wilson already had been ruled out for Sunday's game against Tampa Bay, but the move to IR means that the third-year pro will be required to miss at least four games. Since the Steelers are on a bye for Week 9, the earliest that Wilson can return is Week 11 against the Eagles on Sunday, Nov. 22. He joins Michael Pittman (foot) on injured reserve, which leaves rookie second-rounder Germie Bernard as the Steelers' WR2 behind DK Metcalf for the next few weeks.
-- **NEW — Stefon Diggs** — Stefon Diggs - Questionable for MNF (2026-10-17T19:24:03Z)
+- **Stefon Diggs** — Stefon Diggs - Questionable for MNF (2026-10-17T19:24:03Z)
   - Diggs ended the week with back-to-back limited practices, which was enough for him to draw the questionable tag for Monday Night Football. Diggs did not play in Week 5 against the Giants, but if he's cleared to play against the 49ers, then it would be the first time that he, Terry McLaurin and Jayden Daniels are on the field together since Week 2 against the Cowboys. If Diggs does not play, then Antonio Williams and Treylon Burks would both operate in elevated roles offensively behind McLaurin.
-- **NEW — Terry McLaurin** — Terry McLaurin - Good to go against San Francisco (2026-10-17T19:19:01Z)
+- **Terry McLaurin** — Terry McLaurin - Good to go against San Francisco (2026-10-17T19:19:01Z)
   - McLaurin logged an LP-DNP-LP practice log while tending to a lingering hamstring injury, but he has been given the green light to play in Monday night's game. The Commanders could also have Stefon Diggs (hamstring) back in action, and in that case, Washington would have McLaurin, Diggs and Jayden Daniels share the field for the first time since Week 2 against the Cowboys. McLaurin has a 14-203-1 receiving line on 26 targets across four regular-season games.
+- **NEW — Jordan Mason** — Can Managers Trust Jordan Mason When He Returns to Action? (2026-10-17T18:36:12Z)
+  - Source: https://www.rotoballer.com/player-news/can-managers-trust-jordan-mason-when-he-returns-to-action/1969185
+- **NEW — George Kittle** — George Kittle In Smash Spot In Week 6 (2026-10-17T17:51:11Z)
+  - Source: https://www.rotoballer.com/player-news/george-kittle-in-smash-spot-in-week-6/1969157
+- **NEW — Brandin Cooks** — Brandin Cooks A Pivot Option Amid Injuries To Teammates (2026-10-17T17:45:16Z)
+  - Source: https://www.rotoballer.com/player-news/brandin-cooks-a-pivot-option-amid-injuries-to-teammates/1969152
+- **NEW — Mike Evans** — Mike Evans Worth Gambling On In Week 6 Despite Injuries (2026-10-17T17:34:12Z)
+  - Source: https://www.rotoballer.com/player-news/mike-evans-worth-gambling-on-in-week-6-despite-injuries/1969147
+- **NEW — Kaelon Black** — Kaelon Black Could See More Work In Mismatch (2026-10-17T17:24:09Z)
+  - Source: https://www.rotoballer.com/player-news/kaelon-black-could-see-more-work-in-mismatch/1969141
+- **NEW — Christian McCaffrey** — Christian McCaffrey Could See More Receiving Work Amid WR Injuries (2026-10-17T17:15:32Z)
+  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-could-see-more-receiving-work-amid-wr-injuries/1969132
+- **NEW — Brock Purdy** — Brock Purdy's Week 6 Outlook Still Rosy Despite WR Injuries (2026-10-17T17:10:09Z)
+  - Source: https://www.rotoballer.com/player-news/brock-purdys-week-6-outlook-still-rosy-despite-wr-injuries/1969125
+- **NEW — Jalen Nailor** — Jalen Nailor Remains Tough for Fantasy Managers to Trust in Week 6 (2026-10-17T16:58:15Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-nailor-remains-tough-for-fantasy-managers-to-trust-in-week-6/1969115
 - **Omar Cooper** — Omar Cooper - Set to be activated off IR (2026-10-17T16:52:30Z)
   - Cooper earned the questionable tag for Week 6 after logging a full practice Friday, and it looks like the rookie first-rounder will be back on the field after spending the last four weeks on injured reserve due to an ankle injury he sustained against the Titans in Week 1. With Adonai Mitchell (finger) sidelined, Cooper could slide into the Jets' WR2 role behind Garrett Wilson for Sunday's contest.
-- **NEW — Caleb Williams** — Caleb Williams in Line to Return in Week 6 (2026-10-17T16:47:09Z)
+- **Caleb Williams** — Caleb Williams in Line to Return in Week 6 (2026-10-17T16:47:09Z)
   - Source: https://www.rotoballer.com/player-news/caleb-williams-in-line-to-return-in-week-6/1969104
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Ruled out for Monday night (2026-10-17T16:46:22Z)
-  - Croskey-Merritt was unable to practice all week due to a groin injury, and he's not been officially ruled out for Monday night's game. The statuses of Rachaad White (shoulder) and Austin Ekeler (chest) will be known once the Commanders announce their injury designations on Saturday's practice report. Washington is on a bye for Week 7, so Croskey-Merritt will have more time to recover from his injury before the Commanders' Week 8 tilt against the Eagles on Sunday, Nov. 1.
+  - Croskey-Merritt was unable to practice all week due to a groin injury, and he's now been officially ruled out for Monday night's game. The statuses of Rachaad White (shoulder) and Austin Ekeler (chest) will be known once the Commanders announce their injury designations on Saturday's practice report. Washington is on a bye for Week 7, so Croskey-Merritt will have more time to recover from his injury before the Commanders' Week 8 tilt against the Eagles on Sunday, Nov. 1.
 - **DK Metcalf** — DK Metcalf (illness) off injury report Sunday  (2026-10-17T16:45:46.500000Z)
   - Metcalf had been listed as questionable with an illness. He'll be good to go with the Steelers wide receiver room depleted. 
   - Source: https://www.fantasypros.com/nfl/news/614431/dk-metcalf-illness-off-injury-report-sunday.php
@@ -50,23 +70,23 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/614432/pat-freiermuth-calf-now-questionable-sunday.php
 - **Pat Freiermuth** — Pat Freiermuth - Dealing with calf injury, iffy for Week 6 (2026-10-17T16:29:23Z)
   - The late addition of a calf issue puts Freiermuth's availability in doubt ahead of Week 6. He's coming off a two-touchdown performance against the Colts in Week 5, but if he's sidelined for Sunday, then Darnell Washington would step into a larger role offensively, with Robert Tonyan also in the mix for more snaps.
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane Officially Activated from Injured Reserve for Week 6 Return (2026-10-17T16:27:09Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane Officially Activated from Injured Reserve for Week 6 Return (2026-10-17T16:27:09Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-lane-officially-activated-from-injured-reserve-for-week-6-return/1969094
 - **DK Metcalf** — DK Metcalf - Cleared for Week 6 (2026-10-17T16:27:03Z)
-  - Metcalf popped up on Friday's injury report due to an illness and drew the questionable tag, but the eighth-year pro has been given the green light to play in Sunday's contest. He saw a season-low four targets in Week 5 against the Colts, but Metcalf and the other Steelers pass catchers would all be in a bump for more passes if Pat Freiermuth -- who was added to Saturday's injury report due to a calf injury -- is unable to play against Tampa Bay.
-- **NEW — A.J. Brown** — A.J. Brown Officially Activated from Injured Reserve, Will Play in Week 6 (2026-10-17T16:20:09Z)
+  - Metcalf popped up on Friday's injury report due to an illness and drew the questionable tag, but the eighth-year pro has been given the green light to play in Sunday's contest. He saw a season-low four targets in Week 5 against the Colts, but Metcalf and the other Steelers pass catchers would all be in for a bump for more passes if Pat Freiermuth -- who was added to Saturday's injury report due to a calf injury -- is unable to play against Tampa Bay.
+- **A.J. Brown** — A.J. Brown Officially Activated from Injured Reserve, Will Play in Week 6 (2026-10-17T16:20:09Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-officially-activated-from-injured-reserve-will-play-in-week-6/1969088
 - **Tory Horton** — Tory Horton - Targeted fives times in Thursday's loss (2026-10-17T16:10:10Z)
-  - Horton finished Thursday's game fourth on the Seahawks in targets but only managed to catch one pass from Sam Darnold, the latter of whom attempted a season-high 51 throws. Horton has a 5-67-1 receiving line on nine targets through five regular-season games, but he's firmly entrenched as the Seahawks' WR4 behind Jaxon Smith-Njigba, Cooper Kupp and Rashid Shaheed. The Seahawks will head back home for Week 7 to host the Chiefs on Sunday, Oct. 25.
-- **NEW — Jalen Hurts** — Jalen Hurts Set to Be Placed on Injured Reserve (2026-10-17T16:08:16Z)
+  - Horton finished Thursday's game fourth on the Seahawks in targets but managed to catch only one pass from Sam Darnold, the latter of whom attempted a season-high 51 throws. Horton has a 5-67-1 receiving line on nine targets through five regular-season games, and he's firmly entrenched as the Seahawks' WR4 behind Jaxon Smith-Njigba, Cooper Kupp and Rashid Shaheed. The Seahawks will head back home for Week 7 to host the Chiefs on Sunday, Oct. 25.
+- **Jalen Hurts** — Jalen Hurts Set to Be Placed on Injured Reserve (2026-10-17T16:08:16Z)
   - Source: https://www.rotoballer.com/player-news/jalen-hurts-set-to-be-placed-on-injured-reserve/1969073
-- **NEW — Stefon Diggs** — Stefon Diggs Questionable in Week 6 (2026-10-17T16:00:18Z)
+- **Stefon Diggs** — Stefon Diggs Questionable in Week 6 (2026-10-17T16:00:18Z)
   - Source: https://www.rotoballer.com/player-news/stefon-diggs-questionable-in-week-6/1969065
-- **NEW — Roman Wilson** — Roman Wilson Placed on Injured Reserve (2026-10-17T15:50:16Z)
+- **Roman Wilson** — Roman Wilson Placed on Injured Reserve (2026-10-17T15:50:16Z)
   - Source: https://www.rotoballer.com/player-news/roman-wilson-placed-on-injured-reserve/1969054
 - **Ja'Kobi Lane** — Ja'Kobi Lane - On track to be activated from IR (2026-10-17T15:43:49Z)
   - Lane strung together a trio of full practices to draw the questionable tag for Week 6. It looks like the Ravens will have their rookie third-round wide receiver back on the field for Sunday's AFC North showdown, and Lane could slide right back into the WR2 role behind Zay Flowers and in front of Rashod Bateman. Lane fractured his wrist during the Ravens' Week 1 win against the Colts, when he caught one of three targets for 11 yards (with two of those targets occurring in the end zone).
-- **NEW — Chris Rodriguez** — Chris Rodriguez Jr. Losing Value as Jaguars Handcuff (2026-10-17T15:38:15Z)
+- **Chris Rodriguez** — Chris Rodriguez Jr. Losing Value as Jaguars Handcuff (2026-10-17T15:38:15Z)
   - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-losing-value-as-jaguars-handcuff/1969045
 - **Stefon Diggs** — Stefon Diggs - Spotted at Saturday's practice (2026-10-17T15:37:10Z)
   - Diggs is on the practice field for a second consecutive day. He was unable to play against the Giants in Week 5 due to a hamstring injury, and his official status for Monday night's game against the 49ers will be more clear once the Commanders announce their injury designations after Saturday's practice.
@@ -74,27 +94,27 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - McLaurin was back on the practice field after sitting out of Friday's session for a veteran rest day. His status for Monday's game against the 49ers should be more clear once the Commanders announce their injury designations following Saturday's practice.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Not spotted at Saturday's practice (2026-10-17T15:24:45Z)
   - Croskey-Merritt will end up missing all three Week 6 practices while recovering from a groin injury, and it wouldn't be surprising to see him ruled out by the Commanders once the team submits its injury designations following Saturday's session. Rachaad White (shoulder) and Austin Ekeler (chest) are also both working through injuries, so the Commanders may have to dip into their practice squad and elevate one or both of Craig Reynolds or Devin Neal for Monday night's contest.
-- **NEW — Blake Corum** — Blake Corum a Deep-League Option in Week 6 (2026-10-17T15:21:12Z)
+- **Blake Corum** — Blake Corum a Deep-League Option in Week 6 (2026-10-17T15:21:12Z)
   - Source: https://www.rotoballer.com/player-news/blake-corum-a-deep-league-option/1969023
-- **NEW — DJ Moore** — DJ Moore's Shoulder Injury Makes Him a Risky Week 6 Option (2026-10-17T14:50:13Z)
+- **DJ Moore** — DJ Moore's Shoulder Injury Makes Him a Risky Week 6 Option (2026-10-17T14:50:13Z)
   - Source: https://www.rotoballer.com/player-news/dj-moores-shoulder-injury-makes-him-risky-week-6-option/1968986
 - **Kyren Williams** — Kyren Williams' Receiving Surge Bolsters Week 6 Outlook (2026-10-17T14:13:18Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-receiving-surge-bolsters-week-6-outlook/1968954
 - **Jalen Hurts** — Jalen Hurts - IR stint not expected (2026-10-17T14:10:07Z)
   - Hurts was initially diagnosed with a blood clot in his leg prior to the Eagles' Week 5 loss to the Jaguars in London, and a follow-up ultrasound during Week 6 prep showed movement of the blood clot. He's already been ruled out for Sunday's game against the Panthers, and while there's no clear timeline for a return, it looks like an IR stint isn't in the cards for the seventh-year quarterback. Tanner McKee will start under center for Week 6 and for as long as Hurts is sidelined, while rookie fifth-rounder Cole Payton likely serves as the backup.
-- **NEW — Chig Okonkwo** — Chig Okonkwo Facing Tough Matchup vs. 49ers (2026-10-17T14:09:09Z)
+- **Chig Okonkwo** — Chig Okonkwo Facing Tough Matchup vs. 49ers (2026-10-17T14:09:09Z)
   - Source: https://www.rotoballer.com/player-news/chig-okonkwo-facing-tough-matchup-vs-49ers-on-monday-night/1968953
-- **NEW — Antonio Williams** — Antonio Williams A Deep-League Option on Monday Night vs. 49ers (2026-10-17T14:06:21Z)
+- **Antonio Williams** — Antonio Williams A Deep-League Option on Monday Night vs. 49ers (2026-10-17T14:06:21Z)
   - Source: https://www.rotoballer.com/player-news/antonio-williams-a-deeper-league-option-on-monday-night-vs-49ers/1968950
 - **A.J. Brown** — A.J. Brown - Expected to return for Week 6 (2026-10-17T14:04:39Z)
   - Brown logged a trio of limited practices during Week 6 prep, but it appears the veteran wide receiver has progressed enough in his recovery from a right-ankle sprain to be activated from injured reserve. Assuming he's activated from IR by the 4:00 p.m. ET deadline Saturday, Brown will slot right back into the WR1 spot and provide a significant boost in the passing game while leading the Patriots' wide receiver group that also consists of Romeo Doubs, DeMario Douglas and Efton Chism.
-- **NEW — Terry McLaurin** — Terry McLaurin Ranks as Solid WR2 for Monday Night Against 49ers (2026-10-17T14:01:13Z)
+- **Terry McLaurin** — Terry McLaurin Ranks as Solid WR2 for Monday Night Against 49ers (2026-10-17T14:01:13Z)
   - Source: https://www.rotoballer.com/player-news/terry-mclaurin-ranks-as-solid-wr2-for-monday-night-against-49ers/1968947
 - **Davante Adams** — Davante Adams Carries WR1 Upside Against Arizona (2026-10-17T13:58:14Z)
   - Source: https://www.rotoballer.com/player-news/davante-adams-carries-wr1-upside-against-arizona/1968945
-- **NEW — Rachaad White** — Rachaad White Has Flex Appeal on Monday Night Against 49ers (2026-10-17T13:55:32Z)
+- **Rachaad White** — Rachaad White Has Flex Appeal on Monday Night Against 49ers (2026-10-17T13:55:32Z)
   - Source: https://www.rotoballer.com/player-news/rachaad-white-has-flex-appeal-on-monday-night-against-49ers/1968943
-- **NEW — Jayden Daniels** — Jayden Daniels A Strong Start on Monday Night vs. 49ers (2026-10-17T13:52:10Z)
+- **Jayden Daniels** — Jayden Daniels A Strong Start on Monday Night vs. 49ers (2026-10-17T13:52:10Z)
   - Source: https://www.rotoballer.com/player-news/jayden-daniels-a-strong-start-on-monday-night-vs-49ers/1968942
 - **Jaleel McLaughlin** — Jaleel McLaughlin Faces Uncertain Week 6 Workload (2026-10-17T13:45:13Z)
   - Source: https://www.rotoballer.com/player-news/jaleel-mclaughlin-faces-uncertain-week-6-workload/1968932
@@ -193,23 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/romeo-doubs-outlook-weakens-with-teammate-returning-in-week-6/1968732
 - **A.J. Brown** — A.J. Brown a Must-Start Receiver in Anticipated Return (2026-10-17T10:21:13Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-a-must-start-receiver-in-anticipated-return/1968725
-- **Hunter Henry** — Hunter Henry Still a Risky Fantasy Option Despite Hot Streak (2026-10-17T10:13:20Z)
-  - Source: https://www.rotoballer.com/player-news/hunter-henry-still-a-risky-fantasy-option-despite-hot-streak/1968711
-- **TreVeyon Henderson** — TreVeyon Henderson a Risky Play in Fantasy Football Right Now (2026-10-17T10:05:09Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-a-risky-play-in-fantasy-football-right-now/1968698
-- **Rhamondre Stevenson** — Rhamondre Stevenson Carries Touchdown Streak Into Week 6 (2026-10-17T10:00:19Z)
-  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-carries-touchdown-streak-into-week-6/1968675
-- **DK Metcalf** — DK Metcalf a Low-End WR2 Option if Active in Week 6 (2026-10-17T09:58:15Z)
-  - Source: https://www.rotoballer.com/player-news/dk-metcalf-a-low-end-wr2-option-if-active-in-week-6/1968671
-- **Drake Maye** — Drake Maye's Ceiling Even Higher with Top Target Returning (2026-10-17T09:53:43Z)
-  - Source: https://www.rotoballer.com/player-news/drake-mayes-ceiling-even-higher-with-top-target-returning/1968668
-- **Baker Mayfield** — Buccaneers Optimistic that Baker Mayfield Will Return in Week 7 (2026-10-17T09:49:09Z)
-  - Source: https://www.rotoballer.com/player-news/buccaneers-optimistic-that-baker-mayfield-will-return-in-week-7/1968659
-- **Josh Jacobs** — Josh Jacobs Immediately Returning as Packers Starting Running Back (2026-10-17T09:40:12Z)
-  - Source: https://www.rotoballer.com/player-news/josh-jacobs-immediately-returning-as-packers-starting-running-back/1968648
-- **Jalen Hurts** — Eagles Not Planning to Place Jalen Hurts on Injured Reserve (2026-10-17T09:31:47Z)
-  - Source: https://www.rotoballer.com/player-news/eagles-not-planning-to-place-jalen-hurts-on-injured-reserve/1968640
-- **TreVeyon Henderson** — TreVeyon Henderson Hoping to Play in Week 6 (2026-10-17T09:19:09Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-hoping-to-play-in-week-6/1968631
-- **Kalif Raymond** — Kalif Raymond a Worthy Week 6 Flyer (2026-10-17T07:48:14Z)
-  - Source: https://www.rotoballer.com/player-news/kalif-raymond-a-worthy-week-6-flyer/1968582

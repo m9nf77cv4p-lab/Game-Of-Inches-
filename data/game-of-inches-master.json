@@ -3099,7 +3099,6 @@
         "custom_points": null,
         "matchup_id": 2,
         "players": [
-          "10226",
           "11533",
           "11559",
           "11579",
@@ -3124,10 +3123,10 @@
           "9230",
           "9480",
           "9753",
+          "9757",
           "NE"
         ],
         "players_points": {
-          "10226": 0.0,
           "11533": 0.0,
           "11559": 0.0,
           "11579": 0.0,
@@ -3152,6 +3151,7 @@
           "9230": 0.0,
           "9480": 0.0,
           "9753": 0.0,
+          "9757": 0.0,
           "NE": 0.0
         },
         "points": 0.0,
@@ -4139,7 +4139,6 @@
         "custom_points": null,
         "matchup_id": 1,
         "players": [
-          "10226",
           "11533",
           "11559",
           "11579",
@@ -4164,10 +4163,10 @@
           "9230",
           "9480",
           "9753",
+          "9757",
           "NE"
         ],
         "players_points": {
-          "10226": 0.0,
           "11533": 0.0,
           "11559": 0.0,
           "11579": 0.0,
@@ -4192,6 +4191,7 @@
           "9230": 0.0,
           "9480": 0.0,
           "9753": 0.0,
+          "9757": 0.0,
           "NE": 0.0
         },
         "points": 0.0,
@@ -5179,7 +5179,6 @@
         "custom_points": null,
         "matchup_id": 2,
         "players": [
-          "10226",
           "11533",
           "11559",
           "11579",
@@ -5204,10 +5203,10 @@
           "9230",
           "9480",
           "9753",
+          "9757",
           "NE"
         ],
         "players_points": {
-          "10226": 0.0,
           "11533": 0.0,
           "11559": 0.0,
           "11579": 0.0,
@@ -5232,6 +5231,7 @@
           "9230": 0.0,
           "9480": 0.0,
           "9753": 0.0,
+          "9757": 0.0,
           "NE": 0.0
         },
         "points": 0.0,
@@ -6219,7 +6219,6 @@
         "custom_points": null,
         "matchup_id": 3,
         "players": [
-          "10226",
           "11533",
           "11559",
           "11579",
@@ -6244,10 +6243,10 @@
           "9230",
           "9480",
           "9753",
+          "9757",
           "NE"
         ],
         "players_points": {
-          "10226": 0.0,
           "11533": 0.0,
           "11559": 0.0,
           "11579": 0.0,
@@ -6272,6 +6271,7 @@
           "9230": 0.0,
           "9480": 0.0,
           "9753": 0.0,
+          "9757": 0.0,
           "NE": 0.0
         },
         "points": 0.0,
@@ -7259,7 +7259,6 @@
         "custom_points": null,
         "matchup_id": 4,
         "players": [
-          "10226",
           "11533",
           "11559",
           "11579",
@@ -7284,10 +7283,10 @@
           "9230",
           "9480",
           "9753",
+          "9757",
           "NE"
         ],
         "players_points": {
-          "10226": 0.0,
           "11533": 0.0,
           "11559": 0.0,
           "11579": 0.0,
@@ -7312,6 +7311,7 @@
           "9230": 0.0,
           "9480": 0.0,
           "9753": 0.0,
+          "9757": 0.0,
           "NE": 0.0
         },
         "points": 0.0,
@@ -8299,7 +8299,6 @@
         "custom_points": null,
         "matchup_id": 5,
         "players": [
-          "10226",
           "11533",
           "11559",
           "11579",
@@ -8324,10 +8323,10 @@
           "9230",
           "9480",
           "9753",
+          "9757",
           "NE"
         ],
         "players_points": {
-          "10226": 0.0,
           "11533": 0.0,
           "11559": 0.0,
           "11579": 0.0,
@@ -8352,6 +8351,7 @@
           "9230": 0.0,
           "9480": 0.0,
           "9753": 0.0,
+          "9757": 0.0,
           "NE": 0.0
         },
         "points": 0.0,
@@ -9339,7 +9339,6 @@
         "custom_points": null,
         "matchup_id": 6,
         "players": [
-          "10226",
           "11533",
           "11559",
           "11579",
@@ -9364,10 +9363,10 @@
           "9230",
           "9480",
           "9753",
+          "9757",
           "NE"
         ],
         "players_points": {
-          "10226": 0.0,
           "11533": 0.0,
           "11559": 0.0,
           "11579": 0.0,
@@ -9392,6 +9391,7 @@
           "9230": 0.0,
           "9480": 0.0,
           "9753": 0.0,
+          "9757": 0.0,
           "NE": 0.0
         },
         "points": 0.0,
@@ -10379,7 +10379,6 @@
         "custom_points": null,
         "matchup_id": 6,
         "players": [
-          "10226",
           "11533",
           "11559",
           "11579",
@@ -10404,10 +10403,10 @@
           "9230",
           "9480",
           "9753",
+          "9757",
           "NE"
         ],
         "players_points": {
-          "10226": 0.0,
           "11533": 0.0,
           "11559": 0.0,
           "11579": 0.0,
@@ -10432,6 +10431,7 @@
           "9230": 0.0,
           "9480": 0.0,
           "9753": 0.0,
+          "9757": 0.0,
           "NE": 0.0
         },
         "points": 0.0,
@@ -11419,7 +11419,6 @@
         "custom_points": null,
         "matchup_id": 5,
         "players": [
-          "10226",
           "11533",
           "11559",
           "11579",
@@ -11444,10 +11443,10 @@
           "9230",
           "9480",
           "9753",
+          "9757",
           "NE"
         ],
         "players_points": {
-          "10226": 0.0,
           "11533": 0.0,
           "11559": 0.0,
           "11579": 0.0,
@@ -11472,6 +11471,7 @@
           "9230": 0.0,
           "9480": 0.0,
           "9753": 0.0,
+          "9757": 0.0,
           "NE": 0.0
         },
         "points": 0.0,
@@ -16583,7 +16583,6 @@
         "custom_points": null,
         "matchup_id": 6,
         "players": [
-          "10226",
           "11533",
           "11559",
           "11579",
@@ -16608,10 +16607,10 @@
           "9230",
           "9480",
           "9753",
+          "9757",
           "NE"
         ],
         "players_points": {
-          "10226": 0.0,
           "11533": 0.0,
           "11559": 0.0,
           "11579": 0.0,
@@ -16636,6 +16635,7 @@
           "9230": 0.0,
           "9480": 0.0,
           "9753": 0.0,
+          "9757": 0.0,
           "NE": 0.0
         },
         "points": 0.0,
@@ -17623,7 +17623,6 @@
         "custom_points": null,
         "matchup_id": 5,
         "players": [
-          "10226",
           "11533",
           "11559",
           "11579",
@@ -17648,10 +17647,10 @@
           "9230",
           "9480",
           "9753",
+          "9757",
           "NE"
         ],
         "players_points": {
-          "10226": 0.0,
           "11533": 0.0,
           "11559": 0.0,
           "11579": 0.0,
@@ -17676,6 +17675,7 @@
           "9230": 0.0,
           "9480": 0.0,
           "9753": 0.0,
+          "9757": 0.0,
           "NE": 0.0
         },
         "points": 0.0,
@@ -18663,7 +18663,6 @@
         "custom_points": null,
         "matchup_id": 4,
         "players": [
-          "10226",
           "11533",
           "11559",
           "11579",
@@ -18688,10 +18687,10 @@
           "9230",
           "9480",
           "9753",
+          "9757",
           "NE"
         ],
         "players_points": {
-          "10226": 0.0,
           "11533": 0.0,
           "11559": 0.0,
           "11579": 0.0,
@@ -18716,6 +18715,7 @@
           "9230": 0.0,
           "9480": 0.0,
           "9753": 0.0,
+          "9757": 0.0,
           "NE": 0.0
         },
         "points": 0.0,
@@ -19703,7 +19703,6 @@
         "custom_points": null,
         "matchup_id": 3,
         "players": [
-          "10226",
           "11533",
           "11559",
           "11579",
@@ -19728,10 +19727,10 @@
           "9230",
           "9480",
           "9753",
+          "9757",
           "NE"
         ],
         "players_points": {
-          "10226": 0.0,
           "11533": 0.0,
           "11559": 0.0,
           "11579": 0.0,
@@ -19756,6 +19755,7 @@
           "9230": 0.0,
           "9480": 0.0,
           "9753": 0.0,
+          "9757": 0.0,
           "NE": 0.0
         },
         "points": 0.0,
@@ -20194,21 +20194,6 @@
       "last_name": "Reed",
       "nfl_team": "GB",
       "player_id": "10222",
-      "position": "WR",
-      "status": "Inactive",
-      "years_exp": 3
-    },
-    "10226": {
-      "age": 27,
-      "fantasy_positions": [
-        "WR"
-      ],
-      "first_name": "Andrei",
-      "full_name": "Andrei Iosivas",
-      "injury_status": "IR",
-      "last_name": "Iosivas",
-      "nfl_team": "CIN",
-      "player_id": "10226",
       "position": "WR",
       "status": "Inactive",
       "years_exp": 3
@@ -24474,6 +24459,21 @@
       "status": "Active",
       "years_exp": 3
     },
+    "9757": {
+      "age": 24,
+      "fantasy_positions": [
+        "RB"
+      ],
+      "first_name": "Kendre",
+      "full_name": "Kendre Miller",
+      "injury_status": null,
+      "last_name": "Miller",
+      "nfl_team": "NO",
+      "player_id": "9757",
+      "position": "RB",
+      "status": "Active",
+      "years_exp": 3
+    },
     "9758": {
       "age": 25,
       "fantasy_positions": [
@@ -24752,8 +24752,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-17T20:55:52Z",
-    "source_fingerprint": "b737015008c2d7e33fe1c6bcec2da4b88eb48bc4ce06c558508b111176f7e5db"
+    "last_changed_at": "2026-10-17T22:54:40Z",
+    "source_fingerprint": "4df76d2053f9bc6ca448ce9eb67373f36597fd6c57c0dabad3a53c80a1145a9a"
   },
   "teams": [
     {
@@ -24813,7 +24813,7 @@
         "total_moves": 0,
         "waiver_adjusted": 6,
         "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 3
       },
       "starter_ids": [
@@ -24948,7 +24948,7 @@
       ],
       "reserve_ids": [
         "10222",
-        "13276",
+        "12533",
         "9226"
       ],
       "roster_id": 3,
@@ -24964,7 +24964,7 @@
         "total_moves": 0,
         "waiver_adjusted": 6,
         "waiver_budget_used": 0,
-        "waiver_position": 7,
+        "waiver_position": 6,
         "wins": 1
       },
       "starter_ids": [
@@ -25038,7 +25038,7 @@
         "total_moves": 0,
         "waiver_adjusted": 6,
         "waiver_budget_used": 0,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 2
       },
       "starter_ids": [
@@ -25182,7 +25182,7 @@
         "total_moves": 0,
         "waiver_adjusted": 6,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 7,
         "wins": 4
       },
       "starter_ids": [
@@ -25278,7 +25278,6 @@
       },
       "owner_user_id": "467113320793501696",
       "player_ids": [
-        "10226",
         "11533",
         "11559",
         "11579",
@@ -25303,6 +25302,7 @@
         "9230",
         "9480",
         "9753",
+        "9757",
         "NE"
       ],
       "reserve_ids": [
@@ -25323,7 +25323,7 @@
         "total_moves": 0,
         "waiver_adjusted": 6,
         "waiver_budget_used": 0,
-        "waiver_position": 6,
+        "waiver_position": 12,
         "wins": 5
       },
       "starter_ids": [
@@ -25475,7 +25475,7 @@
         "total_moves": 0,
         "waiver_adjusted": 6,
         "waiver_budget_used": 0,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 1
       },
       "starter_ids": [
@@ -25573,7 +25573,7 @@
         "total_moves": 0,
         "waiver_adjusted": 6,
         "waiver_budget_used": 0,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 3
       },
       "starter_ids": [
@@ -32673,6 +32673,35 @@
         "status": "complete",
         "status_updated": 1792254774278,
         "transaction_id": "1417180506704871424",
+        "type": "waiver",
+        "waiver_budget": []
+      },
+      {
+        "adds": {
+          "9757": 8
+        },
+        "consenter_ids": [
+          8
+        ],
+        "created": 1792189373728,
+        "creator": "467113320793501696",
+        "draft_picks": [],
+        "drops": {
+          "10226": 8
+        },
+        "leg": 6,
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "roster_ids": [
+          8
+        ],
+        "settings": {
+          "seq": 0
+        },
+        "status": "complete",
+        "status_updated": 1792273973892,
+        "transaction_id": "1416948568769437696",
         "type": "waiver",
         "waiver_budget": []
       },
