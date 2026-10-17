@@ -11,7 +11,7 @@
 - Roster 1: **2026 Is My Year** (Revont) — 26 players
 - Roster 2: **1st FOR RBs** (steelercrazy21) — 25 players
 - Roster 3: **Cheezy** (cheezy17) — 26 players
-- Roster 4: **Spankin Boutte** (sdgillum1) — 25 players
+- Roster 4: **Spankin Boutte** (sdgillum1) — 26 players
 - Roster 5: **It Hurts So Good** (TJS2025) — 25 players
 - Roster 6: **JTills** (JTills) — 23 players
 - Roster 7: **We Fly High** (cabot9188) — 24 players

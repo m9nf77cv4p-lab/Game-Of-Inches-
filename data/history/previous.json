@@ -2648,7 +2648,7 @@
           "6786",
           "8137",
           "9484",
-          "10229",
+          "13279",
           "11560",
           "1945",
           "SEA"
@@ -3684,7 +3684,7 @@
           "6786",
           "8137",
           "9484",
-          "10229",
+          "13279",
           "11560",
           "1945",
           "SEA"
@@ -4720,7 +4720,7 @@
           "6786",
           "8137",
           "9484",
-          "10229",
+          "13279",
           "11560",
           "1945",
           "SEA"
@@ -5756,7 +5756,7 @@
           "6786",
           "8137",
           "9484",
-          "10229",
+          "13279",
           "11560",
           "1945",
           "SEA"
@@ -6792,7 +6792,7 @@
           "6786",
           "8137",
           "9484",
-          "10229",
+          "13279",
           "11560",
           "1945",
           "SEA"
@@ -7828,7 +7828,7 @@
           "6786",
           "8137",
           "9484",
-          "10229",
+          "13279",
           "11560",
           "1945",
           "SEA"
@@ -8864,7 +8864,7 @@
           "6786",
           "8137",
           "9484",
-          "10229",
+          "13279",
           "11560",
           "1945",
           "SEA"
@@ -9900,7 +9900,7 @@
           "6786",
           "8137",
           "9484",
-          "10229",
+          "13279",
           "11560",
           "1945",
           "SEA"
@@ -10936,7 +10936,7 @@
           "6786",
           "8137",
           "9484",
-          "10229",
+          "13279",
           "11560",
           "1945",
           "SEA"
@@ -16096,7 +16096,7 @@
           "6786",
           "8137",
           "9484",
-          "10229",
+          "13279",
           "11560",
           "1945",
           "SEA"
@@ -17132,7 +17132,7 @@
           "6786",
           "8137",
           "9484",
-          "10229",
+          "13279",
           "11560",
           "1945",
           "SEA"
@@ -18168,7 +18168,7 @@
           "6786",
           "8137",
           "9484",
-          "10229",
+          "13279",
           "11560",
           "1945",
           "SEA"
@@ -19204,7 +19204,7 @@
           "6786",
           "8137",
           "9484",
-          "10229",
+          "13279",
           "11560",
           "1945",
           "SEA"
@@ -20423,12 +20423,12 @@
       ],
       "first_name": "Will",
       "full_name": "Will Shipley",
-      "injury_status": "Doubtful",
+      "injury_status": "IR",
       "last_name": "Shipley",
       "nfl_team": "PHI",
       "player_id": "11577",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 2
     },
     "11579": {
@@ -21969,7 +21969,7 @@
       ],
       "first_name": "Denzel",
       "full_name": "Denzel Boston",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Boston",
       "nfl_team": "CLE",
       "player_id": "13346",
@@ -22629,7 +22629,7 @@
       ],
       "first_name": "Saquon",
       "full_name": "Saquon Barkley",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Barkley",
       "nfl_team": "PHI",
       "player_id": "4866",
@@ -23229,7 +23229,7 @@
       ],
       "first_name": "Colby",
       "full_name": "Colby Parkinson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Parkinson",
       "nfl_team": "LAR",
       "player_id": "6865",
@@ -23319,7 +23319,7 @@
       ],
       "first_name": "DeVonta",
       "full_name": "DeVonta Smith",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Smith",
       "nfl_team": "PHI",
       "player_id": "7525",
@@ -23469,7 +23469,7 @@
       ],
       "first_name": "Rashod",
       "full_name": "Rashod Bateman",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Bateman",
       "nfl_team": "BAL",
       "player_id": "7571",
@@ -23709,7 +23709,7 @@
       ],
       "first_name": "Rachaad",
       "full_name": "Rachaad White",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "White",
       "nfl_team": "WAS",
       "player_id": "8136",
@@ -23904,7 +23904,7 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen Nailor",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Nailor",
       "nfl_team": "LV",
       "player_id": "8180",
@@ -24189,7 +24189,7 @@
       ],
       "first_name": "Dontayvion",
       "full_name": "Dontayvion Wicks",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Wicks",
       "nfl_team": "PHI",
       "player_id": "9486",
@@ -24429,7 +24429,7 @@
       ],
       "first_name": "Zay",
       "full_name": "Zay Flowers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Flowers",
       "nfl_team": "BAL",
       "player_id": "9997",
@@ -24685,8 +24685,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-16T20:04:14Z",
-    "source_fingerprint": "3957a40a40137ac90bbf9dfc7039aecf1fa0d0c4504506b2e30e9a480efd2041"
+    "last_changed_at": "2026-10-16T22:46:52Z",
+    "source_fingerprint": "4e41210c9b053ba712936c61127be6d9e75eec5eeafce74d6e3bc2d0ce0157f5"
   },
   "teams": [
     {
@@ -24833,7 +24833,7 @@
         "6786",
         "8137",
         "9484",
-        "10229",
+        "13279",
         "11560",
         "1945",
         "SEA"
