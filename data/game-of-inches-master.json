@@ -22915,7 +22915,7 @@
       "nfl_team": "NE",
       "player_id": "5859",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "years_exp": 7
     },
     "5870": {
@@ -24711,8 +24711,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-17T09:15:08Z",
-    "source_fingerprint": "bb4ce197dd795f7bb4f6f0703da77f9425c969238513dc3fc2c599567ecb128e"
+    "last_changed_at": "2026-10-17T16:18:23Z",
+    "source_fingerprint": "5ad43e4ea62df7d84609e25328e5968a5af76949067244d122980f7ef41b8adc"
   },
   "teams": [
     {
@@ -25515,7 +25515,8 @@
       ],
       "reserve_ids": [
         "12508",
-        "13345"
+        "13345",
+        "9756"
       ],
       "roster_id": 11,
       "settings": {

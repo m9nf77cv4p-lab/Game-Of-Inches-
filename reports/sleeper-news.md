@@ -2,46 +2,137 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6574**
-- Newly captured: **18**
+- Stored stories: **6601**
+- Newly captured: **45**
 
 ## Latest news
 
-- **NEW — Kalif Raymond** — Kalif Raymond a Worthy Week 6 Flyer (2026-10-17T07:48:14Z)
+- **NEW — Tory Horton** — Tory Horton - Targeted fives times in Thursday's loss (2026-10-17T16:10:10Z)
+  - Horton finished Thursday's game fourth on the Seahawks in targets but only managed to catch one pass from Sam Darnold, the latter of whom attempted a season-high 51 throws. Horton has a 5-67-1 receiving line on nine targets through five regular-season games, but he's firmly entrenched as the Seahawks' WR4 behind Jaxon Smith-Njigba, Cooper Kupp and Rashid Shaheed. The Seahawks will head back home for Week 7 to host the Chiefs on Sunday, Oct. 25.
+- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane - On track to be activated from IR (2026-10-17T15:43:49Z)
+  - Lane strung together a trio of full practices to draw the questionable tag for Week 6. It looks like the Ravens will have their rookie third-round wide receiver back on the field for Sunday's AFC North showdown, and Lane could slide right back into the WR2 role behind Zay Flowers and in front of Rashod Bateman. Lane fractured his wrist during the Ravens' Week 1 win against the Colts, when he caught one of three targets for 11 yards (with two of those targets occurring in the end zone).
+- **NEW — Stefon Diggs** — Stefon Diggs - Spotted at Saturday's practice (2026-10-17T15:37:10Z)
+  - Diggs is on the practice field for a second consecutive day. He was unable to play against the Giants in Week 5 due to a hamstring injury, and his official status for Monday night's game against the 49ers will be more clear once the Commanders announce their injury designations after Saturday's practice.
+- **NEW — Terry McLaurin** — Terry McLaurin - Practicing Saturday (2026-10-17T15:33:40Z)
+  - McLaurin was back on the practice field after sitting out of Friday's session for a veteran rest day. His status for Monday's game against the 49ers should be more clear once the Commanders announce their injury designations following Saturday's practice.
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Not spotted at Saturday's practice (2026-10-17T15:24:45Z)
+  - Croskey-Merritt will end up missing all three Week 6 practices while recovering from a groin injury, and it wouldn't be surprising to see him ruled out by the Commanders once the team submits its injury designations following Saturday's session. Rachaad White (shoulder) and Austin Ekeler (chest) are also both working through injuries, so the Commanders may have to dip into their practice squad and elevate one or both of Craig Reynolds or Devin Neal for Monday night's contest.
+- **NEW — Jalen Hurts** — Jalen Hurts - IR stint not expected (2026-10-17T14:10:07Z)
+  - Hurts was initially diagnosed with a blood clot in his leg prior to the Eagles' Week 5 loss to the Jaguars in London, and a follow-up ultrasound during Week 6 prep showed movement of the blood clot. He's already been ruled out for Sunday's game against the Panthers, and while there's no clear timeline for a return, it looks like an IR stint isn't in the cards for the seventh-year quarterback. Tanner McKee will start under center for Week 6 and for as long as Hurts is sidelined, while rookie fifth-rounder Cole Payton likely serves as the backup.
+- **NEW — A.J. Brown** — A.J. Brown - Expected to return for Week 6 (2026-10-17T14:04:39Z)
+  - Brown logged a trio of limited practices during Week 6 prep, but it appears the veteran wide receiver has progressed enough in his recovery from a right-ankle sprain to be activated from injured reserve. Assuming he's activated from IR by the 4:00 p.m. ET deadline Saturday, Brown will slot right back into the WR1 spot and provide a significant boost in the passing game while leading the Patriots' wide receiver group that also consists of Romeo Doubs, DeMario Douglas and Efton Chism.
+- **NEW — A.J. Brown** — A.J. Brown (ankle) likely to be activated from IR on Saturday (2026-10-17T13:25:46.061000Z)
+  - After a four game stint on IR with an ankle sprain, it looks like Brown will return. The Patriots receiver room has been a revolving door of production, with Romeo Doubs, Kyle Williams, and Efton Chism all seeing some sort of success with AJB out. Browns return will likely put Williams and Chism back in limited roles, but Doubs should still she the field fairly consistently.
+  - Source: https://www.fantasypros.com/nfl/news/614430/aj-brown-ankle-likely-to-be-activated-from-ir-on-saturday.php
+- **NEW — Brian Robinson** — Brian Robinson a Volatile RB3/Flex with Low Floor in Week 6 (2026-10-17T12:11:10Z)
+  - Source: https://www.rotoballer.com/player-news/brian-robinson-a-volatile-rb3-flex-with-low-floor-in-week-6/1968855
+- **NEW — Kyle Pitts** — Kyle Pitts Sr. Trending Up, but Still a Risky Play in Week 6 (2026-10-17T12:06:15Z)
+  - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-trending-up-but-still-a-risky-play-in-week-6/1968850
+- **NEW — Isaiah Likely** — Fire Up Isaiah Likely as a TE1 Against Saints (2026-10-17T12:05:39Z)
+  - Source: https://www.rotoballer.com/player-news/fire-up-isaiah-likely-as-a-te1-against-saints/1968848
+- **NEW — Drake London** — Drake London a Mid-Range WR1 Versus Banged-Up Bears Defense (2026-10-17T12:02:13Z)
+  - Source: https://www.rotoballer.com/player-news/drake-london-a-mid-range-wr1-versus-banged-up-bears-defense/1968845
+- **NEW — Omar Cooper** — Omar Cooper Jr. Could Return to a Crowded Jets Receiving Group (2026-10-17T11:59:13Z)
+  - Source: https://www.rotoballer.com/player-news/omar-cooper-jr-could-return-to-a-crowded-jets-receiving-group/1968840
+- **NEW — Malachi Fields** — Malachi Fields Remains Off the Fantasy Radar in Week 6 (2026-10-17T11:56:09Z)
+  - Source: https://www.rotoballer.com/player-news/malachi-fields-remains-off-the-fantasy-radar-in-week-6/1968834
+- **NEW — Kenyon Sadiq** — Kenyon Sadiq's Concussion Status Creates Week 6 Uncertainty (2026-10-17T11:54:26Z)
+  - Source: https://www.rotoballer.com/player-news/kenyon-sadiqs-concussion-status-creates-week-6-uncertainty/1968831
+- **NEW — Garrett Wilson** — Garrett Wilson Remains the Jets' Most Reliable Fantasy Option (2026-10-17T11:52:12Z)
+  - Source: https://www.rotoballer.com/player-news/garrett-wilson-remains-the-jets-most-reliable-fantasy-option/1968828
+- **NEW — Breece Hall** — Braelon Allen Set for Another Heavy Workload With Teammate Out (2026-10-17T11:50:09Z)
+  - Source: https://www.rotoballer.com/player-news/braelon-allen-set-for-another-heavy-workload-with-breece-hall-out/1968825
+- **NEW — Geno Smith** — Geno Smith Difficult to Trust Against New England (2026-10-17T11:49:13Z)
+  - Source: https://www.rotoballer.com/player-news/geno-smith-difficult-to-trust-against-new-england/1968823
+- **NEW — Dalton Kincaid** — Dalton Kincaid Looking to Rediscover Early-Season Production (2026-10-17T11:44:05Z)
+  - Source: https://www.rotoballer.com/player-news/dalton-kincaid-looking-to-rediscover-early-season-production/1968815
+- **NEW — Keon Coleman** — Keon Coleman Remains a Risky Flex Despite Week 5 Touchdown (2026-10-17T11:41:14Z)
+  - Source: https://www.rotoballer.com/player-news/keon-coleman-remains-a-risky-flex-despite-week-5-touchdown/1968811
+- **NEW — Khalil Shakir** — Khalil Shakir's Recent Production Comes With Target Concerns (2026-10-17T11:40:12Z)
+  - Source: https://www.rotoballer.com/player-news/khalil-shakirs-recent-production-comes-with-target-concerns/1968808
+- **NEW — James Cook** — James Cook III Draws Excellent Rushing Matchup in Week 6 (2026-10-17T11:39:09Z)
+  - Source: https://www.rotoballer.com/player-news/james-cook-iii-draws-excellent-rushing-matchup-in-week-6/1968806
+- **NEW — Michael Penix** — Michael Penix Jr. a Low-End QB2 with Upside Against Depleted Bears (2026-10-17T11:37:09Z)
+  - Source: https://www.rotoballer.com/player-news/michael-penix-jr-a-low-end-qb2-with-upside-against-depleted-bears/1968803
+- **NEW — Josh Allen** — Josh Allen's Rushing Ability Keeps Him Atop Week 6 Rankings (2026-10-17T11:35:12Z)
+  - Source: https://www.rotoballer.com/player-news/josh-allens-rushing-ability-keeps-him-atop-week-6-rankings/1968799
+- **NEW — Malik Nabers** — Malik Nabers a Strong WR1 Option Against Saints (2026-10-17T11:29:12Z)
+  - Source: https://www.rotoballer.com/player-news/malik-nabers-a-strong-wr1-option-against-saints/1968789
+- **NEW — Bijan Robinson** — Bijan Robinson an Elite Option Against Vulnerable Bears Defense (2026-10-17T11:29:09Z)
+  - Source: https://www.rotoballer.com/player-news/bijan-robinson-an-elite-option-against-vulnerable-bears-defense/1968787
+- **NEW — Najee Harris** — Najee Harris' Role Worth Monitoring in Week 6 (2026-10-17T11:20:17Z)
+  - Source: https://www.rotoballer.com/player-news/najee-harris-role-worth-monitoring-in-week-6/1968774
+- **NEW — Cam Skattebo** — Cam Skattebo's Fumbles Could Jeopardize His Role Against Saints (2026-10-17T11:11:10Z)
+  - Source: https://www.rotoballer.com/player-news/cam-skattebos-fumbles-could-jeopardize-his-role-against-saints/1968767
+- **NEW — Rico Dowdle** — What role will Rico Dowdle Play If He Returns in Week 6? (2026-10-17T11:04:12Z)
+  - Source: https://www.rotoballer.com/player-news/what-role-will-rico-dowdle-play-if-he-returns-in-week-6/1968762
+- **NEW — Jameis Winston** — Jameis Winston Heating Up Ahead of Favorable Week 6 Matchup (2026-10-17T11:01:14Z)
+  - Source: https://www.rotoballer.com/player-news/jameis-winston-heating-up-ahead-of-favorable-week-6-matchup/1968758
+- **NEW — Darren Waller** — Darren Waller Looking to Remain Involved in Week 6 Game Versus Eagles (2026-10-17T10:48:16Z)
+  - Source: https://www.rotoballer.com/player-news/darren-waller-looking-to-remain-involved-in-week-6-game-versus-eagles/1968749
+- **NEW — Puka Nacua** — Puka Nacua Remains a Top-Tier WR1 After Historic Performance (2026-10-17T10:44:09Z)
+  - Source: https://www.rotoballer.com/player-news/puka-nacua-remains-a-top-tier-wr1-after-historic-performance/1968743
+- **NEW — Tyler Warren** — Tyler Warren a Risky Play While Dealing with Groin Injury (2026-10-17T10:36:23Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-warren-enters-week-6-as-colts-most-targeted-player-but-dealing-with-groin-injury/1968737
+- **NEW — Matthew Stafford** — Matthew Stafford a Must-Start in Potential Shootout (2026-10-17T10:32:09Z)
+  - Source: https://www.rotoballer.com/player-news/matthew-stafford-a-must-start-in-potential-shootout/1968734
+- **NEW — Romeo Doubs** — Romeo Doubs' Outlook Weakens with Teammate Returning in Week 6 (2026-10-17T10:28:15Z)
+  - Source: https://www.rotoballer.com/player-news/romeo-doubs-outlook-weakens-with-teammate-returning-in-week-6/1968732
+- **NEW — A.J. Brown** — A.J. Brown a Must-Start Receiver in Anticipated Return (2026-10-17T10:21:13Z)
+  - Source: https://www.rotoballer.com/player-news/a-j-brown-a-must-start-receiver-in-anticipated-return/1968725
+- **NEW — Hunter Henry** — Hunter Henry Still a Risky Fantasy Option Despite Hot Streak (2026-10-17T10:13:20Z)
+  - Source: https://www.rotoballer.com/player-news/hunter-henry-still-a-risky-fantasy-option-despite-hot-streak/1968711
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson a Risky Play in Fantasy Football Right Now (2026-10-17T10:05:09Z)
+  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-a-risky-play-in-fantasy-football-right-now/1968698
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Carries Touchdown Streak Into Week 6 (2026-10-17T10:00:19Z)
+  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-carries-touchdown-streak-into-week-6/1968675
+- **NEW — DK Metcalf** — DK Metcalf a Low-End WR2 Option if Active in Week 6 (2026-10-17T09:58:15Z)
+  - Source: https://www.rotoballer.com/player-news/dk-metcalf-a-low-end-wr2-option-if-active-in-week-6/1968671
+- **NEW — Drake Maye** — Drake Maye's Ceiling Even Higher with Top Target Returning (2026-10-17T09:53:43Z)
+  - Source: https://www.rotoballer.com/player-news/drake-mayes-ceiling-even-higher-with-top-target-returning/1968668
+- **NEW — Baker Mayfield** — Buccaneers Optimistic that Baker Mayfield Will Return in Week 7 (2026-10-17T09:49:09Z)
+  - Source: https://www.rotoballer.com/player-news/buccaneers-optimistic-that-baker-mayfield-will-return-in-week-7/1968659
+- **NEW — Josh Jacobs** — Josh Jacobs Immediately Returning as Packers Starting Running Back (2026-10-17T09:40:12Z)
+  - Source: https://www.rotoballer.com/player-news/josh-jacobs-immediately-returning-as-packers-starting-running-back/1968648
+- **NEW — Jalen Hurts** — Eagles Not Planning to Place Jalen Hurts on Injured Reserve (2026-10-17T09:31:47Z)
+  - Source: https://www.rotoballer.com/player-news/eagles-not-planning-to-place-jalen-hurts-on-injured-reserve/1968640
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson Hoping to Play in Week 6 (2026-10-17T09:19:09Z)
+  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-hoping-to-play-in-week-6/1968631
+- **Kalif Raymond** — Kalif Raymond a Worthy Week 6 Flyer (2026-10-17T07:48:14Z)
   - Source: https://www.rotoballer.com/player-news/kalif-raymond-a-worthy-week-6-flyer/1968582
-- **NEW — Rome Odunze** — Rome Odunze Remains Hit-or-Miss Ahead of Matchup With Atlanta (2026-10-17T07:40:09Z)
+- **Rome Odunze** — Rome Odunze Remains Hit-or-Miss Ahead of Matchup With Atlanta (2026-10-17T07:40:09Z)
   - Source: https://www.rotoballer.com/player-news/rome-odunze-remains-hit-or-miss-ahead-of-matchup-with-atlanta/1968571
-- **NEW — Zay Flowers** — Zay Flowers Looks to Continue his WR1 Campaign in Week 6 (2026-10-17T07:35:22Z)
+- **Zay Flowers** — Zay Flowers Looks to Continue his WR1 Campaign in Week 6 (2026-10-17T07:35:22Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-looks-to-continue-his-wr1-campaign-in-week-6/1968567
-- **NEW — Ka'imi Fairbairn** — Ka'imi Fairbairn a Top Kicker vs. Jacksonville (2026-10-17T07:32:09Z)
+- **Ka'imi Fairbairn** — Ka'imi Fairbairn a Top Kicker vs. Jacksonville (2026-10-17T07:32:09Z)
   - Source: https://www.rotoballer.com/player-news/kaimi-fairbairn-a-top-kicker-vs-jacksonville/1968563
-- **NEW — Colston Loveland** — Colston Loveland a Fringe TE1 Against Beatable Falcons D (2026-10-17T07:30:22Z)
+- **Colston Loveland** — Colston Loveland a Fringe TE1 Against Beatable Falcons D (2026-10-17T07:30:22Z)
   - Source: https://www.rotoballer.com/player-news/colston-loveland-a-fringe-te1-against-beatable-falcons-d/1968560
-- **NEW — Luther Burden** — Luther Burden III Gaining Momentum Ahead of Clash With Falcons (2026-10-17T07:17:28Z)
+- **Luther Burden** — Luther Burden III Gaining Momentum Ahead of Clash With Falcons (2026-10-17T07:17:28Z)
   - Source: https://www.rotoballer.com/player-news/luther-burden-iii-gaining-momentum-ahead-of-clash-with-falcons/1968540
-- **NEW — Dalton Schultz** — Dalton Schultz a Fringe TE2 in London (2026-10-17T07:15:09Z)
+- **Dalton Schultz** — Dalton Schultz a Fringe TE2 in London (2026-10-17T07:15:09Z)
   - Source: https://www.rotoballer.com/player-news/dalton-schultz-a-fringe-te2-in-london/1968534
-- **NEW — Kayshon Boutte** — Kayshon Boutte Only a Starter in Deep Formats (2026-10-17T07:07:35Z)
+- **Kayshon Boutte** — Kayshon Boutte Only a Starter in Deep Formats (2026-10-17T07:07:35Z)
   - Source: https://www.rotoballer.com/player-news/kayshon-boutte-only-a-starter-in-deep-formats/1968524
-- **NEW — Caleb Williams** — Caleb Williams a Must-Start if Active (2026-10-17T07:02:09Z)
+- **Caleb Williams** — Caleb Williams a Must-Start if Active (2026-10-17T07:02:09Z)
   - Source: https://www.rotoballer.com/player-news/caleb-williams-a-must-start-if-active/1968519
-- **NEW — Xavier Hutchinson** — Xavier Hutchinson In a Smaller Role After Acquisition (2026-10-17T06:54:09Z)
+- **Xavier Hutchinson** — Xavier Hutchinson In a Smaller Role After Acquisition (2026-10-17T06:54:09Z)
   - Source: https://www.rotoballer.com/player-news/xavier-hutchinson-in-a-smaller-role-after-acquisition/1968515
-- **NEW — Marvin Harrison** — Marvin Harrison Jr. Only a Deep-League Option in Texans Debut (2026-10-17T06:46:15Z)
+- **Marvin Harrison** — Marvin Harrison Jr. Only a Deep-League Option in Texans Debut (2026-10-17T06:46:15Z)
   - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-only-a-deep-league-option-in-texans-debut/1968511
-- **NEW — Nico Collins** — Nico Collins Is a Strong WR1 in London (2026-10-17T06:34:09Z)
+- **Nico Collins** — Nico Collins Is a Strong WR1 in London (2026-10-17T06:34:09Z)
   - Source: https://www.rotoballer.com/player-news/nico-collins-is-a-strong-wr1-in-london/1968507
-- **NEW — Spencer Shrader** — Spencer Shrader An Unquestioned Elite Kicker For Fantasy Football in Week 6 (2026-10-17T06:07:14Z)
+- **Spencer Shrader** — Spencer Shrader An Unquestioned Elite Kicker For Fantasy Football in Week 6 (2026-10-17T06:07:14Z)
   - Source: https://www.rotoballer.com/player-news/spencer-shrader-an-unquestioned-elite-kicker-for-fantasy-football-in-week-6/1968485
-- **NEW — Brandon Aubrey** — Brandon Aubrey A Solid Starting Option for Fantasy Football in Week 6 (2026-10-17T05:58:15Z)
+- **Brandon Aubrey** — Brandon Aubrey A Solid Starting Option for Fantasy Football in Week 6 (2026-10-17T05:58:15Z)
   - Source: https://www.rotoballer.com/player-news/brandon-aubrey-a-solid-starting-option-for-fantasy-football-in-week-6/1968481
-- **NEW — Jalen Coker** — Jalen Coker A WR2 In Return at Eagles in Week 6 (2026-10-17T05:54:12Z)
+- **Jalen Coker** — Jalen Coker A WR2 In Return at Eagles in Week 6 (2026-10-17T05:54:12Z)
   - Source: https://www.rotoballer.com/player-news/jalen-coker-a-wr2-in-return-at-eagles-in-week-6/1968477
-- **NEW — Tetairoa McMillan** — Tetairoa McMillan Should See Reduced Volume Amid Teammate's Return (2026-10-17T05:51:09Z)
+- **Tetairoa McMillan** — Tetairoa McMillan Should See Reduced Volume Amid Teammate's Return (2026-10-17T05:51:09Z)
   - Source: https://www.rotoballer.com/player-news/tetairoa-mcmillan-should-see-reduced-volume-amid-teammates-return/1968475
-- **NEW — Chuba Hubbard** — Chuba Hubbard A Fantasy RB1 In Week 6 Matchup at Eagles (2026-10-17T05:46:09Z)
+- **Chuba Hubbard** — Chuba Hubbard A Fantasy RB1 In Week 6 Matchup at Eagles (2026-10-17T05:46:09Z)
   - Source: https://www.rotoballer.com/player-news/chuba-hubbard-a-fantasy-rb1-in-week-6-matchup-at-eagles/1968471
-- **NEW — Rashod Bateman** — Rashod Bateman Still a Deep League Alternative in Week 6 (2026-10-17T05:45:09Z)
+- **Rashod Bateman** — Rashod Bateman Still a Deep League Alternative in Week 6 (2026-10-17T05:45:09Z)
   - Source: https://www.rotoballer.com/player-news/rashod-bateman-still-a-deep-league-alternative-in-week-6/1968467
 - **Mike Evans** — Mike Evans (ribs/Achilles) misses practice Friday  (2026-10-17T05:20:41.510000Z)
   - Evans missed his second straight day of practice. He'll need to be monitored in practice on Saturday ahead of Monday's game against the Commanders. 
@@ -119,104 +210,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Bernard played 93 percent of snaps in a Week 5 win over Indianapolis, catching six passes for 80 yards on a team-high nine targets. He now projects for a similar workload, at least in terms of playing time, as the Steelers are still without Michael Pittman (IR - foot) and now have Roman Wilson (finger) and Ben Skowronek (calf) ruled out for Week 6. What's more, DK Metcalf is listed as questionable after missing Friday's practice with an illness. Metcalf may not be at his best even if he's able to play, and there's otherwise minimal target competition for Bernard in the WR room. The Steelers figure to deploy multi-TE formations early and often to avoid relying too heavily on practice-squad callups at WR like Brandon Johnson or Isaiah Hodgins.
 - **Xavier Worthy** — Xavier Worthy - Operating as Chiefs' WR1 (2026-10-16T23:52:41Z)
   - Rice sustained his injuries during the Chiefs' Week 4 win against the Raiders, and the extra rest courtesy of the Week 5 bye was not enough for him to be cleared to play Sunday. Worthy finished that Week 4 contest with four catches (on seven targets) for 70 yards, and with Rice sidelined, quarterback Patrick Mahomes will rely more heavily on Worthy and veteran tight end Travis Kelce in the passing game, with Jalen Royals and rookie Cyrus Allen also in line for more playing time on offense.
-- **George Pickens** — George Pickens - Set for normal duties with Lamb healthy (2026-10-16T23:46:50Z)
-  - Lamb exploded for 17 catches in Week 4, but the Cowboys made a concerted effort to get Pickens more involved last Thursday night against the Bucs, as he secured nine of 13 targets for 130 yards and a touchdown. Lamb suffered a quad bruise late in the game, and it allowed Pickens to be the clear WR1 and target hog while Lamb nursed his injury on the sideline. Pickens has weekly monster box-score upside, and he can still go off for a big line even with Lamb past his bruised thigh.
-- **Tre' Harris** — Tre' Harris - Out this week (2026-10-16T23:46:29Z)
-  - Harris didn't practice this week, after making an early exit from the Week 5 loss to Denver. With Ladd McConkey (foot) and Quentin Johnston (chest) now returning from injuries, the team's WR room is in better shape than a week ago even without Harris.
-- **D'Andre Swift** — D'Andre Swift - Bigger workload sans Monangai (2026-10-16T23:44:50Z)
-  - Monangai will miss a second consecutive game due to thumb and toe injuries, leaving Swift as the clear RB1 while Roschon Johnson operates in a depth role. Swift had just 13 touches in a Week 5 loss to the Packers, though he finished with 73 yards and a touchdown, which was the Bears' only trip to the end zone. Through five regular-season games, the veteran running back has turned 78 carries into 354 yards (4.5 YPC) and four touchdowns while catching 14 of 16 passes for 114 yards.
-- **C.J. Stroud** — C.J. Stroud Is a Solid QB2 in Week 6 (2026-10-16T23:42:08Z)
-  - Source: https://www.rotoballer.com/player-news/c-j-stroud-is-a-solid-qb2-in-week-6/1968330
-- **Case Keenum** — Case Keenum - Unclear role for Week 6 (2026-10-16T23:40:08Z)
-  - It seems Keenum and Bagent would each have a 50-50 shot at starting Sunday if Williams isn't cleared to play, with head coach Ben Johnson saying Friday "we have two guys that are equally qualified" in reference to Keenum and Bagent. Keenum was the backup for each of the Bears' last two games, though he did take over in the fourth quarter of Chicago's Week 5 loss to Green Bay after Bagent threw his second pick of the game in the third period. Keenum was the starter and led the Bears to a Week 3 victory over the Eagles, when he completed 24 of 34 passes for 247 yards and two touchdowns while adding six yards and a score on four carries.
-- **Chris Olave** — Chris Olave Looks to Bounce Back After Quiet Week 5 (2026-10-16T23:28:12Z)
-  - Source: https://www.rotoballer.com/player-news/chris-olave-looks-to-bounce-back-after-quiet-week-5/1968322
-- **Alvin Kamara** — Alvin Kamara Could Share Workload Again in Week 6 (2026-10-16T23:26:16Z)
-  - Source: https://www.rotoballer.com/player-news/alvin-kamara-could-share-workload-again-in-week-6/1968320
-- **Tua Tagovailoa** — Tua Tagovailoa - Slated for QB2 duties in Week 6 (2026-10-16T23:22:23Z)
-  - Tagoavailo replaced an injured Penix late last Sunday night against Baltimore and tossed the game-sealing interception in overtime to give the Ravens the win. The Falcons need Penix to maintain health this season, but he's shown little ability to do so early in his career, so there's a good chance Tagovailoa sees snaps again at some point in 2026.
-- **Tyler Huntley** — Tyler Huntley - Starting vs. Cleveland (2026-10-16T23:17:20Z)
-  - Jackson will miss a second consecutive game due to an ankle injury that he sustained during the first half of the Ravens' Week 4 win against the Titans. As such, Huntley will once again be under center for Baltimore, and the veteran quarterback led his team to a Week 5 overtime victory against Atlanta, when he completed 24 of 32 passes for 201 yards and two touchdowns while turning six carries into 20 yards and a score. The Browns' 16 sacks are tied for seventh-most in the NFL, but the defense has also given up 10 touchdown passes across five games, which is tied for seventh-worst in the league.
-- **Colby Parkinson** — Colby Parkinson - Good to go for Week 6 (2026-10-16T23:10:13Z)
-  - Parkinson continues to deal with the shoulder injury he originally sustained in Week 3 against Denver. After missing Week 4, the tight end was able to return for last Monday night's overtime loss to the Bills, logging 64.6 percent of the offensive snaps. He secured just one pass for three yards on two targets and isn't in the fantasy football conversation, with Tyler Higbee dominating the pass-game looks.
-- **Tyler Shough** — Tyler Shough Looks to Bounce Back Against Giants (2026-10-16T23:08:12Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-shough-looks-to-bounce-back-against-giants/1968312
-- **Tyler Allgeier** — Tyler Allgeier - Set for lead role in Week 6 (2026-10-16T23:00:56Z)
-  - Despite Love being active for each of the first five contests of the season, Allgeier's snap share ranged from 36 to 64 percent weekly, and he averaged 9.4 touches for 32.6 yards from scrimmage per game while scoring one rushing TD. The overall workload thus will increase with Love out, and Allgeier's primary competition for RB reps will be Bam Knight, who has just three carries in 2026.
-- **Terrance Ferguson** — Terrance Ferguson is Stash Option with Return Nearing (2026-10-16T22:50:01Z)
-  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-is-stash-option-with-return-nearing/1968308
-- **Mike Evans** — Mike Evans - Sits out Friday's practice (2026-10-16T22:32:58Z)
-  - Evans was spotted working on the side at the start of Friday's session, but with no activity for a second day in a row, he now has just one more chance to mix into drills Saturday before the 49ers potentially tag him with a designation ahead of Monday's game against the Commanders. There's more cause for concern this week due to the 49ers adding 'Achilles' next to his name on the injury report, and head coach Kyle Shanahan has termed the new issue "soreness," according to Nick Wagoner of ESPN.com.
-- **Rachaad White** — Rachaad White - Limited by shoulder issue (2026-10-16T22:26:14Z)
-  - White's downgrade from Thursday's full listing may be due to maintenance of the shoulder issue that sidelined him Week 4 against the Colts, but his status now bears monitoring to get a sense of his chances to play Monday at San Francisco, especially with Jacory Croskey-Merritt (groin) not practicing this week. In the event Croskey-Merritt is inhibited or out in Week 6, White and Austin Ekeler (chest, LP on Friday) would be the beneficiaries in the Commanders backfield.
-- **Jalen Nailor** — Jalen Nailor is Cleared for Week 6 (2026-10-16T22:23:13Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-nailor-is-cleared-for-week-6/1968296
-- **Stefon Diggs** — Stefon Diggs - Gets back to limited Friday (2026-10-16T22:21:51Z)
-  - This marks Diggs' first notable on-field work since Week 4 prep as he deals with a hamstring injury, which held him out of a Week 5 tie with the Giants. Both Diggs and No. 1 WR Terry McLaurin (hamstring), who was given a veteran's rest day Friday, are tending to health concerns at the moment, and Saturday's practice likely will be key to determine if either of them get designations for Monday's game in San Francisco.
-- **Josh Jacobs** — NFL Could Step in and Create a Longer Suspension for Josh Jacobs (2026-10-16T22:16:16Z)
-  - Source: https://www.rotoballer.com/player-news/nfl-could-step-in-and-create-a-longer-suspension-for-josh-jacobs/1968290
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Another DNP on Friday (2026-10-16T22:16:13Z)
-  - Croskey-Merritt has yet to practice this week due to a groin injury that also impacted his on-field work last week. He was able to suit up last Sunday versus the Giants, handling a 36 percent snap share and accounting for 82 yards and one touchdown on his 11 carries. Saturday's session likely will be key for Croskey-Merritt's odds to suit up Monday at San Francisco, but if he's inhibited or sidelined for Week 6, Rachaad White (shoulder, LP on Friday) and Austin Ekeler (chest, LP) would be the primary candidates to man the Commanders backfield.
-- **Jalen Nailor** — Jalen Nailor - Cleared to return from protocol (2026-10-16T22:05:59Z)
-  - Nailor cleared concussion protocol after missing a Week 5 loss to the Patriots. He hasn't done much with his routes this year, but the lack of alternatives in Las Vegas should keep him in a role as the No. 2 or 3 wide receiver. Cody White has made a case for more playing time in recent weeks, benefitting from red-zone usage and then Nailor's absence.
-- **Cam Skattebo** — Cam Skattebo Fumble Issues Could Cost Him Playing Time (2026-10-16T21:58:12Z)
-  - Source: https://www.rotoballer.com/player-news/cam-skattebo-fumble-issues-could-cost-him-playing-time/1968283
-- **Chris Boswell** — Chris Boswell A Strong Fantasy Option Against Buccaneers (2026-10-16T21:49:29Z)
-  - Source: https://www.rotoballer.com/player-news/chris-boswell-a-strong-fantasy-option-against-buccaneers/1968280
-- **Pat Freiermuth** — Pat Freiermuth Primed for Featured Role in Week 6 (2026-10-16T21:42:11Z)
-  - Source: https://www.rotoballer.com/player-news/pat-freiermuth-primed-for-featured-role-in-week-6/1968275
-- **Germie Bernard** — Germie Bernard Trending Up, Carries Flex Value Against Buccaneers (2026-10-16T21:30:13Z)
-  - Source: https://www.rotoballer.com/player-news/germie-bernard-trending-up-carries-flex-value-against-buccaneers/1968269
-- **Rachaad White** — Rachaad White Gets Through a Limited Practice Session (2026-10-16T21:25:14Z)
-  - Source: https://www.rotoballer.com/player-news/rachaad-white-gets-through-a-limited-practice-session/1968264
-- **DJ Moore** — DJ Moore - Listed as questionable (2026-10-16T21:19:17Z)
-  - Moore returned to practice Friday in a non-contact jersey, potentially setting up a game-time decision ahead of Sunday's 4:25 p.m. ET kickoff. Fellow Bills wideout Joshua Palmer (shoulder) also is listed as questionable, after both Moore and Palmer missed an overtime win at Los Angeles in Week 5. Keon Coleman, Khalil Shakir and Skyler Bell handled nearly all of the WR routes last week.
-- **Stefon Diggs** — Stefon Diggs is Limited During Friday's Practice (2026-10-16T21:18:13Z)
-  - Source: https://www.rotoballer.com/player-news/stefon-diggs-is-limited-during-fridays-practice/1968254
-- **Denzel Boston** — Denzel Boston (foot) good to go for Sunday (2026-10-16T21:10:43.368000Z)
-  - The rookie will be good to go on Sunday, despite dealing with a foot injury at practice throughout the week. He has been good through the first five weeks of the season and can safely be started in most league formats at this point.
-  - Source: https://www.fantasypros.com/nfl/news/614383/denzel-boston-foot-good-to-go-sunday.php
-- **Colby Parkinson** — Colby Parkinson (shoulder) off injury report Sunday  (2026-10-16T21:10:43.354000Z)
-  - Parkinson closed the week with a full practice on Friday. 
-  - Source: https://www.fantasypros.com/nfl/news/614384/colby-parkinson-shoulder-off-injury-report-sunday.php
-- **Ja'Kobi Lane** — Ja'Kobi Lane (wrist) officially questionable for Sunday (2026-10-16T21:00:43.385000Z)
-  - The rookie will have a chance to make his return to the field after missing several games while on injured reserve. The team will make a determination about his availability closer to game time, and fantasy managers should temper expectations for him this week, especially with QB Lamar Jackson (ankle) set to be sidelined against Cleveland.
-  - Source: https://www.fantasypros.com/nfl/news/614369/jakobi-lane-wrist-officially-questionable-sunday.php
-- **Rashod Bateman** — Rashod Bateman (shoulder) off injury report for Sunday (2026-10-16T20:50:43.061000Z)
-  - Bateman is going to be good to go for Sunday's game, despite missing practice on Thursday due to a shoulder issue. He should be a full go but doesn't project to be a strong fantasy option in this matchup against the Browns.
-  - Source: https://www.fantasypros.com/nfl/news/614357/rashod-bateman-shoulder-off-injury-report-sunday.php
-- **Zay Flowers** — Zay Flowers (toe) good to go for Sunday (2026-10-16T20:50:43.032000Z)
-  - Baltimore's star wide receiver will be available to play on Sunday, despite still dealing with a minor toe injury of some kind. Fantasy managers shouldn't hesitate to start him this week, although his ceiling will be considerably lower than usual with QB Lamar Jackson (ankle) set to be sidelined for another week.
-  - Source: https://www.fantasypros.com/nfl/news/614359/zay-flowers-toe-good-to-go-sunday.php
-- **DJ Moore** — DJ Moore - Participating in Friday's practice (2026-10-16T20:47:00Z)
-  - Listed as a non-participant the previous two days, Moore may nonetheless make a bid to play Sunday at Las Vegas. He missed a Week 5 win over the Rams after aggravating a shoulder injury in Week 4.
-- **Tyjae Spears** — Tyjae Spears (knee) questionable for Sunday (2026-10-16T20:40:43.170000Z)
-  - Spears is uncertain to play on Sunday. He is managing a nagging knee issue of some kind right now, but he was able to log a full practice on Friday still, which is a good sign that he will play through it. He will be worth keeping an eye on in this matchup if active, as he saw high involvement in the team's passing game last week.
-  - Source: https://www.fantasypros.com/nfl/news/614353/tyjae-spears-knee-questionable-sunday.php
-- **Josh Downs** — Josh Downs (hamstring) good to go for Sunday (2026-10-16T20:40:42.955000Z)
-  - Downs will be available to play on Sunday, despite popping up on Indianapolis' injury report earlier in the week with a hamstring issue. Look for him to see a large portion of Indianapolis' passing work against the Titans on Sunday, especially if Tyler Warren (groin) is ruled out.
-  - Source: https://www.fantasypros.com/nfl/news/614345/josh-downs-hamstring-good-to-go-sunday.php
-- **DJ Moore** — DJ Moore (shoulder) in non-contact jersey Friday in practice  (2026-10-16T20:40:42.947000Z)
-  - Moore returned to practice, but in limited fashion. His status will need to be monitored on the official injury report. 
-  - Source: https://www.fantasypros.com/nfl/news/614346/dj-moore-shoulder-non-contact-jersey-friday-practice.php
-- **Tyjae Spears** — Tyjae Spears - Listed as questionable (2026-10-16T20:35:28Z)
-  - After being limited Wednesday and then sitting out Thursday's practice, Spears now carries a questionable tag into the weekend. He returned to full participation Friday, which suggests he's on track to be active ahead of the 1:00 p.m. ET kickoff.
-- **Dontayvion Wicks** — Dontayvion Wicks - Clear for Week 6 (2026-10-16T20:34:49Z)
-  - Wicks was limited Wednesday and didn't log any on-field work Thursday, but an uncapped session Friday has him in the clear for Week 6 action. He'll be welcoming back DeVonta Smith (hamstring) to the lineup, though, which may not allow Wicks to reach the 6.5 targets per game that he received during Smith's two-game absence.
-- **Ja'Kobi Lane** — Ja'Kobi Lane - Questionable to return from IR (2026-10-16T20:33:01Z)
-  - A full practice participant throughout the week, Lane will need to be taken off injured reserve on Friday or Saturday to play in Sunday's game. If that happens, he'll likely be Baltimore's third or fourth wide receiver, perhaps sharing snaps with Devontez Walker behind veteran starters Zay Flowers and Rashod Bateman (both cleared to play after being listed on the injury report this week).
-- **Rashod Bateman** — Rashod Bateman - Cleared to face Cleveland (2026-10-16T20:31:06Z)
-  - A full practice Friday erases the concern about Bateman's shoulder injury, whereas QB Lamar Jackson (ankle) still isn't practicing and won't play this week.
-- **Tyler Warren** — Tyler Warren (groin) now questionable for Sunday (2026-10-16T20:30:43.083000Z)
-  - Warren is a surprise addition to Indianapolis' injury report. He seems to have aggravated his groin late in the practice week and was limited on Friday, and it may very well leave him sidelined in Week 6. Fantasy managers should keep close tabs on updates about his health over the next couple of days and should have a backup option ready in case the young tight end is ruled out.
-  - Source: https://www.fantasypros.com/nfl/news/614340/tyler-warren-groin-now-questionable-sunday.php
-- **Eli Stowers** — Eli Stowers (quad) listed questionable Sunday  (2026-10-16T20:30:43.064000Z)
-  - Stowers remains off the fantasy radar if he makes his return. 
-  - Source: https://www.fantasypros.com/nfl/news/614343/eli-stowers-quad-listed-questionable-sunday.php
-- **Dontayvion Wicks** — Dontayvion Wicks (hamstring) off injury report Sunday  (2026-10-16T20:30:43.054000Z)
-  - Wicks returned to a full practice on Friday after he missed practice on Thursday. 
-  - Source: https://www.fantasypros.com/nfl/news/614344/dontayvion-wicks-hamstring-off-injury-report-sunday.php
-- **Mike Evans** — Mike Evans - Works on side Friday (2026-10-16T20:29:29Z)
-  - In addition to Evans' existing rib injury, the 49ers tacked on Achilles on Thursday, calling Evans a non-participant with head coach Kyle Shanahan terming it soreness, per Wagoner. It's unclear if Evans will do enough Friday to warrant an upgrade to limited, but the team's ensuing practice report will reveal as much.
-- **DeVonta Smith** — DeVonta Smith - Ready to return Sunday (2026-10-16T20:25:28Z)
-  - Prior to logging a limited practice Thursday, Smith had been working on a side field for roughly one week, so a return to action seemed possible before the Eagles cleared him outright Friday. He thus will be making his first appearance this weekend since a Week 3 loss at Chicago, looking to build upon his 19-235-1 line on 27 targets through the first three contests. Smith won't be working with Jalen Hurts (calf) due to a blood clot, though, with backup QB Tanner McKee subbing in for Hurts for as long as the latter is sidelined.
