@@ -1,19 +1,10 @@
 {
-  "last_checked_at": "2026-10-17T22:54:41Z",
+  "last_checked_at": "2026-10-18T00:37:24Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 303,
   "new_story_ids": [
-    "nfl|13414|rotoballer|224649|1792257849000",
-    "nfl|13414|rotowire|642921|1792273868000",
-    "nfl|2197|rotoballer|224651|1792259116000",
-    "nfl|2216|rotoballer|224650|1792258452000",
-    "nfl|2216|rotowire|642918|1792270691000",
-    "nfl|4034|rotoballer|224647|1792257332000",
-    "nfl|4217|rotoballer|224652|1792259471000",
-    "nfl|8180|rotoballer|224646|1792256295000",
-    "nfl|8183|rotoballer|224648|1792257009000",
-    "nfl|8408|rotoballer|224656|1792262172000",
-    "nfl|9757|rotoballer|224499|1792195153000"
+    "nfl|8132|rotoballer|224657|1792263215000",
+    "nfl|9753|rotoballer|224658|1792264449000"
   ],
   "schema_version": 1,
   "source": {
@@ -325,6 +316,46 @@
       "story_id": "nfl|5927|rotowire|642906|1792264741000",
       "title": "Terry McLaurin - Good to go against San Francisco",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks Zach Charbonnet (knee) has a legitimate chance to make his season debut in Week 7 against the Kansas City Chiefs, according to Jeremy Fowler of ESPN, who cited multiple sources. Charbonnet tore his ACL during Seattle's divisional-round playoff win over San Francisco in January, and the team opened his 21-day practice window on October 1. With the Seattle backfield in a mess, Charbonnet has a chance to swoop in and take the lead role. Charbonnet has always been viewed as a talented running back, but his value was capped when Kenneth Walker III was on the roster. With Walker in Kansas City, Charbonnet has an opportunity to show the Seahawks he can be the guy. The team did use the No. 32 overall pick on running back Jadarian Price (chest), but he is on Injured Reserve with a chest injury and didn't establish himself as the lead back when healthy. If Charbonnet is on the waiver wire, he should be a priority add and needs to be rostered in all fantasy leagues.",
+      "metadata": {
+        "description": "Seattle Seahawks Zach Charbonnet (knee) has a legitimate chance to make his season debut in Week 7 against the Kansas City Chiefs, according to Jeremy Fowler of ESPN, who cited multiple sources. Charbonnet tore his ACL during Seattle's divisional-round playoff win over San Francisco in January, and the team opened his 21-day practice window on October 1. With the Seattle backfield in a mess, Charbonnet has a chance to swoop in and take the lead role. Charbonnet has always been viewed as a talented running back, but his value was capped when Kenneth Walker III was on the roster. With Walker in Kansas City, Charbonnet has an opportunity to show the Seahawks he can be the guy. The team did use the No. 32 overall pick on running back Jadarian Price (chest), but he is on Injured Reserve with a chest injury and didn't establish himself as the lead back when healthy. If Charbonnet is on the waiver wire, he should be a priority add and needs to be rostered in all fantasy leagues.",
+        "title": "Zach Charbonnet a Must-Add With Return Looming",
+        "topic_id": "1417325527890464768",
+        "url": "https://www.rotoballer.com/player-news/zach-charbonnet-a-must-add-with-return-looming/1969193"
+      },
+      "nfl_team": "SEA",
+      "player_id": "9753",
+      "player_name": "Zach Charbonnet",
+      "position": "RB",
+      "published": 1792264449000,
+      "source": "rotoballer",
+      "source_key": "224658",
+      "story_id": "nfl|9753|rotoballer|224658|1792264449000",
+      "title": "Zach Charbonnet a Must-Add With Return Looming",
+      "url": "https://www.rotoballer.com/player-news/zach-charbonnet-a-must-add-with-return-looming/1969193"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Tyler Allgeier is set to be the team's lead back on Sunday in their Week 6 matchup against the Los Angeles Rams. Jeremiyah Love (ankle) was ruled out, according to team reporter Darren Urban. Love missed Wednesday and Thursday practices, prompting Mike LaFleur to tell reporters that the rookie's injured ankle will require further rest. Allgeier instantly becomes a waiver-wire pickup and can be slotted into fantasy lineups as an RB2. The 26-year-old enters Week 6 as RotoBaller's PPR RB24 against the Rams. The Rams' defense has allowed the sixth-most rushing yards this season and recently surrendered 111 rushing yards to James Cook on Monday Night Football. Allgeier is no stranger to fantasy points when given heavy volume and should be in fantasy lineups in Week 6.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Tyler Allgeier is set to be the team's lead back on Sunday in their Week 6 matchup against the Los Angeles Rams. Jeremiyah Love (ankle) was ruled out, according to team reporter Darren Urban. Love missed Wednesday and Thursday practices, prompting Mike LaFleur to tell reporters that the rookie's injured ankle will require further rest. Allgeier instantly becomes a waiver-wire pickup and can be slotted into fantasy lineups as an RB2. The 26-year-old enters Week 6 as RotoBaller's PPR RB24 against the Rams. The Rams' defense has allowed the sixth-most rushing yards this season and recently surrendered 111 rushing yards to James Cook on Monday Night Football. Allgeier is no stranger to fantasy points when given heavy volume and should be in fantasy lineups in Week 6.",
+        "title": "Tyler Allgeier a Last-Minute Waiver-Wire Add Ahead of Week 6",
+        "topic_id": "1417320494155243520",
+        "url": "https://www.rotoballer.com/player-news/tyler-allgeier-a-last-minute-waiver-wire-add-ahead-of-week-6/1969187"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1792263215000,
+      "source": "rotoballer",
+      "source_key": "224657",
+      "story_id": "nfl|8132|rotoballer|224657|1792263215000",
+      "title": "Tyler Allgeier a Last-Minute Waiver-Wire Add Ahead of Week 6",
+      "url": "https://www.rotoballer.com/player-news/tyler-allgeier-a-last-minute-waiver-wire-add-ahead-of-week-6/1969187"
     },
     {
       "analysis": null,
@@ -133143,109 +133174,6 @@
       "story_id": "nfl|9494|rotowire|637819|1789691901000",
       "title": "Marvin Mims - Absent from practice again",
       "url": null
-    },
-    {
-      "analysis": "Tracy was dealing with an illness to open the week, but he now appears to be back to full health. The running back logged just two snaps with the offense Week 1 against the Cowboys, losing a fumble on his second and final carry of the contest. Tracy figures to once again operate as the No. 3 option in the backfield behind starter Cam Skattebo and top backup Devin Singletary during Monday night's contest against the Rams.",
-      "description": "Tracy (illness) did not appear on the Giants' injury report Thursday, Dan Salomone of the team's official site reports.",
-      "metadata": {
-        "analysis": "Tracy was dealing with an illness to open the week, but he now appears to be back to full health. The running back logged just two snaps with the offense Week 1 against the Cowboys, losing a fumble on his second and final carry of the contest. Tracy figures to once again operate as the No. 3 option in the backfield behind starter Cam Skattebo and top backup Devin Singletary during Monday night's contest against the Rams.",
-        "description": "Tracy (illness) did not appear on the Giants' injury report Thursday, Dan Salomone of the team's official site reports.",
-        "title": "Tyrone Tracy - Healthy ahead of Week 2",
-        "topic_id": "1406458863896506368"
-      },
-      "nfl_team": "NYG",
-      "player_id": "11655",
-      "player_name": "Tyrone Tracy",
-      "position": "RB",
-      "published": 1789688088000,
-      "source": "rotowire",
-      "source_key": "637798",
-      "story_id": "nfl|11655|rotowire|637798|1789688088000",
-      "title": "Tyrone Tracy - Healthy ahead of Week 2",
-      "url": null
-    },
-    {
-      "analysis": "To no surprise, Bowers missed another practice on Thursday, which makes it highly likely that he will be sidelined for Sunday's game against the Chargers. Assuming he is ruled out for that matchup, fantasy managers should look for Michael Mayer to see more opportunities in Week 2 as a result of his absence.",
-      "description": "Brock Bowers (knee) was officially a non-participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "To no surprise, Bowers missed another practice on Thursday, which makes it highly likely that he will be sidelined for Sunday's game against the Chargers. Assuming he is ruled out for that matchup, fantasy managers should look for Michael Mayer to see more opportunities in Week 2 as a result of his absence.",
-        "description": "Brock Bowers (knee) was officially a non-participant at practice on Thursday.",
-        "title": "Brock Bowers (knee) officially misses practice Thursday",
-        "topic_id": "1406450058299183104",
-        "url": "https://www.fantasypros.com/nfl/news/608748/brock-bowers-knee-officially-misses-practice-thursday.php"
-      },
-      "nfl_team": "LV",
-      "player_id": "11604",
-      "player_name": "Brock Bowers",
-      "position": "TE",
-      "published": 1789686333784,
-      "source": "fantasy_pros",
-      "source_key": "608748",
-      "story_id": "nfl|11604|fantasy_pros|608748|1789686333784",
-      "title": "Brock Bowers (knee) officially misses practice Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/608748/brock-bowers-knee-officially-misses-practice-thursday.php"
-    },
-    {
-      "analysis": null,
-      "description": "Green Bay Packers running back Kaleb Johnson remains off the fantasy radar despite a trade late in the preseason. Johnson was on the roster bubble with the Steelers, who ultimately dealt him to the Packers after Josh Jacobs was placed on the commissioner's exempt list. There was some speculation that the former third-round pick could lead the way in Green Bay's backfield. In reality, he operated as the No. 3 running back in Week 1 due to his lack of familiarity with the Packers' system and his underwhelming track record in the NFL. MarShawn Lloyd and Chris Brooks were extremely disappointing in the season opener, while Johnson didn't log a single offensive snap. We don't expect to see a major depth chart shakeup this week, which means that Johnson will remain buried in the third-string role with minimal volume headed his way. He can be dropped in most fantasy leagues.",
-      "metadata": {
-        "description": "Green Bay Packers running back Kaleb Johnson remains off the fantasy radar despite a trade late in the preseason. Johnson was on the roster bubble with the Steelers, who ultimately dealt him to the Packers after Josh Jacobs was placed on the commissioner's exempt list. There was some speculation that the former third-round pick could lead the way in Green Bay's backfield. In reality, he operated as the No. 3 running back in Week 1 due to his lack of familiarity with the Packers' system and his underwhelming track record in the NFL. MarShawn Lloyd and Chris Brooks were extremely disappointing in the season opener, while Johnson didn't log a single offensive snap. We don't expect to see a major depth chart shakeup this week, which means that Johnson will remain buried in the third-string role with minimal volume headed his way. He can be dropped in most fantasy leagues.",
-        "title": "Kaleb Johnson Still the Odd Man Out After Change of Scenery",
-        "topic_id": "1406509197297823744",
-        "url": "https://www.rotoballer.com/player-news/kaleb-johnson-still-the-odd-man-out-after-change-of-scenery/1934032"
-      },
-      "nfl_team": "GB",
-      "player_id": "12504",
-      "player_name": "Kaleb Johnson",
-      "position": "RB",
-      "published": 1789685826000,
-      "source": "rotoballer",
-      "source_key": "221340",
-      "story_id": "nfl|12504|rotoballer|221340|1789685826000",
-      "title": "Kaleb Johnson Still the Odd Man Out After Change of Scenery",
-      "url": "https://www.rotoballer.com/player-news/kaleb-johnson-still-the-odd-man-out-after-change-of-scenery/1934032"
-    },
-    {
-      "analysis": "McConkey seems to be trending towards missing Sunday's game against the Raiders, as he has yet to practice this week after suffering a rib injury in the season opener last week. That's unfortunate after his strong start in Week 1, and if he's ruled out prior to game time on Sunday, Quentin Johnston and Tre' Harris both stand to benefit from his absence from a fantasy perspective.",
-      "description": "Ladd McConkey (rib) did not take part in Los Angeles' practice again on Thursday.",
-      "metadata": {
-        "analysis": "McConkey seems to be trending towards missing Sunday's game against the Raiders, as he has yet to practice this week after suffering a rib injury in the season opener last week. That's unfortunate after his strong start in Week 1, and if he's ruled out prior to game time on Sunday, Quentin Johnston and Tre' Harris both stand to benefit from his absence from a fantasy perspective.",
-        "description": "Ladd McConkey (rib) did not take part in Los Angeles' practice again on Thursday.",
-        "title": "Ladd McConkey (rib) doesn't practice again Thursday",
-        "topic_id": "1406447542408871936",
-        "url": "https://www.fantasypros.com/nfl/news/608744/ladd-mcconkey-rib-doesnt-practice-again-thursday.php"
-      },
-      "nfl_team": "LAC",
-      "player_id": "11635",
-      "player_name": "Ladd McConkey",
-      "position": "WR",
-      "published": 1789685733949,
-      "source": "fantasy_pros",
-      "source_key": "608744",
-      "story_id": "nfl|11635|fantasy_pros|608744|1789685733949",
-      "title": "Ladd McConkey (rib) doesn't practice again Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/608744/ladd-mcconkey-rib-doesnt-practice-again-thursday.php"
-    },
-    {
-      "analysis": "The rookie has been picked up in many leagues as a high-end handcuff after looking good in Week 1, but he is now dealing with a groin injury and was limited on Thursday as a result. He could miss Sunday's game because of it, but we should get more clarity on the nature and degree of this injury sometime in the next day or two.",
-      "description": "Kaelon Black (groin) was added to the injury report as a limited participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "The rookie has been picked up in many leagues as a high-end handcuff after looking good in Week 1, but he is now dealing with a groin injury and was limited on Thursday as a result. He could miss Sunday's game because of it, but we should get more clarity on the nature and degree of this injury sometime in the next day or two.",
-        "description": "Kaelon Black (groin) was added to the injury report as a limited participant at practice on Thursday.",
-        "title": "Kaelon Black (groin) added to injury report Thursday",
-        "topic_id": "1406447541494513664",
-        "url": "https://www.fantasypros.com/nfl/news/608741/kaelon-black-groin-added-to-injury-report-thursday.php"
-      },
-      "nfl_team": "SF",
-      "player_id": "13414",
-      "player_name": "Kaelon Black",
-      "position": "RB",
-      "published": 1789685733730,
-      "source": "fantasy_pros",
-      "source_key": "608741",
-      "story_id": "nfl|13414|fantasy_pros|608741|1789685733730",
-      "title": "Kaelon Black (groin) added to injury report Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/608741/kaelon-black-groin-added-to-injury-report-thursday.php"
     }
   ]
 }
