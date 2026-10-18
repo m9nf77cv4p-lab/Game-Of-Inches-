@@ -2,32 +2,66 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6554**
-- Newly captured: **10**
+- Stored stories: **6561**
+- Newly captured: **13**
 
 ## Latest news
 
-- **NEW — Eli Stowers** — Eli Stowers - Ruled out for Week 6 (2026-10-18T02:36:15Z)
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) ruled out Monday  (2026-10-18T07:15:52.710000Z)
+  - Croskey-Merritt was unable to practice this week. Rachaad White and Austin Ekeler will lead the Commanders backfield. 
+  - Source: https://www.fantasypros.com/nfl/news/614443/jacory-croskey-merritt-groin-ruled-out-monday.php
+- **NEW — Alec Pierce** — Alec Pierce (heel) weeks away from returning (2026-10-18T07:15:52.684000Z)
+  - Pierce was able to get out of his cast earlier this week. He remains week-to-week. 
+  - Source: https://www.fantasypros.com/nfl/news/614445/alec-pierce-heel-weeks-away-from-returning.php
+- **NEW — Baker Mayfield** — Baker Mayfield (thumb) could return in Week 7 (2026-10-18T07:15:52.669000Z)
+  - Mayfield didn't practice this week, but he resumed throwing on Monday. His status will need to be monitored in practice next week. 
+  - Source: https://www.fantasypros.com/nfl/news/614446/baker-mayfield-thumb-could-return-week-7.php
+- **NEW — Roman Wilson** — Roman Wilson (finger) placed on IR (2026-10-18T07:05:53.018000Z)
+  - Wilson injured his finger last week. He will miss at least the next four games. 
+  - Source: https://www.fantasypros.com/nfl/news/614441/roman-wilson-finger-placed-on-ir.php
+- **NEW — Stefon Diggs** — Stefon Diggs (hamstring) listed questionable Monday  (2026-10-18T07:05:53.009000Z)
+  - Diggs returned to practice on Friday. He'll be a game-time decision on Monday, but he seems to be trending in the right direction. 
+  - Source: https://www.fantasypros.com/nfl/news/614442/stefon-diggs-hamstring-listed-questionable-monday.php
+- **NEW — Mike Evans** — Mike Evans (ribs/Achilles) listed questionable Monday  (2026-10-18T07:05:52.813000Z)
+  - Evans was unable to practice through Friday. He will be a game-time decision on Monday. 
+  - Source: https://www.fantasypros.com/nfl/news/614437/mike-evans-ribsachilles-listed-questionable-monday.php
+- **NEW — Deebo Samuel** — Deebo Samuel Sr. (hamstring) ruled out Monday  (2026-10-18T07:05:52.802000Z)
+  - Samuel will miss at least one game as expected. He remains week-to-week. 
+  - Source: https://www.fantasypros.com/nfl/news/614438/deebo-samuel-sr-hamstring-ruled-out-monday.php
+- **NEW — A.J. Brown** — A.J. Brown (ankle) activated from IR (2026-10-18T07:05:52.793000Z)
+  - Brown will make his return for the first time since Week 1. He'll be a WR2 with some risk in his first game back for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/614439/aj-brown-ankle-activated-from-ir.php
+- **NEW — Samaje Perine** — Samaje Perine Worth a Look Despite Bengals' Bye (2026-10-18T02:50:09Z)
+  - Source: https://www.rotoballer.com/player-news/samaje-perine-worth-a-look-despite-bengals-bye/1969321
+- **Eli Stowers** — Eli Stowers - Ruled out for Week 6 (2026-10-18T02:36:15Z)
   - Stowers will have to wait at least another week before making his regular-season NFL debut after he had his 21-day practice window opened earlier this week. Stowers should see snaps as a catch-first tight end behind Dallas Goedert once he's ready to return to game action.
-- **NEW — Rachaad White** — Rachaad White an Immediate Plug-and-Play for Week 6 (2026-10-17T23:06:19Z)
+- **NEW — Brenton Strange** — Brenton Strange a Good Bet for Week 6 and Beyond? (2026-10-18T02:29:09Z)
+  - Source: https://www.rotoballer.com/player-news/brenton-strange-a-good-bet-for-week-6-and-beyond/1969319
+- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson an Excellent Play Off Waivers (2026-10-18T02:15:16Z)
+  - Source: https://www.rotoballer.com/player-news/wandale-robinson-an-excellent-play-off-waivers/1969317
+- **NEW — Brian Robinson** — Brian Robinson a Viable Fantasy Option for Managers in a Pinch (2026-10-18T02:00:09Z)
+  - Source: https://www.rotoballer.com/player-news/brian-robinson-a-viable-fantasy-option-for-managers-in-a-pinch/1969315
+- **NEW — Jakobi Meyers** — Jakobi Meyers a Strong Stream in Favorable Spot (2026-10-18T01:45:13Z)
+  - Source: https://www.rotoballer.com/player-news/jakobi-meyers-a-strong-stream-in-favorable-spot/1969313
+- **Rachaad White** — Rachaad White an Immediate Plug-and-Play for Week 6 (2026-10-17T23:06:19Z)
   - Source: https://www.rotoballer.com/player-news/rachaad-white-an-immediate-plug-and-play-for-week-6/1969304
-- **NEW — Germie Bernard** — Germie Bernard Among the Top Streamers for Week 6 (2026-10-17T22:51:09Z)
+- **Germie Bernard** — Germie Bernard Among the Top Streamers for Week 6 (2026-10-17T22:51:09Z)
   - Source: https://www.rotoballer.com/player-news/germie-bernard-among-the-top-streamers-for-week-6/1969293
-- **NEW — Devaughn Vele** — Devaughn Vele Continues to Occupy a Very Significant Role (2026-10-17T22:46:15Z)
+- **Devaughn Vele** — Devaughn Vele Continues to Occupy a Very Significant Role (2026-10-17T22:46:15Z)
   - Source: https://www.rotoballer.com/player-news/devaughn-vele-continues-to-occupy-a-very-significant-role/1969287
-- **NEW — Tre Tucker** — Tre Tucker a Solid Streamer with Consistent Production (2026-10-17T22:37:13Z)
+- **Tre Tucker** — Tre Tucker a Solid Streamer with Consistent Production (2026-10-17T22:37:13Z)
   - Source: https://www.rotoballer.com/player-news/tre-tucker-a-solid-streamer-with-consistent-production/1969285
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane has Stash Appeal Following Return (2026-10-17T21:53:36Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane has Stash Appeal Following Return (2026-10-17T21:53:36Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-lane-has-stash-appeal-following-return/1969260
 - **Kaelon Black** — Kaelon Black - Misses practice Saturday, will play Monday (2026-10-17T21:51:08Z)
   - Since Black wasn't given an injury designation, his absence from practice Saturday isn't expected to impact his availability Monday. The rookie should thus continue to work as the 49ers' No.2 running back behind Christian McCaffrey. That role hasn't yielded much fruit for Black of late, however, as he's totaled fewer than 20 yards in each of his past three contests.
-- **NEW — Kendrick Bourne** — Kendrick Bourne an Intriguing Waiver-Wire Target (2026-10-17T21:45:21Z)
+- **Kendrick Bourne** — Kendrick Bourne an Intriguing Waiver-Wire Target (2026-10-17T21:45:21Z)
   - Source: https://www.rotoballer.com/player-news/kendrick-bourne-is-intriguing-waiver-wire-target/1969258
-- **NEW — Dameon Pierce** — Dameon Pierce an Interesting Streaming Option (2026-10-17T21:37:09Z)
+- **Dameon Pierce** — Dameon Pierce an Interesting Streaming Option (2026-10-17T21:37:09Z)
   - Source: https://www.rotoballer.com/player-news/dameon-pierce-is-interesting-streaming-option/1969256
-- **NEW — Jordyn Tyson** — Jordyn Tyson is a Great Stash Candidate (2026-10-17T21:21:12Z)
+- **Jordyn Tyson** — Jordyn Tyson is a Great Stash Candidate (2026-10-17T21:21:12Z)
   - Source: https://www.rotoballer.com/player-news/jordyn-tyson-is-great-stash-candidate/1969250
-- **NEW — Mike Evans** — Mike Evans is in Danger of Missing Week 6 (2026-10-17T21:13:20Z)
+- **Mike Evans** — Mike Evans is in Danger of Missing Week 6 (2026-10-17T21:13:20Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-is-in-danger-of-missing-week-6/1969243
 - **Mike Evans** — Mike Evans - Questionable for MNF (2026-10-17T20:58:11Z)
   - Evans worked to the side during each of the 49ers' last two practices while nursing injuries to his ribs and Achilles. That was enough for him to draw the questionable tag for MNF, and there's also a chance that Christian Kirk (calf) will be activated from injured reserve before the game, per Nick Wagoner of ESPN.com. Deebo Samuel (hamstring) has already been ruled out, so Brandin Cooks, Jacob Cowing, Jordan Watkins and tight end George Kittle would all carry heaver workloads in the passing game if Evans joins Samuel on the sidelines for Week 6.
@@ -187,29 +221,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-trending-up-but-still-a-risky-play-in-week-6/1968850
 - **Isaiah Likely** — Fire Up Isaiah Likely as a TE1 Against Saints (2026-10-17T12:05:39Z)
   - Source: https://www.rotoballer.com/player-news/fire-up-isaiah-likely-as-a-te1-against-saints/1968848
-- **Drake London** — Drake London a Mid-Range WR1 Versus Banged-Up Bears Defense (2026-10-17T12:02:13Z)
-  - Source: https://www.rotoballer.com/player-news/drake-london-a-mid-range-wr1-versus-banged-up-bears-defense/1968845
-- **Omar Cooper** — Omar Cooper Jr. Could Return to a Crowded Jets Receiving Group (2026-10-17T11:59:13Z)
-  - Source: https://www.rotoballer.com/player-news/omar-cooper-jr-could-return-to-a-crowded-jets-receiving-group/1968840
-- **Malachi Fields** — Malachi Fields Remains Off the Fantasy Radar in Week 6 (2026-10-17T11:56:09Z)
-  - Source: https://www.rotoballer.com/player-news/malachi-fields-remains-off-the-fantasy-radar-in-week-6/1968834
-- **Kenyon Sadiq** — Kenyon Sadiq's Concussion Status Creates Week 6 Uncertainty (2026-10-17T11:54:26Z)
-  - Source: https://www.rotoballer.com/player-news/kenyon-sadiqs-concussion-status-creates-week-6-uncertainty/1968831
-- **Garrett Wilson** — Garrett Wilson Remains the Jets' Most Reliable Fantasy Option (2026-10-17T11:52:12Z)
-  - Source: https://www.rotoballer.com/player-news/garrett-wilson-remains-the-jets-most-reliable-fantasy-option/1968828
-- **Breece Hall** — Braelon Allen Set for Another Heavy Workload With Teammate Out (2026-10-17T11:50:09Z)
-  - Source: https://www.rotoballer.com/player-news/braelon-allen-set-for-another-heavy-workload-with-breece-hall-out/1968825
-- **Geno Smith** — Geno Smith Difficult to Trust Against New England (2026-10-17T11:49:13Z)
-  - Source: https://www.rotoballer.com/player-news/geno-smith-difficult-to-trust-against-new-england/1968823
-- **Dalton Kincaid** — Dalton Kincaid Looking to Rediscover Early-Season Production (2026-10-17T11:44:05Z)
-  - Source: https://www.rotoballer.com/player-news/dalton-kincaid-looking-to-rediscover-early-season-production/1968815
-- **Keon Coleman** — Keon Coleman Remains a Risky Flex Despite Week 5 Touchdown (2026-10-17T11:41:14Z)
-  - Source: https://www.rotoballer.com/player-news/keon-coleman-remains-a-risky-flex-despite-week-5-touchdown/1968811
-- **Khalil Shakir** — Khalil Shakir's Recent Production Comes With Target Concerns (2026-10-17T11:40:12Z)
-  - Source: https://www.rotoballer.com/player-news/khalil-shakirs-recent-production-comes-with-target-concerns/1968808
-- **James Cook** — James Cook III Draws Excellent Rushing Matchup in Week 6 (2026-10-17T11:39:09Z)
-  - Source: https://www.rotoballer.com/player-news/james-cook-iii-draws-excellent-rushing-matchup-in-week-6/1968806
-- **Michael Penix** — Michael Penix Jr. a Low-End QB2 with Upside Against Depleted Bears (2026-10-17T11:37:09Z)
-  - Source: https://www.rotoballer.com/player-news/michael-penix-jr-a-low-end-qb2-with-upside-against-depleted-bears/1968803
-- **Josh Allen** — Josh Allen's Rushing Ability Keeps Him Atop Week 6 Rankings (2026-10-17T11:35:12Z)
-  - Source: https://www.rotoballer.com/player-news/josh-allens-rushing-ability-keeps-him-atop-week-6-rankings/1968799

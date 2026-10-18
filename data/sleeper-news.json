@@ -1,18 +1,21 @@
 {
-  "last_checked_at": "2026-10-18T05:06:47Z",
+  "last_checked_at": "2026-10-18T09:31:27Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 303,
   "new_story_ids": [
-    "nfl|10213|rotoballer|224664|1792276633000",
-    "nfl|11834|rotoballer|224665|1792277175000",
-    "nfl|13274|rotoballer|224666|1792277469000",
-    "nfl|13281|rotoballer|224660|1792272072000",
-    "nfl|13293|rotoballer|224663|1792274016000",
-    "nfl|13349|rotowire|642953|1792290975000",
-    "nfl|2216|rotoballer|224659|1792271600000",
-    "nfl|4454|rotoballer|224662|1792273521000",
-    "nfl|8129|rotoballer|224661|1792273029000",
-    "nfl|8136|rotoballer|224667|1792278379000"
+    "nfl|11630|fantasy_pros|614441|1792307153018",
+    "nfl|12533|fantasy_pros|614443|1792307752710",
+    "nfl|2216|fantasy_pros|614437|1792307152813",
+    "nfl|2449|fantasy_pros|614442|1792307153009",
+    "nfl|4147|rotoballer|224672|1792291809000",
+    "nfl|4892|fantasy_pros|614446|1792307752669",
+    "nfl|5859|fantasy_pros|614439|1792307152793",
+    "nfl|5872|fantasy_pros|614438|1792307152802",
+    "nfl|5947|rotoballer|224668|1792287913000",
+    "nfl|8126|rotoballer|224670|1792289716000",
+    "nfl|8142|fantasy_pros|614445|1792307752684",
+    "nfl|8154|rotoballer|224669|1792288809000",
+    "nfl|9480|rotoballer|224671|1792290549000"
   ],
   "schema_version": 1,
   "source": {
@@ -23,11 +26,199 @@
   },
   "stories": [
     {
+      "analysis": "Croskey-Merritt was unable to practice this week. Rachaad White and Austin Ekeler will lead the Commanders backfield. ",
+      "description": "Jacory Croskey-Merritt has been ruled out for Monday's game against the 49ers. ",
+      "metadata": {
+        "analysis": "Croskey-Merritt was unable to practice this week. Rachaad White and Austin Ekeler will lead the Commanders backfield. ",
+        "description": "Jacory Croskey-Merritt has been ruled out for Monday's game against the 49ers. ",
+        "title": "Jacory Croskey-Merritt (groin) ruled out Monday ",
+        "topic_id": "1417445086177816576",
+        "url": "https://www.fantasypros.com/nfl/news/614443/jacory-croskey-merritt-groin-ruled-out-monday.php"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1792307752710,
+      "source": "fantasy_pros",
+      "source_key": "614443",
+      "story_id": "nfl|12533|fantasy_pros|614443|1792307752710",
+      "title": "Jacory Croskey-Merritt (groin) ruled out Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/614443/jacory-croskey-merritt-groin-ruled-out-monday.php"
+    },
+    {
+      "analysis": "Pierce was able to get out of his cast earlier this week. He remains week-to-week. ",
+      "description": "Colts WR Alec Pierce is still a few weeks away from a return to game action.",
+      "metadata": {
+        "analysis": "Pierce was able to get out of his cast earlier this week. He remains week-to-week. ",
+        "description": "Colts WR Alec Pierce is still a few weeks away from a return to game action.",
+        "title": "Alec Pierce (heel) weeks away from returning",
+        "topic_id": "1417445086077153280",
+        "url": "https://www.fantasypros.com/nfl/news/614445/alec-pierce-heel-weeks-away-from-returning.php"
+      },
+      "nfl_team": "IND",
+      "player_id": "8142",
+      "player_name": "Alec Pierce",
+      "position": "WR",
+      "published": 1792307752684,
+      "source": "fantasy_pros",
+      "source_key": "614445",
+      "story_id": "nfl|8142|fantasy_pros|614445|1792307752684",
+      "title": "Alec Pierce (heel) weeks away from returning",
+      "url": "https://www.fantasypros.com/nfl/news/614445/alec-pierce-heel-weeks-away-from-returning.php"
+    },
+    {
+      "analysis": "Mayfield didn't practice this week, but he resumed throwing on Monday. His status will need to be monitored in practice next week. ",
+      "description": "There's reportedly \"optimism\" Baker Mayfield will return in Week 7 against the Panthers.",
+      "metadata": {
+        "analysis": "Mayfield didn't practice this week, but he resumed throwing on Monday. His status will need to be monitored in practice next week. ",
+        "description": "There's reportedly \"optimism\" Baker Mayfield will return in Week 7 against the Panthers.",
+        "title": "Baker Mayfield (thumb) could return in Week 7",
+        "topic_id": "1417445086005850112",
+        "url": "https://www.fantasypros.com/nfl/news/614446/baker-mayfield-thumb-could-return-week-7.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "4892",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "published": 1792307752669,
+      "source": "fantasy_pros",
+      "source_key": "614446",
+      "story_id": "nfl|4892|fantasy_pros|614446|1792307752669",
+      "title": "Baker Mayfield (thumb) could return in Week 7",
+      "url": "https://www.fantasypros.com/nfl/news/614446/baker-mayfield-thumb-could-return-week-7.php"
+    },
+    {
+      "analysis": "Wilson injured his finger last week. He will miss at least the next four games. ",
+      "description": "The Steelers placed Roman Wilson on injured reserve.",
+      "metadata": {
+        "analysis": "Wilson injured his finger last week. He will miss at least the next four games. ",
+        "description": "The Steelers placed Roman Wilson on injured reserve.",
+        "title": "Roman Wilson (finger) placed on IR",
+        "topic_id": "1417442570904104960",
+        "url": "https://www.fantasypros.com/nfl/news/614441/roman-wilson-finger-placed-on-ir.php"
+      },
+      "nfl_team": "PIT",
+      "player_id": "11630",
+      "player_name": "Roman Wilson",
+      "position": "WR",
+      "published": 1792307153018,
+      "source": "fantasy_pros",
+      "source_key": "614441",
+      "story_id": "nfl|11630|fantasy_pros|614441|1792307153018",
+      "title": "Roman Wilson (finger) placed on IR",
+      "url": "https://www.fantasypros.com/nfl/news/614441/roman-wilson-finger-placed-on-ir.php"
+    },
+    {
+      "analysis": "Diggs returned to practice on Friday. He'll be a game-time decision on Monday, but he seems to be trending in the right direction. ",
+      "description": "Stefon Diggs is listed as questionable for Monday's game against the 49ers. ",
+      "metadata": {
+        "analysis": "Diggs returned to practice on Friday. He'll be a game-time decision on Monday, but he seems to be trending in the right direction. ",
+        "description": "Stefon Diggs is listed as questionable for Monday's game against the 49ers. ",
+        "title": "Stefon Diggs (hamstring) listed questionable Monday ",
+        "topic_id": "1417442570853773336",
+        "url": "https://www.fantasypros.com/nfl/news/614442/stefon-diggs-hamstring-listed-questionable-monday.php"
+      },
+      "nfl_team": "WAS",
+      "player_id": "2449",
+      "player_name": "Stefon Diggs",
+      "position": "WR",
+      "published": 1792307153009,
+      "source": "fantasy_pros",
+      "source_key": "614442",
+      "story_id": "nfl|2449|fantasy_pros|614442|1792307153009",
+      "title": "Stefon Diggs (hamstring) listed questionable Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/614442/stefon-diggs-hamstring-listed-questionable-monday.php"
+    },
+    {
+      "analysis": "Evans was unable to practice through Friday. He will be a game-time decision on Monday. ",
+      "description": "Mike Evans has been listed as questionable for Monday's game against the Commanders. ",
+      "metadata": {
+        "analysis": "Evans was unable to practice through Friday. He will be a game-time decision on Monday. ",
+        "description": "Mike Evans has been listed as questionable for Monday's game against the Commanders. ",
+        "title": "Mike Evans (ribs/Achilles) listed questionable Monday ",
+        "topic_id": "1417442570040078336",
+        "url": "https://www.fantasypros.com/nfl/news/614437/mike-evans-ribsachilles-listed-questionable-monday.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1792307152813,
+      "source": "fantasy_pros",
+      "source_key": "614437",
+      "story_id": "nfl|2216|fantasy_pros|614437|1792307152813",
+      "title": "Mike Evans (ribs/Achilles) listed questionable Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/614437/mike-evans-ribsachilles-listed-questionable-monday.php"
+    },
+    {
+      "analysis": "Samuel will miss at least one game as expected. He remains week-to-week. ",
+      "description": "Deebo Samuel Sr. has been ruled out for Monday's game against the Commanders. ",
+      "metadata": {
+        "analysis": "Samuel will miss at least one game as expected. He remains week-to-week. ",
+        "description": "Deebo Samuel Sr. has been ruled out for Monday's game against the Commanders. ",
+        "title": "Deebo Samuel Sr. (hamstring) ruled out Monday ",
+        "topic_id": "1417442569998135296",
+        "url": "https://www.fantasypros.com/nfl/news/614438/deebo-samuel-sr-hamstring-ruled-out-monday.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "5872",
+      "player_name": "Deebo Samuel",
+      "position": "WR",
+      "published": 1792307152802,
+      "source": "fantasy_pros",
+      "source_key": "614438",
+      "story_id": "nfl|5872|fantasy_pros|614438|1792307152802",
+      "title": "Deebo Samuel Sr. (hamstring) ruled out Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/614438/deebo-samuel-sr-hamstring-ruled-out-monday.php"
+    },
+    {
+      "analysis": "Brown will make his return for the first time since Week 1. He'll be a WR2 with some risk in his first game back for fantasy managers. ",
+      "description": "The Patriots activated A.J. Brown from injured reserve.",
+      "metadata": {
+        "analysis": "Brown will make his return for the first time since Week 1. He'll be a WR2 with some risk in his first game back for fantasy managers. ",
+        "description": "The Patriots activated A.J. Brown from injured reserve.",
+        "title": "A.J. Brown (ankle) activated from IR",
+        "topic_id": "1417442569960386560",
+        "url": "https://www.fantasypros.com/nfl/news/614439/aj-brown-ankle-activated-from-ir.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1792307152793,
+      "source": "fantasy_pros",
+      "source_key": "614439",
+      "story_id": "nfl|5859|fantasy_pros|614439|1792307152793",
+      "title": "A.J. Brown (ankle) activated from IR",
+      "url": "https://www.fantasypros.com/nfl/news/614439/aj-brown-ankle-activated-from-ir.php"
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals running back Samaje Perine is worth waiver-wire consideration ahead of Week 6, despite his team's bye week. Perine put together a productive rushing line (14/68) in Cincinnati's win against the Dolphins last Sunday. In fact, he was more involved in the Bengals' ground attack than backfield mate Chase Brown (13/39), and pushed the latter to below a 70% snap share (60%) for the first time all season. While the role reversal is likely a one-off, Brown has been somewhat underwhelming as a rusher over five weeks. He'll likely keep his stellar role in the passing game, but if the veteran continues to outshine him in efficiency, Perine could carve out a bigger workload. The 31-year-old is a nice deep-league stash through Cincinnati's bye.",
+      "metadata": {
+        "description": "Cincinnati Bengals running back Samaje Perine is worth waiver-wire consideration ahead of Week 6, despite his team's bye week. Perine put together a productive rushing line (14/68) in Cincinnati's win against the Dolphins last Sunday. In fact, he was more involved in the Bengals' ground attack than backfield mate Chase Brown (13/39), and pushed the latter to below a 70% snap share (60%) for the first time all season. While the role reversal is likely a one-off, Brown has been somewhat underwhelming as a rusher over five weeks. He'll likely keep his stellar role in the passing game, but if the veteran continues to outshine him in efficiency, Perine could carve out a bigger workload. The 31-year-old is a nice deep-league stash through Cincinnati's bye.",
+        "title": "Samaje Perine Worth a Look Despite Bengals' Bye",
+        "topic_id": "1417440046092406784",
+        "url": "https://www.rotoballer.com/player-news/samaje-perine-worth-a-look-despite-bengals-bye/1969321"
+      },
+      "nfl_team": "CIN",
+      "player_id": "4147",
+      "player_name": "Samaje Perine",
+      "position": "RB",
+      "published": 1792291809000,
+      "source": "rotoballer",
+      "source_key": "224672",
+      "story_id": "nfl|4147|rotoballer|224672|1792291809000",
+      "title": "Samaje Perine Worth a Look Despite Bengals' Bye",
+      "url": "https://www.rotoballer.com/player-news/samaje-perine-worth-a-look-despite-bengals-bye/1969321"
+    },
+    {
       "analysis": "Stowers will have to wait at least another week before making his regular-season NFL debut after he had his 21-day practice window opened earlier this week. Stowers should see snaps as a catch-first tight end behind Dallas Goedert once he's ready to return to game action.",
-      "description": "The Eagles downgraded Stowers (quadriceps) to out for Sunday's game against the Panthers.",
+      "description": "The Eagles have downgraded Stowers (quadriceps) to out for Sunday's game against the Panthers.",
       "metadata": {
         "analysis": "Stowers will have to wait at least another week before making his regular-season NFL debut after he had his 21-day practice window opened earlier this week. Stowers should see snaps as a catch-first tight end behind Dallas Goedert once he's ready to return to game action.",
-        "description": "The Eagles downgraded Stowers (quadriceps) to out for Sunday's game against the Panthers.",
+        "description": "The Eagles have downgraded Stowers (quadriceps) to out for Sunday's game against the Panthers.",
         "title": "Eli Stowers - Ruled out for Week 6",
         "topic_id": "1417375867625115648"
       },
@@ -41,6 +232,86 @@
       "story_id": "nfl|13349|rotowire|642953|1792290975000",
       "title": "Eli Stowers - Ruled out for Week 6",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars tight end Brenton Strange has commanded a vastly superior target share over his past two appearances, making him an appealing streaming candidate ahead of a divisional bout with the Houston Texans. Strange began the campaign with seven receptions on ten targets (72 yards) through the first three games and was officially off the radar for fantasy. However, a combined 14/163 line on back-to-back eight-target outings is enough to raise an eyebrow. Furthermore, the Penn State product leads all Jaguars pass catchers over that stretch in each major receiving category, excluding touchdowns. It's an intriguing development for Strange, and he's aided by a matchup against a Houston defense that has yet to put it all together in 2026. Fantasy managers on the search for assistance at tight end can turn to the 25-year-old this Sunday, and if he posts another similar outing to his previous two, he could be worth holding through the team's Week 7 bye.",
+      "metadata": {
+        "description": "Jacksonville Jaguars tight end Brenton Strange has commanded a vastly superior target share over his past two appearances, making him an appealing streaming candidate ahead of a divisional bout with the Houston Texans. Strange began the campaign with seven receptions on ten targets (72 yards) through the first three games and was officially off the radar for fantasy. However, a combined 14/163 line on back-to-back eight-target outings is enough to raise an eyebrow. Furthermore, the Penn State product leads all Jaguars pass catchers over that stretch in each major receiving category, excluding touchdowns. It's an intriguing development for Strange, and he's aided by a matchup against a Houston defense that has yet to put it all together in 2026. Fantasy managers on the search for assistance at tight end can turn to the 25-year-old this Sunday, and if he posts another similar outing to his previous two, he could be worth holding through the team's Week 7 bye.",
+        "title": "Brenton Strange a Good Bet for Week 6 and Beyond?",
+        "topic_id": "1417435012663459840",
+        "url": "https://www.rotoballer.com/player-news/brenton-strange-a-good-bet-for-week-6-and-beyond/1969319"
+      },
+      "nfl_team": "JAX",
+      "player_id": "9480",
+      "player_name": "Brenton Strange",
+      "position": "TE",
+      "published": 1792290549000,
+      "source": "rotoballer",
+      "source_key": "224671",
+      "story_id": "nfl|9480|rotoballer|224671|1792290549000",
+      "title": "Brenton Strange a Good Bet for Week 6 and Beyond?",
+      "url": "https://www.rotoballer.com/player-news/brenton-strange-a-good-bet-for-week-6-and-beyond/1969319"
+    },
+    {
+      "analysis": null,
+      "description": "Tennessee Titans wide receiver Wan'Dale Robinson has been productive recently and will look to continue that trend on the road against the Indianapolis Colts. Robinson's 2026 numbers won't jump off the page, but he's still provided value, even in the league's worst scoring offense. Aside from a one-catch dud in Week 2, the fifth-year pro has been solid, collecting at least five targets in all but one appearance and five or more receptions in three. Robinson's outlook also improves in Week 6 with a tantalizing matchup against a sieve-like Colts pass defense. Over six weeks, Indianapolis ranks fifth in passing yards allowed per game (254) and sixth in points allowed per game (27.6). A sub-optimal offensive line and erratic play from quarterback Cam Ward work against him, but the Kentucky native is well-positioned to produce ahead of the divisional clash.",
+      "metadata": {
+        "description": "Tennessee Titans wide receiver Wan'Dale Robinson has been productive recently and will look to continue that trend on the road against the Indianapolis Colts. Robinson's 2026 numbers won't jump off the page, but he's still provided value, even in the league's worst scoring offense. Aside from a one-catch dud in Week 2, the fifth-year pro has been solid, collecting at least five targets in all but one appearance and five or more receptions in three. Robinson's outlook also improves in Week 6 with a tantalizing matchup against a sieve-like Colts pass defense. Over six weeks, Indianapolis ranks fifth in passing yards allowed per game (254) and sixth in points allowed per game (27.6). A sub-optimal offensive line and erratic play from quarterback Cam Ward work against him, but the Kentucky native is well-positioned to produce ahead of the divisional clash.",
+        "title": "Wan'Dale Robinson an Excellent Play Off Waivers",
+        "topic_id": "1417432495456096256",
+        "url": "https://www.rotoballer.com/player-news/wandale-robinson-an-excellent-play-off-waivers/1969317"
+      },
+      "nfl_team": "TEN",
+      "player_id": "8126",
+      "player_name": "Wan'Dale Robinson",
+      "position": "WR",
+      "published": 1792289716000,
+      "source": "rotoballer",
+      "source_key": "224670",
+      "story_id": "nfl|8126|rotoballer|224670|1792289716000",
+      "title": "Wan'Dale Robinson an Excellent Play Off Waivers",
+      "url": "https://www.rotoballer.com/player-news/wandale-robinson-an-excellent-play-off-waivers/1969317"
+    },
+    {
+      "analysis": null,
+      "description": "Atlanta Falcons running back Brian Robinson is in play for fantasy managers who need help ahead of his home game against the Chicago Bears this Sunday. The former Alabama Crimson Tide posted season lows in rushing yards (16) and opportunities (eight) in Week 5's loss to the Ravens. However, Robinson's involvement was intriguing the three games prior, when he racked up 163 yards on the ground and four touchdowns across 35 carries (4.65 yards per carry). That kind of output and workload can't be the expectation, especially while he shares a backfield with Bijan Robinson. Still, Atlanta currently sports the league's highest run rate (53.23%), so if the 27-year-old's snap share can stabilize, he'll be in a good position to be useful for fantasy. Chicago isn't the easiest matchup on paper, but Robinson can be utilized as a low-floor bye-week fill-in.",
+      "metadata": {
+        "description": "Atlanta Falcons running back Brian Robinson is in play for fantasy managers who need help ahead of his home game against the Chicago Bears this Sunday. The former Alabama Crimson Tide posted season lows in rushing yards (16) and opportunities (eight) in Week 5's loss to the Ravens. However, Robinson's involvement was intriguing the three games prior, when he racked up 163 yards on the ground and four touchdowns across 35 carries (4.65 yards per carry). That kind of output and workload can't be the expectation, especially while he shares a backfield with Bijan Robinson. Still, Atlanta currently sports the league's highest run rate (53.23%), so if the 27-year-old's snap share can stabilize, he'll be in a good position to be useful for fantasy. Chicago isn't the easiest matchup on paper, but Robinson can be utilized as a low-floor bye-week fill-in.",
+        "title": "Brian Robinson a Viable Fantasy Option for Managers in a Pinch",
+        "topic_id": "1417427461326540800",
+        "url": "https://www.rotoballer.com/player-news/brian-robinson-a-viable-fantasy-option-for-managers-in-a-pinch/1969315"
+      },
+      "nfl_team": "ATL",
+      "player_id": "8154",
+      "player_name": "Brian Robinson",
+      "position": "RB",
+      "published": 1792288809000,
+      "source": "rotoballer",
+      "source_key": "224669",
+      "story_id": "nfl|8154|rotoballer|224669|1792288809000",
+      "title": "Brian Robinson a Viable Fantasy Option for Managers in a Pinch",
+      "url": "https://www.rotoballer.com/player-news/brian-robinson-a-viable-fantasy-option-for-managers-in-a-pinch/1969315"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars wide receiver Jakobi Meyers is a fine option off the waiver wire for Week 6's matchup with their division-rival Houston Texans in London. Meyers joined Jacksonville in a trade with the Raiders at last season's deadline and became a go-to target during the team's playoff push. In 2026, the veteran's role has taken a step back, acting as little more than a tertiary option in the Jags' attack. That said, Meyers currently ranks third among Jacksonville's pass catchers in receptions (15), yards (202), and targets (18). While it may not always show up in the box score due to a run-heavy game plan, the 29-year-old has been involved. He's worth streaming consideration, especially against a Texans defense that hasn't been as formidable as it was in 2025.",
+      "metadata": {
+        "description": "Jacksonville Jaguars wide receiver Jakobi Meyers is a fine option off the waiver wire for Week 6's matchup with their division-rival Houston Texans in London. Meyers joined Jacksonville in a trade with the Raiders at last season's deadline and became a go-to target during the team's playoff push. In 2026, the veteran's role has taken a step back, acting as little more than a tertiary option in the Jags' attack. That said, Meyers currently ranks third among Jacksonville's pass catchers in receptions (15), yards (202), and targets (18). While it may not always show up in the box score due to a run-heavy game plan, the 29-year-old has been involved. He's worth streaming consideration, especially against a Texans defense that hasn't been as formidable as it was in 2025.",
+        "title": "Jakobi Meyers a Strong Stream in Favorable Spot",
+        "topic_id": "1417423686218092544",
+        "url": "https://www.rotoballer.com/player-news/jakobi-meyers-a-strong-stream-in-favorable-spot/1969313"
+      },
+      "nfl_team": "JAX",
+      "player_id": "5947",
+      "player_name": "Jakobi Meyers",
+      "position": "WR",
+      "published": 1792287913000,
+      "source": "rotoballer",
+      "source_key": "224668",
+      "story_id": "nfl|5947|rotoballer|224668|1792287913000",
+      "title": "Jakobi Meyers a Strong Stream in Favorable Spot",
+      "url": "https://www.rotoballer.com/player-news/jakobi-meyers-a-strong-stream-in-favorable-spot/1969313"
     },
     {
       "analysis": null,
@@ -132879,128 +133150,6 @@
       "story_id": "nfl|10236|rotoballer|221350|1789724345000",
       "title": "Dalton Kincaid Leads Bills in Targets, Receptions, and Receiving Yards",
       "url": "https://www.rotoballer.com/player-news/dalton-kincaid-leads-bills-in-targets-receptions-and-receiving-yards-in-week-2/1934272"
-    },
-    {
-      "analysis": null,
-      "description": "Detroit Lions wide receiver Amon-Ra St. Brown was one of the lone bright spots in his team's 41-31 Week 2 loss to the Buffalo Bills, recording nine catches for 142 yards and two touchdowns on 13 targets. St. Brown has gotten off to a fantastic start to the season, hauling in 19 receptions for 209 yards and four touchdowns on 27 targets across Detroit's first two games. The 26-year-old has been a highly reliable wide receiver for fantasy managers for a number of years now, posting three consecutive seasons with at least 115 catches, 1,250 receiving yards, and 10 touchdowns coming into 2026. Still, he could be poised for a career season from a production perspective if the Lions' defense continues to struggle as mightily as it has through the first two weeks. Heading into Detroit's Week 3 matchup against the New York Jets, St. Brown profiles as a high-end fantasy WR1.",
-      "metadata": {
-        "description": "Detroit Lions wide receiver Amon-Ra St. Brown was one of the lone bright spots in his team's 41-31 Week 2 loss to the Buffalo Bills, recording nine catches for 142 yards and two touchdowns on 13 targets. St. Brown has gotten off to a fantastic start to the season, hauling in 19 receptions for 209 yards and four touchdowns on 27 targets across Detroit's first two games. The 26-year-old has been a highly reliable wide receiver for fantasy managers for a number of years now, posting three consecutive seasons with at least 115 catches, 1,250 receiving yards, and 10 touchdowns coming into 2026. Still, he could be poised for a career season from a production perspective if the Lions' defense continues to struggle as mightily as it has through the first two weeks. Heading into Detroit's Week 3 matchup against the New York Jets, St. Brown profiles as a high-end fantasy WR1.",
-        "title": "Amon-Ra St. Brown Posts Another Monster Game in Week 2",
-        "topic_id": "1406667789393006592",
-        "url": "https://www.rotoballer.com/player-news/amon-ra-st-brown-posts-another-monster-game-in-week-2/1934256"
-      },
-      "nfl_team": "DET",
-      "player_id": "7547",
-      "player_name": "Amon-Ra St. Brown",
-      "position": "WR",
-      "published": 1789723507000,
-      "source": "rotoballer",
-      "source_key": "221349",
-      "story_id": "nfl|7547|rotoballer|221349|1789723507000",
-      "title": "Amon-Ra St. Brown Posts Another Monster Game in Week 2",
-      "url": "https://www.rotoballer.com/player-news/amon-ra-st-brown-posts-another-monster-game-in-week-2/1934256"
-    },
-    {
-      "analysis": null,
-      "description": "Detroit Lions wide receiver Jameson Williams was held in check in his team's 41-31 loss to the Buffalo Bills on Thursday night, recording two catches for 33 yards on four targets. It's been an underwhelming start to the season for Williams, who has now logged six receptions for 78 yards on 13 targets across Detroit's first two games of the season. Against Buffalo, Williams finished fifth on the Lions in targets behind wide receivers Amon-Ra St. Brown and Isaac TeSlaa, tight end Sam LaPorta, and running back Jahmyr Gibbs. While Williams has shown he can provide explosive fantasy production on a limited number of touches in the past, the 25-year-old also has a long history of providing fantasy managers with bust weeks when Detroit has its full complement of pass-catchers healthy. Heading into the Lions' Week 3 matchup against the New York Jets, it will be difficult for fantasy managers to trust Williams as anything more than a high-ceiling, low-floor WR3/flex option.",
-      "metadata": {
-        "description": "Detroit Lions wide receiver Jameson Williams was held in check in his team's 41-31 loss to the Buffalo Bills on Thursday night, recording two catches for 33 yards on four targets. It's been an underwhelming start to the season for Williams, who has now logged six receptions for 78 yards on 13 targets across Detroit's first two games of the season. Against Buffalo, Williams finished fifth on the Lions in targets behind wide receivers Amon-Ra St. Brown and Isaac TeSlaa, tight end Sam LaPorta, and running back Jahmyr Gibbs. While Williams has shown he can provide explosive fantasy production on a limited number of touches in the past, the 25-year-old also has a long history of providing fantasy managers with bust weeks when Detroit has its full complement of pass-catchers healthy. Heading into the Lions' Week 3 matchup against the New York Jets, it will be difficult for fantasy managers to trust Williams as anything more than a high-ceiling, low-floor WR3/flex option.",
-        "title": "Jameson Williams Difficult to Trust After Underwhelming Week 2",
-        "topic_id": "1406666530237747200",
-        "url": "https://www.rotoballer.com/player-news/jameson-williams-difficult-to-trust-after-underwhelming-week-2-performance/1934248"
-      },
-      "nfl_team": "DET",
-      "player_id": "8148",
-      "player_name": "Jameson Williams",
-      "position": "WR",
-      "published": 1789723086000,
-      "source": "rotoballer",
-      "source_key": "221348",
-      "story_id": "nfl|8148|rotoballer|221348|1789723086000",
-      "title": "Jameson Williams Difficult to Trust After Underwhelming Week 2",
-      "url": "https://www.rotoballer.com/player-news/jameson-williams-difficult-to-trust-after-underwhelming-week-2-performance/1934248"
-    },
-    {
-      "analysis": null,
-      "description": "Buffalo Bills wide receiver DJ Moore (shoulder) is \"believed to have suffered an AC joint sprain\" in his left shoulder, and his status for Week 3 is \"up in the air,\" per Ian Rapoport and Adam Schefter of ESPN. Moore was forced to exit early from his team's Week 2 win over the Detroit Lions, which led to him finishing the game without a reception. The 29-year-old was heavily featured in Buffalo's season-opening win over the Houston Texans, recording five catches for 100 yards and a touchdown on eight targets. Moore has typically been an iron man in his career, playing in all 17 games in five consecutive seasons entering 2026. If he is unable to play in Week 3 against the Los Angeles Chargers, Bills wideout Keon Coleman would likely see a significant increase in playing time and target share.",
-      "metadata": {
-        "description": "Buffalo Bills wide receiver DJ Moore (shoulder) is \"believed to have suffered an AC joint sprain\" in his left shoulder, and his status for Week 3 is \"up in the air,\" per Ian Rapoport and Adam Schefter of ESPN. Moore was forced to exit early from his team's Week 2 win over the Detroit Lions, which led to him finishing the game without a reception. The 29-year-old was heavily featured in Buffalo's season-opening win over the Houston Texans, recording five catches for 100 yards and a touchdown on eight targets. Moore has typically been an iron man in his career, playing in all 17 games in five consecutive seasons entering 2026. If he is unable to play in Week 3 against the Los Angeles Chargers, Bills wideout Keon Coleman would likely see a significant increase in playing time and target share.",
-        "title": "DJ Moore Battling AC Joint Sprain, Week 3 Status in Question",
-        "topic_id": "1406665271162232832",
-        "url": "https://www.rotoballer.com/player-news/dj-moore-battling-ac-joint-sprain-week-3-status-in-question/1934237"
-      },
-      "nfl_team": "BUF",
-      "player_id": "4983",
-      "player_name": "DJ Moore",
-      "position": "WR",
-      "published": 1789722676000,
-      "source": "rotoballer",
-      "source_key": "221347",
-      "story_id": "nfl|4983|rotoballer|221347|1789722676000",
-      "title": "DJ Moore Battling AC Joint Sprain, Week 3 Status in Question",
-      "url": "https://www.rotoballer.com/player-news/dj-moore-battling-ac-joint-sprain-week-3-status-in-question/1934237"
-    },
-    {
-      "analysis": "Horton has logged back-to-back full practices. He remains on track to make his season debut on Sunday. ",
-      "description": "Tory Horton remained a full participant in practice on Thursday. ",
-      "metadata": {
-        "analysis": "Horton has logged back-to-back full practices. He remains on track to make his season debut on Sunday. ",
-        "description": "Tory Horton remained a full participant in practice on Thursday. ",
-        "title": "Tory Horton (hamstring) logs full practice Thursday ",
-        "topic_id": "1406554507650797568",
-        "url": "https://www.fantasypros.com/nfl/news/608770/tory-horton-hamstring-logs-full-practice-thursday.php"
-      },
-      "nfl_team": "SEA",
-      "player_id": "12497",
-      "player_name": "Tory Horton",
-      "position": "WR",
-      "published": 1789711236449,
-      "source": "fantasy_pros",
-      "source_key": "608770",
-      "story_id": "nfl|12497|fantasy_pros|608770|1789711236449",
-      "title": "Tory Horton (hamstring) logs full practice Thursday ",
-      "url": "https://www.fantasypros.com/nfl/news/608770/tory-horton-hamstring-logs-full-practice-thursday.php"
-    },
-    {
-      "analysis": "Kupp was upgraded after he was limited on Wednesday. He'll remain in the WR4/WR5 range for fantasy managers.",
-      "description": "Cooper Kupp was a full participant in practice on Thursday. ",
-      "metadata": {
-        "analysis": "Kupp was upgraded after he was limited on Wednesday. He'll remain in the WR4/WR5 range for fantasy managers.",
-        "description": "Cooper Kupp was a full participant in practice on Thursday. ",
-        "title": "Cooper Kupp (back) logs full practice Thursday ",
-        "topic_id": "1406554507545939968",
-        "url": "https://www.fantasypros.com/nfl/news/608773/cooper-kupp-back-logs-full-practice-thursday.php"
-      },
-      "nfl_team": "SEA",
-      "player_id": "4039",
-      "player_name": "Cooper Kupp",
-      "position": "WR",
-      "published": 1789711236423,
-      "source": "fantasy_pros",
-      "source_key": "608773",
-      "story_id": "nfl|4039|fantasy_pros|608773|1789711236423",
-      "title": "Cooper Kupp (back) logs full practice Thursday ",
-      "url": "https://www.fantasypros.com/nfl/news/608773/cooper-kupp-back-logs-full-practice-thursday.php"
-    },
-    {
-      "analysis": "Shakir played a complementary role once again, and although he did finish tied for second in targets on the Bills, he was only third in receptions and fourth in receiving yards. He's seen Dalton Kincaid take on a much bigger role in the passing game over the first two games of the season, but the wideout is still averaging 6.0 targets over that same span and could be due for a boost in workload if DJ Moore misses any games with the shoulder injury that knocked him out of Thursday's contest late in the second quarter. Shakir will next take aim at the Chargers defense in a Week 3 home matchup on Sunday, Sept. 27.",
-      "description": "Shakir brought in three of six targets for 38 yards and returned one kickoff for 11 yards in the Bills' 41-31 win over the Lions on Thursday.",
-      "metadata": {
-        "analysis": "Shakir played a complementary role once again, and although he did finish tied for second in targets on the Bills, he was only third in receptions and fourth in receiving yards. He's seen Dalton Kincaid take on a much bigger role in the passing game over the first two games of the season, but the wideout is still averaging 6.0 targets over that same span and could be due for a boost in workload if DJ Moore misses any games with the shoulder injury that knocked him out of Thursday's contest late in the second quarter. Shakir will next take aim at the Chargers defense in a Week 3 home matchup on Sunday, Sept. 27.",
-        "description": "Shakir brought in three of six targets for 38 yards and returned one kickoff for 11 yards in the Bills' 41-31 win over the Lions on Thursday.",
-        "title": "Khalil Shakir - Records 49 all-purpose yards in win",
-        "topic_id": "1406541920108367872"
-      },
-      "nfl_team": "BUF",
-      "player_id": "8134",
-      "player_name": "Khalil Shakir",
-      "position": "WR",
-      "published": 1789708164000,
-      "source": "rotowire",
-      "source_key": "637865",
-      "story_id": "nfl|8134|rotowire|637865|1789708164000",
-      "title": "Khalil Shakir - Records 49 all-purpose yards in win",
-      "url": null
     }
   ]
 }
