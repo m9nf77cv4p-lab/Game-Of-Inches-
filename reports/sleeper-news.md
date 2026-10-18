@@ -2,144 +2,197 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6550**
-- Newly captured: **49**
+- Stored stories: **6525**
+- Newly captured: **26**
 
 ## Latest news
 
-- **NEW — Jaleel McLaughlin** — Jaleel McLaughlin - Looks set for Week 6 start (2026-10-18T16:37:35Z)
-  - With Quinshon Judkins (ankle) inactive and Dylan Sampson (knee) remaining on injured reserve for another week, McLaughlin is the next man up out of the backfield for Cleveland. Cleveland signed Audric Estime off the Minnesota practice squad earlier in the week to provide another option at running back, but McLaughlin projects to serve as the lead ballcarrier as well as the team's top option on passing downs. In four games with the Browns since being signed to the roster, McLaughlin has played just 27 total snaps on offense, carrying twice for 31 yards and a touchdown while going without a catch on two targets.
-- **NEW — Taylen Green** — Taylen Green - Acts as emergency QB3 (2026-10-18T16:33:06Z)
+- **NEW — Carson Beck** — Carson Beck - Emergency QB once again (2026-10-18T18:45:43Z)
+  - Beck remains the third option behind Jacoby Brissett and Gardner Minshew. The rookie third-rounder will only enter Sunday's contest if both Brissett and Minshew are unable to continue playing.
+- **NEW — Rashod Bateman** — Rashod Bateman - Won't return Sunday (2026-10-18T18:45:29Z)
+  - Bateman appears to have aggravated the shoulder injury that bothered him during Week 6 prep. Now that it;'s confirmed Bateman won't return Sunday, he'll finish the contest with no catches (on one target). Ja'Kobi Lane, Devontez Walker and LaJohntay Wester are the Ravens' available wide receivers behind top option Zay Flowers.
+- **NEW — Alvin Kamara** — Alvin Kamara - Back in Sunday's game (2026-10-18T18:28:35Z)
+  - Kamara missed some time in the first half after attempting to haul in a pass from QB Tyler Shough down the left sideline, but his return indicates he'll attempt to gut through whatever is affecting him. Having said that, the Saints are continuing to employ a timeshare between Kamara, Kendre Miller and CJ Donaldson out of the backfield, so Kamara's current outlook isn't exactly fantasy friendly.
+- **NEW — Rashod Bateman** — Rashod Bateman - Hurts shoulder in Week 6 (2026-10-18T18:24:48Z)
+  - Bateman tended to a shoulder injury during Week 6 prep, as he logged an LP/DNP/FP practice regimen. His listing Sunday indicates he aggravated the issue, which has left him questionable to return. Bateman didn't haul in his only target before exiting late in the first half.
+- **NEW — Alvin Kamara** — Alvin Kamara - Heads to medical tent Sunday (2026-10-18T18:01:28Z)
+  - While attempting to catch a somewhat errant pass down the left sideline, Kamara landed awkwardly and appeared to be shaken up. The current health concern isn't known, but he has been dealing with a back injury the last two weeks, so it may be an aggravation of that issue. Kendre Miller and CJ Donaldson are the Saints' current healthy and available running backs.
+- **NEW — Travis Hunter** — Travis Hunter - Scores on both sides of ball Sunday (2026-10-18T17:56:21Z)
+  - The two-way player is beginning to flash the talent that made him the second overall pick in the 2025 NFL Draft. Hunter's receiving numbers were by far a season high -- he had only two catches coming into Sunday -- and his day on offense was capped by a seven-yard TD toss from Trevor Lawrence in the fourth quarter that brought the Jaguars to within a field goal at 31-28. Hunter then made an impact on the very next possession, picking off a C.J. Stroud pass in the end zone with just under four minutes left on the clock to keep his team in the game. The touchdown and interception were each the second of his career in his 13th NFL game, and Hunter became the first player since 2002 to have one of each in the same game. Jacksonville's WR room is crowded with Parker Washington, Jakobi Meyers and Brian Thomas at the top of the depth chart, but coach Liam Coen hinted after the game that Hunter's role on offense could continue to grow on the other side of the team's Week 7 bye.
+- **NEW — Romeo Doubs** — Romeo Doubs (shoulder) questionable to return  (2026-10-18T17:55:58.726000Z)
+  - Doubs appeared to suffer the shoulder injury on his touchdown reception in the first quarter. The Patriots should update his status after halftime. 
+  - Source: https://www.fantasypros.com/nfl/news/614501/romeo-doubs-shoulder-questionable-to-return.php
+- **NEW — Brian Thomas** — Brian Thomas - Blanked in Week 6 (2026-10-18T17:53:19Z)
+  - Per ESPN Research, Thomas logged 15 offensive snaps in the first half but none after halftime, while all of fellow WRs Parker Washington (11 targets), Jakobi Meyers (10) and Travis Hunter (four) had major roles in the Jaguars offense. Thomas maintained a regular workload in the first five games of the season, with his snap shares ranging from 35 to 62 percent en route to a 9-105-1 line on 18 targets. Sunday's development could be a sign of things to come for Thomas without the team mentioning any sort of injury during or after Sunday's contest.
+- **NEW — Romeo Doubs** — Romeo Doubs - Injures shoulder in Week 6 (2026-10-18T17:43:38Z)
+  - Doubs recorded a 42-yard touchdown connection with QB Drake Maye in the first quarter of Week 6 action, but he was shaken up afterward, visited the sideline tent and then went to the locker room before the Patriots deemed the wide receiver questionable to return. For as long as Doubs is off the field, A.J. Brown, DeMario Douglas, Efton Chism and Kyle Williams will handle WR reps for New England.
+- **NEW — Jakobi Meyers** — Jakobi Meyers - Leading receiver in Week 6 loss (2026-10-18T17:43:33Z)
+  - While Parker Washington led the Jaguars with 11 looks from Trevor Lawrence, Meyers paced the club in catches and receiving yards on his largest target volume of the season. The 83 yards were also a season best for Meyers, and the veteran wideout will take a 20-285-2 line on 28 targets into a bye before clashing with the Colts in Week 8.
+- **NEW — Parker Washington** — Parker Washington - Held in check on big volume Sunday (2026-10-18T17:39:21Z)
+  - Despite leading the Jaguars in targets, Washington finished second to Jakobi Meyers in both catches and receiving yards, and he wasn't on the other end of any of Trevor Lawrence's four TDs. It's the third time in the last four games that Washington has failed to reach five grabs or 70 yards, but the fourth contest featured a 6-124-2 line from the fourth-year wideout. Washington will take a 26-416-4 line on 46 targets into a bye before facing the Colts in Week 8.
+- **NEW — Michael Penix** — Michael Penix - Returns to game Sunday (2026-10-18T17:36:11Z)
+  - Penix paid a visit to the sideline tent in the first quarter of Week 6 action, but after a spell on the bench he was able to check back into the contest. If Penix eventually does miss any snaps, Tua Tagovailoa is on hand to direct the Falcons offense.
+- **NEW — Trevor Lawrence** — Trevor Lawrence - Launches four TDs in London loss (2026-10-18T17:36:07Z)
+  - The Jaguars had to open things up in the second half after falling behind 24-14 following the Texans' first possession of the third quarter, and Lawrence wound up attempting 40-plus passes for the first time this season while tying his 2026 high in TD passes with two scores to Bhayshul Tuten, and one each to Travis Hunter and rookie tight end Nate Boerkircher. He also topped 300 passing yards for a second straight game. Lawrence will take a 14:4 TD:INT into a bye before clashing with the Colts in Week 8.
+- **NEW — Michael Penix** — Michael Penix - Visits medical tent Sunday (2026-10-18T17:32:20Z)
+  - Penix was cleared to play in Week 6 after injuring his ribs near the end of a Week 5 overtime loss to the Ravens. The current health concern isn't known, but Tua Tagovailoa started warming up to replace Penix.
+- **NEW — Bhayshul Tuten** — Bhayshul Tuten - Two receiving TDs in Week 6 loss (2026-10-18T17:31:22Z)
+  - While the Houston front seven kept him bottled up on the ground -- Tuten's longest run went for just five yards -- the second-year RB made an impact through the air, turning a dump pass from Trevor Lawrence into a 27-yard score in the second quarter before catching another two-yard TD before halftime. The receiving touchdowns were his first of the season and tied his total from all of 2025, and Tuten topped 80 scrimmage yards for the fourth straight game. The Jaguars will get a bye before facing the Colts in Week 8.
+- **NEW — Woody Marks** — Woody Marks - Leads backfield with 81 scrimmage yards (2026-10-18T17:25:30Z)
+  - With David Montgomery (groin) inactive, Marks led the Texans backfield in touches and scrimmage yards, but practice-squad elevation Jawhar Jordan arguably made a bigger splash with 43 rushing yards and a touchdown on just six carries. Jordan showed some upside late last season when pressed into duty as well, so even if Montgomery's absence continues, Marks could see his workload shrink. Marks will take on the Giants in Week 7.
+- **NEW — Marvin Harrison** — Marvin Harrison - Three catches in Houston debut (2026-10-18T17:20:42Z)
+  - Making his Texans debut, Harrison wasn't especially productive on his own, but quarterback C.J. Stroud seemed to benefit from his presence and spread the ball around to 10 different pass catchers. The three grabs still tied Harrison's season high, giving him something to build on as he looks to put his disappointing Cardinals tenure behind him. The two former Ohio State teammates will look to re-buiild their chemistry further in Week 7 against the Giants.
+- **NEW — C.J. Stroud** — C.J. Stroud - Tosses three TDs in big divisional win (2026-10-18T17:17:31Z)
+  - With Marvin Harrison making his Texans debut, Stroud spread the ball around to 10 different pass catchers as he set a new season high in TD passes and topped 300 yards for the third time in six games. The QB did throw his first INT of the season at a potentially crucial time, getting picked off by Travis Hunter in the end zone in the fourth quarter, but Stroud made up for it by putting together a game-winning field goal drive as time expired on his next possession. He'll take a 9:1 TD:INT into a Week 7 clash with the Giants.
+- **NEW — Nico Collins** — Nico Collins - Held to three grabs in Week 6 win (2026-10-18T17:08:40Z)
+  - C.J. Stroud spread the ball around to 10 different pass catchers, and Jaylin Noel wound up being the most productive of the bunch with a 4-107-1 line. Collins still hit for a 42-yard gain on his first catch of the day, helping to set up a Foster Moreau TD in the first quarter. Collins has topped 70 receiving yards in three of his four games this season, compiling a 22-323-3 line on 30 targets. He'll take on an injury-thinned Giants secondary at home in Week 7.
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson - Henderson available in Week 6 (2026-10-18T16:48:46Z)
+  - After Henderson suffered a right high-ankle sprain last Sunday versus the Raiders, Stevenson had a chance to take on a large workload in the short term, but with the former active, it's unclear if that's a possibility in Week 6. Any number of scenarios are possible for Henderson, from him taking on his normal number of touches to being available in an emergency capacity. Stevenson should be safe for roughly his typical 14.4 touches per game, which so far has amounted to 338 yards from scrimmage and two TDs in five contests this season.
+- **Jaleel McLaughlin** — Jaleel McLaughlin - Looks set for Week 6 start (2026-10-18T16:37:35Z)
+  - With Quinshon Judkins (ankle) inactive and both Raheim Sanders (hip) and Dylan Sampson (knee) on injured reserve, McLaughlin is the next man up out of the backfield for Cleveland. Cleveland signed Audric Estime off the Minnesota practice squad earlier in the week to provide another option at running back, but McLaughlin projects to serve as the lead ballcarrier as well as the team's top option on passing downs. In four games with the Browns since being signed to the roster, McLaughlin has played just 27 total snaps on offense, carrying twice for 31 yards and a touchdown while going without a catch on two targets.
+- **Taylen Green** — Taylen Green - Acts as emergency QB3 (2026-10-18T16:33:06Z)
   - Green will once again act as the emergency third quarterback behind Deshaun Watson and Shedeur Sanders. Green will only enter the game if neither Watson nor Sanders can play.
-- **NEW — Cole Payton** — Cole Payton - Moves up to second on depth chart (2026-10-18T16:26:10Z)
+- **Cole Payton** — Cole Payton - Moves up to second on depth chart (2026-10-18T16:26:10Z)
   - A rookie fifth-round pick out of North Dakota State, Payton has yet to make his NFL debut, but he's one step closer to doing so after Jalen Hurts (calf) was placed on injured reserve Saturday. Payton had slotted third or fourth on the depth chart through the first five games of the season, but he'll be dressing as the No. 2 option while McKee draws his third career NFL start. Since he's set to become a free agent after the season and may not be viewed as the Eagles' long-term plan at the backup quarterback spot, McKee could be in danger of losing his grip on the starting job if he struggles in his extended snaps while Hurts remains out indefinitely. Payton could be someone to keep an eye on if the Eagles decide to give him a look at any point, as he displayed intriguing rushing skills during his collegiate career and gained 45 yards on three carries during his limited preseason action.
-- **NEW — Elijah Sarratt** — Elijah Sarratt - Inactive for Week 6 (2026-10-18T16:22:15Z)
+- **Elijah Sarratt** — Elijah Sarratt - Inactive for Week 6 (2026-10-18T16:22:15Z)
   - Sarratt is inactive for the second straight game. The 23-year-old appeared just once in six regular-season games, recording one catch for 13 yards on 23 offensive snaps.
-- **NEW — Tanner McKee** — Tanner McKee - Filling in as starter with Hurts on IR (2026-10-18T16:16:01Z)
+- **Tanner McKee** — Tanner McKee - Filling in as starter with Hurts on IR (2026-10-18T16:16:01Z)
   - McKee is likely headed for a multi-game run as the Eagles' starter, after Jalen Hurts (calf) was ruled out for Week 6 due to a superficial blood clot before landing on injured reserve Saturday. Rookie fifth-round pick Cole Payton is active as the No. 2 quarterback for Sunday's game behind McKee, who will be making the third start of his four-year career. Unlike Hurts, the 6-foot-6, 231-pound McKee is more of a traditional pocket passer who doesn't offer much of a threat as a runner, but he's been serviceable in directing the Philadelphia offense in his limited opportunities. He's completed 54 of 88 career pass attempts (61.4 percent) for 597 yards (6.8 YPA), five touchdowns and one interception.
-- **NEW — Tyjae Spears** — Tyjae Spears - Cleared to play vs. Indianapolis (2026-10-18T16:13:56Z)
+- **Tyjae Spears** — Tyjae Spears - Cleared to play vs. Indianapolis (2026-10-18T16:13:56Z)
   - Spears drew the questionable tag for Sunday's AFC South showdown after logging a full practice Friday, and the fourth-year running back has been cleared by medical staff to suit up against Indianapolis. He has 17 carries for 65 yards and 14 catches (on 16 targets) for 68 yards through five regular-season games while serving as the Titans' RB2 behind Tony Pollard.
-- **NEW — Rico Dowdle** — Rico Dowdle (toe) officially active for Week 6  (2026-10-18T16:10:57.347000Z)
+- **Rico Dowdle** — Rico Dowdle (toe) officially active for Week 6  (2026-10-18T16:10:57.347000Z)
   - Dowdle has dealt with a toe injury that has kept him sidelined since Week 2. Jaylen Warren will likely still see the bulk of the carries, but Dowdle's return will result in less work for Warren.
   - Source: https://www.fantasypros.com/nfl/news/614499/rico-dowdle-toe-officially-active-week-6.php
-- **NEW — Case Keenum** — Case Keenum - Emergency QB3 for Week 6 (2026-10-18T16:02:50Z)
-  - With Caleb Williams (hamstring) officially cleared to return from a three-game absence, head coach Ben Johnson has opted to go with Tyson Bagent as the Bears' backup. As the emergency QB3, Keenum is now allowed to play against Atlanta on Sunday unless both Willams and Bagent leave the game due to injury, illness or ejection.
-- **NEW — Pat Freiermuth** — Pat Freiermuth (calf) officially active for Week 6  (2026-10-18T16:00:57.477000Z)
+- **Case Keenum** — Case Keenum - Emergency QB3 for Week 6 (2026-10-18T16:02:50Z)
+  - With Caleb Williams (hamstring) officially cleared to return from a three-game absence, head coach Ben Johnson has opted to go with Tyson Bagent as the Bears' backup. As the emergency QB3, Keenum won't play against Atlanta on Sunday unless both Willams and Bagent leave the game due to injury, illness or ejection.
+- **Pat Freiermuth** — Pat Freiermuth (calf) officially active for Week 6  (2026-10-18T16:00:57.477000Z)
   - Freiermuth was a late addition to the injury report this week, but has been cleared to play after pregame warmups. The veteran has appeared more involved in the offense as of late, scoring three touchdowns in his last two games. 
   - Source: https://www.fantasypros.com/nfl/news/614498/pat-freiermuth-calf-officially-active-week-6.php
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson (ankle) officially active for Week 6  (2026-10-18T16:00:57.264000Z)
+- **TreVeyon Henderson** — TreVeyon Henderson (ankle) officially active for Week 6  (2026-10-18T16:00:57.264000Z)
   - Henderson was listed as questionable due to a high-ankle sprain he suffered last week. Even with Henderson active, Rhamondre Stevenson will likely see the bulk of the carries for the Patriots against the Jets. 
   - Source: https://www.fantasypros.com/nfl/news/614497/treveyon-henderson-ankle-officially-active-week-6.php
-- **NEW — Rico Dowdle** — Rico Dowdle - Week 6 return official (2026-10-18T15:58:26Z)
+- **Rico Dowdle** — Rico Dowdle - Week 6 return official (2026-10-18T15:58:26Z)
   - Dowdle had teed up his active status by finishing Week 6 prep with consecutive full practices. The veteran offseason addition, who missed the last three games due to a toe dislocation, had been working in a true timeshare with Jaylen Warren over the first two games of the season, but the latter's 321 rushing yards, 169 receiving yards and two total touchdowns during Dowdle's absence will keep him in a clear lead-back role while Dowdle serves as a complementary option against a stout Buccaneers run defense.
-- **NEW — Drew Allar** — Drew Allar - Healthy scratch for Week 6 (2026-10-18T15:55:45Z)
+- **Drew Allar** — Drew Allar - Healthy scratch for Week 6 (2026-10-18T15:55:45Z)
   - With Aaron Rodgers and Mason Rudolph as the active quarterbacks and Will Howard inactive as the emergency third option, there is no current place for the third-round rookie in the quarterback room. Allar will likely remain inactive unless one of the other three quarterbacks gets injured.
-- **NEW — Omar Cooper** — Omar Cooper - Returning to action Week 6 (2026-10-18T15:55:38Z)
+- **Omar Cooper** — Omar Cooper - Returning to action Week 6 (2026-10-18T15:55:38Z)
   - Cooper will suit up for the first time since Week 1, when he sustained a high-ankle sprain on the Jets' first offensive possession of the season in an eventual win over the Titans. The rookie first-round pick out of Indiana returned to practice this week, turning in a pair of limited sessions Wednesday and Thursday before upgrading to full participation Friday and getting activated from injured reserve Saturday. With Adonai Mitchell (finger) out for another week, Cooper could potentially settle in as the Jets' No. 2 receiver Sunday, pushing Tim Patrick down a spot on the depth chart.
-- **NEW — Pat Freiermuth** — Pat Freiermuth - Active in Week 6 (2026-10-18T15:54:33Z)
-  - Freiermuth was tacked on to the Steelers' injury report Saturday after he dealt with calf tightness during the team's walkthrough, but reports earlier Sunday indicated the veteran tight end was trending toward active status. Freiermuth's availability is now official, and after recording three touchdown receptions over the last two games, he could be in for another busy afternoon Sunday due to Pittsburgh being without all of Michael Pittman (IR, foot), Roman Wilson (IR, finger) and Ben Skowronek (calf) in terms of pass-catching options.
-- **NEW — Alvin Kamara** — Alvin Kamara (back) officially active for Week 6 (2026-10-18T15:50:57.525000Z)
+- **Pat Freiermuth** — Pat Freiermuth - Active in Week 6 (2026-10-18T15:54:33Z)
+  - Freiermuth was tacked on to the Steelers' injury report Saturday after he dealt with calf tightness during the team's walkthrough, but reports earlier Sunday indicated the veteran tight end was trending toward active status. His availability is now official, and after recording three touchdown receptions over the last two games, he could be in for another busy afternoon Sunday due to Pittsburgh being without all of Michael Pittman (IR, foot), Roman Wilson (IR, finger) and Ben Skowronek (calf) in terms of pass-catching options.
+- **Alvin Kamara** — Alvin Kamara (back) officially active for Week 6 (2026-10-18T15:50:57.525000Z)
   - Kamara was considered questionable to play after being limited in practice throughout the week. Kamara is likely a flex play at best in deeper leagues right now. 
   - Source: https://www.fantasypros.com/nfl/news/614492/alvin-kamara-back-officially-active-week-6.php
-- **NEW — Chris Olave** — Chris Olave (illness) officially active for Week 6  (2026-10-18T15:50:57.513000Z)
+- **Chris Olave** — Chris Olave (illness) officially active for Week 6  (2026-10-18T15:50:57.513000Z)
   - Olave was able to practice Friday but was listed as questionable to play as a precaution. The Saints will have their top pass catcher active against the Giants. 
   - Source: https://www.fantasypros.com/nfl/news/614493/chris-olave-illness-officially-active-week-6.php
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane - Returning to action Sunday (2026-10-18T15:47:37Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane - Returning to action Sunday (2026-10-18T15:47:37Z)
   - After injuring his left wrist in the Ravens' Week 1 win over the Colts and landing on injured reserve, Lane was cleared to resume practicing Wednesday. The rookie wideout proceeded to turn in three consecutive full sessions, and the Ravens came away satisfied enough with his health to bring him back from IR. Lane could immediately settle in as the Ravens' No. 3 wideout behind Zay Flowers and Rashod Bateman as he makes his return to the lineup.
-- **NEW — Caleb Williams** — Caleb Williams - Active for Week 6 (2026-10-18T15:46:45Z)
-  - It was reported Saturday that Williams was on track to both suit up and start Sunday in Week 6, and it is now official that he will be in uniform. While the latter has not officially been confirmed, Case Keenum was designated as Chicago's third quarterback Sunday and Tyson Bagent is the only other signal-caller on the roster, so all signs point to Williams opening the contest under center.
-- **NEW — Kenyon Sadiq** — Kenyon Sadiq - Suiting up in Week 6 (2026-10-18T15:45:23Z)
+- **Caleb Williams** — Caleb Williams - Active for Week 6 (2026-10-18T15:46:45Z)
+  - It was reported Saturday that Williams was on track to both suit up and start Sunday in Week 6, and it is now official that he will be in uniform. While his starting assignment hasn't officially been confirmed, Case Keenum was designated as Chicago's third quarterback Sunday and Tyson Bagent is the only other signal-caller on the roster, so all signs point to Williams opening the contest under center.
+- **Kenyon Sadiq** — Kenyon Sadiq - Suiting up in Week 6 (2026-10-18T15:45:23Z)
   - Sadiq took a questionable tag into the weekend, but after putting in a full practice Friday, he seemingly passed the final step of concussion protocol by gaining clearance from an independent neurologist Saturday. The rookie tight end isn't expected to face any major restrictions with his snap count during the Week 6 contest.
-- **NEW — Alvin Kamara** — Alvin Kamara - Active in Week 6 (2026-10-18T15:43:55Z)
+- **Alvin Kamara** — Alvin Kamara - Active in Week 6 (2026-10-18T15:43:55Z)
   - Kamara has dealt with a back injury the past two weeks, and three limited listings during Week 6 prep led to a questionable designation for Sunday. On Sunday morning, Ian Rapoport of NFL Network reported that Kamara is expected to play, which now has been confirmed. Since Travis Etienne (hamstring) landed on IR after Week 3, Kamara has earned 17 touches, while fellow RBs Kendre Miller (18) and CJ Donaldon (10) also have had regular roles, making it difficult to trust any of the trio for fantasy purposes.
-- **NEW — Joe Milton** — Joe Milton - Emergency QB3 in Eagles debut (2026-10-18T15:43:32Z)
-  - The Eagles signed Milton off the practice squad to the active roster Friday following the news that Jalen Hurts would be out indefinitely due to a superficial blood clot in his calf, with the latter being placed on injured reserve Saturday. The Eagles will start Tanner McKee on Sunday while rookie fifth-rounder Cole Payton as the backup. As the emergency QB3, Milton is prohibited from playing against Carolina unless both McKee and Payton leave the game due to injury, illness or ejection.
-- **NEW — Quinshon Judkins** — Quinshon Judkins - Sidelined for Week 6 (2026-10-18T15:41:31Z)
+- **Joe Milton** — Joe Milton - Emergency QB3 in Eagles debut (2026-10-18T15:43:32Z)
+  - The Eagles signed Milton off the practice squad to the active roster Friday following the news that Jalen Hurts would be out indefinitely due to a superficial blood clot in his calf, with the latter being placed on injured reserve Saturday. The Eagles will start Tanner McKee on Sunday while rookie fifth-rounder Cole Payton serves as the backup. As the emergency QB3, Milton is prohibited from playing against Carolina unless both McKee and Payton leave the game due to injury, illness or ejection.
+- **Quinshon Judkins** — Quinshon Judkins - Sidelined for Week 6 (2026-10-18T15:41:31Z)
   - Coming out of the Browns' Week 5 loss to the Jets, head coach Todd Monken labeled Judkins as day-to-day due to a right ankle injury. Judkins was held out of practices Wednesday and Thursday before returning to the field Friday as a limited participant, prompting the Browns to list him questionable heading into the weekend. After going through a pregame workout Sunday, Judkins wasn't able to show enough progress with his ankle to suit up, so he'll wind up being sidelined for the first time this season. The Browns will have Jaleel McLaughlin and Audric Estime as their available running backs for Week 6.
-- **NEW — Nicholas Singleton** — Nicholas Singleton - Healthy scratch again (2026-10-18T15:41:14Z)
+- **Nicholas Singleton** — Nicholas Singleton - Healthy scratch again (2026-10-18T15:41:14Z)
   - Singleton will be a healthy scratch for consecutive weeks after logging just three carries in the Titans' Week 4 loss to the Ravens. The fifth-round rookie appears destined to take a backseat for the remainder of the 2026 season.
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Active Sunday (2026-10-18T15:41:09Z)
-  - Henderson emerged from a Week 5 win versus the Raiders with an apparent right high-ankle sprain, which typically requires a multi-week recovery. For this particular injury, though, he was able to log three consecutive limited practices this week, receive a questionable designation and then tell Doug Kyed of the Boston Herald on Friday that he's "hoping to play." Ian Rapoport of NFL Network then reported Sunday morning that Henderson is likely to suit up, which now has been confirmed. Even though he's active, the Patriots could lean more on Rhamondre Stevenson and Corey Kiner as the healthier options out of the backfield, but Henderson nonetheless has averaged 11 touches per game in his four appearances this season.
-- **NEW — Kenyon Sadiq** — Kenyon Sadiq (concussion) officially active for Week 6 (2026-10-18T15:40:57.694000Z)
+- **TreVeyon Henderson** — TreVeyon Henderson - Active Sunday (2026-10-18T15:41:09Z)
+  - Henderson emerged from a Week 5 win versus the Raiders with an apparent right high-ankle sprain, which typically requires a multi-week recovery. For this particular injury, though, he was able to log three consecutive limited practices this week, receive a questionable designation and then tell Doug Kyed of the Boston Herald on Friday that he's "hoping to play." Ian Rapoport of NFL Network then reported Sunday morning that Henderson was likely to suit up, which now has been confirmed. Even though he's active, the Patriots could lean more on Rhamondre Stevenson and Corey Kiner as the healthier options out of the backfield, but Henderson nonetheless has averaged 11 touches per game in his four appearances this season.
+- **Kenyon Sadiq** — Kenyon Sadiq (concussion) officially active for Week 6 (2026-10-18T15:40:57.694000Z)
   - Sadiq has cleared concussion protocol and will play against the Patriots after being listed questionable heading into Sunday. Sadiq and Mason Taylor will likely split time at tight end against New England. 
   - Source: https://www.fantasypros.com/nfl/news/614490/kenyon-sadiq-concussion-officially-active-week-6.php
-- **NEW — Tyjae Spears** — Tyjae Spears (knee) officially active for Week 6 (2026-10-18T15:40:57.438000Z)
+- **Tyjae Spears** — Tyjae Spears (knee) officially active for Week 6 (2026-10-18T15:40:57.438000Z)
   - Spears was considered questionable to play as he continues to deal with a minor knee injury. Fantasy managers should expect both Spears and Tony Pollard to be involved in the Titans' backfield. 
   - Source: https://www.fantasypros.com/nfl/news/614488/tyjae-spears-knee-officially-active-week-6.php
-- **NEW — Tyler Warren** — Tyler Warren (groin) officially inactive for Week 6 (2026-10-18T15:40:57.426000Z)
+- **Tyler Warren** — Tyler Warren (groin) officially inactive for Week 6 (2026-10-18T15:40:57.426000Z)
   - Warren was a late addition to the injury report this week and was only able to practice in a limited capacity Friday. Mo Alie-Cox will see the bulk of the playing time at tight end against the Titans. 
   - Source: https://www.fantasypros.com/nfl/news/614489/tyler-warren-groin-officially-inactive-week-6.php
-- **NEW — Tyler Warren** — Tyler Warren - Won't play against Tennessee (2026-10-18T15:38:42Z)
-  - Warren was labelled as a game-time decision for Sunday's AFC South tilt after the second-year tight end popped up on Friday's injury report due to a lingering groin injury from training camp. Warren has seen at least seven targets in three of his last four games, and those opportunities will be absorbed by tight ends Mo Alie-Cox and Will Mallory, as well as wide receivers Josh Downs and Keenan Allen.
-- **NEW — Chris Olave** — Chris Olave - Active in Week 6 (2026-10-18T15:38:32Z)
+- **Tyler Warren** — Tyler Warren - Won't play against Tennessee (2026-10-18T15:38:42Z)
+  - Warren was labeled as a game-time decision for Sunday's AFC South tilt after the second-year tight end popped up on Friday's injury report due to a lingering groin injury from training camp. Warren has seen at least seven targets in three of his last four games, and those opportunities will be absorbed by tight ends Mo Alie-Cox and Will Mallory, as well as wide receivers Josh Downs and Keenan Allen.
+- **Chris Olave** — Chris Olave - Active in Week 6 (2026-10-18T15:38:32Z)
   - An illness afflicted Olave during the entirety of Week 6 prep, holding him to one limited practice Friday, but Ian Rapoport of NFL Network reported Sunday morning that the wide receiver is expected to suit up. Indeed, that has come to pass, and Olave will continue to operate as the unquestioned top target for QB Tyler Shough, who currently ranks second in the NFL this season with 205 pass attempts.
-- **NEW — A.J. Brown** — A.J. Brown - Active for Sunday's game (2026-10-18T15:35:51Z)
-  - Brown is making his first appearance since Week 1, when he suffered a right high-ankle sprain, and there's an expectation that he'll be able to play "a good amount" of snaps, according to Ian Rapoport of NFL Network. What that may amount to for Browns remains to be seen, but in his 16 appearances (including playoffs last season with the Eagles, he handled at least an 87 percent snap share in all but two of those contests.
-- **NEW — Quinshon Judkins** — Quinshon Judkins (ankle) will not play Sunday  (2026-10-18T15:30:57.549000Z)
+- **A.J. Brown** — A.J. Brown - Active for Sunday's game (2026-10-18T15:35:51Z)
+  - Brown is making his first appearance since Week 1, when he suffered a right high-ankle sprain, and there's an expectation that he'll be able to play "a good amount" of snaps, according to Ian Rapoport of NFL Network. What that may amount to for Brown remains to be seen, but in his 16 appearances (including playoffs) last season with the Eagles, he handled at least an 87 percent snap share in all but two of those contests.
+- **Quinshon Judkins** — Quinshon Judkins (ankle) will not play Sunday  (2026-10-18T15:30:57.549000Z)
   - Judkins was listed as questionable to play this week and only practiced Friday for the Browns. With Judkins sidelined, 	Jaleel McLaughlin and Audric Estime will see the bulk of the playing time at running back for the Browns. 
   - Source: https://www.fantasypros.com/nfl/news/614487/quinshon-judkins-ankle-will-not-play-sunday.php
-- **NEW — Tyrone Tracy** — Tyrone Tracy - Recaptures third-down role (2026-10-18T14:19:52Z)
+- **NEW — Rashod Bateman** — Rashod Bateman Ruled Out With Shoulder Injury (2026-10-18T14:48:10Z)
+  - Source: https://www.rotoballer.com/player-news/rashod-bateman-ruled-out-with-shoulder-injury/1969634
+- **Tyrone Tracy** — Tyrone Tracy - Recaptures third-down role (2026-10-18T14:19:52Z)
   - After being plagued by fumbles in the preseason and then losing another in the season-opening win over Dallas, Tracy appeared to be getting phased out of the New York offense. He was limited to just four total offensive snaps over the Giants' first three games, but Tracy has since appeared to regain some trust as a change-of-pace option over the past two weeks. After logging double-digit snaps Week 4 against the Cardinals, Tracy played a season-high 17 snaps in the Week 5 tie with the Commanders while carrying three times for six yards and adding two receptions for 25 yards on three targets. With fellow backs Cam Skattebo (four fumbles, one lost) and Najee Harris (one lost fumble) having had their own ball-security issues so far this season, head coach John Harbaugh may be willing to open up more work for Tracy beginning with Sunday's game. Per Jeremy Fowler of ESPN.com, Harris is expected to supplant Skattebo as the Week 6 starter, but the Giants could look to incorporate a four-man committee that also includes Tracy and Devin Singletary.
-- **NEW — Najee Harris** — Najee Harris - Appears on track to start (2026-10-18T14:08:54Z)
+- **Najee Harris** — Najee Harris - Appears on track to start (2026-10-18T14:08:54Z)
   - As Jordan Raanan of ESPN.com notes, the Giants plan to shake up their running-back rotation in Week 6 after lead option Cam Skattebo fumbled four times (losing one) and averaged 3.6 yards per carry through the first five games. Though Harris looks poised to start and should take on a larger role overall after averaging seven touches per game over the prior four contests, he could be part of a messy four-man committee that includes Skattebo, Tyrone Tracy and Devin Singletary. As such, it's difficult to include Harris in fantasy lineups with much confidence, especially while he's struggled to find open running room in his own right. Harris enters Sunday's contest having matched Skattebo with an average of 3.6 YPC and a lost fumble while seeing far less involvement than Skattebo in the passing game (one catch for five yards on one target over 50 total snaps).
-- **NEW — A.J. Brown** — A.J. Brown - Set to play 'good amount' of snaps Week 6 (2026-10-18T13:37:00Z)
+- **NEW — Romeo Doubs** — Romeo Doubs Questionable to Return vs. Jets with Shoulder Injury (2026-10-18T13:55:09Z)
+  - Source: https://www.rotoballer.com/player-news/romeo-doubs-questionable-to-return-vs-jets-with-shoulder-injury/1969612
+- **NEW — Bo Nix** — Changing Offensive Verbiage has Played a Role in Bo Nix's Struggles (2026-10-18T13:45:18Z)
+  - Source: https://www.rotoballer.com/player-news/changing-offensive-verbiage-has-reportedly-played-a-role-in-bo-nixs-struggles/1969609
+- **A.J. Brown** — A.J. Brown - Set to play 'good amount' of snaps Week 6 (2026-10-18T13:37:00Z)
   - Assuming Brown is officially cleared when the Patriots release their inactive list 90 minutes prior to the 1 p.m. ET kickoff, he'll suit up for the first time since the season opener, when his team debut came to an early end after he sustained a right high-ankle sprain. Following a four-week absence, Brown made his return to practice Wednesday and was a limited participant for three straight sessions before being activated from injured reserve Saturday. Though the Patriots could monitor his playing time to some extent, Brown sounds like he's on track to handle something close to a starter-level snap count.
+- **NEW — Travis Hunter** — Travis Hunter Shines in Two-Way Role for Jaguars in Loss to Texans (2026-10-18T13:27:11Z)
+  - Source: https://www.rotoballer.com/player-news/travis-hunter-shines-in-two-way-role-for-jaguars-in-loss-to-texans/1969601
 - **Najee Harris** — Najee Harris to see increased workload in Week 6 (2026-10-18T13:25:56.407000Z)
   - Harris will look to take advantage of increased opportunities for head coach John Harbaugh after Cam Skattebo struggled with ball security, with Devin Singletary and Tyrone Tracy Jr. also expected to be active Sunday.
   - Source: https://www.fantasypros.com/nfl/news/614485/najee-harris-to-see-increased-workload-week-6.php
+- **NEW — C.J. Stroud** — C.J. Stroud Lights Up Jaguars in London (2026-10-18T13:15:09Z)
+  - Source: https://www.rotoballer.com/player-news/c-j-stroud-lights-up-jaguars-in-london/1969597
 - **Najee Harris** — Najee Harris - Could poach snaps from Skattebo (2026-10-18T12:52:18Z)
   - Skattebo has served as the Giants' lead back through the first five games but is averaging just 3.6 yards per carry and has already fumbled four times (losing one). As a result of Skattebo's ongoing struggles, the Giants may be looking to scale back his workload to open up more work for the likes of Harris and Tyrone Tracy, the latter of whom has reclaimed duties as the team's preferred third-down back. Coming off an Achilles injury that cut short his 2025 campaign with the Chargers, Harris hasn't shown much explosiveness through his first four games in New York, averaging 3.6 yards per carry as well while being a relative non-factor in the passing game (one catch for five yards on one target). Even with the prospect of more touches in Week 6, Harris doesn't make for an attractive option in fantasy lineups.
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd's Goal-Line Role Offers Week 6 Fantasy Appeal (2026-10-18T12:50:55Z)
+  - Source: https://www.rotoballer.com/player-news/marshawn-lloyds-goal-line-role-offers-week-6-fantasy-appeal/1969591
 - **Cam Skattebo** — Cam Skattebo - Could be headed for lighter workload (2026-10-18T12:47:51Z)
   - Coming off a significant ankle injury that cut short his rookie season, Skattebo has handled a lead role out of the New York backfield through the first five games, playing no fewer than 57 percent of snaps on any occasion while averaging 18.2 touches per contest. The second-year back hasn't shown the same burst he displayed in 2025, however, averaging just 3.6 yards per carry and 7.9 yards per reception while finding the end zone only once. Perhaps more troublingly, Skattebo has struggled with ball security, fumbling four times and losing one. As a result of Skattebo's poor form to begin the season, the Giants may be compelled to lighten his workload Sunday and open up more opportunities for Harris compared to previous weeks.
-- **NEW — Rachaad White** — Rachaad White Should Handle Larger Workload on Monday (2026-10-18T12:28:17Z)
+- **Rachaad White** — Rachaad White Should Handle Larger Workload on Monday (2026-10-18T12:28:17Z)
   - Source: https://www.rotoballer.com/player-news/rachaad-white-could-handle-larger-workload-with-croskey-merritt-sidelined/1969573
-- **NEW — Kenyon Sadiq** — Kenyon Sadiq Clears Concussion Protocol, Active in Week 6 (2026-10-18T12:16:27Z)
+- **Kenyon Sadiq** — Kenyon Sadiq Clears Concussion Protocol, Active in Week 6 (2026-10-18T12:16:27Z)
   - Source: https://www.rotoballer.com/player-news/kenyon-sadiq-clears-concussion-protocol-active-in-week-6/1969558
 - **Pat Freiermuth** — Pat Freiermuth - Chance to play in Week 6 (2026-10-18T12:09:31Z)
   - Pittsburgh added Freiermuth to the injury report Saturday, even though he was a full participant in practice throughout the week. Despite Freiermuth's late addition to the report, the Steelers are seemingly of the belief that he'll be available Sunday, which will be confirmed approximately 90 minutes before a 1 p.m. ET kickoff. If Freiermuth isn't 100 percent, Darnell Washington and Robert Tonyan will be on hand for increased roles at tight end.
-- **NEW — Tyjae Spears** — Tyjae Spears Active for Week 6 Against Colts (2026-10-18T12:08:17Z)
+- **Tyjae Spears** — Tyjae Spears Active for Week 6 Against Colts (2026-10-18T12:08:17Z)
   - Source: https://www.rotoballer.com/player-news/tyjae-spears-active-for-week-6-against-colts/1969553
-- **NEW — Caleb Williams** — Caleb Williams Active for Week 6 Against Falcons (2026-10-18T12:07:09Z)
+- **Caleb Williams** — Caleb Williams Active for Week 6 Against Falcons (2026-10-18T12:07:09Z)
   - Source: https://www.rotoballer.com/player-news/caleb-williams-active-for-week-6-against-falcons/1969549
 - **Marvin Harrison** — Marvin Harrison - Confirmed for team debut Sunday (2026-10-18T12:06:41Z)
   - Just as head coach DeMeco Ryans indicated would be the case earlier in the week, Harrison will be cleared to make his Texans debut right away after being acquired from the Cardinals on Monday. Since he hasn't had much time to get up to speed with his new playbook, Harrison is expected to be eased into the mix Sunday with a light snap count, per Cameron Wolfe of NFL Network. Eventually, the No. 4 overall pick in the 2024 NFL Draft could settle in as the Texans' No. 2 wideout behind Nico Collins.
 - **Tyler Shough** — Tyler Shough - Playing through broken bones in hand (2026-10-18T12:01:50Z)
   - Shough has been listed with a left hand injury the past two weeks, but the extent wasn't known until Schefter's report Sunday morning. He had his least productive performance of the season last Sunday versus the Vikings' ferocious defense, when he completed 16 of 25 passes for just 96 yards, no touchdowns and two interceptions. Shough will aim to get back on track in Week 6 against a banged-up Giants defensive unit.
-- **NEW — Alvin Kamara** — Alvin Kamara Active for Week 6 Against Giants (2026-10-18T11:58:14Z)
+- **Alvin Kamara** — Alvin Kamara Active for Week 6 Against Giants (2026-10-18T11:58:14Z)
   - Source: https://www.rotoballer.com/player-news/alvin-kamara-active-for-week-6-against-giants/1969542
 - **Kenyon Sadiq** — Kenyon Sadiq - Slated to suit up in Week 6 (2026-10-18T11:55:33Z)
   - Sadiq entered the concussion protocol during last Sunday's win against the Browns, and after opening Week 6 prep with two straight limited sessions, he capped it Friday with a full practice. The tight end's practice progression suggested he only required clearance from an independent neurologist to be available this Sunday, something that'll be confirmed when the Jets release their inactive list 90 minutes before a 1 p.m. ET kickoff.
-- **NEW — Rico Dowdle** — Rico Dowdle Returning From his Toe Injury on Sunday (2026-10-18T11:52:09Z)
+- **Rico Dowdle** — Rico Dowdle Returning From his Toe Injury on Sunday (2026-10-18T11:52:09Z)
   - Source: https://www.rotoballer.com/player-news/rico-dowdle-returning-from-his-toe-injury-on-sunday/1969537
-- **NEW — Chris Olave** — Chris Olave Active for Week 6 Against Giants (2026-10-18T11:51:45Z)
+- **Chris Olave** — Chris Olave Active for Week 6 Against Giants (2026-10-18T11:51:45Z)
   - Source: https://www.rotoballer.com/player-news/chris-olave-active-for-week-6-against-giants/1969535
 - **Alvin Kamara** — Alvin Kamara - Slated to play Sunday (2026-10-18T11:49:13Z)
   - For a second week in a row, Kamara's practice reps were impacted by a back issue, resulting in limited listings on all three Week 6 injury reports and a questionable designation for Sunday's matchup. His status will be clarified about 90 minutes before a 1 p.m. ET kickoff, but if he's active, Kamara will be part of a timeshare out of the Saints backfield with Kendre Miller and CJ Donaldson.
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson Active For Week 6 Game Against Jets (2026-10-18T11:45:13Z)
+- **TreVeyon Henderson** — TreVeyon Henderson Active For Week 6 Game Against Jets (2026-10-18T11:45:13Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-active-for-week-6-game-against-jets/1969530
 - **Chris Olave** — Chris Olave - Expected to play Sunday (2026-10-18T11:44:40Z)
   - Olave was contained to just one limited session (Friday) during Week 6 prep as he dealt with an illness, but it won't stop him from being available Sunday. His status will be confirmed about 90 minutes before a 1 p.m. ET kickoff, but assuming he's active, he'll be looking to build upon the 39-537-1 line on 54 targets that he's accrued through the first five contests of the campaign.
-- **NEW — Tyler Warren** — Tyler Warren Inactive for the Colts in Week 6 (2026-10-18T11:40:18Z)
+- **Tyler Warren** — Tyler Warren Inactive for the Colts in Week 6 (2026-10-18T11:40:18Z)
   - Source: https://www.rotoballer.com/player-news/tyler-warren-inactive-for-the-colts-in-week-6/1969526
 - **TreVeyon Henderson** — TreVeyon Henderson - Likely to suit up Sunday (2026-10-18T11:38:50Z)
   - Henderson has gone from likely to miss multiple games to having a chance to play just one week removed from suffering an apparent right high-ankle sprain last Sunday against the Raiders. Via the running back himself Friday, he is "hoping to play" in Week 6, per Doug Kyed of the Boston Herald, but Henderson likely will be subject to a pregame workout Sunday before a decision is made ahead of the Patriots dropping their inactive list at 11:30 a.m. ET. If Henderson is active, he'll join Rhamondre Stevenson and Corey Kiner out of the Patriots backfield, though in what capacity remains to be seen.
-- **NEW — Quinshon Judkins** — Quinshon Judkins Will Not Play in Week 6 (2026-10-18T11:33:19Z)
+- **Quinshon Judkins** — Quinshon Judkins Will Not Play in Week 6 (2026-10-18T11:33:19Z)
   - Source: https://www.rotoballer.com/player-news/quinshon-judkins-will-not-play-in-week-6/1969524
 - **Quinshon Judkins** — Quinshon Judkins - Still iffy for Sunday, testing ankle pregame (2026-10-18T11:31:37Z)
   - Judkins was seen wearing a walking boot on his right foot after the Browns' Week 5 loss at the Jets. Head coach Todd Monken told Daniel Oyefusi of ESPN.com on Monday that Judkins was considered "day-to-day" after tweaking his ankle in that contest, and the running back was contained to just one limited practice (Friday) during Week 6 prep, leaving him questionable for Sunday's matchup. Judkins' status will be clarified when the Browns release their inactive list 90 minutes before the 1 p.m. ET kickoff, but if he's inhibited or sidelined, Jaleel McLaughlin and Audric Estime will be Cleveland's available running backs.
-- **NEW — Braelon Allen** — Braelon Allen's Heavy Workload Keeps Him in RB2 Conversation (2026-10-18T11:30:20Z)
+- **Braelon Allen** — Braelon Allen's Heavy Workload Keeps Him in RB2 Conversation (2026-10-18T11:30:20Z)
   - Source: https://www.rotoballer.com/player-news/braelon-allens-heavy-workload-keeps-him-in-rb2-conversation/1969522
 - **Tyler Warren** — Tyler Warren - Deemed game-time decision (2026-10-18T11:23:38Z)
   - Warren was added to the Colts' Week 6 practice report Friday as limited by a groin injury, which left him questionable for Sunday's matchup. Kevin Bowen of 107.5 The Fan Indianapolis reported afterward that Warren grimaced at one point after a red-zone rep at Friday's session, which seemingly is the cause for concern. Ultimately, a pregame workout will determine Warren's availability, or lack thereof, about 90 minutes before Sunday's 1:00 p.m. ET kickoff.
-- **NEW — Germie Bernard** — Germie Bernard Faces Tougher Test After Week 5 Breakout (2026-10-18T11:15:37Z)
+- **Germie Bernard** — Germie Bernard Faces Tougher Test After Week 5 Breakout (2026-10-18T11:15:37Z)
   - Source: https://www.rotoballer.com/player-news/germie-bernard-faces-tougher-test-after-week-5-breakout/1969518
 - **Rico Dowdle** — Rico Dowdle - In line to play Sunday (2026-10-18T11:12:52Z)
   - Dowdle has been sidelined since a Week 2 loss at New England, when he dislocated the same toe on his right foot twice. After logging back-to-back full practices to cap Week 6 prep, he's expected to put an end to a three-game absence and rejoin Jaylen Warren out of the Steelers backfield. Considering how well Warren is running at the moment, Dowdle will slide back into a complementary role instead of split touches like the duo did before the latter was injured.
-- **NEW — A.J. Brown** — A.J. Brown Will Play a "Good Amount" in Week 6 (2026-10-18T10:45:54Z)
+- **A.J. Brown** — A.J. Brown Will Play a "Good Amount" in Week 6 (2026-10-18T10:45:54Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-will-play-a-good-amount-in-week-6/1969510
-- **NEW — Cam Skattebo** — Cam Skattebo Expected to Play Less Against Saints in Week 6 (2026-10-18T09:35:34Z)
+- **Cam Skattebo** — Cam Skattebo Expected to Play Less Against Saints in Week 6 (2026-10-18T09:35:34Z)
   - Source: https://www.rotoballer.com/player-news/cam-skattebo-expected-to-play-less-against-saints-in-week-6/1969430
-- **NEW — Tyler Shough** — Tyler Shough Has Been Playing with Two Broken Bones in Left Hand (2026-10-18T09:31:14Z)
+- **Tyler Shough** — Tyler Shough Has Been Playing with Two Broken Bones in Left Hand (2026-10-18T09:31:14Z)
   - Source: https://www.rotoballer.com/player-news/tyler-shough-has-been-playing-with-two-broken-bones-in-left-hand/1969420
 - **Pat Freiermuth** — Steelers Optimistic Pat Freiermuth Will Play After Late Downgrade (2026-10-18T08:59:12Z)
   - Source: https://www.rotoballer.com/player-news/steelers-optimistic-pat-freiermuth-will-play-after-late-downgrade/1969397
@@ -171,60 +224,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Mike Evans** — Mike Evans (ribs/Achilles) listed questionable Monday  (2026-10-18T07:05:52.813000Z)
   - Evans was unable to practice through Friday. He will be a game-time decision on Monday. 
   - Source: https://www.fantasypros.com/nfl/news/614437/mike-evans-ribsachilles-listed-questionable-monday.php
-- **Deebo Samuel** — Deebo Samuel Sr. (hamstring) ruled out Monday  (2026-10-18T07:05:52.802000Z)
-  - Samuel will miss at least one game as expected. He remains week-to-week. 
-  - Source: https://www.fantasypros.com/nfl/news/614438/deebo-samuel-sr-hamstring-ruled-out-monday.php
-- **A.J. Brown** — A.J. Brown (ankle) activated from IR (2026-10-18T07:05:52.793000Z)
-  - Brown will make his return for the first time since Week 1. He'll be a WR2 with some risk in his first game back for fantasy managers. 
-  - Source: https://www.fantasypros.com/nfl/news/614439/aj-brown-ankle-activated-from-ir.php
-- **Samaje Perine** — Samaje Perine Worth a Look Despite Bengals' Bye (2026-10-18T02:50:09Z)
-  - Source: https://www.rotoballer.com/player-news/samaje-perine-worth-a-look-despite-bengals-bye/1969321
-- **Eli Stowers** — Eli Stowers - Ruled out for Week 6 (2026-10-18T02:36:15Z)
-  - Stowers will have to wait at least another week before making his regular-season NFL debut after he had his 21-day practice window opened earlier this week. Stowers should see snaps as a catch-first tight end behind Dallas Goedert once he's ready to return to game action.
-- **Brenton Strange** — Brenton Strange a Good Bet for Week 6 and Beyond? (2026-10-18T02:29:09Z)
-  - Source: https://www.rotoballer.com/player-news/brenton-strange-a-good-bet-for-week-6-and-beyond/1969319
-- **Wan'Dale Robinson** — Wan'Dale Robinson an Excellent Play Off Waivers (2026-10-18T02:15:16Z)
-  - Source: https://www.rotoballer.com/player-news/wandale-robinson-an-excellent-play-off-waivers/1969317
-- **Brian Robinson** — Brian Robinson a Viable Fantasy Option for Managers in a Pinch (2026-10-18T02:00:09Z)
-  - Source: https://www.rotoballer.com/player-news/brian-robinson-a-viable-fantasy-option-for-managers-in-a-pinch/1969315
-- **Jakobi Meyers** — Jakobi Meyers a Strong Streamer in Favorable Spot (2026-10-18T01:45:13Z)
-  - Source: https://www.rotoballer.com/player-news/jakobi-meyers-a-strong-stream-in-favorable-spot/1969313
-- **Rachaad White** — Rachaad White an Immediate Plug-and-Play RB for Week 6 (2026-10-17T23:06:19Z)
-  - Source: https://www.rotoballer.com/player-news/rachaad-white-an-immediate-plug-and-play-for-week-6/1969304
-- **Germie Bernard** — Germie Bernard Among the Top Streamers for Week 6 (2026-10-17T22:51:09Z)
-  - Source: https://www.rotoballer.com/player-news/germie-bernard-among-the-top-streamers-for-week-6/1969293
-- **Devaughn Vele** — Devaughn Vele Continues to Occupy a Very Significant Role (2026-10-17T22:46:15Z)
-  - Source: https://www.rotoballer.com/player-news/devaughn-vele-continues-to-occupy-a-very-significant-role/1969287
-- **Tre Tucker** — Tre Tucker a Solid Streamer with Consistent Production (2026-10-17T22:37:13Z)
-  - Source: https://www.rotoballer.com/player-news/tre-tucker-a-solid-streamer-with-consistent-production/1969285
-- **Cyrus Allen** — Cyrus Allen Suddenly Worth Adding in Deeper Leagues (2026-10-17T22:31:14Z)
-  - Source: https://www.rotoballer.com/player-news/cyrus-allen-suddenly-worth-adding-in-deeper-leagues/1969280
-- **Ja'Kobi Lane** — Ja'Kobi Lane has Stash Appeal Following Return (2026-10-17T21:53:36Z)
-  - Source: https://www.rotoballer.com/player-news/jakobi-lane-has-stash-appeal-following-return/1969260
-- **Kaelon Black** — Kaelon Black - Misses practice Saturday, will play Monday (2026-10-17T21:51:08Z)
-  - Since Black wasn't given an injury designation, his absence from practice Saturday isn't expected to impact his availability Monday. The rookie should thus continue to work as the 49ers' No.2 running back behind Christian McCaffrey. That role hasn't yielded much fruit for Black of late, however, as he's totaled fewer than 20 yards in each of his past three contests.
-- **Kendrick Bourne** — Kendrick Bourne an Intriguing Waiver-Wire Target (2026-10-17T21:45:21Z)
-  - Source: https://www.rotoballer.com/player-news/kendrick-bourne-is-intriguing-waiver-wire-target/1969258
-- **Dameon Pierce** — Dameon Pierce an Interesting Streaming Option (2026-10-17T21:37:09Z)
-  - Source: https://www.rotoballer.com/player-news/dameon-pierce-is-interesting-streaming-option/1969256
-- **Jordyn Tyson** — Jordyn Tyson is a Great Stash Candidate (2026-10-17T21:21:12Z)
-  - Source: https://www.rotoballer.com/player-news/jordyn-tyson-is-great-stash-candidate/1969250
-- **Mike Evans** — Mike Evans is in Danger of Missing Week 6 (2026-10-17T21:13:20Z)
-  - Source: https://www.rotoballer.com/player-news/mike-evans-is-in-danger-of-missing-week-6/1969243
-- **Mike Evans** — Mike Evans - Questionable for MNF (2026-10-17T20:58:11Z)
-  - Evans worked to the side during each of the 49ers' last two practices while nursing injuries to his ribs and Achilles. That was enough for him to draw the questionable tag for MNF, and there's also a chance that Christian Kirk (calf) will be activated from injured reserve before the game, per Nick Wagoner of ESPN.com. Deebo Samuel (hamstring) has already been ruled out, so Brandin Cooks, Jacob Cowing, Jordan Watkins and tight end George Kittle would all carry heaver workloads in the passing game if Evans joins Samuel on the sidelines for Week 6.
-- **Ja'Kobi Lane** — Ja'Kobi Lane (wrist) activated off of IR, will play against Cleveland (2026-10-17T20:50:48.331000Z)
-  - Lane has been out since fracturing his wrist in Week 1, so it will be interesting to see what his snap counts and route shares look like after the IR stint. The team praised him all offseason and focused on him during his brief playing time in Week 1, so hopefully he will be able to find himself a decent role as the WR2 of the offense.
-  - Source: https://www.fantasypros.com/nfl/news/614435/jakobi-lane.php
-- **Caleb Williams** — Caleb Williams (hamstring) starting for the Bears Sunday (2026-10-17T20:40:48.422000Z)
-  - Williams was initially questionable to play, but the Bears are now planning on getting him back in the lineup after a week of practice where he took starter reps. It will be interesting to see Caleb in a more "regular" game and how it affects the pass catchers, who have only played with Caleb in one normal game, and even that "normal" game saw copious amounts of production from the running backs. 
-  - Source: https://www.fantasypros.com/nfl/news/614434/caleb-williams-hamstring-starting-bears-sunday.php
-- **Caleb Williams** — Caleb Williams - Expected to start Sunday (2026-10-17T20:37:16Z)
-  - Williams is still listed as questionable for Sunday's game, and his status may not be officially announced until the Bears release their list of inactive players about 90 minutes before the 1:00 p.m. ET kickoff. However, it looks like the third-year quarterback will be back on the field after missing the Bears' last three games due to a torn right hamstring that he suffered in Week 2 against the Vikings. Given Williams' return, Tyson Bagent will likely serve as the Bears' backup while Case Keenum moves down to the QB3 role.
-- **Jalen Hurts** — Jalen Hurts (blood clot) placed on IR (2026-10-17T20:35:48.600000Z)
-  - At first the Eagles were not going to place him on IR, but after further consultations, they have decided to make that move. Tanner McKee will start in his place for at least the next four games, with Carolina on tap tomorrow. All the pass catchers will likely see a downtick in production, but should still be usable if McKee is halfway decent.
-  - Source: https://www.fantasypros.com/nfl/news/614433/jalen-hurts-blood-clot-placed-on-ir.php
-- **Omar Cooper** — Omar Cooper - Activated from IR (2026-10-17T20:18:46Z)
-  - Cooper is still listed as questionable for Sunday's game against the Patriots, but he's likely to be cleared to play given his activation from IR. The rookie fourth-rounder has missed the Jets' last four games due to an ankle injury, but he could be thrust into a prominent role offensively given the absence of Adonai Mitchell (finger).
-- **Ja'Kobi Lane** — Ja'Kobi Lane - Removed from IR (2026-10-17T20:16:45Z)
-  - Although Lane is still listed as questionable, his activation from IR puts the rookie wide receiver on track to return for Sunday's game against the Browns. Lane was one of the Ravens' standout players during training camp, so he could be featured prominently in the offense alongside Zay Flowers and Rashod Bateman in his return.
