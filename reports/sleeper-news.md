@@ -2,13 +2,33 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6563**
-- Newly captured: **2**
+- Stored stories: **6554**
+- Newly captured: **10**
 
 ## Latest news
 
+- **NEW — Eli Stowers** — Eli Stowers - Ruled out for Week 6 (2026-10-18T02:36:15Z)
+  - Stowers will have to wait at least another week before making his regular-season NFL debut after he had his 21-day practice window opened earlier this week. Stowers should see snaps as a catch-first tight end behind Dallas Goedert once he's ready to return to game action.
+- **NEW — Rachaad White** — Rachaad White an Immediate Plug-and-Play for Week 6 (2026-10-17T23:06:19Z)
+  - Source: https://www.rotoballer.com/player-news/rachaad-white-an-immediate-plug-and-play-for-week-6/1969304
+- **NEW — Germie Bernard** — Germie Bernard Among the Top Streamers for Week 6 (2026-10-17T22:51:09Z)
+  - Source: https://www.rotoballer.com/player-news/germie-bernard-among-the-top-streamers-for-week-6/1969293
+- **NEW — Devaughn Vele** — Devaughn Vele Continues to Occupy a Very Significant Role (2026-10-17T22:46:15Z)
+  - Source: https://www.rotoballer.com/player-news/devaughn-vele-continues-to-occupy-a-very-significant-role/1969287
+- **NEW — Tre Tucker** — Tre Tucker a Solid Streamer with Consistent Production (2026-10-17T22:37:13Z)
+  - Source: https://www.rotoballer.com/player-news/tre-tucker-a-solid-streamer-with-consistent-production/1969285
+- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane has Stash Appeal Following Return (2026-10-17T21:53:36Z)
+  - Source: https://www.rotoballer.com/player-news/jakobi-lane-has-stash-appeal-following-return/1969260
 - **Kaelon Black** — Kaelon Black - Misses practice Saturday, will play Monday (2026-10-17T21:51:08Z)
   - Since Black wasn't given an injury designation, his absence from practice Saturday isn't expected to impact his availability Monday. The rookie should thus continue to work as the 49ers' No.2 running back behind Christian McCaffrey. That role hasn't yielded much fruit for Black of late, however, as he's totaled fewer than 20 yards in each of his past three contests.
+- **NEW — Kendrick Bourne** — Kendrick Bourne an Intriguing Waiver-Wire Target (2026-10-17T21:45:21Z)
+  - Source: https://www.rotoballer.com/player-news/kendrick-bourne-is-intriguing-waiver-wire-target/1969258
+- **NEW — Dameon Pierce** — Dameon Pierce an Interesting Streaming Option (2026-10-17T21:37:09Z)
+  - Source: https://www.rotoballer.com/player-news/dameon-pierce-is-interesting-streaming-option/1969256
+- **NEW — Jordyn Tyson** — Jordyn Tyson is a Great Stash Candidate (2026-10-17T21:21:12Z)
+  - Source: https://www.rotoballer.com/player-news/jordyn-tyson-is-great-stash-candidate/1969250
+- **NEW — Mike Evans** — Mike Evans is in Danger of Missing Week 6 (2026-10-17T21:13:20Z)
+  - Source: https://www.rotoballer.com/player-news/mike-evans-is-in-danger-of-missing-week-6/1969243
 - **Mike Evans** — Mike Evans - Questionable for MNF (2026-10-17T20:58:11Z)
   - Evans worked to the side during each of the 49ers' last two practices while nursing injuries to his ribs and Achilles. That was enough for him to draw the questionable tag for MNF, and there's also a chance that Christian Kirk (calf) will be activated from injured reserve before the game, per Nick Wagoner of ESPN.com. Deebo Samuel (hamstring) has already been ruled out, so Brandin Cooks, Jacob Cowing, Jordan Watkins and tight end George Kittle would all carry heaver workloads in the passing game if Evans joins Samuel on the sidelines for Week 6.
 - **Ja'Kobi Lane** — Ja'Kobi Lane (wrist) activated off of IR, will play against Cleveland (2026-10-17T20:50:48.331000Z)
@@ -40,9 +60,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Diggs ended the week with back-to-back limited practices, which was enough for him to draw the questionable tag for Monday Night Football. Diggs did not play in Week 5 against the Giants, but if he's cleared to play against the 49ers, then it would be the first time that he, Terry McLaurin and Jayden Daniels are on the field together since Week 2 against the Cowboys. If Diggs does not play, then Antonio Williams and Treylon Burks would both operate in elevated roles offensively behind McLaurin.
 - **Terry McLaurin** — Terry McLaurin - Good to go against San Francisco (2026-10-17T19:19:01Z)
   - McLaurin logged an LP-DNP-LP practice log while tending to a lingering hamstring injury, but he has been given the green light to play in Monday night's game. The Commanders could also have Stefon Diggs (hamstring) back in action, and in that case, Washington would have McLaurin, Diggs and Jayden Daniels share the field for the first time since Week 2 against the Cowboys. McLaurin has a 14-203-1 receiving line on 26 targets across four regular-season games.
-- **NEW — Zach Charbonnet** — Zach Charbonnet a Must-Add With Return Looming (2026-10-17T19:14:09Z)
+- **Zach Charbonnet** — Zach Charbonnet a Must-Add With Return Looming (2026-10-17T19:14:09Z)
   - Source: https://www.rotoballer.com/player-news/zach-charbonnet-a-must-add-with-return-looming/1969193
-- **NEW — Tyler Allgeier** — Tyler Allgeier a Last-Minute Waiver-Wire Add Ahead of Week 6 (2026-10-17T18:53:35Z)
+- **Tyler Allgeier** — Tyler Allgeier a Last-Minute Waiver-Wire Add Ahead of Week 6 (2026-10-17T18:53:35Z)
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-a-last-minute-waiver-wire-add-ahead-of-week-6/1969187
 - **Jordan Mason** — Can Managers Trust Jordan Mason When He Returns to Action? (2026-10-17T18:36:12Z)
   - Source: https://www.rotoballer.com/player-news/can-managers-trust-jordan-mason-when-he-returns-to-action/1969185
@@ -193,23 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/michael-penix-jr-a-low-end-qb2-with-upside-against-depleted-bears/1968803
 - **Josh Allen** — Josh Allen's Rushing Ability Keeps Him Atop Week 6 Rankings (2026-10-17T11:35:12Z)
   - Source: https://www.rotoballer.com/player-news/josh-allens-rushing-ability-keeps-him-atop-week-6-rankings/1968799
-- **Malik Nabers** — Malik Nabers a Strong WR1 Option Against Saints (2026-10-17T11:29:12Z)
-  - Source: https://www.rotoballer.com/player-news/malik-nabers-a-strong-wr1-option-against-saints/1968789
-- **Bijan Robinson** — Bijan Robinson an Elite Option Against Vulnerable Bears Defense (2026-10-17T11:29:09Z)
-  - Source: https://www.rotoballer.com/player-news/bijan-robinson-an-elite-option-against-vulnerable-bears-defense/1968787
-- **Najee Harris** — Najee Harris' Role Worth Monitoring in Week 6 (2026-10-17T11:20:17Z)
-  - Source: https://www.rotoballer.com/player-news/najee-harris-role-worth-monitoring-in-week-6/1968774
-- **Cam Skattebo** — Cam Skattebo's Fumbles Could Jeopardize His Role Against Saints (2026-10-17T11:11:10Z)
-  - Source: https://www.rotoballer.com/player-news/cam-skattebos-fumbles-could-jeopardize-his-role-against-saints/1968767
-- **Rico Dowdle** — What role will Rico Dowdle Play If He Returns in Week 6? (2026-10-17T11:04:12Z)
-  - Source: https://www.rotoballer.com/player-news/what-role-will-rico-dowdle-play-if-he-returns-in-week-6/1968762
-- **Jameis Winston** — Jameis Winston Heating Up Ahead of Favorable Week 6 Matchup (2026-10-17T11:01:14Z)
-  - Source: https://www.rotoballer.com/player-news/jameis-winston-heating-up-ahead-of-favorable-week-6-matchup/1968758
-- **Darren Waller** — Darren Waller Looking to Remain Involved in Week 6 Game Versus Eagles (2026-10-17T10:48:16Z)
-  - Source: https://www.rotoballer.com/player-news/darren-waller-looking-to-remain-involved-in-week-6-game-versus-eagles/1968749
-- **Puka Nacua** — Puka Nacua Remains a Top-Tier WR1 After Historic Performance (2026-10-17T10:44:09Z)
-  - Source: https://www.rotoballer.com/player-news/puka-nacua-remains-a-top-tier-wr1-after-historic-performance/1968743
-- **Tyler Warren** — Tyler Warren a Risky Play While Dealing with Groin Injury (2026-10-17T10:36:23Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-warren-enters-week-6-as-colts-most-targeted-player-but-dealing-with-groin-injury/1968737
-- **Matthew Stafford** — Matthew Stafford a Must-Start in Potential Shootout (2026-10-17T10:32:09Z)
-  - Source: https://www.rotoballer.com/player-news/matthew-stafford-a-must-start-in-potential-shootout/1968734

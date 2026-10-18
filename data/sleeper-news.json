@@ -1,10 +1,18 @@
 {
-  "last_checked_at": "2026-10-18T00:37:24Z",
+  "last_checked_at": "2026-10-18T05:06:47Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 303,
   "new_story_ids": [
-    "nfl|8132|rotoballer|224657|1792263215000",
-    "nfl|9753|rotoballer|224658|1792264449000"
+    "nfl|10213|rotoballer|224664|1792276633000",
+    "nfl|11834|rotoballer|224665|1792277175000",
+    "nfl|13274|rotoballer|224666|1792277469000",
+    "nfl|13281|rotoballer|224660|1792272072000",
+    "nfl|13293|rotoballer|224663|1792274016000",
+    "nfl|13349|rotowire|642953|1792290975000",
+    "nfl|2216|rotoballer|224659|1792271600000",
+    "nfl|4454|rotoballer|224662|1792273521000",
+    "nfl|8129|rotoballer|224661|1792273029000",
+    "nfl|8136|rotoballer|224667|1792278379000"
   ],
   "schema_version": 1,
   "source": {
@@ -14,6 +22,126 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Stowers will have to wait at least another week before making his regular-season NFL debut after he had his 21-day practice window opened earlier this week. Stowers should see snaps as a catch-first tight end behind Dallas Goedert once he's ready to return to game action.",
+      "description": "The Eagles downgraded Stowers (quadriceps) to out for Sunday's game against the Panthers.",
+      "metadata": {
+        "analysis": "Stowers will have to wait at least another week before making his regular-season NFL debut after he had his 21-day practice window opened earlier this week. Stowers should see snaps as a catch-first tight end behind Dallas Goedert once he's ready to return to game action.",
+        "description": "The Eagles downgraded Stowers (quadriceps) to out for Sunday's game against the Panthers.",
+        "title": "Eli Stowers - Ruled out for Week 6",
+        "topic_id": "1417375867625115648"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13349",
+      "player_name": "Eli Stowers",
+      "position": "TE",
+      "published": 1792290975000,
+      "source": "rotowire",
+      "source_key": "642953",
+      "story_id": "nfl|13349|rotowire|642953|1792290975000",
+      "title": "Eli Stowers - Ruled out for Week 6",
+      "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Rachaad White is worth adding off the waiver wire as a solid streaming option for Week 6 against the San Francisco 49ers. Injuries and limited production have kept White off the fantasy radar since Week 3, but he should get back on track Monday against the Niners as he occupies the lead-back role with Jacory Croskey-Merritt (groin) inactive. Since Croskey-Merritt hasn't missed a game this season prior to Week 6, we don't know exactly what White's role will look like. However, all signs point to White serving as the team's primary ball-carrier while splitting receiving responsibilities with Austin Ekeler. As a result, that should make White an immediate fantasy starter as a high-end RB3 or perhaps even a low-end RB2 in deeper leagues. Given that White remains available in 44% of fantasy leagues, he has the potential to be an immediate plug-and-play streamer for many managers dealing with bye weeks or injuries at the running back position.",
+      "metadata": {
+        "description": "Washington Commanders running back Rachaad White is worth adding off the waiver wire as a solid streaming option for Week 6 against the San Francisco 49ers. Injuries and limited production have kept White off the fantasy radar since Week 3, but he should get back on track Monday against the Niners as he occupies the lead-back role with Jacory Croskey-Merritt (groin) inactive. Since Croskey-Merritt hasn't missed a game this season prior to Week 6, we don't know exactly what White's role will look like. However, all signs point to White serving as the team's primary ball-carrier while splitting receiving responsibilities with Austin Ekeler. As a result, that should make White an immediate fantasy starter as a high-end RB3 or perhaps even a low-end RB2 in deeper leagues. Given that White remains available in 44% of fantasy leagues, he has the potential to be an immediate plug-and-play streamer for many managers dealing with bye weeks or injuries at the running back position.",
+        "title": "Rachaad White an Immediate Plug-and-Play for Week 6",
+        "topic_id": "1417383416105639936",
+        "url": "https://www.rotoballer.com/player-news/rachaad-white-an-immediate-plug-and-play-for-week-6/1969304"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1792278379000,
+      "source": "rotoballer",
+      "source_key": "224667",
+      "story_id": "nfl|8136|rotoballer|224667|1792278379000",
+      "title": "Rachaad White an Immediate Plug-and-Play for Week 6",
+      "url": "https://www.rotoballer.com/player-news/rachaad-white-an-immediate-plug-and-play-for-week-6/1969304"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers wide receiver Germie Bernard is a top streamer option for Week 6, and he remains available to be added in 65% of fantasy leagues. Bernard occupied a relatively small role through the first four weeks of the season, but his stock took off in Week 5, when he jumped to the No. 2 spot on the depth chart following injuries to Michael Pittman Jr. (foot) and Roman Wilson (finger). Last Sunday, he broke out with nine targets, six catches, and 80 receiving yards. He should continue to occupy a large role in Week 6 against the Tampa Bay Buccaneers, serving as one of Aaron Rodgers' favorite targets not named DK Metcalf. The wide receiver position continues to get thinner and thinner across the NFL due to bye weeks and injuries, so Bernard is a worthwhile streaming option for many managers in Week 6.",
+      "metadata": {
+        "description": "Pittsburgh Steelers wide receiver Germie Bernard is a top streamer option for Week 6, and he remains available to be added in 65% of fantasy leagues. Bernard occupied a relatively small role through the first four weeks of the season, but his stock took off in Week 5, when he jumped to the No. 2 spot on the depth chart following injuries to Michael Pittman Jr. (foot) and Roman Wilson (finger). Last Sunday, he broke out with nine targets, six catches, and 80 receiving yards. He should continue to occupy a large role in Week 6 against the Tampa Bay Buccaneers, serving as one of Aaron Rodgers' favorite targets not named DK Metcalf. The wide receiver position continues to get thinner and thinner across the NFL due to bye weeks and injuries, so Bernard is a worthwhile streaming option for many managers in Week 6.",
+        "title": "Germie Bernard Among the Top Streamers for Week 6",
+        "topic_id": "1417380899246395392",
+        "url": "https://www.rotoballer.com/player-news/germie-bernard-among-the-top-streamers-for-week-6/1969293"
+      },
+      "nfl_team": "PIT",
+      "player_id": "13274",
+      "player_name": "Germie Bernard",
+      "position": "WR",
+      "published": 1792277469000,
+      "source": "rotoballer",
+      "source_key": "224666",
+      "story_id": "nfl|13274|rotoballer|224666|1792277469000",
+      "title": "Germie Bernard Among the Top Streamers for Week 6",
+      "url": "https://www.rotoballer.com/player-news/germie-bernard-among-the-top-streamers-for-week-6/1969293"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Devaughn Vele has outperformed expectations through the first five weeks of the 2026 season, and he should continue to contribute as a high-end WR3 or low-end WR2 as long as he's the No. 2 option on the depth chart. Vele ranks as the overall WR23 in PPR leagues so far this year with 25 catches, 252 yards, and two touchdowns. After occupying a mere depth role last year, he has stepped up in a huge way this year, averaging 7.4 targets per game and accruing at least six targets in all five games so far this year. Not only has his volume been impressive, but he's fetching some high-value targets in a solid offense led by Tyler Shough. While the Saints have limped to a 1-4 start, the offense has looked decent for most of the season so far, and all signs point to Vele continuing to produce as a fantasy-relevant option going forward. His roster share has not yet reflected his high level of production, and he remains available in a staggeringly high proportion (53%) of leagues. Managers looking for an immediate wide receiver contributor should consider adding Vele ahead of Week 6.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Devaughn Vele has outperformed expectations through the first five weeks of the 2026 season, and he should continue to contribute as a high-end WR3 or low-end WR2 as long as he's the No. 2 option on the depth chart. Vele ranks as the overall WR23 in PPR leagues so far this year with 25 catches, 252 yards, and two touchdowns. After occupying a mere depth role last year, he has stepped up in a huge way this year, averaging 7.4 targets per game and accruing at least six targets in all five games so far this year. Not only has his volume been impressive, but he's fetching some high-value targets in a solid offense led by Tyler Shough. While the Saints have limped to a 1-4 start, the offense has looked decent for most of the season so far, and all signs point to Vele continuing to produce as a fantasy-relevant option going forward. His roster share has not yet reflected his high level of production, and he remains available in a staggeringly high proportion (53%) of leagues. Managers looking for an immediate wide receiver contributor should consider adding Vele ahead of Week 6.",
+        "title": "Devaughn Vele Continues to Occupy a Very Significant Role",
+        "topic_id": "1417379641429155840",
+        "url": "https://www.rotoballer.com/player-news/devaughn-vele-continues-to-occupy-a-very-significant-role/1969287"
+      },
+      "nfl_team": "NO",
+      "player_id": "11834",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "published": 1792277175000,
+      "source": "rotoballer",
+      "source_key": "224665",
+      "story_id": "nfl|11834|rotoballer|224665|1792277175000",
+      "title": "Devaughn Vele Continues to Occupy a Very Significant Role",
+      "url": "https://www.rotoballer.com/player-news/devaughn-vele-continues-to-occupy-a-very-significant-role/1969287"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders wide receiver Tre Tucker has emerged as a viable addition off the waiver wire with his production lately. The 25-year-old has caught four passes in each of his last three games, and his receiving total has finished between 41 and 43 yards in each of those three contests. He now ranks as the WR32 in PPR leagues through five weeks, and that includes a poor Week 1 performance. Tucker got his snap share up to a season-high mark of 75% in Week 5, and he now leads the receiver room as the unit's de facto alpha wideout. That role doesn't mean a ton in a Las Vegas offense that is really led by Brock Bowers and Ashton Jeanty, but it's still a testament to the respectable passing volume headed his way. Tucker has 13 targets over his last two games, and he's a solid streamer who will offer consistent production in 12+ team leagues.",
+      "metadata": {
+        "description": "Las Vegas Raiders wide receiver Tre Tucker has emerged as a viable addition off the waiver wire with his production lately. The 25-year-old has caught four passes in each of his last three games, and his receiving total has finished between 41 and 43 yards in each of those three contests. He now ranks as the WR32 in PPR leagues through five weeks, and that includes a poor Week 1 performance. Tucker got his snap share up to a season-high mark of 75% in Week 5, and he now leads the receiver room as the unit's de facto alpha wideout. That role doesn't mean a ton in a Las Vegas offense that is really led by Brock Bowers and Ashton Jeanty, but it's still a testament to the respectable passing volume headed his way. Tucker has 13 targets over his last two games, and he's a solid streamer who will offer consistent production in 12+ team leagues.",
+        "title": "Tre Tucker a Solid Streamer with Consistent Production",
+        "topic_id": "1417377124280455168",
+        "url": "https://www.rotoballer.com/player-news/tre-tucker-a-solid-streamer-with-consistent-production/1969285"
+      },
+      "nfl_team": "LV",
+      "player_id": "10213",
+      "player_name": "Tre Tucker",
+      "position": "WR",
+      "published": 1792276633000,
+      "source": "rotoballer",
+      "source_key": "224664",
+      "story_id": "nfl|10213|rotoballer|224664|1792276633000",
+      "title": "Tre Tucker a Solid Streamer with Consistent Production",
+      "url": "https://www.rotoballer.com/player-news/tre-tucker-a-solid-streamer-with-consistent-production/1969285"
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Ja'Kobi Lane (wrist) was activated off the Injured Reserve ahead of the Week 6 matchup against the Cleveland Browns. Lane has been sidelined since fracturing his wrist during the season opener. It's unclear what kind of role he's going to have during his first week back. Once he's back to full speed, Lane could find himself in a decent role as the WR2 of this offense. The rookie wideout looked great during camp, so we'll see what he can do now. Fantasy managers looking for help at the wide receiver spot should consider stashing Lane. He probably won't be a great option for this weekend, but he should be able to help fantasy managers down the road.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Ja'Kobi Lane (wrist) was activated off the Injured Reserve ahead of the Week 6 matchup against the Cleveland Browns. Lane has been sidelined since fracturing his wrist during the season opener. It's unclear what kind of role he's going to have during his first week back. Once he's back to full speed, Lane could find himself in a decent role as the WR2 of this offense. The rookie wideout looked great during camp, so we'll see what he can do now. Fantasy managers looking for help at the wide receiver spot should consider stashing Lane. He probably won't be a great option for this weekend, but he should be able to help fantasy managers down the road.",
+        "title": "Ja'Kobi Lane has Stash Appeal Following Return",
+        "topic_id": "1417365798166491136",
+        "url": "https://www.rotoballer.com/player-news/jakobi-lane-has-stash-appeal-following-return/1969260"
+      },
+      "nfl_team": "BAL",
+      "player_id": "13293",
+      "player_name": "Ja'Kobi Lane",
+      "position": "WR",
+      "published": 1792274016000,
+      "source": "rotoballer",
+      "source_key": "224663",
+      "story_id": "nfl|13293|rotoballer|224663|1792274016000",
+      "title": "Ja'Kobi Lane has Stash Appeal Following Return",
+      "url": "https://www.rotoballer.com/player-news/jakobi-lane-has-stash-appeal-following-return/1969260"
+    },
     {
       "analysis": "Since Black wasn't given an injury designation, his absence from practice Saturday isn't expected to impact his availability Monday. The rookie should thus continue to work as the 49ers' No.2 running back behind Christian McCaffrey. That role hasn't yielded much fruit for Black of late, however, as he's totaled fewer than 20 yards in each of his past three contests.",
       "description": "Black was excused from Saturday's practice to address a personal matter but does not have an injury designation for Monday's Week 6 matchup against Washington, Nick Wagoner of ESPN.com reports.",
@@ -33,6 +161,86 @@
       "story_id": "nfl|13414|rotowire|642921|1792273868000",
       "title": "Kaelon Black - Misses practice Saturday, will play Monday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals wide receiver Kendrick Bourne is likely to see increased fantasy value moving forward. Bourne moved into the slot role with Marvin Harrison Jr. inactive last week due to a pending trade. Bourne hauled in five of his eight targets for 70 yards in the loss to the Detroit Lions. With Harrison no longer in the picture, Bourne figures to see a significant target share weekly. The Los Angeles Rams have shutdown corners on the outside, so they might target Bourne in the slot more frequently this weekend. Fantasy managers looking for a deep league flex play should consider using Bourne.",
+      "metadata": {
+        "description": "Arizona Cardinals wide receiver Kendrick Bourne is likely to see increased fantasy value moving forward. Bourne moved into the slot role with Marvin Harrison Jr. inactive last week due to a pending trade. Bourne hauled in five of his eight targets for 70 yards in the loss to the Detroit Lions. With Harrison no longer in the picture, Bourne figures to see a significant target share weekly. The Los Angeles Rams have shutdown corners on the outside, so they might target Bourne in the slot more frequently this weekend. Fantasy managers looking for a deep league flex play should consider using Bourne.",
+        "title": "Kendrick Bourne an Intriguing Waiver-Wire Target",
+        "topic_id": "1417364540428918784",
+        "url": "https://www.rotoballer.com/player-news/kendrick-bourne-is-intriguing-waiver-wire-target/1969258"
+      },
+      "nfl_team": "ARI",
+      "player_id": "4454",
+      "player_name": "Kendrick Bourne",
+      "position": "WR",
+      "published": 1792273521000,
+      "source": "rotoballer",
+      "source_key": "224662",
+      "story_id": "nfl|4454|rotoballer|224662|1792273521000",
+      "title": "Kendrick Bourne an Intriguing Waiver-Wire Target",
+      "url": "https://www.rotoballer.com/player-news/kendrick-bourne-is-intriguing-waiver-wire-target/1969258"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles running back Dameon Pierce will get the start in the backfield during Sunday's Week 6 matchup against the Carolina Panthers. Pierce will be forced to start due to Saquon Barkley (hamstring) and Will Shipley (foot) both being out for this game. Last week, Pierce rushed 11 times for 14 yards during the loss to the Jacksonville Jaguars. The hope is that Pierce has better results against the Panthers' defense, which has struggled to stop the rushing game. They've allowed 156.5 rushing yards per game, which is the second-most in the NFL right now. Fantasy managers looking for help at running back should consider streaming Pierce this weekend.",
+      "metadata": {
+        "description": "Philadelphia Eagles running back Dameon Pierce will get the start in the backfield during Sunday's Week 6 matchup against the Carolina Panthers. Pierce will be forced to start due to Saquon Barkley (hamstring) and Will Shipley (foot) both being out for this game. Last week, Pierce rushed 11 times for 14 yards during the loss to the Jacksonville Jaguars. The hope is that Pierce has better results against the Panthers' defense, which has struggled to stop the rushing game. They've allowed 156.5 rushing yards per game, which is the second-most in the NFL right now. Fantasy managers looking for help at running back should consider streaming Pierce this weekend.",
+        "title": "Dameon Pierce an Interesting Streaming Option",
+        "topic_id": "1417360764477415424",
+        "url": "https://www.rotoballer.com/player-news/dameon-pierce-is-interesting-streaming-option/1969256"
+      },
+      "nfl_team": "PHI",
+      "player_id": "8129",
+      "player_name": "Dameon Pierce",
+      "position": "RB",
+      "published": 1792273029000,
+      "source": "rotoballer",
+      "source_key": "224661",
+      "story_id": "nfl|8129|rotoballer|224661|1792273029000",
+      "title": "Dameon Pierce an Interesting Streaming Option",
+      "url": "https://www.rotoballer.com/player-news/dameon-pierce-is-interesting-streaming-option/1969256"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Jordyn Tyson (hamstring) will remain sidelined for the upcoming Week 6 matchup against the New York Giants. Tyson has been on the Injured Reserve all season after sustaining a hamstring strain in August. Saints head coach Kellen Moore said that Tyson isn't quite ready to practice yet. He did add that Tyson is progressing well, but he remains week-to-week. The Saints play the Steelers in Week 7 and then are on bye in Week 8. It seems possible that Tyson could make his season debut in Week 9, but that'll depend on how he progresses. Fantasy managers with an open IR spot should be stashing Tyson, with him likely returning sooner rather than later.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Jordyn Tyson (hamstring) will remain sidelined for the upcoming Week 6 matchup against the New York Giants. Tyson has been on the Injured Reserve all season after sustaining a hamstring strain in August. Saints head coach Kellen Moore said that Tyson isn't quite ready to practice yet. He did add that Tyson is progressing well, but he remains week-to-week. The Saints play the Steelers in Week 7 and then are on bye in Week 8. It seems possible that Tyson could make his season debut in Week 9, but that'll depend on how he progresses. Fantasy managers with an open IR spot should be stashing Tyson, with him likely returning sooner rather than later.",
+        "title": "Jordyn Tyson is a Great Stash Candidate",
+        "topic_id": "1417356989251497984",
+        "url": "https://www.rotoballer.com/player-news/jordyn-tyson-is-great-stash-candidate/1969250"
+      },
+      "nfl_team": "NO",
+      "player_id": "13281",
+      "player_name": "Jordyn Tyson",
+      "position": "WR",
+      "published": 1792272072000,
+      "source": "rotoballer",
+      "source_key": "224660",
+      "story_id": "nfl|13281|rotoballer|224660|1792272072000",
+      "title": "Jordyn Tyson is a Great Stash Candidate",
+      "url": "https://www.rotoballer.com/player-news/jordyn-tyson-is-great-stash-candidate/1969250"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Mike Evans (ribs, Achilles) is currently listed as questionable ahead of Monday's Week 6 matchup against the Washington Commanders. Evans has been working on the side during each of the last two practices while nursing ribs and Achilles injuries. According to Larry Krueger, Evans looks like he's on the wrong side of questionable heading into Monday's game. The 49ers should give another update on his status soon. If Evans is unable to play, Brandin Cooks, Jacob Cowing, and Jordan Watkins would be the starting wideouts for Monday's game. Fantasy managers should stay tuned for more updates ahead of Monday's game.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Mike Evans (ribs, Achilles) is currently listed as questionable ahead of Monday's Week 6 matchup against the Washington Commanders. Evans has been working on the side during each of the last two practices while nursing ribs and Achilles injuries. According to Larry Krueger, Evans looks like he's on the wrong side of questionable heading into Monday's game. The 49ers should give another update on his status soon. If Evans is unable to play, Brandin Cooks, Jacob Cowing, and Jordan Watkins would be the starting wideouts for Monday's game. Fantasy managers should stay tuned for more updates ahead of Monday's game.",
+        "title": "Mike Evans is in Danger of Missing Week 6",
+        "topic_id": "1417355730893148160",
+        "url": "https://www.rotoballer.com/player-news/mike-evans-is-in-danger-of-missing-week-6/1969243"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1792271600000,
+      "source": "rotoballer",
+      "source_key": "224659",
+      "story_id": "nfl|2216|rotoballer|224659|1792271600000",
+      "title": "Mike Evans is in Danger of Missing Week 6",
+      "url": "https://www.rotoballer.com/player-news/mike-evans-is-in-danger-of-missing-week-6/1969243"
     },
     {
       "analysis": "Evans worked to the side during each of the 49ers' last two practices while nursing injuries to his ribs and Achilles. That was enough for him to draw the questionable tag for MNF, and there's also a chance that Christian Kirk (calf) will be activated from injured reserve before the game, per Nick Wagoner of ESPN.com. Deebo Samuel (hamstring) has already been ruled out, so Brandin Cooks, Jacob Cowing, Jordan Watkins and tight end George Kittle would all carry heaver workloads in the passing game if Evans joins Samuel on the sidelines for Week 6.",
@@ -379,9 +587,9 @@
     },
     {
       "analysis": null,
-      "description": "San Francisco 49ers tight end George Kittle's production took a big step back in Week 5, when he caught five of his six targets for a mere 24 receiving yards. It was a disappointment after a three-week stretch where he averaged 77.3 receiving yards and scored at least one touchdown in each game. Kittle could be in for a major rebound in Week 6. For starters, the 49ers will face the Washington Commanders, who have rank in the bottom five in fantasy points, receptions, receiving yards, and touchdowns allowed to opposing tight ends. Secondly, given the spate of injuries in San Francisco's wide receiver room, Kittle is in line to see more time as Brock Purdy's first read. As usual, Kittle is among the top options at tight end this week and should is a lock for fantasy lineups.",
+      "description": "San Francisco 49ers tight end George Kittle's production took a big step back in Week 5, when he caught five of his six targets for a mere 24 receiving yards. It was a disappointment after a three-week stretch where he averaged 77.3 receiving yards and scored at least one touchdown in each game. Kittle could be in for a major rebound in Week 6. For starters, the 49ers will face the Washington Commanders, who have rank in the bottom five in fantasy points, receptions, receiving yards, and touchdowns allowed to opposing tight ends. Secondly, given the spate of injuries in San Francisco's wide receiver room, Kittle is in line to see more time as Brock Purdy's first read. As usual, Kittle is among the top options at tight end this week and should be a lock for fantasy lineups.",
       "metadata": {
-        "description": "San Francisco 49ers tight end George Kittle's production took a big step back in Week 5, when he caught five of his six targets for a mere 24 receiving yards. It was a disappointment after a three-week stretch where he averaged 77.3 receiving yards and scored at least one touchdown in each game. Kittle could be in for a major rebound in Week 6. For starters, the 49ers will face the Washington Commanders, who have rank in the bottom five in fantasy points, receptions, receiving yards, and touchdowns allowed to opposing tight ends. Secondly, given the spate of injuries in San Francisco's wide receiver room, Kittle is in line to see more time as Brock Purdy's first read. As usual, Kittle is among the top options at tight end this week and should is a lock for fantasy lineups.",
+        "description": "San Francisco 49ers tight end George Kittle's production took a big step back in Week 5, when he caught five of his six targets for a mere 24 receiving yards. It was a disappointment after a three-week stretch where he averaged 77.3 receiving yards and scored at least one touchdown in each game. Kittle could be in for a major rebound in Week 6. For starters, the 49ers will face the Washington Commanders, who have rank in the bottom five in fantasy points, receptions, receiving yards, and touchdowns allowed to opposing tight ends. Secondly, given the spate of injuries in San Francisco's wide receiver room, Kittle is in line to see more time as Brock Purdy's first read. As usual, Kittle is among the top options at tight end this week and should be a lock for fantasy lineups.",
         "title": "George Kittle In Smash Spot In Week 6",
         "topic_id": "1417304134486384640",
         "url": "https://www.rotoballer.com/player-news/george-kittle-in-smash-spot-in-week-6/1969157"
@@ -132792,387 +133000,6 @@
       "source_key": "637865",
       "story_id": "nfl|8134|rotowire|637865|1789708164000",
       "title": "Khalil Shakir - Records 49 all-purpose yards in win",
-      "url": null
-    },
-    {
-      "analysis": "Coleman benefited from the late second-quarter exit of DJ Moore (shoulder), finishing the game second in receptions and receiving yards for the Bills while also tying for runner-up status in targets. The oft-maligned 2024 second-round pick encouragingly flashed steady hands as well throughout the night, and Coleman will be in line to continue in an enhanced role in a Week 3 home matchup against the Chargers on Sunday, Sept. 27 if Moore is forced to sit out the contest.",
-      "description": "Coleman brought in all six targets for 63 yards in the Bills' 41-31 win over the Lions on Thursday.",
-      "metadata": {
-        "analysis": "Coleman benefited from the late second-quarter exit of DJ Moore (shoulder), finishing the game second in receptions and receiving yards for the Bills while also tying for runner-up status in targets. The oft-maligned 2024 second-round pick encouragingly flashed steady hands as well throughout the night, and Coleman will be in line to continue in an enhanced role in a Week 3 home matchup against the Chargers on Sunday, Sept. 27 if Moore is forced to sit out the contest.",
-        "description": "Coleman brought in all six targets for 63 yards in the Bills' 41-31 win over the Lions on Thursday.",
-        "title": "Keon Coleman - Spike in production during win",
-        "topic_id": "1406540660017815552"
-      },
-      "nfl_team": "BUF",
-      "player_id": "11637",
-      "player_name": "Keon Coleman",
-      "position": "WR",
-      "published": 1789707720000,
-      "source": "rotowire",
-      "source_key": "637864",
-      "story_id": "nfl|11637|rotowire|637864|1789707720000",
-      "title": "Keon Coleman - Spike in production during win",
-      "url": null
-    },
-    {
-      "analysis": "Williams produced modest numbers for the second time in as many games to open the season, and the speedy wideout didn't even record his second reception until just before the two-minute warning in the second half. Both of Williams' catches Thursday went for first downs, but he saw a sizable reduction from the nine targets he'd logged in the season-opening overtime victory against the Saints on Sunday. The 2022 first-round pick will look to put together his first standout performance of the season in a Week 3 home matchup against the Jets on Sunday, Sept. 27.",
-      "description": "Williams brought in two of four targets for 33 yards in the Lions' 41-31 loss to the Bills on Thursday.",
-      "metadata": {
-        "analysis": "Williams produced modest numbers for the second time in as many games to open the season, and the speedy wideout didn't even record his second reception until just before the two-minute warning in the second half. Both of Williams' catches Thursday went for first downs, but he saw a sizable reduction from the nine targets he'd logged in the season-opening overtime victory against the Saints on Sunday. The 2022 first-round pick will look to put together his first standout performance of the season in a Week 3 home matchup against the Jets on Sunday, Sept. 27.",
-        "description": "Williams brought in two of four targets for 33 yards in the Lions' 41-31 loss to the Bills on Thursday.",
-        "title": "Jameson Williams - Retains modest role in loss",
-        "topic_id": "1406539402464800768"
-      },
-      "nfl_team": "DET",
-      "player_id": "8148",
-      "player_name": "Jameson Williams",
-      "position": "WR",
-      "published": 1789707256000,
-      "source": "rotowire",
-      "source_key": "637863",
-      "story_id": "nfl|8148|rotowire|637863|1789707256000",
-      "title": "Jameson Williams - Retains modest role in loss",
-      "url": null
-    },
-    {
-      "analysis": "The fourth-year tight end was one of Jared Goff's primary targets Thursday, finishing tied for second in receptions while checking in third in both receiving yards and targets. LaPorta also recorded his first touchdown catch of the season on a one-yard grab early in the fourth quarter, and over the first two games of the new campaign, he's encouragingly been targeted 15 times and parlayed those opportunities into 11 receptions for 100 yards and the TD. LaPorta should remain a key complementary option during a Week 3 home matchup against the Jets on Sunday, Sept. 27.",
-      "description": "LaPorta brought in six of seven targets for 52 yards and a touchdown in the Lions' 41-31 loss to the Bills on Thursday.",
-      "metadata": {
-        "analysis": "The fourth-year tight end was one of Jared Goff's primary targets Thursday, finishing tied for second in receptions while checking in third in both receiving yards and targets. LaPorta also recorded his first touchdown catch of the season on a one-yard grab early in the fourth quarter, and over the first two games of the new campaign, he's encouragingly been targeted 15 times and parlayed those opportunities into 11 receptions for 100 yards and the TD. LaPorta should remain a key complementary option during a Week 3 home matchup against the Jets on Sunday, Sept. 27.",
-        "description": "LaPorta brought in six of seven targets for 52 yards and a touchdown in the Lions' 41-31 loss to the Bills on Thursday.",
-        "title": "Sam LaPorta - Scores first TD of '26 in loss",
-        "topic_id": "1406536885848793088"
-      },
-      "nfl_team": "DET",
-      "player_id": "10859",
-      "player_name": "Sam LaPorta",
-      "position": "TE",
-      "published": 1789706883000,
-      "source": "rotowire",
-      "source_key": "637862",
-      "story_id": "nfl|10859|rotowire|637862|1789706883000",
-      "title": "Sam LaPorta - Scores first TD of '26 in loss",
-      "url": null
-    },
-    {
-      "analysis": "The star tight end put together a fitting encore to his season-opening 5-130-0 line against the Texans, setting the pace for the Bills in receptions, receiving yards and targets on the night. Kincaid repeatedly got into the second level of the Lions defense during the high-scoring victory -- including on his 16-yard scoring grab late in the first half -- and his particularly elevated workload was partly the byproduct of DJ Moore's exit with a shoulder injury shortly before the tight end's touchdown catch. Kincaid will remain a vital component of the Bills' red-hot air attack in a Week 3 home showdown against the Chargers on Sunday, Sept. 27.",
-      "description": "Kincaid brought in seven of eight targets for 95 yards and a touchdown in the Bills' 41-31 win over the Lions on Thursday.",
-      "metadata": {
-        "analysis": "The star tight end put together a fitting encore to his season-opening 5-130-0 line against the Texans, setting the pace for the Bills in receptions, receiving yards and targets on the night. Kincaid repeatedly got into the second level of the Lions defense during the high-scoring victory -- including on his 16-yard scoring grab late in the first half -- and his particularly elevated workload was partly the byproduct of DJ Moore's exit with a shoulder injury shortly before the tight end's touchdown catch. Kincaid will remain a vital component of the Bills' red-hot air attack in a Week 3 home showdown against the Chargers on Sunday, Sept. 27.",
-        "description": "Kincaid brought in seven of eight targets for 95 yards and a touchdown in the Bills' 41-31 win over the Lions on Thursday.",
-        "title": "Dalton Kincaid - Continues explosive start to season Thursday",
-        "topic_id": "1406529334969167872"
-      },
-      "nfl_team": "BUF",
-      "player_id": "10236",
-      "player_name": "Dalton Kincaid",
-      "position": "TE",
-      "published": 1789705086000,
-      "source": "rotowire",
-      "source_key": "637860",
-      "story_id": "nfl|10236|rotowire|637860|1789705086000",
-      "title": "Dalton Kincaid - Continues explosive start to season Thursday",
-      "url": null
-    },
-    {
-      "analysis": "Goff's final line undoubtedly pleased fantasy managers, but in a real-world football sense, they were largely the byproduct of a high-scoring loss in which the Lions trailed throughout. He had a mostly unremarkable first half, throwing just one of his touchdown passes in that span when he connected with Jahmyr Gibbs from 11 yards out. Goff would go on to add two and 27-yard strikes to Amon-Ra St. Brown and a one-yard scoring toss to Sam LaPorta after halftime, pushing the veteran signal-caller to a sparkling 6:0 TD:INT over the first two games of the season. Goff will next take aim at the Jets secondary in a Week 3 home matchup on Sunday, Sept. 27.",
-      "description": "Goff completed 26 of 38 passes for 327 yards with four touchdowns and no interceptions while adding three rushes for seven yards in the Lions' 41-31 loss to the Bills on Thursday. He also committed two fumbles, losing one.",
-      "metadata": {
-        "analysis": "Goff's final line undoubtedly pleased fantasy managers, but in a real-world football sense, they were largely the byproduct of a high-scoring loss in which the Lions trailed throughout. He had a mostly unremarkable first half, throwing just one of his touchdown passes in that span when he connected with Jahmyr Gibbs from 11 yards out. Goff would go on to add two and 27-yard strikes to Amon-Ra St. Brown and a one-yard scoring toss to Sam LaPorta after halftime, pushing the veteran signal-caller to a sparkling 6:0 TD:INT over the first two games of the season. Goff will next take aim at the Jets secondary in a Week 3 home matchup on Sunday, Sept. 27.",
-        "description": "Goff completed 26 of 38 passes for 327 yards with four touchdowns and no interceptions while adding three rushes for seven yards in the Lions' 41-31 loss to the Bills on Thursday. He also committed two fumbles, losing one.",
-        "title": "Jared Goff - Racks up production in high-scoring loss",
-        "topic_id": "1406528077013520384"
-      },
-      "nfl_team": "DET",
-      "player_id": "3163",
-      "player_name": "Jared Goff",
-      "position": "QB",
-      "published": 1789704735000,
-      "source": "rotowire",
-      "source_key": "637858",
-      "story_id": "nfl|3163|rotowire|637858|1789704735000",
-      "title": "Jared Goff - Racks up production in high-scoring loss",
-      "url": null
-    },
-    {
-      "analysis": "The field-goal attempt came from 31 yards out. Detroit's season has been up and down so far, but Bates has been steady, making all eight of his extra-point tries and both field-goal attempts through two games. He remains the kicker on a high-scoring offense.",
-      "description": "Bates made all four of his extra-point attempts and his only field-goal try in Thursday's 41-31 loss to the Bills.",
-      "metadata": {
-        "analysis": "The field-goal attempt came from 31 yards out. Detroit's season has been up and down so far, but Bates has been steady, making all eight of his extra-point tries and both field-goal attempts through two games. He remains the kicker on a high-scoring offense.",
-        "description": "Bates made all four of his extra-point attempts and his only field-goal try in Thursday's 41-31 loss to the Bills.",
-        "title": "Jake Bates - Perfect again in Week 2",
-        "topic_id": "1406526818651054080"
-      },
-      "nfl_team": "DET",
-      "player_id": "11539",
-      "player_name": "Jake Bates",
-      "position": "K",
-      "published": 1789704335000,
-      "source": "rotowire",
-      "source_key": "637856",
-      "story_id": "nfl|11539|rotowire|637856|1789704335000",
-      "title": "Jake Bates - Perfect again in Week 2",
-      "url": null
-    },
-    {
-      "analysis": "The Lions played from behind all night, which had a role in St. Brown seeing massive volume on his way to game-high figures in receptions, receiving yards and targets. The star wideout recorded both his scoring grabs in the second half, capping off Detroit's opening drive of the third quarter with a two-yard touchdown and then providing the final points for either side when he hauled in a 27-yard strike from Jared Goff with 1:42 remaining. St. Brown has opened the season in signature fashion with consecutive two-TD tallies, and he'll next take aim at the Jets defense on the fast track of Ford Field on Sunday, Sept. 27.",
-      "description": "St. Brown brought in nine of 13 targets for 142 yards and two touchdowns in the Lions' 41-31 loss to the Bills on Thursday.",
-      "metadata": {
-        "analysis": "The Lions played from behind all night, which had a role in St. Brown seeing massive volume on his way to game-high figures in receptions, receiving yards and targets. The star wideout recorded both his scoring grabs in the second half, capping off Detroit's opening drive of the third quarter with a two-yard touchdown and then providing the final points for either side when he hauled in a 27-yard strike from Jared Goff with 1:42 remaining. St. Brown has opened the season in signature fashion with consecutive two-TD tallies, and he'll next take aim at the Jets defense on the fast track of Ford Field on Sunday, Sept. 27.",
-        "description": "St. Brown brought in nine of 13 targets for 142 yards and two touchdowns in the Lions' 41-31 loss to the Bills on Thursday.",
-        "title": "Amon-Ra St. Brown - Stellar numbers in Week 2 loss",
-        "topic_id": "1406525559978176513"
-      },
-      "nfl_team": "DET",
-      "player_id": "7547",
-      "player_name": "Amon-Ra St. Brown",
-      "position": "WR",
-      "published": 1789704215000,
-      "source": "rotowire",
-      "source_key": "637855",
-      "story_id": "nfl|7547|rotowire|637855|1789704215000",
-      "title": "Amon-Ra St. Brown - Stellar numbers in Week 2 loss",
-      "url": null
-    },
-    {
-      "analysis": "Cook repeatedly gashed a Lions defense that came in with a reputation for being stingy against the run, more than atoning for a lackluster Week 1 showing against the Texans just four days earlier. The star running back rounded out his fantasy night with the final score of the high-scoring clash for the Bills, recording a one-yard touchdown run with just under three minutes remaining in the fourth quarter. Cook's multiple explosive runs throughout the night served as a reminder of why he earned such lofty draft status this summer, and he'll remain a critical component of a juggernaut Bills offense in a Week 3 home matchup against the Chargers on Sunday, Sept. 27.",
-      "description": "Cook rushed 21 times for 135 yards and a touchdown and brought in one of three targets for four yards in the Bills' 41-31 win over the Lions on Thursday.",
-      "metadata": {
-        "analysis": "Cook repeatedly gashed a Lions defense that came in with a reputation for being stingy against the run, more than atoning for a lackluster Week 1 showing against the Texans just four days earlier. The star running back rounded out his fantasy night with the final score of the high-scoring clash for the Bills, recording a one-yard touchdown run with just under three minutes remaining in the fourth quarter. Cook's multiple explosive runs throughout the night served as a reminder of why he earned such lofty draft status this summer, and he'll remain a critical component of a juggernaut Bills offense in a Week 3 home matchup against the Chargers on Sunday, Sept. 27.",
-        "description": "Cook rushed 21 times for 135 yards and a touchdown and brought in one of three targets for four yards in the Bills' 41-31 win over the Lions on Thursday.",
-        "title": "James Cook - Shreds Lions defense in win",
-        "topic_id": "1406524301229727744"
-      },
-      "nfl_team": "BUF",
-      "player_id": "8138",
-      "player_name": "James Cook",
-      "position": "RB",
-      "published": 1789703910000,
-      "source": "rotowire",
-      "source_key": "637853",
-      "story_id": "nfl|8138|rotowire|637853|1789703910000",
-      "title": "James Cook - Shreds Lions defense in win",
-      "url": null
-    },
-    {
-      "analysis": "Gibbs managed a 16-yard run among his 16 carries, yet he generally found running room at a premium over the course of the high-scoring loss. Game script also limited the star running back's opportunities on the ground somewhat, but Gibbs did make up for it to an extent with his work as a receiver. The fourth-year pro tied for second in receptions and also was the runner-up in receiving yards for the Lions on the night, and he added his first receiving touchdown of the season when he brought in an 11-yard laser from Jared Goff with just over five minutes remaining in the first half. Gibbs should have a chance at reverting to a larger workload on the ground in a Week 3 home matchup against the Jets on Sunday, Sept. 27.",
-      "description": "Gibbs rushed 16 times for 52 yards and brought in six of eight targets for 61 yards and a touchdown in the Lions' 41-31 loss to the Bills on Thursday.",
-      "metadata": {
-        "analysis": "Gibbs managed a 16-yard run among his 16 carries, yet he generally found running room at a premium over the course of the high-scoring loss. Game script also limited the star running back's opportunities on the ground somewhat, but Gibbs did make up for it to an extent with his work as a receiver. The fourth-year pro tied for second in receptions and also was the runner-up in receiving yards for the Lions on the night, and he added his first receiving touchdown of the season when he brought in an 11-yard laser from Jared Goff with just over five minutes remaining in the first half. Gibbs should have a chance at reverting to a larger workload on the ground in a Week 3 home matchup against the Jets on Sunday, Sept. 27.",
-        "description": "Gibbs rushed 16 times for 52 yards and brought in six of eight targets for 61 yards and a touchdown in the Lions' 41-31 loss to the Bills on Thursday.",
-        "title": "Jahmyr Gibbs - Eclipses 100 total yards in loss",
-        "topic_id": "1406524301229727745"
-      },
-      "nfl_team": "DET",
-      "player_id": "9221",
-      "player_name": "Jahmyr Gibbs",
-      "position": "RB",
-      "published": 1789703591000,
-      "source": "rotowire",
-      "source_key": "637852",
-      "story_id": "nfl|9221|rotowire|637852|1789703591000",
-      "title": "Jahmyr Gibbs - Eclipses 100 total yards in loss",
-      "url": null
-    },
-    {
-      "analysis": "Allen extended his record of most games with two-plus passing touchdowns and two-plus rushing touchdowns, accomplishing the feat for the 10th time in his career while leading the Bills to a wild victory in their first regular-season game at the new Highmark Stadium. His pair of rushing touchdowns came from one and two yards out in the first and third quarters, respectively, and he hit Joshua Palmer (43 yards), Dawson Knox (one yard) and Dalton Kincaid (16 yards) for his trio of scoring strikes. Allen's solid passing numbers were made all the more impressive by the fact he lost DJ Moore to a shoulder injury late in the first half, and the star signal-caller encouragingly displayed strong chemistry with Keon Coleman (6-63-0) in response. Allen has quickly generated a 5:0 TD:INT and added four rushing touchdowns in his first two games, a noteworthy start to a quest for a second career MVP. Allen and his teammates now get some extra rest ahead of a Week 3 home showdown against the Chargers on Sunday, Sept. 27.",
-      "description": "Allen completed 20 of 31 passes for 248 yards with three touchdowns and no interceptions while rushing 14 times for 69 yards and another pair of scores in the Bills' 41-31 win over the Lions on Thursday. He also committed a fumble recovered by Buffalo.",
-      "metadata": {
-        "analysis": "Allen extended his record of most games with two-plus passing touchdowns and two-plus rushing touchdowns, accomplishing the feat for the 10th time in his career while leading the Bills to a wild victory in their first regular-season game at the new Highmark Stadium. His pair of rushing touchdowns came from one and two yards out in the first and third quarters, respectively, and he hit Joshua Palmer (43 yards), Dawson Knox (one yard) and Dalton Kincaid (16 yards) for his trio of scoring strikes. Allen's solid passing numbers were made all the more impressive by the fact he lost DJ Moore to a shoulder injury late in the first half, and the star signal-caller encouragingly displayed strong chemistry with Keon Coleman (6-63-0) in response. Allen has quickly generated a 5:0 TD:INT and added four rushing touchdowns in his first two games, a noteworthy start to a quest for a second career MVP. Allen and his teammates now get some extra rest ahead of a Week 3 home showdown against the Chargers on Sunday, Sept. 27.",
-        "description": "Allen completed 20 of 31 passes for 248 yards with three touchdowns and no interceptions while rushing 14 times for 69 yards and another pair of scores in the Bills' 41-31 win over the Lions on Thursday. He also committed a fumble recovered by Buffalo.",
-        "title": "Josh Allen - Another elite performance in win",
-        "topic_id": "1406521784001421312"
-      },
-      "nfl_team": "BUF",
-      "player_id": "4984",
-      "player_name": "Josh Allen",
-      "position": "QB",
-      "published": 1789703273000,
-      "source": "rotowire",
-      "source_key": "637851",
-      "story_id": "nfl|4984|rotowire|637851|1789703273000",
-      "title": "Josh Allen - Another elite performance in win",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Buffalo Bills quarterback Josh Allen completed 20 of his 31 pass attempts for 248 passing yards, three passing touchdowns, and zero interceptions during Thursday's Week 2 win over the Detroit Lions. He also tallied 69 rushing yards and two rushing touchdowns while taking just two sacks. Allen was (unsurprisingly) the focal point of the Bills' game plan on Thursday, and even when Buffalo tried to keep the ball on the ground, Allen was often responsible for the rushing attempt. So far, it's been tough for running back James Cook III's fantasy managers to get ecstatic about drafting him, but obviously Allen's fantasy managers are thrilled. The star quarterback will remain firmly entrenched as a mid-to-high QB1 in the fantasy rankings for Week 3 against the Los Angeles Chargers.",
-      "metadata": {
-        "description": "Buffalo Bills quarterback Josh Allen completed 20 of his 31 pass attempts for 248 passing yards, three passing touchdowns, and zero interceptions during Thursday's Week 2 win over the Detroit Lions. He also tallied 69 rushing yards and two rushing touchdowns while taking just two sacks. Allen was (unsurprisingly) the focal point of the Bills' game plan on Thursday, and even when Buffalo tried to keep the ball on the ground, Allen was often responsible for the rushing attempt. So far, it's been tough for running back James Cook III's fantasy managers to get ecstatic about drafting him, but obviously Allen's fantasy managers are thrilled. The star quarterback will remain firmly entrenched as a mid-to-high QB1 in the fantasy rankings for Week 3 against the Los Angeles Chargers.",
-        "title": "Josh Allen Enjoys a Five-Touchdown Performance on Primetime Television",
-        "topic_id": "1406560792618266624",
-        "url": "https://www.rotoballer.com/player-news/josh-allen-enjoys-a-five-touchdown-performance-on-primetime-television/1934097"
-      },
-      "nfl_team": "BUF",
-      "player_id": "4984",
-      "player_name": "Josh Allen",
-      "position": "QB",
-      "published": 1789698127000,
-      "source": "rotoballer",
-      "source_key": "221345",
-      "story_id": "nfl|4984|rotoballer|221345|1789698127000",
-      "title": "Josh Allen Enjoys a Five-Touchdown Performance on Primetime Television",
-      "url": "https://www.rotoballer.com/player-news/josh-allen-enjoys-a-five-touchdown-performance-on-primetime-television/1934097"
-    },
-    {
-      "analysis": null,
-      "description": "Detroit Lions quarterback Jared Goff completed 26 of his 38 pass attempts for 327 yards, four touchdowns, and zero interceptions during Thursday's Week 2 loss against the Buffalo Bills. He also rushed for seven yards and took four sacks in the contest. Goff and the Lions had a quieter start to the game, going scoreless in the first quarter and getting just one touchdown and one field goal before the end of the first half. However, Detroit managed to stay in the game throughout most of regulation, largely thanks to an elite rapport between Goff and Amon-Ra St. Brown. We have now seen Goff go for two-plus touchdowns and zero turnovers in back-to-back games to start the season, solidifying himself as a low-end QB1 despite his lack of rushing upside. We would continue to start him in most leagues ahead of Week 3 against the Jets.",
-      "metadata": {
-        "description": "Detroit Lions quarterback Jared Goff completed 26 of his 38 pass attempts for 327 yards, four touchdowns, and zero interceptions during Thursday's Week 2 loss against the Buffalo Bills. He also rushed for seven yards and took four sacks in the contest. Goff and the Lions had a quieter start to the game, going scoreless in the first quarter and getting just one touchdown and one field goal before the end of the first half. However, Detroit managed to stay in the game throughout most of regulation, largely thanks to an elite rapport between Goff and Amon-Ra St. Brown. We have now seen Goff go for two-plus touchdowns and zero turnovers in back-to-back games to start the season, solidifying himself as a low-end QB1 despite his lack of rushing upside. We would continue to start him in most leagues ahead of Week 3 against the Jets.",
-        "title": "Jared Goff's Strong Second Half Fuels Huge Fantasy Performance",
-        "topic_id": "1406560792618266626",
-        "url": "https://www.rotoballer.com/player-news/jared-goffs-strong-second-half-fuels-huge-fantasy-performance/1934095"
-      },
-      "nfl_team": "DET",
-      "player_id": "3163",
-      "player_name": "Jared Goff",
-      "position": "QB",
-      "published": 1789697833000,
-      "source": "rotoballer",
-      "source_key": "221346",
-      "story_id": "nfl|3163|rotoballer|221346|1789697833000",
-      "title": "Jared Goff's Strong Second Half Fuels Huge Fantasy Performance",
-      "url": "https://www.rotoballer.com/player-news/jared-goffs-strong-second-half-fuels-huge-fantasy-performance/1934095"
-    },
-    {
-      "analysis": "Moore exited late in the second quarter and was taken to the locker room for X-rays. The results of those tests aren't yet clear, but Moore appeared to be in a considerable amount of pain after landing hard on his shoulder while attempting a diving catch in the end zone. Prior to his departure, Moore rushed one time for minus-1 yard and didn't see an official target in the passing game. Khalil Shakir and Dalton Kincaid figure to be Josh Allen's preferred targets the rest of the way, with Keon Coleman, Joshua Palmer and Dawson Knox filling in behind them in the pecking order.",
-      "description": "Moore (shoulder) has been ruled out for the remainder of Thursday night's game against the Lions.",
-      "metadata": {
-        "analysis": "Moore exited late in the second quarter and was taken to the locker room for X-rays. The results of those tests aren't yet clear, but Moore appeared to be in a considerable amount of pain after landing hard on his shoulder while attempting a diving catch in the end zone. Prior to his departure, Moore rushed one time for minus-1 yard and didn't see an official target in the passing game. Khalil Shakir and Dalton Kincaid figure to be Josh Allen's preferred targets the rest of the way, with Keon Coleman, Joshua Palmer and Dawson Knox filling in behind them in the pecking order.",
-        "description": "Moore (shoulder) has been ruled out for the remainder of Thursday night's game against the Lions.",
-        "title": "DJ Moore - Will not return Thursday",
-        "topic_id": "1406497874526695424"
-      },
-      "nfl_team": "BUF",
-      "player_id": "4983",
-      "player_name": "DJ Moore",
-      "position": "WR",
-      "published": 1789697565000,
-      "source": "rotowire",
-      "source_key": "637841",
-      "story_id": "nfl|4983|rotowire|637841|1789697565000",
-      "title": "DJ Moore - Will not return Thursday",
-      "url": null
-    },
-    {
-      "analysis": "Viewers of the broadcast were able to see Moore get up and walk off under his own power after taking a big hit in the endzone. However, he is headed to the locker room for further x-ray examination and is questionable to return.",
-      "description": "DJ Moore is questionable to return with a shoulder injury.",
-      "metadata": {
-        "analysis": "Viewers of the broadcast were able to see Moore get up and walk off under his own power after taking a big hit in the endzone. However, he is headed to the locker room for further x-ray examination and is questionable to return.",
-        "description": "DJ Moore is questionable to return with a shoulder injury.",
-        "title": "DJ Moore questionable to return with shoulder injury",
-        "topic_id": "1406487812093628416",
-        "url": "https://www.fantasypros.com/nfl/news/608757/dj-moore-questionable-to-return-with-shoulder-injury.php"
-      },
-      "nfl_team": "BUF",
-      "player_id": "4983",
-      "player_name": "DJ Moore",
-      "position": "WR",
-      "published": 1789695334989,
-      "source": "fantasy_pros",
-      "source_key": "608757",
-      "story_id": "nfl|4983|fantasy_pros|608757|1789695334989",
-      "title": "DJ Moore questionable to return with shoulder injury",
-      "url": "https://www.fantasypros.com/nfl/news/608757/dj-moore-questionable-to-return-with-shoulder-injury.php"
-    },
-    {
-      "analysis": "The Bills also are concerned about a possible stinger for Moore after he was injured late in the second quarter while diving for a pass in the end zone. Moore looked to be in considerable pain and is undergoing X-rays. Khalil Shakir, Keon Coleman and Joshua Palmer figure to see the bulk of the wide receiver snaps while Moore is in the locker room.",
-      "description": "Moore (shoulder) is questionable to return to Thursday night's game against the Lions.",
-      "metadata": {
-        "analysis": "The Bills also are concerned about a possible stinger for Moore after he was injured late in the second quarter while diving for a pass in the end zone. Moore looked to be in considerable pain and is undergoing X-rays. Khalil Shakir, Keon Coleman and Joshua Palmer figure to see the bulk of the wide receiver snaps while Moore is in the locker room.",
-        "description": "Moore (shoulder) is questionable to return to Thursday night's game against the Lions.",
-        "title": "DJ Moore - Questionable to return Thursday",
-        "topic_id": "1406487808088018944"
-      },
-      "nfl_team": "BUF",
-      "player_id": "4983",
-      "player_name": "DJ Moore",
-      "position": "WR",
-      "published": 1789695177000,
-      "source": "rotowire",
-      "source_key": "637834",
-      "story_id": "nfl|4983|rotowire|637834|1789695177000",
-      "title": "DJ Moore - Questionable to return Thursday",
-      "url": null
-    },
-    {
-      "analysis": "Kupp opened the week with a limited session Wednesday as a result of a back injury, but he was able to erase any concern about his availability for Week 2 with a full practice one day later. The wide receiver caught two of three targets for 35 yards in the team's 13-10 win over New England on Sept. 9, and he'll be working with Drew Lock at quarterback against the Cardinals on Sunday.",
-      "description": "Kupp (back) was a full participant at the Seahawks' practice Thursday, Bob Condotta of The Seattle Times reports.",
-      "metadata": {
-        "analysis": "Kupp opened the week with a limited session Wednesday as a result of a back injury, but he was able to erase any concern about his availability for Week 2 with a full practice one day later. The wide receiver caught two of three targets for 35 yards in the team's 13-10 win over New England on Sept. 9, and he'll be working with Drew Lock at quarterback against the Cardinals on Sunday.",
-        "description": "Kupp (back) was a full participant at the Seahawks' practice Thursday, Bob Condotta of The Seattle Times reports.",
-        "title": "Cooper Kupp - Good to go for Week 2",
-        "topic_id": "1406477738700791808"
-      },
-      "nfl_team": "SEA",
-      "player_id": "4039",
-      "player_name": "Cooper Kupp",
-      "position": "WR",
-      "published": 1789692617000,
-      "source": "rotowire",
-      "source_key": "637823",
-      "story_id": "nfl|4039|rotowire|637823|1789692617000",
-      "title": "Cooper Kupp - Good to go for Week 2",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Chicago Bears wide receiver Rome Odunze has plenty of talent, but his exact volume could fluctuate from week to week due to the crowded state of the offense. Although the Bears dropped 59 points last week, Odunze and tight end Colston Loveland combined for two catches. Between Luther Burden III, Odunze, Kalif Raymond, and Cole Kmet, there are a lot of reliable targets for Caleb Williams in Chicago. They all have relatively high ceilings, but we also wouldn't be surprised to see them naturally alternate which players have big games or quiet games. For that reason, there's a decent chance that Odunze is a top-18 fantasy receiver going forward, but there's also a chance that he's a low-end RB3/flex or worse. The 24-year-old belongs on the bench in most leagues for now, especially as he recovers from a calf injury. He should be active this week, but Burden is currently the only must-start fantasy receiver in Chicago.",
-      "metadata": {
-        "description": "Chicago Bears wide receiver Rome Odunze has plenty of talent, but his exact volume could fluctuate from week to week due to the crowded state of the offense. Although the Bears dropped 59 points last week, Odunze and tight end Colston Loveland combined for two catches. Between Luther Burden III, Odunze, Kalif Raymond, and Cole Kmet, there are a lot of reliable targets for Caleb Williams in Chicago. They all have relatively high ceilings, but we also wouldn't be surprised to see them naturally alternate which players have big games or quiet games. For that reason, there's a decent chance that Odunze is a top-18 fantasy receiver going forward, but there's also a chance that he's a low-end RB3/flex or worse. The 24-year-old belongs on the bench in most leagues for now, especially as he recovers from a calf injury. He should be active this week, but Burden is currently the only must-start fantasy receiver in Chicago.",
-        "title": "Rome Odunze an Occasional Bust Candidate in Crowded Offense",
-        "topic_id": "1406536882677956608",
-        "url": "https://www.rotoballer.com/player-news/rome-odunze-an-occasional-bust-candidate-in-crowded-offense/1934086"
-      },
-      "nfl_team": "CHI",
-      "player_id": "11620",
-      "player_name": "Rome Odunze",
-      "position": "WR",
-      "published": 1789692426000,
-      "source": "rotoballer",
-      "source_key": "221343",
-      "story_id": "nfl|11620|rotoballer|221343|1789692426000",
-      "title": "Rome Odunze an Occasional Bust Candidate in Crowded Offense",
-      "url": "https://www.rotoballer.com/player-news/rome-odunze-an-occasional-bust-candidate-in-crowded-offense/1934086"
-    },
-    {
-      "analysis": null,
-      "description": "Tennessee Titans running back Tony Pollard has a relatively bleak fantasy outlook. Although he is the clear No. 1 running back in Tennessee, he has a low floor due to the state of the offense. In fantasy football, it's often preached that managers should draft workhorse running backs in talented offenses. That's not the case with Pollard; he projects to play roughly half of the snaps in an offense that might not be able to support a fantasy-relevant running back every week. A prime example of this was Week 1, when Pollard rushed for just 35 yards on seven carries against the Jets. Pollard led the team in rushing attempts, played 52% of the snaps, and averaged 5.0 yards per carry, but his low volume made him a massive disappointment in fantasy football. Managers should expect similar results in Week 2, as the Titans take on the Eagles. There probably won't be a ton of rushing opportunities for Pollard in this one, assuming the Titans fall into an early deficit. Pollard continues to rank as a low-end RB3/flex.",
-      "metadata": {
-        "description": "Tennessee Titans running back Tony Pollard has a relatively bleak fantasy outlook. Although he is the clear No. 1 running back in Tennessee, he has a low floor due to the state of the offense. In fantasy football, it's often preached that managers should draft workhorse running backs in talented offenses. That's not the case with Pollard; he projects to play roughly half of the snaps in an offense that might not be able to support a fantasy-relevant running back every week. A prime example of this was Week 1, when Pollard rushed for just 35 yards on seven carries against the Jets. Pollard led the team in rushing attempts, played 52% of the snaps, and averaged 5.0 yards per carry, but his low volume made him a massive disappointment in fantasy football. Managers should expect similar results in Week 2, as the Titans take on the Eagles. There probably won't be a ton of rushing opportunities for Pollard in this one, assuming the Titans fall into an early deficit. Pollard continues to rank as a low-end RB3/flex.",
-        "title": "Tony Pollard Will Continue to Suffer From Offense's Woes",
-        "topic_id": "1406535624604827648",
-        "url": "https://www.rotoballer.com/player-news/tony-pollard-will-continue-to-suffer-from-offenses-woes/1934084"
-      },
-      "nfl_team": "TEN",
-      "player_id": "5967",
-      "player_name": "Tony Pollard",
-      "position": "RB",
-      "published": 1789692038000,
-      "source": "rotoballer",
-      "source_key": "221342",
-      "story_id": "nfl|5967|rotoballer|221342|1789692038000",
-      "title": "Tony Pollard Will Continue to Suffer From Offense's Woes",
-      "url": "https://www.rotoballer.com/player-news/tony-pollard-will-continue-to-suffer-from-offenses-woes/1934084"
-    },
-    {
-      "analysis": "Mims has now missed back-to-back practices to open the week while dealing with a foot injury. The wide receiver will have one more chance to practice Friday before the team hosts Jacksonville on Sunday. If Mims can't go against the Jaguars, it would carry the largest impact on special teams for Denver.",
-      "description": "Mims (foot) was a non-participant at the Broncos' practice Thursday, Aric DiLalla of the team's official website reports.",
-      "metadata": {
-        "analysis": "Mims has now missed back-to-back practices to open the week while dealing with a foot injury. The wide receiver will have one more chance to practice Friday before the team hosts Jacksonville on Sunday. If Mims can't go against the Jaguars, it would carry the largest impact on special teams for Denver.",
-        "description": "Mims (foot) was a non-participant at the Broncos' practice Thursday, Aric DiLalla of the team's official website reports.",
-        "title": "Marvin Mims - Absent from practice again",
-        "topic_id": "1406473965500633088"
-      },
-      "nfl_team": "DEN",
-      "player_id": "9494",
-      "player_name": "Marvin Mims",
-      "position": "WR",
-      "published": 1789691901000,
-      "source": "rotowire",
-      "source_key": "637819",
-      "story_id": "nfl|9494|rotowire|637819|1789691901000",
-      "title": "Marvin Mims - Absent from practice again",
       "url": null
     }
   ]

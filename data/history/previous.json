@@ -20229,7 +20229,7 @@
       "years_exp": 3
     },
     "10236": {
-      "age": 26,
+      "age": 27,
       "fantasy_positions": [
         "TE"
       ],
@@ -21651,7 +21651,7 @@
       "nfl_team": "NYJ",
       "player_id": "13276",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "years_exp": 0
     },
     "13278": {
@@ -21880,7 +21880,7 @@
       "years_exp": 0
     },
     "13306": {
-      "age": 23,
+      "age": 24,
       "fantasy_positions": [
         "QB"
       ],
@@ -24752,8 +24752,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-17T22:54:40Z",
-    "source_fingerprint": "4df76d2053f9bc6ca448ce9eb67373f36597fd6c57c0dabad3a53c80a1145a9a"
+    "last_changed_at": "2026-10-18T00:37:22Z",
+    "source_fingerprint": "4fcc9b38a9066d6c7ba9ff77ed8711b8a508f49c3aa1e240b61071bf3e3344de"
   },
   "teams": [
     {
