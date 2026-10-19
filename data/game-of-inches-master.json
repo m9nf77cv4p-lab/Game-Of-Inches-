@@ -17280,9 +17280,9 @@
           "9509",
           "9997",
           "10232",
-          "4037",
+          "6801",
           "5012",
-          "5001",
+          "13276",
           "3257",
           "2747",
           "KC"
@@ -24793,8 +24793,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-19T06:45:10Z",
-    "source_fingerprint": "7b74a99b0dd9452b12441c6447097f91fcac756ecff2d5500c45922e3d9fb32d"
+    "last_changed_at": "2026-10-19T14:01:50Z",
+    "source_fingerprint": "b2fe1c5928b23ada80520d452b02f3394c0ddef8966b42ffeadc93e91b506d6d"
   },
   "teams": [
     {
