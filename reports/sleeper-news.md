@@ -2,48 +2,80 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6703**
-- Newly captured: **12**
+- Stored stories: **6633**
+- Newly captured: **15**
 
 ## Latest news
 
-- **NEW — A.J. Brown** — A.J. Brown - On practice field Tuesday (2026-10-20T19:42:41Z)
+- **NEW — Terrance Ferguson** — Terrance Ferguson - Not expected back next week (2026-10-20T22:14:14Z)
+  - Ferguson, who was placed on injured reserve in advance of Week 4 action, will be eligible to return in Week 8 against the Chargers. However, it appears as though the tight end's return isn't imminent, with Schefter's report suggesting that Ferguson's recovery "will take some time." In his absence, Tyler Higbee profiles as the Rams' main pass-catching TE, with Colby Parkinson and Davis Allen also mixing in.
+- **NEW — Terrance Ferguson** — Terrance Ferguson (ankle) not expected to be activated next week (2026-10-20T22:05:47.633000Z)
+  - Ferguson will remain on injured reserve. He remains week-to-week. 
+  - Source: https://www.fantasypros.com/nfl/news/614959/terrance-ferguson-ankle-not-expected-to-be-activated-next-week.php
+- **NEW — A.J. Brown** — A.J. Brown - Remains listed as limited Tuesday (2026-10-20T22:01:50Z)
+  - Brown returned from a four-game absence this past Sunday against the Jets. He's been limited in each of the first two sessions of Week 7 prep, and the veteran wide receiver told reporters after Tuesday's practice that his ankle is "feeling good," per Doug Kyed of the Boston Herald. Wednesday's injury report should clarify whether the Patriots' top WR will be fully cleared for Thursday night's game against the Bears.
+- **NEW — Kyle Monangai** — Kyle Monangai (thumb/toe) misses practice Tuesday  (2026-10-20T21:45:47.483000Z)
+  - Monangai has still yet to practice. He is trending towards being sidelined again on Thursday against the Patriots. 
+  - Source: https://www.fantasypros.com/nfl/news/614953/kyle-monangai-thumbtoe-misses-practice-tuesday.php
+- **NEW — Davante Adams** — Davante Adams - Placed on injured reserve by Rams (2026-10-20T21:36:31Z)
+  - As a result, Adams is slated to miss at least four games, although Ian Rapoport of NFL Network previously suggested that the wideout was hoping to return not too long after the Rams' Week 11 bye. In his absence, Jordan Whittington, Konata Mumpfield and Tutu Atwellare candidates to see added looks behind top WR Puka Nacua.
+- **NEW — Kyle Monangai** — Kyle Monangai - Sits out Tuesday's walk-through (2026-10-20T21:20:28Z)
+  - Monangai also logged a DNP on Monday's estimated practice report. If Monangai remains sidelined Thursday versus New England, Roschon Johnson would be in line to see added backfield work once again behind D'Andre Swift.
+- **A.J. Brown** — A.J. Brown - On practice field Tuesday (2026-10-20T19:42:41Z)
   - Brown, who returned from a four-game absence this past Sunday against the Jets, was listed as limited on Monday's estimated practice report. It remains to be seen how the Patriots list his Tuesday participation level, but at this stage there's no reason to believe that the wideout's availability for Thursday night's game against the Bears is in any danger.
-- **NEW — Terry McLaurin** — Terry McLaurin (knee) done for 2026 with torn patellar tendon (2026-10-20T19:25:39.754000Z)
+- **Terry McLaurin** — Terry McLaurin (knee) done for 2026 with torn patellar tendon (2026-10-20T19:25:39.754000Z)
   - McLaurin suffered the injury in the first half of Washington's Monday Night game against San Fransisco, coming up lame after trying to run a route, and staying down for some time before being carted off. An MRI today confirmed the injury, and McLaurin will now miss the rest of 2026. Antonio Williams and Chig Okonkwo are now priority waiver pickups for those in need, and if you are in need of a name in deep leagues, Treylon Burks actually had a fair performance on Monday, though he is banged up as well, so his status will need to be monitored. Regardless, Williams and Okonkwo figure to see an uptick in work alongside Stefon Diggs.
   - Source: https://www.fantasypros.com/nfl/news/614941/terry-mclaurin-knee-done-2026-with-torn-patellar-tendon.php
-- **NEW — Terry McLaurin** — Terry McLaurin - Suffers torn patellar tendon (2026-10-20T19:18:07Z)
-  - With McLaurin done for the season as the result of the injury, Stefon Diggs profiles as the Commanders' top wideout going forward. Also in the mix to see added reps in McLaurin's absence are Antonio Williams, Treylon Burks, Dyami Brown and Luke McCaffrey. Additionally, the team could look add depth at the position in the coming days. McLaurin, who is under contract with Washington through 2028, faces a lengthy recovery in in the coming months. Prior to sustaining his injury, McLaurin logged a team-high 230 receiving yards on 15 receptions (27 targets) with a TD over the course of five games.
-- **NEW — Romeo Doubs** — Romeo Doubs (shoulder) facing uncertain timetable to retun (2026-10-20T18:45:39.553000Z)
+- **Terry McLaurin** — Terry McLaurin - Suffers torn patellar tendon (2026-10-20T19:18:07Z)
+  - With McLaurin done for the season as the result of the injury, Stefon Diggs profiles as the Commanders' top wideout. Also in the mix to see added reps are Antonio Williams, Treylon Burks, Dyami Brown and Luke McCaffrey. Additionally, the team could look add depth at the position in the coming days. McLaurin, who is under contract with Washington through 2028, faces a lengthy recovery. Prior to sustaining his injury, McLaurin logged a team-high 230 receiving yards on 15 receptions (27 targets) with a TD over five games.
+- **NEW — Tyjae Spears** — Tyjae Spears Only Stash-Worthy in Deep PPR Leagues (2026-10-20T19:00:10Z)
+  - Source: https://www.rotoballer.com/player-news/tyjae-spears-only-stash-worthy-in-deep-ppr-leagues/1971589
+- **Romeo Doubs** — Romeo Doubs (shoulder) facing uncertain timetable to retun (2026-10-20T18:45:39.553000Z)
   - It's a rough situation for Doubs, who was putting up a big game before going out with a shoulder injury. He's not droppable jet yet, at least not in leagues with an IR slot. However, he seems to be right on the edge of drop territory, so fantasy managers will need to keep an eye out for any updates regarding his potential return. However, it's not looking very promising as of writing.
   - Source: https://www.fantasypros.com/nfl/news/614938/romeo-doubs-shoulder-facing-uncertain-timetable-to-retun.php
-- **NEW — A.J. Brown** — A.J. Brown Seen Working on the Field on Tuesday (2026-10-20T16:30:10Z)
+- **NEW — Michael Penix** — Michael Penix Jr. a Waiver Priority in Two-QB Leagues After Three-TD Game (2026-10-20T18:37:09Z)
+  - Source: https://www.rotoballer.com/player-news/michael-penix-jr-a-waiver-priority-in-two-qb-leagues-after-three-td-game/1971568
+- **NEW — Mike Washington** — Mike Washington Jr. Still a Valuable RB Handcuff in Fantasy (2026-10-20T18:27:09Z)
+  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-still-a-valuable-rb-handcuff-in-fantasy/1971563
+- **NEW — Jerry Jeudy** — Jerry Jeudy Back on the Waiver Radar After Leading Browns in Receiving? (2026-10-20T18:00:14Z)
+  - Source: https://www.rotoballer.com/player-news/jerry-jeudy-back-on-the-waiver-radar-after-leading-browns-in-receiving/1971549
+- **NEW — Terrance Ferguson** — Terrance Ferguson Not Expected to be Ready Next Week (2026-10-20T17:52:10Z)
+  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-not-expected-to-be-ready-next-week/1971540
+- **NEW — Davante Adams** — Davante Adams Officially Lands on Injured Reserve (2026-10-20T17:30:11Z)
+  - Source: https://www.rotoballer.com/player-news/davante-adams-officially-lands-on-injured-reserve/1971518
+- **NEW — Kyle Monangai** — Kyle Monangai Misses Another Practice on Tuesday (2026-10-20T17:12:09Z)
+  - Source: https://www.rotoballer.com/player-news/kyle-monangai-misses-another-practice-on-tuesday/1971504
+- **NEW — Deshaun Watson** — Deshaun Watson a Viable QB Streamer to Target on Waivers (2026-10-20T16:47:02Z)
+  - Source: https://www.rotoballer.com/player-news/deshaun-watson-a-viable-quarterback-streamer-to-target-on-the-waiver-wire/1971485
+- **NEW — Saquon Barkley** — Will Saquon Barkley Become a Trade Candidate? (2026-10-20T16:40:10Z)
+  - Source: https://www.rotoballer.com/player-news/will-saquon-barkley-become-a-trade-candidate/1971477
+- **A.J. Brown** — A.J. Brown Seen Working on the Field on Tuesday (2026-10-20T16:30:10Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-seen-working-on-the-field-on-tuesday/1971465
-- **NEW — Terry McLaurin** — Terry McLaurin Out for Season With Torn Patellar Tendon (2026-10-20T15:22:17Z)
+- **Terry McLaurin** — Terry McLaurin Out for Season With Torn Patellar Tendon (2026-10-20T15:22:17Z)
   - Source: https://www.rotoballer.com/player-news/terry-mclaurin-out-for-season-with-torn-patellar-tendon/1971399
 - **Najee Harris** — Najee Harris cut loose by Giants (2026-10-20T15:15:40.764000Z)
   - Even with starting running back Cam Skattebo in the dog house, Harris did very little in Week 6, netting just two yards on four carries. The veteran has gained only 99 yards on 31 carries in total this season, and the Giants made the decision to release him Tuesday morning. The Giants will move forward with the familiar backfield trio of Skattebo, Tyrone Tracy Jr. and Devin Singletary. 
   - Source: https://www.fantasypros.com/nfl/news/614922/najee-harris-cut-loose-by-giants.php
 - **Najee Harris** — Najee Harris - Time's up in New York (2026-10-20T15:06:34Z)
   - With head coach John Harbaugh electing to dramatically reduce lead back Cam Skattebo's playing time after he had fumbled four times through the first five games, Harris was awarded his first start of the season in the Giants' 34-27 loss to the Saints. Harris still ranked far behind fellow backs Devin Singletary (31 snaps) and Tyrone Tracy (29 snaps) in playing time in Week 6, taking the field for just 11 plays while gaining two yards on four carries. The poor showing on the ground was a familiar refrain for the 28-year-old, who will now hit the open market after struggling to show much burst in his return from the season-ending Achilles tear he sustained last September. Over five appearances with New York, Harris gained just 99 yards on 31 carries (3.2 YPC) and was a non-factor in the passing game (one catch for five yards).
-- **NEW — Josh Jacobs** — Josh Jacobs "Looks Great" (2026-10-20T15:05:32Z)
+- **Josh Jacobs** — Josh Jacobs "Looks Great" (2026-10-20T15:05:32Z)
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-looks-great/1971381
 - **Terry McLaurin** — Terry McLaurin - Season-ending knee injury feared (2026-10-20T14:32:06Z)
   - After recording a 27-yard reception on the Commanders' opening drive, McLaurin went down with the injury on the team's second possession of the first quarter, when he lost his balance and fell awkwardly to the field while running a route on a third-and-9 play. McLaurin was carted off the field and fitted for an air cast before the Commanders quickly ruled him out for the rest of the game. The upcoming imaging will reveal the extent of McLaurin's injury, but head coach Dan Quinn acknowledged after the game that the Commanders are bracing for their No. 1 wideout to miss time, per John Keim of ESPN.com. If McLaurin is in fact sidelined for any stretch of action, Stefon Diggs would presumably settle in as Washington's new top wideout, with tight end Chig Okonkwo, running backs Rachaad White and Austin Ekeler and receivers Antonio Williams and Treylon Burks also potentially benefiting from added opportunities in the passing game.
 - **Mike Evans** — Mike Evans - Nursing Achilles tendinitis, iffy for Week 8 (2026-10-20T14:09:12Z)
   - Listed as questionable heading into Monday after failing to practice all week while nursing the Achilles issue in addition to fractured ribs, Evans suited up but lasted just two quarters before aggravating the Achilles injury. He still delivered for fantasy managers with three receptions for 94 yards on five targets, but the veteran wideout's latest setback on the health front could put him in danger of missing his first game of the season. Before deciding on Evans' status for Sunday's game, the 49ers will likely continue to rest him during practices throughout the week and see how he bounces back from the Achilles tendinitis. With a bye on tap in Week 8, the 49ers may be incentivized to hold Evans out against the Falcons to ensure he's in optimal health for the second half of the season.
-- **NEW — Jacoby Brissett** — Jacoby Brissett a Drop Candidate Unlikely to Recapture His 2025 Magic (2026-10-20T14:00:10Z)
+- **Jacoby Brissett** — Jacoby Brissett a Drop Candidate Unlikely to Recapture His 2025 Magic (2026-10-20T14:00:10Z)
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-a-drop-candidate-unlikely-to-recapture-his-2025-fantasy-magic/1971291
-- **NEW — Dylan Sampson** — Dylan Sampson a Waiver Target Who Could Soon Find a Role (2026-10-20T13:50:10Z)
+- **Dylan Sampson** — Dylan Sampson a Waiver Target Who Could Soon Find a Role (2026-10-20T13:50:10Z)
   - Source: https://www.rotoballer.com/player-news/dylan-sampson-a-waiver-target-who-could-soon-find-a-role-in-browns-banged-up-backfield/1971285
 - **Terry McLaurin** — Terry McLaurin (knee) to have MRI on Tuesday  (2026-10-20T13:45:39.721000Z)
   - McLaurin's injury looked quite ugly and the expectation is that the Commanders star wideout will miss the rest of the season. He will undergo further testing on Tuesday to determine the full severity of the injury. 
   - Source: https://www.fantasypros.com/nfl/news/614921/terry-mclaurin-knee-to-have-mri-on-tuesday.php
-- **NEW — Tank Dell** — Tank Dell a Potential Waiver Target Ahead of His Long-Awaited Return (2026-10-20T13:36:29Z)
+- **Tank Dell** — Tank Dell a Potential Waiver Target Ahead of His Long-Awaited Return (2026-10-20T13:36:29Z)
   - Source: https://www.rotoballer.com/player-news/tank-dell-a-potential-waiver-target-ahead-of-his-long-awaited-return/1971275
-- **NEW — Jalen Hurts** — Eagles' Handling of Jalen Hurts Situation Deemed Appropriate by NFL (2026-10-20T13:27:09Z)
+- **Jalen Hurts** — Eagles' Handling of Jalen Hurts Situation Deemed Appropriate by NFL (2026-10-20T13:27:09Z)
   - Source: https://www.rotoballer.com/player-news/eagles-handling-of-jalen-hurts-situation-deemed-appropriate-by-nfl/1971267
-- **NEW — Seth McGowan** — Seth McGowan a Top Handcuff to Look for on Waivers (2026-10-20T13:14:09Z)
+- **Seth McGowan** — Seth McGowan a Top Handcuff to Look for on Waivers (2026-10-20T13:14:09Z)
   - Source: https://www.rotoballer.com/player-news/seth-mcgowan-a-top-handcuff-to-look-for-on-waivers/1971260
 - **Makai Lemon** — Makai Lemon has Lost Waiver-Wire Appeal (2026-10-20T12:47:09Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-has-lost-waiver-wire-appeal/1971226
@@ -195,35 +227,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Terry McLaurin** — Terry McLaurin carted off field during Monday Night Football (2026-10-20T01:05:34.318000Z)
   - The injury occurred while McLaurin was trying to run a route late in the first quarter. The whole Washington roster and several of the Niners veterans, including Mike Evans and George Kittle, also came to wish him well. Fantasy managers will need to watch for updates, but expect a lengthy absence. With McLaurin out, Stefon Diggs and Antonio Williams will see an uptick in work, with TE Chig Okonkwo and WR Treylon Burks also filling in some as well.
   - Source: https://www.fantasypros.com/nfl/news/614873/terry-mclaurin-carted-off-field-during-monday-night-football.php
-- **Ka'imi Fairbairn** — Ka'imi Fairbairn - Hero in London (2026-10-20T01:03:39Z)
-  - Fairbairn hit a 49-yard field goal dead center between the uprights as time expired to win the Texans their second game of the 2026 season, and he was also perfect otherwise, improving on what was already a good start to the season. He looks as accurate as ever, and Houston's offense has been quite effective of late, averaging 30 points scored over its last three contests. He projects as a very good fantasy option for Week 7, as he'll be kicking indoors in a matchup versus the Giants.
-- **Keaton Mitchell** — Keaton Mitchell - Sparsely used offensively in Week 6 loss (2026-10-20T00:58:27Z)
-  - Week 6 was the lowest usage Mitchell has seen this season, and his 17 snaps on offense were third-most among Chargers running backs behind Omarion Hampton (34) and Kimani Vidal (25). Through six regular-season games, Mitchell has turned 35 carries into 139 yards and added 12 catches (on 15 targets) for 52 yards and a score, but it's hard to put much trust into any of the Chargers skill position players given the team's poor start to the season. Perhaps the Week 7 bye will help the Chargers right the ship, with their next game taking place in Week 8 against the Rams on Sunday, Nov. 1.
-- **Terry McLaurin** — Terry McLaurin - Carted off with knee injury (2026-10-20T00:58:07Z)
-  - McLaurin went to plant his left leg while running a route in the first quarter, and his knee completely gave out. He was unable to make it to the sideline and had to be placed in an air cast and carted off the field. With McLaurin looking at a potentially serious injury, Stefon Diggs will be thrust into WR1 duties for the Commanders. Antonio Williams, Dyami Brown and Treylon Burks will be tasked with playing increased snaps on offense.
-- **Ray Davis** — Ray Davis - Used more as returner vs. Las Vegas (2026-10-20T00:35:30Z)
-  - Davis made his impact felt early with a 40-yard return on the game's opening kickoff, which set the Bills' offense up at midfield and led to a 44-yard field goal by Tyler Bass nine plays later. Both of Davis' touches on offense came on back-to-back plays in the second quarter, and his nine offensive snaps were behind both Ty Johnson (12) and James Cook (45). Davis isn't much of a factor offensively, but he would be in line for a larger role if one or both of Cook and Johnson were to miss time. The Bills will enjoy their bye week before hosting the Ravens in Week 8 on Sunday, Nov. 1.
-- **Kendrick Bourne** — Kendrick Bourne - Tallies five catches in Week 6 victory (2026-10-20T00:22:44Z)
-  - Bourne led all Cardinals wide receivers in catches, targets and yards during Sunday's win, and he finished second to superstar tight end Trey McBride in each of those three categories. Bourne has a 10-117-0 receiving line on 16 targets over his last two games, which coincides with the absence of Marvin Harrison following the latter's trade to the Texans. The Cardinals will head back home for Week 7 on Oct. 25 against the Broncos, whose defense ranks in the top-10 in fantasy points allowed per game to wide receivers.
-- **A.J. Brown** — A.J. Brown - Limited on Monday's practice estimate (2026-10-20T00:12:08Z)
-  - In his return from a four-game absence Sunday against the Jets, Brown was targeted 10 times but hauled in only three of them for 27 yards. It appears he's still bothered by his previous right ankle sprain, as evidenced by a capped walkthrough Monday, but he still has two more chances to get back to full this week before potentially being tagged with a designation for Thursday's contest at Chicago.
-- **Tyler Higbee** — Tyler Higbee - Muted performance vs. Arizona (2026-10-20T00:11:17Z)
-  - Higbee was not targeted by Matthew Stafford until early in the fourth quarter, but the former fumbled the ball on his first catch of the game, which was recovered by the Cardinals' defense. Higbee saw three more passes from Stafford in the quarter, and Sunday's efforts snapped his three-game streak of 60-plus yards and five-plus catches. However, the Rams are expected to be without Davante Adams (hamstring) until at least after the Week 11 bye, so Higbee could be Stafford's secondary target in the passing game behind Puka Nacua for the next few games. The Rams hit the road for Week 7 on Oct. 25, against the Raiders, whose defense gives up the sixth-most fantasy points per game to tight ends this season.
-- **Kyle Monangai** — Kyle Monangai - Listed as DNP on practice estimate (2026-10-20T00:05:20Z)
-  - After missing the last two games due to thumb and turf toe injuries, Monangai wasn't able to participate in Monday's walkthrough, indicating that a third straight absence is possible this week. Head coach Ben Johnson told Courtney Cronin of ESPN.com on Friday that Monangai remains week-to-week but will avoid injured reserve, so if the running back is inactive Thursday against the Patriots, he may be aiming to return in Week 8 at Seattle on Monday, Nov. 2. As long as Monangai is sidelined, D'Andre Swift will lead the Bears backfield, with Roschon Johnson in a complemtary role.
-- **Devaughn Vele** — Devaughn Vele - Catches three passes in Week 6 win (2026-10-19T23:56:04Z)
-  - Vele was on the field for 66 of the Saints' 70 offensive snaps (94.3 percent), which was well ahead of fellow wideouts Chris Olave (42) and rookie Bryce Lance (36). Vele has seen at least six targets in each of the first six games of the regular season, and his 28-294-2 receiving line (on 43 targets) already surpasses his total across 13 regular-season games in 2025 (25-293-2 on 40 targets). Given his his snap count, it wouldn't be surprising if Vele maintains his role on the offense even if Jordyn Tyson (hamstring, IR) returns, which could come as soon as Week 7 against the Steelers on Oct. 25, in Paris.
-- **Zach Charbonnet** — Zach Charbonnet (knee) on track to play 'in some capacity' in Week 7 (2026-10-19T23:55:33.466000Z)
-  - Charbonnet will continue to practice all week. He'll have to be activated by Thursday, which will be 21 days after they designated him to return to practice. His status will need to be monitored in practice throughout the week. 
-  - Source: https://www.fantasypros.com/nfl/news/614872/zach-charbonnet-knee-on-track-to-play-in-some-capacity-week-7.php
-- **Romeo Doubs** — Romeo Doubs - Expected back after bye (2026-10-19T23:53:01Z)
-  - With Doubs already on injured reserve, this report offers a more encouraging timeline after Sunday's shoulder injury. He'll still need to miss at least four games, but a possible return after the bye would keep the Patriots from being without one of their key wide receivers for an extended stretch. Efton Chism and Kyle Williams will be in line for increased snaps alongside A.J. Brown and slot man DeMario Douglas with Doubs sidelined.
-- **Jeremiyah Love** — Jeremiyah Love (ankle) to get 'some running in' Tuesday  (2026-10-19T23:45:33.419000Z)
-  - Love missed Sunday's win over the Rams. The Cardinals will have a better idea of where he's at and what he'll do on Wednesday.
-  - Source: https://www.fantasypros.com/nfl/news/614871/jeremiyah-love-ankle-to-get-some-running-in-tuesday.php
-- **Mark Andrews** — Mark Andrews - Does little in Week 6 loss (2026-10-19T23:38:38Z)
-  - Andrews saw only three pass attempts from Tyler Huntley on Sunday, and it was the first time that the veteran tight end saw less than five targets this season. Andrews' 41 offensive snaps were most among Ravens tight ends, but his receiving line was below rookie fifth-rounder Josh Cuevas (4-44-1 on five targets). Baltimore will head back home for Week 7 against the Bengals on Oct. 25, and Andrews' scoring floor would be boosted if Lamar Jackson (ankle) is cleared to return from a two-game absence.
-- **Jeremiyah Love** — Jeremiyah Love - In line to run Tuesday (2026-10-19T23:21:45Z)
-  - The Cardinals shut Love down for Week 6 as he tends to a lingering ankle injury, so Tuesday's activity from the rookie likely will be to determine where he stands in his recovery. Once the team has the correct info, the next course of action, which isn't known, may be enacted. It's unclear if Love has a chance to return to action Sunday against the Broncos, but Tyler Allgeier and Bam Knight will handle the backfield until the former is ready.
-- **Kyle Monangai** — Kyle Monangai Estimated as DNP on Monday (2026-10-19T23:18:13Z)
-  - Source: https://www.rotoballer.com/player-news/kyle-monangai-estimated-as-dnp-on-monday/1970764
