@@ -2,41 +2,89 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6762**
-- Newly captured: **10**
+- Stored stories: **6743**
+- Newly captured: **23**
 
 ## Latest news
 
-- **NEW — George Kittle** — George Kittle finds the end zone in Week 6 (2026-10-20T10:00:38.077000Z)
+- **NEW — Najee Harris** — Najee Harris cut loose by Giants (2026-10-20T15:15:40.764000Z)
+  - Even with starting running back Cam Skattebo in the dog house, Harris did very little in Week 6, netting just two yards on four carries. The veteran has gained only 99 yards on 31 carries in total this season, and the Giants made the decision to release him Tuesday morning. The Giants will move forward with the familiar backfield trio of Skattebo, Tyrone Tracy Jr. and Devin Singletary. 
+  - Source: https://www.fantasypros.com/nfl/news/614922/najee-harris-cut-loose-by-giants.php
+- **NEW — Najee Harris** — Najee Harris - Time's up in New York (2026-10-20T15:06:34Z)
+  - With head coach John Harbaugh electing to dramatically reduce lead back Cam Skattebo's playing time after he had fumbled four times through the first five games, Harris was awarded his first start of the season in the Giants' 34-27 loss to the Saints. Harris still ranked far behind fellow backs Devin Singletary (31 snaps) and Tyrone Tracy (29 snaps) in playing time in Week 6, taking the field for just 11 plays while gaining two yards on four carries. The poor showing on the ground was a familiar refrain for the 28-year-old, who will now hit the open market after struggling to show much burst in his return from the season-ending Achilles tear he sustained last September. Over five appearances with New York, Harris gained just 99 yards on 31 carries (3.2 YPC) and was a non-factor in the passing game (one catch for five yards).
+- **NEW — Terry McLaurin** — Terry McLaurin - Season-ending knee injury feared (2026-10-20T14:32:06Z)
+  - After recording a 27-yard reception on the Commanders' opening drive, McLaurin went down with the injury on the team's second possession of the first quarter, when he lost his balance and fell awkwardly to the field while running a route on a third-and-9 play. McLaurin was carted off the field and fitted for an air cast before the Commanders quickly ruled him out for the rest of the game. The upcoming imaging will reveal the extent of McLaurin's injury, but head coach Dan Quinn acknowledged after the game that the Commanders are bracing for their No. 1 wideout to miss time, per John Keim of ESPN.com. If McLaurin is in fact sidelined for any stretch of action, Stefon Diggs would presumably settle in as Washington's new top wideout, with tight end Chig Okonkwo, running backs Rachaad White and Austin Ekeler and receivers Antonio Williams and Treylon Burks also potentially benefiting from added opportunities in the passing game.
+- **NEW — Mike Evans** — Mike Evans - Nursing Achilles tendinitis, iffy for Week 8 (2026-10-20T14:09:12Z)
+  - Listed as questionable heading into Monday after failing to practice all week while nursing the Achilles issue in addition to fractured ribs, Evans suited up but lasted just two quarters before aggravating the Achilles injury. He still delivered for fantasy managers with three receptions for 94 yards on five targets, but the veteran wideout's latest setback on the health front could put him in danger of missing his first game of the season. Before deciding on Evans' status for Sunday's game, the 49ers will likely continue to rest him during practices throughout the week and see how he bounces back from the Achilles tendinitis. With a bye on tap in Week 8, the 49ers may be incentivized to hold Evans out against the Falcons to ensure he's in optimal health for the second half of the season.
+- **NEW — Terry McLaurin** — Terry McLaurin (knee) to have MRI on Tuesday  (2026-10-20T13:45:39.721000Z)
+  - McLaurin's injury looked quite ugly and the expectation is that the Commanders star wideout will miss the rest of the season. He will undergo further testing on Tuesday to determine the full severity of the injury. 
+  - Source: https://www.fantasypros.com/nfl/news/614921/terry-mclaurin-knee-to-have-mri-on-tuesday.php
+- **NEW — Makai Lemon** — Makai Lemon has Lost Waiver-Wire Appeal (2026-10-20T12:47:09Z)
+  - Source: https://www.rotoballer.com/player-news/makai-lemon-has-lost-waiver-wire-appeal/1971226
+- **NEW — J.J. McCarthy** — Rumors of J.J. McCarthy Starting in Week 7 (2026-10-20T12:16:26Z)
+  - Source: https://www.rotoballer.com/player-news/rumors-of-j-j-mccarthy-starting-in-week-7/1971200
+- **NEW — Brian Thomas** — Commanders, Rams Emerge as Top Landing Spots for Brian Thomas Jr. (2026-10-20T12:07:12Z)
+  - Source: https://www.rotoballer.com/player-news/commanders-rams-emerge-as-top-landing-spots-for-brian-thomas-jr/1971188
+- **NEW — Kalif Raymond** — Kalif Raymond's Early-Season Production Has Dried Up (2026-10-20T11:57:09Z)
+  - Source: https://www.rotoballer.com/player-news/kalif-raymonds-early-season-production-has-dried-up/1971177
+- **NEW — Dontayvion Wicks** — Dontayvion Wicks' Targets Drop With Eagles Receiving Corps Healthier (2026-10-20T11:43:12Z)
+  - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-targets-drop-with-eagles-receiving-corps-healthier/1971168
+- **NEW — Cyrus Allen** — Cyrus Allen's First NFL Catches Come on Just Nine Snaps (2026-10-20T11:26:09Z)
+  - Source: https://www.rotoballer.com/player-news/cyrus-allens-first-nfl-catches-come-on-just-nine-snaps/1971155
+- **NEW — Najee Harris** — Giants Reportedly Releasing Najee Harris Amid Backfield Shakeup (2026-10-20T11:15:09Z)
+  - Source: https://www.rotoballer.com/player-news/giants-reportedly-releasing-najee-harris-amid-backfield-shakeup/1971149
+- **NEW — Jaleel McLaughlin** — Jaleel McLaughlin Offers Short-Term Waiver Wire Appeal (2026-10-20T11:00:19Z)
+  - Source: https://www.rotoballer.com/player-news/jaleel-mclaughlin-offers-short-term-waiver-wire-appeal/1971136
+- **NEW — Malik Washington** — Malik Washington Remains an Appealing Waiver-Wire Option (2026-10-20T10:50:08Z)
+  - Source: https://www.rotoballer.com/player-news/malik-washington-remains-an-appealing-waiver-wire-option/1971125
+- **NEW — Tanner McKee** — Tanner McKee Offers Waiver-Wire Appeal With Starting Opportunity (2026-10-20T10:44:09Z)
+  - Source: https://www.rotoballer.com/player-news/tanner-mckee-offers-waiver-wire-appeal-with-starting-opportunity/1971121
+- **NEW — Kaelon Black** — Kaelon Black Remains a High-Upside Waiver-Wire Handcuff (2026-10-20T10:31:18Z)
+  - Source: https://www.rotoballer.com/player-news/kaelon-black-remains-a-high-upside-waiver-wire-handcuff/1971103
+- **NEW — Aaron Rodgers** — Aaron Rodgers Remains a Viable Waiver-Wire Streaming Option (2026-10-20T10:23:46Z)
+  - Source: https://www.rotoballer.com/player-news/aaron-rodgers-remains-a-viable-waiver-wire-streaming-option/1971092
+- **George Kittle** — George Kittle finds the end zone in Week 6 (2026-10-20T10:00:38.077000Z)
   - Kittle finished second on the 49ers in receiving yards and catches in the close win on Monday night. The veteran tight end scored his touchdown on an 11-yard pass from Brock Purdy early in the first quarter. Overall, Kittle has 26 catches for 337 yards and five touchdowns through six games for the 49ers. With Mike Evans (Achilles soreness) expected to be held out through the team's Week 8 bye, Kittle will be a top-five fantasy tight end option in Week 7 vs. the Falcons.
   - Source: https://www.fantasypros.com/nfl/news/614917/george-kittle-finds-end-zone-week-6.php
-- **NEW — Brandin Cooks** — Brandin Cooks hauls in 13-yard pass in Week 6 (2026-10-20T09:55:37.844000Z)
+- **NEW — Antonio Williams** — Antonio Williams a Good Stash with Bigger Role Ahead (2026-10-20T09:57:09Z)
+  - Source: https://www.rotoballer.com/player-news/antonio-williams-a-good-stash-with-bigger-role-ahead/1971063
+- **Brandin Cooks** — Brandin Cooks hauls in 13-yard pass in Week 6 (2026-10-20T09:55:37.844000Z)
   - Cooks was quiet in the win on Monday night despite Mike Evans leaving the game right before halftime with Achilles soreness. The 49ers leaned on Christian McCaffrey and George Kittle in the passing game in Evans' absence while Cooks was held to just one catch. Cooks is worth a roster spot in deeper leagues, but he should not be in starting lineups heading into Week 7's matchup vs. the Falcons.
   - Source: https://www.fantasypros.com/nfl/news/614915/brandin-cooks-hauls-13-yard-pass-week-6.php
-- **NEW — Kaelon Black** — Kaelon Black sees nine touches in MNF win (2026-10-20T09:50:38.001000Z)
+- **Kaelon Black** — Kaelon Black sees nine touches in MNF win (2026-10-20T09:50:38.001000Z)
   - Black looked good playing behind Christian McCaffrey, averaging 4.3 yards per carry for the 49ers. The rookie remains one of the top handcuffs in fantasy heading into a Week 7 matchup vs. the Falcons.
   - Source: https://www.fantasypros.com/nfl/news/614914/kaelon-black-sees-nine-touches-mnf-win.php
-- **NEW — Brock Purdy** — Brock Purdy throws one TD in MNF win (2026-10-20T09:45:37.931000Z)
+- **NEW — Caleb Douglas** — Caleb Douglas a Smart Add from the Waiver Wire after His Bye Week (2026-10-20T09:47:09Z)
+  - Source: https://www.rotoballer.com/player-news/caleb-douglas-a-smart-add-from-the-waiver-wire-after-his-bye-week/1971051
+- **Brock Purdy** — Brock Purdy throws one TD in MNF win (2026-10-20T09:45:37.931000Z)
   - Purdy was efficient in the win over Washington on Monday night, although the offense slowed down a bit after halftime. His lone touchdown pass went to George Kittle early in the first quarter. Purdy has been one of the top fantasy QBs this season, posting 1,460 passing yards, 14 touchdowns, and two interceptions across six games. He will be a high-end fantasy option in Week 7 vs. the Falcons.
   - Source: https://www.fantasypros.com/nfl/news/614912/brock-purdy-throws-one-td-mnf-win.php
-- **NEW — Christian McCaffrey** — Christian McCaffrey scores two TDs in Week 6 (2026-10-20T09:45:37.917000Z)
+- **Christian McCaffrey** — Christian McCaffrey scores two TDs in Week 6 (2026-10-20T09:45:37.917000Z)
   - McCaffrey turned in a huge performance in the close win. He scored his touchdowns on a pair of one-yard runs in the first half, while he led the 49ers in targets and receptions. With seven total touchdowns through his first six games this year, the veteran tailback will be a top-three fantasy option heading into Week 7's road matchup vs. the Falcons.
   - Source: https://www.fantasypros.com/nfl/news/614913/christian-mccaffrey-scores-two-tds-week-6.php
-- **NEW — Chig Okonkwo** — Chig Okonkwo goes for seven catches, 69 yards in Week 6 (2026-10-20T09:35:38.297000Z)
+- **NEW — Baker Mayfield** — Baker Mayfield Worth Stashing in Two-QB Formats (2026-10-20T09:39:12Z)
+  - Source: https://www.rotoballer.com/player-news/baker-mayfield-worth-stashing-in-two-qb-formats/1971037
+- **Chig Okonkwo** — Chig Okonkwo goes for seven catches, 69 yards in Week 6 (2026-10-20T09:35:38.297000Z)
   - Okonkwo led the Commanders in receiving in the close loss on Monday night. The veteran tight end has caught at least four passes while reaching at least 60 yards in two straight games. He could be in store for a larger role after his bye in Week 7, as Terry McLaurin was carted off the field on Monday vs. the 49ers with a knee injury.
   - Source: https://www.fantasypros.com/nfl/news/614909/chig-okonkwo-goes-seven-catches-69-yards-week-6.php
-- **NEW — Antonio Williams** — Antonio Williams finishes with 50 receiving yards in Week 6 (2026-10-20T09:30:37.697000Z)
+- **NEW — Tyreek Hill** — Tyreek Hill Still a Stash in Deep Leagues (2026-10-20T09:31:13Z)
+  - Source: https://www.rotoballer.com/player-news/tyreek-hill-still-a-stash-in-deep-leagues/1971026
+- **Antonio Williams** — Antonio Williams finishes with 50 receiving yards in Week 6 (2026-10-20T09:30:37.697000Z)
   - Williams finished third on the team in receiving in the loss on Monday night. The rookie wideout has shown flashes this season but his role hasn't been large enough to be trusted as a weekly starter in fantasy. He could see more work after his bye in Week 7, after Terry McLaurin had to be carted off the field during Monday night's game against the 49ers. Williams is worth a waiver claim in most leagues this week.
   - Source: https://www.fantasypros.com/nfl/news/614908/antonio-williams-finishes-with-50-receiving-yards-week-6.php
-- **NEW — Stefon Diggs** — Stefon Diggs scores TD in Week 6 (2026-10-20T09:25:38.080000Z)
+- **Stefon Diggs** — Stefon Diggs scores TD in Week 6 (2026-10-20T09:25:38.080000Z)
   - Diggs set a season-high in catches for the Commanders in the close loss to San Francisco. He found the end zone for the fourth time this season on a one-yard pass from Jayden Daniels late in the third quarter. Diggs should remain a key piece of the Washington passing attack, especially after Terry McLaurin had to be carted off the field with a knee injury on Monday night. The Commanders are on bye in Week 7 before they take on the Eagles in Week 8. Diggs can be considered a solid flex option in fantasy going forward.
   - Source: https://www.fantasypros.com/nfl/news/614906/stefon-diggs-scores-td-week-6.php
-- **NEW — Rachaad White** — Rachaad White finds the end zone in Week 6 loss (2026-10-20T09:20:37.374000Z)
+- **NEW — Rachaad White** — Rachaad White Is a Solid Stash from the Waiver Wire (2026-10-20T09:21:13Z)
+  - Source: https://www.rotoballer.com/player-news/rachaad-white-is-a-solid-stash-from-the-waiver-wire/1971016
+- **Rachaad White** — Rachaad White finds the end zone in Week 6 loss (2026-10-20T09:20:37.374000Z)
   - White had a larger role than usual with Jacory Croskey-Merritt on injured reserve with a groin injury. White took advantage, leading the Washington backfield in touches while scoring on a nine-yard pass from Jayden Daniels in the fourth quarter. White is looking like a high-end RB3 in fantasy going forward as he heads into his bye in Week 7.
   - Source: https://www.fantasypros.com/nfl/news/614904/rachaad-white-finds-end-zone-week-6-loss.php
-- **NEW — Jayden Daniels** — Jayden Daniels throws for 300 yards, two TDs in Week 6 (2026-10-20T09:15:37.853000Z)
+- **Jayden Daniels** — Jayden Daniels throws for 300 yards, two TDs in Week 6 (2026-10-20T09:15:37.853000Z)
   - Unlike Week 5, Daniels didn't do much damage on the ground, but he made up for it with a solid day in the passing attack. His touchdown passes both came in the second half with one going to Stefon Diggs and the other to Rachaad White. Daniels has thrown for 759 yards and five touchdowns across four games this season. A solid QB1 in fantasy going forward, he will be on bye in Week 7 before taking on the Eagles in Week 8.
   - Source: https://www.fantasypros.com/nfl/news/614903/jayden-daniels-throws-300-yards-two-tds-week-6.php
+- **NEW — Mike Evans** — Mike Evans Hopeful to Play in Week 7 (2026-10-20T09:13:16Z)
+  - Source: https://www.rotoballer.com/player-news/mike-evans-hopeful-to-play-in-week-7/1971003
 - **Brandin Cooks** — Brandin Cooks - One catch in Week 6 win (2026-10-20T04:50:21Z)
   - Cooks unsurprisingly played a minor role in the air attack as one of four players with one catch on the night. The veteran wideout has two receptions for 20 yards and a touchdown on five targets over the three games for which he's been active to date, and with Demarcus Robinson (ankle) not likely to return from injured reserve until Week 8, Cooks is likely to suit up again in a Week 7 road matchup against the Falcons on Sunday.
 - **Antonio Williams** — Antonio Williams - Three more grabs in Week 6 loss (2026-10-20T04:26:03Z)
@@ -104,7 +152,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Hurst matched his season high in catches and receiving yards against Pittsburgh, reeling in multiple passes for the fourth time this year. The wide receiver has now caught 11 of 22 targets for 168 yards over six contests to begin his first NFL campaign, and he could receive a boost if Baker Mayfield (thumb) returns to action in Week 7 versus Carolina.
 - **Cyrus Allen** — Cyrus Allen - Brings in two catches vs. Bolts (2026-10-20T01:22:16Z)
   - Despite the absence of Rashee Rice (hamstring/knee), Allen was on the field for only nine of the Chiefs' 61 offensive snaps (14.8 percent). He drew a 20-yard pass interference penalty late in the first quarter before hauling in a four-yard pass from Patrick Mahomes on the first play of the second quarter, which was the first reception of Allen's career. The rookie wide receiver added a 23-yard catch midway through the fourth quarter, and he ended up finishing second among Chiefs wideouts in receiving yards ahead of Jalen Royals (24) and behind Xavier Worthy (73). Allen's small role in the Chiefs' offense would dwindle even more if Rice is cleared to return for Week 7 against the Seahawks on Oct. 25.
-- **Malachi Fields** — Malachi Fields a Top Waiver Wire Target as Volume Surges (2026-10-20T01:18:14Z)
+- **Malachi Fields** — Malachi Fields a Top Waiver-Wire Target as Volume Surges (2026-10-20T01:18:14Z)
   - Source: https://www.rotoballer.com/player-news/malachi-fields-a-top-waiver-wire-target-as-volume-surges/1970807
 - **Brandon Aubrey** — Brandon Aubrey - Mostly uninvolved in loss (2026-10-20T01:16:21Z)
   - In a game where the Cowboys fell into a hole early and turned the ball over three times in opposing territory, Aubrey was mostly a spectator, failing to make at least one field goal in a game for the first time since Week 1 against the Giants. Dallas' offense will have better days than it did Sunday, and one of those could come in Week 7 against a Philadelphia defense that has looked poor at times this season.
@@ -177,57 +225,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Kincaid missed some time from late in the third quarter and into the fourth to be evaluated in the sideline tent, but he got back on the field with 8:01 remaining and added one more reception to his final line. Overall, he paced the Bills in catches and targets, but he ended Week 6 with his lowest YPC (5.4) of the campaign. The Bills have a Week 7 bye, so he'll have plenty of time to heal up for Buffalo's next game Sunday, Nov. 1 against the Ravens.
 - **Josh Jacobs** — Josh Jacobs - Comes off exempt list (2026-10-19T21:32:22Z)
   - As expected, Jacobs is off the list and eligible to practice. Head coach Matt LaFleur told Wes Hodkiewicz of the Packers' official site Monday that Jacobs is expected to take on a full week of drills, but the team hasn't determined if the running back will make his season debut this coming Sunday at Detroit. It should be noted that Green Bay has been granted a one-game exemption for Jacobs that expires next Monday, Oct. 26, per the NFL's transaction log, meaning he currently doesn't count against the active roster. If Jacobs doesn't play in Week 7, MarShawn Lloyd, Pierre Strong and Kaleb Johnson will continue to handle the Packers backfield.
-- **Davante Adams** — Davante Adams - Needs surgery, eyeing post-bye return (2026-10-19T21:31:55Z)
-  - Adams exited the game on the Rams' final offensive possession, walking gingerly off the field after he was in discomfort while running a route during the Rams' second-to-last snap of the day. Head coach Sean McVay announced Monday that he expects the veteran receiver to be sidelined for around 6-to-10 weeks, per Adam Grosbard of The Orange County Register, with how Adams responds to surgery likely determining whether he makes it back at the short or long end of that timeline. With Puka Nacua already locked into a massive weekly target share as the Rams' clear No. 1 wideout, Adams' absence is more likely to open up additional opportunities in the passing game for supporting players such as running back Kyren Williams, wideouts Jordan Whittington and Konata Mumpfield and tight ends Colby Parkinson and Tyler Higbee.
-- **Jordan Mason** — Jordan Mason - Ready to practice (2026-10-19T21:24:42Z)
-  - Minnesota will open Mason's 21-day practice window Monday after the running back missed the team's last four games while recovering from thumb surgery. Per Kevin Seifert of ESPN.com, the Vikings have optimism that Mason will be able to play Sunday against the Colts, though his availability may hinge on how he looks from a conditioning standpoint during practices after a month-long layoff from action. Once he's fully ramped up, Mason should settle back in as the Vikings' top ball carrier on earlier downs, allowing Aaron Jones to slide back into more of a change-of-pace role.
-- **Michael Mayer** — Michael Mayer Emerging as a Viable Waiver-Wire Target (2026-10-19T21:19:12Z)
-  - Source: https://www.rotoballer.com/player-news/michael-mayer-emerging-as-a-viable-waiver-wire-target/1970700
-- **Terry McLaurin** — Terry McLaurin Carted Off on Monday Night with Knee Injury (2026-10-19T21:08:13Z)
-  - Source: https://www.rotoballer.com/player-news/terry-mclaurin-carted-off-on-monday-night-with-knee-injury/1970690
-- **Lamar Jackson** — Lamar Jackson (ankle) could practice this week (2026-10-19T21:00:11.891000Z)
-  - Jackson missed a second straight game in Sunday's loss to the Browns. His status will need to be monitored in practice the rest of the week. 
-  - Source: https://www.fantasypros.com/nfl/news/614828/lamar-jackson-ankle-could-practice-this-week.php
-- **Davante Adams** — Davante Adams to miss 6-10 weeks with ruptured hamstring  (2026-10-19T21:00:11.879000Z)
-  - It is another brutal injury for the Rams and for fantasy managers. They'll likely continue to involve the tight ends even more in the passing game. 
-  - Source: https://www.fantasypros.com/nfl/news/614829/davante-adams-to-miss-6-10-weeks-with-ruptured-hamstring.php
-- **Josh Jacobs** — Josh Jacobs - Practicing, but Week 7 status TBD (2026-10-19T20:58:40Z)
-  - Jacobs will practice with the Packers for the first time since the preseason Wednesday, after he was scheduled to be removed from the commissioner's exempt list Monday. Though he was able to work out at the Packers' team facility over the past two months while his playing status was in limbo due to the ongoing legal saga related to his May arrest in a domestic incident, Jacobs may need more than a full week of practice for the team to feel comfortable having him play in games. Whenever Jacobs is deemed ready to suit up, his addition will provide a boost to a Green Bay running game that ranks last in the NFL by a wide margin with an average of 59.8 yards per contest through six weeks.
-- **Romeo Doubs** — Romeo Doubs (shoulder) placed on IR (2026-10-19T20:55:11.720000Z)
-  - Doubs left Sunday's game early in the third quarter. He will now miss at least the next four games. 
-  - Source: https://www.fantasypros.com/nfl/news/614824/romeo-doubs-shoulder-placed-on-ir.php
-- **Rashod Bateman** — Rashod Bateman (shoulder) hopeful to be fine (2026-10-19T20:55:11.677000Z)
-  - Bateman remains off the fantasy radar when he is healthy. 
-  - Source: https://www.fantasypros.com/nfl/news/614827/rashod-bateman-shoulder-hopeful-to-be-fine.php
-- **Josh Jacobs** — Josh Jacobs uncertain on availability for Week 7 (2026-10-19T20:50:12.288000Z)
-  - LaFleur said Jacobs will practice all week as he was removed from the commissioner exempt list. 
-  - Source: https://www.fantasypros.com/nfl/news/614821/josh-jacobs-uncertain-on-availability-week-7.php
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) placed on IR (2026-10-19T20:50:12.267000Z)
-  - Croskey-Merritt will officially miss the next four weeks. Rachaad White and Austin Ekeler will lead the Commanders backfield. 
-  - Source: https://www.fantasypros.com/nfl/news/614823/jacory-croskey-merritt-groin-placed-on-ir.php
-- **Jordan Mason** — Jordan Mason (thumb) designated to return to practice  (2026-10-19T20:45:11.849000Z)
-  - Mason will return to practice this week. He remains hopeful to return in Week 7 on Sunday. 
-  - Source: https://www.fantasypros.com/nfl/news/614819/jordan-mason-thumb-designated-to-return-to-practice.php
-- **Romeo Doubs** — Romeo Doubs - Goes on IR, out four games (2026-10-19T20:33:38Z)
-  - Just after welcoming A.J. Brown back from IR in Sunday's 26-19 win over the Jets, the Patriots will have another starting wideout in Doubs land on the shelf for at least the next four games. Doubs sustained the shoulder injury while making a diving 42-yard touchdown grab in the first quarter, with the Patriots ruling him out for the rest of the game shortly thereafter. Though the extent of his shoulder injury isn't fully known, Doubs won't be eligible for activation until after the team's Week 11 bye as a result of the transaction. Doubs' upcoming absence should open up more playing time for DeMario Douglas, Efton Chism and Kyle Williams behind Brown.
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Heads to injured reserve (2026-10-19T20:28:22Z)
-  - Croskey-Merritt had already been ruled out for Monday's game against the 49ers, but his move to IR ensures that he'll miss at least an additional three contests beyond that. With Croskey-Merritt sidelined through Week 10, Rachaad White looks on track to serve as the Commanders' top option out of the backfield in the interim, while Austin Ekeler and Jeremy McNichols are on hand in complementary roles.
-- **Tank Dell** — Tank Dell (knee) to play in Week 7 (2026-10-19T20:15:11.376000Z)
-  - Dell will take the field for the first time since December 2024 barring any setbacks in practice this week, as the talented wideout will look to boost a Houston passing attack against the New York Giants Sunday.
-  - Source: https://www.fantasypros.com/nfl/news/614800/tank-dell-knee-to-play-week-7.php
-- **Stefon Diggs** — Stefon Diggs - Slated to play Monday night (2026-10-19T20:14:22Z)
-  - Diggs sat out Week 5 due to a hamstring issue and then was able to manage a pair of limited practices during Week 6 prep, eventually getting tagged as questionable ahead of Monday Night Football. Assuming he avoids the Commanders' inactive list, as expected, Diggs will join Terry McLaurin as the top wide receivers available to QB Jayden Daniels.
-- **Tank Dell** — Tank Dell - On track for season debut Week 7 (2026-10-19T19:45:37Z)
-  - Dell will be making his first appearance since Dec. 21, 2024, when he sustained a severe left knee injury that included a dislocated kneecap and damage to multiple ligaments. Through his first two seasons in the NFL, Dell had emerged as a key complementary option behind No. 1 wideout Nico Collins, but the Texans are likely tempering expectations for the 26-year-old coming off a nearly two-year layoff. Dell, who was cleared to resume practicing Oct. 7 and was a full participant throughout Week 6 prep, is expected to be in line for a light snap count in his 2026 debut.
-- **Jeremiyah Love** — Jeremiyah Love Expected to Do Some Running on Tuesday (2026-10-19T19:43:12Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-expected-to-do-some-running-on-tuesday/1970663
-- **Davante Adams** — Davante Adams Expected to Have Hamstring Surgery (2026-10-19T19:36:08Z)
-  - Source: https://www.rotoballer.com/player-news/davante-adams-expected-to-have-hamstring-surgery/1970655
-- **Terrance Ferguson** — Terrance Ferguson Should See Massive Role When he Returns (2026-10-19T19:29:08Z)
-  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-should-see-massive-role-when-he-returns/1970653
-- **Zach Charbonnet** — Good Chance That Zach Charbonnet Returns on Sunday Night (2026-10-19T19:20:18Z)
-  - Source: https://www.rotoballer.com/player-news/good-chance-that-zach-charbonnet-returns-on-sunday-night/1970649
-- **Rashod Bateman** — Rashod Bateman - Should be OK after exiting Week 6 loss (2026-10-19T19:16:39Z)
-  - Listed on Ravens injury reports the past two weeks due to a shoulder issue, Bateman appeared to aggravate the injury late in the first half of Sunday's contest. He failed to haul in his lone target while running 11 routes in the game before the injury kept him out for the entire second half. Fortunately for Bateman, he seems to have avoided a major setback, but his practice activity over the next few days will likely determine whether he suits up next Sunday versus the Bengals. It's also worth noting that rookie Ja'Kobi Lane returned to action Sunday and saw five targets from Tyler Huntley.
-- **Lamar Jackson** — Lamar Jackson - Could return to practice this week (2026-10-19T19:08:37Z)
-  - Since spraining his left ankle in an Oct. 4 win over the Titans, Jackson hasn't practiced in any fashion and has been inactive for both of the Ravens' ensuing games. Though Jackson hasn't taken any steps forward in terms of practice activity, Minter noted that the two-time NFL MVP is making progress in his recovery from the ankle injury. The Ravens will hold their first Week 7 practice Wednesday, and if Jackson is on the field in some capacity, it would be a good sign for his chances of returning to action Sunday versus the Bengals.

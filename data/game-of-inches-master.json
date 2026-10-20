@@ -1394,7 +1394,7 @@
       "disable_trades": 0,
       "draft_rounds": 4,
       "faab_suggestions": 0,
-      "last_report": 5,
+      "last_report": 6,
       "last_scored_leg": 6,
       "league_average_match": 0,
       "leg": 6,
@@ -23405,7 +23405,7 @@
       "full_name": "Najee Harris",
       "injury_status": null,
       "last_name": "Harris",
-      "nfl_team": "NYG",
+      "nfl_team": null,
       "player_id": "7528",
       "position": "RB",
       "status": "Active",
@@ -24754,8 +24754,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-20T12:15:57Z",
-    "source_fingerprint": "7a8d41e5db412189abec947c12f3c1f411bc24276f5da62d4eb790392db2b8e5"
+    "last_changed_at": "2026-10-20T17:18:04Z",
+    "source_fingerprint": "c433f8a163ec24809bfde6d0125b07ab5b32cd7f673e1d84552a59b7488ef922"
   },
   "teams": [
     {
