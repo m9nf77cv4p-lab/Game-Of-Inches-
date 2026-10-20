@@ -1,31 +1,20 @@
 {
-  "last_checked_at": "2026-10-20T17:18:06Z",
+  "last_checked_at": "2026-10-20T20:41:50Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 303,
   "new_story_ids": [
-    "nfl|11439|rotoballer|224873|1792494019000",
-    "nfl|11565|rotoballer|224881|1792498586000",
-    "nfl|11610|rotoballer|224872|1792493408000",
-    "nfl|11631|rotoballer|224878|1792498032000",
-    "nfl|13294|rotoballer|224883|1792500429000",
-    "nfl|13296|rotoballer|224866|1792489629000",
-    "nfl|13301|rotoballer|224867|1792490229000",
-    "nfl|13413|rotoballer|224875|1792495569000",
-    "nfl|13414|rotoballer|224870|1792492278000",
-    "nfl|2216|rotoballer|224862|1792487596000",
-    "nfl|2216|rotowire|643467|1792505352000",
-    "nfl|3321|rotoballer|224864|1792488673000",
-    "nfl|3634|rotoballer|224877|1792497429000",
-    "nfl|4892|rotoballer|224865|1792489152000",
-    "nfl|5927|fantasy_pros|614921|1792503939721",
-    "nfl|5927|rotowire|643468|1792506726000",
-    "nfl|7528|fantasy_pros|614922|1792509340764",
-    "nfl|7528|rotoballer|224874|1792494909000",
-    "nfl|7528|rotowire|643469|1792508794000",
-    "nfl|8136|rotoballer|224863|1792488073000",
-    "nfl|9230|rotoballer|224871|1792493049000",
-    "nfl|9486|rotoballer|224876|1792496592000",
-    "nfl|96|rotoballer|224869|1792491826000"
+    "nfl|12469|rotoballer|224888|1792504210000",
+    "nfl|13424|rotoballer|224885|1792502049000",
+    "nfl|3257|rotoballer|224889|1792504810000",
+    "nfl|5850|rotoballer|224891|1792508732000",
+    "nfl|5859|rotoballer|224897|1792513810000",
+    "nfl|5859|rotowire|643477|1792525361000",
+    "nfl|5927|fantasy_pros|614941|1792524339754",
+    "nfl|5927|rotoballer|224892|1792509737000",
+    "nfl|5927|rotowire|643476|1792523887000",
+    "nfl|6904|rotoballer|224886|1792502829000",
+    "nfl|8121|fantasy_pros|614938|1792521939553",
+    "nfl|9502|rotoballer|224887|1792503389000"
   ],
   "schema_version": 1,
   "source": {
@@ -35,6 +24,128 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Brown, who returned from a four-game absence this past Sunday against the Jets, was listed as limited on Monday's estimated practice report. It remains to be seen how the Patriots list his Tuesday participation level, but at this stage there's no reason to believe that the wideout's availability for Thursday night's game against the Bears is in any danger.",
+      "description": "Brown (ankle) was spotted on the practice field Tuesday, according to Mike Reiss of ESPN.com.",
+      "metadata": {
+        "analysis": "Brown, who returned from a four-game absence this past Sunday against the Jets, was listed as limited on Monday's estimated practice report. It remains to be seen how the Patriots list his Tuesday participation level, but at this stage there's no reason to believe that the wideout's availability for Thursday night's game against the Bears is in any danger.",
+        "description": "Brown (ankle) was spotted on the practice field Tuesday, according to Mike Reiss of ESPN.com.",
+        "title": "A.J. Brown - On practice field Tuesday",
+        "topic_id": "1418358546625568768"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1792525361000,
+      "source": "rotowire",
+      "source_key": "643477",
+      "story_id": "nfl|5859|rotowire|643477|1792525361000",
+      "title": "A.J. Brown - On practice field Tuesday",
+      "url": null
+    },
+    {
+      "analysis": "McLaurin suffered the injury in the first half of Washington's Monday Night game against San Fransisco, coming up lame after trying to run a route, and staying down for some time before being carted off. An MRI today confirmed the injury, and McLaurin will now miss the rest of 2026. Antonio Williams and Chig Okonkwo are now priority waiver pickups for those in need, and if you are in need of a name in deep leagues, Treylon Burks actually had a fair performance on Monday, though he is banged up as well, so his status will need to be monitored. Regardless, Williams and Okonkwo figure to see an uptick in work alongside Stefon Diggs.",
+      "description": "Terry McLaurin (knee) is out for the rest of the 2026 season with a torn patellar tendon. A tough blow for the veteran receiver and for the struggling Commanders.",
+      "metadata": {
+        "analysis": "McLaurin suffered the injury in the first half of Washington's Monday Night game against San Fransisco, coming up lame after trying to run a route, and staying down for some time before being carted off. An MRI today confirmed the injury, and McLaurin will now miss the rest of 2026. Antonio Williams and Chig Okonkwo are now priority waiver pickups for those in need, and if you are in need of a name in deep leagues, Treylon Burks actually had a fair performance on Monday, though he is banged up as well, so his status will need to be monitored. Regardless, Williams and Okonkwo figure to see an uptick in work alongside Stefon Diggs.",
+        "description": "Terry McLaurin (knee) is out for the rest of the 2026 season with a torn patellar tendon. A tough blow for the veteran receiver and for the struggling Commanders.",
+        "title": "Terry McLaurin (knee) done for 2026 with torn patellar tendon",
+        "topic_id": "1418353518091292672",
+        "url": "https://www.fantasypros.com/nfl/news/614941/terry-mclaurin-knee-done-2026-with-torn-patellar-tendon.php"
+      },
+      "nfl_team": "WAS",
+      "player_id": "5927",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "published": 1792524339754,
+      "source": "fantasy_pros",
+      "source_key": "614941",
+      "story_id": "nfl|5927|fantasy_pros|614941|1792524339754",
+      "title": "Terry McLaurin (knee) done for 2026 with torn patellar tendon",
+      "url": "https://www.fantasypros.com/nfl/news/614941/terry-mclaurin-knee-done-2026-with-torn-patellar-tendon.php"
+    },
+    {
+      "analysis": "With McLaurin done for the season as the result of the injury, Stefon Diggs profiles as the Commanders' top wideout going forward. Also in the mix to see added reps in McLaurin's absence are Antonio Williams, Treylon Burks, Dyami Brown and Luke McCaffrey. Additionally, the team could look add depth at the position in the coming days. McLaurin, who is under contract with Washington through 2028, faces a lengthy recovery in in the coming months. Prior to sustaining his injury, McLaurin logged a team-high 230 receiving yards on 15 receptions (27 targets) with a TD over the course of five games.",
+      "description": "Coach Dan Quinn noted Tuesday that McLaurin tore his left patellar tendon during Monday's loss to the 49ers, according to John Keim of ESPN.com.",
+      "metadata": {
+        "analysis": "With McLaurin done for the season as the result of the injury, Stefon Diggs profiles as the Commanders' top wideout going forward. Also in the mix to see added reps in McLaurin's absence are Antonio Williams, Treylon Burks, Dyami Brown and Luke McCaffrey. Additionally, the team could look add depth at the position in the coming days. McLaurin, who is under contract with Washington through 2028, faces a lengthy recovery in in the coming months. Prior to sustaining his injury, McLaurin logged a team-high 230 receiving yards on 15 receptions (27 targets) with a TD over the course of five games.",
+        "description": "Coach Dan Quinn noted Tuesday that McLaurin tore his left patellar tendon during Monday's loss to the 49ers, according to John Keim of ESPN.com.",
+        "title": "Terry McLaurin - Suffers torn patellar tendon",
+        "topic_id": "1418352255312134144"
+      },
+      "nfl_team": "WAS",
+      "player_id": "5927",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "published": 1792523887000,
+      "source": "rotowire",
+      "source_key": "643476",
+      "story_id": "nfl|5927|rotowire|643476|1792523887000",
+      "title": "Terry McLaurin - Suffers torn patellar tendon",
+      "url": null
+    },
+    {
+      "analysis": "It's a rough situation for Doubs, who was putting up a big game before going out with a shoulder injury. He's not droppable jet yet, at least not in leagues with an IR slot. However, he seems to be right on the edge of drop territory, so fantasy managers will need to keep an eye out for any updates regarding his potential return. However, it's not looking very promising as of writing.",
+      "description": "Romeo Doubs (shoulder) is facing an uncertain timetable to return, per HC Mike Vrabel. When asked about Doubs and when he might come back into the lineup, Vrabel was uncertain and non-commital on a timeline, stating \"I'm not sure how long that (his IR stint) will be.\"",
+      "metadata": {
+        "analysis": "It's a rough situation for Doubs, who was putting up a big game before going out with a shoulder injury. He's not droppable jet yet, at least not in leagues with an IR slot. However, he seems to be right on the edge of drop territory, so fantasy managers will need to keep an eye out for any updates regarding his potential return. However, it's not looking very promising as of writing.",
+        "description": "Romeo Doubs (shoulder) is facing an uncertain timetable to return, per HC Mike Vrabel. When asked about Doubs and when he might come back into the lineup, Vrabel was uncertain and non-commital on a timeline, stating \"I'm not sure how long that (his IR stint) will be.\"",
+        "title": "Romeo Doubs (shoulder) facing uncertain timetable to retun",
+        "topic_id": "1418343450926940160",
+        "url": "https://www.fantasypros.com/nfl/news/614938/romeo-doubs-shoulder-facing-uncertain-timetable-to-retun.php"
+      },
+      "nfl_team": "NE",
+      "player_id": "8121",
+      "player_name": "Romeo Doubs",
+      "position": "WR",
+      "published": 1792521939553,
+      "source": "fantasy_pros",
+      "source_key": "614938",
+      "story_id": "nfl|8121|fantasy_pros|614938|1792521939553",
+      "title": "Romeo Doubs (shoulder) facing uncertain timetable to retun",
+      "url": "https://www.fantasypros.com/nfl/news/614938/romeo-doubs-shoulder-facing-uncertain-timetable-to-retun.php"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver A.J. Brown (ankle) was seen working with the team in individual drills during Tuesday's practice, according to Mike Reiss of ESPN. Brown returned from his Week 1 high-ankle sprain in Sunday's divisional win against the New York Jets, but the 29-year-old is still on the Week 7 injury report and was estimated to be limited for Monday's session. He could be listed as limited again on Tuesday, but barring a setback with his ankle, he should be active to kick off Week 7 action on Thursday night on the road against the Chicago Bears. Brown was a bust for fantasy managers who started him in Week 6 in his return following a four-game absence, as he managed to catch only three of 10 targets for 27 yards in the 26-19 win. The veteran pass-catcher battled drops and looked rusty in his first game back. Hopefully, Brown will look better on Thursday night as he looks for his first touchdown of 2026. At the very least, Brown should be considered a low-end WR2 as he looks to get back in a groove as New England's WR1.",
+      "metadata": {
+        "description": "New England Patriots wide receiver A.J. Brown (ankle) was seen working with the team in individual drills during Tuesday's practice, according to Mike Reiss of ESPN. Brown returned from his Week 1 high-ankle sprain in Sunday's divisional win against the New York Jets, but the 29-year-old is still on the Week 7 injury report and was estimated to be limited for Monday's session. He could be listed as limited again on Tuesday, but barring a setback with his ankle, he should be active to kick off Week 7 action on Thursday night on the road against the Chicago Bears. Brown was a bust for fantasy managers who started him in Week 6 in his return following a four-game absence, as he managed to catch only three of 10 targets for 27 yards in the 26-19 win. The veteran pass-catcher battled drops and looked rusty in his first game back. Hopefully, Brown will look better on Thursday night as he looks for his first touchdown of 2026. At the very least, Brown should be considered a low-end WR2 as he looks to get back in a groove as New England's WR1.",
+        "title": "A.J. Brown Seen Working on the Field on Tuesday",
+        "topic_id": "1418371128497332224",
+        "url": "https://www.rotoballer.com/player-news/a-j-brown-seen-working-on-the-field-on-tuesday/1971465"
+      },
+      "nfl_team": "NE",
+      "player_id": "5859",
+      "player_name": "A.J. Brown",
+      "position": "WR",
+      "published": 1792513810000,
+      "source": "rotoballer",
+      "source_key": "224897",
+      "story_id": "nfl|5859|rotoballer|224897|1792513810000",
+      "title": "A.J. Brown Seen Working on the Field on Tuesday",
+      "url": "https://www.rotoballer.com/player-news/a-j-brown-seen-working-on-the-field-on-tuesday/1971465"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Terry McLaurin (knee) will miss the rest of the 2026 season after an MRI confirmed a torn patellar tendon, according to NFL insider Ian Rapoport. The 31-year-old was carted off during the first quarter of Monday's 23-17 loss to San Francisco after his left knee buckled while he was running a route. McLaurin finishes his season with 15 receptions for 230 yards and one touchdown across five games. Stefon Diggs, who has already caught 24 passes and scored four touchdowns this season, should remain Jayden Daniels' most dependable wide receiver. Treylon Burks is another player to watch after catching four of six targets for 66 yards against the 49ers. Listed directly behind McLaurin on Washington's depth chart, Burks has a clear shot at a bigger outside role. Tight end Chig Okonkwo also impressed Monday, catching all seven targets for 69 yards. The Commanders have a Week 7 bye before hosting Philadelphia on November 1.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Terry McLaurin (knee) will miss the rest of the 2026 season after an MRI confirmed a torn patellar tendon, according to NFL insider Ian Rapoport. The 31-year-old was carted off during the first quarter of Monday's 23-17 loss to San Francisco after his left knee buckled while he was running a route. McLaurin finishes his season with 15 receptions for 230 yards and one touchdown across five games. Stefon Diggs, who has already caught 24 passes and scored four touchdowns this season, should remain Jayden Daniels' most dependable wide receiver. Treylon Burks is another player to watch after catching four of six targets for 66 yards against the 49ers. Listed directly behind McLaurin on Washington's depth chart, Burks has a clear shot at a bigger outside role. Tight end Chig Okonkwo also impressed Monday, catching all seven targets for 69 yards. The Commanders have a Week 7 bye before hosting Philadelphia on November 1.",
+        "title": "Terry McLaurin Out for Season With Torn Patellar Tendon",
+        "topic_id": "1418354769164029952",
+        "url": "https://www.rotoballer.com/player-news/terry-mclaurin-out-for-season-with-torn-patellar-tendon/1971399"
+      },
+      "nfl_team": "WAS",
+      "player_id": "5927",
+      "player_name": "Terry McLaurin",
+      "position": "WR",
+      "published": 1792509737000,
+      "source": "rotoballer",
+      "source_key": "224892",
+      "story_id": "nfl|5927|rotoballer|224892|1792509737000",
+      "title": "Terry McLaurin Out for Season With Torn Patellar Tendon",
+      "url": "https://www.rotoballer.com/player-news/terry-mclaurin-out-for-season-with-torn-patellar-tendon/1971399"
+    },
     {
       "analysis": "Even with starting running back Cam Skattebo in the dog house, Harris did very little in Week 6, netting just two yards on four carries. The veteran has gained only 99 yards on 31 carries in total this season, and the Giants made the decision to release him Tuesday morning. The Giants will move forward with the familiar backfield trio of Skattebo, Tyrone Tracy Jr. and Devin Singletary. ",
       "description": "Najee Harris was released by the Giants on Tuesday. ",
@@ -77,6 +188,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Green Bay Packers offensive coordinator Adam Stenavich said that running back Josh Jacobs \"looks great,\" according to Matt Schneidman of The Athletic. \"Josh, I think will definitely help for sure,\" Stenavich added. Jacobs was officially removed from the commissioner's exempt list on Monday and will be eligible to practice with the team for the first time during the regular season. However, the Packers have not yet decided if the 28-year-old starting RB will make his 2026 debut in a Week 7 divisional clash against the Detroit Lions. Jacobs was on the exempt list for the first six weeks of the season due to an arrest back in May. The NFL is still reviewing his case and could hand down a suspension eventually, but Jacobs' time served on the exempt list could effectively cancel out any potential suspension. The Packers have mostly used a combination of MarShawn Lloyd and Kaleb Johnson with Jacobs away from the team, and they have struggled mightily on the ground. Jacobs is hoping to be much more efficient as the Packers' lead back, but he could be eased back into the fold when he makes his debut. Jacobs should be rostered in all fantasy leagues now that he is back with the team.",
+      "metadata": {
+        "description": "Green Bay Packers offensive coordinator Adam Stenavich said that running back Josh Jacobs \"looks great,\" according to Matt Schneidman of The Athletic. \"Josh, I think will definitely help for sure,\" Stenavich added. Jacobs was officially removed from the commissioner's exempt list on Monday and will be eligible to practice with the team for the first time during the regular season. However, the Packers have not yet decided if the 28-year-old starting RB will make his 2026 debut in a Week 7 divisional clash against the Detroit Lions. Jacobs was on the exempt list for the first six weeks of the season due to an arrest back in May. The NFL is still reviewing his case and could hand down a suspension eventually, but Jacobs' time served on the exempt list could effectively cancel out any potential suspension. The Packers have mostly used a combination of MarShawn Lloyd and Kaleb Johnson with Jacobs away from the team, and they have struggled mightily on the ground. Jacobs is hoping to be much more efficient as the Packers' lead back, but he could be eased back into the fold when he makes his debut. Jacobs should be rostered in all fantasy leagues now that he is back with the team.",
+        "title": "Josh Jacobs \"Looks Great\"",
+        "topic_id": "1418350993694793728",
+        "url": "https://www.rotoballer.com/player-news/josh-jacobs-looks-great/1971381"
+      },
+      "nfl_team": "GB",
+      "player_id": "5850",
+      "player_name": "Josh Jacobs",
+      "position": "RB",
+      "published": 1792508732000,
+      "source": "rotoballer",
+      "source_key": "224891",
+      "story_id": "nfl|5850|rotoballer|224891|1792508732000",
+      "title": "Josh Jacobs \"Looks Great\"",
+      "url": "https://www.rotoballer.com/player-news/josh-jacobs-looks-great/1971381"
+    },
+    {
       "analysis": "After recording a 27-yard reception on the Commanders' opening drive, McLaurin went down with the injury on the team's second possession of the first quarter, when he lost his balance and fell awkwardly to the field while running a route on a third-and-9 play. McLaurin was carted off the field and fitted for an air cast before the Commanders quickly ruled him out for the rest of the game. The upcoming imaging will reveal the extent of McLaurin's injury, but head coach Dan Quinn acknowledged after the game that the Commanders are bracing for their No. 1 wideout to miss time, per John Keim of ESPN.com. If McLaurin is in fact sidelined for any stretch of action, Stefon Diggs would presumably settle in as Washington's new top wideout, with tight end Chig Okonkwo, running backs Rachaad White and Austin Ekeler and receivers Antonio Williams and Treylon Burks also potentially benefiting from added opportunities in the passing game.",
       "description": "McLaurin is slated to undergo an MRI on Tuesday after sustaining what the Commanders fear was a season-ending left knee injury in Monday's 23-17 loss to the 49ers, Ian Rapoport of NFL Network reports.",
       "metadata": {
@@ -117,6 +248,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Despite leading his team to an upset victory over the divisional rival Los Angeles Rams in Week 6, Arizona Cardinals quarterback Jacoby Brissett has been unable to recapture the fantasy magic that made him a league-winner after taking over the starting job midway through the 2025 season. Through six games, Brissett has reached 17 fantasy points only twice and currently ranks as the QB22 by points per game, making him little more than a desperation play in superflex formats and an easy drop candidate in single-quarterback leagues. Despite wins over both Los Angeles teams, the Cardinals sit at 2-4, and it should surprise nobody if, at some point, the team looks to find out what it has in 2026 third-round pick Carson Beck.",
+      "metadata": {
+        "description": "Despite leading his team to an upset victory over the divisional rival Los Angeles Rams in Week 6, Arizona Cardinals quarterback Jacoby Brissett has been unable to recapture the fantasy magic that made him a league-winner after taking over the starting job midway through the 2025 season. Through six games, Brissett has reached 17 fantasy points only twice and currently ranks as the QB22 by points per game, making him little more than a desperation play in superflex formats and an easy drop candidate in single-quarterback leagues. Despite wins over both Los Angeles teams, the Cardinals sit at 2-4, and it should surprise nobody if, at some point, the team looks to find out what it has in 2026 third-round pick Carson Beck.",
+        "title": "Jacoby Brissett a Drop Candidate Unlikely to Recapture His 2025 Magic",
+        "topic_id": "1418333384207347712",
+        "url": "https://www.rotoballer.com/player-news/jacoby-brissett-a-drop-candidate-unlikely-to-recapture-his-2025-fantasy-magic/1971291"
+      },
+      "nfl_team": "ARI",
+      "player_id": "3257",
+      "player_name": "Jacoby Brissett",
+      "position": "QB",
+      "published": 1792504810000,
+      "source": "rotoballer",
+      "source_key": "224889",
+      "story_id": "nfl|3257|rotoballer|224889|1792504810000",
+      "title": "Jacoby Brissett a Drop Candidate Unlikely to Recapture His 2025 Magic",
+      "url": "https://www.rotoballer.com/player-news/jacoby-brissett-a-drop-candidate-unlikely-to-recapture-his-2025-fantasy-magic/1971291"
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns running back Dylan Sampson (knee) returned to practice ahead of the team's Week 6 matchup with the Ravens, and while he was ultimately ruled out for what became an important divisional win, he is nearing a return from the knee injury that knocked him out of the season opener and landed him on Injured Reserve. Sampson was limited to only two special teams snaps in Week 1, but after catching 33 of 35 targets as a rookie in 2025, he is expected to reclaim the team's pass-catching role upon his return, making him an intriguing waiver target with matchup-dependent upside. Quinshon Judkins (ankle) missed Sunday's contest with an ankle injury, while fellow second-year player Raheim Sanders (hip) was recently placed on Injured Reserve with a hip injury. Splitting carries evenly, Jaleel McLaughlin was the team's more efficient runner in Week 6 while Audric Estime managed to find the end zone, but neither showed enough to keep Sampson from earning touches once made active.",
+      "metadata": {
+        "description": "Cleveland Browns running back Dylan Sampson (knee) returned to practice ahead of the team's Week 6 matchup with the Ravens, and while he was ultimately ruled out for what became an important divisional win, he is nearing a return from the knee injury that knocked him out of the season opener and landed him on Injured Reserve. Sampson was limited to only two special teams snaps in Week 1, but after catching 33 of 35 targets as a rookie in 2025, he is expected to reclaim the team's pass-catching role upon his return, making him an intriguing waiver target with matchup-dependent upside. Quinshon Judkins (ankle) missed Sunday's contest with an ankle injury, while fellow second-year player Raheim Sanders (hip) was recently placed on Injured Reserve with a hip injury. Splitting carries evenly, Jaleel McLaughlin was the team's more efficient runner in Week 6 while Audric Estime managed to find the end zone, but neither showed enough to keep Sampson from earning touches once made active.",
+        "title": "Dylan Sampson a Waiver Target Who Could Soon Find a Role",
+        "topic_id": "1418330867217989632",
+        "url": "https://www.rotoballer.com/player-news/dylan-sampson-a-waiver-target-who-could-soon-find-a-role-in-browns-banged-up-backfield/1971285"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12469",
+      "player_name": "Dylan Sampson",
+      "position": "RB",
+      "published": 1792504210000,
+      "source": "rotoballer",
+      "source_key": "224888",
+      "story_id": "nfl|12469|rotoballer|224888|1792504210000",
+      "title": "Dylan Sampson a Waiver Target Who Could Soon Find a Role",
+      "url": "https://www.rotoballer.com/player-news/dylan-sampson-a-waiver-target-who-could-soon-find-a-role-in-browns-banged-up-backfield/1971285"
+    },
+    {
       "analysis": "McLaurin's injury looked quite ugly and the expectation is that the Commanders star wideout will miss the rest of the season. He will undergo further testing on Tuesday to determine the full severity of the injury. ",
       "description": "Terry McLaurin (knee) was knocked out of Monday night's loss to the 49ers and will have an MRI on Tuesday. ",
       "metadata": {
@@ -136,6 +307,66 @@
       "story_id": "nfl|5927|fantasy_pros|614921|1792503939721",
       "title": "Terry McLaurin (knee) to have MRI on Tuesday ",
       "url": "https://www.fantasypros.com/nfl/news/614921/terry-mclaurin-knee-to-have-mri-on-tuesday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Tank Dell (knee) is expected to make his 2026 season debut in the team's Week 7 matchup with the Giants, and while he'll join a suddenly crowded wide receiver room, the 2023 third-round pick is worthy of waiver consideration in a relatively scarce week. Dell last saw an NFL field in Week 16 of 2024 and has spent the past 22 months recovering from the devastating knee injury that ended his second professional season, but in 25 career games, he has averaged over 55 receiving yards while scoring 10 touchdowns. The Texans are deep at the position following the recent trade for former first-round pick Marvin Harrison Jr. and the Week 6 emergence of second-year player Jaylin Noel, but they have also thrown the ball at the league's seventh-highest rate through six weeks, and Dell's versatility and connection with quarterback C.J. Stroud could help him find a role in an ascending offense.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Tank Dell (knee) is expected to make his 2026 season debut in the team's Week 7 matchup with the Giants, and while he'll join a suddenly crowded wide receiver room, the 2023 third-round pick is worthy of waiver consideration in a relatively scarce week. Dell last saw an NFL field in Week 16 of 2024 and has spent the past 22 months recovering from the devastating knee injury that ended his second professional season, but in 25 career games, he has averaged over 55 receiving yards while scoring 10 touchdowns. The Texans are deep at the position following the recent trade for former first-round pick Marvin Harrison Jr. and the Week 6 emergence of second-year player Jaylin Noel, but they have also thrown the ball at the league's seventh-highest rate through six weeks, and Dell's versatility and connection with quarterback C.J. Stroud could help him find a role in an ascending offense.",
+        "title": "Tank Dell a Potential Waiver Target Ahead of His Long-Awaited Return",
+        "topic_id": "1418327092231147521",
+        "url": "https://www.rotoballer.com/player-news/tank-dell-a-potential-waiver-target-ahead-of-his-long-awaited-return/1971275"
+      },
+      "nfl_team": "HOU",
+      "player_id": "9502",
+      "player_name": "Tank Dell",
+      "position": "WR",
+      "published": 1792503389000,
+      "source": "rotoballer",
+      "source_key": "224887",
+      "story_id": "nfl|9502|rotoballer|224887|1792503389000",
+      "title": "Tank Dell a Potential Waiver Target Ahead of His Long-Awaited Return",
+      "url": "https://www.rotoballer.com/player-news/tank-dell-a-potential-waiver-target-ahead-of-his-long-awaited-return/1971275"
+    },
+    {
+      "analysis": null,
+      "description": "The NFL has concluded that the process surrounding Philadelphia Eagles quarterback Jalen Hurts' start in the team's Week 5 loss to the Jaguars \"was handled appropriately,\" according to Jonathan Jones of The Athletic. A superficial blood clot was discovered in Hurts' calf leading up to the international game, but the team's medical staff and doctors in London cleared him to play, and he went on to throw for 220 yards and a touchdown. A follow-up ultrasound performed stateside revealed movement of the blood clot, which caused Hurts to miss the team's Week 6 matchup with the Panthers; further testing has since revealed vein thrombosis and blood clots in his lungs. Hurts is slated to miss the remainder of the 2026 season while undergoing treatment.",
+      "metadata": {
+        "description": "The NFL has concluded that the process surrounding Philadelphia Eagles quarterback Jalen Hurts' start in the team's Week 5 loss to the Jaguars \"was handled appropriately,\" according to Jonathan Jones of The Athletic. A superficial blood clot was discovered in Hurts' calf leading up to the international game, but the team's medical staff and doctors in London cleared him to play, and he went on to throw for 220 yards and a touchdown. A follow-up ultrasound performed stateside revealed movement of the blood clot, which caused Hurts to miss the team's Week 6 matchup with the Panthers; further testing has since revealed vein thrombosis and blood clots in his lungs. Hurts is slated to miss the remainder of the 2026 season while undergoing treatment.",
+        "title": "Eagles' Handling of Jalen Hurts Situation Deemed Appropriate by NFL",
+        "topic_id": "1418325833642246144",
+        "url": "https://www.rotoballer.com/player-news/eagles-handling-of-jalen-hurts-situation-deemed-appropriate-by-nfl/1971267"
+      },
+      "nfl_team": "PHI",
+      "player_id": "6904",
+      "player_name": "Jalen Hurts",
+      "position": "QB",
+      "published": 1792502829000,
+      "source": "rotoballer",
+      "source_key": "224886",
+      "story_id": "nfl|6904|rotoballer|224886|1792502829000",
+      "title": "Eagles' Handling of Jalen Hurts Situation Deemed Appropriate by NFL",
+      "url": "https://www.rotoballer.com/player-news/eagles-handling-of-jalen-hurts-situation-deemed-appropriate-by-nfl/1971267"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts rookie running back Seth McGowan has seen modest involvement in each of the past four games, showing enough to make him an attractive handcuff behind three-time Pro Bowler Jonathan Taylor. With the Colts in free fall at 2-4 and having recently fired longtime general manager Chris Ballard, there is also an outside chance the team could look to move Taylor ahead of the NFL's November 10th trade deadline. A seventh-round pick in the 2026 NFL Draft, McGowan is the only other running back on Indianapolis' roster to receive a carry through six games, averaging more than four yards per attempt, and with multiple paths to an increased workload, he makes for an intriguing long-term stash in a week with few high-priority waiver targets.",
+      "metadata": {
+        "description": "Indianapolis Colts rookie running back Seth McGowan has seen modest involvement in each of the past four games, showing enough to make him an attractive handcuff behind three-time Pro Bowler Jonathan Taylor. With the Colts in free fall at 2-4 and having recently fired longtime general manager Chris Ballard, there is also an outside chance the team could look to move Taylor ahead of the NFL's November 10th trade deadline. A seventh-round pick in the 2026 NFL Draft, McGowan is the only other running back on Indianapolis' roster to receive a carry through six games, averaging more than four yards per attempt, and with multiple paths to an increased workload, he makes for an intriguing long-term stash in a week with few high-priority waiver targets.",
+        "title": "Seth McGowan a Top Handcuff to Look for on Waivers",
+        "topic_id": "1418322058743496704",
+        "url": "https://www.rotoballer.com/player-news/seth-mcgowan-a-top-handcuff-to-look-for-on-waivers/1971260"
+      },
+      "nfl_team": "IND",
+      "player_id": "13424",
+      "player_name": "Seth McGowan",
+      "position": "RB",
+      "published": 1792502049000,
+      "source": "rotoballer",
+      "source_key": "224885",
+      "story_id": "nfl|13424|rotoballer|224885|1792502049000",
+      "title": "Seth McGowan a Top Handcuff to Look for on Waivers",
+      "url": "https://www.rotoballer.com/player-news/seth-mcgowan-a-top-handcuff-to-look-for-on-waivers/1971260"
     },
     {
       "analysis": null,
@@ -135887,1061 +136118,6 @@
       "source_key": "638241",
       "story_id": "nfl|9509|rotowire|638241|1789937151000",
       "title": "Bijan Robinson - Subdued production in ugly loss",
-      "url": null
-    },
-    {
-      "analysis": "Stevenson lost a fumble in the first quarter and proceeded to cede the majority of backfield opportunities to TreVeyon Henderson (ankle), who rushed 16 times for 76 yards and a touchdown in the latter's season debut. The pair of running backs split carries during Henderson's rookie 2025 season, and Stevenson racked up 23 touches in Henderson's absence during the Week 1 loss to the Seahawks. Stevenson, who has lost five of 11 fumbles since the start of the 2024 regular season, will try to improve his ball security in Week 3 against a Jaguars defense that recovered nine fumbles during the 2025 regular season.",
-      "description": "Stevenson rushed six times for 43 yards while catching one of two targets for three yards in Sunday's 20-3 win over the Steelers. He also lost a fumble.",
-      "metadata": {
-        "analysis": "Stevenson lost a fumble in the first quarter and proceeded to cede the majority of backfield opportunities to TreVeyon Henderson (ankle), who rushed 16 times for 76 yards and a touchdown in the latter's season debut. The pair of running backs split carries during Henderson's rookie 2025 season, and Stevenson racked up 23 touches in Henderson's absence during the Week 1 loss to the Seahawks. Stevenson, who has lost five of 11 fumbles since the start of the 2024 regular season, will try to improve his ball security in Week 3 against a Jaguars defense that recovered nine fumbles during the 2025 regular season.",
-        "description": "Stevenson rushed six times for 43 yards while catching one of two targets for three yards in Sunday's 20-3 win over the Steelers. He also lost a fumble.",
-        "title": "Rhamondre Stevenson - Outplayed by Henderson in Week 2",
-        "topic_id": "1407502092565848064"
-      },
-      "nfl_team": "NE",
-      "player_id": "7611",
-      "player_name": "Rhamondre Stevenson",
-      "position": "RB",
-      "published": 1789936897000,
-      "source": "rotowire",
-      "source_key": "638239",
-      "story_id": "nfl|7611|rotowire|638239|1789936897000",
-      "title": "Rhamondre Stevenson - Outplayed by Henderson in Week 2",
-      "url": null
-    },
-    {
-      "analysis": "Hurts saved the day for the Eagles, throwing a three-yard touchdown to Darius Cooper with 14 seconds left in regulation. The veteran quarterback also made some mistakes, tossing two interceptions and taking three sacks. Hurts now has five touchdown passes through two games, but he has yet to score any rushing TDs. He will be a high-end QB1 in Week 3 against the Bears on the road.",
-      "description": "Jalen Hurts completed 26 of his 37 passes for 264 yards, two touchdowns, and two interceptions while adding five rushes for 16 yards in a 24-20 win over the Titans in Week 2.",
-      "metadata": {
-        "analysis": "Hurts saved the day for the Eagles, throwing a three-yard touchdown to Darius Cooper with 14 seconds left in regulation. The veteran quarterback also made some mistakes, tossing two interceptions and taking three sacks. Hurts now has five touchdown passes through two games, but he has yet to score any rushing TDs. He will be a high-end QB1 in Week 3 against the Bears on the road.",
-        "description": "Jalen Hurts completed 26 of his 37 passes for 264 yards, two touchdowns, and two interceptions while adding five rushes for 16 yards in a 24-20 win over the Titans in Week 2.",
-        "title": "Jalen Hurts throws two TDs in Week 2",
-        "topic_id": "1407500837583953920",
-        "url": "https://www.fantasypros.com/nfl/news/609266/jalen-hurts-throws-two-tds-week-2.php"
-      },
-      "nfl_team": "PHI",
-      "player_id": "6904",
-      "player_name": "Jalen Hurts",
-      "position": "QB",
-      "published": 1789936859087,
-      "source": "fantasy_pros",
-      "source_key": "609266",
-      "story_id": "nfl|6904|fantasy_pros|609266|1789936859087",
-      "title": "Jalen Hurts throws two TDs in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609266/jalen-hurts-throws-two-tds-week-2.php"
-    },
-    {
-      "analysis": "Maye didn't get much going through the air and was picked off on the first possession of the second half, but the Patriots rode their defense and running game to a comfortable win. Romeo Doubs stepped up at wide receiver with 96 of Maye's 208 yards through the air in the absence of A.J. Brown (ankle), who is expected to miss six weeks due to an ankle injury sustained in the Week 1 loss to Seattle. Maye is averaging just 193 passing yards and takes a 1:4 TD:INT into a Week 3 road game against the Jaguars.",
-      "description": "Maye completed 14 of 22 passes for 208 yards, no touchdowns and one interception in Sunday's 20-3 win over the Steelers.",
-      "metadata": {
-        "analysis": "Maye didn't get much going through the air and was picked off on the first possession of the second half, but the Patriots rode their defense and running game to a comfortable win. Romeo Doubs stepped up at wide receiver with 96 of Maye's 208 yards through the air in the absence of A.J. Brown (ankle), who is expected to miss six weeks due to an ankle injury sustained in the Week 1 loss to Seattle. Maye is averaging just 193 passing yards and takes a 1:4 TD:INT into a Week 3 road game against the Jaguars.",
-        "description": "Maye completed 14 of 22 passes for 208 yards, no touchdowns and one interception in Sunday's 20-3 win over the Steelers.",
-        "title": "Drake Maye - Fails to throw TD in Week 2 win",
-        "topic_id": "1407500833666473984"
-      },
-      "nfl_team": "NE",
-      "player_id": "11564",
-      "player_name": "Drake Maye",
-      "position": "QB",
-      "published": 1789936600000,
-      "source": "rotowire",
-      "source_key": "638238",
-      "story_id": "nfl|11564|rotowire|638238|1789936600000",
-      "title": "Drake Maye - Fails to throw TD in Week 2 win",
-      "url": null
-    },
-    {
-      "analysis": "Henderson didn't take long to make an impact in his season debut after sitting out the 13-10 Week 1 loss to Seattle. The 2025 second-round pick opened the scoring with a 39-yard touchdown run 6:38 into Sunday's game and handled 17 touches compared to just seven for Rhamondre Stevenson, who lost a fumble on the drive preceding Henderson's touchdown run. Henderson had 180 carries to Stevenson's 130 during the 2025 regular season. Both running backs are likely to be involved in the Week 3 game plan against the Jaguars.",
-      "description": "Henderson (ankle) rushed 16 times for 76 yards and a touchdown and wasn't targeted in the passing game during Sunday's 20-3 win over the Steelers.",
-      "metadata": {
-        "analysis": "Henderson didn't take long to make an impact in his season debut after sitting out the 13-10 Week 1 loss to Seattle. The 2025 second-round pick opened the scoring with a 39-yard touchdown run 6:38 into Sunday's game and handled 17 touches compared to just seven for Rhamondre Stevenson, who lost a fumble on the drive preceding Henderson's touchdown run. Henderson had 180 carries to Stevenson's 130 during the 2025 regular season. Both running backs are likely to be involved in the Week 3 game plan against the Jaguars.",
-        "description": "Henderson (ankle) rushed 16 times for 76 yards and a touchdown and wasn't targeted in the passing game during Sunday's 20-3 win over the Steelers.",
-        "title": "TreVeyon Henderson - Scores 39-yard TD in season debut",
-        "topic_id": "1407499574813192192"
-      },
-      "nfl_team": "NE",
-      "player_id": "12529",
-      "player_name": "TreVeyon Henderson",
-      "position": "RB",
-      "published": 1789936384000,
-      "source": "rotowire",
-      "source_key": "638236",
-      "story_id": "nfl|12529|rotowire|638236|1789936384000",
-      "title": "TreVeyon Henderson - Scores 39-yard TD in season debut",
-      "url": null
-    },
-    {
-      "analysis": "After being heavily involved as a pass catcher in his New Orleans debut last week, Etienne saw his touch volume take a steep drop as Alvin Kamara returned to the lineup and saw six targets, catching five of them. The lack of usage for Etienne in curious considering the big contract the Saints gave him this offseason, and through two games the former Jaguar has just 17 carries for 71 yards, along with a 9-38-0 line on 11 targets. Without bigger volume, he'll be a risky play in Week 3 at home against the Raiders.",
-      "description": "Etienne carried the ball eight times for 25 yards and caught both his targets for six yards in Sunday's 24-17 win over the Ravens. He added a two-point conversion.",
-      "metadata": {
-        "analysis": "After being heavily involved as a pass catcher in his New Orleans debut last week, Etienne saw his touch volume take a steep drop as Alvin Kamara returned to the lineup and saw six targets, catching five of them. The lack of usage for Etienne in curious considering the big contract the Saints gave him this offseason, and through two games the former Jaguar has just 17 carries for 71 yards, along with a 9-38-0 line on 11 targets. Without bigger volume, he'll be a risky play in Week 3 at home against the Raiders.",
-        "description": "Etienne carried the ball eight times for 25 yards and caught both his targets for six yards in Sunday's 24-17 win over the Ravens. He added a two-point conversion.",
-        "title": "Travis Etienne - Limited volume in Baltimore",
-        "topic_id": "1407499574859329536"
-      },
-      "nfl_team": "NO",
-      "player_id": "7543",
-      "player_name": "Travis Etienne",
-      "position": "RB",
-      "published": 1789936269000,
-      "source": "rotowire",
-      "source_key": "638235",
-      "story_id": "nfl|7543|rotowire|638235|1789936269000",
-      "title": "Travis Etienne - Limited volume in Baltimore",
-      "url": null
-    },
-    {
-      "analysis": "The second-year QB had a slow start to the contest, but Shough engineered another second-half comeback for the Saints, and this one was actually successful. He hit Chris Olave for a 21-yard TD early in the fourth quarter before just getting across the goal line for a one-yard score inside the final two minutes. Shough has 662 passing yards and a 4:2 TD:INT through two games to begin the season, and he'll take plenty of confidence and momentum into a Week 3 home clash with the Raiders.",
-      "description": "Shough completed 27 of 34 passes for 252 yards and a touchdown while adding 23 yards and a TD on nine carries in Sunday's 24-17 win over the Ravens.",
-      "metadata": {
-        "analysis": "The second-year QB had a slow start to the contest, but Shough engineered another second-half comeback for the Saints, and this one was actually successful. He hit Chris Olave for a 21-yard TD early in the fourth quarter before just getting across the goal line for a one-yard score inside the final two minutes. Shough has 662 passing yards and a 4:2 TD:INT through two games to begin the season, and he'll take plenty of confidence and momentum into a Week 3 home clash with the Raiders.",
-        "description": "Shough completed 27 of 34 passes for 252 yards and a touchdown while adding 23 yards and a TD on nine carries in Sunday's 24-17 win over the Ravens.",
-        "title": "Tyler Shough - Produces two TDs in Week 2 win",
-        "topic_id": "1407498316496859136"
-      },
-      "nfl_team": "NO",
-      "player_id": "12545",
-      "player_name": "Tyler Shough",
-      "position": "QB",
-      "published": 1789935928000,
-      "source": "rotowire",
-      "source_key": "638234",
-      "story_id": "nfl|12545|rotowire|638234|1789935928000",
-      "title": "Tyler Shough - Produces two TDs in Week 2 win",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers head coach Kyle Shanahan believes wide receiver Mike Evans (hip) is \"fine\" after he suffered a hip injury in the fourth quarter of San Francisco's 35-13 victory over the Miami Dolphins, according to Vic Tafur of The Athletic. Evans finished the game by catching all three of his targets for 54 yards. Evans' 54 yards was second on the team in receiving yards to tight end George Kittle, who caught four balls for 80 yards and a touchdown. With Evans' injury happening in the fourth quarter and the game well in the 49ers' control, it seemed to be more of a cautionary move to keep Evans out. Meanwhile, fellow San Francisco wideout Demarcus Robinson is believed to have suffered a high-ankle sprain, according to Tafur. Keep a close eye on how things work out for the 49ers' wide receiver group throughout the practice week.",
-      "metadata": {
-        "description": "San Francisco 49ers head coach Kyle Shanahan believes wide receiver Mike Evans (hip) is \"fine\" after he suffered a hip injury in the fourth quarter of San Francisco's 35-13 victory over the Miami Dolphins, according to Vic Tafur of The Athletic. Evans finished the game by catching all three of his targets for 54 yards. Evans' 54 yards was second on the team in receiving yards to tight end George Kittle, who caught four balls for 80 yards and a touchdown. With Evans' injury happening in the fourth quarter and the game well in the 49ers' control, it seemed to be more of a cautionary move to keep Evans out. Meanwhile, fellow San Francisco wideout Demarcus Robinson is believed to have suffered a high-ankle sprain, according to Tafur. Keep a close eye on how things work out for the 49ers' wide receiver group throughout the practice week.",
-        "title": "Mike Evans Believed to Be \"Fine\" After Suffering Hip Injury",
-        "topic_id": "1407557455713460224",
-        "url": "https://www.rotoballer.com/player-news/mike-evans-believed-to-be-fine-after-suffering-hip-injury-amasses-54-yards/1945980"
-      },
-      "nfl_team": "SF",
-      "player_id": "2216",
-      "player_name": "Mike Evans",
-      "position": "WR",
-      "published": 1789935510000,
-      "source": "rotoballer",
-      "source_key": "221765",
-      "story_id": "nfl|2216|rotoballer|221765|1789935510000",
-      "title": "Mike Evans Believed to Be \"Fine\" After Suffering Hip Injury",
-      "url": "https://www.rotoballer.com/player-news/mike-evans-believed-to-be-fine-after-suffering-hip-injury-amasses-54-yards/1945980"
-    },
-    {
-      "analysis": "The fifth-year wideout dealt with a minor hamstring issue during the week, but Olave looked fully healthy when he hauled in a 21-yard strike from Tyler Shough early in the fourth quarter to tie the game at 17-17. Olave has an impressive 18-268-1 line on 23 targets through two games as the Saints' clear top downfield option, and he seems likely to continue padding his numbers in a Week 3 home tilt against the Raiders.",
-      "description": "Olave caught eight of 10 targets for 86 yards and a touchdown in Sunday's 24-17 win over Baltimore.",
-      "metadata": {
-        "analysis": "The fifth-year wideout dealt with a minor hamstring issue during the week, but Olave looked fully healthy when he hauled in a 21-yard strike from Tyler Shough early in the fourth quarter to tie the game at 17-17. Olave has an impressive 18-268-1 line on 23 targets through two games as the Saints' clear top downfield option, and he seems likely to continue padding his numbers in a Week 3 home tilt against the Raiders.",
-        "description": "Olave caught eight of 10 targets for 86 yards and a touchdown in Sunday's 24-17 win over Baltimore.",
-        "title": "Chris Olave - Big day in upset of Ravens",
-        "topic_id": "1407495799989923840"
-      },
-      "nfl_team": "NO",
-      "player_id": "8144",
-      "player_name": "Chris Olave",
-      "position": "WR",
-      "published": 1789935215000,
-      "source": "rotowire",
-      "source_key": "638232",
-      "story_id": "nfl|8144|rotowire|638232|1789935215000",
-      "title": "Chris Olave - Big day in upset of Ravens",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Miami Dolphins wide receiver Caleb Douglas (ankle) was removed during the fourth quarter of Sunday's game against the San Francisco 49ers. He was pulled out in the fourth quarter and didn't return with the game already being a blowout. Douglas was seen leaving the locker room with a boot on his right leg, according to Omar Kelly. The hope is that the boot is precautionary, but fantasy managers should know more information soon. Douglas was impressive during his NFL debut, but posted a dud in Week 2. He finished with two receptions on three targets for 19 yards. Malik Washington and Chris Bell are likely to see expanded roles in the receiving game if Douglas is forced to miss time.",
-      "metadata": {
-        "description": "Miami Dolphins wide receiver Caleb Douglas (ankle) was removed during the fourth quarter of Sunday's game against the San Francisco 49ers. He was pulled out in the fourth quarter and didn't return with the game already being a blowout. Douglas was seen leaving the locker room with a boot on his right leg, according to Omar Kelly. The hope is that the boot is precautionary, but fantasy managers should know more information soon. Douglas was impressive during his NFL debut, but posted a dud in Week 2. He finished with two receptions on three targets for 19 yards. Malik Washington and Chris Bell are likely to see expanded roles in the receiving game if Douglas is forced to miss time.",
-        "title": "Caleb Douglas Suffers Ankle Injury, in Boot After the Game",
-        "topic_id": "1407556197522984960",
-        "url": "https://www.rotoballer.com/player-news/caleb-douglas-removed-with-ankle-injury/1945975"
-      },
-      "nfl_team": "MIA",
-      "player_id": "13296",
-      "player_name": "Caleb Douglas",
-      "position": "WR",
-      "published": 1789935194000,
-      "source": "rotoballer",
-      "source_key": "221764",
-      "story_id": "nfl|13296|rotoballer|221764|1789935194000",
-      "title": "Caleb Douglas Suffers Ankle Injury, in Boot After the Game",
-      "url": "https://www.rotoballer.com/player-news/caleb-douglas-removed-with-ankle-injury/1945975"
-    },
-    {
-      "analysis": "Williams appeared to suffer a non-contact injury to his right leg as he scrambled inside Minnesota's 10-yard line in the middle of the fourth quarter. He was in visible pain afterward, needed assistance to get to the medical tent and then was carted to the locker room before the nature of the health concern was revealed. Its severity isn't yet known, but for as long as Williams is sidelined, Tyson Bagent will direct the Bears offense.",
-      "description": "Williams won't return to Sunday's contest versus the Vikings due to a hamstring injury.",
-      "metadata": {
-        "analysis": "Williams appeared to suffer a non-contact injury to his right leg as he scrambled inside Minnesota's 10-yard line in the middle of the fourth quarter. He was in visible pain afterward, needed assistance to get to the medical tent and then was carted to the locker room before the nature of the health concern was revealed. Its severity isn't yet known, but for as long as Williams is sidelined, Tyson Bagent will direct the Bears offense.",
-        "description": "Williams won't return to Sunday's contest versus the Vikings due to a hamstring injury.",
-        "title": "Caleb Williams - Ruled out Sunday",
-        "topic_id": "1407492024671768576"
-      },
-      "nfl_team": "CHI",
-      "player_id": "11560",
-      "player_name": "Caleb Williams",
-      "position": "QB",
-      "published": 1789934532000,
-      "source": "rotowire",
-      "source_key": "638229",
-      "story_id": "nfl|11560|rotowire|638229|1789934532000",
-      "title": "Caleb Williams - Ruled out Sunday",
-      "url": null
-    },
-    {
-      "analysis": "Williams was carted you the locker room late in the fourth quarter with the apparent hamstring injury, with backup Tyson Bagent taking over behind center for head coach Ben Johnson Sunday.",
-      "description": "Caleb Williams (hamstring) has been ruled out for the Chicago Bears according to Mike Garafolo.",
-      "metadata": {
-        "analysis": "Williams was carted you the locker room late in the fourth quarter with the apparent hamstring injury, with backup Tyson Bagent taking over behind center for head coach Ben Johnson Sunday.",
-        "description": "Caleb Williams (hamstring) has been ruled out for the Chicago Bears according to Mike Garafolo.",
-        "title": "Caleb Williams (hamstring) ruled out Sunday",
-        "topic_id": "1407490769928855552",
-        "url": "https://www.fantasypros.com/nfl/news/609265/caleb-williams-hamstring-ruled-out-sunday.php"
-      },
-      "nfl_team": "CHI",
-      "player_id": "11560",
-      "player_name": "Caleb Williams",
-      "position": "QB",
-      "published": 1789934458771,
-      "source": "fantasy_pros",
-      "source_key": "609265",
-      "story_id": "nfl|11560|fantasy_pros|609265|1789934458771",
-      "title": "Caleb Williams (hamstring) ruled out Sunday",
-      "url": "https://www.fantasypros.com/nfl/news/609265/caleb-williams-hamstring-ruled-out-sunday.php"
-    },
-    {
-      "analysis": "Brooks carried five times for 16 yards and caught his lone target for minus-5 yards before he was seen heading to the locker room with a trio of Panthers staff members, according to Mike Kaye of ESPN.com. It's not clear when Brooks might have sustained the injury, but he received his final carry of the afternoon with 11:58 remaining in the fourth quarter. The Panthers should provide more details on Brooks' condition shortly, but even if his injury is only a minor concern, he'll likely be done for the day while Carolina is sitting on a sizable lead.",
-      "description": "Brooks exited Sunday's game against the Falcons in the fourth quarter due to a groin injury and is questionable to return, Joe Person of The Athletic reports.",
-      "metadata": {
-        "analysis": "Brooks carried five times for 16 yards and caught his lone target for minus-5 yards before he was seen heading to the locker room with a trio of Panthers staff members, according to Mike Kaye of ESPN.com. It's not clear when Brooks might have sustained the injury, but he received his final carry of the afternoon with 11:58 remaining in the fourth quarter. The Panthers should provide more details on Brooks' condition shortly, but even if his injury is only a minor concern, he'll likely be done for the day while Carolina is sitting on a sizable lead.",
-        "description": "Brooks exited Sunday's game against the Falcons in the fourth quarter due to a groin injury and is questionable to return, Joe Person of The Athletic reports.",
-        "title": "Jonathon Brooks - Heads to locker room with groin injury",
-        "topic_id": "1407490765667454976"
-      },
-      "nfl_team": "CAR",
-      "player_id": "11583",
-      "player_name": "Jonathon Brooks",
-      "position": "RB",
-      "published": 1789933991000,
-      "source": "rotowire",
-      "source_key": "638227",
-      "story_id": "nfl|11583|rotowire|638227|1789933991000",
-      "title": "Jonathon Brooks - Heads to locker room with groin injury",
-      "url": null
-    },
-    {
-      "analysis": "Jones Sr. was back in the huddle after exiting briefly in the fourth quarter due to an apparent knee injury.",
-      "description": "Aaron Jones Sr. (knee) returned to the field for the Minnesota Vikings against the Chicago Bears Sunday according to Kevin Seifert.",
-      "metadata": {
-        "analysis": "Jones Sr. was back in the huddle after exiting briefly in the fourth quarter due to an apparent knee injury.",
-        "description": "Aaron Jones Sr. (knee) returned to the field for the Minnesota Vikings against the Chicago Bears Sunday according to Kevin Seifert.",
-        "title": "Aaron Jones Sr. (knee) returns to field Sunday",
-        "topic_id": "1407488252788621312",
-        "url": "https://www.fantasypros.com/nfl/news/609264/aaron-jones-sr-knee-returns-to-field-sunday.php"
-      },
-      "nfl_team": "MIN",
-      "player_id": "4199",
-      "player_name": "Aaron Jones",
-      "position": "RB",
-      "published": 1789933858639,
-      "source": "fantasy_pros",
-      "source_key": "609264",
-      "story_id": "nfl|4199|fantasy_pros|609264|1789933858639",
-      "title": "Aaron Jones Sr. (knee) returns to field Sunday",
-      "url": "https://www.fantasypros.com/nfl/news/609264/aaron-jones-sr-knee-returns-to-field-sunday.php"
-    },
-    {
-      "analysis": "Jones briefly left Minnesota's Week 2 matchup in the fourth quarter, but now that he's back in the game, he'll attempt to build upon his 23 carries for 105 yards in the team's first outing with Jordan Mason (thumb) on injured reserve.",
-      "description": "Jones (knee) returned to Sunday's contest at Chicago, Lindsey Young of the Vikings' official site reports.",
-      "metadata": {
-        "analysis": "Jones briefly left Minnesota's Week 2 matchup in the fourth quarter, but now that he's back in the game, he'll attempt to build upon his 23 carries for 105 yards in the team's first outing with Jordan Mason (thumb) on injured reserve.",
-        "description": "Jones (knee) returned to Sunday's contest at Chicago, Lindsey Young of the Vikings' official site reports.",
-        "title": "Aaron Jones - Back in Sunday's game",
-        "topic_id": "1407488249802317824"
-      },
-      "nfl_team": "MIN",
-      "player_id": "4199",
-      "player_name": "Aaron Jones",
-      "position": "RB",
-      "published": 1789933747000,
-      "source": "rotowire",
-      "source_key": "638225",
-      "story_id": "nfl|4199|rotowire|638225|1789933747000",
-      "title": "Aaron Jones - Back in Sunday's game",
-      "url": null
-    },
-    {
-      "analysis": "",
-      "description": "Aaron Jones Sr. (knee) is questionable to return for the Minnesota Vikings against the Chicago Bears Sunday according to Mike Garafolo.",
-      "metadata": {
-        "analysis": "",
-        "description": "Aaron Jones Sr. (knee) is questionable to return for the Minnesota Vikings against the Chicago Bears Sunday according to Mike Garafolo.",
-        "title": "Aaron Jones Sr. (knee) questionable to return Sunday",
-        "topic_id": "1407485734666989568",
-        "url": "https://www.fantasypros.com/nfl/news/609262/aaron-jones-sr-knee-questionable-to-return-sunday.php"
-      },
-      "nfl_team": "MIN",
-      "player_id": "4199",
-      "player_name": "Aaron Jones",
-      "position": "RB",
-      "published": 1789933258273,
-      "source": "fantasy_pros",
-      "source_key": "609262",
-      "story_id": "nfl|4199|fantasy_pros|609262|1789933258273",
-      "title": "Aaron Jones Sr. (knee) questionable to return Sunday",
-      "url": "https://www.fantasypros.com/nfl/news/609262/aaron-jones-sr-knee-questionable-to-return-sunday.php"
-    },
-    {
-      "analysis": "Williams went down without being touched late in the fourth quarter, completing 15-of-26 pass attempts for 138 yards and one interception while also rushing five times for 42 yards on the day. Tyson Bagent has taken over behind center for head coach Ben Johnson against the Vikings.",
-      "description": "Caleb Williams exited early with an apparent non-contact injury for the Chicago Bears against the Minnesota Vikings according to Adam Schefter.",
-      "metadata": {
-        "analysis": "Williams went down without being touched late in the fourth quarter, completing 15-of-26 pass attempts for 138 yards and one interception while also rushing five times for 42 yards on the day. Tyson Bagent has taken over behind center for head coach Ben Johnson against the Vikings.",
-        "description": "Caleb Williams exited early with an apparent non-contact injury for the Chicago Bears against the Minnesota Vikings according to Adam Schefter.",
-        "title": "Caleb Williams exits early Sunday",
-        "topic_id": "1407485734608269312",
-        "url": "https://www.fantasypros.com/nfl/news/609263/caleb-williams-exits-early-sunday.php"
-      },
-      "nfl_team": "CHI",
-      "player_id": "11560",
-      "player_name": "Caleb Williams",
-      "position": "QB",
-      "published": 1789933258259,
-      "source": "fantasy_pros",
-      "source_key": "609263",
-      "story_id": "nfl|11560|fantasy_pros|609263|1789933258259",
-      "title": "Caleb Williams exits early Sunday",
-      "url": "https://www.fantasypros.com/nfl/news/609263/caleb-williams-exits-early-sunday.php"
-    },
-    {
-      "analysis": "Williams' right leg gave out under him as he scrambled to his left toward the end zone in the middle of the fourth quarter. He needed assistance to get to the sideline, and if he's unable to return, he'll finish Week 2 action with 138 yards, no touchdowns and one interception on 15-for-26 passing and five carries for 42 yards.",
-      "description": "Williams left Sunday's game against the Vikings with an apparent right leg injury, Courtney Cronin of ESPN.com reports.",
-      "metadata": {
-        "analysis": "Williams' right leg gave out under him as he scrambled to his left toward the end zone in the middle of the fourth quarter. He needed assistance to get to the sideline, and if he's unable to return, he'll finish Week 2 action with 138 yards, no touchdowns and one interception on 15-for-26 passing and five carries for 42 yards.",
-        "description": "Williams left Sunday's game against the Vikings with an apparent right leg injury, Courtney Cronin of ESPN.com reports.",
-        "title": "Caleb Williams - Exits Sunday's game",
-        "topic_id": "1407485732498477056"
-      },
-      "nfl_team": "CHI",
-      "player_id": "11560",
-      "player_name": "Caleb Williams",
-      "position": "QB",
-      "published": 1789933064000,
-      "source": "rotowire",
-      "source_key": "638215",
-      "story_id": "nfl|11560|rotowire|638215|1789933064000",
-      "title": "Caleb Williams - Exits Sunday's game",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Pittsburgh Steelers tight end Pat Freiermuth hauled in four of his five targets for 32 yards in a 20-3 loss to the New England Patriots in Week 2. The entire Steelers offense struggled on Sunday, but Freiermuth made the most of his opportunities and continued to build on his early-season chemistry with quarterback Aaron Rodgers. Though it remains to be seen whether wide receiver Michael Pittman Jr. (foot), who missed this week's game, will miss additional time, Freiermuth should have a featured role in Pittsburgh's passing attack moving forward. Fantasy managers may have a hard time trusting any of the team's pass-catchers in starting lineups, but Freiermuth looks like an enticing streaming option against the Cincinnati Bengals in Week 3.",
-      "metadata": {
-        "description": "Pittsburgh Steelers tight end Pat Freiermuth hauled in four of his five targets for 32 yards in a 20-3 loss to the New England Patriots in Week 2. The entire Steelers offense struggled on Sunday, but Freiermuth made the most of his opportunities and continued to build on his early-season chemistry with quarterback Aaron Rodgers. Though it remains to be seen whether wide receiver Michael Pittman Jr. (foot), who missed this week's game, will miss additional time, Freiermuth should have a featured role in Pittsburgh's passing attack moving forward. Fantasy managers may have a hard time trusting any of the team's pass-catchers in starting lineups, but Freiermuth looks like an enticing streaming option against the Cincinnati Bengals in Week 3.",
-        "title": "Pat Freiermuth Maintains Steady Role in Loss to Patriots",
-        "topic_id": "1407546129775685632",
-        "url": "https://www.rotoballer.com/player-news/pat-freiermuth-maintains-steady-role-in-loss-to-patriots/1945966"
-      },
-      "nfl_team": "PIT",
-      "player_id": "7600",
-      "player_name": "Pat Freiermuth",
-      "position": "TE",
-      "published": 1789932810000,
-      "source": "rotoballer",
-      "source_key": "221760",
-      "story_id": "nfl|7600|rotoballer|221760|1789932810000",
-      "title": "Pat Freiermuth Maintains Steady Role in Loss to Patriots",
-      "url": "https://www.rotoballer.com/player-news/pat-freiermuth-maintains-steady-role-in-loss-to-patriots/1945966"
-    },
-    {
-      "analysis": "After exiting midway through the second quarter due to the toe injury, Dowdle was cleared to return coming out of halftime and picked up four touches (three carries, one catch) over the Steelers' first three possessions of the second half. However, he may have aggravated the injury at some point along the way and will now be shut down for the rest of the day. Jaylen Warren is expected to see the bulk of the snaps and touches out of the backfield for the remainder of the Week 2 contest, with Travis Homer and Eli Heidenreich providing depth behind him.",
-      "description": "Dowdle has been ruled out for the remainder of Sunday's game against the Patriots, Brooke Pryor of ESPN.com reports. He finished with seven carries for 22 yards and two catches for 22 yards on two targets.",
-      "metadata": {
-        "analysis": "After exiting midway through the second quarter due to the toe injury, Dowdle was cleared to return coming out of halftime and picked up four touches (three carries, one catch) over the Steelers' first three possessions of the second half. However, he may have aggravated the injury at some point along the way and will now be shut down for the rest of the day. Jaylen Warren is expected to see the bulk of the snaps and touches out of the backfield for the remainder of the Week 2 contest, with Travis Homer and Eli Heidenreich providing depth behind him.",
-        "description": "Dowdle has been ruled out for the remainder of Sunday's game against the Patriots, Brooke Pryor of ESPN.com reports. He finished with seven carries for 22 yards and two catches for 22 yards on two targets.",
-        "title": "Rico Dowdle - Done for day with toe injury",
-        "topic_id": "1407484474639306752"
-      },
-      "nfl_team": "PIT",
-      "player_id": "7021",
-      "player_name": "Rico Dowdle",
-      "position": "RB",
-      "published": 1789932731000,
-      "source": "rotowire",
-      "source_key": "638210",
-      "story_id": "nfl|7021|rotowire|638210|1789932731000",
-      "title": "Rico Dowdle - Done for day with toe injury",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Seattle Seahawks rookie first-round running back Jadarian Price (chest) suffered a chest injury against the Arizona Cardinals and did not return, according to the Seahawks' PR team. Price was injured during the fourth quarter of the Seahawks' 31-7 win and did not return to the game. He was spotted with trainers walking to the locker room with his shoulder pads off. The Seahawks had a healthy lead over the Cardinals when the injury happened in the fourth quarter and ruled him out shortly afterward, so it is unclear if Seattle was being cautious with no real reason to put him back in the game or if it is more serious. Price finished Sunday's game with 13 carries for 52 yards and one catch (two targets) for eight yards. Emanuel Wilson led Seattle's backfield with 21 carries for 92 yards, while George Holani amassed 13 yards on four carries. Fantasy managers will need to keep a close eye on Price's status moving forward.",
-      "metadata": {
-        "description": "Seattle Seahawks rookie first-round running back Jadarian Price (chest) suffered a chest injury against the Arizona Cardinals and did not return, according to the Seahawks' PR team. Price was injured during the fourth quarter of the Seahawks' 31-7 win and did not return to the game. He was spotted with trainers walking to the locker room with his shoulder pads off. The Seahawks had a healthy lead over the Cardinals when the injury happened in the fourth quarter and ruled him out shortly afterward, so it is unclear if Seattle was being cautious with no real reason to put him back in the game or if it is more serious. Price finished Sunday's game with 13 carries for 52 yards and one catch (two targets) for eight yards. Emanuel Wilson led Seattle's backfield with 21 carries for 92 yards, while George Holani amassed 13 yards on four carries. Fantasy managers will need to keep a close eye on Price's status moving forward.",
-        "title": "Jadarian Price Suffers Chest Injury Against Cardinals",
-        "topic_id": "1407546129779879936",
-        "url": "https://www.rotoballer.com/player-news/jadarian-price-suffers-chest-injury-against-cardinals-rushes-for-52-yards/1945965"
-      },
-      "nfl_team": "SEA",
-      "player_id": "13286",
-      "player_name": "Jadarian Price",
-      "position": "RB",
-      "published": 1789932497000,
-      "source": "rotoballer",
-      "source_key": "221761",
-      "story_id": "nfl|13286|rotoballer|221761|1789932497000",
-      "title": "Jadarian Price Suffers Chest Injury Against Cardinals",
-      "url": "https://www.rotoballer.com/player-news/jadarian-price-suffers-chest-injury-against-cardinals-rushes-for-52-yards/1945965"
-    },
-    {
-      "analysis": null,
-      "description": "Pittsburgh Steelers wide receiver Germie Bernard led the team with 35 receiving yards on four receptions in a 20-3 loss to the New England Patriots. Bernard stepped up with veteran Michael Pittman Jr. (foot) sidelined, earning eight targets from quarterback Aaron Rodgers, good for second among Steelers pass-catchers. Unfortunately, things weren't all positive for the rookie, as a costly red-zone drop resulted in an interception with Pittsburgh attempting to mount a comeback in the fourth quarter. Nonetheless, with DK Metcalf off to a slow start, it wouldn't be surprising if Bernard continues to see opportunities, especially if Pittman misses additional time. The 22-year-old will look to build on this performance in a Week 3 clash with the Cincinnati Bengals.",
-      "metadata": {
-        "description": "Pittsburgh Steelers wide receiver Germie Bernard led the team with 35 receiving yards on four receptions in a 20-3 loss to the New England Patriots. Bernard stepped up with veteran Michael Pittman Jr. (foot) sidelined, earning eight targets from quarterback Aaron Rodgers, good for second among Steelers pass-catchers. Unfortunately, things weren't all positive for the rookie, as a costly red-zone drop resulted in an interception with Pittsburgh attempting to mount a comeback in the fourth quarter. Nonetheless, with DK Metcalf off to a slow start, it wouldn't be surprising if Bernard continues to see opportunities, especially if Pittman misses additional time. The 22-year-old will look to build on this performance in a Week 3 clash with the Cincinnati Bengals.",
-        "title": "Germie Bernard Flashes Despite Costly Mistake in Week 2 Loss",
-        "topic_id": "1407543618205396992",
-        "url": "https://www.rotoballer.com/player-news/germie-bernard-flashes-despite-costly-mistake-in-week-2-loss/1945962"
-      },
-      "nfl_team": "PIT",
-      "player_id": "13274",
-      "player_name": "Germie Bernard",
-      "position": "WR",
-      "published": 1789932136000,
-      "source": "rotoballer",
-      "source_key": "221759",
-      "story_id": "nfl|13274|rotoballer|221759|1789932136000",
-      "title": "Germie Bernard Flashes Despite Costly Mistake in Week 2 Loss",
-      "url": "https://www.rotoballer.com/player-news/germie-bernard-flashes-despite-costly-mistake-in-week-2-loss/1945962"
-    },
-    {
-      "analysis": "For a second consecutive week, Beck will be the Cardinals' emergency QB3 behind Jacoby Brissett and Gardner Minshew. That means Beck cannot play Sunday unless both Brissett and Minshew were to be removed from the game due to illness, injury or ejection.",
-      "description": "Beck (coach's decision) is inactive but will serve as the emergency third quarterback against the Seahawks on Sunday, Darren Urban of the Cardinals' official site reports.",
-      "metadata": {
-        "analysis": "For a second consecutive week, Beck will be the Cardinals' emergency QB3 behind Jacoby Brissett and Gardner Minshew. That means Beck cannot play Sunday unless both Brissett and Minshew were to be removed from the game due to illness, injury or ejection.",
-        "description": "Beck (coach's decision) is inactive but will serve as the emergency third quarterback against the Seahawks on Sunday, Darren Urban of the Cardinals' official site reports.",
-        "title": "Carson Beck - Emergency QB3 for Week 2",
-        "topic_id": "1407480698448740353"
-      },
-      "nfl_team": "ARI",
-      "player_id": "13272",
-      "player_name": "Carson Beck",
-      "position": "QB",
-      "published": 1789931772000,
-      "source": "rotowire",
-      "source_key": "638199",
-      "story_id": "nfl|13272|rotowire|638199|1789931772000",
-      "title": "Carson Beck - Emergency QB3 for Week 2",
-      "url": null
-    },
-    {
-      "analysis": "Black is good to go after not experiencing any setbacks during pregame warmups for head coach Kyle Shanahan, offering another dynamic option alongside Christian McCaffrey out of the San Francisco backfield against the Dolphins Sunday.",
-      "description": "Kaelon Black (groin) is active for Week 2 for the San Francisco 49ers against the Miami Dolphins according to Nick Wagoner.",
-      "metadata": {
-        "analysis": "Black is good to go after not experiencing any setbacks during pregame warmups for head coach Kyle Shanahan, offering another dynamic option alongside Christian McCaffrey out of the San Francisco backfield against the Dolphins Sunday.",
-        "description": "Kaelon Black (groin) is active for Week 2 for the San Francisco 49ers against the Miami Dolphins according to Nick Wagoner.",
-        "title": "Kaelon Black (groin) active for Week 2",
-        "topic_id": "1407479444553175040",
-        "url": "https://www.fantasypros.com/nfl/news/609261/kaelon-black-groin-active-week-2.php"
-      },
-      "nfl_team": "SF",
-      "player_id": "13414",
-      "player_name": "Kaelon Black",
-      "position": "RB",
-      "published": 1789931758590,
-      "source": "fantasy_pros",
-      "source_key": "609261",
-      "story_id": "nfl|13414|fantasy_pros|609261|1789931758590",
-      "title": "Kaelon Black (groin) active for Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609261/kaelon-black-groin-active-week-2.php"
-    },
-    {
-      "analysis": "The rookie running back was reported to be trending up for Sunday's contest earlier Sunday, and his availability now has been made official. Black will therefore once again serve as the primary backup to Christian McCaffrey, a role that afforded the former 15 touches (14 carries, one reception) across 28 snaps in a Week 1 win over the Rams in Melbourne, Australia.",
-      "description": "Black (groin) is active for Sunday's Week 2 matchup against the Dolphins, Nick Wagoner of ESPN.com reports.",
-      "metadata": {
-        "analysis": "The rookie running back was reported to be trending up for Sunday's contest earlier Sunday, and his availability now has been made official. Black will therefore once again serve as the primary backup to Christian McCaffrey, a role that afforded the former 15 touches (14 carries, one reception) across 28 snaps in a Week 1 win over the Rams in Melbourne, Australia.",
-        "description": "Black (groin) is active for Sunday's Week 2 matchup against the Dolphins, Nick Wagoner of ESPN.com reports.",
-        "title": "Kaelon Black - Active as expected Sunday",
-        "topic_id": "1407478181329424385"
-      },
-      "nfl_team": "SF",
-      "player_id": "13414",
-      "player_name": "Kaelon Black",
-      "position": "RB",
-      "published": 1789931380000,
-      "source": "rotowire",
-      "source_key": "638194",
-      "story_id": "nfl|13414|rotowire|638194|1789931380000",
-      "title": "Kaelon Black - Active as expected Sunday",
-      "url": null
-    },
-    {
-      "analysis": "Kaliakmanis once again will be the emergency QB3, meaning he is not permitted to play Sunday unless both Jayden Daniels and Marcus Mariota were to leave the game due to injury, illness or ejection.",
-      "description": "Kaliakmanis (coach's decision) is inactive but will serve as the Commanders' emergency third quarterback against the Cowboys on Sunday.",
-      "metadata": {
-        "analysis": "Kaliakmanis once again will be the emergency QB3, meaning he is not permitted to play Sunday unless both Jayden Daniels and Marcus Mariota were to leave the game due to injury, illness or ejection.",
-        "description": "Kaliakmanis (coach's decision) is inactive but will serve as the Commanders' emergency third quarterback against the Cowboys on Sunday.",
-        "title": "Athan Kaliakmanis - Emergency QB3 for Week 2",
-        "topic_id": "1407478181287481344"
-      },
-      "nfl_team": "WAS",
-      "player_id": "13557",
-      "player_name": "Athan Kaliakmanis",
-      "position": "QB",
-      "published": 1789931267000,
-      "source": "rotowire",
-      "source_key": "638192",
-      "story_id": "nfl|13557|rotowire|638192|1789931267000",
-      "title": "Athan Kaliakmanis - Emergency QB3 for Week 2",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Pittsburgh Steelers wide receiver DK Metcalf secured four of his nine targets for 27 yards in a 20-3 loss to the New England Patriots. Metcalf wasn't the only Steeler to struggle on Sunday, but his performance unfortunately stood out for the wrong reasons, as he had multiple drops in the second half. Through two games this season, Metcalf has been the clear favorite target of quarterback Aaron Rodgers. Still, he was unable to capitalize on a significant opportunity with Michael Pittman Jr. (foot) sidelined and was out-produced by rookie wide receiver Germie Bernard and third-year pro Roman Wilson. Until the Steelers' offense shows signs of life, Metcalf will be difficult to trust in fantasy lineups. He'll look to get back on track in Week 3 against a surging Cincinnati Bengals defense.",
-      "metadata": {
-        "description": "Pittsburgh Steelers wide receiver DK Metcalf secured four of his nine targets for 27 yards in a 20-3 loss to the New England Patriots. Metcalf wasn't the only Steeler to struggle on Sunday, but his performance unfortunately stood out for the wrong reasons, as he had multiple drops in the second half. Through two games this season, Metcalf has been the clear favorite target of quarterback Aaron Rodgers. Still, he was unable to capitalize on a significant opportunity with Michael Pittman Jr. (foot) sidelined and was out-produced by rookie wide receiver Germie Bernard and third-year pro Roman Wilson. Until the Steelers' offense shows signs of life, Metcalf will be difficult to trust in fantasy lineups. He'll look to get back on track in Week 3 against a surging Cincinnati Bengals defense.",
-        "title": "DK Metcalf's Fantasy Value Takes Another Hit in Week 2",
-        "topic_id": "1407538583908225024",
-        "url": "https://www.rotoballer.com/player-news/dk-metcalfs-fantasy-value-takes-another-hit-in-week-2/1945955"
-      },
-      "nfl_team": "PIT",
-      "player_id": "5846",
-      "player_name": "DK Metcalf",
-      "position": "WR",
-      "published": 1789931185000,
-      "source": "rotoballer",
-      "source_key": "221757",
-      "story_id": "nfl|5846|rotoballer|221757|1789931185000",
-      "title": "DK Metcalf's Fantasy Value Takes Another Hit in Week 2",
-      "url": "https://www.rotoballer.com/player-news/dk-metcalfs-fantasy-value-takes-another-hit-in-week-2/1945955"
-    },
-    {
-      "analysis": "Dowdle was carted to the locker room in the second quarter but has returned and took the first carry of the second half. Dowdle and Jaylen Warren will continue to operate as the top two running backs for the Steelers. ",
-      "description": "Steelers RB Rico Dowdle (toe) has returned to the game to start the second half against the Patriots. ",
-      "metadata": {
-        "analysis": "Dowdle was carted to the locker room in the second quarter but has returned and took the first carry of the second half. Dowdle and Jaylen Warren will continue to operate as the top two running backs for the Steelers. ",
-        "description": "Steelers RB Rico Dowdle (toe) has returned to the game to start the second half against the Patriots. ",
-        "title": "Rico Dowdle (toe) returns to the game Sunday ",
-        "topic_id": "1407475668651933696",
-        "url": "https://www.fantasypros.com/nfl/news/609258/rico-dowdle-toe-returns-to-game-sunday.php"
-      },
-      "nfl_team": "PIT",
-      "player_id": "7021",
-      "player_name": "Rico Dowdle",
-      "position": "RB",
-      "published": 1789930858346,
-      "source": "fantasy_pros",
-      "source_key": "609258",
-      "story_id": "nfl|7021|fantasy_pros|609258|1789930858346",
-      "title": "Rico Dowdle (toe) returns to the game Sunday ",
-      "url": "https://www.fantasypros.com/nfl/news/609258/rico-dowdle-toe-returns-to-game-sunday.php"
-    },
-    {
-      "analysis": "Dowdle appeared to injure his toe while attempting to recover an Aaron Rodgers fumble midway through the second quarter. The Steelers had listed Dowdle as questionable to return and kept him out for the remainder of the first half, but the running back will attempt to play through the injury for the final two quarters.",
-      "description": "Dowdle (toe) returned to Sunday's game against the Patriots to begin the second half, Nick Farabaugh of PennLive.com reports.",
-      "metadata": {
-        "analysis": "Dowdle appeared to injure his toe while attempting to recover an Aaron Rodgers fumble midway through the second quarter. The Steelers had listed Dowdle as questionable to return and kept him out for the remainder of the first half, but the running back will attempt to play through the injury for the final two quarters.",
-        "description": "Dowdle (toe) returned to Sunday's game against the Patriots to begin the second half, Nick Farabaugh of PennLive.com reports.",
-        "title": "Rico Dowdle - Makes return to Sunday's contest",
-        "topic_id": "1407475664306589696"
-      },
-      "nfl_team": "PIT",
-      "player_id": "7021",
-      "player_name": "Rico Dowdle",
-      "position": "RB",
-      "published": 1789930457000,
-      "source": "rotowire",
-      "source_key": "638183",
-      "story_id": "nfl|7021|rotowire|638183|1789930457000",
-      "title": "Rico Dowdle - Makes return to Sunday's contest",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers wide receiver Mike Evans (hip) is listed as questionable to return to Sunday's contest against the Miami Dolphins, according to Matt Barrows of The Athletic. Before exiting, Evans caught all three of his targets for 54 yards. According to Matt Lively of KPIX TV, Evans was seen hobbling on his final play but was not receiving any personal medical attention on the sidelines. Managers should keep a close eye on his status in case he has to miss a longer period of time. With Demarcus Robinson (ankle) also exiting early, managers should expect Deebo Samuel Sr. and George Kittle to draw much of the targets for the remainder of this contest.",
-      "metadata": {
-        "description": "San Francisco 49ers wide receiver Mike Evans (hip) is listed as questionable to return to Sunday's contest against the Miami Dolphins, according to Matt Barrows of The Athletic. Before exiting, Evans caught all three of his targets for 54 yards. According to Matt Lively of KPIX TV, Evans was seen hobbling on his final play but was not receiving any personal medical attention on the sidelines. Managers should keep a close eye on his status in case he has to miss a longer period of time. With Demarcus Robinson (ankle) also exiting early, managers should expect Deebo Samuel Sr. and George Kittle to draw much of the targets for the remainder of this contest.",
-        "title": "Mike Evans Suffers Hip Injury on Sunday, Questionable to Return",
-        "topic_id": "1407534808308940800",
-        "url": "https://www.rotoballer.com/player-news/mike-evans-suffers-hip-injury-on-sunday-questionable-to-return/1945950"
-      },
-      "nfl_team": "SF",
-      "player_id": "2216",
-      "player_name": "Mike Evans",
-      "position": "WR",
-      "published": 1789930326000,
-      "source": "rotoballer",
-      "source_key": "221756",
-      "story_id": "nfl|2216|rotoballer|221756|1789930326000",
-      "title": "Mike Evans Suffers Hip Injury on Sunday, Questionable to Return",
-      "url": "https://www.rotoballer.com/player-news/mike-evans-suffers-hip-injury-on-sunday-questionable-to-return/1945950"
-    },
-    {
-      "analysis": "Bowers was considered a long shot to play this week, but has a chance to return in Week 3. Fantasy managers should expect Michael Mayer to see increased playing time with Bowers out. ",
-      "description": "Raiders TE Brock Bowers (knee) is officially inactive for a Week 2 matchup with the Chargers.",
-      "metadata": {
-        "analysis": "Bowers was considered a long shot to play this week, but has a chance to return in Week 3. Fantasy managers should expect Michael Mayer to see increased playing time with Bowers out. ",
-        "description": "Raiders TE Brock Bowers (knee) is officially inactive for a Week 2 matchup with the Chargers.",
-        "title": "Brock Bowers (knee) officially inactive for Week 2  ",
-        "topic_id": "1407473150752505856",
-        "url": "https://www.fantasypros.com/nfl/news/609256/brock-bowers-knee-officially-inactive-week-2.php"
-      },
-      "nfl_team": "LV",
-      "player_id": "11604",
-      "player_name": "Brock Bowers",
-      "position": "TE",
-      "published": 1789930258033,
-      "source": "fantasy_pros",
-      "source_key": "609256",
-      "story_id": "nfl|11604|fantasy_pros|609256|1789930258033",
-      "title": "Brock Bowers (knee) officially inactive for Week 2  ",
-      "url": "https://www.fantasypros.com/nfl/news/609256/brock-bowers-knee-officially-inactive-week-2.php"
-    },
-    {
-      "analysis": "McConkey is dealing with a cracked rib but was pushing to play through the injury. With McConkey active, fantasy managers should expect him to operate as the top wide receiver for the Chargers in a divisional matchup with the Raiders. ",
-      "description": "Chargers WR Ladd McConkey (ribs) is officially active for a Week 2 matchup with the Raiders.",
-      "metadata": {
-        "analysis": "McConkey is dealing with a cracked rib but was pushing to play through the injury. With McConkey active, fantasy managers should expect him to operate as the top wide receiver for the Chargers in a divisional matchup with the Raiders. ",
-        "description": "Chargers WR Ladd McConkey (ribs) is officially active for a Week 2 matchup with the Raiders.",
-        "title": "Ladd McConkey (ribs) officially active for Week 2 ",
-        "topic_id": "1407473150681202688",
-        "url": "https://www.fantasypros.com/nfl/news/609257/ladd-mcconkey-ribs-officially-active-week-2.php"
-      },
-      "nfl_team": "LAC",
-      "player_id": "11635",
-      "player_name": "Ladd McConkey",
-      "position": "WR",
-      "published": 1789930258016,
-      "source": "fantasy_pros",
-      "source_key": "609257",
-      "story_id": "nfl|11635|fantasy_pros|609257|1789930258016",
-      "title": "Ladd McConkey (ribs) officially active for Week 2 ",
-      "url": "https://www.fantasypros.com/nfl/news/609257/ladd-mcconkey-ribs-officially-active-week-2.php"
-    },
-    {
-      "analysis": null,
-      "description": "Pittsburgh Steelers running back Jaylen Warren handled 11 carries for 43 yards and brought in two of his four targets for 34 yards in a 20-3 Week 2 loss to the New England Patriots. While Warren's numbers won't jump off the page, he actually posted the best fantasy performance of any player on the Steelers' offense. Just like in Week 1, Warren shared a near-even split of the backfield with Rico Dowdle (toe) until the latter exited with a toe injury in the third quarter. Through two weeks, Pittsburgh hasn't shown much to get excited about from a fantasy perspective, but Warren has been productive. Fantasy managers will want to monitor Dowdle's status ahead of a Week 3 divisional clash with the Cincinnati Bengals, as Warren's fantasy outlook would receive a notable boost if he takes on an expanded role.",
-      "metadata": {
-        "description": "Pittsburgh Steelers running back Jaylen Warren handled 11 carries for 43 yards and brought in two of his four targets for 34 yards in a 20-3 Week 2 loss to the New England Patriots. While Warren's numbers won't jump off the page, he actually posted the best fantasy performance of any player on the Steelers' offense. Just like in Week 1, Warren shared a near-even split of the backfield with Rico Dowdle (toe) until the latter exited with a toe injury in the third quarter. Through two weeks, Pittsburgh hasn't shown much to get excited about from a fantasy perspective, but Warren has been productive. Fantasy managers will want to monitor Dowdle's status ahead of a Week 3 divisional clash with the Cincinnati Bengals, as Warren's fantasy outlook would receive a notable boost if he takes on an expanded role.",
-        "title": "Jaylen Warren Gains 77 Yards in Blowout Loss",
-        "topic_id": "1407533550726647808",
-        "url": "https://www.rotoballer.com/player-news/jaylen-warren-gains-77-yards-in-blowout-loss/1945947"
-      },
-      "nfl_team": "PIT",
-      "player_id": "8228",
-      "player_name": "Jaylen Warren",
-      "position": "RB",
-      "published": 1789929911000,
-      "source": "rotoballer",
-      "source_key": "221754",
-      "story_id": "nfl|8228|rotoballer|221754|1789929911000",
-      "title": "Jaylen Warren Gains 77 Yards in Blowout Loss",
-      "url": "https://www.rotoballer.com/player-news/jaylen-warren-gains-77-yards-in-blowout-loss/1945947"
-    },
-    {
-      "analysis": null,
-      "description": "Denver Broncos running back J.K. Dobbins (hamstring) is questionable to return to Sunday's contest due to a hamstring injury. The veteran running back was seen walking off the field on his own power but eventually went into the medical tent. Before exiting, Dobbins led the backfield (with RJ Harvey not playing) as he took 10 carries for 36 yards. While he remains on the shelf, managers should expect Jonah Coleman and Tyler Badie to operate as the top options on the depth chart. If he were to miss a lengthy period of time, Coleman would be a top waiver wire target.",
-      "metadata": {
-        "description": "Denver Broncos running back J.K. Dobbins (hamstring) is questionable to return to Sunday's contest due to a hamstring injury. The veteran running back was seen walking off the field on his own power but eventually went into the medical tent. Before exiting, Dobbins led the backfield (with RJ Harvey not playing) as he took 10 carries for 36 yards. While he remains on the shelf, managers should expect Jonah Coleman and Tyler Badie to operate as the top options on the depth chart. If he were to miss a lengthy period of time, Coleman would be a top waiver wire target.",
-        "title": "J.K. Dobbins Questionable to Return on Sunday with Hamstring Injury",
-        "topic_id": "1407533550739230720",
-        "url": "https://www.rotoballer.com/player-news/j-k-dobbins-questionable-to-return-on-sunday-with-hamstring-injury/1945945"
-      },
-      "nfl_team": "DEN",
-      "player_id": "6806",
-      "player_name": "J.K. Dobbins",
-      "position": "RB",
-      "published": 1789929907000,
-      "source": "rotoballer",
-      "source_key": "221755",
-      "story_id": "nfl|6806|rotoballer|221755|1789929907000",
-      "title": "J.K. Dobbins Questionable to Return on Sunday with Hamstring Injury",
-      "url": "https://www.rotoballer.com/player-news/j-k-dobbins-questionable-to-return-on-sunday-with-hamstring-injury/1945945"
-    },
-    {
-      "analysis": "Bowers underwent a meniscus trim in his left knee on Sept. 8, and while he'll miss the first two games of the campaign as a result, he did practice in a limited capacity Friday, and Ian Rapoport of NFL Network reported Sunday morning that the stud tight end is likely to make his season debut Week 3 in New Orleans. In Bowers' continued absence, though, Michael Mayer will act as the primary TE for the Raiders.",
-      "description": "Bowers (knee) is inactive for Sunday's game at the Chargers.",
-      "metadata": {
-        "analysis": "Bowers underwent a meniscus trim in his left knee on Sept. 8, and while he'll miss the first two games of the campaign as a result, he did practice in a limited capacity Friday, and Ian Rapoport of NFL Network reported Sunday morning that the stud tight end is likely to make his season debut Week 3 in New Orleans. In Bowers' continued absence, though, Michael Mayer will act as the primary TE for the Raiders.",
-        "description": "Bowers (knee) is inactive for Sunday's game at the Chargers.",
-        "title": "Brock Bowers - Inactive again in Week 2",
-        "topic_id": "1407473148328173569"
-      },
-      "nfl_team": "LV",
-      "player_id": "11604",
-      "player_name": "Brock Bowers",
-      "position": "TE",
-      "published": 1789929828000,
-      "source": "rotowire",
-      "source_key": "638180",
-      "story_id": "nfl|11604|rotowire|638180|1789929828000",
-      "title": "Brock Bowers - Inactive again in Week 2",
-      "url": null
-    },
-    {
-      "analysis": "Barkley was seen on the sidelines holding his helmet after his first half injury and he did not return prior to halftime. Barkley took a carry in the third quarter and appears poised to return as the primary running back for the remainder of the game. ",
-      "description": "Eagles RB Saquon Barkley (stinger) has returned to the game in the second half against the Titans. ",
-      "metadata": {
-        "analysis": "Barkley was seen on the sidelines holding his helmet after his first half injury and he did not return prior to halftime. Barkley took a carry in the third quarter and appears poised to return as the primary running back for the remainder of the game. ",
-        "description": "Eagles RB Saquon Barkley (stinger) has returned to the game in the second half against the Titans. ",
-        "title": "Saquon Barkley (stinger) returns to the game ",
-        "topic_id": "1407470632945364992",
-        "url": "https://www.fantasypros.com/nfl/news/609254/saquon-barkley-stinger-returns-to-game.php"
-      },
-      "nfl_team": "PHI",
-      "player_id": "4866",
-      "player_name": "Saquon Barkley",
-      "position": "RB",
-      "published": 1789929657745,
-      "source": "fantasy_pros",
-      "source_key": "609254",
-      "story_id": "nfl|4866|fantasy_pros|609254|1789929657745",
-      "title": "Saquon Barkley (stinger) returns to the game ",
-      "url": "https://www.fantasypros.com/nfl/news/609254/saquon-barkley-stinger-returns-to-game.php"
-    },
-    {
-      "analysis": "Harvey will not suit up after being unable to progress throughout the week for the Broncos. J.K. Dobbins will lead the Denver backfield attack with Jonah Coleman to see increased snaps against the Jaguars for head coach Sean Payton Sunday.",
-      "description": "RJ Harvey (hamstring) is inactive for Week 2 for the Denver Broncos against the Jacksonville Jaguars.",
-      "metadata": {
-        "analysis": "Harvey will not suit up after being unable to progress throughout the week for the Broncos. J.K. Dobbins will lead the Denver backfield attack with Jonah Coleman to see increased snaps against the Jaguars for head coach Sean Payton Sunday.",
-        "description": "RJ Harvey (hamstring) is inactive for Week 2 for the Denver Broncos against the Jacksonville Jaguars.",
-        "title": "RJ Harvey (hamstring) inactive for Week 2",
-        "topic_id": "1407470632865673216",
-        "url": "https://www.fantasypros.com/nfl/news/609255/rj-harvey-hamstring-inactive-week-2.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "12489",
-      "player_name": "RJ Harvey",
-      "position": "RB",
-      "published": 1789929657722,
-      "source": "fantasy_pros",
-      "source_key": "609255",
-      "story_id": "nfl|12489|fantasy_pros|609255|1789929657722",
-      "title": "RJ Harvey (hamstring) inactive for Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609255/rj-harvey-hamstring-inactive-week-2.php"
-    },
-    {
-      "analysis": "Harvey opened Week 2 prep as a non-participant on the Broncos' initial injury report due to a hamstring issue, which he followed up with back-to-back limited sessions and a questionable designation entering the weekend. Having said that, Adam Schefter of ESPN reported Sunday morning that Harvey was unlikely to play, and that's been confirmed as Denver posted its list of inactives. J.K. Dobbins will pace the backfield Sunday, while rookie Jonah Coleman and Tyler Badie also will be on hand for RB reps.",
-      "description": "Harvey (hamstring) is inactive for Sunday's game against the Jaguars, Susanna Weir of the Broncos' official site reports.",
-      "metadata": {
-        "analysis": "Harvey opened Week 2 prep as a non-participant on the Broncos' initial injury report due to a hamstring issue, which he followed up with back-to-back limited sessions and a questionable designation entering the weekend. Having said that, Adam Schefter of ESPN reported Sunday morning that Harvey was unlikely to play, and that's been confirmed as Denver posted its list of inactives. J.K. Dobbins will pace the backfield Sunday, while rookie Jonah Coleman and Tyler Badie also will be on hand for RB reps.",
-        "description": "Harvey (hamstring) is inactive for Sunday's game against the Jaguars, Susanna Weir of the Broncos' official site reports.",
-        "title": "RJ Harvey - Inactive in Week 2",
-        "topic_id": "1407470630697181184"
-      },
-      "nfl_team": "DEN",
-      "player_id": "12489",
-      "player_name": "RJ Harvey",
-      "position": "RB",
-      "published": 1789929563000,
-      "source": "rotowire",
-      "source_key": "638178",
-      "story_id": "nfl|12489|rotowire|638178|1789929563000",
-      "title": "RJ Harvey - Inactive in Week 2",
-      "url": null
-    },
-    {
-      "analysis": "After suffering a stinger on a carry for no gain on the Eagles' first offensive snap, Barkley sat out the rest of the first half while making trips to the medical tent on the sideline as well as the locker room. The Eagles had listed Barkley as questionable to return, and the running back apparently responded well enough to treatment for the team to send him back on the field to begin the second half.",
-      "description": "Barkley (shoulder) returned to Sunday's game against the Titans for the start of the third quarter, Brooks Kubena of The Athletic reports.",
-      "metadata": {
-        "analysis": "After suffering a stinger on a carry for no gain on the Eagles' first offensive snap, Barkley sat out the rest of the first half while making trips to the medical tent on the sideline as well as the locker room. The Eagles had listed Barkley as questionable to return, and the running back apparently responded well enough to treatment for the team to send him back on the field to begin the second half.",
-        "description": "Barkley (shoulder) returned to Sunday's game against the Titans for the start of the third quarter, Brooks Kubena of The Athletic reports.",
-        "title": "Saquon Barkley - Checks back into Sunday's game",
-        "topic_id": "1407470630709764096"
-      },
-      "nfl_team": "PHI",
-      "player_id": "4866",
-      "player_name": "Saquon Barkley",
-      "position": "RB",
-      "published": 1789929542000,
-      "source": "rotowire",
-      "source_key": "638177",
-      "story_id": "nfl|4866|rotowire|638177|1789929542000",
-      "title": "Saquon Barkley - Checks back into Sunday's game",
-      "url": null
-    },
-    {
-      "analysis": "Separate reports leading up to the game indicated that McConkey intended to play, and he will indeed suit up for Week 2. McConkey is apparently playing through a cracked rib and will sport a flak jacket, so while he will be out there, it's unclear if he will fill his usual role.",
-      "description": "McConkey (ribs) is listed as active for Sunday's game against the Raiders, Kris Rhim of ESPN.com reports.",
-      "metadata": {
-        "analysis": "Separate reports leading up to the game indicated that McConkey intended to play, and he will indeed suit up for Week 2. McConkey is apparently playing through a cracked rib and will sport a flak jacket, so while he will be out there, it's unclear if he will fill his usual role.",
-        "description": "McConkey (ribs) is listed as active for Sunday's game against the Raiders, Kris Rhim of ESPN.com reports.",
-        "title": "Ladd McConkey - Active for Week 2",
-        "topic_id": "1407470630642655232"
-      },
-      "nfl_team": "LAC",
-      "player_id": "11635",
-      "player_name": "Ladd McConkey",
-      "position": "WR",
-      "published": 1789929358000,
-      "source": "rotowire",
-      "source_key": "638176",
-      "story_id": "nfl|11635|rotowire|638176|1789929358000",
-      "title": "Ladd McConkey - Active for Week 2",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Pittsburgh Steelers quarterback Aaron Rodgers completed 23 of 39 pass attempts for 187 yards and an interception in a 20-3 loss to the New England Patriots. He added five rushing yards on one carry and lost one of his two fumbles. It was an afternoon to forget for the entire Pittsburgh offense, which totaled just 235 yards, while Rodgers was sacked four times for a loss of 43 yards. Although Rodgers' interception wasn't necessarily his fault, as rookie wideout Germie Bernard bobbled the pass into the hands of a defender, the 42-year-old missed on multiple throws throughout the contest. Next week's divisional showdown with the Cincinnati Bengals should present a more favorable matchup, but Cincinnati's defense has been impressive through two weeks. Rodgers remains off the fantasy radar in all single-quarterback leagues.",
-      "metadata": {
-        "description": "Pittsburgh Steelers quarterback Aaron Rodgers completed 23 of 39 pass attempts for 187 yards and an interception in a 20-3 loss to the New England Patriots. He added five rushing yards on one carry and lost one of his two fumbles. It was an afternoon to forget for the entire Pittsburgh offense, which totaled just 235 yards, while Rodgers was sacked four times for a loss of 43 yards. Although Rodgers' interception wasn't necessarily his fault, as rookie wideout Germie Bernard bobbled the pass into the hands of a defender, the 42-year-old missed on multiple throws throughout the contest. Next week's divisional showdown with the Cincinnati Bengals should present a more favorable matchup, but Cincinnati's defense has been impressive through two weeks. Rodgers remains off the fantasy radar in all single-quarterback leagues.",
-        "title": "Aaron Rodgers Struggles in Week 2 Loss",
-        "topic_id": "1407528516337061888",
-        "url": "https://www.rotoballer.com/player-news/aaron-rodgers-struggles-in-week-2-loss/1945938"
-      },
-      "nfl_team": "PIT",
-      "player_id": "96",
-      "player_name": "Aaron Rodgers",
-      "position": "QB",
-      "published": 1789928620000,
-      "source": "rotoballer",
-      "source_key": "221753",
-      "story_id": "nfl|96|rotoballer|221753|1789928620000",
-      "title": "Aaron Rodgers Struggles in Week 2 Loss",
-      "url": "https://www.rotoballer.com/player-news/aaron-rodgers-struggles-in-week-2-loss/1945938"
-    },
-    {
-      "analysis": "Goedert appeared to have suffered the injury blocking in the second quarter. Johnny Mundt will see an increase in snaps with Goedert sidelined. ",
-      "description": "Eagles TE Dallas Goedert (ankle) is officially listed as questionable to return Sunday. ",
-      "metadata": {
-        "analysis": "Goedert appeared to have suffered the injury blocking in the second quarter. Johnny Mundt will see an increase in snaps with Goedert sidelined. ",
-        "description": "Eagles TE Dallas Goedert (ankle) is officially listed as questionable to return Sunday. ",
-        "title": "Dallas Goedert (ankle) questionable to return ",
-        "topic_id": "1407463081616904192",
-        "url": "https://www.fantasypros.com/nfl/news/609251/dallas-goedert-ankle-questionable-to-return.php"
-      },
-      "nfl_team": "PHI",
-      "player_id": "5022",
-      "player_name": "Dallas Goedert",
-      "position": "TE",
-      "published": 1789927857366,
-      "source": "fantasy_pros",
-      "source_key": "609251",
-      "story_id": "nfl|5022|fantasy_pros|609251|1789927857366",
-      "title": "Dallas Goedert (ankle) questionable to return ",
-      "url": "https://www.fantasypros.com/nfl/news/609251/dallas-goedert-ankle-questionable-to-return.php"
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers wide receiver Demarcus Robinson (ankle) is out for the rest of the team's game against the Miami Dolphins with an ankle injury, according to Matt Barrows of The Athletic. He was carted off and taken to the locker room. Robinson had three catches and 34 receiving yards in the game prior to suffering the injury. He was the team's leading wide receiver in receiving yardage before exiting the game. Robinson had two catches for 50 yards and a touchdown in San Francisco's Week 1 win over the Los Angeles Rams. With rookie second-rounder De'Zhaun Stribling (ankle) out for 10 weeks, San Fran's pass-catching corps is getting dangerously thin only two games into the regular season.",
-      "metadata": {
-        "description": "San Francisco 49ers wide receiver Demarcus Robinson (ankle) is out for the rest of the team's game against the Miami Dolphins with an ankle injury, according to Matt Barrows of The Athletic. He was carted off and taken to the locker room. Robinson had three catches and 34 receiving yards in the game prior to suffering the injury. He was the team's leading wide receiver in receiving yardage before exiting the game. Robinson had two catches for 50 yards and a touchdown in San Francisco's Week 1 win over the Los Angeles Rams. With rookie second-rounder De'Zhaun Stribling (ankle) out for 10 weeks, San Fran's pass-catching corps is getting dangerously thin only two games into the regular season.",
-        "title": "Demarcus Robinson Out With An Ankle Injury",
-        "topic_id": "1407522224168054784",
-        "url": "https://www.rotoballer.com/player-news/demarcus-robinson-out-with-an-ankle-injury/1945930"
-      },
-      "nfl_team": "SF",
-      "player_id": "3286",
-      "player_name": "Demarcus Robinson",
-      "position": "WR",
-      "published": 1789927269000,
-      "source": "rotoballer",
-      "source_key": "221751",
-      "story_id": "nfl|3286|rotoballer|221751|1789927269000",
-      "title": "Demarcus Robinson Out With An Ankle Injury",
-      "url": "https://www.rotoballer.com/player-news/demarcus-robinson-out-with-an-ankle-injury/1945930"
-    },
-    {
-      "analysis": "Goedert reeled in one of two targets for a four-yard gain before leaving the game in the first half after he appeared to get upended while run blocking, per Jeff McLane of The Philadelphia Inquirer. According to McLane, Goedert checked into the medical tent to be evaluated further, but the Eagles could examine him more thoroughly in the locker room before deciding whether he's able to return to the contest. The Eagles will be left with Johnny Mundt and E.J. Jenkins as their options at tight end if Goedert ends up sitting out for the rest of the game.",
-      "description": "Goedert is questionable to return to Sunday's game against the Titans due to a knee injury.",
-      "metadata": {
-        "analysis": "Goedert reeled in one of two targets for a four-yard gain before leaving the game in the first half after he appeared to get upended while run blocking, per Jeff McLane of The Philadelphia Inquirer. According to McLane, Goedert checked into the medical tent to be evaluated further, but the Eagles could examine him more thoroughly in the locker room before deciding whether he's able to return to the contest. The Eagles will be left with Johnny Mundt and E.J. Jenkins as their options at tight end if Goedert ends up sitting out for the rest of the game.",
-        "description": "Goedert is questionable to return to Sunday's game against the Titans due to a knee injury.",
-        "title": "Dallas Goedert - Iffy to return due to knee injury",
-        "topic_id": "1407460562761228288"
-      },
-      "nfl_team": "PHI",
-      "player_id": "5022",
-      "player_name": "Dallas Goedert",
-      "position": "TE",
-      "published": 1789927036000,
-      "source": "rotowire",
-      "source_key": "638163",
-      "story_id": "nfl|5022|rotowire|638163|1789927036000",
-      "title": "Dallas Goedert - Iffy to return due to knee injury",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Green Bay Packers wide receiver Jayden Reed (neck) has movement in all his extremities and will remain in New York overnight, according to Packers head coach Matt LaFleur, ESPN Packers Insider Rob Demovsky reports. Reed took a hard hit and remained on the field in a scary scene early on in the Packers' 20-17 overtime victory over the New York Jets. Reed did not have the chance to make an impact in the Week 2 game and was carted off the field after his teammates took to a knee around him on the field. It was a scary scene, and the news that he has movement in his extremities is a positive sign after a potentially devastating head injury. Reed had three catches for 20 yards in the team's Week 1 loss to the Vikings.",
-      "metadata": {
-        "description": "Green Bay Packers wide receiver Jayden Reed (neck) has movement in all his extremities and will remain in New York overnight, according to Packers head coach Matt LaFleur, ESPN Packers Insider Rob Demovsky reports. Reed took a hard hit and remained on the field in a scary scene early on in the Packers' 20-17 overtime victory over the New York Jets. Reed did not have the chance to make an impact in the Week 2 game and was carted off the field after his teammates took to a knee around him on the field. It was a scary scene, and the news that he has movement in his extremities is a positive sign after a potentially devastating head injury. Reed had three catches for 20 yards in the team's Week 1 loss to the Vikings.",
-        "title": "Jayden Reed Has Movement In All His Extremities",
-        "topic_id": "1407519707149479936",
-        "url": "https://www.rotoballer.com/player-news/jayden-reed-has-movement-in-all-his-extremities/1945923"
-      },
-      "nfl_team": "GB",
-      "player_id": "10222",
-      "player_name": "Jayden Reed",
-      "position": "WR",
-      "published": 1789926608000,
-      "source": "rotoballer",
-      "source_key": "221750",
-      "story_id": "nfl|10222|rotoballer|221750|1789926608000",
-      "title": "Jayden Reed Has Movement In All His Extremities",
-      "url": "https://www.rotoballer.com/player-news/jayden-reed-has-movement-in-all-his-extremities/1945923"
-    },
-    {
-      "analysis": "Reed was carted off the field on the Packers' second play of the day. The Packers will rely on Christian Watson and Matthew Golden as the two primary wide receivers for the remainder of Sunday's game against the Jets. ",
-      "description": "The Packers have ruled out WR Jayden Reed for the remainder of Week 2 with a neck injury. ",
-      "metadata": {
-        "analysis": "Reed was carted off the field on the Packers' second play of the day. The Packers will rely on Christian Watson and Matthew Golden as the two primary wide receivers for the remainder of Sunday's game against the Jets. ",
-        "description": "The Packers have ruled out WR Jayden Reed for the remainder of Week 2 with a neck injury. ",
-        "title": "Jayden Reed (neck) ruled out ",
-        "topic_id": "1407455530967986176",
-        "url": "https://www.fantasypros.com/nfl/news/609250/jayden-reed-neck-ruled-out.php"
-      },
-      "nfl_team": "GB",
-      "player_id": "10222",
-      "player_name": "Jayden Reed",
-      "position": "WR",
-      "published": 1789926057148,
-      "source": "fantasy_pros",
-      "source_key": "609250",
-      "story_id": "nfl|10222|fantasy_pros|609250|1789926057148",
-      "title": "Jayden Reed (neck) ruled out ",
-      "url": "https://www.fantasypros.com/nfl/news/609250/jayden-reed-neck-ruled-out.php"
-    },
-    {
-      "analysis": "Reed took a major hit from a Jets' defender and was placed on a backboard and carted off the field. The Packers should update the status of his injury soon. ",
-      "description": "Packers WR Jayden Reed was carted off the field Sunday. ",
-      "metadata": {
-        "analysis": "Reed took a major hit from a Jets' defender and was placed on a backboard and carted off the field. The Packers should update the status of his injury soon. ",
-        "description": "Packers WR Jayden Reed was carted off the field Sunday. ",
-        "title": "Jayden Reed carted off Sunday ",
-        "topic_id": "1407453014893113344",
-        "url": "https://www.fantasypros.com/nfl/news/609247/jayden-reed-carted-off-sunday.php"
-      },
-      "nfl_team": "GB",
-      "player_id": "10222",
-      "player_name": "Jayden Reed",
-      "position": "WR",
-      "published": 1789925457269,
-      "source": "fantasy_pros",
-      "source_key": "609247",
-      "story_id": "nfl|10222|fantasy_pros|609247|1789925457269",
-      "title": "Jayden Reed carted off Sunday ",
-      "url": "https://www.fantasypros.com/nfl/news/609247/jayden-reed-carted-off-sunday.php"
-    },
-    {
-      "analysis": "Barkley suffered the injury early in the first quarter for the Eagles, with Tank Bigsby and Will Shipley taking over the backfield for head coach Nick Sirianni against the Titans.",
-      "description": "Saquon Barkley (stinger) is questionable to return for the Philadelphia Eagles against the Tennessee Titans Sunday according to Mike Garafolo.",
-      "metadata": {
-        "analysis": "Barkley suffered the injury early in the first quarter for the Eagles, with Tank Bigsby and Will Shipley taking over the backfield for head coach Nick Sirianni against the Titans.",
-        "description": "Saquon Barkley (stinger) is questionable to return for the Philadelphia Eagles against the Tennessee Titans Sunday according to Mike Garafolo.",
-        "title": "Saquon Barkley (stinger) questionable to return Sunday",
-        "topic_id": "1407453014834393088",
-        "url": "https://www.fantasypros.com/nfl/news/609248/saquon-barkley-stinger-questionable-to-return-sunday.php"
-      },
-      "nfl_team": "PHI",
-      "player_id": "4866",
-      "player_name": "Saquon Barkley",
-      "position": "RB",
-      "published": 1789925457256,
-      "source": "fantasy_pros",
-      "source_key": "609248",
-      "story_id": "nfl|4866|fantasy_pros|609248|1789925457256",
-      "title": "Saquon Barkley (stinger) questionable to return Sunday",
-      "url": "https://www.fantasypros.com/nfl/news/609248/saquon-barkley-stinger-questionable-to-return-sunday.php"
-    },
-    {
-      "analysis": "Reed was placed on a backboard and carted off the field after the Packers' second offensive snap, and a neck injury was to blame for his early exit. With Reed sidelined for the rest of Week 2, Christian Watson, Matthew Golden, Skyy Moore, Bo Melton and J. Michael Sturdivant will handle WR reps for the Packers.",
-      "description": "Reed has been ruled out of Sunday's game at the Jets due to a neck injury.",
-      "metadata": {
-        "analysis": "Reed was placed on a backboard and carted off the field after the Packers' second offensive snap, and a neck injury was to blame for his early exit. With Reed sidelined for the rest of Week 2, Christian Watson, Matthew Golden, Skyy Moore, Bo Melton and J. Michael Sturdivant will handle WR reps for the Packers.",
-        "description": "Reed has been ruled out of Sunday's game at the Jets due to a neck injury.",
-        "title": "Jayden Reed - Won't return Sunday",
-        "topic_id": "1407453012078628865"
-      },
-      "nfl_team": "GB",
-      "player_id": "10222",
-      "player_name": "Jayden Reed",
-      "position": "WR",
-      "published": 1789925370000,
-      "source": "rotowire",
-      "source_key": "638156",
-      "story_id": "nfl|10222|rotowire|638156|1789925370000",
-      "title": "Jayden Reed - Won't return Sunday",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Atlanta Falcons running back Bijan Robinson failed to find the end zone in a relatively tame output in the Falcons' blowout loss to the Carolina Panthers. Robinson rushed 16 times for 72 yards and caught two passes for 16 receiving yards but did not score a touchdown as the team struggled in a 34-3 loss to Carolina. The effort for Robinson was disappointing given that he was one of the top two picks in fantasy drafts. The 72 rushing yards are not a terrible output, but the fact that he and the team failed to score a touchdown is a huge letdown, especially against a Panthers defense that allowed 50-plus points in Week 1 to the Chicago Bears. The Falcons are currently playing their third-string quarterback in Cooper Rush, so that definitely hampers the offense. There are early reports that Michael Penix could return for Week 3, so that would help the entire offense, including Robinson's output.",
-      "metadata": {
-        "description": "Atlanta Falcons running back Bijan Robinson failed to find the end zone in a relatively tame output in the Falcons' blowout loss to the Carolina Panthers. Robinson rushed 16 times for 72 yards and caught two passes for 16 receiving yards but did not score a touchdown as the team struggled in a 34-3 loss to Carolina. The effort for Robinson was disappointing given that he was one of the top two picks in fantasy drafts. The 72 rushing yards are not a terrible output, but the fact that he and the team failed to score a touchdown is a huge letdown, especially against a Panthers defense that allowed 50-plus points in Week 1 to the Chicago Bears. The Falcons are currently playing their third-string quarterback in Cooper Rush, so that definitely hampers the offense. There are early reports that Michael Penix could return for Week 3, so that would help the entire offense, including Robinson's output.",
-        "title": "Bijan Robinson Underwhelming In Blowout Loss To Panthers",
-        "topic_id": "1407513414254743552",
-        "url": "https://www.rotoballer.com/player-news/bijan-robinson-underwhelming-in-blowout-loss-to-panthers/1945910"
-      },
-      "nfl_team": "ATL",
-      "player_id": "9509",
-      "player_name": "Bijan Robinson",
-      "position": "RB",
-      "published": 1789925107000,
-      "source": "rotoballer",
-      "source_key": "221748",
-      "story_id": "nfl|9509|rotoballer|221748|1789925107000",
-      "title": "Bijan Robinson Underwhelming In Blowout Loss To Panthers",
-      "url": "https://www.rotoballer.com/player-news/bijan-robinson-underwhelming-in-blowout-loss-to-panthers/1945910"
-    },
-    {
-      "analysis": "Barkley appeared to be favoring his left shoulder after he was tackled to the ground on a carry during the Eagles' first offensive play of the game. The running back headed to the locker room shortly after the play in question and is receiving further treatment for the injury while the Eagles determine whether or not he's able to return. Tank Bigsby and Will Shipley will likely share work out of the backfield if Barkley ends up being shut down for the rest of the contest.",
-      "description": "The Eagles announced that Barkley is questionable to return to Sunday's game against the Titans due to a stinger.",
-      "metadata": {
-        "analysis": "Barkley appeared to be favoring his left shoulder after he was tackled to the ground on a carry during the Eagles' first offensive play of the game. The running back headed to the locker room shortly after the play in question and is receiving further treatment for the injury while the Eagles determine whether or not he's able to return. Tank Bigsby and Will Shipley will likely share work out of the backfield if Barkley ends up being shut down for the rest of the contest.",
-        "description": "The Eagles announced that Barkley is questionable to return to Sunday's game against the Titans due to a stinger.",
-        "title": "Saquon Barkley - Questionable to return to Week 2",
-        "topic_id": "1407453012078628864"
-      },
-      "nfl_team": "PHI",
-      "player_id": "4866",
-      "player_name": "Saquon Barkley",
-      "position": "RB",
-      "published": 1789925079000,
-      "source": "rotowire",
-      "source_key": "638155",
-      "story_id": "nfl|4866|rotowire|638155|1789925079000",
-      "title": "Saquon Barkley - Questionable to return to Week 2",
-      "url": null
-    },
-    {
-      "analysis": "Barkley sustained the injury on a zero-yard carry on the Eagles' first offensive play of the game. After a brief trip to the medical tent on the sideline, Barkley jogged back to the locker room to be checked out further. The Eagles should have an update on the star running back's status shortly.",
-      "description": "Barkley headed to the locker room during the first quarter of Sunday's game against the Titans to be evaluated for an apparent left arm injury, Jeff McLane of The Philadelphia Inquirer reports.",
-      "metadata": {
-        "analysis": "Barkley sustained the injury on a zero-yard carry on the Eagles' first offensive play of the game. After a brief trip to the medical tent on the sideline, Barkley jogged back to the locker room to be checked out further. The Eagles should have an update on the star running back's status shortly.",
-        "description": "Barkley headed to the locker room during the first quarter of Sunday's game against the Titans to be evaluated for an apparent left arm injury, Jeff McLane of The Philadelphia Inquirer reports.",
-        "title": "Saquon Barkley - Tending to left arm injury",
-        "topic_id": "1407450495701811200"
-      },
-      "nfl_team": "PHI",
-      "player_id": "4866",
-      "player_name": "Saquon Barkley",
-      "position": "RB",
-      "published": 1789924776000,
-      "source": "rotowire",
-      "source_key": "638154",
-      "story_id": "nfl|4866|rotowire|638154|1789924776000",
-      "title": "Saquon Barkley - Tending to left arm injury",
-      "url": null
-    },
-    {
-      "analysis": "On the Packers' second offensive snap, Reed remained on the turf and was moved to a backboard before being placed on the cart to head to the locker room. The nature of his injury isn't known, but if he's unable to return, the Packers will be down to Christian Watson, Matthew Golden, Skyy Moore, Bo Melton and J. Michael Sturdivant at wide receiver in Week 2.",
-      "description": "Reed (undisclosed) was carted off the field during Sunday's game at the Jets, Weston Hodkiewicz of the Packers' official site reports.",
-      "metadata": {
-        "analysis": "On the Packers' second offensive snap, Reed remained on the turf and was moved to a backboard before being placed on the cart to head to the locker room. The nature of his injury isn't known, but if he's unable to return, the Packers will be down to Christian Watson, Matthew Golden, Skyy Moore, Bo Melton and J. Michael Sturdivant at wide receiver in Week 2.",
-        "description": "Reed (undisclosed) was carted off the field during Sunday's game at the Jets, Weston Hodkiewicz of the Packers' official site reports.",
-        "title": "Jayden Reed - Gets carted off field",
-        "topic_id": "1407450495701811201"
-      },
-      "nfl_team": "GB",
-      "player_id": "10222",
-      "player_name": "Jayden Reed",
-      "position": "WR",
-      "published": 1789924753000,
-      "source": "rotowire",
-      "source_key": "638153",
-      "story_id": "nfl|10222|rotowire|638153|1789924753000",
-      "title": "Jayden Reed - Gets carted off field",
       "url": null
     }
   ]
