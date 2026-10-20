@@ -21462,12 +21462,12 @@
       ],
       "first_name": "Jacory",
       "full_name": "Jacory Croskey-Merritt",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Croskey-Merritt",
       "nfl_team": "WAS",
       "player_id": "12533",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 1
     },
     "12534": {
@@ -22287,7 +22287,7 @@
       ],
       "first_name": "Davante",
       "full_name": "Davante Adams",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "Adams",
       "nfl_team": "LAR",
       "player_id": "2133",
@@ -22317,7 +22317,7 @@
       ],
       "first_name": "Mike",
       "full_name": "Mike Evans",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Evans",
       "nfl_team": "SF",
       "player_id": "2216",
@@ -22347,7 +22347,7 @@
       ],
       "first_name": "Stefon",
       "full_name": "Stefon Diggs",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Diggs",
       "nfl_team": "WAS",
       "player_id": "2449",
@@ -23682,12 +23682,12 @@
       ],
       "first_name": "Romeo",
       "full_name": "Romeo Doubs",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Doubs",
       "nfl_team": "NE",
       "player_id": "8121",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 4
     },
     "8126": {
@@ -24793,8 +24793,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-19T14:01:50Z",
-    "source_fingerprint": "b2fe1c5928b23ada80520d452b02f3394c0ddef8966b42ffeadc93e91b506d6d"
+    "last_changed_at": "2026-10-19T23:08:22Z",
+    "source_fingerprint": "e54be36fdcd96a0ff37c456f0f4fd516e0a9995aa94cc0f2c81fdb7ff7ff29b7"
   },
   "teams": [
     {
