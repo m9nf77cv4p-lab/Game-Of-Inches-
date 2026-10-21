@@ -17,8 +17,8 @@
 - Brock Purdy — QB — SF
 - Jalen Hurts — QB — PHI
 - Shedeur Sanders — QB — CLE — taxi
-- Brian Robinson — RB — ATL
-- Chris Rodriguez — RB — JAX
+- Brian Robinson Jr. — RB — ATL
+- Chris Rodriguez Jr. — RB — JAX
 - Christian McCaffrey — RB — SF
 - Derrick Henry — RB — BAL
 - Justice Hill — RB — BAL
@@ -28,7 +28,7 @@
 - Noah Fant — TE — NO
 - Travis Kelce — TE — KC
 - Davante Adams — WR — LAR
-- Deebo Samuel — WR — SF — reserve/IR
+- Deebo Samuel Sr. — WR — SF — reserve/IR
 - Demarcus Robinson — WR — SF — reserve/IR
 - Elic Ayomanor — WR — TEN
 - Jalen Nailor — WR — LV
