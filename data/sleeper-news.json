@@ -1,11 +1,11 @@
 {
-  "last_checked_at": "2026-10-21T06:39:28Z",
+  "last_checked_at": "2026-10-21T12:25:55Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 303,
   "new_story_ids": [
-    "nfl|11565|rotoballer|224926|1792534694000",
-    "nfl|13421|rotoballer|224924|1792533627000",
-    "nfl|1373|rotoballer|224923|1792532876000"
+    "nfl|12718|fantasy_pros|612941|1791517849699",
+    "nfl|12718|rotoballer|224850|1792448170000",
+    "nfl|12718|rotowire|643535|1792544831000"
   ],
   "schema_version": 1,
   "source": {
@@ -33,6 +33,26 @@
       "source_key": "643542",
       "story_id": "nfl|3634|rotowire|643542|1792545754000",
       "title": "Kalif Raymond - Catches both targets in win",
+      "url": null
+    },
+    {
+      "analysis": "Mumpfield was on the field for only five offensive snaps against the Bills in Week 5, but he was more involved against the Cardinals with 27 offensive snaps. That snap count figures to increase for the Rams' next few games, seeing as Davante Adams is facing a 6-to-10 week recovery timeline for a ruptured left hamstring that required surgery, per Ian Rapoport of NFL Network. The Rams will hit the road for Week 7 against the Raiders, whose defense ranks 25th in fantasy points allowed to opposing wide receivers.",
+      "description": "Mumpfield caught two of three passes for 15 yards during the Rams' 18-16 loss to the Cardinals on Sunday.",
+      "metadata": {
+        "analysis": "Mumpfield was on the field for only five offensive snaps against the Bills in Week 5, but he was more involved against the Cardinals with 27 offensive snaps. That snap count figures to increase for the Rams' next few games, seeing as Davante Adams is facing a 6-to-10 week recovery timeline for a ruptured left hamstring that required surgery, per Ian Rapoport of NFL Network. The Rams will hit the road for Week 7 against the Raiders, whose defense ranks 25th in fantasy points allowed to opposing wide receivers.",
+        "description": "Mumpfield caught two of three passes for 15 yards during the Rams' 18-16 loss to the Cardinals on Sunday.",
+        "title": "Konata Mumpfield - Two catches against Arizona",
+        "topic_id": "1418440373616848896"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12718",
+      "player_name": "Konata Mumpfield",
+      "position": "WR",
+      "published": 1792544831000,
+      "source": "rotowire",
+      "source_key": "643535",
+      "story_id": "nfl|12718|rotowire|643535|1792544831000",
+      "title": "Konata Mumpfield - Two catches against Arizona",
       "url": null
     },
     {
@@ -2658,6 +2678,26 @@
       "story_id": "nfl|5849|rotoballer|224851|1792448534000",
       "title": "Kyler Murray is Gaining Traction Ahead of Favorable Matchup",
       "url": "https://www.rotoballer.com/player-news/kyler-murray-is-gaining-traction-ahead-of-favorable-matchup/1970739"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Konata Mumpfield is likely going to have an expanded role in the offense going forward. Fellow wide receiver Davante Adams (hamstring) is set to miss about two months of action due to a ruptured left hamstring. His absence will likely mean that Mumpfield moves into the No. 2 role in the receiving room. Mumpfield has mostly been quiet this season outside of a four-catch performance where he notched 93 receiving yards in Week 3. Fantasy managers in deep leagues that are looking for help should consider adding Mumpfield with Adams sidelined for the foreseeable future.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Konata Mumpfield is likely going to have an expanded role in the offense going forward. Fellow wide receiver Davante Adams (hamstring) is set to miss about two months of action due to a ruptured left hamstring. His absence will likely mean that Mumpfield moves into the No. 2 role in the receiving room. Mumpfield has mostly been quiet this season outside of a four-catch performance where he notched 93 receiving yards in Week 3. Fantasy managers in deep leagues that are looking for help should consider adding Mumpfield with Adams sidelined for the foreseeable future.",
+        "title": "Konata Mumpfield is Moving up the Depth Chart",
+        "topic_id": "1418095541010657280",
+        "url": "https://www.rotoballer.com/player-news/konata-mumpfield-is-moving-up-the-depth-chart/1970732"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12718",
+      "player_name": "Konata Mumpfield",
+      "position": "WR",
+      "published": 1792448170000,
+      "source": "rotoballer",
+      "source_key": "224850",
+      "story_id": "nfl|12718|rotoballer|224850|1792448170000",
+      "title": "Konata Mumpfield is Moving up the Depth Chart",
+      "url": "https://www.rotoballer.com/player-news/konata-mumpfield-is-moving-up-the-depth-chart/1970732"
     },
     {
       "analysis": null,
@@ -53985,6 +54025,27 @@
       "story_id": "nfl|12514|fantasy_pros|612940|1791517849711",
       "title": "Emeka Egbuka runs in touchdown in win",
       "url": "https://www.fantasypros.com/nfl/news/612940/emeka-egbuka-runs-touchdown-win.php"
+    },
+    {
+      "analysis": "It looks like Mumpfield's shoulder injury is nothing serious, as he was able to log a full practice session to start the week on Thursday. He should be a full go for Week 5.",
+      "description": "Konata Mumpfield (shoulder) logged a full practice session on Thursday.",
+      "metadata": {
+        "analysis": "It looks like Mumpfield's shoulder injury is nothing serious, as he was able to log a full practice session to start the week on Thursday. He should be a full go for Week 5.",
+        "description": "Konata Mumpfield (shoulder) logged a full practice session on Thursday.",
+        "title": "Konata Mumpfield (shoulder) logs full practice Thursday",
+        "topic_id": "1414131992831791104",
+        "url": "https://www.fantasypros.com/nfl/news/612941/konata-mumpfield-shoulder-logs-full-practice-thursday.php"
+      },
+      "nfl_team": "LAR",
+      "player_id": "12718",
+      "player_name": "Konata Mumpfield",
+      "position": "WR",
+      "published": 1791517849699,
+      "source": "fantasy_pros",
+      "source_key": "612941",
+      "story_id": "nfl|12718|fantasy_pros|612941|1791517849699",
+      "title": "Konata Mumpfield (shoulder) logs full practice Thursday",
+      "url": "https://www.fantasypros.com/nfl/news/612941/konata-mumpfield-shoulder-logs-full-practice-thursday.php"
     },
     {
       "analysis": "Williams' rushing opportunities were somewhat capped by a surprising second-half game script that included a 17-0 third-quarter advantage for Tampa Bay. However, the veteran running back had gotten Dallas started off on the right foot in the first quarter, when he capped off a nine-play opening drive with a one-yard touchdown run. Williams did a respectable job throughout the night grinding out yards against a tough Buccaneers run defense, but he's now averaged less than 3.8 yards per carry in four of the first five games, including two straight. Nevertheless, Williams does have six rushing touchdowns in the same span, and he should have a good chance at a heftier workload on the ground in a Week 6 road matchup against the Packers on Sunday, Oct. 18.",
@@ -129468,725 +129529,6 @@
       "story_id": "nfl|1166|fantasy_pros|609537|1789993804501",
       "title": "Kirk Cousins tosses three touchdowns in win Sunday",
       "url": "https://www.fantasypros.com/nfl/news/609537/kirk-cousins-tosses-three-touchdowns-win-sunday.php"
-    },
-    {
-      "analysis": null,
-      "description": "When asked if wide receiver Brandon Aiyuk (knee) is an option amidst all of the team's injuries at the receiver position, San Francisco 49ers head coach Kyle Shanahan said, \"No,\" according to Matt Barrows of The Athletic. Going into the Week 2 game against the Miami Dolphins, the 49ers had already lost receiver Ricky Pearsall (knee) for the entire season and rookie second-rounder De'Zhaun Stribling (ankle) for around 10 weeks. In Sunday's blowout victory over Miami, veteran Mike Evans left with a hip injury, and Demarcus Robinson suffered what is believed to be a high-ankle sprain. Still, Aiyuk, who missed all of last year after having surgery to fix a torn ACL and MCL in his knee, remains on the left-team list and is not an option to play for the organization going forward. The former first-rounder is likely healthy enough to play, but they have moved on from Aiyuk after he failed to attend mandatory rehab sessions and meetings last year. Aiyuk must formally apply for reinstatement with the NFL to force a release from the Niners, which does not appear to be happening anytime soon. Evans is expected to be fine, but with Robinson likely missing around a month, Jacob Cowing, KhaDarel Hodge, and Jordan Watskins will be asked to step up behind Evans and Deebo Samuel Sr. moving forward.",
-      "metadata": {
-        "description": "When asked if wide receiver Brandon Aiyuk (knee) is an option amidst all of the team's injuries at the receiver position, San Francisco 49ers head coach Kyle Shanahan said, \"No,\" according to Matt Barrows of The Athletic. Going into the Week 2 game against the Miami Dolphins, the 49ers had already lost receiver Ricky Pearsall (knee) for the entire season and rookie second-rounder De'Zhaun Stribling (ankle) for around 10 weeks. In Sunday's blowout victory over Miami, veteran Mike Evans left with a hip injury, and Demarcus Robinson suffered what is believed to be a high-ankle sprain. Still, Aiyuk, who missed all of last year after having surgery to fix a torn ACL and MCL in his knee, remains on the left-team list and is not an option to play for the organization going forward. The former first-rounder is likely healthy enough to play, but they have moved on from Aiyuk after he failed to attend mandatory rehab sessions and meetings last year. Aiyuk must formally apply for reinstatement with the NFL to force a release from the Niners, which does not appear to be happening anytime soon. Evans is expected to be fine, but with Robinson likely missing around a month, Jacob Cowing, KhaDarel Hodge, and Jordan Watskins will be asked to step up behind Evans and Deebo Samuel Sr. moving forward.",
-        "title": "Brandon Aiyuk Still Not an Option for Banged-Up 49ers",
-        "topic_id": "1407798823572504576",
-        "url": "https://www.rotoballer.com/player-news/brandon-aiyuk-still-not-an-option-for-banged-up-49ers/1946611"
-      },
-      "nfl_team": "SF",
-      "player_id": "6803",
-      "player_name": "Brandon Aiyuk",
-      "position": "WR",
-      "published": 1789993333000,
-      "source": "rotoballer",
-      "source_key": "221832",
-      "story_id": "nfl|6803|rotoballer|221832|1789993333000",
-      "title": "Brandon Aiyuk Still Not an Option for Banged-Up 49ers",
-      "url": "https://www.rotoballer.com/player-news/brandon-aiyuk-still-not-an-option-for-banged-up-49ers/1946611"
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers running back Kaelon Black remains a strong Week 3 waiver target despite a quieter showing against Miami. Black carried seven times for 25 yards after handling 14 carries for 65 yards in the opener, and he played roughly one-third of the offensive snaps Sunday. Christian McCaffrey remains the clear lead back and handled both goal-line touchdowns, so Black's standalone value is still somewhat dependent on game script. Even so, San Francisco has given the rookie 21 carries through two games, which is enough to make his role worth taking seriously. RotoBaller currently recommends adding Black in 10-team leagues and deeper, viewing him as one of fantasy's better handcuffs with some standalone appeal. He does not need to be forced into lineups every week, but the combination of regular rushing work and the upside he would carry if McCaffrey missed time makes Black a worthwhile waiver add rather than a bench-only lottery ticket.",
-      "metadata": {
-        "description": "San Francisco 49ers running back Kaelon Black remains a strong Week 3 waiver target despite a quieter showing against Miami. Black carried seven times for 25 yards after handling 14 carries for 65 yards in the opener, and he played roughly one-third of the offensive snaps Sunday. Christian McCaffrey remains the clear lead back and handled both goal-line touchdowns, so Black's standalone value is still somewhat dependent on game script. Even so, San Francisco has given the rookie 21 carries through two games, which is enough to make his role worth taking seriously. RotoBaller currently recommends adding Black in 10-team leagues and deeper, viewing him as one of fantasy's better handcuffs with some standalone appeal. He does not need to be forced into lineups every week, but the combination of regular rushing work and the upside he would carry if McCaffrey missed time makes Black a worthwhile waiver add rather than a bench-only lottery ticket.",
-        "title": "Kaelon Black Keeps a Useful Role Behind Starting RB",
-        "topic_id": "1407793790546087936",
-        "url": "https://www.rotoballer.com/player-news/kaelon-black-keeps-a-useful-role-behind-christian-mccaffrey/1946584"
-      },
-      "nfl_team": "SF",
-      "player_id": "4034",
-      "player_name": "Christian McCaffrey",
-      "position": "RB",
-      "published": 1789991895000,
-      "source": "rotoballer",
-      "source_key": "221829",
-      "story_id": "nfl|4034|rotoballer|221829|1789991895000",
-      "title": "Kaelon Black Keeps a Useful Role Behind Starting RB",
-      "url": "https://www.rotoballer.com/player-news/kaelon-black-keeps-a-useful-role-behind-christian-mccaffrey/1946584"
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Chargers tight end Oronde Gadsden has become a much more interesting Week 3 waiver option after injuries thinned out the position Sunday. David Njoku was carted off with a knee injury and did not return, while Charlie Kolar later left with a forearm injury and was also unable to come back. Gadsden caught both of his targets for 18 yards, including a 10-yard touchdown from Justin Herbert. The volume was still modest, so this is not a must-add situation in every league yet. The opportunity could change quickly, though. Gadsden caught 49 passes for 664 yards and three touchdowns as a rookie last season, and he could move into a much larger role if Njoku or Kolar misses time. Through two games, he has caught all four of his targets for 50 yards and a score. Gadsden is a strong add in 12-team leagues, with his Week 3 value depending heavily on the injury updates ahead of him.",
-      "metadata": {
-        "description": "Los Angeles Chargers tight end Oronde Gadsden has become a much more interesting Week 3 waiver option after injuries thinned out the position Sunday. David Njoku was carted off with a knee injury and did not return, while Charlie Kolar later left with a forearm injury and was also unable to come back. Gadsden caught both of his targets for 18 yards, including a 10-yard touchdown from Justin Herbert. The volume was still modest, so this is not a must-add situation in every league yet. The opportunity could change quickly, though. Gadsden caught 49 passes for 664 yards and three touchdowns as a rookie last season, and he could move into a much larger role if Njoku or Kolar misses time. Through two games, he has caught all four of his targets for 50 yards and a score. Gadsden is a strong add in 12-team leagues, with his Week 3 value depending heavily on the injury updates ahead of him.",
-        "title": "Oronde Gadsden Gains Waiver Appeal After Tight End Injuries",
-        "topic_id": "1407791273317814272",
-        "url": "https://www.rotoballer.com/player-news/oronde-gadsden-gains-waiver-appeal-after-tight-end-injuries/1946576"
-      },
-      "nfl_team": "LAC",
-      "player_id": "12493",
-      "player_name": "Oronde Gadsden",
-      "position": "TE",
-      "published": 1789991176000,
-      "source": "rotoballer",
-      "source_key": "221828",
-      "story_id": "nfl|12493|rotoballer|221828|1789991176000",
-      "title": "Oronde Gadsden Gains Waiver Appeal After Tight End Injuries",
-      "url": "https://www.rotoballer.com/player-news/oronde-gadsden-gains-waiver-appeal-after-tight-end-injuries/1946576"
-    },
-    {
-      "analysis": null,
-      "description": "Philadelphia Eagles running back Tank Bigsby has become one of the more interesting handcuffs on the Week 3 waiver wire. Saquon Barkley left Sunday's win over Tennessee with a stinger and is scheduled for an MRI Monday, leaving his status for next week uncertain. Bigsby took advantage of the added work, carrying 13 times for 33 yards and a three-yard touchdown while catching two passes for five yards. Will Shipley was involved too and actually played more snaps, so Bigsby should not be viewed as a guaranteed three-down replacement if Barkley misses time. Still, Bigsby led Philadelphia in carries and rushing yards after Barkley went down, and RotoBaller currently lists him as the preferred Eagles handcuff. With Barkley able to return briefly in the second half, Bigsby is better viewed as a top stash than a must-add everywhere for now. His value would rise quickly if Monday's MRI reveals an injury that could cost Barkley time.",
-      "metadata": {
-        "description": "Philadelphia Eagles running back Tank Bigsby has become one of the more interesting handcuffs on the Week 3 waiver wire. Saquon Barkley left Sunday's win over Tennessee with a stinger and is scheduled for an MRI Monday, leaving his status for next week uncertain. Bigsby took advantage of the added work, carrying 13 times for 33 yards and a three-yard touchdown while catching two passes for five yards. Will Shipley was involved too and actually played more snaps, so Bigsby should not be viewed as a guaranteed three-down replacement if Barkley misses time. Still, Bigsby led Philadelphia in carries and rushing yards after Barkley went down, and RotoBaller currently lists him as the preferred Eagles handcuff. With Barkley able to return briefly in the second half, Bigsby is better viewed as a top stash than a must-add everywhere for now. His value would rise quickly if Monday's MRI reveals an injury that could cost Barkley time.",
-        "title": "Tank Bigsby Becomes a Top Handcuff After Week 2",
-        "topic_id": "1407784981304008704",
-        "url": "https://www.rotoballer.com/player-news/tank-bigsby-becomes-a-top-handcuff-after-week-2/1946542"
-      },
-      "nfl_team": "PHI",
-      "player_id": "9225",
-      "player_name": "Tank Bigsby",
-      "position": "RB",
-      "published": 1789989845000,
-      "source": "rotoballer",
-      "source_key": "221826",
-      "story_id": "nfl|9225|rotoballer|221826|1789989845000",
-      "title": "Tank Bigsby Becomes a Top Handcuff After Week 2",
-      "url": "https://www.rotoballer.com/player-news/tank-bigsby-becomes-a-top-handcuff-after-week-2/1946542"
-    },
-    {
-      "analysis": null,
-      "description": "Cleveland Browns wide receiver Denzel Boston has moved beyond speculative-stash territory after another productive game. The rookie caught five of seven targets for 95 yards and a touchdown in Sunday's 23-19 win over Tampa Bay, giving him 154 yards and two scores through his first two NFL games. Boston also led Cleveland in routes, targets and receiving yards in Week 2, which makes the performance more interesting than simply chasing his 55-yard touchdown. He drew only four targets in the opener, so the jump to seven is another encouraging sign. There is still some uncertainty with a rookie playing in an offense that may not support big receiving numbers every week, but Boston has already started both games and his role grew in Week 2. RotoBaller currently lists him as its top wide receiver waiver pickup and calls him a must-add. Fantasy managers in leagues where Boston remains available should treat him as a priority claim rather than a long-term stash.",
-      "metadata": {
-        "description": "Cleveland Browns wide receiver Denzel Boston has moved beyond speculative-stash territory after another productive game. The rookie caught five of seven targets for 95 yards and a touchdown in Sunday's 23-19 win over Tampa Bay, giving him 154 yards and two scores through his first two NFL games. Boston also led Cleveland in routes, targets and receiving yards in Week 2, which makes the performance more interesting than simply chasing his 55-yard touchdown. He drew only four targets in the opener, so the jump to seven is another encouraging sign. There is still some uncertainty with a rookie playing in an offense that may not support big receiving numbers every week, but Boston has already started both games and his role grew in Week 2. RotoBaller currently lists him as its top wide receiver waiver pickup and calls him a must-add. Fantasy managers in leagues where Boston remains available should treat him as a priority claim rather than a long-term stash.",
-        "title": "Denzel Boston Looks Like a Must-Add After Week 2",
-        "topic_id": "1407782464507621376",
-        "url": "https://www.rotoballer.com/player-news/denzel-boston-looks-like-a-must-add-after-week-2/1946531"
-      },
-      "nfl_team": "CLE",
-      "player_id": "13346",
-      "player_name": "Denzel Boston",
-      "position": "WR",
-      "published": 1789989126000,
-      "source": "rotoballer",
-      "source_key": "221825",
-      "story_id": "nfl|13346|rotoballer|221825|1789989126000",
-      "title": "Denzel Boston Looks Like a Must-Add After Week 2",
-      "url": "https://www.rotoballer.com/player-news/denzel-boston-looks-like-a-must-add-after-week-2/1946531"
-    },
-    {
-      "analysis": null,
-      "description": "Philadelphia Eagles running back Saquon Barkley (stinger) missed a portion of Sunday's Week 2 contest against the Tennessee Titans. According to Ian Rapoport, the injury is not believed to be serious, but he will still undergo an MRI on Monday as a precaution. Barkley exited during the first half of the victory, and while he did return later on, the team limited his workload. He finished Week 2 with just 20 scrimmage yards on five total touches, ceding work to Tank Bigsby and Will Shipley. So far, it seems like Barkley merely suffered a stinger, which is an uncomfortable but non-serious injury that occurs when a player pinches a nerve. Stingers rarely require players to miss extended time, so if the MRI rules out any structural damage, we'd expect to see Barkley back in his every-down role next week against the Chicago Bears.",
-      "metadata": {
-        "description": "Philadelphia Eagles running back Saquon Barkley (stinger) missed a portion of Sunday's Week 2 contest against the Tennessee Titans. According to Ian Rapoport, the injury is not believed to be serious, but he will still undergo an MRI on Monday as a precaution. Barkley exited during the first half of the victory, and while he did return later on, the team limited his workload. He finished Week 2 with just 20 scrimmage yards on five total touches, ceding work to Tank Bigsby and Will Shipley. So far, it seems like Barkley merely suffered a stinger, which is an uncomfortable but non-serious injury that occurs when a player pinches a nerve. Stingers rarely require players to miss extended time, so if the MRI rules out any structural damage, we'd expect to see Barkley back in his every-down role next week against the Chicago Bears.",
-        "title": "Saquon Barkley Likely Avoided a Serious Injury",
-        "topic_id": "1407778689877282816",
-        "url": "https://www.rotoballer.com/player-news/saquon-barkley-likely-avoided-a-serious-injury/1946516"
-      },
-      "nfl_team": "PHI",
-      "player_id": "4866",
-      "player_name": "Saquon Barkley",
-      "position": "RB",
-      "published": 1789988348000,
-      "source": "rotoballer",
-      "source_key": "221824",
-      "story_id": "nfl|4866|rotoballer|221824|1789988348000",
-      "title": "Saquon Barkley Likely Avoided a Serious Injury",
-      "url": "https://www.rotoballer.com/player-news/saquon-barkley-likely-avoided-a-serious-injury/1946516"
-    },
-    {
-      "analysis": null,
-      "description": "Philadelphia Eagles tight end Dallas Goedert (knee) will undergo an MRI on Monday to determine the severity of his injury, according to Ian Rapoport of NFL.com. Rapoport noted that a player undergoing an MRI on their knee typically indicates that they'll miss time, but managers should stay tuned for further updates on his status. The 31-year-old exited during the first half of Sunday's win over the Titans and did not return, finishing Week 2 with just one catch for four yards. Goedert is a major part of the Eagles' offense, and he represents one of Jalen Hurts' most reliable and physical targets after AJ Brown was traded to New England during the offseason. The tight end had 77 yards and two catches during his last fully healthy game in Week 1, so the Eagles and fantasy managers will hope his absence doesn't last too long. Assuming he does miss time, Johnny Mundt would step up as the team's primary tight end.",
-      "metadata": {
-        "description": "Philadelphia Eagles tight end Dallas Goedert (knee) will undergo an MRI on Monday to determine the severity of his injury, according to Ian Rapoport of NFL.com. Rapoport noted that a player undergoing an MRI on their knee typically indicates that they'll miss time, but managers should stay tuned for further updates on his status. The 31-year-old exited during the first half of Sunday's win over the Titans and did not return, finishing Week 2 with just one catch for four yards. Goedert is a major part of the Eagles' offense, and he represents one of Jalen Hurts' most reliable and physical targets after AJ Brown was traded to New England during the offseason. The tight end had 77 yards and two catches during his last fully healthy game in Week 1, so the Eagles and fantasy managers will hope his absence doesn't last too long. Assuming he does miss time, Johnny Mundt would step up as the team's primary tight end.",
-        "title": "Dallas Goedert Set to Undergo MRI on Monday",
-        "topic_id": "1407774916186488832",
-        "url": "https://www.rotoballer.com/player-news/dallas-goedert-set-to-undergo-mri-on-monday/1946500"
-      },
-      "nfl_team": "PHI",
-      "player_id": "5022",
-      "player_name": "Dallas Goedert",
-      "position": "TE",
-      "published": 1789987208000,
-      "source": "rotoballer",
-      "source_key": "221823",
-      "story_id": "nfl|5022|rotoballer|221823|1789987208000",
-      "title": "Dallas Goedert Set to Undergo MRI on Monday",
-      "url": "https://www.rotoballer.com/player-news/dallas-goedert-set-to-undergo-mri-on-monday/1946500"
-    },
-    {
-      "analysis": null,
-      "description": "Seattle Seahawks running back Emanuel Wilson took on an enormous workload in Week 2, making him a high-priority waiver wire target for Week 3 and beyond. The Seahawks cruised to victory over the Cardinals, prompting them to run the ball 40 times as they looked to drain the clock. Wilson was a big part of that effort, rushing for 92 yards on 21 attempts. It's worth noting that Wilson's role did grow after Jadarian Price (chest) exited in the second half, but he was still well on his way to a substantial workload even before the rookie left the game. Price's status is something to consider when placing a claim for Wilson this week. It's evident the Seahawks want to get Wilson involved no matter what, but he'd likely only get 20+ touches again if Price were to miss a game. The 27-year-old doesn't have much receiving upside, but he's a high-volume running back with decent efficiency numbers and touchdown upside. He should be a priority waiver wire target in Week 3 with the potential to earn a spot in fantasy lineups right away.",
-      "metadata": {
-        "description": "Seattle Seahawks running back Emanuel Wilson took on an enormous workload in Week 2, making him a high-priority waiver wire target for Week 3 and beyond. The Seahawks cruised to victory over the Cardinals, prompting them to run the ball 40 times as they looked to drain the clock. Wilson was a big part of that effort, rushing for 92 yards on 21 attempts. It's worth noting that Wilson's role did grow after Jadarian Price (chest) exited in the second half, but he was still well on his way to a substantial workload even before the rookie left the game. Price's status is something to consider when placing a claim for Wilson this week. It's evident the Seahawks want to get Wilson involved no matter what, but he'd likely only get 20+ touches again if Price were to miss a game. The 27-year-old doesn't have much receiving upside, but he's a high-volume running back with decent efficiency numbers and touchdown upside. He should be a priority waiver wire target in Week 3 with the potential to earn a spot in fantasy lineups right away.",
-        "title": "Emanuel Wilson a Priority Waiver-Wire Target with Teammate Injured",
-        "topic_id": "1407771140503437312",
-        "url": "https://www.rotoballer.com/player-news/emanuel-wilson-a-priority-waiver-wire-target-with-teammate-injured/1946491"
-      },
-      "nfl_team": "SEA",
-      "player_id": "11435",
-      "player_name": "Emanuel Wilson",
-      "position": "RB",
-      "published": 1789986427000,
-      "source": "rotoballer",
-      "source_key": "221822",
-      "story_id": "nfl|11435|rotoballer|221822|1789986427000",
-      "title": "Emanuel Wilson a Priority Waiver-Wire Target with Teammate Injured",
-      "url": "https://www.rotoballer.com/player-news/emanuel-wilson-a-priority-waiver-wire-target-with-teammate-injured/1946491"
-    },
-    {
-      "analysis": "Bryant was shut out just one week after leading the Broncos in receiving. Such is life as a complementary option in a Sean Payton offense. Bryant will be a boom/bust flex option in fantasy heading into Week 3 against the Rams.",
-      "description": "Pat Bryant was unable to catch his lone target in a 20-13 win over the Jaguars in Week 2. He did add a 16-yard rush in the win. ",
-      "metadata": {
-        "analysis": "Bryant was shut out just one week after leading the Broncos in receiving. Such is life as a complementary option in a Sean Payton offense. Bryant will be a boom/bust flex option in fantasy heading into Week 3 against the Rams.",
-        "description": "Pat Bryant was unable to catch his lone target in a 20-13 win over the Jaguars in Week 2. He did add a 16-yard rush in the win. ",
-        "title": "Pat Bryant held without a catch in Week 2",
-        "topic_id": "1407708224894840832",
-        "url": "https://www.fantasypros.com/nfl/news/609514/pat-bryant-held-without-catch-week-2.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "12492",
-      "player_name": "Pat Bryant",
-      "position": "WR",
-      "published": 1789986304080,
-      "source": "fantasy_pros",
-      "source_key": "609514",
-      "story_id": "nfl|12492|fantasy_pros|609514|1789986304080",
-      "title": "Pat Bryant held without a catch in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609514/pat-bryant-held-without-catch-week-2.php"
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots wide receiver Romeo Doubs showed that he's capable of stepping in as the No. 1 target on offense in Week 2. Doubs saw an elevated snap and target share with AJ Brown (ankle) on injured reserve. After catching zero of three targets in the season opener, he bounced back on Sunday against the Steelers with four targets, three catches, and 96 yards. He's not exactly an alpha receiver like Brown, but he showed that he can provide some stability in the No. 1 role while Brown works to get healthy. Doubs also flashed big-play upside, as 63 of his yards came on one big play. He should continue to produce as a WR3 in fantasy football during next week's potential shootout against the Jacksonville Jaguars. Managers should strongly consider adding Doubs off waivers if he's still available.",
-      "metadata": {
-        "description": "New England Patriots wide receiver Romeo Doubs showed that he's capable of stepping in as the No. 1 target on offense in Week 2. Doubs saw an elevated snap and target share with AJ Brown (ankle) on injured reserve. After catching zero of three targets in the season opener, he bounced back on Sunday against the Steelers with four targets, three catches, and 96 yards. He's not exactly an alpha receiver like Brown, but he showed that he can provide some stability in the No. 1 role while Brown works to get healthy. Doubs also flashed big-play upside, as 63 of his yards came on one big play. He should continue to produce as a WR3 in fantasy football during next week's potential shootout against the Jacksonville Jaguars. Managers should strongly consider adding Doubs off waivers if he's still available.",
-        "title": "Romeo Doubs Shows Ability to Handle Top Receiving Role",
-        "topic_id": "1407769882468073472",
-        "url": "https://www.rotoballer.com/player-news/romeo-doubs-shows-ability-to-handle-top-receiving-role/1946487"
-      },
-      "nfl_team": "NE",
-      "player_id": "8121",
-      "player_name": "Romeo Doubs",
-      "position": "WR",
-      "published": 1789986133000,
-      "source": "rotoballer",
-      "source_key": "221821",
-      "story_id": "nfl|8121|rotoballer|221821|1789986133000",
-      "title": "Romeo Doubs Shows Ability to Handle Top Receiving Role",
-      "url": "https://www.rotoballer.com/player-news/romeo-doubs-shows-ability-to-handle-top-receiving-role/1946487"
-    },
-    {
-      "analysis": null,
-      "description": "New Orleans Saints running back Alvin Kamara returned from injury and immediately became the team's most involved running back in Week 2. He had an ugly showing on the ground with nine carries for 15 rushing yards, but he made up for it by catching five of his six targets (albeit for just seven total receiving yards). The yardage and efficiency numbers were miserable, but Kamara did what he does best: catch a ton of passes. As long as he stays healthy, there's nothing stopping him from fetching five-plus targets every week going forward, especially as the Saints continue to show that they're not willing to give Travis Etienne Jr. a large workload. This Saints offense looks quite impressive, so there should be plenty of volume for Kamara and even some scoring opportunities. He has low-end RB3/flex appeal in PPR leagues for Week 3 against the Las Vegas Raiders.",
-      "metadata": {
-        "description": "New Orleans Saints running back Alvin Kamara returned from injury and immediately became the team's most involved running back in Week 2. He had an ugly showing on the ground with nine carries for 15 rushing yards, but he made up for it by catching five of his six targets (albeit for just seven total receiving yards). The yardage and efficiency numbers were miserable, but Kamara did what he does best: catch a ton of passes. As long as he stays healthy, there's nothing stopping him from fetching five-plus targets every week going forward, especially as the Saints continue to show that they're not willing to give Travis Etienne Jr. a large workload. This Saints offense looks quite impressive, so there should be plenty of volume for Kamara and even some scoring opportunities. He has low-end RB3/flex appeal in PPR leagues for Week 3 against the Las Vegas Raiders.",
-        "title": "Alvin Kamara's Pass-Catching Role Warrants Waiver-Wire Consideration",
-        "topic_id": "1407768622616662017",
-        "url": "https://www.rotoballer.com/player-news/alvin-kamaras-pass-catching-role-warrants-waiver-wire-consideration/1946483"
-      },
-      "nfl_team": "NO",
-      "player_id": "4035",
-      "player_name": "Alvin Kamara",
-      "position": "RB",
-      "published": 1789986007000,
-      "source": "rotoballer",
-      "source_key": "221819",
-      "story_id": "nfl|4035|rotoballer|221819|1789986007000",
-      "title": "Alvin Kamara's Pass-Catching Role Warrants Waiver-Wire Consideration",
-      "url": "https://www.rotoballer.com/player-news/alvin-kamaras-pass-catching-role-warrants-waiver-wire-consideration/1946483"
-    },
-    {
-      "analysis": null,
-      "description": "Denver Broncos running back Jonah Coleman has emerged as the only healthy ball-carrier on offense, making him a priority waiver wire target in most fantasy football leagues. RJ Harvey (hamstring) missed Sunday's game entirely, while JK Dobbins (hamstring) exited early. Both players' statuses are murky for Week 3, leaving Coleman as the only sure thing in this backfield. He took on a substantial workload after Dobbins exited on Sunday, rushing 10 times for 39 yards and a touchdown. He also caught three passes for 19 receiving yards. Managers would like to see slightly higher rushing efficiency numbers from the rookie, but he certainly made up for it with the touchdown and his pass-catching work. If Dobbins and Harvey miss Week 3 or are less than 100%, Coleman would step up as a fringe top-24 fantasy running back versus the Los Angeles Rams.",
-      "metadata": {
-        "description": "Denver Broncos running back Jonah Coleman has emerged as the only healthy ball-carrier on offense, making him a priority waiver wire target in most fantasy football leagues. RJ Harvey (hamstring) missed Sunday's game entirely, while JK Dobbins (hamstring) exited early. Both players' statuses are murky for Week 3, leaving Coleman as the only sure thing in this backfield. He took on a substantial workload after Dobbins exited on Sunday, rushing 10 times for 39 yards and a touchdown. He also caught three passes for 19 receiving yards. Managers would like to see slightly higher rushing efficiency numbers from the rookie, but he certainly made up for it with the touchdown and his pass-catching work. If Dobbins and Harvey miss Week 3 or are less than 100%, Coleman would step up as a fringe top-24 fantasy running back versus the Los Angeles Rams.",
-        "title": "Jonah Coleman a Priority Waiver-Wire Target Atop Depth Chart",
-        "topic_id": "1407768622616662016",
-        "url": "https://www.rotoballer.com/player-news/jonah-coleman-a-priority-waiver-wire-target-atop-depth-chart/1946479"
-      },
-      "nfl_team": "DEN",
-      "player_id": "13345",
-      "player_name": "Jonah Coleman",
-      "position": "RB",
-      "published": 1789985789000,
-      "source": "rotoballer",
-      "source_key": "221820",
-      "story_id": "nfl|13345|rotoballer|221820|1789985789000",
-      "title": "Jonah Coleman a Priority Waiver-Wire Target Atop Depth Chart",
-      "url": "https://www.rotoballer.com/player-news/jonah-coleman-a-priority-waiver-wire-target-atop-depth-chart/1946479"
-    },
-    {
-      "analysis": "Dobbins left the game early with a hamstring injury after posting just 3.6 yards per carry. The veteran saw rookie Jonah Coleman take over and score a touchdown after the injury. Denver has yet to update Dobbins' injury status, but he can be considered questionable for Week 3 against the Rams. Coleman is a priority waiver add in all leagues where he's available this week.",
-      "description": "J.K. Dobbins carried the ball 10 times for 36 yards in a 20-13 win over the Jaguars in Week 2.",
-      "metadata": {
-        "analysis": "Dobbins left the game early with a hamstring injury after posting just 3.6 yards per carry. The veteran saw rookie Jonah Coleman take over and score a touchdown after the injury. Denver has yet to update Dobbins' injury status, but he can be considered questionable for Week 3 against the Rams. Coleman is a priority waiver add in all leagues where he's available this week.",
-        "description": "J.K. Dobbins carried the ball 10 times for 36 yards in a 20-13 win over the Jaguars in Week 2.",
-        "title": "J.K. Dobbins runs for 36 yards, injures hamstring in Week 2",
-        "topic_id": "1407705708291489792",
-        "url": "https://www.fantasypros.com/nfl/news/609510/jk-dobbins-runs-36-yards-injures-hamstring-week-2.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "6806",
-      "player_name": "J.K. Dobbins",
-      "position": "RB",
-      "published": 1789985704069,
-      "source": "fantasy_pros",
-      "source_key": "609510",
-      "story_id": "nfl|6806|fantasy_pros|609510|1789985704069",
-      "title": "J.K. Dobbins runs for 36 yards, injures hamstring in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609510/jk-dobbins-runs-36-yards-injures-hamstring-week-2.php"
-    },
-    {
-      "analysis": "Coleman got extra work after J.K. Dobbins left early with a hamstring injury. The rookie found the end zone for his first career touchdown on a three-yard run in the fourth quarter. If Dobbins is unable to play in Week 3 against the Rams, Coleman will be an RB2 consideration in fantasy leagues. He's a priority waiver add in all formats this week if he's available.",
-      "description": "Jonah Coleman carried the ball 10 times for 39 yards and a touchdown while catching all three of his targets for 19 yards in a 20-13 win over the Jaguars in Week 2.",
-      "metadata": {
-        "analysis": "Coleman got extra work after J.K. Dobbins left early with a hamstring injury. The rookie found the end zone for his first career touchdown on a three-yard run in the fourth quarter. If Dobbins is unable to play in Week 3 against the Rams, Coleman will be an RB2 consideration in fantasy leagues. He's a priority waiver add in all formats this week if he's available.",
-        "description": "Jonah Coleman carried the ball 10 times for 39 yards and a touchdown while catching all three of his targets for 19 yards in a 20-13 win over the Jaguars in Week 2.",
-        "title": "Jonah Coleman finds the end zone in Week 2",
-        "topic_id": "1407705708241158144",
-        "url": "https://www.fantasypros.com/nfl/news/609511/jonah-coleman-finds-end-zone-week-2.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "13345",
-      "player_name": "Jonah Coleman",
-      "position": "RB",
-      "published": 1789985704058,
-      "source": "fantasy_pros",
-      "source_key": "609511",
-      "story_id": "nfl|13345|fantasy_pros|609511|1789985704058",
-      "title": "Jonah Coleman finds the end zone in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609511/jonah-coleman-finds-end-zone-week-2.php"
-    },
-    {
-      "analysis": "Waddle led the Broncos in all receiving categories in the close win. More importantly, he bounced back after catching just one pass for two yards in Week 1. Waddle will be a solid WR2 heading into Week 3 against the Rams.",
-      "description": "Jaylen Waddle caught eight of his 10 targets for 138 yards in a 20-13 win over the Jaguars in Week 2.",
-      "metadata": {
-        "analysis": "Waddle led the Broncos in all receiving categories in the close win. More importantly, he bounced back after catching just one pass for two yards in Week 1. Waddle will be a solid WR2 heading into Week 3 against the Rams.",
-        "description": "Jaylen Waddle caught eight of his 10 targets for 138 yards in a 20-13 win over the Jaguars in Week 2.",
-        "title": "Jaylen Waddle bounces back in Week 2",
-        "topic_id": "1407705708178243584",
-        "url": "https://www.fantasypros.com/nfl/news/609512/jaylen-waddle-bounces-back-week-2.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "7526",
-      "player_name": "Jaylen Waddle",
-      "position": "WR",
-      "published": 1789985704045,
-      "source": "fantasy_pros",
-      "source_key": "609512",
-      "story_id": "nfl|7526|fantasy_pros|609512|1789985704045",
-      "title": "Jaylen Waddle bounces back in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609512/jaylen-waddle-bounces-back-week-2.php"
-    },
-    {
-      "analysis": "Sutton posted a pedestrian stat line in the Broncos' exciting comeback win. It is becoming a concern after he caught just two passes for 11 yards back in Week 1. The Broncos don't seem to be prioritizing getting him the ball as they have in past years, leaving Sutton as a risky flex option in Week 3 against the Rams.",
-      "description": "Courtland Sutton caught three of his four targets for 25 yards in a 20-13 win over the Jaguars in Week 2.",
-      "metadata": {
-        "analysis": "Sutton posted a pedestrian stat line in the Broncos' exciting comeback win. It is becoming a concern after he caught just two passes for 11 yards back in Week 1. The Broncos don't seem to be prioritizing getting him the ball as they have in past years, leaving Sutton as a risky flex option in Week 3 against the Rams.",
-        "description": "Courtland Sutton caught three of his four targets for 25 yards in a 20-13 win over the Jaguars in Week 2.",
-        "title": "Courtland Sutton held to 25 yards in Week 2",
-        "topic_id": "1407705708127911936",
-        "url": "https://www.fantasypros.com/nfl/news/609513/courtland-sutton-held-to-25-yards-week-2.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "5045",
-      "player_name": "Courtland Sutton",
-      "position": "WR",
-      "published": 1789985704032,
-      "source": "fantasy_pros",
-      "source_key": "609513",
-      "story_id": "nfl|5045|fantasy_pros|609513|1789985704032",
-      "title": "Courtland Sutton held to 25 yards in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609513/courtland-sutton-held-to-25-yards-week-2.php"
-    },
-    {
-      "analysis": null,
-      "description": "Jacksonville Jaguars wide receiver Brian Thomas Jr. was once again a non-factor in the offense on Sunday. He finished with three receptions for 40 yards in the season opener, and he registered the same stat line on Sunday. Thomas was targeted eight times in Week 2, which is an encouraging sign for fantasy managers. The 23-year-old hasn't been able to capture the same magic from his 2024 rookie campaign, when he finished with 1,282 receiving yards and 10 touchdowns. Thomas is too talented to continue posting these kinds of games, but fantasy managers might want to treat him as a WR3 going forward.",
-      "metadata": {
-        "description": "Jacksonville Jaguars wide receiver Brian Thomas Jr. was once again a non-factor in the offense on Sunday. He finished with three receptions for 40 yards in the season opener, and he registered the same stat line on Sunday. Thomas was targeted eight times in Week 2, which is an encouraging sign for fantasy managers. The 23-year-old hasn't been able to capture the same magic from his 2024 rookie campaign, when he finished with 1,282 receiving yards and 10 touchdowns. Thomas is too talented to continue posting these kinds of games, but fantasy managers might want to treat him as a WR3 going forward.",
-        "title": "Brian Thomas Jr. Continues Sluggish Start",
-        "topic_id": "1407766106076192768",
-        "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-continues-sluggish-start/1946470"
-      },
-      "nfl_team": "JAX",
-      "player_id": "11631",
-      "player_name": "Brian Thomas",
-      "position": "WR",
-      "published": 1789985405000,
-      "source": "rotoballer",
-      "source_key": "221818",
-      "story_id": "nfl|11631|rotoballer|221818|1789985405000",
-      "title": "Brian Thomas Jr. Continues Sluggish Start",
-      "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-continues-sluggish-start/1946470"
-    },
-    {
-      "analysis": "Nix and the Broncos got off to a very slow start on offense, scoring just two field goals heading into the fourth quarter. He then led two touchdown-scoring drives in the fourth quarter to complete the come-from-behind win. Nix has thrown for 419 yards and two touchdowns through the first two games of the season. He is looking like a QB2 in fantasy heading into Week 3's matchup against the Rams.",
-      "description": "Bo Nix completed 22 of his 31 passes for 288 yards, one touchdown, and one interception while adding five rushes for six yards in a 20-13 win over the Jaguars in Week 2.",
-      "metadata": {
-        "analysis": "Nix and the Broncos got off to a very slow start on offense, scoring just two field goals heading into the fourth quarter. He then led two touchdown-scoring drives in the fourth quarter to complete the come-from-behind win. Nix has thrown for 419 yards and two touchdowns through the first two games of the season. He is looking like a QB2 in fantasy heading into Week 3's matchup against the Rams.",
-        "description": "Bo Nix completed 22 of his 31 passes for 288 yards, one touchdown, and one interception while adding five rushes for six yards in a 20-13 win over the Jaguars in Week 2.",
-        "title": "Bo Nix throws for 288 yards, one TD in Week 2",
-        "topic_id": "1407703193017696256",
-        "url": "https://www.fantasypros.com/nfl/news/609509/bo-nix-throws-288-yards-one-td-week-2.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "11563",
-      "player_name": "Bo Nix",
-      "position": "QB",
-      "published": 1789985104383,
-      "source": "fantasy_pros",
-      "source_key": "609509",
-      "story_id": "nfl|11563|fantasy_pros|609509|1789985104383",
-      "title": "Bo Nix throws for 288 yards, one TD in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609509/bo-nix-throws-288-yards-one-td-week-2.php"
-    },
-    {
-      "analysis": "Strange was quiet in a game where the defenses led the way. The veteran tight end has now caught four of his five targets for 40 yards and a touchdown over two games. He will be on the TE2 radar in fantasy for his Week 3 matchup against the Patriots.",
-      "description": "Brenton Strange caught both of his targets for 17 yards in a 20-13 loss to the Broncos in Week 2.",
-      "metadata": {
-        "analysis": "Strange was quiet in a game where the defenses led the way. The veteran tight end has now caught four of his five targets for 40 yards and a touchdown over two games. He will be on the TE2 radar in fantasy for his Week 3 matchup against the Patriots.",
-        "description": "Brenton Strange caught both of his targets for 17 yards in a 20-13 loss to the Broncos in Week 2.",
-        "title": "Brenton Strange catches two balls in Week 2",
-        "topic_id": "1407703191553884160",
-        "url": "https://www.fantasypros.com/nfl/news/609506/brenton-strange-catches-two-balls-week-2.php"
-      },
-      "nfl_team": "JAX",
-      "player_id": "9480",
-      "player_name": "Brenton Strange",
-      "position": "TE",
-      "published": 1789985104034,
-      "source": "fantasy_pros",
-      "source_key": "609506",
-      "story_id": "nfl|9480|fantasy_pros|609506|1789985104034",
-      "title": "Brenton Strange catches two balls in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609506/brenton-strange-catches-two-balls-week-2.php"
-    },
-    {
-      "analysis": "Little hit field goals from 44 and 23 yards out in the game. The veteran kicker has hit four of his five field goals while going a perfect 5-for-5 on extra points through two games. He will take on the Patriots in Week 3.",
-      "description": "Cam Little made two of his three field goals and added an extra point in a 20-13 loss to the Broncos in Week 2.",
-      "metadata": {
-        "analysis": "Little hit field goals from 44 and 23 yards out in the game. The veteran kicker has hit four of his five field goals while going a perfect 5-for-5 on extra points through two games. He will take on the Patriots in Week 3.",
-        "description": "Cam Little made two of his three field goals and added an extra point in a 20-13 loss to the Broncos in Week 2.",
-        "title": "Cam Little makes two FGs in Week 2",
-        "topic_id": "1407703191478386688",
-        "url": "https://www.fantasypros.com/nfl/news/609507/cam-little-makes-two-fgs-week-2.php"
-      },
-      "nfl_team": "JAX",
-      "player_id": "11786",
-      "player_name": "Cam Little",
-      "position": "K",
-      "published": 1789985104016,
-      "source": "fantasy_pros",
-      "source_key": "609507",
-      "story_id": "nfl|11786|fantasy_pros|609507|1789985104016",
-      "title": "Cam Little makes two FGs in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609507/cam-little-makes-two-fgs-week-2.php"
-    },
-    {
-      "analysis": "Thomas seemed healthy after dealing with a shoulder injury in Week 1. He wound up finishing second on the Jags in all receiving categories while drawing an encouraging eight targets. Thomas is clearly behind Parker Washington in the pecking order, but he appears to be ahead of Jakobi Meyers, making him a solid WR3 in fantasy moving forward. He will face the Patriots in Week 3.",
-      "description": "Brian Thomas Jr. caught three of his eight targets for 40 yards in a 20-13 loss to the Broncos in Week 2.",
-      "metadata": {
-        "analysis": "Thomas seemed healthy after dealing with a shoulder injury in Week 1. He wound up finishing second on the Jags in all receiving categories while drawing an encouraging eight targets. Thomas is clearly behind Parker Washington in the pecking order, but he appears to be ahead of Jakobi Meyers, making him a solid WR3 in fantasy moving forward. He will face the Patriots in Week 3.",
-        "description": "Brian Thomas Jr. caught three of his eight targets for 40 yards in a 20-13 loss to the Broncos in Week 2.",
-        "title": "Brian Thomas Jr. goes for 40 yards in Week 2",
-        "topic_id": "1407700674229104640",
-        "url": "https://www.fantasypros.com/nfl/news/609505/brian-thomas-jr-goes-40-yards-week-2.php"
-      },
-      "nfl_team": "JAX",
-      "player_id": "11631",
-      "player_name": "Brian Thomas",
-      "position": "WR",
-      "published": 1789984503856,
-      "source": "fantasy_pros",
-      "source_key": "609505",
-      "story_id": "nfl|11631|fantasy_pros|609505|1789984503856",
-      "title": "Brian Thomas Jr. goes for 40 yards in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609505/brian-thomas-jr-goes-40-yards-week-2.php"
-    },
-    {
-      "analysis": "Rodriguez was quiet in the loss while Bhayshul Tuten went for 65 rushing yards and scored a one-yard touchdown. It appears that Tuten is pulling away from Rodriguez in the Jaguars' backfield committee after easily outproducing him across the first two games of the season. Rodriguez will not be a strong fantasy option heading into Week 3 against New England.",
-      "description": "Chris Rodriguez Jr. carried the ball six times for 13 yards and was not targeted in the passing game in a 20-13 loss to the Broncos in Week 2.",
-      "metadata": {
-        "analysis": "Rodriguez was quiet in the loss while Bhayshul Tuten went for 65 rushing yards and scored a one-yard touchdown. It appears that Tuten is pulling away from Rodriguez in the Jaguars' backfield committee after easily outproducing him across the first two games of the season. Rodriguez will not be a strong fantasy option heading into Week 3 against New England.",
-        "description": "Chris Rodriguez Jr. carried the ball six times for 13 yards and was not targeted in the passing game in a 20-13 loss to the Broncos in Week 2.",
-        "title": "Chris Rodriguez Jr. held to 13 yards in Week 2",
-        "topic_id": "1407700673176334336",
-        "url": "https://www.fantasypros.com/nfl/news/609502/chris-rodriguez-jr-held-to-13-yards-week-2.php"
-      },
-      "nfl_team": "JAX",
-      "player_id": "10219",
-      "player_name": "Chris Rodriguez",
-      "position": "RB",
-      "published": 1789984503608,
-      "source": "fantasy_pros",
-      "source_key": "609502",
-      "story_id": "nfl|10219|fantasy_pros|609502|1789984503608",
-      "title": "Chris Rodriguez Jr. held to 13 yards in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609502/chris-rodriguez-jr-held-to-13-yards-week-2.php"
-    },
-    {
-      "analysis": "Washington led the Jacksonville receivers in all receiving categories while nearly reaching 100 yards in a tough matchup against Denver. The veteran has been excellent through the first two games of the season, posting 12 catches for 181 yards and a touchdown. Clearly the alpha in the Jacksonville receiving room, Washington will be a low-end WR1/high-end WR2 in Week 3 against the Patriots.",
-      "description": "Parker Washington caught seven of his 12 targets for 98 yards in a 20-13 loss to the Broncos in Week 2.",
-      "metadata": {
-        "analysis": "Washington led the Jacksonville receivers in all receiving categories while nearly reaching 100 yards in a tough matchup against Denver. The veteran has been excellent through the first two games of the season, posting 12 catches for 181 yards and a touchdown. Clearly the alpha in the Jacksonville receiving room, Washington will be a low-end WR1/high-end WR2 in Week 3 against the Patriots.",
-        "description": "Parker Washington caught seven of his 12 targets for 98 yards in a 20-13 loss to the Broncos in Week 2.",
-        "title": "Parker Washington goes for 98 yards in Week 2",
-        "topic_id": "1407700673126002688",
-        "url": "https://www.fantasypros.com/nfl/news/609503/parker-washington-goes-98-yards-week-2.php"
-      },
-      "nfl_team": "JAX",
-      "player_id": "9487",
-      "player_name": "Parker Washington",
-      "position": "WR",
-      "published": 1789984503593,
-      "source": "fantasy_pros",
-      "source_key": "609503",
-      "story_id": "nfl|9487|fantasy_pros|609503|1789984503593",
-      "title": "Parker Washington goes for 98 yards in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609503/parker-washington-goes-98-yards-week-2.php"
-    },
-    {
-      "analysis": "Meyers didn't record his lone catch of the game until the fourth quarter as he took a backseat to both Parker Washington and Brian Thomas Jr. Meyers has now caught all three of his targets for 68 yards and a touchdown through two games this season. He will be a flex consideration heading into Week 3 against the Patriots.",
-      "description": "Jakobi Meyers caught his lone target for a 28-yard gain in a 20-13 loss to the Broncos in Week 2.",
-      "metadata": {
-        "analysis": "Meyers didn't record his lone catch of the game until the fourth quarter as he took a backseat to both Parker Washington and Brian Thomas Jr. Meyers has now caught all three of his targets for 68 yards and a touchdown through two games this season. He will be a flex consideration heading into Week 3 against the Patriots.",
-        "description": "Jakobi Meyers caught his lone target for a 28-yard gain in a 20-13 loss to the Broncos in Week 2.",
-        "title": "Jakobi Meyers held to one catch in Week 2",
-        "topic_id": "1407700673067282432",
-        "url": "https://www.fantasypros.com/nfl/news/609504/jakobi-meyers-held-to-one-catch-week-2.php"
-      },
-      "nfl_team": "JAX",
-      "player_id": "5947",
-      "player_name": "Jakobi Meyers",
-      "position": "WR",
-      "published": 1789984503580,
-      "source": "fantasy_pros",
-      "source_key": "609504",
-      "story_id": "nfl|5947|fantasy_pros|609504|1789984503580",
-      "title": "Jakobi Meyers held to one catch in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609504/jakobi-meyers-held-to-one-catch-week-2.php"
-    },
-    {
-      "analysis": null,
-      "description": "Washington Commanders wide receiver Stefon Diggs was solid in the season opener, but he managed to top that on Sunday. Diggs hauled in four receptions for 55 yards and a touchdown during his team debut. In Week 2, Diggs topped that with five receptions for 47 yards and two touchdowns in the loss to the Dallas Cowboys. Diggs hauled in his first score from Jayden Daniels (elbow) in the second quarter and found the end zone again in the fourth quarter with Marcus Mariota under center. Diggs has been impressive with nine receptions for 102 yards and three touchdowns this season. His fantasy value could take a hit if Daniels is forced to miss time due to injury.",
-      "metadata": {
-        "description": "Washington Commanders wide receiver Stefon Diggs was solid in the season opener, but he managed to top that on Sunday. Diggs hauled in four receptions for 55 yards and a touchdown during his team debut. In Week 2, Diggs topped that with five receptions for 47 yards and two touchdowns in the loss to the Dallas Cowboys. Diggs hauled in his first score from Jayden Daniels (elbow) in the second quarter and found the end zone again in the fourth quarter with Marcus Mariota under center. Diggs has been impressive with nine receptions for 102 yards and three touchdowns this season. His fantasy value could take a hit if Daniels is forced to miss time due to injury.",
-        "title": "Stefon Diggs Snags Two Touchdowns in Loss",
-        "topic_id": "1407762330405568512",
-        "url": "https://www.rotoballer.com/player-news/stefon-diggs-snags-two-touchdowns-in-loss/1946444"
-      },
-      "nfl_team": "WAS",
-      "player_id": "2449",
-      "player_name": "Stefon Diggs",
-      "position": "WR",
-      "published": 1789984445000,
-      "source": "rotoballer",
-      "source_key": "221817",
-      "story_id": "nfl|2449|rotoballer|221817|1789984445000",
-      "title": "Stefon Diggs Snags Two Touchdowns in Loss",
-      "url": "https://www.rotoballer.com/player-news/stefon-diggs-snags-two-touchdowns-in-loss/1946444"
-    },
-    {
-      "analysis": "Lawrence got the Jaguars off to a fast start as they were leading 10-3 at halftime, but the Broncos came to life on defense starting in the third quarter. Lawrence has now thrown for 434 yards and four touchdowns through the first two games of the season. He will be a solid QB1 in fantasy in Week 3 against the Patriots.",
-      "description": "Trevor Lawrence completed 17 of his 29 passes for 189 yards and an interception while adding six yards on two rushes in a 20-13 loss to the Broncos in Week 2.",
-      "metadata": {
-        "analysis": "Lawrence got the Jaguars off to a fast start as they were leading 10-3 at halftime, but the Broncos came to life on defense starting in the third quarter. Lawrence has now thrown for 434 yards and four touchdowns through the first two games of the season. He will be a solid QB1 in fantasy in Week 3 against the Patriots.",
-        "description": "Trevor Lawrence completed 17 of his 29 passes for 189 yards and an interception while adding six yards on two rushes in a 20-13 loss to the Broncos in Week 2.",
-        "title": "Trevor Lawrence throws for 189 yards in Week 2 loss",
-        "topic_id": "1407698155943845888",
-        "url": "https://www.fantasypros.com/nfl/news/609500/trevor-lawrence-throws-189-yards-week-2-loss.php"
-      },
-      "nfl_team": "JAX",
-      "player_id": "7523",
-      "player_name": "Trevor Lawrence",
-      "position": "QB",
-      "published": 1789983903450,
-      "source": "fantasy_pros",
-      "source_key": "609500",
-      "story_id": "nfl|7523|fantasy_pros|609500|1789983903450",
-      "title": "Trevor Lawrence throws for 189 yards in Week 2 loss",
-      "url": "https://www.fantasypros.com/nfl/news/609500/trevor-lawrence-throws-189-yards-week-2-loss.php"
-    },
-    {
-      "analysis": "Tuten punched in a one-yard touchdown in the second quarter to give the Jaguars an early 7-0 lead. The second-year back also vastly outproduced Chris Rodriguez Jr., who had just 13 yards on six carries. Tuten has now racked up 131 rushing yards through two games. He will be a solid RB2 in fantasy heading into Week 3 against the Patriots.",
-      "description": "Bhayshul Tuten carried the ball 13 times for 65 yards and a touchdown while catching both of his targets for minus-three yards in a 20-13 loss to the Broncos in Week 2.",
-      "metadata": {
-        "analysis": "Tuten punched in a one-yard touchdown in the second quarter to give the Jaguars an early 7-0 lead. The second-year back also vastly outproduced Chris Rodriguez Jr., who had just 13 yards on six carries. Tuten has now racked up 131 rushing yards through two games. He will be a solid RB2 in fantasy heading into Week 3 against the Patriots.",
-        "description": "Bhayshul Tuten carried the ball 13 times for 65 yards and a touchdown while catching both of his targets for minus-three yards in a 20-13 loss to the Broncos in Week 2.",
-        "title": "Bhayshul Tuten finds the end zone in Week 2",
-        "topic_id": "1407698155893514240",
-        "url": "https://www.fantasypros.com/nfl/news/609501/bhayshul-tuten-finds-end-zone-week-2.php"
-      },
-      "nfl_team": "JAX",
-      "player_id": "12490",
-      "player_name": "Bhayshul Tuten",
-      "position": "RB",
-      "published": 1789983903438,
-      "source": "fantasy_pros",
-      "source_key": "609501",
-      "story_id": "nfl|12490|fantasy_pros|609501|1789983903438",
-      "title": "Bhayshul Tuten finds the end zone in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609501/bhayshul-tuten-finds-end-zone-week-2.php"
-    },
-    {
-      "analysis": null,
-      "description": "Jacksonville Jaguars running back Bhayshul Tuten continued to find success on the ground this weekend. Tuten rushed for 66 yards in the season opener and did more of the same on Sunday. The 23-year-old rushed 13 times for 65 yards and scored a touchdown in the loss to the Denver Broncos. Coming out of training camp, the expectation was that Tuten and Chris Rodriguez Jr. would split up the lead back job in the backfield. That's not the case after two games; Rodriguez has only registered 36 yards on 12 carries. Tuten has piled up 131 yards and should continue to pull away with the lead back job in Jacksonville. Fantasy managers should be able to plug him in as a solid RB2 for the Week 3 matchup against the New England Patriots.",
-      "metadata": {
-        "description": "Jacksonville Jaguars running back Bhayshul Tuten continued to find success on the ground this weekend. Tuten rushed for 66 yards in the season opener and did more of the same on Sunday. The 23-year-old rushed 13 times for 65 yards and scored a touchdown in the loss to the Denver Broncos. Coming out of training camp, the expectation was that Tuten and Chris Rodriguez Jr. would split up the lead back job in the backfield. That's not the case after two games; Rodriguez has only registered 36 yards on 12 carries. Tuten has piled up 131 yards and should continue to pull away with the lead back job in Jacksonville. Fantasy managers should be able to plug him in as a solid RB2 for the Week 3 matchup against the New England Patriots.",
-        "title": "Bhayshul Tuten Gets into the End Zone",
-        "topic_id": "1407757296699748352",
-        "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-gets-into-the-end-zone/1946427"
-      },
-      "nfl_team": "JAX",
-      "player_id": "12490",
-      "player_name": "Bhayshul Tuten",
-      "position": "RB",
-      "published": 1789983308000,
-      "source": "rotoballer",
-      "source_key": "221816",
-      "story_id": "nfl|12490|rotoballer|221816|1789983308000",
-      "title": "Bhayshul Tuten Gets into the End Zone",
-      "url": "https://www.rotoballer.com/player-news/bhayshul-tuten-gets-into-the-end-zone/1946427"
-    },
-    {
-      "analysis": "Robinson was quiet in what was almost an upset win over the Eagles. The Titans only passed for 183 yards in the contest with Elic Ayomanor leading the way. Through two games in Tennessee, Robinson has caught six of his seven targets for 47 scoreless yards. He will need to see more frequent work moving forward to be trustworthy in fantasy. The Titans will face the Giants in Week 3.",
-      "description": "Wan'Dale Robinson caught his lone target for a nine-yard gain in a 24-20 loss to the Eagles in Week 2.",
-      "metadata": {
-        "analysis": "Robinson was quiet in what was almost an upset win over the Eagles. The Titans only passed for 183 yards in the contest with Elic Ayomanor leading the way. Through two games in Tennessee, Robinson has caught six of his seven targets for 47 scoreless yards. He will need to see more frequent work moving forward to be trustworthy in fantasy. The Titans will face the Giants in Week 3.",
-        "description": "Wan'Dale Robinson caught his lone target for a nine-yard gain in a 24-20 loss to the Eagles in Week 2.",
-        "title": "Wan'Dale Robinson held to one catch in Week 2",
-        "topic_id": "1407695641454387200",
-        "url": "https://www.fantasypros.com/nfl/news/609494/wandale-robinson-held-to-one-catch-week-2.php"
-      },
-      "nfl_team": "TEN",
-      "player_id": "8126",
-      "player_name": "Wan'Dale Robinson",
-      "position": "WR",
-      "published": 1789983303949,
-      "source": "fantasy_pros",
-      "source_key": "609494",
-      "story_id": "nfl|8126|fantasy_pros|609494|1789983303949",
-      "title": "Wan'Dale Robinson held to one catch in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609494/wandale-robinson-held-to-one-catch-week-2.php"
-    },
-    {
-      "analysis": "Ridley bounced back after not drawing a target in Week 1 but it was still a quiet performance for the veteran receiver. The Titans' passing game has not been very explosive through two games, which is making their pass-catchers hard to trust. Ridley will not be a strong fantasy option heading into Week 3 against the Giants.",
-      "description": "Calvin Ridley caught both of his targets for 35 yards in a 24-20 loss to the Eagles in Week 2.",
-      "metadata": {
-        "analysis": "Ridley bounced back after not drawing a target in Week 1 but it was still a quiet performance for the veteran receiver. The Titans' passing game has not been very explosive through two games, which is making their pass-catchers hard to trust. Ridley will not be a strong fantasy option heading into Week 3 against the Giants.",
-        "description": "Calvin Ridley caught both of his targets for 35 yards in a 24-20 loss to the Eagles in Week 2.",
-        "title": "Calvin Ridley goes for 35 yards in Week 2",
-        "topic_id": "1407695641399861248",
-        "url": "https://www.fantasypros.com/nfl/news/609495/calvin-ridley-goes-35-yards-week-2.php"
-      },
-      "nfl_team": "TEN",
-      "player_id": "4981",
-      "player_name": "Calvin Ridley",
-      "position": "WR",
-      "published": 1789983303937,
-      "source": "fantasy_pros",
-      "source_key": "609495",
-      "story_id": "nfl|4981|fantasy_pros|609495|1789983303937",
-      "title": "Calvin Ridley goes for 35 yards in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609495/calvin-ridley-goes-35-yards-week-2.php"
-    },
-    {
-      "analysis": "Ayomanor led the Titans in receiving in a game where they only passed for 183 yards. The second-year WR has been the Titans' best pass-catcher through two games, catching three passes for 80 yards and a touchdown. He will be a low-confidence flex option in Week 3 against the Giants.",
-      "description": "Elic Ayomanor caught two of his three targets for 69 yards in a 24-20 loss to the Eagles in Week 2.",
-      "metadata": {
-        "analysis": "Ayomanor led the Titans in receiving in a game where they only passed for 183 yards. The second-year WR has been the Titans' best pass-catcher through two games, catching three passes for 80 yards and a touchdown. He will be a low-confidence flex option in Week 3 against the Giants.",
-        "description": "Elic Ayomanor caught two of his three targets for 69 yards in a 24-20 loss to the Eagles in Week 2.",
-        "title": "Elic Ayomanor leads Titans in receiving in Week 2",
-        "topic_id": "1407695641345335296",
-        "url": "https://www.fantasypros.com/nfl/news/609496/elic-ayomanor-leads-titans-receiving-week-2.php"
-      },
-      "nfl_team": "TEN",
-      "player_id": "12499",
-      "player_name": "Elic Ayomanor",
-      "position": "WR",
-      "published": 1789983303924,
-      "source": "fantasy_pros",
-      "source_key": "609496",
-      "story_id": "nfl|12499|fantasy_pros|609496|1789983303924",
-      "title": "Elic Ayomanor leads Titans in receiving in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609496/elic-ayomanor-leads-titans-receiving-week-2.php"
-    },
-    {
-      "analysis": "Helm turned in a quiet outing in the close loss to the Eagles. The veteran tight end has now caught six of his seven targets for 41 yards through the first two games of the season. He will not be a recommended fantasy option heading into Week 3 against the Giants.",
-      "description": "Gunnar Helm caught both of his targets for 13 yards in a 24-20 loss to the Eagles in Week 2.",
-      "metadata": {
-        "analysis": "Helm turned in a quiet outing in the close loss to the Eagles. The veteran tight end has now caught six of his seven targets for 41 yards through the first two games of the season. He will not be a recommended fantasy option heading into Week 3 against the Giants.",
-        "description": "Gunnar Helm caught both of his targets for 13 yards in a 24-20 loss to the Eagles in Week 2.",
-        "title": "Gunnar Helm catches two passes in Week 2",
-        "topic_id": "1407695641290809344",
-        "url": "https://www.fantasypros.com/nfl/news/609497/gunnar-helm-catches-two-passes-week-2.php"
-      },
-      "nfl_team": "TEN",
-      "player_id": "12502",
-      "player_name": "Gunnar Helm",
-      "position": "TE",
-      "published": 1789983303909,
-      "source": "fantasy_pros",
-      "source_key": "609497",
-      "story_id": "nfl|12502|fantasy_pros|609497|1789983303909",
-      "title": "Gunnar Helm catches two passes in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609497/gunnar-helm-catches-two-passes-week-2.php"
-    },
-    {
-      "analysis": "Tate finished fourth on the team in receiving yards in the close loss to Philly. The rookie has caught seven of his 11 targets for 65 scoreless yards through the first two games of the season. Tennessee will now get ready to take on the Giants in Week 3. Tate will be tough to start in fantasy until Tennessee's passing attack starts to show more life.",
-      "description": "Carnell Tate caught three of his five targets for 27 yards in a 24-20 loss to the Eagles in Week 2.",
-      "metadata": {
-        "analysis": "Tate finished fourth on the team in receiving yards in the close loss to Philly. The rookie has caught seven of his 11 targets for 65 scoreless yards through the first two games of the season. Tennessee will now get ready to take on the Giants in Week 3. Tate will be tough to start in fantasy until Tennessee's passing attack starts to show more life.",
-        "description": "Carnell Tate caught three of his five targets for 27 yards in a 24-20 loss to the Eagles in Week 2.",
-        "title": "Carnell Tate catches three passes in Week 2",
-        "topic_id": "1407693124150558720",
-        "url": "https://www.fantasypros.com/nfl/news/609493/carnell-tate-catches-three-passes-week-2.php"
-      },
-      "nfl_team": "TEN",
-      "player_id": "13279",
-      "player_name": "Carnell Tate",
-      "position": "WR",
-      "published": 1789982703778,
-      "source": "fantasy_pros",
-      "source_key": "609493",
-      "story_id": "nfl|13279|fantasy_pros|609493|1789982703778",
-      "title": "Carnell Tate catches three passes in Week 2",
-      "url": "https://www.fantasypros.com/nfl/news/609493/carnell-tate-catches-three-passes-week-2.php"
-    },
-    {
-      "analysis": null,
-      "description": "Denver Broncos wide receiver Jaylen Waddle gave fantasy managers a dud during the season opener, but he bounced back in a big way on Sunday. Waddle hauled in eight of his 10 targets for 138 yards during the Week 2 win over the Jacksonville Jaguars. He led the team in receptions, receiving yards, and targets during Sunday's victory. These are the kind of performances fantasy managers expected to see from Waddle with his new team. He appears to be building strong chemistry with quarterback Bo Nix. Fantasy managers shouldn't expect huge games like this every week, but Waddle should be a trustworthy WR2 for Week 3 against the Los Angeles Rams.",
-      "metadata": {
-        "description": "Denver Broncos wide receiver Jaylen Waddle gave fantasy managers a dud during the season opener, but he bounced back in a big way on Sunday. Waddle hauled in eight of his 10 targets for 138 yards during the Week 2 win over the Jacksonville Jaguars. He led the team in receptions, receiving yards, and targets during Sunday's victory. These are the kind of performances fantasy managers expected to see from Waddle with his new team. He appears to be building strong chemistry with quarterback Bo Nix. Fantasy managers shouldn't expect huge games like this every week, but Waddle should be a trustworthy WR2 for Week 3 against the Los Angeles Rams.",
-        "title": "Jaylen Waddle Bounces Back with Breakout Game",
-        "topic_id": "1407754780859703296",
-        "url": "https://www.rotoballer.com/player-news/jaylen-waddle-bounces-back-with-breakout-game/1946410"
-      },
-      "nfl_team": "DEN",
-      "player_id": "7526",
-      "player_name": "Jaylen Waddle",
-      "position": "WR",
-      "published": 1789982649000,
-      "source": "rotoballer",
-      "source_key": "221815",
-      "story_id": "nfl|7526|rotoballer|221815|1789982649000",
-      "title": "Jaylen Waddle Bounces Back with Breakout Game",
-      "url": "https://www.rotoballer.com/player-news/jaylen-waddle-bounces-back-with-breakout-game/1946410"
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers quarterback Brock Purdy looked fantastic during the Week 2 matchup against the Miami Dolphins. He seemingly had no issues as he completed 20-of-22 passing attempts for 287 yards and two touchdowns in the win. Purdy also rushed the ball three times for 30 yards and another score on the ground. Purdy has been incredible through his first two games, with five passing touchdowns and nearly 500 passing yards. The 49ers have been dealing with injuries, but that hasn't stopped them from being one of the best offenses early in the season. He'll continue to be a strong QB1 against the Arizona Cardinals in Week 3.",
-      "metadata": {
-        "description": "San Francisco 49ers quarterback Brock Purdy looked fantastic during the Week 2 matchup against the Miami Dolphins. He seemingly had no issues as he completed 20-of-22 passing attempts for 287 yards and two touchdowns in the win. Purdy also rushed the ball three times for 30 yards and another score on the ground. Purdy has been incredible through his first two games, with five passing touchdowns and nearly 500 passing yards. The 49ers have been dealing with injuries, but that hasn't stopped them from being one of the best offenses early in the season. He'll continue to be a strong QB1 against the Arizona Cardinals in Week 3.",
-        "title": "Brock Purdy Puts on a Show in Week 2",
-        "topic_id": "1407753521687801856",
-        "url": "https://www.rotoballer.com/player-news/brock-purdy-puts-on-a-show-in-week-2/1946404"
-      },
-      "nfl_team": "SF",
-      "player_id": "8183",
-      "player_name": "Brock Purdy",
-      "position": "QB",
-      "published": 1789982405000,
-      "source": "rotoballer",
-      "source_key": "221814",
-      "story_id": "nfl|8183|rotoballer|221814|1789982405000",
-      "title": "Brock Purdy Puts on a Show in Week 2",
-      "url": "https://www.rotoballer.com/player-news/brock-purdy-puts-on-a-show-in-week-2/1946404"
     }
   ]
 }

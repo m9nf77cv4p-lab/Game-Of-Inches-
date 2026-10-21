@@ -2,20 +2,22 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6413**
+- Stored stories: **6381**
 - Newly captured: **3**
 
 ## Latest news
 
 - **Kalif Raymond** — Kalif Raymond - Catches both targets in win (2026-10-21T01:22:34Z)
   - Raymond has continued to see limited action offensively since hauling in six passes for 90 yards and a touchdown during the Week 3 win over the Eagles. The 32-year-old has caught 26 passes for 244 yards and one touchdown across six games this season while serving as the team's third-string receiver behind Rome Odunze and Luther Burden.
+- **NEW — Konata Mumpfield** — Konata Mumpfield - Two catches against Arizona (2026-10-21T01:07:11Z)
+  - Mumpfield was on the field for only five offensive snaps against the Bills in Week 5, but he was more involved against the Cardinals with 27 offensive snaps. That snap count figures to increase for the Rams' next few games, seeing as Davante Adams is facing a 6-to-10 week recovery timeline for a ruptured left hamstring that required surgery, per Ian Rapoport of NFL Network. The Rams will hit the road for Week 7 against the Raiders, whose defense ranks 25th in fantasy points allowed to opposing wide receivers.
 - **Seth McGowan** — Seth McGowan - Efficient on low volume Sunday (2026-10-21T00:55:44Z)
   - McGowan played exactly 19 offensive snaps for the third straight week Sunday, and although he was slightly less involved than he has been of late in terms of touches, he managed a career-best 6.8 yards per carry in Week 6. He's merely a change-of-pace back as long as three-time Pro Bowler Jonathan Taylor is healthy, but he has the physical traits to become a workhorse should that not be the case at any point this season.
 - **Darius Cooper** — Darius Cooper - One catch in Week 6 (2026-10-21T00:50:24Z)
   - Cooper saw his offensive workload decrease with the return of DeVonta Smith in Week 6, and as a result, he failed to reel in multiple passes for the first time since Week 3. With Smith, Dontayvion Wicks and Makai Lemon all active, Cooper's ceiling will be limited from a fantasy perspective moving forward.
 - **Justice Hill** — Justice Hill - Three short catches in Week 6 loss (2026-10-21T00:47:02Z)
   - Hill was on the field for 24 of the Ravens' 57 offensive snaps (42.1 percent), which wasn't far behind lead back Derrick Henry (33). That was more due to game script, as the Ravens' offense struggled to move the ball down the field against a tough Browns defense. The offensive outlook of Hill and the rest of Baltimore's skill position players would improve dramatically if Lamar Jackson (ankle) is cleared to play in Week 7 against the Bengals on Oct. 25.
-- **NEW — J.J. McCarthy** — J.J. McCarthy a Waiver Target as he Looks to Seize Starting Job (2026-10-20T22:18:14Z)
+- **J.J. McCarthy** — J.J. McCarthy a Waiver Target as he Looks to Seize Starting Job (2026-10-20T22:18:14Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-a-waiver-target-as-he-looks-to-seize-starting-job/1971690
 - **Terrance Ferguson** — Terrance Ferguson - Not expected back next week (2026-10-20T22:14:14Z)
   - Ferguson, who was placed on injured reserve in advance of Week 4 action, will be eligible to return in Week 8 against the Chargers. However, it appears as though the tight end's return isn't imminent, with Schefter's report suggesting that Ferguson's recovery "will take some time." In his absence, Tyler Higbee profiles as the Rams' main pass-catching TE, with Colby Parkinson and Davis Allen also mixing in.
@@ -24,9 +26,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/614959/terrance-ferguson-ankle-not-expected-to-be-activated-next-week.php
 - **A.J. Brown** — A.J. Brown - Remains listed as limited Tuesday (2026-10-20T22:01:50Z)
   - Brown returned from a four-game absence this past Sunday against the Jets. He's been limited in each of the first two sessions of Week 7 prep, and the veteran wide receiver told reporters after Tuesday's practice that his ankle is "feeling good," per Doug Kyed of the Boston Herald. Wednesday's injury report should clarify whether the Patriots' top WR will be fully cleared for Thursday night's game against the Bears.
-- **NEW — Eli Raridon** — Rookie Eli Raridon Still Mostly a Dynasty Stash at Tight End (2026-10-20T22:00:27Z)
+- **Eli Raridon** — Rookie Eli Raridon Still Mostly a Dynasty Stash at Tight End (2026-10-20T22:00:27Z)
   - Source: https://www.rotoballer.com/player-news/rookie-eli-raridon-still-mostly-a-dynasty-stash-at-tight-end/1971675
-- **NEW — Geno Smith** — Geno Smith has Put Himself on the QB2 Streaming Radar (2026-10-20T21:47:56Z)
+- **Geno Smith** — Geno Smith has Put Himself on the QB2 Streaming Radar (2026-10-20T21:47:56Z)
   - Source: https://www.rotoballer.com/player-news/geno-smith-has-put-himself-on-the-qb2-streaming-radar/1971665
 - **Kyle Monangai** — Kyle Monangai (thumb/toe) misses practice Tuesday  (2026-10-20T21:45:47.483000Z)
   - Monangai has still yet to practice. He is trending towards being sidelined again on Thursday against the Patriots. 
@@ -224,5 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/ryan-flournoy-a-strong-streamer-despite-no-3-spot-on-depth-chart/1970812
 - **Ted Hurst** — Ted Hurst - Three snags in Week 6 (2026-10-20T01:24:02Z)
   - Hurst matched his season high in catches and receiving yards against Pittsburgh, reeling in multiple passes for the fourth time this year. The wide receiver has now caught 11 of 22 targets for 168 yards over six contests to begin his first NFL campaign, and he could receive a boost if Baker Mayfield (thumb) returns to action in Week 7 versus Carolina.
-- **Cyrus Allen** — Cyrus Allen - Brings in two catches vs. Bolts (2026-10-20T01:22:16Z)
-  - Despite the absence of Rashee Rice (hamstring/knee), Allen was on the field for only nine of the Chiefs' 61 offensive snaps (14.8 percent). He drew a 20-yard pass interference penalty late in the first quarter before hauling in a four-yard pass from Patrick Mahomes on the first play of the second quarter, which was the first reception of Allen's career. The rookie wide receiver added a 23-yard catch midway through the fourth quarter, and he ended up finishing second among Chiefs wideouts in receiving yards ahead of Jalen Royals (24) and behind Xavier Worthy (73). Allen's small role in the Chiefs' offense would dwindle even more if Rice is cleared to return for Week 7 against the Seahawks on Oct. 25.
