@@ -24769,8 +24769,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-22T07:22:20Z",
-    "source_fingerprint": "d38e9fbee41c6c8dc87eaaff45c40f81cfa31adee4950a3be7d0e180fdc9ddca"
+    "last_changed_at": "2026-10-22T13:03:54Z",
+    "source_fingerprint": "99da8d6081519063c74af771b969da5fc9fa372be86777b2468811c189468b9a"
   },
   "teams": [
     {
@@ -24891,7 +24891,6 @@
         "SEA"
       ],
       "reserve_ids": [
-        "10229",
         "12512",
         "7543"
       ],
