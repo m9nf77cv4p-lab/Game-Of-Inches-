@@ -24769,8 +24769,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-22T13:03:54Z",
-    "source_fingerprint": "99da8d6081519063c74af771b969da5fc9fa372be86777b2468811c189468b9a"
+    "last_changed_at": "2026-10-22T17:56:11Z",
+    "source_fingerprint": "d1fd610d6d6f15db68a8de1c3fa6f3ae1d8d3e7ff287dd615a73eb6f29a62e07"
   },
   "teams": [
     {
@@ -24814,7 +24814,7 @@
       ],
       "reserve_ids": [
         "11583",
-        "11625",
+        "11635",
         "8121"
       ],
       "roster_id": 1,
