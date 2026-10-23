@@ -2,133 +2,199 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6389**
-- Newly captured: **61**
+- Stored stories: **6413**
+- Newly captured: **34**
 
 ## Latest news
 
-- **NEW — Jaylen Wright** — Jaylen Wright - Limited again Thursday (2026-10-22T20:58:20Z)
+- **NEW — Jaylen Waddle** — Jaylen Waddle (chest) limited again Thursday (2026-10-23T00:00:15.702000Z)
+  - Waddle was limited for a second-straight practice on Thursday. He's dealing with a chest issue right now, and it remains to be seen if it will leave him with an injury designation heading into the weekend. Courtland Sutton will see more work in the off-chance that Waddle is unable to play in Week 7.
+  - Source: https://www.fantasypros.com/nfl/news/615417/jaylen-waddle-chest-limited-again-thursday.php
+- **NEW — Jonah Coleman** — Jonah Coleman - Remains full participant (2026-10-22T23:46:03Z)
+  - Coleman has been full each of the first two days of the practice week but remains on injured reserve. He's eligible to be activated ahead of Sunday's game against the Cardinals. In an offense looking for a jolt, Coleman could immediately have a significant role out of the backfield when he returns. The rookie running back should be rostered in all fantasy formats.
+- **NEW — Rashid Shaheed** — Rashid Shaheed - Upgrades to full practice Thursday (2026-10-22T23:42:41Z)
+  - Shaheed was limited Wednesday but appears to be on track for his normal role Sunday against the Chiefs. Playing behind Jaxon Smith-Njigba and Cooper Kupp in an offense that likes to use multiple tight ends, Shaheed has yet to get going in the receiving department this season, as he has just 14 catches for 162 yards through six contests.
+- **NEW — Zach Charbonnet** — Zach Charbonnet - Another full practice (2026-10-22T23:33:05Z)
+  - In the midst of Seattle activating Charbonnet from the reserve/PUP list Thursday, Charbonnet now has strung together back-to-back uncapped sessions as he aims for his first game action since suffering a torn ACL in his left knee Jan. 17. In addition to head coach Mike Macdonald forecasting Charbonnet's "full week's worth of reps" Monday, he told Boyle that "you could see him on Sunday in some capacity." Even if Charbonnet is able to suit up this weekend against the Chiefs, he may enter a timeshare with Emanuel Wilson and George Holani off the bat instead of taking on a leading role.
+- **NEW — Jeremiyah Love** — Jeremiyah Love - Remains DNP on Thursday (2026-10-22T23:28:11Z)
+  - Love has logged back-to-back DNPs to begin the practice week and appears well on his way to missing a second straight contest Sunday against the Broncos. With Love sidelined for Week 6 against the Rams, Tyler Allgeier narrowly out-snapped Bam Knight 40 to 32, but it was Knight who was far more effective in the box score. While Allgeier out-carried him 15 to 13, Knight picked up 80 rushing yards to Allgeier's 38. Knight added two catches for 18 yards on two targets and would be a worthwhile RB2/flex option in fantasy if Love does miss Sunday's game.
+- **NEW — Jaylen Waddle** — Jaylen Waddle - Logs limited practice Thursday (2026-10-22T23:24:23Z)
+  - With back-to-back limited practices Wednesday and Thursday, Waddle appears to at least have a good chance to play through the issue Sunday against Arizona. Waddle has been one of the more disappointing early-round fantasy picks through six weeks, collecting just 22 catches for 228 yards and one touchdown on 38 targets across six games.
+- **NEW — Dallas Goedert** — Dallas Goedert - Misses practice Thursday (2026-10-22T23:20:56Z)
+  - Goedert previously sat out Weeks 3 and 4 due to a sprained MCL in his right knee, but he's been able to handle 69- and 81-percent snap shares the last two games while compiling a 12-99-0 line on 17 targets. Thursday's DNP may be for maintenance of the previous injury, but his status nonetheless will be monitored as the week continues to get a sense of the tight end's chances to play Monday versus the Cowboys.
+- **NEW — Dontayvion Wicks** — Dontayvion Wicks - DNP due to ankle injury (2026-10-22T23:14:25Z)
+  - Wicks made a very brief exit late in this past Sunday's loss to the Panthers but was able to return. With an ankle injury being cited as the reason for Thursday's absence, the nature of the injury has been revealed. Both Wicks and No. 1 WR DeVonta Smith (hamstring) were DNPs to kick off Week 7 prep, so the situation bears watching to see if either of them will be able to play Monday against the Cowboys.
+- **NEW — Case Keenum** — Case Keenum - Operating as emergency QB (2026-10-22T23:13:55Z)
+  - Keenum will serve as the No. 3 QB for the second straight week while Tyson Bagent slots in as the primary backup behind starter Caleb Williams. Keenum will only be eligible to enter the contest if both Williams and Bagent are forced out of the game.
+- **NEW — Mike Washington Jr.** — Mike Washington - Downgraded to DNP on Thursday (2026-10-22T23:08:27Z)
+  - After being limited in Wednesday's practice, Thursday's downgrade is an ominous sign for Washington's availability Sunday against the Rams. If the rookie running back is unable to play, Ashton Jeanty and Dylan Laube would be in line to handle most of the backfield work for Las Vegas.
+- **NEW — DeVonta Smith** — DeVonta Smith - DNP on Thursday due to hamstring (2026-10-22T23:05:45Z)
+  - Smith wasn't present in the media-access portion of Thursday's session, and his previous hamstring issue appears to be the culprit for his absence to begin Week 7 prep. He thus will have two more chances to prove his health before the Eagles potentially tag him with a designation for Monday's game versus the Cowboys.
+- **NEW — Brock Bowers** — Brock Bowers - Upgrades to full practice Thursday (2026-10-22T23:05:12Z)
+  - After popping up on the injury report Wednesday as a limited participant with a pair of new "injuries," Bowers was able to get in a full session Thursday and should be ready to roll for Sunday's game with the Rams. The top TE1 play every week, Bowers has 28 grabs for 382 yards and three touchdowns through four appearances.
+- **NEW — Saquon Barkley** — Saquon Barkley - Limited Thursday (2026-10-22T22:59:36Z)
+  - This marks Barkley's first official on-field work since he initially suffered a hamstring injury in Week 4 against the Rams. He consequently sat out Weeks 5 and 6, but his return to drills this week at least gives him a chance to suit up Monday versus the Cowboys. Barkley told Jeff McLane of The Philadelphia Inquirer on Thursday that he wants to play in Week 7 but still needs to test out his hamstring over the next few days. Ultimately, Saturday's practice report will reveal Barkley's odds to return to action.
+- **NEW — T.J. Hockenson** — T.J. Hockenson - Another full session (2026-10-22T22:26:53Z)
+  - Hockenson is inching closer to clearing the protocol for head injuries after sustaining a concussion during the Vikings' Week 5 win at New Orleans. At the very least, he must gain clearance from an independent neurologist in order to suit up again Sunday against the Colts.
+- **NEW — Puka Nacua** — Puka Nacua leaves practice early on Thursday due to calf injury (2026-10-22T22:25:16.012000Z)
+  - The already injury riddled Rams might have another one to deal with, this time their superstar wideout. With Davante Adams already out, and Terrance Ferguson not ready to return, the team is running short of capable pass catchers. If Puka misses time expect Tyler Higbee and Kyren Williams to see additional work.
+  - Source: https://www.fantasypros.com/nfl/news/615407/puka-nacua-leaves-practice-early-on-thursday-due-to-calf-injury.php
+- **NEW — Puka Nacua** — Puka Nacua - Exits Thursday's practice with calf injury (2026-10-22T22:21:16Z)
+  - Nacua already has dealt with psoas soreness (in August) and discomfort in his groin (in September), the latter of which cost him Weeks 2 and 3. With a new health concern in tow, it remains to be seen if he's in any danger of missing Sunday's contest at Las Vegas. Head coach Sean McVay likely will touch on Nacua's new health concern Friday, at which point the wide receiver may be tagged with a Week 7 game designation.
+- **NEW — Jordan Mason** — Jordan Mason - Another full practice (2026-10-22T22:12:29Z)
+  - With back-to-back uncapped sessions under his belt so far this week, Mason appears to be putting himself in a position to be activated from injured reserve ahead of Sunday's contest versus the Colts. He's seeking his first game action since Week 1, when he suffered a small fracture in his thumb that required surgery. If he's able to return this weekend, Mason likely will resume a timeshare with Aaron Jones out of the Vikings backfield.
+- **NEW — Mike Evans** — Mike Evans - Misses Thursday's practice (2026-10-22T22:05:41Z)
+  - Evans officially logged a second consecutive DNP after he made an early exit from Monday's win against the Commanders due to an aggravation of a right Achilles' injury, which head coach Kyle Shanahan has called soreness, per Wagoner. While Evans now has just one more chance to mix into drills this week, he's proved in the past that he doesn't require practice reps to be available on game days. Whether or not he has a chance to play Sunday in Atlanta will become known once the 49ers post their final Week 7 injury report Friday.
+- **NEW — Justin Jefferson** — Justin Jefferson - Logs full practice Thursday (2026-10-22T21:54:30Z)
+  - Jefferson's upgrade from limited Wednesday to uncapped one day later indicates that the ankle injury that has bothered him since the middle of a Week 3 win at Tampa Bay is behind him. He'll be taking on a Colts defense Sunday that has allowed the 10th-most yards per target (8.6) to opposing wide receivers this season.
+- **NEW — Brian Robinson Jr.** — Brian Robinson - No practice Thursday (2026-10-22T21:44:48Z)
+  - After Robinson opened the week as limited Wednesday due to a hamstring injury, his downgrade to no activity one day later is cause for concern. Friday's practice and his ensuing activity level likely will determine if he's in any danger of missing Sunday's game against the 49ers. The Falcons have Khalil Herbert and Jam Miller on the practice squad in the event Robinson isn't able to handle his typical RB duties behind Bijan Robinson in Week 7.
+- **NEW — David Montgomery** — David Montgomery (groin) officially a non-participant Thursday (2026-10-22T21:30:14.665000Z)
+  - As expected, Montgomery wasn't able to take part in Houston's practice on Thursday. He's not expected to play again in Week 7, which would likely leave Woody Marks and Jawhar Jordan as the team's primary running backs against the Giants this week.
+  - Source: https://www.fantasypros.com/nfl/news/615405/david-montgomery-groin-officially-non-participant-thursday.php
+- **NEW — Dalton Schultz** — Dalton Schultz (quad) returns to practice Thursday (2026-10-22T21:25:14.905000Z)
+  - Schultz was back at practice on Thursday after missing Wednesday's practice due to a quad issue. It looks like he will play in Week 7, assuming he doesn't suffer any setbacks at practice throughout the rest of the week.
+  - Source: https://www.fantasypros.com/nfl/news/615403/dalton-schultz-quad-returns-to-practice-thursday.php
+- **Jaylen Wright** — Jaylen Wright - Limited again Thursday (2026-10-22T20:58:20Z)
   - Wright played through this foot injury in each of Miami's last two games prior to a Week 5 bye. He'll likely suit up Sunday against the Jets but cede most of the carries to Ollie Gordon as the Dolphins continue to search for their first win of the season.
-- **NEW — Travis Kelce** — Travis Kelce - Stays limited in practice (2026-10-22T20:56:03Z)
+- **Travis Kelce** — Travis Kelce - Stays limited in practice (2026-10-22T20:56:03Z)
   - Kelce has operated with a cap on his reps for the Chiefs' first two practices of Week 7, but as long as he's able to maintain limited activity or upgrade to full participation Friday, he should be in good position to play Sunday in Seattle. With top wideout Rashee Rice (hamstring/knee) remaining sidelined for Thursday's practice and perhaps trending toward another missed game in Week 7, Kelce could be a candidate to take on more volume than usual in the Kansas City passing attack if he's not too hindered by the ankle issue.
-- **NEW — Rashee Rice** — Rashee Rice - Remains non-participant Thursday (2026-10-22T20:55:16Z)
+- **Rashee Rice** — Rashee Rice - Remains non-participant Thursday (2026-10-22T20:55:16Z)
   - Rice has yet to resume practicing since sustaining a hamstring injury during Kansas City's Week 4 win over the Raiders. He's also dealing with a knee injury, so Rice looks likely to remain sidelined Sunday night against the Seahawks. Rice would likely need to practice in some capacity Friday to avoid being ruled out.
-- **NEW — George Pickens** — George Pickens - Dealing with shoulder injury (2026-10-22T20:46:49Z)
+- **George Pickens** — George Pickens - Dealing with shoulder injury (2026-10-22T20:46:49Z)
   - Pickens avoided the Cowboys' injury report through the first six weeks of the season, but he now has made an appearance to kick off Week 7 prep. Considering he was listed as limited, it may be more of a maintenance day for the fifth-year pro, who so far has begun the 2026 campaign with a 33-428-1 line on 52 targets. Pickens has two more chances to get back to full ahead of Monday's contest at Philadelphia.
-- **NEW — Dalton Schultz** — Dalton Schultz - Step in right direction Thursday (2026-10-22T20:46:27Z)
+- **Dalton Schultz** — Dalton Schultz - Step in right direction Thursday (2026-10-22T20:46:27Z)
   - Schultz took a step forward Thursday after sitting out Wednesday's practice. He'll have one more opportunity Friday to log a full practice, which could help him avoid an injury designation for Sunday's game against the Giants. Schultz is still searching for his first touchdown of the season.
-- **NEW — Rashod Bateman** — Rashod Bateman - Free of restrictions in Thursday's practice (2026-10-22T20:45:26Z)
+- **Rashod Bateman** — Rashod Bateman - Free of restrictions in Thursday's practice (2026-10-22T20:45:26Z)
   - A limited practice participant to begin the week after he exited this past Sunday's loss to the Browns due to the shoulder issue, Bateman cleared up any concern about his health by taking every rep during Thursday's session. While he'll be ready to play Sunday versus the Bengals, Bateman's standing as the No. 2 wideout on the depth chart behind Zay Flowers could be threatened after rookie Ja'Kobi Lane produced well in his return from injured reserve last week, logging four catches for 40 yards on five targets.
-- **NEW — Lamar Jackson** — Lamar Jackson - Limited again Thursday (2026-10-22T20:44:11Z)
+- **Lamar Jackson** — Lamar Jackson - Limited again Thursday (2026-10-22T20:44:11Z)
   - Jackson joined his teammates for the start of practice Thursday but didn't go through the entire session without limitations, resulting in a second consecutive limited listing. He'll have one more chance Friday to upgrade to full participation as Jackson tries to limit his absence to two games. If Jackson sits out Sunday against the Bengals, Tyler Huntley would make a third consecutive start.
-- **NEW — Jeremiyah Love** — Jeremiyah Love - Works on side Thursday (2026-10-22T20:39:10Z)
+- **Jeremiyah Love** — Jeremiyah Love - Works on side Thursday (2026-10-22T20:39:10Z)
   - Love was listed as a non-participant Wednesday and could be headed for the same fate Thursday, unless he's able to take part in drills later in Thursday's practice. Matt Zenitz of CBS Sports reported earlier Thursday that Love will likely miss Sunday's game against the Broncos, and Love working on a side field Thursday has done nothing to dispel that notion. Tyler Allgeier and Bam Knight are poised to lead Arizona's backfield again.
-- **NEW — Matthew Golden** — Matthew Golden - Limited again Thursday (2026-10-22T20:37:30Z)
+- **Matthew Golden** — Matthew Golden - Limited again Thursday (2026-10-22T20:37:30Z)
   - Both Golden and fellow WR Christian Watson (ankle) have opened Week 7 prep as limited on both of the Packers' first two injury reports. Head coach Matt LaFleur told Demovsky on Thursday that he has no concern about the availability of either player for Sunday's contest at Detroit. Friday's report will reveal if Golden or Watson enter the weekend with a designation.
-- **NEW — Caleb Douglas** — Caleb Douglas - Churns out limited practice (2026-10-22T20:36:33Z)
+- **Caleb Douglas** — Caleb Douglas - Churns out limited practice (2026-10-22T20:36:33Z)
   - Back practicing with Miami this week for the first time since exiting a Sept. 20 loss to the 49ers due to an ankle injury, Douglas had his reps capped for the second day in a row. The wideout noted Wednesday that he's viewing himself as day-to-day at this stage of his recovery, and he'll likely need to upgrade to full participation at Friday's practice to head into Sunday's game against the Jets without a designation. If available to play this weekend, Douglas will likely slide back into a top-three role at receiver.
-- **NEW — Keenan Allen** — Keenan Allen (rest) returns to practice Thursday (2026-10-22T20:35:14.610000Z)
+- **Keenan Allen** — Keenan Allen (rest) returns to practice Thursday (2026-10-22T20:35:14.610000Z)
   - As expected, Allen was back at practice on Thursday after getting the day off on Wednesday. He was a full participant and should be fully good to go for Week 7's matchup against the Minnesota Vikings.
   - Source: https://www.fantasypros.com/nfl/news/615384/keenan-allen-rest-returns-to-practice-thursday.php
-- **NEW — Denzel Boston** — Denzel Boston - Limited again Thursday (2026-10-22T20:32:48Z)
-  - Boston has been bothered by a foot injury since the start of Cleveland's Week 6 preparations against the Ravens. He suited up for that game after three limited practices but was held to one catch, and the rookie second-round pick has opened Week 7 prep with a pair of limited practices. Boston will look to increase his practice participation Friday and avoid an injury designation for Sunday's game against the Titans.
-- **NEW — Christian Watson** — Christian Watson - Stays limited Thursday (2026-10-22T20:29:31Z)
+- **Denzel Boston** — Denzel Boston - Limited again Thursday (2026-10-22T20:32:48Z)
+  - Boston has been bothered by a foot injury since the start of Cleveland's Week 6 preparations against the Ravens. He suited up for that game after three limited practices but was held to one catch, and the rookie second-round pick has opened Week 7 prep with a pair of limited sessions. Boston will look to increase his practice participation Friday and avoid an injury designation for Sunday's game against the Titans.
+- **Christian Watson** — Christian Watson - Stays limited Thursday (2026-10-22T20:29:31Z)
   - Watson now has logged a limited walkthrough and a capped practice to kick off Week 7 prep as he tends to an ankle issue. Head coach Matt LaFleur downplayed Watson's injury Thursday, telling Demovsky that he has no concerns about Watson and fellow WR Matthew Golden (shoulder) for Sunday's game in Detroit. Having said that, Watson may still be tagged with a designation when the Packers post their final practice report of the week Friday.
-- **NEW — Dylan Sampson** — Dylan Sampson - Another limited practice (2026-10-22T20:26:52Z)
+- **Dylan Sampson** — Dylan Sampson - Another limited practice (2026-10-22T20:26:52Z)
   - Since being designated for return from injured reserve last week, Sampson has turned in four consecutive limited practices. While the Browns haven't indicated that Sampson has experienced any setbacks with his knee since making his return to practice, he may need to upgrade to full participation Friday to put himself on a path to come off IR prior to Sunday's game against the Titans.
-- **NEW — Jonah Coleman** — Jonah Coleman - Practices again Thursday (2026-10-22T20:26:19Z)
+- **Jonah Coleman** — Jonah Coleman - Practices again Thursday (2026-10-22T20:26:19Z)
   - Coleman avoided any setbacks at Wednesday's practice, during which he was a full participant. The rookie fourth-round pick has a good chance of being activated from injured reserve ahead of Sunday's game against the Cardinals, though his standing in a Broncos backfield that also includes J.K. Dobbins, RJ Harvey and Tyler Badie (thumb) is murky.
-- **NEW — KC Concepcion Jr.** — KC Concepcion - Remains limited in practice (2026-10-22T20:24:49Z)
+- **KC Concepcion Jr.** — KC Concepcion - Remains limited in practice (2026-10-22T20:24:49Z)
   - Concepcion and Denzel Boston (foot) have now been limited in both of the Browns' first two Week 7 practices, so the two rookie wideouts may need to upgrade to full participation Friday to avoid taking injury designations into Sunday's game against the Titans. After sustaining a concussion in the Browns' Week 5 loss to the Jets, Concepcion was able to clear the five-step protocol prior to last week's game against the Ravens and went on to finish with four catches for 37 yards on six targets while adding two yards on two carries in a 13-10 win.
-- **NEW — Jordan Love** — Jordan Love - Practices fully Thursday (2026-10-22T20:21:16Z)
+- **Jordan Love** — Jordan Love - Practices fully Thursday (2026-10-22T20:21:16Z)
   - Love opened Week 7 prep as limited at Wednesday's walkthrough due to a back injury. Head coach Matt LaFleur told Tom Silverstein of the Milwaukee Journal Sentinel on Thursday that Love emerged from this past Sunday's win against the Cowboys with a sore back, which was the result of some big hits that forced the quarterback to visit a chiropractor. Love's upgrade to full has him in the clear ahead of Sunday's visit to the Lions, against whom he tossed six touchdowns and no interceptions in two matchups in 2025.
-- **NEW — Jaylen Waddle** — Jaylen Waddle - Participating in Thursday's practice (2026-10-22T20:19:48Z)
+- **Jaylen Waddle** — Jaylen Waddle - Participating in Thursday's practice (2026-10-22T20:19:48Z)
   - Waddle at least hasn't taken a step back, though it remains to be seen if he can upgrade to full participation Thursday and assuage any concerns about missing Sunday's game against the Cardinals. The offseason trade acquisition has lived up to the hype only once through six games with the Broncos, notching 138 receiving yards in Week 2 against the Jaguars and just 90 receiving yards across five other games combined.
-- **NEW — Adonai Mitchell** — Adonai Mitchell (finger) listed as limited Thursday (2026-10-22T20:15:14.699000Z)
+- **Adonai Mitchell** — Adonai Mitchell (finger) listed as limited Thursday (2026-10-22T20:15:14.699000Z)
   - Mitchell was again a limited participant at practice on Thursday, as he's still working his way back from a finger injury that has left him sidelined for multiple weeks. It looks like he's trending towards playing in Week 7, but we likely won't know his official status until after practice on Friday.
   - Source: https://www.fantasypros.com/nfl/news/615377/adonai-mitchell-finger-listed-limited-thursday.php
-- **NEW — Breece Hall** — Breece Hall (quad) returns to practice Thursday (2026-10-22T20:15:14.657000Z)
+- **Breece Hall** — Breece Hall (quad) returns to practice Thursday (2026-10-22T20:15:14.657000Z)
   - Hall was a non-participant on Wednesday to start the week, but he made his return to practice on Thursday and will have a real chance to play in Week 7. Fantasy managers should keep close tabs on updates about his health heading into the weekend to see if he will play and have any limitations against the Dolphins on Sunday.
   - Source: https://www.fantasypros.com/nfl/news/615380/breece-hall-quad-returns-to-practice-thursday.php
-- **NEW — Quinshon Judkins** — Quinshon Judkins - Limited again Thursday (2026-10-22T20:14:56Z)
-  - Judkins has logged back-to-back limited practices as he tries to limit his absence due to an ankle injury to one game. He sat out the Week 6 win over the Ravens, during which Jaleel McLaughlin and Audric Estime notched nine carries apiece. Cleveland could have a different backfield mix Sunday against the Titans, with Judkins angling to reclaim the lead role and Dylan Sampson (knee) eligible to be activated from injured reserve.
-- **NEW — Mike Evans** — Mike Evans - Not spotted Thursday (2026-10-22T20:13:12Z)
+- **Quinshon Judkins** — Quinshon Judkins - Limited again Thursday (2026-10-22T20:14:56Z)
+  - Judkins has logged back-to-back limited practices as he tries to limit his absence due to an ankle injury to one game. He sat out the Browns' Week 6 win over the Ravens, during which Jaleel McLaughlin and Audric Estime notched nine carries apiece. Cleveland could have a different backfield mix Sunday against the Titans, with Judkins angling to reclaim the lead role and Dylan Sampson (knee) eligible to be activated from injured reserve.
+- **Mike Evans** — Mike Evans - Not spotted Thursday (2026-10-22T20:13:12Z)
   - Evans has yet to practice since aggravating his right Achilles during Monday's win against the Commanders, which forced him out just before halftime of that contest. Coach Kyle Shanahan called the injury "soreness" afterward, per Nick Wagoner of ESPN.com, and at the same time he said he doesn't believe the wide receiver has a long-term injury. Evans doesn't need to practice in order to make himself available on game day, but Friday's injury report will reveal if he has a chance to play Sunday in Atlanta.
-- **NEW — Adonai Mitchell** — Adonai Mitchell - Another limited practice (2026-10-22T20:09:49Z)
+- **Adonai Mitchell** — Adonai Mitchell - Another limited practice (2026-10-22T20:09:49Z)
   - After sitting out the Jets' last four games due to a finger injury he ultimately addressed with surgery, Mitchell has been back on the field as a limited participant for the team's first two Week 7 practice sessions. Given the length of his absence, Mitchell may need to upgrade to full participation Friday in order to avoid taking an injury designation into Sunday's game against the Dolphins. Prior to getting hurt, Mitchell had been operating as the Jets' No. 2 receiver and logged a 9-123-0 receiving line on 15 targets through the team's first two contests.
-- **NEW — Breece Hall** — Breece Hall - Officially limited Thursday (2026-10-22T20:09:17Z)
+- **Breece Hall** — Breece Hall - Officially limited Thursday (2026-10-22T20:09:17Z)
   - Hall logged his first practice participation of any kind since a second-half exit against the Lions back in Week 3. He moved well in his return to practice, per Brian Costello of the New York Post, though Costello also notes that Hall went to the rehab area after individual drills rather than taking part in teams drills. Hall will likely need to log a full practice Friday to avoid a questionable designation for Sunday's game against the Dolphins. Braelon Allen has enjoyed a near-monopoly on backfield touches for the Jets while Hall has been sidelined.
-- **NEW — Chuba Hubbard** — Chuba Hubbard (rest) returns to full practice Thursday (2026-10-22T20:05:14.301000Z)
+- **Chuba Hubbard** — Chuba Hubbard (rest) returns to full practice Thursday (2026-10-22T20:05:14.301000Z)
   - Hubbard was given the day off on Wednesday as a veteran rest day, but he returned to practice on Thursday and was a full participant. He should be good to go for Week 7 and remains a must-start fantasy option for the foreseeable future.
   - Source: https://www.fantasypros.com/nfl/news/615375/chuba-hubbard-rest-returns-to-full-practice-thursday.php
-- **NEW — Baker Mayfield** — Baker Mayfield - Another full practice (2026-10-22T20:02:35Z)
+- **Baker Mayfield** — Baker Mayfield - Another full practice (2026-10-22T20:02:35Z)
   - This marks a second straight uninhibited practice for Mayfield as he seeks his first game action since Week 3 due to a dislocated right thumb. Per Greg Auman of Fox Sports, Mayfield again was wearing a glove on his right hand Thursday, and afterward the quarterback told Brianna Dix of the Buccaneers' official site that he "feels fine gripping and throwing," with the biggest concern enduring hits and taking the ball under center. Head coach Todd Bowles has yet to announce a Week 7 starter between Mayfield and undrafted rookie Jalon Daniels, but that'll likely occur Friday ahead of Sunday's road matchup with the Panthers.
-- **NEW — Baker Mayfield** — Baker Mayfield (thumb) logs another full practice Thursday (2026-10-22T20:00:14.406000Z)
+- **Baker Mayfield** — Baker Mayfield (thumb) logs another full practice Thursday (2026-10-22T20:00:14.406000Z)
   - As expected, Mayfield was again a full participant at practice on Thursday and seems to be strongly trending towards playing in Week 7. Look for Emeka Egbuka (concussion/foot) and Bucky Irving (illness) to be two of the primary beneficiaries of his return if he's cleared to play this week.
   - Source: https://www.fantasypros.com/nfl/news/615372/baker-mayfield-thumb-logs-another-full-practice-thursday.php
-- **NEW — Emeka Egbuka** — Emeka Egbuka (concussion/foot) misses practice Thursday (2026-10-22T20:00:14.155000Z)
+- **Emeka Egbuka** — Emeka Egbuka (concussion/foot) misses practice Thursday (2026-10-22T20:00:14.155000Z)
   - Egbuka was again unable to practice on Thursday. He was seen working off to the side with a trainer, but unless he's able to return to team drills on Friday, it looks like he's going to be sidelined in Week 7. If that's the case, that would lead to more work for rookie Ted Hurst III against the Panthers.
   - Source: https://www.fantasypros.com/nfl/news/615370/emeka-egbuka-concussionfoot-misses-practice-thursday.php
-- **NEW — Bucky Irving** — Bucky Irving (illness) back at practice Thursday (2026-10-22T20:00:14.141000Z)
+- **Bucky Irving** — Bucky Irving (illness) back at practice Thursday (2026-10-22T20:00:14.141000Z)
   - Irving is currently recovering from an illness of some kind and missed Wednesday's practice as a result, but he was back at practice on Thursday and participated in a limited capacity. That's a good sign that he will be fully good to go for Sunday's game against the Panthers.
   - Source: https://www.fantasypros.com/nfl/news/615371/bucky-irving-illness-back-practice-thursday.php
-- **NEW — Tyler Warren** — Tyler Warren - Absence confirmed Thursday (2026-10-22T19:59:39Z)
+- **Tyler Warren** — Tyler Warren - Absence confirmed Thursday (2026-10-22T19:59:39Z)
   - Warren has missed the Colts' first two practices leading up to Sunday's game against the Vikings after sitting out the Week 6 loss to Tennessee. He seems to have sustained his groin injury last Friday, when he was a late addition to the Week 6 injury report. Warren probably needs to practice in some capacity Friday to avoid being ruled out when the Colts reveal their Week 7 injury designations.
-- **NEW — Emeka Egbuka** — Emeka Egbuka - Officially non-participant Thursday (2026-10-22T19:54:14Z)
+- **NEW — Travis Kelce** — Travis Kelce Stays Limited in Thursday's Practice (2026-10-22T19:57:09Z)
+  - Source: https://www.rotoballer.com/player-news/travis-kelce-stays-limited-in-thursdays-practice/1973172
+- **Emeka Egbuka** — Emeka Egbuka - Officially non-participant Thursday (2026-10-22T19:54:14Z)
   - Egbuka is fighting an uphill battle ahead of Sunday's game against the Panthers after being unable to log any practice activity Wednesday or Thursday. The 2025 first-round pick was spotted working with trainers on a side field Thursday as he works his way through the concussion protocol. Egbuka would need to clear the protocol to suit up Sunday, and a foot injury further complicates his path to playing.
-- **NEW — Bucky Irving** — Bucky Irving - Logs limited practice Thursday (2026-10-22T19:53:50Z)
-  - Several Buccaneers missed practice Wednesday due to an illness, including Irving. The third-year running back got back in the mix on Thursday, which is an encouraging step for him going into the Week 7 game against the Panthers. Provided Irving practices again on Friday, he'll be trending in the right direction to play.
-- **NEW — Alvin Kamara** — Alvin Kamara (back) limited participant Thursday (2026-10-22T19:45:13.809000Z)
+- **Bucky Irving** — Bucky Irving - Logs limited practice Thursday (2026-10-22T19:53:50Z)
+  - Several Buccaneers missed practice Wednesday due to an illness, including Irving. The third-year running back got back in the mix on Thursday, which is an encouraging step for him going into the team's Week 7 game against the Panthers. Provided Irving practices again on Friday, he'll be trending in the right direction to play.
+- **Alvin Kamara** — Alvin Kamara (back) limited participant Thursday (2026-10-22T19:45:13.809000Z)
   - To no surprise, Kamara was left limited for another practice on Thursday due to the back injury that he's managing. He should play in Week 7, but it remains unlikely that he will have a strong performance from a fantasy perspective.
   - Source: https://www.fantasypros.com/nfl/news/615368/alvin-kamara-back-limited-participant-thursday.php
-- **NEW — Rico Dowdle** — Rico Dowdle (knee) limited again Thursday (2026-10-22T19:40:13.934000Z)
+- **Rico Dowdle** — Rico Dowdle (knee) limited again Thursday (2026-10-22T19:40:13.934000Z)
   - The veteran running back was limited for another practice session on Thursday as he continues to manage a knee injury of some kind. He was able to play through it last week, however, so the expectation is that he will do the same again in Week 7.
   - Source: https://www.fantasypros.com/nfl/news/615364/rico-dowdle-knee-limited-again-thursday.php
-- **NEW — Alvin Kamara** — Alvin Kamara - Limited again Thursday (2026-10-22T19:38:45Z)
+- **Alvin Kamara** — Alvin Kamara - Limited again Thursday (2026-10-22T19:38:45Z)
   - Kamara now has logged back-to-back capped practices to begin Week 7 prep as he deals with a back concern for a third consecutive week. He's been able to play through it, but his snap shares in Week 5 (27 percent) and Week 6 (26 percent) didn't equate to much work (14 touches for 75 yards from scrimmage and one receiving TD). Friday's injury report will unveil whether or not Kamara enters the weekend with a designation for Sunday's contest versus the Steelers in Paris.
-- **NEW — Dallas Goedert** — Dallas Goedert - Not spotted at practice Thursday (2026-10-22T19:37:27Z)
+- **Dallas Goedert** — Dallas Goedert - Not spotted at practice Thursday (2026-10-22T19:37:27Z)
   - Goedert joins several other Eagles skill-position players who weren't out with the team during the media-viewing part of the session, including DeVonta Smith and Dontayvion Wicks. Thursday's practice report will clarify whether Goedert is dealing with an injury or simply getting a rest day. Goedert missed two games due to a knee injury earlier in the season but has recorded six receptions in back-to-back weeks.
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks - Not spotted Thursday (2026-10-22T19:37:15Z)
+- **Dontayvion Wicks** — Dontayvion Wicks - Not spotted Thursday (2026-10-22T19:37:15Z)
   - The Eagles are holding a few key pass catchers out of practice Thursday, including Wicks, DeVonta Smith and Dallas Goedert. It could just be a rest day for those players, with clarification on any potential injuries to come on Thursday's injury report. If Wicks is dealing with an injury, he'll have an extra day to recover since the Eagles play Monday against Dallas.
-- **NEW — DeVonta Smith** — DeVonta Smith - Not spotted at practice Thursday (2026-10-22T19:32:51Z)
+- **DeVonta Smith** — DeVonta Smith - Not spotted at practice Thursday (2026-10-22T19:32:51Z)
   - Smith sat out Weeks 4 and 5 due to a hamstring injury, but he logged a full practice last Friday before suiting up this past Sunday against the Panthers. His snap share (66 percent) in that contest was below his weekly norm, but he still hauled in seven of 14 targets for 75 yards and a touchdown while working with QB Tanner McKee. Thursday's practice report will reveal if Smith is dealing with a health concern, or is merely getting the day off.
-- **NEW — Brock Bowers** — Brock Bowers - Practicing Thursday (2026-10-22T19:23:53Z)
+- **Brock Bowers** — Brock Bowers - Practicing Thursday (2026-10-22T19:23:53Z)
   - Bowers seems to be trending in the right direction after being added to the injury report with hamstring and calf injuries Wednesday. The Raiders will release their official injury report later Thursday, but it appears Bowers will at least be a limited participant during this session.
-- **NEW — Saquon Barkley** — Saquon Barkley - Present for practice Thursday (2026-10-22T19:20:45Z)
+- **Saquon Barkley** — Saquon Barkley - Present for practice Thursday (2026-10-22T19:20:45Z)
   - The Eagles signaled that Barkley was approaching a return to action by moving on from Carson Steele (shoulder, IR) and Jaydon Blue earlier this week. Mike Garafolo of NFL Network then reported Thursday morning that Barkley was expected to practice Thursday with the aim to play Monday against the Cowboys. While Barkley's activity level as he mixes back into drills isn't known yet, he appears to be trending in the right direction for Week 7 action.
-- **NEW — Mike Washington Jr.** — Mike Washington - Looks set to miss Thursday's practice (2026-10-22T19:18:33Z)
+- **Mike Washington Jr.** — Mike Washington - Looks set to miss Thursday's practice (2026-10-22T19:18:33Z)
   - After taking limited reps Wednesday due to a pair of injuries, Washington looks like he'll be downgraded to a non-participant for the Raiders' second practice of Week 7. Washington will likely need to get back on the field Friday in some capacity to put himself on a path to play Sunday versus the Rams. In the event the rookie fourth-round pick is unable to suit up this weekend, starter Ashton Jeanty could be forced to take on a heavier workload out of the backfield, while Dylan Laube would step in as the top complementary option.
-- **NEW — Rico Dowdle** — Rico Dowdle - Limited again Thursday (2026-10-22T19:17:47Z)
+- **Rico Dowdle** — Rico Dowdle - Limited again Thursday (2026-10-22T19:17:47Z)
   - Thursday marked another limited session for Dowdle, who has been dealing with a knee issue in the lead-up to the Steelers' upcoming game against the Saints. He will have a chance to ramp up to a full practice on Friday before the Steelers make a final call on his gameday status.
-- **NEW — Quinshon Judkins** — Quinshon Judkins (ankle) practices Thursday  (2026-10-22T18:50:13.556000Z)
+- **Quinshon Judkins** — Quinshon Judkins (ankle) practices Thursday  (2026-10-22T18:50:13.556000Z)
   - Judkins is on track to be good to go for Sunday's game against the Titans. His status will need to be monitored in practice on Friday. 
   - Source: https://www.fantasypros.com/nfl/news/615355/quinshon-judkins-ankle-practices-thursday.php
-- **NEW — Dylan Sampson** — Dylan Sampson (knee) practices Thursday  (2026-10-22T18:50:13.541000Z)
+- **Dylan Sampson** — Dylan Sampson (knee) practices Thursday  (2026-10-22T18:50:13.541000Z)
   - Sampson is on track to be good to go for Sunday's game against the Titans. His status will need to be monitored in practice on Friday. 
   - Source: https://www.fantasypros.com/nfl/news/615356/dylan-sampson-knee-practices-thursday.php
-- **NEW — Lamar Jackson** — Lamar Jackson (ankle) practices Thursday  (2026-10-22T18:40:13.496000Z)
+- **Lamar Jackson** — Lamar Jackson (ankle) practices Thursday  (2026-10-22T18:40:13.496000Z)
   - Jackson was listed as a limited participant in practice on Wednesday. It appears with another practice, he'll have a chance to return for Sunday's game against the Bengals. 
   - Source: https://www.fantasypros.com/nfl/news/615354/lamar-jackson-ankle-practices-thursday.php
-- **NEW — David Montgomery** — David Montgomery (groin) not expected to play Sunday  (2026-10-22T18:30:13.445000Z)
+- **David Montgomery** — David Montgomery (groin) not expected to play Sunday  (2026-10-22T18:30:13.445000Z)
   - Montgomery will miss a second straight game. Woody Marks will remain an RB2 play for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/615349/david-montgomery-groin-not-expected-to-play-sunday.php
-- **NEW — Zach Charbonnet** — Zach Charbonnet activated from PUP list on Thursday (2026-10-22T18:10:13.356000Z)
+- **NEW — Puka Nacua** — Puka Nacua Leaves Practice Early on Thursday With Calf Injury (2026-10-22T18:20:09Z)
+  - Source: https://www.rotoballer.com/player-news/puka-nacua-leaves-practice-early-on-thursday-with-calf-injury/1973145
+- **Zach Charbonnet** — Zach Charbonnet activated from PUP list on Thursday (2026-10-22T18:10:13.356000Z)
   - Charbonnet seems likely to play in Week 7 against Kansas City, and good timing as the Seahawks desperately need a running game. However, don't expect a big workload to start, as he is still working his way back to full health from a major injury. He's certainly worth monitoring and keeping an eye on. If he's on waivers, he's worth a stash.
   - Source: https://www.fantasypros.com/nfl/news/615347/zach-charbonnet-activated-from-pup-list-on-thursday.php
-- **NEW — Zach Charbonnet** — Zach Charbonnet - Activated from PUP list (2026-10-22T18:09:09Z)
+- **Zach Charbonnet** — Zach Charbonnet - Activated from PUP list (2026-10-22T18:09:09Z)
   - Because Seattle opened his 21-day practice window Oct. 1, the team was required to activate him by Thursday afternoon, or else he'd need to remain on the PUP list for the rest of the season. Considering he finally logged a full practice Wednesday for the first time since tearing his left ACL on Jan. 17, he's closing in on a return to action. That doesn't necessarily mean Charbonnet will be cleared to play Sunday night against the Chiefs, but Friday's injury report will reveal his chances to do so.
+- **NEW — Rashee Rice** — Rashee Rice Misses Another Practice on Thursday (2026-10-22T17:57:10Z)
+  - Source: https://www.rotoballer.com/player-news/rashee-rice-misses-another-practice-on-thursday/1973113
+- **NEW — George Pickens** — George Pickens on the Injury Report With Shoulder Injury (2026-10-22T17:47:09Z)
+  - Source: https://www.rotoballer.com/player-news/george-pickens-on-the-injury-report-with-shoulder-injury/1973109
 - **David Montgomery** — David Montgomery - Not practicing Thursday (2026-10-22T17:45:38Z)
   - Wilson adds that Montgomery is expected to miss Sunday's game against the Giants, though head coach DeMeco Ryans has yet to confirm as much. In any event, Montgomery's chances of playing look slim at best, as he has yet to practice since exiting during Houston's Week 5 win over the Titans. Woody Marks started in Montgomery's absence against the Jaguars in Week 6, and Marks is poised to lead the backfield again Sunday, with Dare Ogunbowale likely to fill a change-of-pace role and Jawhar Jordan (quadriceps) no longer a candidate to be elevated after being placed on the practice squad injured list.
+- **NEW — Dalton Schultz** — Dalton Schultz Puts in Limited Practice on Thursday (2026-10-22T17:40:12Z)
+  - Source: https://www.rotoballer.com/player-news/dalton-schultz-puts-in-limited-practice-on-thursday/1973105
+- **NEW — KC Concepcion Jr.** — KC Concepcion Jr. Limited Again With Multiple Injuries (2026-10-22T17:32:09Z)
+  - Source: https://www.rotoballer.com/player-news/kc-concepcion-jr-limited-again-with-multiple-injuries/1973100
 - **Tyler Warren** — Tyler Warren (groin) not practicing Thursday  (2026-10-22T17:30:12.504000Z)
   - Warren missed another practice. He'll likely need to practice in some capacity on Friday to have a chance to return this week. 
   - Source: https://www.fantasypros.com/nfl/news/615334/tyler-warren-groin-not-practicing-thursday.php
+- **NEW — Dylan Sampson** — Dylan Sampson Continues to be Limited as his Return Nears (2026-10-22T17:25:11Z)
+  - Source: https://www.rotoballer.com/player-news/dylan-sampson-continues-to-be-limited-as-his-return-nears/1973095
+- **NEW — Quinshon Judkins** — Quinshon Judkins Limited Again in Thursday's Practice (2026-10-22T17:18:11Z)
+  - Source: https://www.rotoballer.com/player-news/quinshon-judkins-limited-again-in-thursdays-practice/1973090
 - **Josh Jacobs** — Josh Jacobs - Practicing Thursday (2026-10-22T17:15:49Z)
   - Jacobs was removed from the commissioner's exempt list Monday, and while the Packers held a walkthrough Wednesday, it wasn't open to the media, so his activity Thursday marks his first visible on-field work since training camp. It remains unclear if Green Bay will clear him to play Sunday at Detroit, but the team has a roster exemption at its disposal that lasts until Monday, Oct. 26, which allows it flexibility if Jacobs isn't deemed ready to make his season debut this weekend.
 - **Tyler Warren** — Tyler Warren - Not spotted Thursday (2026-10-22T17:13:21Z)
   - Warren looks to be sitting out a second consecutive practice due to a groin injury, which also kept him out of the Colts' loss to the Titans this past Sunday. Will Mallory drew six targets in Warren's absence, and Mallory could continue to play an elevated role Sunday against the Vikings if Warren is ruled out. Warren will have one more chance to practice in some capacity Friday.
+- **NEW — Jordan Love** — Jordan Love Upgrades to Full Practice on Thursday (2026-10-22T17:13:18Z)
+  - Source: https://www.rotoballer.com/player-news/jordan-love-upgrades-to-full-practice-on-thursday-2/1973088
 - **Lamar Jackson** — Lamar Jackson - Present for start of practice Thursday (2026-10-22T17:09:31Z)
   - Jackson was listed as a limited participant Wednesday, but he was notably absent from the portion of practice open to the media. The star QB is present during the media-access portion Thursday, but it remains to be seen if Jackson has progressed to full participation. Jackson missed Baltimore's previous two games, during which Tyler Huntley posted a 1-1 record while filling in under center.
-- **NEW — Deebo Samuel Sr.** — Deebo Samuel Sr. Not Seen at Thursday's Practice (2026-10-22T17:07:09Z)
+- **Deebo Samuel Sr.** — Deebo Samuel Sr. Not Seen at Thursday's Practice (2026-10-22T17:07:09Z)
   - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-not-seen-at-thursdays-practice/1973084
 - **J.J. McCarthy** — J.J. McCarthy to have 100 percent of playbook to work with (2026-10-22T17:05:12.914000Z)
   - McCarthy will get his first official start with the Giants. He'll be a QB2 play in a tough matchup against the Texans. 
@@ -150,83 +216,19 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Christian Watson** — Christian Watson (ankle) will be good to go Sunday  (2026-10-22T17:00:12.932000Z)
   - Watson is on the injury report with an ankle injury. He'll be good to go for Sunday's game against the Lions. 
   - Source: https://www.fantasypros.com/nfl/news/615321/christian-watson-ankle-will-be-good-to-go-sunday.php
-- **NEW — Jeremiyah Love** — Jeremiyah Love Misses Practice on Thursday, Seen Working to the Side (2026-10-22T16:48:13Z)
+- **Jeremiyah Love** — Jeremiyah Love Misses Practice on Thursday, Seen Working to the Side (2026-10-22T16:48:13Z)
   - Source: https://www.rotoballer.com/player-news/jeremiyah-love-misses-practice-on-thursday-seen-working-to-the-side-with-trainers/1973073
 - **Dalton Schultz** — Dalton Schultz - Back at practice Thursday (2026-10-22T16:38:15Z)
   - Schultz sat out practice Wednesday due to a quadriceps injury. His participation level Thursday will be revealed later in the day, but it's a good sign that Schultz is set to practice in at least some capacity. He remains locked in atop Houston's depth chart at tight end when healthy. The Texans have made their way back from London and will host the Giants on Sunday.
-- **NEW — Mike Evans** — Mike Evans Not Seen at Practice on Thursday (2026-10-22T16:35:09Z)
+- **Mike Evans** — Mike Evans Not Seen at Practice on Thursday (2026-10-22T16:35:09Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-not-seen-at-practice-on-thursday/1973063
 - **Matthew Golden** — Matthew Golden - Shoulder issue downplayed (2026-10-22T16:33:18Z)
   - Golden and Christian Watson (ankle) were both listed as limited participants at Wednesday's practice, but Green Bay's coach is confident that both starting wideouts will be available Sunday. Watson (538) and Golden (501) have combined for the most yards by any pair of teammates at wide receiver in the league this season.
-- **NEW — Adonai Mitchell** — Adonai Mitchell Remains Limited in Practice on Thursday (2026-10-22T16:27:09Z)
+- **Adonai Mitchell** — Adonai Mitchell Remains Limited in Practice on Thursday (2026-10-22T16:27:09Z)
   - Source: https://www.rotoballer.com/player-news/adonai-mitchell-remains-limited-in-practice-on-thursday/1973056
 - **Christian Watson** — Christian Watson - Coach confident he'll play Sunday (2026-10-22T16:26:51Z)
   - LaFleur said the same thing about Matthew Golden (shoulder) after Green Bay's top two wide receivers were both limited participants at Wednesday's practice. Watson may continue to have his practice reps monitored, but he isn't in any danger of sitting out Sunday's matchup against Detroit's struggling secondary.
-- **NEW — Woody Marks** — Woody Marks Expected to Lead Texans Backfield Against Giants (2026-10-22T16:20:11Z)
+- **Woody Marks** — Woody Marks Expected to Lead Texans Backfield Against Giants (2026-10-22T16:20:11Z)
   - Source: https://www.rotoballer.com/player-news/woody-marks-expected-to-lead-texans-backfield-against-giants/1973049
-- **NEW — Chase Brown** — Chase Brown Losing Value Amid Backfield Split in Cincinnati (2026-10-22T16:09:09Z)
+- **Chase Brown** — Chase Brown Losing Value Amid Backfield Split in Cincinnati (2026-10-22T16:09:09Z)
   - Source: https://www.rotoballer.com/player-news/chase-brown-losing-value-amid-backfield-split-in-cincinnati/1973029
-- **Bucky Irving** — Bucky Irving - Back at practice Thursday (2026-10-22T16:03:56Z)
-  - After sitting out Wednesday's session due to an illness, Irving joined his teammates on the practice field Thursday, though it remains to be seen if he can ramp up to full participation. His availability for Sunday's game against the Panthers doesn't seem to be in any danger, so Irving is likely to work in his customary lead role come Sunday, ahead of Kenny Gainwell and Sean Tucker.
-- **Emeka Egbuka** — Emeka Egbuka - Working on side Thursday (2026-10-22T16:01:08Z)
-  - After sitting out Wednesday's practice, Egbuka was spotted Thursday but it remains to be seen whether or not he will be credited with any official level of practice participation. He'll need to log a full practice Friday to have a chance to clear concussion protocol before Sunday's game against the Panthers, and Egbuka is also nursing a foot injury to further complicate his path to availability.
-- **NEW — Xavier Worthy** — Xavier Worthy Finds More Ways to Produce in Chiefs' Passing Game (2026-10-22T15:58:51Z)
-  - Source: https://www.rotoballer.com/player-news/xavier-worthy-finds-more-ways-to-produce-in-chiefs-passing-game/1973013
-- **Jeremiyah Love** — Jeremiyah Love - Probably sitting again Week 7 (2026-10-22T15:57:17Z)
-  - Love didn't practice Wednesday after sitting out this past Sunday's win over the Rams. He still has two more opportunities to resume practicing and give himself a chance to return Sunday against the Broncos, but the report suggests that the Cardinals are pessimistic regarding the rookie third overall pick's availability. If Love misses a second consecutive game, Tyler Allgeier and Bam Knight would be in line for additional opportunities against a Denver run defense that has been surprisingly weak this season.
-- **NEW — Mike Washington Jr.** — Mike Washington Jr. Absent From Start of Thursday's Practice (2026-10-22T15:43:12Z)
-  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-absent-from-start-of-thursdays-practice/1972998
-- **NEW — Saquon Barkley** — Saquon Barkley Returns to Practice, Expected to Play in Week 7 (2026-10-22T15:31:10Z)
-  - Source: https://www.rotoballer.com/player-news/saquon-barkley-returns-to-practice-expected-to-play-in-week-7/1972993
-- **Jeremiyah Love** — Jeremiyah Love (ankle) expected to miss Week 7 (2026-10-22T15:30:11.790000Z)
-  - If Love misses Week 7, that would make it two weeks in a row he has missed due to a nagging ankle injury. Bam Knight was a surprise producer with Love out, rather than the assumed starter in Tyler Allgeier. If Love sits yet again, Knight seems like the preferred option if you have to pick one, but it's a risky bet.
-  - Source: https://www.fantasypros.com/nfl/news/615309/jeremiyah-love-ankle-expected-to-miss-week-7.php
-- **NEW — RJ Harvey** — RJ Harvey Re-Establishes PPR Appeal With Receiving Work (2026-10-22T15:20:11Z)
-  - Source: https://www.rotoballer.com/player-news/rj-harvey-reestablishes-ppr-appeal-with-receiving-work/1972986
-- **Jonah Coleman** — Jonah Coleman - Practices without limits Wednesday (2026-10-22T14:33:16Z)
-  - Coleman's full participation Wednesday after he was designated to return from injured reserve is an encouraging sign regarding his health ahead of Sunday's game against the Cardinals, though the rookie running back will still need to be added back to the active roster with a subsequent transaction in order to suit up Sunday. Barring any setbacks, Coleman appears poised to rejoin a crowded Broncos backfield that also includes J.K. Dobbins, RJ Harvey and Tyler Badie (thumb).
-- **NEW — Zach Charbonnet** — Seahawks Officially Activate Zach Charbonnet From PUP List (2026-10-22T14:11:10Z)
-  - Source: https://www.rotoballer.com/player-news/seahawks-officially-activate-zach-charbonnet-from-pup-list/1972943
-- **NEW — Aaron Jones Sr.** — Aaron Jones Sr. Faces a Drastically Lowered Ceiling with Teammate's Return (2026-10-22T14:00:42Z)
-  - Source: https://www.rotoballer.com/player-news/aaron-jones-sr-faces-a-drastically-lowered-ceiling-with-teammates-return/1972926
-- **NEW — David Montgomery** — David Montgomery Not Expected to Play in Week 7 (2026-10-22T13:54:10Z)
-  - Source: https://www.rotoballer.com/player-news/david-montgomery-not-expected-to-play-in-week-7/1972919
-- **Saquon Barkley** — Saquon Barkley (hamstring) expected to practice Thursday (2026-10-22T13:50:11.219000Z)
-  - Barkley would provide a nice boost to the Eagles offense, getting back one of their most dynamic playmakers on offense. Dameon Pierce filled in for Barkley last week, and could potentially see some touches as Barkley works his was back from injury. However, Barkley is by far the preferred fantasy option and Pierce would be a risky flex play at best.
-  - Source: https://www.fantasypros.com/nfl/news/615275/saquon-barkley-hamstring-expected-to-practice-thursday.php
-- **Saquon Barkley** — Saquon Barkley - On track for MNF (2026-10-22T13:45:22Z)
-  - Barkley has not practiced at all since injuring his hamstring in Week 4, but it appears he will be back out there Thursday. His return would be a welcome boost for an Eagles team that currently only has two other running backs available -- Dameon Pierce and Elijah Mitchell, who joined the practice squad earlier this week.
-- **Tyler Warren** — Tyler Warren Still Absent from Practice on Thursday (2026-10-22T13:40:11Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-warren-still-absent-from-practice-on-thursday/1972908
-- **Josh Jacobs** — Josh Jacobs Practicing on Thursday (2026-10-22T13:37:09Z)
-  - Source: https://www.rotoballer.com/player-news/josh-jacobs-practicing-on-thursday/1972906
-- **Breece Hall** — Breece Hall Moving Well at Practice, Could Play in Week 7 (2026-10-22T13:27:09Z)
-  - Source: https://www.rotoballer.com/player-news/breece-hall-moving-well-at-practice/1972899
-- **Lamar Jackson** — Lamar Jackson Present for the Start of Thursday's Practice (2026-10-22T13:13:18Z)
-  - Source: https://www.rotoballer.com/player-news/lamar-jackson-present-for-the-start-of-thursdays-practice/1972888
-- **A.J. Brown** — A.J. Brown Ready to Bounce Back on Thursday Night? (2026-10-22T12:58:11Z)
-  - Source: https://www.rotoballer.com/player-news/a-j-brown-ready-to-bounce-back-on-thursday-night/1972882
-- **Kalif Raymond** — Kalif Raymond Still in Play for TNF (2026-10-22T12:41:06Z)
-  - Source: https://www.rotoballer.com/player-news/kalif-raymond-still-in-play-for-tnf/1972873
-- **Dalton Schultz** — Dalton Schultz Back at Practice on Thursday (2026-10-22T12:35:09Z)
-  - Source: https://www.rotoballer.com/player-news/dalton-schultz-back-at-practice-on-thursday/1972869
-- **Cam Skattebo** — Cam Skattebo Praised for Response to Week 6 Demotion (2026-10-22T12:33:14Z)
-  - Source: https://www.rotoballer.com/player-news/cam-skattebo-praised-for-response-to-week-6-demotion/1972867
-- **Jonathan Taylor** — Jonathan Taylor Hasn't Considered Possibility of Being Traded (2026-10-22T12:32:09Z)
-  - Source: https://www.rotoballer.com/player-news/jonathan-taylor-hasnt-considered-possibility-of-being-traded/1972865
-- **Bucky Irving** — Bucky Irving Back at Practice After Wednesday's Absence (2026-10-22T12:31:09Z)
-  - Source: https://www.rotoballer.com/player-news/bucky-irving-back-at-practice-after-wednesdays-absence/1972863
-- **Matthew Golden** — Matthew Golden Should be Fine Despite Dealing With Shoulder Injury (2026-10-22T12:28:14Z)
-  - Source: https://www.rotoballer.com/player-news/matthew-golden-should-be-fine-despite-dealing-with-shoulder-injury/1972861
-- **Christian Watson** — Packers Not Concerned About Christian Watson's Ankle Issue (2026-10-22T12:13:18Z)
-  - Source: https://www.rotoballer.com/player-news/packers-not-concerned-about-christian-watsons-ankle-issue/1972852
-- **Baker Mayfield** — Baker Mayfield Throwing Well as Week 7 Decision Nears (2026-10-22T11:59:45Z)
-  - Source: https://www.rotoballer.com/player-news/baker-mayfield-throwing-well-as-week-7-decision-nears/1972847
-- **Emeka Egbuka** — Emeka Egbuka Trending Toward Missing Week 7 (2026-10-22T11:49:09Z)
-  - Source: https://www.rotoballer.com/player-news/emeka-egbuka-trending-toward-missing-week-7/1972843
-- **DK Metcalf** — DK Metcalf Regains Momentum With 15-Target Performance (2026-10-22T11:40:41Z)
-  - Source: https://www.rotoballer.com/player-news/dk-metcalf-regains-momentum-with-15-target-performance/1972838
-- **Jeremiyah Love** — Jeremiyah Love Expected to Miss Second Consecutive Game (2026-10-22T11:29:09Z)
-  - Source: https://www.rotoballer.com/player-news/jeremiyah-love-expected-to-miss-second-consecutive-game/1972829
-- **Bryce Young** — Bryce Young Surging in Fantasy Football as Passing Attack Finds a Groove (2026-10-22T11:12:10Z)
-  - Source: https://www.rotoballer.com/player-news/bryce-young-surging-in-fantasy-football-as-passing-attack-finds-a-groove/1972819
