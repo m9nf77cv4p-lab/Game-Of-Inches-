@@ -2,14 +2,34 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6427**
-- Newly captured: **5**
+- Stored stories: **6414**
+- Newly captured: **9**
 
 ## Latest news
 
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Minimal role in Week 7 loss (2026-10-23T04:59:35Z)
+- **NEW — Caleb Williams** — Caleb Williams throws for more than 300 yards in Week 7 win (2026-10-23T14:15:22.760000Z)
+  - Williams added 18 yards on five carries to his strong stat line from Thursday night. The third-year pro has been excellent since returning from injury, leading the Bears to two victories over the past five days. Williams has cleared 300 yards in each of those games, tossing three touchdowns without an interception. 
+  - Source: https://www.fantasypros.com/nfl/news/615492/caleb-williams-throws-more-300-yards-week-7-win.php
+- **NEW — Baker Mayfield** — Baker Mayfield (thumb) will start in Week 7 (2026-10-23T13:45:22.384000Z)
+  - Mayfield practiced in full on Thursday, and the Buccaneers will have their starting QB back leading the offense in Carolina on Sunday. Mayfield has missed each of the last three games. Jalon Daniels will return to the backup role. 
+  - Source: https://www.fantasypros.com/nfl/news/615488/baker-mayfield-thumb-will-start-week-7.php
+- **NEW — Alvin Kamara** — Alvin Kamara - Cleared from injury report (2026-10-23T13:31:02Z)
+  - Kamara did not get a full practice in all week, but it appears that was simply for management purposes, as he will not head into Week 7 with any sort of injury tag. He shared the backfield duties with Kendre Miller and CJ Donaldson each of the last three weeks, and with Travis Etienne (hamstring) spending at least one more game on injured reserve, he figures to do the same Sunday in Paris.
+- **NEW — Rico Dowdle** — Rico Dowdle - Questionable for Week 7 (2026-10-23T13:04:11Z)
+  - The Steelers did not practice Friday because of poor weather in Paris, but if they had Dowdle would have been limited with the knee injury -- different than the toe issue he was dealing with previously -- for a third straight day. The Steelers will practice Saturday and could provide an update on Dowdle's status after the session concludes, otherwise his status for Week 7 will be revealed when Pittsburgh releases its inactives 90 minutes before Sunday's 9:30 a.m. ET kickoff.
+- **NEW — Puka Nacua** — Puka Nacua - Seemingly avoids serious setback (2026-10-23T12:48:09Z)
+  - Nacua left Thursday's practice with the calf issue, and tests performed afterward appear to have indicated he did not sustain a serious injury. The report notes that Nacua's availability for Week 7 remains uncertain, but the Rams will presumably provide an official update on both his short- and long-term status at some point Friday.
+- **NEW — Baker Mayfield** — Baker Mayfield Expects to Return With Protective Glove in Week 7 (2026-10-23T10:10:11Z)
+  - Source: https://www.rotoballer.com/player-news/baker-mayfield-expects-to-return-with-protective-glove-in-week-7/1973466
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson has Another Disappointing Performance (2026-10-23T09:50:29Z)
+  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-posts-another-disappointing-performance-against-bears/1973447
+- **NEW — Rico Dowdle** — Rico Dowdle Listed as Questionable to Play in Week 7 (2026-10-23T09:15:11Z)
+  - Source: https://www.rotoballer.com/player-news/rico-dowdle-listed-as-questionable-to-play-in-week-7/1973412
+- **NEW — Puka Nacua** — Puka Nacua Believed to Have Suffered Minor Calf Injury (2026-10-23T09:09:09Z)
+  - Source: https://www.rotoballer.com/player-news/puka-nacua-believed-to-have-suffered-minor-calf-injury/1973408
+- **TreVeyon Henderson** — TreVeyon Henderson - Minimal role in Week 7 loss (2026-10-23T04:59:35Z)
   - Henderson's modest numbers underscore how modest a role he filled in the high-scoring loss. Rhamondre Stevenson had just six carries in his own right, but he also recorded a team-high 93 receiving yards on five catches. Henderson's rush attempts and rushing yards were both season lows, and the second-year back will look to bounce back in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.
-- **NEW — Hunter Henry** — Hunter Henry - Busy night in Week 7 loss (2026-10-23T04:53:49Z)
+- **Hunter Henry** — Hunter Henry - Busy night in Week 7 loss (2026-10-23T04:53:49Z)
   - The veteran tight end was a key contributor throughout the night, finishing with team-high figures in receptions and targets while ending second in receiving yards. All three components of Henry's receiving line also were season-high figures, and he now has between 44 and 71 receiving yards in four consecutive games. Henry will take a 26-296-2 line on 31 targets into a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.
 - **Rome Odunze** — Rome Odunze - Outproduced by Burden again (2026-10-23T04:31:53Z)
   - Odunze was encouragingly efficient in the high-scoring win, but he once again saw fellow wideout Luther Burden be more productive. Burden's 130 receiving yards led the Bears on the night, and Odunze appears to have fallen into more of a de facto No. 2 role at this point in the season. Odunze still carries solid fantasy value, however, and he'll carry a 24-381-0 line on 38 targets into a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.
@@ -29,15 +49,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Maye's final line was one that could have easily been generated in victory, but the 2024 first-round pick couldn't quite help the Patriots keep pace with the high-powered Bears offense. Nevertheless, he was able to post his second 300-yard effort in the last three games, while also tossing multiple touchdowns for the fourth straight contest. Maye connected with Rhamondre Stevenson and Eli Raridon from 48 and 30 yards, respectively, for those two scoring strikes, the former coming off a screen pass on the last snap of the first half. Those big plays were preceded by Maye's seven-yard scoring run early in the second quarter, and he also pulled his season completion rate up to 65.9 percent with Thursday's highly efficient effort. The third-year signal-caller should have a good opportunity to stay hot in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.
 - **Eli Stowers** — Eli Stowers - Full practice Thursday (2026-10-23T01:15:45Z)
   - Stowers has been on injured reserve since Sept. 12 while recovering from a pair of hamstring and quadriceps injuries. The tight end had his 21-day practice window opened Oct. 14, and his ability to open the week with a full practice is a good sign for his chances to return to action Monday night against Dallas.
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Rumbles for Long TD in Loss (2026-10-23T01:15:10Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson Rumbles for Long TD in Loss (2026-10-23T01:15:10Z)
   - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-rumbles-for-long-td-in-loss/1973279
 - **Drew Lock** — Drew Lock - Still limited in practice (2026-10-23T01:03:59Z)
   - Lock has now been limited in each of Seattle's past five practice sessions, though he was able to suit up last Thursday against Denver. It seems likely that he'll be active again for this Sunday's matchup against Kansas City, though Seattle's practice report Friday should provide more clarity in that regard. If Lock does indeed suit up Sunday, he'll again work as Sam Darnold's backup.
-- **NEW — Colston Loveland** — Colston Loveland Leads Bears in Targets Thursday (2026-10-23T01:00:14Z)
+- **Colston Loveland** — Colston Loveland Leads Bears in Targets Thursday (2026-10-23T01:00:14Z)
   - Source: https://www.rotoballer.com/player-news/colston-loveland-leads-bears-in-targets-thursday/1973277
 - **Carson Beck** — Carson Beck - Unable to practice Thursday (2026-10-23T01:00:04Z)
   - Beck popped up on the Cardinals' injury report with a back issue Wednesday, and he's now trending in the wrong direction ahead of a Week 7 matchup versus the Broncos. If he can't get back on the practice field Friday, it's unlikely he'll be available in any capacity come Sunday.
-- **NEW — D'Andre Swift** — D'Andre Swift Cruises to Another Strong Performance (2026-10-23T00:44:09Z)
+- **D'Andre Swift** — D'Andre Swift Cruises to Another Strong Performance (2026-10-23T00:44:09Z)
   - Source: https://www.rotoballer.com/player-news/dandre-swift-cruises-to-another-strong-performance/1973275
 - **Brock Bowers** — Brock Bowers (hamstring/calf) upgraded to full participant Thursday (2026-10-23T00:35:16.255000Z)
   - Bowers was limited on Wednesday due to a pair of minor injuries that he's managing, but he was upgraded to a full participant on Thursday and will be good to go for Week 7. He will continue to be a top-tier fantasy option at the position for as long as he remains healthy and on the field moving forward.
@@ -47,7 +67,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Dontayvion Wicks** — Dontayvion Wicks (ankle) sidelined at practice Thursday (2026-10-23T00:20:16.430000Z)
   - The young wideout wasn't able to practice on Thursday, as he's managing an ankle issue of some kind right now. It could threaten his availability for Week 7, but only if he's not able to practice on Friday either.
   - Source: https://www.fantasypros.com/nfl/news/615424/dontayvion-wicks-ankle-sidelined-practice-thursday.php
-- **Drake Maye** — Drake Maye Posts Another Superb Effort in TNF Defeat (2026-10-23T00:15:09Z)
+- **Drake Maye** — Drake Maye has Another Superb Effort in TNF Defeat (2026-10-23T00:15:09Z)
   - Source: https://www.rotoballer.com/player-news/drake-maye-posts-another-superb-effort-in-tnf-defeat/1973271
 - **DeVonta Smith** — DeVonta Smith (hamstring) misses practice Thursday (2026-10-23T00:10:16.446000Z)
   - Smith is still dealing with a lingering hamstring issue, but he played through it last week, so it seems his absence at practice was more of injury management on the part of the team. He should play on Monday night, but he may be a risky starter with QB Tanner McKee set to be the starter for the Eagles moving forward.
@@ -207,22 +227,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Alvin Kamara** — Alvin Kamara (back) limited participant Thursday (2026-10-22T19:45:13.809000Z)
   - To no surprise, Kamara was left limited for another practice on Thursday due to the back injury that he's managing. He should play in Week 7, but it remains unlikely that he will have a strong performance from a fantasy perspective.
   - Source: https://www.fantasypros.com/nfl/news/615368/alvin-kamara-back-limited-participant-thursday.php
-- **Rico Dowdle** — Rico Dowdle (knee) limited again Thursday (2026-10-22T19:40:13.934000Z)
-  - The veteran running back was limited for another practice session on Thursday as he continues to manage a knee injury of some kind. He was able to play through it last week, however, so the expectation is that he will do the same again in Week 7.
-  - Source: https://www.fantasypros.com/nfl/news/615364/rico-dowdle-knee-limited-again-thursday.php
-- **Alvin Kamara** — Alvin Kamara - Limited again Thursday (2026-10-22T19:38:45Z)
-  - Kamara now has logged back-to-back capped practices to begin Week 7 prep as he deals with a back concern for a third consecutive week. He's been able to play through it, but his snap shares in Week 5 (27 percent) and Week 6 (26 percent) didn't equate to much work (14 touches for 75 yards from scrimmage and one receiving TD). Friday's injury report will unveil whether or not Kamara enters the weekend with a designation for Sunday's contest versus the Steelers in Paris.
-- **Dallas Goedert** — Dallas Goedert - Not spotted at practice Thursday (2026-10-22T19:37:27Z)
-  - Goedert joins several other Eagles skill-position players who weren't out with the team during the media-viewing part of the session, including DeVonta Smith and Dontayvion Wicks. Thursday's practice report will clarify whether Goedert is dealing with an injury or simply getting a rest day. Goedert missed two games due to a knee injury earlier in the season but has recorded six receptions in back-to-back weeks.
-- **Dontayvion Wicks** — Dontayvion Wicks - Not spotted Thursday (2026-10-22T19:37:15Z)
-  - The Eagles are holding a few key pass catchers out of practice Thursday, including Wicks, DeVonta Smith and Dallas Goedert. It could just be a rest day for those players, with clarification on any potential injuries to come on Thursday's injury report. If Wicks is dealing with an injury, he'll have an extra day to recover since the Eagles play Monday against Dallas.
-- **DeVonta Smith** — DeVonta Smith - Not spotted at practice Thursday (2026-10-22T19:32:51Z)
-  - Smith sat out Weeks 4 and 5 due to a hamstring injury, but he logged a full practice last Friday before suiting up this past Sunday against the Panthers. His snap share (66 percent) in that contest was below his weekly norm, but he still hauled in seven of 14 targets for 75 yards and a touchdown while working with QB Tanner McKee. Thursday's practice report will reveal if Smith is dealing with a health concern, or is merely getting the day off.
-- **Brock Bowers** — Brock Bowers - Practicing Thursday (2026-10-22T19:23:53Z)
-  - Bowers seems to be trending in the right direction after being added to the injury report with hamstring and calf injuries Wednesday. The Raiders will release their official injury report later Thursday, but it appears Bowers will at least be a limited participant during this session.
-- **Saquon Barkley** — Saquon Barkley - Present for practice Thursday (2026-10-22T19:20:45Z)
-  - The Eagles signaled that Barkley was approaching a return to action by moving on from Carson Steele (shoulder, IR) and Jaydon Blue earlier this week. Mike Garafolo of NFL Network then reported Thursday morning that Barkley was expected to practice Thursday with the aim to play Monday against the Cowboys. While Barkley's activity level as he mixes back into drills isn't known yet, he appears to be trending in the right direction for Week 7 action.
-- **Mike Washington Jr.** — Mike Washington - Looks set to miss Thursday's practice (2026-10-22T19:18:33Z)
-  - After taking limited reps Wednesday due to a pair of injuries, Washington looks like he'll be downgraded to a non-participant for the Raiders' second practice of Week 7. Washington will likely need to get back on the field Friday in some capacity to put himself on a path to play Sunday versus the Rams. In the event the rookie fourth-round pick is unable to suit up this weekend, starter Ashton Jeanty could be forced to take on a heavier workload out of the backfield, while Dylan Laube would step in as the top complementary option.
-- **Rico Dowdle** — Rico Dowdle - Limited again Thursday (2026-10-22T19:17:47Z)
-  - Thursday marked another limited session for Dowdle, who has been dealing with a knee issue in the lead-up to the Steelers' upcoming game against the Saints. He will have a chance to ramp up to a full practice on Friday before the Steelers make a final call on his gameday status.
