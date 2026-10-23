@@ -1,38 +1,13 @@
 {
-  "last_checked_at": "2026-10-23T04:35:32Z",
+  "last_checked_at": "2026-10-23T09:32:34Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 303,
   "new_story_ids": [
-    "nfl|11560|rotoballer|225095|1792715349000",
-    "nfl|11560|rotowire|643891|1792727429000",
-    "nfl|11564|rotoballer|225094|1792714509000",
-    "nfl|11564|rotowire|643890|1792726979000",
-    "nfl|11604|fantasy_pros|615427|1792715716255",
-    "nfl|11604|rotoballer|225081|1792700591000",
-    "nfl|11620|rotowire|643898|1792729913000",
-    "nfl|12517|rotowire|643897|1792729602000",
-    "nfl|12519|rotoballer|225092|1792712296000",
-    "nfl|12519|rotowire|643892|1792727951000",
-    "nfl|13272|rotowire|643868|1792717204000",
-    "nfl|13305|rotoballer|225082|1792701010000",
-    "nfl|13345|fantasy_pros|615418|1792714216168",
-    "nfl|13345|rotoballer|225085|1792704948000",
-    "nfl|13349|rotowire|643874|1792718145000",
-    "nfl|4866|fantasy_pros|615421|1792714216133",
-    "nfl|4866|rotoballer|225090|1792710733000",
-    "nfl|5022|fantasy_pros|615420|1792714216145",
-    "nfl|5022|rotoballer|225087|1792706709000",
-    "nfl|5854|rotowire|643869|1792717439000",
-    "nfl|5859|rotoballer|225093|1792712651000",
-    "nfl|5859|rotowire|643895|1792729162000",
-    "nfl|6790|rotowire|643894|1792728688000",
-    "nfl|6813|rotoballer|225089|1792708093000",
-    "nfl|7525|fantasy_pros|615422|1792714216446",
-    "nfl|7525|rotoballer|225083|1792701933000",
-    "nfl|7611|rotowire|643893|1792728255000",
-    "nfl|8154|rotoballer|225080|1792699391000",
-    "nfl|9486|fantasy_pros|615424|1792714816430",
-    "nfl|9486|rotoballer|225086|1792706292000"
+    "nfl|12517|rotoballer|225097|1792717214000",
+    "nfl|12529|rotowire|643901|1792731575000",
+    "nfl|3214|rotowire|643900|1792731229000",
+    "nfl|6790|rotoballer|225096|1792716249000",
+    "nfl|7611|rotoballer|225098|1792718110000"
   ],
   "schema_version": 1,
   "source": {
@@ -42,6 +17,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Henderson's modest numbers underscore how modest a role he filled in the high-scoring loss. Rhamondre Stevenson had just six carries in his own right, but he also recorded a team-high 93 receiving yards on five catches. Henderson's rush attempts and rushing yards were both season lows, and the second-year back will look to bounce back in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
+      "description": "Henderson rushed three times for nine yards and secured both targets for 14 yards in the Patriots' 30-24 loss to the Bears on Thursday.",
+      "metadata": {
+        "analysis": "Henderson's modest numbers underscore how modest a role he filled in the high-scoring loss. Rhamondre Stevenson had just six carries in his own right, but he also recorded a team-high 93 receiving yards on five catches. Henderson's rush attempts and rushing yards were both season lows, and the second-year back will look to bounce back in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
+        "description": "Henderson rushed three times for nine yards and secured both targets for 14 yards in the Patriots' 30-24 loss to the Bears on Thursday.",
+        "title": "TreVeyon Henderson - Minimal role in Week 7 loss",
+        "topic_id": "1419224162135797760"
+      },
+      "nfl_team": "NE",
+      "player_id": "12529",
+      "player_name": "TreVeyon Henderson",
+      "position": "RB",
+      "published": 1792731575000,
+      "source": "rotowire",
+      "source_key": "643901",
+      "story_id": "nfl|12529|rotowire|643901|1792731575000",
+      "title": "TreVeyon Henderson - Minimal role in Week 7 loss",
+      "url": null
+    },
+    {
+      "analysis": "The veteran tight end was a key contributor throughout the night, finishing with team-high figures in receptions and targets while ending second in receiving yards. All three components of Henry's receiving line also were season-high figures, and he now has between 44 and 71 receiving yards in four consecutive games. Henry will take a 26-296-2 line on 31 targets into a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
+      "description": "Henry secured all seven targets for 71 yards in the Patriots' 30-24 loss to the Bears on Thursday.",
+      "metadata": {
+        "analysis": "The veteran tight end was a key contributor throughout the night, finishing with team-high figures in receptions and targets while ending second in receiving yards. All three components of Henry's receiving line also were season-high figures, and he now has between 44 and 71 receiving yards in four consecutive games. Henry will take a 26-296-2 line on 31 targets into a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
+        "description": "Henry secured all seven targets for 71 yards in the Patriots' 30-24 loss to the Bears on Thursday.",
+        "title": "Hunter Henry - Busy night in Week 7 loss",
+        "topic_id": "1419221645641428992"
+      },
+      "nfl_team": "NE",
+      "player_id": "3214",
+      "player_name": "Hunter Henry",
+      "position": "TE",
+      "published": 1792731229000,
+      "source": "rotowire",
+      "source_key": "643900",
+      "story_id": "nfl|3214|rotowire|643900|1792731229000",
+      "title": "Hunter Henry - Busy night in Week 7 loss",
+      "url": null
+    },
     {
       "analysis": "Odunze was encouragingly efficient in the high-scoring win, but he once again saw fellow wideout Luther Burden be more productive. Burden's 130 receiving yards led the Bears on the night, and Odunze appears to have fallen into more of a de facto No. 2 role at this point in the season. Odunze still carries solid fantasy value, however, and he'll carry a 24-381-0 line on 38 targets into a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.",
       "description": "Odunze brought in four of five targets for 69 yards in the Bears' 30-24 win over the Patriots on Thursday.",
@@ -63,10 +78,10 @@
       "url": null
     },
     {
-      "analysis": "The second-year tight end continued to shake out of his early-season slump, putting together his second fantasy-friendly performance in a five-day span. Loveland led the Bears in receptions and targets on the night with figures that also qualified as season highs, and he added his second touchdown in five days on a 12-yard grab early in the third quarter. Loveland has a 13-134-2 line in the last two games alone and should continue playing a key role in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.",
+      "analysis": "The second-year tight end continued to shake out of his early-season slump, putting together his second fantasy-friendly performance in a five-day span. Loveland led the Bears in receptions and targets on the night with figures that also qualified as season highs, and he added his second touchdown in five days on a 12-yard grab early in the third quarter. He has a 13-134-2 line in the last two games alone and should continue playing a key role in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2, and he could be in line for even heavier involvement if Cole Kmet (knee) is unable to suit up.",
       "description": "Loveland secured seven of 12 targets for 69 yards and a touchdown during the Bears' 30-24 win over the Patriots on Thursday.",
       "metadata": {
-        "analysis": "The second-year tight end continued to shake out of his early-season slump, putting together his second fantasy-friendly performance in a five-day span. Loveland led the Bears in receptions and targets on the night with figures that also qualified as season highs, and he added his second touchdown in five days on a 12-yard grab early in the third quarter. Loveland has a 13-134-2 line in the last two games alone and should continue playing a key role in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.",
+        "analysis": "The second-year tight end continued to shake out of his early-season slump, putting together his second fantasy-friendly performance in a five-day span. Loveland led the Bears in receptions and targets on the night with figures that also qualified as season highs, and he added his second touchdown in five days on a 12-yard grab early in the third quarter. He has a 13-134-2 line in the last two games alone and should continue playing a key role in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2, and he could be in line for even heavier involvement if Cole Kmet (knee) is unable to suit up.",
         "description": "Loveland secured seven of 12 targets for 69 yards and a touchdown during the Bears' 30-24 win over the Patriots on Thursday.",
         "title": "Colston Loveland - Continues producing in Week 7 win",
         "topic_id": "1419215352700665856"
@@ -83,10 +98,10 @@
       "url": null
     },
     {
-      "analysis": "Brown entered the night looking to put a fairly forgettable Week 6 return from injury behind him, but the veteran wideout could only slightly improve his numbers in the high-scoring loss. Brown  was fairly quiet until the second half, when he had 16- and 14-yard grabs. Brown did finish second in targets on the night for New England, but Drake Maye focused most on tight end Hunter Henry and Rhamondre Stevenson, who saw a combined 12 targets. With Romeo Doubs (IR, shoulder) out for at least three more games, Brown will have a chance to see elevated volume in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
+      "analysis": "Brown entered the night looking to put a fairly forgettable Week 6 return from injury behind him, but the veteran wideout could only slightly improve his numbers in the high-scoring loss. He was fairly quiet until the second half, when he had 16- and 14-yard grabs. Brown did finish second in targets on the night for New England, but Drake Maye focused most on tight end Hunter Henry and running back Rhamondre Stevenson, who saw a combined 12 targets. With Romeo Doubs (IR, shoulder) out for at least three more games, Brown will have a chance to see elevated volume in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
       "description": "Brown brought in three of six targets for 48 yards in the Patriots' 30-24 loss to the Bears on Thursday.",
       "metadata": {
-        "analysis": "Brown entered the night looking to put a fairly forgettable Week 6 return from injury behind him, but the veteran wideout could only slightly improve his numbers in the high-scoring loss. Brown  was fairly quiet until the second half, when he had 16- and 14-yard grabs. Brown did finish second in targets on the night for New England, but Drake Maye focused most on tight end Hunter Henry and Rhamondre Stevenson, who saw a combined 12 targets. With Romeo Doubs (IR, shoulder) out for at least three more games, Brown will have a chance to see elevated volume in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
+        "analysis": "Brown entered the night looking to put a fairly forgettable Week 6 return from injury behind him, but the veteran wideout could only slightly improve his numbers in the high-scoring loss. He was fairly quiet until the second half, when he had 16- and 14-yard grabs. Brown did finish second in targets on the night for New England, but Drake Maye focused most on tight end Hunter Henry and running back Rhamondre Stevenson, who saw a combined 12 targets. With Romeo Doubs (IR, shoulder) out for at least three more games, Brown will have a chance to see elevated volume in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
         "description": "Brown brought in three of six targets for 48 yards in the Patriots' 30-24 loss to the Bears on Thursday.",
         "title": "A.J. Brown - Slight improvement in Week 7 loss",
         "topic_id": "1419214093960679424"
@@ -103,10 +118,10 @@
       "url": null
     },
     {
-      "analysis": "With Kyle Monangai (toe/thumb) out for a third straight game, Swift once again handled a workhorse role and parlayed it into some solid production. Swift's rushing yardage total was his third highest of the season, and the veteran back got into the end zone for the third straight game on a four-yard run late in the first quarter. Swift is up to seven rushing touchdowns on the season, but his touches would take a hit if Monangai is able to get healthy enough over the extended time between Thursday's game and a Week 8 road matchup against the Seahawks on Monday night, Nov. 2 to suit up for that contest.",
+      "analysis": "With Kyle Monangai (toe/thumb) out for a third straight game, Swift once again handled a workhorse role and parlayed it into some solid production. Swift's rushing yardage total was his third highest of the season, and the veteran back got into the end zone for the third straight game on a four-yard run late in the first quarter. He's up to seven rushing touchdowns on the season, but his touches will take a hit if Monangai is able to get healthy enough over the extended time between Thursday's game and a Week 8 road matchup against the Seahawks on Monday night, Nov. 2 to suit up for that contest.",
       "description": "Swift rushed 22 times for 78 yards and a touchdown and brought in all four targets for 12 yards in the Bears' 30-24 win over the Patriots on Thursday.",
       "metadata": {
-        "analysis": "With Kyle Monangai (toe/thumb) out for a third straight game, Swift once again handled a workhorse role and parlayed it into some solid production. Swift's rushing yardage total was his third highest of the season, and the veteran back got into the end zone for the third straight game on a four-yard run late in the first quarter. Swift is up to seven rushing touchdowns on the season, but his touches would take a hit if Monangai is able to get healthy enough over the extended time between Thursday's game and a Week 8 road matchup against the Seahawks on Monday night, Nov. 2 to suit up for that contest.",
+        "analysis": "With Kyle Monangai (toe/thumb) out for a third straight game, Swift once again handled a workhorse role and parlayed it into some solid production. Swift's rushing yardage total was his third highest of the season, and the veteran back got into the end zone for the third straight game on a four-yard run late in the first quarter. He's up to seven rushing touchdowns on the season, but his touches will take a hit if Monangai is able to get healthy enough over the extended time between Thursday's game and a Week 8 road matchup against the Seahawks on Monday night, Nov. 2 to suit up for that contest.",
         "description": "Swift rushed 22 times for 78 yards and a touchdown and brought in all four targets for 12 yards in the Bears' 30-24 win over the Patriots on Thursday.",
         "title": "D'Andre Swift - Grinds out yards, TD in win",
         "topic_id": "1419211577881640960"
@@ -143,10 +158,10 @@
       "url": null
     },
     {
-      "analysis": "Burden comfortably led the Bears in receiving yards with the second-highest total of his career, and he added his second touchdown catch of the season on a 24-yard grab just before halftime. Burden also had a game-long 58-yard catch late in the first quarter to set up a D'Andre Swift four-yard touchdown one play later, and the fleet-footed receiver has accumulated 225 of his 491 receiving yards on the season in the last two games alone. Burden has arguably overtaken Rome Odunze as Chicago's most explosive pass-catching weapon, and he should play a critical role again in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.",
+      "analysis": "Burden comfortably led the Bears in receiving yards with the second-highest total of his career, and he added his second touchdown catch of the season on a 24-yard grab just before halftime. He also had a game-long 58-yard catch late in the first quarter to set up a D'Andre Swift four-yard touchdown one play later, and the fleet-footed receiver has accumulated 225 of his 491 receiving yards on the season in the last two games alone. Burden has arguably overtaken Rome Odunze as Chicago's most explosive pass-catching weapon, and he should play a critical role again in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.",
       "description": "Burden brought in all four targets for 130 yards and a touchdown and rushed once for seven yards in the Bears' 30-24 win over the Patriots on Thursday.",
       "metadata": {
-        "analysis": "Burden comfortably led the Bears in receiving yards with the second-highest total of his career, and he added his second touchdown catch of the season on a 24-yard grab just before halftime. Burden also had a game-long 58-yard catch late in the first quarter to set up a D'Andre Swift four-yard touchdown one play later, and the fleet-footed receiver has accumulated 225 of his 491 receiving yards on the season in the last two games alone. Burden has arguably overtaken Rome Odunze as Chicago's most explosive pass-catching weapon, and he should play a critical role again in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.",
+        "analysis": "Burden comfortably led the Bears in receiving yards with the second-highest total of his career, and he added his second touchdown catch of the season on a 24-yard grab just before halftime. He also had a game-long 58-yard catch late in the first quarter to set up a D'Andre Swift four-yard touchdown one play later, and the fleet-footed receiver has accumulated 225 of his 491 receiving yards on the season in the last two games alone. Burden has arguably overtaken Rome Odunze as Chicago's most explosive pass-catching weapon, and he should play a critical role again in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.",
         "description": "Burden brought in all four targets for 130 yards and a touchdown and rushed once for seven yards in the Bears' 30-24 win over the Patriots on Thursday.",
         "title": "Luther Burden - Season-best effort in win",
         "topic_id": "1419209059986317312"
@@ -163,10 +178,10 @@
       "url": null
     },
     {
-      "analysis": "Williams spearheaded another prolific performance for the Bears offense, leading his squad to another 30-point tally while eclipsing the 300-yard mark for the second time in five days. Williams tied his season with 9.3 yards per attempt, and he accomplished his stellar numbers while focusing on a tight pool of five targets. The 2024 first overall pick's two touchdown passes went to Luther Burden (24 yards) and Colston Loveland (12 yards), marking Williams' first multi-TD tally since Week 1. Williams appears to be clicking on all cylinders in his second season in Ben Johnson's aggressive offense, now having completed 71.0 percent of his passes for 1,020 yards through four games heading into a Week 8 road showdown with the defending champion Seahawks on Monday night, Nov. 2.",
+      "analysis": "Williams spearheaded another prolific performance for the Bears offense, leading his squad to another 30-point tally while eclipsing the 300-yard mark for the second time in five days. He tied his season high with 9.3 yards per attempt, and he accomplished his stellar numbers while focusing on a tight pool of five targets. The 2024 first overall pick's two touchdown passes went to Luther Burden (24 yards) and Colston Loveland (12 yards), marking Williams' first multi-TD tally since Week 1. Williams appears to be clicking on all cylinders in his second season in head coach Ben Johnson's aggressive offense, now having completed 71.0 percent of his passes for 1,020 yards through four games heading into a Week 8 road showdown with the defending champion Seahawks on Monday night, Nov. 2.",
       "description": "Williams completed 22 of 33 passes for 308 yards with two touchdowns and no interceptions while rushing five times for 18 yards in the Bears' 30-24 win over the Patriots on Thursday.",
       "metadata": {
-        "analysis": "Williams spearheaded another prolific performance for the Bears offense, leading his squad to another 30-point tally while eclipsing the 300-yard mark for the second time in five days. Williams tied his season with 9.3 yards per attempt, and he accomplished his stellar numbers while focusing on a tight pool of five targets. The 2024 first overall pick's two touchdown passes went to Luther Burden (24 yards) and Colston Loveland (12 yards), marking Williams' first multi-TD tally since Week 1. Williams appears to be clicking on all cylinders in his second season in Ben Johnson's aggressive offense, now having completed 71.0 percent of his passes for 1,020 yards through four games heading into a Week 8 road showdown with the defending champion Seahawks on Monday night, Nov. 2.",
+        "analysis": "Williams spearheaded another prolific performance for the Bears offense, leading his squad to another 30-point tally while eclipsing the 300-yard mark for the second time in five days. He tied his season high with 9.3 yards per attempt, and he accomplished his stellar numbers while focusing on a tight pool of five targets. The 2024 first overall pick's two touchdown passes went to Luther Burden (24 yards) and Colston Loveland (12 yards), marking Williams' first multi-TD tally since Week 1. Williams appears to be clicking on all cylinders in his second season in head coach Ben Johnson's aggressive offense, now having completed 71.0 percent of his passes for 1,020 yards through four games heading into a Week 8 road showdown with the defending champion Seahawks on Monday night, Nov. 2.",
         "description": "Williams completed 22 of 33 passes for 308 yards with two touchdowns and no interceptions while rushing five times for 18 yards in the Bears' 30-24 win over the Patriots on Thursday.",
         "title": "Caleb Williams - Over 300 yards again in win",
         "topic_id": "1419206543974412288"
@@ -183,10 +198,10 @@
       "url": null
     },
     {
-      "analysis": "Maye's final line was one that could have easily been generated in victory, but the 2024 first-round pick couldn't quite help the Patriots keep pace with the high-powered Bears offense. Nevertheless, Maye was able to post his second 300-yard effort in the last three games, while also tossing multiple touchdowns for the fourth straight contest. Maye connected with Rhamondre Stevenson and Eli Raridon from 48 and 30 yards, respectively, for those two scoring strikes, the former coming off a screen pass on the last play of the first half. Those big plays were preceded by Maye's seven-yard scoring run early in the second quarter, and he also pulled his season completion rate up to 65.9 percent with Thursday's highly efficient effort. The third-year signal-caller should have a good opportunity to stay hot in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
+      "analysis": "Maye's final line was one that could have easily been generated in victory, but the 2024 first-round pick couldn't quite help the Patriots keep pace with the high-powered Bears offense. Nevertheless, he was able to post his second 300-yard effort in the last three games, while also tossing multiple touchdowns for the fourth straight contest. Maye connected with Rhamondre Stevenson and Eli Raridon from 48 and 30 yards, respectively, for those two scoring strikes, the former coming off a screen pass on the last snap of the first half. Those big plays were preceded by Maye's seven-yard scoring run early in the second quarter, and he also pulled his season completion rate up to 65.9 percent with Thursday's highly efficient effort. The third-year signal-caller should have a good opportunity to stay hot in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
       "description": "Maye completed 24 of 31 passes for 321 yards with two touchdowns and one interception while adding four rushes for 26 yards and another score in the Patriots' 30-24 loss to the Bears on Thursday.",
       "metadata": {
-        "analysis": "Maye's final line was one that could have easily been generated in victory, but the 2024 first-round pick couldn't quite help the Patriots keep pace with the high-powered Bears offense. Nevertheless, Maye was able to post his second 300-yard effort in the last three games, while also tossing multiple touchdowns for the fourth straight contest. Maye connected with Rhamondre Stevenson and Eli Raridon from 48 and 30 yards, respectively, for those two scoring strikes, the former coming off a screen pass on the last play of the first half. Those big plays were preceded by Maye's seven-yard scoring run early in the second quarter, and he also pulled his season completion rate up to 65.9 percent with Thursday's highly efficient effort. The third-year signal-caller should have a good opportunity to stay hot in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
+        "analysis": "Maye's final line was one that could have easily been generated in victory, but the 2024 first-round pick couldn't quite help the Patriots keep pace with the high-powered Bears offense. Nevertheless, he was able to post his second 300-yard effort in the last three games, while also tossing multiple touchdowns for the fourth straight contest. Maye connected with Rhamondre Stevenson and Eli Raridon from 48 and 30 yards, respectively, for those two scoring strikes, the former coming off a screen pass on the last snap of the first half. Those big plays were preceded by Maye's seven-yard scoring run early in the second quarter, and he also pulled his season completion rate up to 65.9 percent with Thursday's highly efficient effort. The third-year signal-caller should have a good opportunity to stay hot in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
         "description": "Maye completed 24 of 31 passes for 321 yards with two touchdowns and one interception while adding four rushes for 26 yards and another score in the Patriots' 30-24 loss to the Bears on Thursday.",
         "title": "Drake Maye - Highly efficient in close loss",
         "topic_id": "1419204026439942144"
@@ -223,6 +238,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New England Patriots running back Rhamondre Stevenson rushed six times for 22 yards and caught five passes for 93 yards and a touchdown (five targets) in a 30-24 loss to the Chicago Bears on Thursday Night Football. Stevenson led New England's backfield in carries and was the most efficient RB on Thursday, but he made most of his hay in the receiving game, posting a career-high in yards. The sixth-year pro's new personal best was aided in large part by a spectacular catch-and-run in the waning seconds of the first half. Stevenson caught a dump-off on the right side on a play that looked like he was supposed to pitch it back. However, he scampered up the sideline and cut back against the grain, untouched for a 48-yard touchdown. While New England's backfield may be a mess right now, Stevenson is getting most of the snaps and has the most stable role in the receiving game. He'll look to keep this momentum in a divisional clash with the Miami Dolphins in Week 8.",
+      "metadata": {
+        "description": "New England Patriots running back Rhamondre Stevenson rushed six times for 22 yards and caught five passes for 93 yards and a touchdown (five targets) in a 30-24 loss to the Chicago Bears on Thursday Night Football. Stevenson led New England's backfield in carries and was the most efficient RB on Thursday, but he made most of his hay in the receiving game, posting a career-high in yards. The sixth-year pro's new personal best was aided in large part by a spectacular catch-and-run in the waning seconds of the first half. Stevenson caught a dump-off on the right side on a play that looked like he was supposed to pitch it back. However, he scampered up the sideline and cut back against the grain, untouched for a 48-yard touchdown. While New England's backfield may be a mess right now, Stevenson is getting most of the snaps and has the most stable role in the receiving game. He'll look to keep this momentum in a divisional clash with the Miami Dolphins in Week 8.",
+        "title": "Rhamondre Stevenson Rumbles for Long TD in Loss",
+        "topic_id": "1419227935121907712",
+        "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-rumbles-for-long-td-in-loss/1973279"
+      },
+      "nfl_team": "NE",
+      "player_id": "7611",
+      "player_name": "Rhamondre Stevenson",
+      "position": "RB",
+      "published": 1792718110000,
+      "source": "rotoballer",
+      "source_key": "225098",
+      "story_id": "nfl|7611|rotoballer|225098|1792718110000",
+      "title": "Rhamondre Stevenson Rumbles for Long TD in Loss",
+      "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-rumbles-for-long-td-in-loss/1973279"
+    },
+    {
       "analysis": "Lock has now been limited in each of Seattle's past five practice sessions, though he was able to suit up last Thursday against Denver. It seems likely that he'll be active again for this Sunday's matchup against Kansas City, though Seattle's practice report Friday should provide more clarity in that regard. If Lock does indeed suit up Sunday, he'll again work as Sam Darnold's backup.",
       "description": "Lock (elbow) was a limited practice participant Thursday, John Boyle of the Seahawks' official site reports.",
       "metadata": {
@@ -243,6 +278,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Chicago Bears tight end Colston Loveland caught seven passes for 69 yards and a touchdown on a game-high 12 targets in Thursday's 30-24 win over the visiting New England Patriots. Now that's more like it. Loveland built on a strong performance from a week ago in quarterback Caleb Williams' return from a three-game absence and was again a featured part of the game plan. It's the former first-round pick's second straight game with at least six catches, 65 yards, and a touchdown, as Chicago's offense is rounding into form under Williams' direction. Wide receivers Rome Odunze and Luther Burden III will undoubtedly get more involved at times, but things are looking up for Loveland after a string of solid production. Chicago's offense will be put to the test their next time out when they line up against a stingy Seattle Seahawks defense on the road.",
+      "metadata": {
+        "description": "Chicago Bears tight end Colston Loveland caught seven passes for 69 yards and a touchdown on a game-high 12 targets in Thursday's 30-24 win over the visiting New England Patriots. Now that's more like it. Loveland built on a strong performance from a week ago in quarterback Caleb Williams' return from a three-game absence and was again a featured part of the game plan. It's the former first-round pick's second straight game with at least six catches, 65 yards, and a touchdown, as Chicago's offense is rounding into form under Williams' direction. Wide receivers Rome Odunze and Luther Burden III will undoubtedly get more involved at times, but things are looking up for Loveland after a string of solid production. Chicago's offense will be put to the test their next time out when they line up against a stingy Seattle Seahawks defense on the road.",
+        "title": "Colston Loveland Leads Bears in Targets Thursday",
+        "topic_id": "1419225417847443456",
+        "url": "https://www.rotoballer.com/player-news/colston-loveland-leads-bears-in-targets-thursday/1973277"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12517",
+      "player_name": "Colston Loveland",
+      "position": "TE",
+      "published": 1792717214000,
+      "source": "rotoballer",
+      "source_key": "225097",
+      "story_id": "nfl|12517|rotoballer|225097|1792717214000",
+      "title": "Colston Loveland Leads Bears in Targets Thursday",
+      "url": "https://www.rotoballer.com/player-news/colston-loveland-leads-bears-in-targets-thursday/1973277"
+    },
+    {
       "analysis": "Beck popped up on the Cardinals' injury report with a back issue Wednesday, and he's now trending in the wrong direction ahead of a Week 7 matchup versus the Broncos. If he can't get back on the practice field Friday, it's unlikely he'll be available in any capacity come Sunday.",
       "description": "Beck (back) did not participate at practice Thursday, Darren Urban of the Cardinals' official site reports.",
       "metadata": {
@@ -261,6 +316,26 @@
       "story_id": "nfl|13272|rotowire|643868|1792717204000",
       "title": "Carson Beck - Unable to practice Thursday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Chicago Bears running back D'Andre Swift totaled 78 yards and a touchdown on 22 carries in Thursday's 30-24 home win over the New England Patriots. He added 12 yards on four receptions. Swift had another inefficient day on the ground, but he scored for the fourth time in three appearances and still got a decent target share (four). Stats aside, Swift looked spry and is a nice fit in Chicago's outside zone scheme. It doesn't seem likely the 27-year-old will see many more 20-plus-carry games, especially with backfield mate Kyle Monangai (toe, thumb) due back eventually. However, the former doesn't need workhorse volume to remain effective for fantasy when he's an ever-present threat to cash in on a touchdown. Swift and the Bears will face stiffer competition on the road their next time out against the Seattle Seahawks.",
+      "metadata": {
+        "description": "Chicago Bears running back D'Andre Swift totaled 78 yards and a touchdown on 22 carries in Thursday's 30-24 home win over the New England Patriots. He added 12 yards on four receptions. Swift had another inefficient day on the ground, but he scored for the fourth time in three appearances and still got a decent target share (four). Stats aside, Swift looked spry and is a nice fit in Chicago's outside zone scheme. It doesn't seem likely the 27-year-old will see many more 20-plus-carry games, especially with backfield mate Kyle Monangai (toe, thumb) due back eventually. However, the former doesn't need workhorse volume to remain effective for fantasy when he's an ever-present threat to cash in on a touchdown. Swift and the Bears will face stiffer competition on the road their next time out against the Seattle Seahawks.",
+        "title": "D'Andre Swift Cruises to Another Strong Performance",
+        "topic_id": "1419220383780909056",
+        "url": "https://www.rotoballer.com/player-news/dandre-swift-cruises-to-another-strong-performance/1973275"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1792716249000,
+      "source": "rotoballer",
+      "source_key": "225096",
+      "story_id": "nfl|6790|rotoballer|225096|1792716249000",
+      "title": "D'Andre Swift Cruises to Another Strong Performance",
+      "url": "https://www.rotoballer.com/player-news/dandre-swift-cruises-to-another-strong-performance/1973275"
     },
     {
       "analysis": "Bowers was limited on Wednesday due to a pair of minor injuries that he's managing, but he was upgraded to a full participant on Thursday and will be good to go for Week 7. He will continue to be a top-tier fantasy option at the position for as long as he remains healthy and on the field moving forward.",

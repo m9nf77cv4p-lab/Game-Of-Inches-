@@ -2,53 +2,63 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6422**
-- Newly captured: **30**
+- Stored stories: **6427**
+- Newly captured: **5**
 
 ## Latest news
 
-- **NEW — Rome Odunze** — Rome Odunze - Outproduced by Burden again (2026-10-23T04:31:53Z)
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Minimal role in Week 7 loss (2026-10-23T04:59:35Z)
+  - Henderson's modest numbers underscore how modest a role he filled in the high-scoring loss. Rhamondre Stevenson had just six carries in his own right, but he also recorded a team-high 93 receiving yards on five catches. Henderson's rush attempts and rushing yards were both season lows, and the second-year back will look to bounce back in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.
+- **NEW — Hunter Henry** — Hunter Henry - Busy night in Week 7 loss (2026-10-23T04:53:49Z)
+  - The veteran tight end was a key contributor throughout the night, finishing with team-high figures in receptions and targets while ending second in receiving yards. All three components of Henry's receiving line also were season-high figures, and he now has between 44 and 71 receiving yards in four consecutive games. Henry will take a 26-296-2 line on 31 targets into a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.
+- **Rome Odunze** — Rome Odunze - Outproduced by Burden again (2026-10-23T04:31:53Z)
   - Odunze was encouragingly efficient in the high-scoring win, but he once again saw fellow wideout Luther Burden be more productive. Burden's 130 receiving yards led the Bears on the night, and Odunze appears to have fallen into more of a de facto No. 2 role at this point in the season. Odunze still carries solid fantasy value, however, and he'll carry a 24-381-0 line on 38 targets into a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.
-- **NEW — Colston Loveland** — Colston Loveland - Continues producing in Week 7 win (2026-10-23T04:26:42Z)
-  - The second-year tight end continued to shake out of his early-season slump, putting together his second fantasy-friendly performance in a five-day span. Loveland led the Bears in receptions and targets on the night with figures that also qualified as season highs, and he added his second touchdown in five days on a 12-yard grab early in the third quarter. Loveland has a 13-134-2 line in the last two games alone and should continue playing a key role in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.
-- **NEW — A.J. Brown** — A.J. Brown - Slight improvement in Week 7 loss (2026-10-23T04:19:22Z)
-  - Brown entered the night looking to put a fairly forgettable Week 6 return from injury behind him, but the veteran wideout could only slightly improve his numbers in the high-scoring loss. Brown  was fairly quiet until the second half, when he had 16- and 14-yard grabs. Brown did finish second in targets on the night for New England, but Drake Maye focused most on tight end Hunter Henry and Rhamondre Stevenson, who saw a combined 12 targets. With Romeo Doubs (IR, shoulder) out for at least three more games, Brown will have a chance to see elevated volume in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.
-- **NEW — D'Andre Swift** — D'Andre Swift - Grinds out yards, TD in win (2026-10-23T04:11:28Z)
-  - With Kyle Monangai (toe/thumb) out for a third straight game, Swift once again handled a workhorse role and parlayed it into some solid production. Swift's rushing yardage total was his third highest of the season, and the veteran back got into the end zone for the third straight game on a four-yard run late in the first quarter. Swift is up to seven rushing touchdowns on the season, but his touches would take a hit if Monangai is able to get healthy enough over the extended time between Thursday's game and a Week 8 road matchup against the Seahawks on Monday night, Nov. 2 to suit up for that contest.
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson - Long touchdown reception in loss (2026-10-23T04:04:15Z)
+- **Colston Loveland** — Colston Loveland - Continues producing in Week 7 win (2026-10-23T04:26:42Z)
+  - The second-year tight end continued to shake out of his early-season slump, putting together his second fantasy-friendly performance in a five-day span. Loveland led the Bears in receptions and targets on the night with figures that also qualified as season highs, and he added his second touchdown in five days on a 12-yard grab early in the third quarter. He has a 13-134-2 line in the last two games alone and should continue playing a key role in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2, and he could be in line for even heavier involvement if Cole Kmet (knee) is unable to suit up.
+- **A.J. Brown** — A.J. Brown - Slight improvement in Week 7 loss (2026-10-23T04:19:22Z)
+  - Brown entered the night looking to put a fairly forgettable Week 6 return from injury behind him, but the veteran wideout could only slightly improve his numbers in the high-scoring loss. He was fairly quiet until the second half, when he had 16- and 14-yard grabs. Brown did finish second in targets on the night for New England, but Drake Maye focused most on tight end Hunter Henry and running back Rhamondre Stevenson, who saw a combined 12 targets. With Romeo Doubs (IR, shoulder) out for at least three more games, Brown will have a chance to see elevated volume in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.
+- **D'Andre Swift** — D'Andre Swift - Grinds out yards, TD in win (2026-10-23T04:11:28Z)
+  - With Kyle Monangai (toe/thumb) out for a third straight game, Swift once again handled a workhorse role and parlayed it into some solid production. Swift's rushing yardage total was his third highest of the season, and the veteran back got into the end zone for the third straight game on a four-yard run late in the first quarter. He's up to seven rushing touchdowns on the season, but his touches will take a hit if Monangai is able to get healthy enough over the extended time between Thursday's game and a Week 8 road matchup against the Seahawks on Monday night, Nov. 2 to suit up for that contest.
+- **Rhamondre Stevenson** — Rhamondre Stevenson - Long touchdown reception in loss (2026-10-23T04:04:15Z)
   - Stevenson had another tough day on the ground, especially considering he gained 13 of his 22 yards on one carry. However, the veteran back had a standout performance as a receiver, leading the Patriots in receiving yards on the night with a big hand from a weaving 48-yard touchdown catch off an end-of-half screen play. Stevenson is now averaging just 3.7 yards per carry across the first seven games of the campaign, but he's up to a 20-204-1 receiving line on 24 targets heading into a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.
-- **NEW — Luther Burden III** — Luther Burden - Season-best effort in win (2026-10-23T03:59:11Z)
-  - Burden comfortably led the Bears in receiving yards with the second-highest total of his career, and he added his second touchdown catch of the season on a 24-yard grab just before halftime. Burden also had a game-long 58-yard catch late in the first quarter to set up a D'Andre Swift four-yard touchdown one play later, and the fleet-footed receiver has accumulated 225 of his 491 receiving yards on the season in the last two games alone. Burden has arguably overtaken Rome Odunze as Chicago's most explosive pass-catching weapon, and he should play a critical role again in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.
-- **NEW — Caleb Williams** — Caleb Williams - Over 300 yards again in win (2026-10-23T03:50:29Z)
-  - Williams spearheaded another prolific performance for the Bears offense, leading his squad to another 30-point tally while eclipsing the 300-yard mark for the second time in five days. Williams tied his season with 9.3 yards per attempt, and he accomplished his stellar numbers while focusing on a tight pool of five targets. The 2024 first overall pick's two touchdown passes went to Luther Burden (24 yards) and Colston Loveland (12 yards), marking Williams' first multi-TD tally since Week 1. Williams appears to be clicking on all cylinders in his second season in Ben Johnson's aggressive offense, now having completed 71.0 percent of his passes for 1,020 yards through four games heading into a Week 8 road showdown with the defending champion Seahawks on Monday night, Nov. 2.
-- **NEW — Drake Maye** — Drake Maye - Highly efficient in close loss (2026-10-23T03:42:59Z)
-  - Maye's final line was one that could have easily been generated in victory, but the 2024 first-round pick couldn't quite help the Patriots keep pace with the high-powered Bears offense. Nevertheless, Maye was able to post his second 300-yard effort in the last three games, while also tossing multiple touchdowns for the fourth straight contest. Maye connected with Rhamondre Stevenson and Eli Raridon from 48 and 30 yards, respectively, for those two scoring strikes, the former coming off a screen pass on the last play of the first half. Those big plays were preceded by Maye's seven-yard scoring run early in the second quarter, and he also pulled his season completion rate up to 65.9 percent with Thursday's highly efficient effort. The third-year signal-caller should have a good opportunity to stay hot in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.
-- **NEW — Eli Stowers** — Eli Stowers - Full practice Thursday (2026-10-23T01:15:45Z)
+- **Luther Burden III** — Luther Burden - Season-best effort in win (2026-10-23T03:59:11Z)
+  - Burden comfortably led the Bears in receiving yards with the second-highest total of his career, and he added his second touchdown catch of the season on a 24-yard grab just before halftime. He also had a game-long 58-yard catch late in the first quarter to set up a D'Andre Swift four-yard touchdown one play later, and the fleet-footed receiver has accumulated 225 of his 491 receiving yards on the season in the last two games alone. Burden has arguably overtaken Rome Odunze as Chicago's most explosive pass-catching weapon, and he should play a critical role again in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.
+- **Caleb Williams** — Caleb Williams - Over 300 yards again in win (2026-10-23T03:50:29Z)
+  - Williams spearheaded another prolific performance for the Bears offense, leading his squad to another 30-point tally while eclipsing the 300-yard mark for the second time in five days. He tied his season high with 9.3 yards per attempt, and he accomplished his stellar numbers while focusing on a tight pool of five targets. The 2024 first overall pick's two touchdown passes went to Luther Burden (24 yards) and Colston Loveland (12 yards), marking Williams' first multi-TD tally since Week 1. Williams appears to be clicking on all cylinders in his second season in head coach Ben Johnson's aggressive offense, now having completed 71.0 percent of his passes for 1,020 yards through four games heading into a Week 8 road showdown with the defending champion Seahawks on Monday night, Nov. 2.
+- **Drake Maye** — Drake Maye - Highly efficient in close loss (2026-10-23T03:42:59Z)
+  - Maye's final line was one that could have easily been generated in victory, but the 2024 first-round pick couldn't quite help the Patriots keep pace with the high-powered Bears offense. Nevertheless, he was able to post his second 300-yard effort in the last three games, while also tossing multiple touchdowns for the fourth straight contest. Maye connected with Rhamondre Stevenson and Eli Raridon from 48 and 30 yards, respectively, for those two scoring strikes, the former coming off a screen pass on the last snap of the first half. Those big plays were preceded by Maye's seven-yard scoring run early in the second quarter, and he also pulled his season completion rate up to 65.9 percent with Thursday's highly efficient effort. The third-year signal-caller should have a good opportunity to stay hot in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.
+- **Eli Stowers** — Eli Stowers - Full practice Thursday (2026-10-23T01:15:45Z)
   - Stowers has been on injured reserve since Sept. 12 while recovering from a pair of hamstring and quadriceps injuries. The tight end had his 21-day practice window opened Oct. 14, and his ability to open the week with a full practice is a good sign for his chances to return to action Monday night against Dallas.
-- **NEW — Drew Lock** — Drew Lock - Still limited in practice (2026-10-23T01:03:59Z)
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Rumbles for Long TD in Loss (2026-10-23T01:15:10Z)
+  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-rumbles-for-long-td-in-loss/1973279
+- **Drew Lock** — Drew Lock - Still limited in practice (2026-10-23T01:03:59Z)
   - Lock has now been limited in each of Seattle's past five practice sessions, though he was able to suit up last Thursday against Denver. It seems likely that he'll be active again for this Sunday's matchup against Kansas City, though Seattle's practice report Friday should provide more clarity in that regard. If Lock does indeed suit up Sunday, he'll again work as Sam Darnold's backup.
-- **NEW — Carson Beck** — Carson Beck - Unable to practice Thursday (2026-10-23T01:00:04Z)
+- **NEW — Colston Loveland** — Colston Loveland Leads Bears in Targets Thursday (2026-10-23T01:00:14Z)
+  - Source: https://www.rotoballer.com/player-news/colston-loveland-leads-bears-in-targets-thursday/1973277
+- **Carson Beck** — Carson Beck - Unable to practice Thursday (2026-10-23T01:00:04Z)
   - Beck popped up on the Cardinals' injury report with a back issue Wednesday, and he's now trending in the wrong direction ahead of a Week 7 matchup versus the Broncos. If he can't get back on the practice field Friday, it's unlikely he'll be available in any capacity come Sunday.
-- **NEW — Brock Bowers** — Brock Bowers (hamstring/calf) upgraded to full participant Thursday (2026-10-23T00:35:16.255000Z)
+- **NEW — D'Andre Swift** — D'Andre Swift Cruises to Another Strong Performance (2026-10-23T00:44:09Z)
+  - Source: https://www.rotoballer.com/player-news/dandre-swift-cruises-to-another-strong-performance/1973275
+- **Brock Bowers** — Brock Bowers (hamstring/calf) upgraded to full participant Thursday (2026-10-23T00:35:16.255000Z)
   - Bowers was limited on Wednesday due to a pair of minor injuries that he's managing, but he was upgraded to a full participant on Thursday and will be good to go for Week 7. He will continue to be a top-tier fantasy option at the position for as long as he remains healthy and on the field moving forward.
   - Source: https://www.fantasypros.com/nfl/news/615427/brock-bowers-hamstringcalf-upgraded-to-full-participant-thursday.php
-- **NEW — Caleb Williams** — Caleb Williams Keeps Rolling in Bears' Win (2026-10-23T00:29:09Z)
+- **Caleb Williams** — Caleb Williams Keeps Rolling in Bears' Win (2026-10-23T00:29:09Z)
   - Source: https://www.rotoballer.com/player-news/caleb-williams-keeps-rolling-in-bears-win/1973273
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks (ankle) sidelined at practice Thursday (2026-10-23T00:20:16.430000Z)
+- **Dontayvion Wicks** — Dontayvion Wicks (ankle) sidelined at practice Thursday (2026-10-23T00:20:16.430000Z)
   - The young wideout wasn't able to practice on Thursday, as he's managing an ankle issue of some kind right now. It could threaten his availability for Week 7, but only if he's not able to practice on Friday either.
   - Source: https://www.fantasypros.com/nfl/news/615424/dontayvion-wicks-ankle-sidelined-practice-thursday.php
-- **NEW — Drake Maye** — Drake Maye Posts Another Superb Effort in TNF Defeat (2026-10-23T00:15:09Z)
+- **Drake Maye** — Drake Maye Posts Another Superb Effort in TNF Defeat (2026-10-23T00:15:09Z)
   - Source: https://www.rotoballer.com/player-news/drake-maye-posts-another-superb-effort-in-tnf-defeat/1973271
-- **NEW — DeVonta Smith** — DeVonta Smith (hamstring) misses practice Thursday (2026-10-23T00:10:16.446000Z)
+- **DeVonta Smith** — DeVonta Smith (hamstring) misses practice Thursday (2026-10-23T00:10:16.446000Z)
   - Smith is still dealing with a lingering hamstring issue, but he played through it last week, so it seems his absence at practice was more of injury management on the part of the team. He should play on Monday night, but he may be a risky starter with QB Tanner McKee set to be the starter for the Eagles moving forward.
   - Source: https://www.fantasypros.com/nfl/news/615422/devonta-smith-hamstring-misses-practice-wednesday.php
-- **NEW — Jonah Coleman** — Jonah Coleman (ankle) logs another full practice Thursday (2026-10-23T00:10:16.168000Z)
+- **Jonah Coleman** — Jonah Coleman (ankle) logs another full practice Thursday (2026-10-23T00:10:16.168000Z)
   - The rookie seems to be geared up to play in Week 7, as he has logged two-straight full practices to start the week. He isn't likely to be a strong fantasy option in his first few games, but he should be involved enough to hurt the fantasy value of RJ Harvey for the foreseeable future.
   - Source: https://www.fantasypros.com/nfl/news/615418/jonah-coleman-ankle-logs-another-full-practice-thursday.php
-- **NEW — Dallas Goedert** — Dallas Goedert (knee) doesn't practice Thursday (2026-10-23T00:10:16.145000Z)
+- **Dallas Goedert** — Dallas Goedert (knee) doesn't practice Thursday (2026-10-23T00:10:16.145000Z)
   - The Eagles let Goedert sit out of their first practice of the week on Thursday. It seems to be just for injury management purposes, but fantasy managers should continue to keep tabs on his status throughout the week to ensure that he will be available to play on Monday night. His fantasy value will be questionable this week even if he's healthy, however, with QB Tanner McKee set to be the starter for the Eagles moving forward.
   - Source: https://www.fantasypros.com/nfl/news/615420/dallas-goedert-knee-doesnt-practice-thursday.php
-- **NEW — Saquon Barkley** — Saquon Barkley (hamstring) officially limited Thursday (2026-10-23T00:10:16.133000Z)
+- **Saquon Barkley** — Saquon Barkley (hamstring) officially limited Thursday (2026-10-23T00:10:16.133000Z)
   - Barkley was able to make his return to practice on Thursday. He was still a limited participant, but it's a good sign that he was able to participate at all and bodes well for his availability for Week 7. He will re-assume the RB1 job if he's active for Monday night's game against the Cowboys.
   - Source: https://www.fantasypros.com/nfl/news/615421/saquon-barkley-hamstring-officially-limited-thursday.php
 - **Jaylen Waddle** — Jaylen Waddle (chest) limited again Thursday (2026-10-23T00:00:15.702000Z)
@@ -56,11 +66,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/615417/jaylen-waddle-chest-limited-again-thursday.php
 - **Jonah Coleman** — Jonah Coleman - Remains full participant (2026-10-22T23:46:03Z)
   - Coleman has been full each of the first two days of the practice week but remains on injured reserve. He's eligible to be activated ahead of Sunday's game against the Cardinals. In an offense looking for a jolt, Coleman could immediately have a significant role out of the backfield when he returns. The rookie running back should be rostered in all fantasy formats.
-- **NEW — A.J. Brown** — A.J. Brown has Another Dud in Thursday's Loss in Chicago (2026-10-22T23:44:11Z)
+- **A.J. Brown** — A.J. Brown has Another Dud in Thursday's Loss in Chicago (2026-10-22T23:44:11Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-has-another-dud-in-thursdays-loss-in-chicago/1973268
 - **Rashid Shaheed** — Rashid Shaheed - Upgrades to full practice Thursday (2026-10-22T23:42:41Z)
   - Shaheed was limited Wednesday but appears to be on track for his normal role Sunday against the Chiefs. Playing behind Jaxon Smith-Njigba and Cooper Kupp in an offense that likes to use multiple tight ends, Shaheed has yet to get going in the receiving department this season, as he has just 14 catches for 162 yards through six contests.
-- **NEW — Luther Burden III** — Luther Burden III Goes Over Century Mark, Scores in Thursday's Win (2026-10-22T23:38:16Z)
+- **Luther Burden III** — Luther Burden III Goes Over Century Mark, Scores in Thursday's Win (2026-10-22T23:38:16Z)
   - Source: https://www.rotoballer.com/player-news/luther-burden-iii-goes-over-century-mark-scores-in-thursdays-win/1973266
 - **Zach Charbonnet** — Zach Charbonnet - Another full practice (2026-10-22T23:33:05Z)
   - In the midst of Seattle activating Charbonnet from the reserve/PUP list Thursday, Charbonnet now has strung together back-to-back uncapped sessions as he aims for his first game action since suffering a torn ACL in his left knee Jan. 17. In addition to head coach Mike Macdonald forecasting Charbonnet's "full week's worth of reps" Monday, he told Boyle that "you could see him on Sunday in some capacity." Even if Charbonnet is able to suit up this weekend against the Chiefs, he may enter a timeshare with Emanuel Wilson and George Holani off the bat instead of taking on a leading role.
@@ -74,7 +84,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Wicks made a very brief exit late in this past Sunday's loss to the Panthers but was able to return. With an ankle injury being cited as the reason for Thursday's absence, the nature of the injury has been revealed. Both Wicks and No. 1 WR DeVonta Smith (hamstring) were DNPs to kick off Week 7 prep, so the situation bears watching to see if either of them will be able to play Monday against the Cowboys.
 - **Case Keenum** — Case Keenum - Operating as emergency QB (2026-10-22T23:13:55Z)
   - Keenum will serve as the No. 3 QB for the second straight week while Tyson Bagent slots in as the primary backup behind starter Caleb Williams. Keenum will only be eligible to enter the contest if both Williams and Bagent are forced out of the game.
-- **NEW — Saquon Barkley** — Saquon Barkley Taking his Recovery Day to Day (2026-10-22T23:12:13Z)
+- **Saquon Barkley** — Saquon Barkley Taking his Recovery Day to Day (2026-10-22T23:12:13Z)
   - Source: https://www.rotoballer.com/player-news/saquon-barkley-taking-his-recovery-day-to-day/1973258
 - **Mike Washington Jr.** — Mike Washington - Downgraded to DNP on Thursday (2026-10-22T23:08:27Z)
   - After being limited in Wednesday's practice, Thursday's downgrade is an ominous sign for Washington's availability Sunday against the Rams. If the rookie running back is unable to play, Ashton Jeanty and Dylan Laube would be in line to handle most of the backfield work for Las Vegas.
@@ -84,7 +94,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After popping up on the injury report Wednesday as a limited participant with a pair of new "injuries," Bowers was able to get in a full session Thursday and should be ready to roll for Sunday's game with the Rams. The top TE1 play every week, Bowers has 28 grabs for 382 yards and three touchdowns through four appearances.
 - **Saquon Barkley** — Saquon Barkley - Limited Thursday (2026-10-22T22:59:36Z)
   - This marks Barkley's first official on-field work since he initially suffered a hamstring injury in Week 4 against the Rams. He consequently sat out Weeks 5 and 6, but his return to drills this week at least gives him a chance to suit up Monday versus the Cowboys. Barkley told Jeff McLane of The Philadelphia Inquirer on Thursday that he wants to play in Week 7 but still needs to test out his hamstring over the next few days. Ultimately, Saturday's practice report will reveal Barkley's odds to return to action.
-- **NEW — Jonathan Taylor** — Multiple Teams Interested in Trading for Jonathan Taylor (2026-10-22T22:28:13Z)
+- **Jonathan Taylor** — Multiple Teams Interested in Trading for Jonathan Taylor (2026-10-22T22:28:13Z)
   - Source: https://www.rotoballer.com/player-news/multiple-teams-interested-in-trading-for-jonathan-taylor/1973247
 - **T.J. Hockenson** — T.J. Hockenson - Another full session (2026-10-22T22:26:53Z)
   - Hockenson is inching closer to clearing the protocol for head injuries after sustaining a concussion during the Vikings' Week 5 win at New Orleans. At the very least, he must gain clearance from an independent neurologist in order to suit up again Sunday against the Colts.
@@ -97,15 +107,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - With back-to-back uncapped sessions under his belt so far this week, Mason appears to be putting himself in a position to be activated from injured reserve ahead of Sunday's contest versus the Colts. He's seeking his first game action since Week 1, when he suffered a small fracture in his thumb that required surgery. If he's able to return this weekend, Mason likely will resume a timeshare with Aaron Jones out of the Vikings backfield.
 - **Mike Evans** — Mike Evans - Misses Thursday's practice (2026-10-22T22:05:41Z)
   - Evans officially logged a second consecutive DNP after he made an early exit from Monday's win against the Commanders due to an aggravation of a right Achilles' injury, which head coach Kyle Shanahan has called soreness, per Wagoner. While Evans now has just one more chance to mix into drills this week, he's proved in the past that he doesn't require practice reps to be available on game days. Whether or not he has a chance to play Sunday in Atlanta will become known once the 49ers post their final Week 7 injury report Friday.
-- **NEW — Dallas Goedert** — Dallas Goedert Misses Practice With Knee Injury (2026-10-22T22:05:09Z)
+- **Dallas Goedert** — Dallas Goedert Misses Practice With Knee Injury (2026-10-22T22:05:09Z)
   - Source: https://www.rotoballer.com/player-news/dallas-goedert-misses-practice-with-knee-injury-2/1973230
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks Dealing With Ankle Injury, Misses Practice (2026-10-22T21:58:12Z)
+- **Dontayvion Wicks** — Dontayvion Wicks Dealing With Ankle Injury, Misses Practice (2026-10-22T21:58:12Z)
   - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-dealing-with-ankle-injury-misses-practice/1973228
 - **Justin Jefferson** — Justin Jefferson - Logs full practice Thursday (2026-10-22T21:54:30Z)
   - Jefferson's upgrade from limited Wednesday to uncapped one day later indicates that the ankle injury that has bothered him since the middle of a Week 3 win at Tampa Bay is behind him. He'll be taking on a Colts defense Sunday that has allowed the 10th-most yards per target (8.6) to opposing wide receivers this season.
 - **Brian Robinson Jr.** — Brian Robinson - No practice Thursday (2026-10-22T21:44:48Z)
   - After Robinson opened the week as limited Wednesday due to a hamstring injury, his downgrade to no activity one day later is cause for concern. Friday's practice and his ensuing activity level likely will determine if he's in any danger of missing Sunday's game against the 49ers. The Falcons have Khalil Herbert and Jam Miller on the practice squad in the event Robinson isn't able to handle his typical RB duties behind Bijan Robinson in Week 7.
-- **NEW — Jonah Coleman** — Jonah Coleman Trending Toward a Return in Week 7 (2026-10-22T21:35:48Z)
+- **Jonah Coleman** — Jonah Coleman Trending Toward a Return in Week 7 (2026-10-22T21:35:48Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-trending-toward-a-return-in-week-7/1973219
 - **David Montgomery** — David Montgomery (groin) officially a non-participant Thursday (2026-10-22T21:30:14.665000Z)
   - As expected, Montgomery wasn't able to take part in Houston's practice on Thursday. He's not expected to play again in Week 7, which would likely leave Woody Marks and Jawhar Jordan as the team's primary running backs against the Giants this week.
@@ -123,7 +133,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Pickens avoided the Cowboys' injury report through the first six weeks of the season, but he now has made an appearance to kick off Week 7 prep. Considering he was listed as limited, it may be more of a maintenance day for the fifth-year pro, who so far has begun the 2026 campaign with a 33-428-1 line on 52 targets. Pickens has two more chances to get back to full ahead of Monday's contest at Philadelphia.
 - **Dalton Schultz** — Dalton Schultz - Step in right direction Thursday (2026-10-22T20:46:27Z)
   - Schultz took a step forward Thursday after sitting out Wednesday's practice. He'll have one more opportunity Friday to log a full practice, which could help him avoid an injury designation for Sunday's game against the Giants. Schultz is still searching for his first touchdown of the season.
-- **NEW — DeVonta Smith** — DeVonta Smith Misses Practice With Hamstring Injury (2026-10-22T20:45:33Z)
+- **DeVonta Smith** — DeVonta Smith Misses Practice With Hamstring Injury (2026-10-22T20:45:33Z)
   - Source: https://www.rotoballer.com/player-news/devonta-smith-misses-practice-with-hamstring-injury-2/1973204
 - **Rashod Bateman** — Rashod Bateman - Free of restrictions in Thursday's practice (2026-10-22T20:45:26Z)
   - A limited practice participant to begin the week after he exited this past Sunday's loss to the Browns due to the shoulder issue, Bateman cleared up any concern about his health by taking every rep during Thursday's session. While he'll be ready to play Sunday versus the Bengals, Bateman's standing as the No. 2 wideout on the depth chart behind Zay Flowers could be threatened after rookie Ja'Kobi Lane produced well in his return from injured reserve last week, logging four catches for 40 yards on five targets.
@@ -140,7 +150,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/615384/keenan-allen-rest-returns-to-practice-thursday.php
 - **Denzel Boston** — Denzel Boston - Limited again Thursday (2026-10-22T20:32:48Z)
   - Boston has been bothered by a foot injury since the start of Cleveland's Week 6 preparations against the Ravens. He suited up for that game after three limited practices but was held to one catch, and the rookie second-round pick has opened Week 7 prep with a pair of limited sessions. Boston will look to increase his practice participation Friday and avoid an injury designation for Sunday's game against the Titans.
-- **NEW — Mike Washington Jr.** — Mike Washington Jr. Trending in the Wrong Direction (2026-10-22T20:30:10Z)
+- **Mike Washington Jr.** — Mike Washington Jr. Trending in the Wrong Direction (2026-10-22T20:30:10Z)
   - Source: https://www.rotoballer.com/player-news/mike-washington-jr-trending-in-the-wrong-direction/1973196
 - **Christian Watson** — Christian Watson - Stays limited Thursday (2026-10-22T20:29:31Z)
   - Watson now has logged a limited walkthrough and a capped practice to kick off Week 7 prep as he tends to an ankle issue. Head coach Matt LaFleur downplayed Watson's injury Thursday, telling Demovsky that he has no concerns about Watson and fellow WR Matthew Golden (shoulder) for Sunday's game in Detroit. Having said that, Watson may still be tagged with a designation when the Packers post their final practice report of the week Friday.
@@ -150,7 +160,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coleman avoided any setbacks at Wednesday's practice, during which he was a full participant. The rookie fourth-round pick has a good chance of being activated from injured reserve ahead of Sunday's game against the Cardinals, though his standing in a Broncos backfield that also includes J.K. Dobbins, RJ Harvey and Tyler Badie (thumb) is murky.
 - **KC Concepcion Jr.** — KC Concepcion - Remains limited in practice (2026-10-22T20:24:49Z)
   - Concepcion and Denzel Boston (foot) have now been limited in both of the Browns' first two Week 7 practices, so the two rookie wideouts may need to upgrade to full participation Friday to avoid taking injury designations into Sunday's game against the Titans. After sustaining a concussion in the Browns' Week 5 loss to the Jets, Concepcion was able to clear the five-step protocol prior to last week's game against the Ravens and went on to finish with four catches for 37 yards on six targets while adding two yards on two carries in a 13-10 win.
-- **NEW — Brock Bowers** — Brock Bowers Practices in Full on Thursday (2026-10-22T20:23:11Z)
+- **Brock Bowers** — Brock Bowers Practices in Full on Thursday (2026-10-22T20:23:11Z)
   - Source: https://www.rotoballer.com/player-news/brock-bowers-practices-in-full-on-thursday/1973188
 - **Jordan Love** — Jordan Love - Practices fully Thursday (2026-10-22T20:21:16Z)
   - Love opened Week 7 prep as limited at Wednesday's walkthrough due to a back injury. Head coach Matt LaFleur told Tom Silverstein of the Milwaukee Journal Sentinel on Thursday that Love emerged from this past Sunday's win against the Cowboys with a sore back, which was the result of some big hits that forced the quarterback to visit a chiropractor. Love's upgrade to full has him in the clear ahead of Sunday's visit to the Lions, against whom he tossed six touchdowns and no interceptions in two matchups in 2025.
@@ -173,7 +183,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Chuba Hubbard** — Chuba Hubbard (rest) returns to full practice Thursday (2026-10-22T20:05:14.301000Z)
   - Hubbard was given the day off on Wednesday as a veteran rest day, but he returned to practice on Thursday and was a full participant. He should be good to go for Week 7 and remains a must-start fantasy option for the foreseeable future.
   - Source: https://www.fantasypros.com/nfl/news/615375/chuba-hubbard-rest-returns-to-full-practice-thursday.php
-- **NEW — Brian Robinson Jr.** — Brian Robinson Downgraded to Out in Thursday's Practice (2026-10-22T20:03:11Z)
+- **Brian Robinson Jr.** — Brian Robinson Downgraded to Out in Thursday's Practice (2026-10-22T20:03:11Z)
   - Source: https://www.rotoballer.com/player-news/brian-robinson-downgraded-to-out-in-thursdays-practice/1973176
 - **Baker Mayfield** — Baker Mayfield - Another full practice (2026-10-22T20:02:35Z)
   - This marks a second straight uninhibited practice for Mayfield as he seeks his first game action since Week 3 due to a dislocated right thumb. Per Greg Auman of Fox Sports, Mayfield again was wearing a glove on his right hand Thursday, and afterward the quarterback told Brianna Dix of the Buccaneers' official site that he "feels fine gripping and throwing," with the biggest concern enduring hits and taking the ball under center. Head coach Todd Bowles has yet to announce a Week 7 starter between Mayfield and undrafted rookie Jalon Daniels, but that'll likely occur Friday ahead of Sunday's road matchup with the Panthers.
@@ -216,17 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After taking limited reps Wednesday due to a pair of injuries, Washington looks like he'll be downgraded to a non-participant for the Raiders' second practice of Week 7. Washington will likely need to get back on the field Friday in some capacity to put himself on a path to play Sunday versus the Rams. In the event the rookie fourth-round pick is unable to suit up this weekend, starter Ashton Jeanty could be forced to take on a heavier workload out of the backfield, while Dylan Laube would step in as the top complementary option.
 - **Rico Dowdle** — Rico Dowdle - Limited again Thursday (2026-10-22T19:17:47Z)
   - Thursday marked another limited session for Dowdle, who has been dealing with a knee issue in the lead-up to the Steelers' upcoming game against the Saints. He will have a chance to ramp up to a full practice on Friday before the Steelers make a final call on his gameday status.
-- **Quinshon Judkins** — Quinshon Judkins (ankle) practices Thursday  (2026-10-22T18:50:13.556000Z)
-  - Judkins is on track to be good to go for Sunday's game against the Titans. His status will need to be monitored in practice on Friday. 
-  - Source: https://www.fantasypros.com/nfl/news/615355/quinshon-judkins-ankle-practices-thursday.php
-- **Dylan Sampson** — Dylan Sampson (knee) practices Thursday  (2026-10-22T18:50:13.541000Z)
-  - Sampson is on track to be good to go for Sunday's game against the Titans. His status will need to be monitored in practice on Friday. 
-  - Source: https://www.fantasypros.com/nfl/news/615356/dylan-sampson-knee-practices-thursday.php
-- **Lamar Jackson** — Lamar Jackson (ankle) practices Thursday  (2026-10-22T18:40:13.496000Z)
-  - Jackson was listed as a limited participant in practice on Wednesday. It appears with another practice, he'll have a chance to return for Sunday's game against the Bengals. 
-  - Source: https://www.fantasypros.com/nfl/news/615354/lamar-jackson-ankle-practices-thursday.php
-- **David Montgomery** — David Montgomery (groin) not expected to play Sunday  (2026-10-22T18:30:13.445000Z)
-  - Montgomery will miss a second straight game. Woody Marks will remain an RB2 play for fantasy managers. 
-  - Source: https://www.fantasypros.com/nfl/news/615349/david-montgomery-groin-not-expected-to-play-sunday.php
-- **Puka Nacua** — Puka Nacua Leaves Practice Early on Thursday With Calf Injury (2026-10-22T18:20:09Z)
-  - Source: https://www.rotoballer.com/player-news/puka-nacua-leaves-practice-early-on-thursday-with-calf-injury/1973145
