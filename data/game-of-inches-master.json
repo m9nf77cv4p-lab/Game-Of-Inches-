@@ -2738,7 +2738,7 @@
           "10232",
           "6801",
           "5012",
-          "13276",
+          "4037",
           "4892",
           "2747",
           "NYJ"
@@ -3778,7 +3778,7 @@
           "10232",
           "6801",
           "5012",
-          "13276",
+          "4037",
           "4892",
           "2747",
           "NYJ"
@@ -4818,7 +4818,7 @@
           "10232",
           "6801",
           "5012",
-          "13276",
+          "4037",
           "4892",
           "2747",
           "NYJ"
@@ -5858,7 +5858,7 @@
           "10232",
           "6801",
           "5012",
-          "13276",
+          "4037",
           "4892",
           "2747",
           "NYJ"
@@ -6898,7 +6898,7 @@
           "10232",
           "6801",
           "5012",
-          "13276",
+          "4037",
           "4892",
           "2747",
           "NYJ"
@@ -7938,7 +7938,7 @@
           "10232",
           "6801",
           "5012",
-          "13276",
+          "4037",
           "4892",
           "2747",
           "NYJ"
@@ -8978,7 +8978,7 @@
           "10232",
           "6801",
           "5012",
-          "13276",
+          "4037",
           "4892",
           "2747",
           "NYJ"
@@ -10018,7 +10018,7 @@
           "10232",
           "6801",
           "5012",
-          "13276",
+          "4037",
           "4892",
           "2747",
           "NYJ"
@@ -11058,7 +11058,7 @@
           "10232",
           "6801",
           "5012",
-          "13276",
+          "4037",
           "4892",
           "2747",
           "NYJ"
@@ -17264,7 +17264,7 @@
           "10232",
           "6801",
           "5012",
-          "13276",
+          "4037",
           "4892",
           "2747",
           "NYJ"
@@ -18304,7 +18304,7 @@
           "10232",
           "6801",
           "5012",
-          "13276",
+          "4037",
           "4892",
           "2747",
           "NYJ"
@@ -19344,7 +19344,7 @@
           "10232",
           "6801",
           "5012",
-          "13276",
+          "4037",
           "4892",
           "2747",
           "NYJ"
@@ -20207,7 +20207,7 @@
       ],
       "first_name": "Rashee",
       "full_name": "Rashee Rice",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Rice",
       "nfl_team": "KC",
       "player_id": "10229",
@@ -20522,7 +20522,7 @@
       ],
       "first_name": "Bucky",
       "full_name": "Bucky Irving",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Irving",
       "nfl_team": "TB",
       "player_id": "11584",
@@ -21272,7 +21272,7 @@
       ],
       "first_name": "Quinshon",
       "full_name": "Quinshon Judkins",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Judkins",
       "nfl_team": "CLE",
       "player_id": "12512",
@@ -21287,7 +21287,7 @@
       ],
       "first_name": "Emeka",
       "full_name": "Emeka Egbuka",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Egbuka",
       "nfl_team": "TB",
       "player_id": "12514",
@@ -21317,7 +21317,7 @@
       ],
       "first_name": "Tyler",
       "full_name": "Tyler Warren",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Warren",
       "nfl_team": "IND",
       "player_id": "12518",
@@ -21753,7 +21753,7 @@
       ],
       "first_name": "Jeremiyah",
       "full_name": "Jeremiyah Love",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Love",
       "nfl_team": "ARI",
       "player_id": "13287",
@@ -21843,7 +21843,7 @@
       ],
       "first_name": "KC",
       "full_name": "KC Concepcion Jr.",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Concepcion Jr.",
       "nfl_team": "CLE",
       "player_id": "13298",
@@ -22008,7 +22008,7 @@
       ],
       "first_name": "Denzel",
       "full_name": "Denzel Boston",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Boston",
       "nfl_team": "CLE",
       "player_id": "13346",
@@ -23913,7 +23913,7 @@
       ],
       "first_name": "Brian",
       "full_name": "Brian Robinson Jr.",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Robinson Jr.",
       "nfl_team": "ATL",
       "player_id": "8154",
@@ -24353,7 +24353,7 @@
       "nfl_team": "HOU",
       "player_id": "9502",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 3
     },
     "9504": {
@@ -24769,8 +24769,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-23T14:23:15Z",
-    "source_fingerprint": "777ed3f277baad9c33da0fc443aad1b698c95db4ad4415047545ae5989eb0dc7"
+    "last_changed_at": "2026-10-23T18:33:53Z",
+    "source_fingerprint": "2c1b8e1588fce4b2a33bad05624084281274178b928b30e83fa1c97a98517c68"
   },
   "teams": [
     {
@@ -24993,7 +24993,7 @@
         "10232",
         "6801",
         "5012",
-        "13276",
+        "4037",
         "4892",
         "2747",
         "NYJ"
