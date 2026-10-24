@@ -13,7 +13,7 @@
 - Roster 3: **Cheezy** (cheezy17) — 26 players
 - Roster 4: **Spankin Boutte** (sdgillum1) — 26 players
 - Roster 5: **It Hurts So Good** (TJS2025) — 25 players
-- Roster 6: **JTills** (JTills) — 23 players
+- Roster 6: **JTills** (JTills) — 24 players
 - Roster 7: **We Fly High** (cabot9188) — 24 players
 - Roster 8: **Multiple Scorgasims** (PrimeTime000) — 26 players
 - Roster 9: **Taylor Gang** (Toley6) — 24 players
