@@ -1,44 +1,19 @@
 {
-  "last_checked_at": "2026-10-24T04:23:40Z",
+  "last_checked_at": "2026-10-24T08:59:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 303,
   "new_story_ids": [
-    "nfl|10235|rotowire|644094|1792809032000",
-    "nfl|11439|rotowire|644052|1792803991000",
-    "nfl|11565|rotoballer|225237|1792794493000",
-    "nfl|11576|rotowire|644024|1792801109000",
-    "nfl|11632|rotoballer|225238|1792794989000",
-    "nfl|11655|rotoballer|225241|1792794729000",
-    "nfl|12048|rotowire|644057|1792804601000",
-    "nfl|12481|rotoballer|225235|1792794611000",
-    "nfl|12542|rotowire|644095|1792809201000",
-    "nfl|12545|rotoballer|225226|1792791366000",
-    "nfl|12547|rotowire|644099|1792814062000",
-    "nfl|13272|rotowire|644043|1792803026000",
-    "nfl|13274|rotoballer|225225|1792790529000",
-    "nfl|13276|rotowire|644035|1792802193000",
-    "nfl|13285|rotoballer|225243|1792795071000",
-    "nfl|13421|rotowire|644096|1792809289000",
-    "nfl|13425|rotowire|644062|1792805278000",
-    "nfl|13833|rotoballer|225244|1792795503000",
-    "nfl|1945|rotoballer|225246|1792796050000",
-    "nfl|4035|rotoballer|225233|1792794011000",
-    "nfl|4199|rotowire|644016|1792800151000",
-    "nfl|5012|rotoballer|225236|1792794549000",
-    "nfl|5846|rotoballer|225222|1792789691000",
-    "nfl|5854|rotowire|644039|1792802606000",
-    "nfl|6801|rotoballer|225228|1792791949000",
-    "nfl|7021|rotoballer|225247|1792795814000",
-    "nfl|7567|rotoballer|225234|1792794069000",
-    "nfl|7600|rotoballer|225230|1792792691000",
-    "nfl|8131|rotoballer|225242|1792795269000",
-    "nfl|8132|rotoballer|225229|1792792749000",
-    "nfl|8146|rotoballer|225245|1792795449000",
-    "nfl|8150|rotoballer|225232|1792793710000",
-    "nfl|8228|rotoballer|225221|1792787917000",
-    "nfl|9501|rotowire|644092|1792808761000",
-    "nfl|9508|rotoballer|225224|1792790711000",
-    "nfl|96|rotoballer|225220|1792786691000"
+    "nfl|11834|rotoballer|225252|1792805775000",
+    "nfl|12469|rotoballer|225255|1792806729000",
+    "nfl|12536|fantasy_pros|614508|1792359660571",
+    "nfl|12536|rotoballer|224828|1792433231000",
+    "nfl|12536|rotowire|643152|1792358315000",
+    "nfl|13305|rotoballer|225249|1792802283000",
+    "nfl|13337|rotoballer|225248|1792802534000",
+    "nfl|7002|rotoballer|225253|1792806427000",
+    "nfl|8144|rotoballer|225251|1792805111000",
+    "nfl|8180|rotoballer|225254|1792806355000",
+    "nfl|9757|rotoballer|225250|1792803909000"
   ],
   "schema_version": 1,
   "source": {
@@ -149,6 +124,86 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Cleveland Browns running back Dylan Sampson (knee) is listed as questionable for Week 7 against the Tennessee Titans, and he appears unlikely to carve out a significant fantasy role in his immediate return from injured reserve. The Browns' rushing attack has still experienced a variety of growing pains this season, and there likely aren't enough carries or rushing yards to go around for both Sampson and Quinshon Judkins to contribute as top-36 running backs in fantasy football. Judkins remains the undisputed No. 1 option on the ground in Cleveland, so Sampson should be the odd man out from a fantasy perspective. While he does offer unparalleled pass-catching upside for the Browns, the 22-year-old faces plenty of uncertainty about his volume and the value of the touches that he earns. He should be avoided in all fantasy football leagues this week.",
+      "metadata": {
+        "description": "Cleveland Browns running back Dylan Sampson (knee) is listed as questionable for Week 7 against the Tennessee Titans, and he appears unlikely to carve out a significant fantasy role in his immediate return from injured reserve. The Browns' rushing attack has still experienced a variety of growing pains this season, and there likely aren't enough carries or rushing yards to go around for both Sampson and Quinshon Judkins to contribute as top-36 running backs in fantasy football. Judkins remains the undisputed No. 1 option on the ground in Cleveland, so Sampson should be the odd man out from a fantasy perspective. While he does offer unparalleled pass-catching upside for the Browns, the 22-year-old faces plenty of uncertainty about his volume and the value of the touches that he earns. He should be avoided in all fantasy football leagues this week.",
+        "title": "Not Enough Production to Go Around for Dylan Sampson",
+        "topic_id": "1419600544703463424",
+        "url": "https://www.rotoballer.com/player-news/not-enough-production-to-go-around-for-dylan-sampson/1974280"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12469",
+      "player_name": "Dylan Sampson",
+      "position": "RB",
+      "published": 1792806729000,
+      "source": "rotoballer",
+      "source_key": "225255",
+      "story_id": "nfl|12469|rotoballer|225255|1792806729000",
+      "title": "Not Enough Production to Go Around for Dylan Sampson",
+      "url": "https://www.rotoballer.com/player-news/not-enough-production-to-go-around-for-dylan-sampson/1974280"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints tight end Juwan Johnson failed to record a reception on two targets in Week 6's victory over the Giants. It was the first time he had been held without a catch since Week 3 of 2024. Prior to that outing, Johnson had been a consistent contributor, recording at least 53 receiving yards in all but one game this season. His playing time also took a dip, as he logged a 58% snap share, matching fellow tight end Noah Fant, while Oscar Delp saw 43% of the snaps. Despite the trio combining for just 10 receiving yards, Johnson should have an opportunity to bounce back against a Steelers defense that ranks around the middle of the pack against tight ends. He ranks as TE14 in RotoBaller's rankings this week.",
+      "metadata": {
+        "description": "New Orleans Saints tight end Juwan Johnson failed to record a reception on two targets in Week 6's victory over the Giants. It was the first time he had been held without a catch since Week 3 of 2024. Prior to that outing, Johnson had been a consistent contributor, recording at least 53 receiving yards in all but one game this season. His playing time also took a dip, as he logged a 58% snap share, matching fellow tight end Noah Fant, while Oscar Delp saw 43% of the snaps. Despite the trio combining for just 10 receiving yards, Johnson should have an opportunity to bounce back against a Steelers defense that ranks around the middle of the pack against tight ends. He ranks as TE14 in RotoBaller's rankings this week.",
+        "title": "Juwan Johnson Looks to Bounce Back Against Steelers",
+        "topic_id": "1419599286487859200",
+        "url": "https://www.rotoballer.com/player-news/juwan-johnson-looks-to-bounce-back-against-steelers/1974278"
+      },
+      "nfl_team": "NO",
+      "player_id": "7002",
+      "player_name": "Juwan Johnson",
+      "position": "TE",
+      "published": 1792806427000,
+      "source": "rotoballer",
+      "source_key": "225253",
+      "story_id": "nfl|7002|rotoballer|225253|1792806427000",
+      "title": "Juwan Johnson Looks to Bounce Back Against Steelers",
+      "url": "https://www.rotoballer.com/player-news/juwan-johnson-looks-to-bounce-back-against-steelers/1974278"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders wide receiver Jalen Nailor continues to occupy a relatively small workload for Week 7 against the Los Angeles Rams. While he has played at least 57% of the snaps in four of five games this season, he hasn't logged more than one catch in a single game since the season opener. Although he was one of the prized offseason signings for Vegas, he certainly has not lived up to the hype through the one-third mark of the 2026 season. We don't see any sort of opportunity for him to right the ship this week, as the Rams represent a very difficult matchup. Nailor can be left on the bench or on the waiver wire in all fantasy football leagues this week.",
+      "metadata": {
+        "description": "Las Vegas Raiders wide receiver Jalen Nailor continues to occupy a relatively small workload for Week 7 against the Los Angeles Rams. While he has played at least 57% of the snaps in four of five games this season, he hasn't logged more than one catch in a single game since the season opener. Although he was one of the prized offseason signings for Vegas, he certainly has not lived up to the hype through the one-third mark of the 2026 season. We don't see any sort of opportunity for him to right the ship this week, as the Rams represent a very difficult matchup. Nailor can be left on the bench or on the waiver wire in all fantasy football leagues this week.",
+        "title": "Jalen Nailor Remains in a Minor Role for Week 7",
+        "topic_id": "1419599286483664896",
+        "url": "https://www.rotoballer.com/player-news/jalen-nailor-remains-in-a-minor-role-for-week-7/1974276"
+      },
+      "nfl_team": "LV",
+      "player_id": "8180",
+      "player_name": "Jalen Nailor",
+      "position": "WR",
+      "published": 1792806355000,
+      "source": "rotoballer",
+      "source_key": "225254",
+      "story_id": "nfl|8180|rotoballer|225254|1792806355000",
+      "title": "Jalen Nailor Remains in a Minor Role for Week 7",
+      "url": "https://www.rotoballer.com/player-news/jalen-nailor-remains-in-a-minor-role-for-week-7/1974276"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Devaughn Vele recorded three receptions for 42 yards in Week 6's win over the Giants. He continues to lead the Saints' receivers in playing time, logging a 92% snap share compared to 58% for Chris Olave and 36% for Bryce Lance against New York. Vele also maintains a consistent role in the passing game, recording at least six targets and three receptions in every game this season. He faces a tough matchup against a Steelers defense allowing the sixth-fewest PPR points to opposing wide receivers and the seventh-fewest passing yards per game at 204.3. Vele's upside may depend on finding the end zone, but his consistent involvement gives him a solid fantasy floor. He ranks as WR29 in RotoBaller's rankings this week.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Devaughn Vele recorded three receptions for 42 yards in Week 6's win over the Giants. He continues to lead the Saints' receivers in playing time, logging a 92% snap share compared to 58% for Chris Olave and 36% for Bryce Lance against New York. Vele also maintains a consistent role in the passing game, recording at least six targets and three receptions in every game this season. He faces a tough matchup against a Steelers defense allowing the sixth-fewest PPR points to opposing wide receivers and the seventh-fewest passing yards per game at 204.3. Vele's upside may depend on finding the end zone, but his consistent involvement gives him a solid fantasy floor. He ranks as WR29 in RotoBaller's rankings this week.",
+        "title": "Devaughn Vele Remains a Viable FLEX Option Against Steelers",
+        "topic_id": "1419595511165448192",
+        "url": "https://www.rotoballer.com/player-news/devaughn-vele-remains-a-viable-flex-option-against-steelers/1974274"
+      },
+      "nfl_team": "NO",
+      "player_id": "11834",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "published": 1792805775000,
+      "source": "rotoballer",
+      "source_key": "225252",
+      "story_id": "nfl|11834|rotoballer|225252|1792805775000",
+      "title": "Devaughn Vele Remains a Viable FLEX Option Against Steelers",
+      "url": "https://www.rotoballer.com/player-news/devaughn-vele-remains-a-viable-flex-option-against-steelers/1974274"
+    },
+    {
       "analysis": "Daniels has led Tampa Bay to a 1-2 record over his three starts in Mayfield's absence. The rookie has completed an acceptable 63.2 percent of his passes and has averaged 39 rush yards per game, but he's thrown four interceptions and just three touchdowns. While Mayfield still carries a questionable tag for Sunday, he was a full participant in practice all week, and coach Todd Bowles said the veteran signal-caller \"looks like he's ready to go.\"",
       "description": "Daniels is expected to work as Tampa Bay's No. 2 QB on Sunday in Carolina, as Baker Mayfield (thumb) is questionable to play but is expected to start, Scott Smith and Brianna Dix of the Buccaneers' official site report.",
       "metadata": {
@@ -167,6 +222,26 @@
       "story_id": "nfl|13425|rotowire|644062|1792805278000",
       "title": "Jalon Daniels - Likely returning to backup role",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Chris Olave recorded four receptions for 43 yards and a touchdown in Week 6's victory over the Giants. His yardage total was a season low, but he still found the end zone and remains the focal point of a pass-heavy Saints offense. Olave averaged 12 targets per game through the first four weeks and has averaged 6.5 over the last two, though some of the dip can be attributed to quarterback Tyler Shough's reduced passing volume as he deals with broken bones in his non-throwing hand. Olave still ranks second in the league in receiving yards (580), fourth in receptions (43), and fourth in targets (61). He faces a tougher matchup against a Steelers defense allowing the sixth-fewest PPR points to opposing wide receivers but remains firmly in the WR1 ranks.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Chris Olave recorded four receptions for 43 yards and a touchdown in Week 6's victory over the Giants. His yardage total was a season low, but he still found the end zone and remains the focal point of a pass-heavy Saints offense. Olave averaged 12 targets per game through the first four weeks and has averaged 6.5 over the last two, though some of the dip can be attributed to quarterback Tyler Shough's reduced passing volume as he deals with broken bones in his non-throwing hand. Olave still ranks second in the league in receiving yards (580), fourth in receptions (43), and fourth in targets (61). He faces a tougher matchup against a Steelers defense allowing the sixth-fewest PPR points to opposing wide receivers but remains firmly in the WR1 ranks.",
+        "title": "Chris Olave Remains a Top Fantasy Option Despite Tough Matchup",
+        "topic_id": "1419592994285170688",
+        "url": "https://www.rotoballer.com/player-news/chris-olave-remains-a-top-fantasy-option-despite-tough-matchup/1974270"
+      },
+      "nfl_team": "NO",
+      "player_id": "8144",
+      "player_name": "Chris Olave",
+      "position": "WR",
+      "published": 1792805111000,
+      "source": "rotoballer",
+      "source_key": "225251",
+      "story_id": "nfl|8144|rotoballer|225251|1792805111000",
+      "title": "Chris Olave Remains a Top Fantasy Option Despite Tough Matchup",
+      "url": "https://www.rotoballer.com/player-news/chris-olave-remains-a-top-fantasy-option-despite-tough-matchup/1974270"
     },
     {
       "analysis": "Charbonnet was activated from the PUP list Thursday and practiced in full all week, but he's not quite ready to make his return from a torn ACL. As such, Holani will log another week as the Seahawks' backup running back behind Emanuel Wilson. That role hasn't led to much production, as Holani has tallied just 97 yards and one touchdown on 31 carries through six games this season, though he's also registered an 11-76-0 receiving line. Should Charbonnet return Week 8 versus Chicago, Holani seems likely to see his opportunities decrease.",
@@ -209,6 +284,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New Orleans Saints running back Kendre Miller rushed 20 times for 70 yards in Week 6's win over the Giants. Miller easily outpaced his fellow backs in touches, with 22 compared to nine for Alvin Kamara and six for C.J. Donaldson. The Saints' offensive line was finally able to create some running lanes for Miller, who took advantage with a season-high 70 rushing yards. He remains fairly inefficient with the ball, however, averaging just 3.5 yards per carry in Week 6 and a career-low 3.1 yards per carry on the season. With Travis Etienne Jr. out for at least one more game, Miller should continue to see a split workload, with Kamara remaining involved. He comes in as RB29 in RotoBaller's rankings this week against a Steelers defense that ranks 13th against the run.",
+      "metadata": {
+        "description": "New Orleans Saints running back Kendre Miller rushed 20 times for 70 yards in Week 6's win over the Giants. Miller easily outpaced his fellow backs in touches, with 22 compared to nine for Alvin Kamara and six for C.J. Donaldson. The Saints' offensive line was finally able to create some running lanes for Miller, who took advantage with a season-high 70 rushing yards. He remains fairly inefficient with the ball, however, averaging just 3.5 yards per carry in Week 6 and a career-low 3.1 yards per carry on the season. With Travis Etienne Jr. out for at least one more game, Miller should continue to see a split workload, with Kamara remaining involved. He comes in as RB29 in RotoBaller's rankings this week against a Steelers defense that ranks 13th against the run.",
+        "title": "Kendre Miller Looks to Build on Solid Week 6 Performance",
+        "topic_id": "1419587960621289472",
+        "url": "https://www.rotoballer.com/player-news/kendre-miller-looks-to-build-on-solid-week-6-performance/1974264"
+      },
+      "nfl_team": "NO",
+      "player_id": "9757",
+      "player_name": "Kendre Miller",
+      "position": "RB",
+      "published": 1792803909000,
+      "source": "rotoballer",
+      "source_key": "225250",
+      "story_id": "nfl|9757|rotoballer|225250|1792803909000",
+      "title": "Kendre Miller Looks to Build on Solid Week 6 Performance",
+      "url": "https://www.rotoballer.com/player-news/kendre-miller-looks-to-build-on-solid-week-6-performance/1974264"
+    },
+    {
       "analysis": "Beck was unable to practice Thursday and Friday while working through back spasms, per Tyler Drake of ArizonaSports.com. He's been the emergency QB3 in each of the Cardinals' first six games of the season, and since Arizona doesn't have another quarterback on the practice squad, the team could just roll with starter Jacoby Brissett and backup Gardner Minshew for Sunday's contest.",
       "description": "Beck (back) is questionable for Sunday's game against the Broncos, Darren Urban of the Cardinals' official site reports.",
       "metadata": {
@@ -247,6 +342,46 @@
       "story_id": "nfl|5854|rotowire|644039|1792802606000",
       "title": "Drew Lock - Questionable for Sunday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs running back Emmett Johnson continues to be an intriguing handcuff, but he lacks standalone value for fantasy football lineups against the Seattle Seahawks in Week 7. Johnson has seen his receiving involvement increase over the last few weeks, and he ultimately finished last Sunday's game with three targets, two catches, and 18 receiving yards, as well as three carries for six rushing yards. There's no path to weekly fantasy value for Johnson as long as Kenneth Walker III is healthy, but he's a very intriguing handcuff option in case Walker ever misses any time. For now, though, the 23-year-old rookie can be left on the bench in 12+ team leagues, and he can be left on waivers in most fantasy formats with fewer than 10 teams.",
+      "metadata": {
+        "description": "Kansas City Chiefs running back Emmett Johnson continues to be an intriguing handcuff, but he lacks standalone value for fantasy football lineups against the Seattle Seahawks in Week 7. Johnson has seen his receiving involvement increase over the last few weeks, and he ultimately finished last Sunday's game with three targets, two catches, and 18 receiving yards, as well as three carries for six rushing yards. There's no path to weekly fantasy value for Johnson as long as Kenneth Walker III is healthy, but he's a very intriguing handcuff option in case Walker ever misses any time. For now, though, the 23-year-old rookie can be left on the bench in 12+ team leagues, and he can be left on waivers in most fantasy formats with fewer than 10 teams.",
+        "title": "Emmett Johnson Should Remain on the Bench in Week 7",
+        "topic_id": "1419582926642819072",
+        "url": "https://www.rotoballer.com/player-news/emmett-johnson-should-remain-on-the-bench-in-week-7/1974261"
+      },
+      "nfl_team": "KC",
+      "player_id": "13337",
+      "player_name": "Emmett Johnson",
+      "position": "RB",
+      "published": 1792802534000,
+      "source": "rotoballer",
+      "source_key": "225248",
+      "story_id": "nfl|13337|rotoballer|225248|1792802534000",
+      "title": "Emmett Johnson Should Remain on the Bench in Week 7",
+      "url": "https://www.rotoballer.com/player-news/emmett-johnson-should-remain-on-the-bench-in-week-7/1974261"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders running back Mike Washington Jr. (foot, back) is expected to play in Week 7, despite being listed as questionable after missing back-to-back practices. \"We're expecting him to be ready,\" head coach Klint Kubiak said, but he didn't provide any additional information. Washington has spent his entire rookie season so far backing up Ashton Jeanty. The 23-year-old handled a season-high 35% snap share last week with nine carries, 43 rushing yards, and a seven-yard reception. He doesn't quite have standalone value in fantasy leagues, but he remains one of the top handcuffs because he would occupy a significantly large role if Jeanty were ever to miss time. He should be rostered in 12+ team leagues, and managers who roster Jeanty in 10-team leagues should also consider adding him off the waiver wire as insurance.",
+      "metadata": {
+        "description": "Las Vegas Raiders running back Mike Washington Jr. (foot, back) is expected to play in Week 7, despite being listed as questionable after missing back-to-back practices. \"We're expecting him to be ready,\" head coach Klint Kubiak said, but he didn't provide any additional information. Washington has spent his entire rookie season so far backing up Ashton Jeanty. The 23-year-old handled a season-high 35% snap share last week with nine carries, 43 rushing yards, and a seven-yard reception. He doesn't quite have standalone value in fantasy leagues, but he remains one of the top handcuffs because he would occupy a significantly large role if Jeanty were ever to miss time. He should be rostered in 12+ team leagues, and managers who roster Jeanty in 10-team leagues should also consider adding him off the waiver wire as insurance.",
+        "title": "Raiders Expect Mike Washington Jr. to be Ready for Week 7",
+        "topic_id": "1419582926647013376",
+        "url": "https://www.rotoballer.com/player-news/raiders-expect-mike-washington-jr-to-be-ready-for-week-7/1974259"
+      },
+      "nfl_team": "LV",
+      "player_id": "13305",
+      "player_name": "Mike Washington Jr.",
+      "position": "RB",
+      "published": 1792802283000,
+      "source": "rotoballer",
+      "source_key": "225249",
+      "story_id": "nfl|13305|rotoballer|225249|1792802283000",
+      "title": "Raiders Expect Mike Washington Jr. to be Ready for Week 7",
+      "url": "https://www.rotoballer.com/player-news/raiders-expect-mike-washington-jr-to-be-ready-for-week-7/1974259"
     },
     {
       "analysis": "Cooper shined in his return from IR this past Sunday against New England, catching six of seven targets for 103 yards and a touchdown. That performance will likely gain him more attention from QB Geno Smith moving forward, but it must also be noted that Cooper's big game came in the absence of Mitchell, who is set to return Sunday following a four-game absence. Both Cooper and Mitchell are likely to remain behind Garrett Wilson in the pecking order, but it will be interesting to see if either Cooper or Mitchell is able to separate himself as the team's No. 2 wideout.",
@@ -15918,6 +16053,26 @@
     },
     {
       "analysis": null,
+      "description": "Houston Texans second-year wide receiver Jaylin Noel has stepped up in the last three weeks as the team's WR2 behind Nico Collins with Jayden Higgins (knee) out for the entire season. Noel had his best game of the season in Sunday's 34-31 win over the division-rival Jacksonville Jaguars in London on Sunday, catching all four of his targets for a team-high 107 yards and his second straight week with a touchdown. The 24-year-old former third-rounder from Iowa State now has 12 catches on 12 targets for 233 yards and two touchdowns in the last three games and is on the rise as a waiver-wire candidate. The one downside to Noel's recent resurgence in the Texans' offense is that they just traded for Marvin Harrison Jr. and appear to be getting Tank Dell (knee) back in Week 7 against the New York Giants for the first time since the 2024 season. Still, Houston's offense is on the rise, and Noel has built strong chemistry with quarterback C.J. Stroud, so he could remain firmly involved in the WR pecking order. Noel is currently rostered in 7% of Yahoo leagues, so he is widely available.",
+      "metadata": {
+        "description": "Houston Texans second-year wide receiver Jaylin Noel has stepped up in the last three weeks as the team's WR2 behind Nico Collins with Jayden Higgins (knee) out for the entire season. Noel had his best game of the season in Sunday's 34-31 win over the division-rival Jacksonville Jaguars in London on Sunday, catching all four of his targets for a team-high 107 yards and his second straight week with a touchdown. The 24-year-old former third-rounder from Iowa State now has 12 catches on 12 targets for 233 yards and two touchdowns in the last three games and is on the rise as a waiver-wire candidate. The one downside to Noel's recent resurgence in the Texans' offense is that they just traded for Marvin Harrison Jr. and appear to be getting Tank Dell (knee) back in Week 7 against the New York Giants for the first time since the 2024 season. Still, Houston's offense is on the rise, and Noel has built strong chemistry with quarterback C.J. Stroud, so he could remain firmly involved in the WR pecking order. Noel is currently rostered in 7% of Yahoo leagues, so he is widely available.",
+        "title": "Jaylin Noel Firmly on the Waiver Radar Following 100-Yard Game",
+        "topic_id": "1418033790994935808",
+        "url": "https://www.rotoballer.com/player-news/jaylin-noel-firmly-on-the-waiver-radar-following-100-yard-game/1970617"
+      },
+      "nfl_team": "HOU",
+      "player_id": "12536",
+      "player_name": "Jaylin Noel",
+      "position": "WR",
+      "published": 1792433231000,
+      "source": "rotoballer",
+      "source_key": "224828",
+      "story_id": "nfl|12536|rotoballer|224828|1792433231000",
+      "title": "Jaylin Noel Firmly on the Waiver Radar Following 100-Yard Game",
+      "url": "https://www.rotoballer.com/player-news/jaylin-noel-firmly-on-the-waiver-radar-following-100-yard-game/1970617"
+    },
+    {
+      "analysis": null,
       "description": "Los Angeles Rams wide receiver Davante Adams (hamstring) has suffered a ruptured hamstring and is expected to miss six to 10 weeks, per Nate Atkins of The Athletic. It's a crushing blow for the Rams, who will now be without their number two wideout for a significant stretch of the remainder of the 2026 season. Across six games before the injury, Adams recorded 30 catches for 480 yards and four touchdowns on 49 targets. Without him, Rams wide receiver Puka Nacua could be in line for a truly monstrous target share. However, removing Adams' downfield presence could shift defensive coverage even more heavily toward Nacua. Rams wide receiver Konata Mumpfield now becomes a potential waiver wire target for fantasy managers, while tight ends Tyler Higbee and Colby Parkinson could see increased roles as well. Once he returns from Injured Reserve, Rams tight end Terrance Ferguson (ankle) could be the biggest beneficiary of the Adams injury.",
       "metadata": {
         "description": "Los Angeles Rams wide receiver Davante Adams (hamstring) has suffered a ruptured hamstring and is expected to miss six to 10 weeks, per Nate Atkins of The Athletic. It's a crushing blow for the Rams, who will now be without their number two wideout for a significant stretch of the remainder of the 2026 season. Across six games before the injury, Adams recorded 30 catches for 480 yards and four touchdowns on 49 targets. Without him, Rams wide receiver Puka Nacua could be in line for a truly monstrous target share. However, removing Adams' downfield presence could shift defensive coverage even more heavily toward Nacua. Rams wide receiver Konata Mumpfield now becomes a potential waiver wire target for fantasy managers, while tight ends Tyler Higbee and Colby Parkinson could see increased roles as well. Once he returns from Injured Reserve, Rams tight end Terrance Ferguson (ankle) could be the biggest beneficiary of the Adams injury.",
@@ -23209,6 +23364,27 @@
       "url": "https://www.fantasypros.com/nfl/news/614507/nico-collins-hauls-three-passes-week-6-win.php"
     },
     {
+      "analysis": "Noel found the end zone on a 13-yard connection from C.J Stroud in the third quarter. Noel has shown a positive rapport with Stroud, but will likely remain behind Nico Collins in the pass catcher pecking order for the duration of the season. ",
+      "description": "Jaylin Noel caught all four of his targets for 107 yards and a touchdown in the Texans' 34-31 win over Jacksonville.",
+      "metadata": {
+        "analysis": "Noel found the end zone on a 13-yard connection from C.J Stroud in the third quarter. Noel has shown a positive rapport with Stroud, but will likely remain behind Nico Collins in the pass catcher pecking order for the duration of the season. ",
+        "description": "Jaylin Noel caught all four of his targets for 107 yards and a touchdown in the Texans' 34-31 win over Jacksonville.",
+        "title": "Jaylin Noel finds the end zone in Week 6 win",
+        "topic_id": "1417662803531124736",
+        "url": "https://www.fantasypros.com/nfl/news/614508/jaylin-noel-finds-end-zone-week-6-win.php"
+      },
+      "nfl_team": "HOU",
+      "player_id": "12536",
+      "player_name": "Jaylin Noel",
+      "position": "WR",
+      "published": 1792359660571,
+      "source": "fantasy_pros",
+      "source_key": "614508",
+      "story_id": "nfl|12536|fantasy_pros|614508|1792359660571",
+      "title": "Jaylin Noel finds the end zone in Week 6 win",
+      "url": "https://www.fantasypros.com/nfl/news/614508/jaylin-noel-finds-end-zone-week-6-win.php"
+    },
+    {
       "analysis": "Harrison was making his debut for Houston and was figured to only factor into a handful of plays. Despite that, his three receptions tie a season high and the Texans are clearly high on the 24-year-old. Harrison and the Texans will take on the Giants in Week 7. ",
       "description": "Marvin Harrison Jr. caught 3-of-4 targets for 34 yards in a 34-31 win over Jacksonville.",
       "metadata": {
@@ -23370,6 +23546,26 @@
       "story_id": "nfl|5012|rotoballer|224746|1792358419000",
       "title": "Mark Andrews' Declining Production Continues in Week 6",
       "url": "https://www.rotoballer.com/player-news/mark-andrews-declining-production-continues-in-week-6/1969833"
+    },
+    {
+      "analysis": "Noel has made much of his mark on special teams through five games this season, including two kick returns for 65 yards and one punt return for two yards in Week 6. However, he reached the end zone for a second consecutive game on a 13-yard connection with QB C.J. Stroud, and Noel's receiving-yardage total easily bested his previous career high of 85 yards, which he managed in Week 4 against the Cowboys. Nico Collins remains the top dog in the Texans' receiving corps, and Marvin Harrison just showed up from Arizona via trade, but Noel appears to have built a nice rapport with Stroud as his second season has gone on.",
+      "description": "Noel gathered in all four targets for 107 yards and one touchdown during Sunday's 34-31 win against the Jaguars in London.",
+      "metadata": {
+        "analysis": "Noel has made much of his mark on special teams through five games this season, including two kick returns for 65 yards and one punt return for two yards in Week 6. However, he reached the end zone for a second consecutive game on a 13-yard connection with QB C.J. Stroud, and Noel's receiving-yardage total easily bested his previous career high of 85 yards, which he managed in Week 4 against the Cowboys. Nico Collins remains the top dog in the Texans' receiving corps, and Marvin Harrison just showed up from Arizona via trade, but Noel appears to have built a nice rapport with Stroud as his second season has gone on.",
+        "description": "Noel gathered in all four targets for 107 yards and one touchdown during Sunday's 34-31 win against the Jaguars in London.",
+        "title": "Jaylin Noel - Records 100-plus yards, TD in Week 6",
+        "topic_id": "1417657765953888256"
+      },
+      "nfl_team": "HOU",
+      "player_id": "12536",
+      "player_name": "Jaylin Noel",
+      "position": "WR",
+      "published": 1792358315000,
+      "source": "rotowire",
+      "source_key": "643152",
+      "story_id": "nfl|12536|rotowire|643152|1792358315000",
+      "title": "Jaylin Noel - Records 100-plus yards, TD in Week 6",
+      "url": null
     },
     {
       "analysis": null,
@@ -131624,26 +131820,6 @@
       "story_id": "nfl|2505|rotoballer|222055|1790241006000",
       "title": "Darren Waller Showing Great Red-Zone Chemistry with his QB",
       "url": "https://www.rotoballer.com/player-news/darren-waller-showing-great-red-zone-chemistry-with-bryce-young/1949131"
-    },
-    {
-      "analysis": null,
-      "description": "As reported by ESPN's Adam Schefter, Seattle Seahawks quarterback Sam Darnold (glute) is \"on a good track \"to return in Week 3 when the Seahawks face the Washington Commanders. Darnold exited the season opener in the first quarter with this injury and was unable to play in Week 2. However, the reigning Super Bowl champion appears to be recovering well and may miss only one game. He was a limited participant in practice, which is a positive sign that he is trending in the right direction. In his absence, the Seahawks have turned to Drew Lock to lead the offense. This past weekend, Lock was quite sharp against the Cardinals, going 19-for-26 with 235 passing yards and three touchdowns. If cleared to return, Darnold would carry high-end QB2 upside facing a struggling Washington secondary that has allowed a hefty 30.5 PPG over the first two weeks.",
-      "metadata": {
-        "description": "As reported by ESPN's Adam Schefter, Seattle Seahawks quarterback Sam Darnold (glute) is \"on a good track \"to return in Week 3 when the Seahawks face the Washington Commanders. Darnold exited the season opener in the first quarter with this injury and was unable to play in Week 2. However, the reigning Super Bowl champion appears to be recovering well and may miss only one game. He was a limited participant in practice, which is a positive sign that he is trending in the right direction. In his absence, the Seahawks have turned to Drew Lock to lead the offense. This past weekend, Lock was quite sharp against the Cardinals, going 19-for-26 with 235 passing yards and three touchdowns. If cleared to return, Darnold would carry high-end QB2 upside facing a struggling Washington secondary that has allowed a hefty 30.5 PPG over the first two weeks.",
-        "title": "Sam Darnold is \"On a Good Track\" To Return in Week 3",
-        "topic_id": "1408823203819773952",
-        "url": "https://www.rotoballer.com/player-news/sam-darnold-is-on-a-good-track-to-return-in-week-3/1949096"
-      },
-      "nfl_team": "SEA",
-      "player_id": "4943",
-      "player_name": "Sam Darnold",
-      "position": "QB",
-      "published": 1790237074000,
-      "source": "rotoballer",
-      "source_key": "222054",
-      "story_id": "nfl|4943|rotoballer|222054|1790237074000",
-      "title": "Sam Darnold is \"On a Good Track\" To Return in Week 3",
-      "url": "https://www.rotoballer.com/player-news/sam-darnold-is-on-a-good-track-to-return-in-week-3/1949096"
     }
   ]
 }
