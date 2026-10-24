@@ -2,11 +2,51 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6497**
-- Newly captured: **11**
+- Stored stories: **6493**
+- Newly captured: **20**
 
 ## Latest news
 
+- **NEW — Ollie Gordon II** — Ollie Gordon II Will Look to Continue His Breakout in Week 7 (2026-10-24T09:04:10Z)
+  - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-will-look-to-continue-his-breakout-in-week-7/1974479
+- **NEW — Malik Willis** — Malik Willis a Low-End QB2 Vs. the Jets (2026-10-24T08:59:09Z)
+  - Source: https://www.rotoballer.com/player-news/malik-willis-a-low-end-qb2-vs-the-jets/1974473
+- **NEW — Ka'imi Fairbairn** — Ka'imi Fairbairn An Elite Option in Week 7 (2026-10-24T08:30:12Z)
+  - Source: https://www.rotoballer.com/player-news/kaimi-fairbairn-an-elite-option-in-week-7/1974448
+- **NEW — Dalton Schultz** — Dalton Schultz Only a Deep-League Option (2026-10-24T08:16:13Z)
+  - Source: https://www.rotoballer.com/player-news/dalton-schultz-only-a-deep-league-option/1974442
+- **NEW — Tank Dell** — Tank Dell Not a Strong Play in Possible Return (2026-10-24T08:07:09Z)
+  - Source: https://www.rotoballer.com/player-news/tank-dell-not-a-strong-play-in-possible-return/1974431
+- **NEW — Kayshon Boutte** — Kayshon Boutte Could Have a Smaller Role in Week 7 (2026-10-24T08:00:11Z)
+  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-could-have-a-smaller-role-in-week-7/1974422
+- **NEW — Jaylin Noel** — Jaylin Noel An Interesting Sleeper Vs. the Giants (2026-10-24T07:55:11Z)
+  - Source: https://www.rotoballer.com/player-news/jaylin-noel-an-intersting-sleeper-vs-the-giants/1974418
+- **NEW — Marvin Harrison Jr.** — Marvin Harrison Jr. Hard to Start in Week 7 (2026-10-24T07:49:09Z)
+  - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-hard-to-start-in-week-7/1974415
+- **NEW — Nico Collins** — Nico Collins A WR1 Even with More Options Available (2026-10-24T07:24:09Z)
+  - Source: https://www.rotoballer.com/player-news/nico-collins-a-wr1-even-with-more-options-available/1974399
+- **NEW — Woody Marks** — Woody Marks Set Up for a Heavy Workload (2026-10-24T07:08:12Z)
+  - Source: https://www.rotoballer.com/player-news/woody-marks-set-up-for-a-heavy-workload/1974372
+- **NEW — C.J. Stroud** — C.J. Stroud A Top-10 Option in Week 7 (2026-10-24T07:00:11Z)
+  - Source: https://www.rotoballer.com/player-news/c-j-stroud-a-top-10-option-in-week-7/1974364
+- **NEW — Trey McBride** — Trey McBride A Top Option In Week 7 (2026-10-24T06:17:12Z)
+  - Source: https://www.rotoballer.com/player-news/trey-mcbride-a-top-option-in-week-7/1974339
+- **NEW — Kendrick Bourne** — Kendrick Bourne's Consistent Use Could Continue In Week 7 (2026-10-24T06:08:13Z)
+  - Source: https://www.rotoballer.com/player-news/kendrick-bournes-consistent-use-could-continue-in-week-7/1974330
+- **NEW — Michael Wilson** — Michael Wilson's Rebound May Have To Wait (2026-10-24T06:04:10Z)
+  - Source: https://www.rotoballer.com/player-news/michael-wilsons-rebound-may-have-to-wait/1974325
+- **NEW — Zonovan Knight** — Bam Knight A Deep League Option Against Broncos (2026-10-24T06:01:09Z)
+  - Source: https://www.rotoballer.com/player-news/bam-knight-a-deep-league-option-against-broncos/1974323
+- **NEW — Tyler Allgeier** — Temper Expectations For Tyler Allgeier Despite Increased Role (2026-10-24T05:58:09Z)
+  - Source: https://www.rotoballer.com/player-news/temper-expectations-for-tyler-allgeier-despite-increased-role/1974321
+- **NEW — Jacoby Brissett** — Jacoby Brissett Not A Good Option Against Broncos (2026-10-24T05:53:13Z)
+  - Source: https://www.rotoballer.com/player-news/jacoby-brissett-not-a-good-option-against-broncos/1974319
+- **NEW — George Kittle** — George Kittle In Line For Big Week Against Falcons (2026-10-24T05:39:09Z)
+  - Source: https://www.rotoballer.com/player-news/george-kittle-in-line-for-big-week-against-falcons/1974306
+- **NEW — Christian McCaffrey** — Christian McCaffrey Should See More Receiving Work In Week 7 (2026-10-24T05:12:10Z)
+  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-should-see-more-receiving-work-in-week-7/1974291
+- **NEW — Brock Purdy** — Brock Purdy Primed For Another QB1 Week Despite Injured WRs (2026-10-24T04:57:09Z)
+  - Source: https://www.rotoballer.com/player-news/brock-purdy-primed-for-another-qb1-week-despite-injured-wrs/1974289
 - **Kyle Williams** — Kyle Williams - Quiet in Week 7 loss (2026-10-24T03:54:22Z)
   - It was the second game in a row in which Williams saw one target from Drake Maye, and the second-year pro's 21 offensive snaps were fourth-most among Patriots wide receivers. He's been surpassed by Efton Chism in the passing game, and with A.J. Brown back in the mix, it seems like most of Williams' impact moving forward will be on kickoffs as a returner. His playing time will take an even greater hit upon the returns of Mack Hollins (calf) and Romeo Doubs (shoulder) from injured reserve. The Patriots will stay on the road for Week 8 against the Dolphins on Sunday, Nov. 1.
 - **Eli Raridon** — Eli Raridon - Gets into end zone Thursday (2026-10-24T02:34:49Z)
@@ -17,31 +57,31 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Johnson played just 10 offensive snaps to D'Andre Swift's 54 in the contest. The running back did not see much action as he filled in for the injured Kyle Monangai (toe) as a rotational option for the Bears' offense. Johnson also saw one snap with the special teams unit.
 - **DeMario Douglas** — DeMario Douglas - Loses touchdown streak in defeat (2026-10-24T02:26:01Z)
   - Douglas played 35 of the Patriots' 54 offensive snaps in the contest and did not find the end zone. The wide receiver had logged three touchdowns in the prior two contests but has now returned to a role with lower priority as A.J. Brown becomes reacquainted with the offense.
-- **NEW — Dylan Sampson** — Not Enough Production to Go Around for Dylan Sampson (2026-10-24T01:52:09Z)
+- **Dylan Sampson** — Not Enough Production to Go Around for Dylan Sampson (2026-10-24T01:52:09Z)
   - Source: https://www.rotoballer.com/player-news/not-enough-production-to-go-around-for-dylan-sampson/1974280
-- **NEW — Juwan Johnson** — Juwan Johnson Looks to Bounce Back Against Steelers (2026-10-24T01:47:07Z)
+- **Juwan Johnson** — Juwan Johnson Looks to Bounce Back Against Steelers (2026-10-24T01:47:07Z)
   - Source: https://www.rotoballer.com/player-news/juwan-johnson-looks-to-bounce-back-against-steelers/1974278
-- **NEW — Jalen Nailor** — Jalen Nailor Remains in a Minor Role for Week 7 (2026-10-24T01:45:55Z)
+- **Jalen Nailor** — Jalen Nailor Remains in a Minor Role for Week 7 (2026-10-24T01:45:55Z)
   - Source: https://www.rotoballer.com/player-news/jalen-nailor-remains-in-a-minor-role-for-week-7/1974276
-- **NEW — Devaughn Vele** — Devaughn Vele Remains a Viable FLEX Option Against Steelers (2026-10-24T01:36:15Z)
+- **Devaughn Vele** — Devaughn Vele Remains a Viable FLEX Option Against Steelers (2026-10-24T01:36:15Z)
   - Source: https://www.rotoballer.com/player-news/devaughn-vele-remains-a-viable-flex-option-against-steelers/1974274
 - **Jalon Daniels** — Jalon Daniels - Likely returning to backup role (2026-10-24T01:27:58Z)
   - Daniels has led Tampa Bay to a 1-2 record over his three starts in Mayfield's absence. The rookie has completed an acceptable 63.2 percent of his passes and has averaged 39 rush yards per game, but he's thrown four interceptions and just three touchdowns. While Mayfield still carries a questionable tag for Sunday, he was a full participant in practice all week, and coach Todd Bowles said the veteran signal-caller "looks like he's ready to go."
-- **NEW — Chris Olave** — Chris Olave Remains a Top Fantasy Option Despite Tough Matchup (2026-10-24T01:25:11Z)
+- **Chris Olave** — Chris Olave Remains a Top Fantasy Option Despite Tough Matchup (2026-10-24T01:25:11Z)
   - Source: https://www.rotoballer.com/player-news/chris-olave-remains-a-top-fantasy-option-despite-tough-matchup/1974270
 - **George Holani** — George Holani - Won't have competition from Charbonnet yet (2026-10-24T01:16:41Z)
   - Charbonnet was activated from the PUP list Thursday and practiced in full all week, but he's not quite ready to make his return from a torn ACL. As such, Holani will log another week as the Seahawks' backup running back behind Emanuel Wilson. That role hasn't led to much production, as Holani has tallied just 97 yards and one touchdown on 31 carries through six games this season, though he's also registered an 11-76-0 receiving line. Should Charbonnet return Week 8 versus Chicago, Holani seems likely to see his opportunities decrease.
 - **Jaleel McLaughlin** — Jaleel McLaughlin - Role may evaporate for Week 7 (2026-10-24T01:06:31Z)
   - McLaughlin turned 13 touches (nine carries, four catches) into 55 yards in a Week 6 win against the Browns, but Cleveland was without Judkins, Sampson and Raheim Sanders (hip) for that contest. With Judkins and Sampson both on track to play Sunday, McLaughlin and Audric Estime will revert to depth roles on offense and will likely be limited to work on special teams.
-- **NEW — Kendre Miller** — Kendre Miller Looks to Build on Solid Week 6 Performance (2026-10-24T01:05:09Z)
+- **Kendre Miller** — Kendre Miller Looks to Build on Solid Week 6 Performance (2026-10-24T01:05:09Z)
   - Source: https://www.rotoballer.com/player-news/kendre-miller-looks-to-build-on-solid-week-6-performance/1974264
 - **Carson Beck** — Carson Beck - Questionable for Week 7 (2026-10-24T00:50:26Z)
   - Beck was unable to practice Thursday and Friday while working through back spasms, per Tyler Drake of ArizonaSports.com. He's been the emergency QB3 in each of the Cardinals' first six games of the season, and since Arizona doesn't have another quarterback on the practice squad, the team could just roll with starter Jacoby Brissett and backup Gardner Minshew for Sunday's contest.
 - **Drew Lock** — Drew Lock - Questionable for Sunday (2026-10-24T00:43:26Z)
   - Lock logged three consecutive limited practices during Week 7 prep. The backup quarterback's throwing arm remains a problem, leaving it unclear whether he will suit up for Sunday's game or if Jalen Milroe will be active for the contest.
-- **NEW — Emmett Johnson** — Emmett Johnson Should Remain on the Bench in Week 7 (2026-10-24T00:42:14Z)
+- **Emmett Johnson** — Emmett Johnson Should Remain on the Bench in Week 7 (2026-10-24T00:42:14Z)
   - Source: https://www.rotoballer.com/player-news/emmett-johnson-should-remain-on-the-bench-in-week-7/1974261
-- **NEW — Mike Washington Jr.** — Raiders Expect Mike Washington Jr. to be Ready for Week 7 (2026-10-24T00:38:03Z)
+- **Mike Washington Jr.** — Raiders Expect Mike Washington Jr. to be Ready for Week 7 (2026-10-24T00:38:03Z)
   - Source: https://www.rotoballer.com/player-news/raiders-expect-mike-washington-jr-to-be-ready-for-week-7/1974259
 - **Omar Cooper Jr.** — Omar Cooper - Could be set for lesser role (2026-10-24T00:36:33Z)
   - Cooper shined in his return from IR this past Sunday against New England, catching six of seven targets for 103 yards and a touchdown. That performance will likely gain him more attention from QB Geno Smith moving forward, but it must also be noted that Cooper's big game came in the absence of Mitchell, who is set to return Sunday following a four-game absence. Both Cooper and Mitchell are likely to remain behind Garrett Wilson in the pecking order, but it will be interesting to see if either Cooper or Mitchell is able to separate himself as the team's No. 2 wideout.
@@ -175,48 +215,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/aaron-rodgers-a-viable-fantasy-option-against-saints/1974088
 - **Adonai Mitchell** — Adonai Mitchell - Cleared for Week 7 return (2026-10-23T20:13:14Z)
   - Coming back from a four-game absence, Mitchell figures to take a lot of the snaps that went to Tim Patrick last week. What's less clear is how Mitchell's return will impact Omar Cooper, who played 82 percent of snaps in last week's 26-19 loss to the Patriots, catching six of seven targets for 103 yards and a TD in the process.
-- **T.J. Hockenson** — T.J. Hockenson - Clear for Week 7 (2026-10-23T20:07:08Z)
-  - With the benefit of a Week 6 bye, Hockenson has cleared the concussion protocol after suffering a head injury in the Vikings' last game in Week 5 at New Orleans. He'll be available Sunday along with WRs Justin Jefferson (ankle) and Jordan Addison (hamstring) for QB Kyler Murray.
-- **Lamar Jackson** — Lamar Jackson (ankle) officially questionable for Sunday (2026-10-23T19:55:25.052000Z)
-  - Jackson has missed the past couple of games due to an ankle injury, but he is officially questionable for Week 7 and will have a chance to make his return to the lineup on Sunday. All of Baltimore's relevant fantasy options will see a nice boost if he's back in the lineup this week, even if he's slightly limited by the lingering effects of his injury.
-  - Source: https://www.fantasypros.com/nfl/news/615543/lamar-jackson-ankle-officially-questionable-sunday.php
-- **Rashod Bateman** — Rashod Bateman (shoulder) good to go for Sunday (2026-10-23T19:55:25.043000Z)
-  - Bateman will be good to go for Sunday's game after being limited by a shoulder issue earlier in the week. He isn't expected to be a trustworthy fantasy option in this game, however, though his ceiling will be raised considerably if QB Lamar Jackson (ankle) is cleared to play ahead of game time.
-  - Source: https://www.fantasypros.com/nfl/news/615544/rashod-bateman-shoulder-good-to-go-sunday.php
-- **Lamar Jackson** — Lamar Jackson - Potential game-time decision (2026-10-23T19:49:40Z)
-  - The Ravens listed Jackson as a limited participant all week, with the QB telling reporters Friday that he's "heading in the right direction," per Jamison Hensley of ESPN.com. Jackson clarified that his injury is a high-ankle sprain, and while the swelling has subsided, he's still dealing with considerable pain that may limit his mobility. He suggested that a decision won't be made until Saturday or Sunday, at which point the Ravens may try to keep it under wraps until inactive lists are released at 11:30 a.m. ET on Sunday. If Jackson is out again, Tyler Huntley will make his third straight start.
-- **Travis Kelce** — Travis Kelce - Good to go for Week 7 (2026-10-23T19:44:46Z)
-  - Despite logging limited practices all week, Kelce is good to go for Sunday's trip to hostile Seattle. Particularly with Rashee Rice (hamstring) still sidelined for the Chiefs, Kelce projects as Patrick Mahomes' safety valve over the middle of the field. Kelce has 20 grabs for 299 yards and two touchdowns on 29 targets through five games this season.
-- **Mike Washington Jr.** — Mike Washington Jr. (foot/back) expected to play Sunday (2026-10-23T19:40:25.538000Z)
-  - Washington missed Thursday's practice due to a pair of injuries that he's dealing with, but HC Klint Kubiak told reporters that he expects the young running back to play on Sunday, though the team will give him a pregame evaluation to ensure that he's healthy enough to suit up. Assuming he's active, he will continue to be an involved RB2 on this offense behind Ashton Jeanty, though he doesn't project to have much fantasy value in this particular matchup.
-  - Source: https://www.fantasypros.com/nfl/news/615539/mike-washington-jr-footback-expected-to-play-sunday.php
-- **Tyjae Spears** — Tyjae Spears (knee) questionable to play Sunday (2026-10-23T19:40:25.501000Z)
-  - The Titans may not have Spears on Sunday, as he is currently considered questionable to play due to a nagging knee issue of some kind. If he's ruled out, Tony Pollard will dominate the touches in this backfield.
-  - Source: https://www.fantasypros.com/nfl/news/615541/tyjae-spears-knee-questionable-to-play-sunday.php
-- **Quinshon Judkins** — Quinshon Judkins Has Good Matchup In Week 7 Return (2026-10-23T19:36:45Z)
-  - Source: https://www.rotoballer.com/player-news/quinshon-judkins-has-good-matchup-in-week-7-return/1974061
-- **Tre Tucker** — Tre Tucker a Streaming Option in Week 7 (2026-10-23T19:34:47Z)
-  - Source: https://www.rotoballer.com/player-news/tre-tucker-a-streaming-option-in-week-7/1974059
-- **Michael Mayer** — Michael Mayer a Streaming Option in Week 7 (2026-10-23T19:33:14Z)
-  - Source: https://www.rotoballer.com/player-news/michael-mayer-a-streaming-option-in-week-7/1974057
-- **Brock Bowers** — Brock Bowers a TE1 in Week 7 Against Rams (2026-10-23T19:32:09Z)
-  - Source: https://www.rotoballer.com/player-news/brock-bowers-a-te1-in-week-7/1974054
-- **Mike Washington Jr.** — Mike Washington Jr. Has Murky Future Ahead of Week 7 (2026-10-23T19:30:11Z)
-  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-has-murky-future-ahead-of-week-7/1974051
-- **Deshaun Watson** — Deshaun Watson Worth A Look In Week 7 (2026-10-23T19:29:09Z)
-  - Source: https://www.rotoballer.com/player-news/deshaun-watson-worth-a-look-in-week-7/1974050
-- **Ashton Jeanty** — Ashton Jeanty a Low-End RB2 in Week 7 (2026-10-23T19:27:11Z)
-  - Source: https://www.rotoballer.com/player-news/ashton-jeanty-a-low-end-rb2-in-week-7/1974048
-- **Kirk Cousins** — Kirk Cousins a QB2 in Tough Week 7 Matchup (2026-10-23T19:26:15Z)
-  - Source: https://www.rotoballer.com/player-news/kirk-cousins-a-qb2-in-tough-week-7-matchup/1974046
-- **DeVonta Smith** — DeVonta Smith (hamstring) not practicing Friday (2026-10-23T19:25:25.291000Z)
-  - The veteran wideout is not taking part in the team's practice for a second-straight day on Friday, which raises some questions about his availability for Week 7. Fantasy managers should keep close tabs on updates about his health throughout the rest of the week to see if he will play on Monday night or not.
-  - Source: https://www.fantasypros.com/nfl/news/615534/devonta-smith-hamstring-not-practicing-friday.php
-- **Darren Waller** — Darren Waller Too Risky of a Bet in Week 7 (2026-10-23T19:24:09Z)
-  - Source: https://www.rotoballer.com/player-news/darren-waller-too-risky-of-a-bet-in-week-7/1974044
-- **Sam Darnold** — Sam Darnold a QB2 in Week 7 (2026-10-23T19:21:09Z)
-  - Source: https://www.rotoballer.com/player-news/sam-darnold-a-qb2-in-week-7/1974038
-- **Mike Washington Jr.** — Mike Washington - Listed questionable for Sunday (2026-10-23T19:20:45Z)
-  - Washington has barely practiced this week, and it seems like he could be on the wrong side of the questionable tag as a rookie who hasn't seen many practice reps during Week 7 prep. If Washington is unable to gain clearance against Los Angeles, Dylan Laube would likely see increased snaps behind Ashton Jeanty.
-- **Emanuel Wilson** — Emanuel Wilson a Flex Option in Week 7 (2026-10-23T19:20:10Z)
-  - Source: https://www.rotoballer.com/player-news/emanuel-wilson-a-flex-option-in-week-7/1974033
