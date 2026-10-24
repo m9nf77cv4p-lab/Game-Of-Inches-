@@ -2,83 +2,95 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6515**
-- Newly captured: **27**
+- Stored stories: **6490**
+- Newly captured: **6**
 
 ## Latest news
 
-- **NEW — Lamar Jackson** — Lamar Jackson (ankle) ruled out for Week 7 (2026-10-24T21:26:00.890000Z)
+- **NEW — Eli Stowers** — Eli Stowers - Tagged as questionable to return Week 7 (2026-10-24T22:14:10Z)
+  - After being drafted in the second round of April's NFL Draft, Stowers hurt his hamstring during preseason play and began the campaign on IR. The Eagles opened his 21-day practice window Oct. 14, and the rookie practiced in full all three days this week. Both Stowers and fellow tight end Grant Calcaterra (back) could be ready to return from IR ahead of Monday's matchup, but for that to happen, they'd need to be activated to the 53-man roster at some point this weekend.
+- **Lamar Jackson** — Lamar Jackson (ankle) ruled out for Week 7 (2026-10-24T21:26:00.890000Z)
   - Jackson last played on Oct. 4 against the Tennessee Titans, throwing for two scores and 222 yards in one half. The Ravens are 1-1 in that stretch, with Tyler Huntley starting under center. A key divisional matchup awaits in a competitive AFC North, and Jackson could return in Week 8 against the Buffalo Bills.
   - Source: https://www.fantasypros.com/nfl/news/615650/lamar-jackson-ankle-ruled-out-week-7.php
-- **NEW — Tyler Huntley** — Tyler Huntley set to start vs. Bengals (2026-10-24T21:26:00.878000Z)
+- **Tyler Huntley** — Tyler Huntley set to start vs. Bengals (2026-10-24T21:26:00.878000Z)
   - Lamar Jackson (ankle) remains out despite logging three limited practices this week. Huntley gets at least one more start, with Jackson potentially returning in Week 8. Huntley has three touchdowns in two starts and is a QB2 option against an improved Bengals defense.
   - Source: https://www.fantasypros.com/nfl/news/615651/tyler-huntley-set-to-starts-vs-bengals.php
-- **NEW — DeVonta Smith** — DeVonta Smith (hamstring) ruled out vs. Dallas (2026-10-24T21:26:00.865000Z)
+- **DeVonta Smith** — DeVonta Smith (hamstring) ruled out vs. Dallas (2026-10-24T21:26:00.865000Z)
   - This is how the week trended, with Smith not practicing at all heading into Week 7. Smith had returned after a multi-game hiatus for Week 6, catching a touchdown from quarterback Tanner McKee; now, McKee will be without a key offensive weapon.
   - Source: https://www.fantasypros.com/nfl/news/615653/devonta-smith-hamstring-ruled-out-vs-dallas.php
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks (ankle) out for Week 7 (2026-10-24T21:26:00.852000Z)
+- **Dontayvion Wicks** — Dontayvion Wicks (ankle) out for Week 7 (2026-10-24T21:26:00.852000Z)
   - Wicks did not practice this week, so this does not come as a surprise. However, multiple important players will miss Week 7, including Wicks and wide receiver DeVonta Smith. Quarterback Tanner McKee will rely on a patchwork offense in a divisional matchup. 
   - Source: https://www.fantasypros.com/nfl/news/615654/dontayvion-wicks-ankle-out-week-7.php
-- **NEW — Jonah Coleman** — Jonah Coleman - Activated from IR (2026-10-24T20:48:41Z)
+- **Jonah Coleman** — Jonah Coleman - Activated from IR (2026-10-24T20:48:41Z)
   - Coleman is still questionable for Sunday's game against the Cardinals, but his activation off IR indicates that he is on track to appear in his first contest since Week 2 against the Jaguars. With Tyler Badie (thumb) on injured reserve, Coleman will slot into the RB3 spot behind J.K. Dobbins and RJ Harvey, and Coleman should also be in the mix for return duties on kickoffs.
-- **NEW — Jordan Mason** — Jordan Mason - Activated from IR, cleared for Week 7 (2026-10-24T20:34:17Z)
+- **Jordan Mason** — Jordan Mason - Activated from IR, cleared for Week 7 (2026-10-24T20:34:17Z)
   - Mason has spent the four-game minimum on IR while recovering from a thumb injury, and the veteran running back has been given the green light to return for Week 7. He'll rejoin Aaron Jones in the backfield for Sunday's game, and the veteran duo figure to operate in a timeshare as they did last season.
-- **NEW — Tank Dell** — Tank Dell - Activated from injured reserve (2026-10-24T20:16:10Z)
+- **Tank Dell** — Tank Dell - Activated from injured reserve (2026-10-24T20:16:10Z)
   - Dell thus is poised to log his first game action since he suffered a serious left knee injury Dec. 21, 2024 that included a dislocated kneecap and multiple ligament tears. The Texans' receiving corps is in a much different state this time around, with Marvin Harrison, Jaylin Noel, Xavier Hutchinson and Kayshon Boutte all vying for reps behind No. 1 option Nico Collins. Where Dell may stand behind Collins remains to be seen, assuming the former is active for Sunday's 1:00 p.m. ET kickoff.
-- **NEW — Josh Jacobs** — Josh Jacobs - Expected to play Sunday (2026-10-24T20:09:18Z)
+- **Josh Jacobs** — Josh Jacobs - Expected to play Sunday (2026-10-24T20:09:18Z)
   - After missing the first six games of the season while on the commissioner's exempt list, Jacobs is now in line for his 2026 debut following a full week of drills. It remains to be seen what kind of workload he'll be able to handle off the bat, but he at least appears as if he'll be in the mix for RB reps along with MarShawn Lloyd, Pierre Strong and Kaleb Johnson on Sunday.
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks - Ruled out for Monday's game (2026-10-24T20:04:18Z)
+- **Dontayvion Wicks** — Dontayvion Wicks - Ruled out for Monday's game (2026-10-24T20:04:18Z)
   - Wicks wasn't able to practice in any capacity during Week 7 prep due to an ankle injury and thus will miss his first contest of the campaign. With DeVonta Smith (hamstring) also sidelined Monday, the Eaglges will rely on a receiving corps composed of Makai Lemon, Darius Cooper, Hollywood Brown, Elijah Moore and Britain Covey, though TE Dallas Goedert (knee) may end being the favorite target of QB Tanner McKee.
-- **NEW — Saquon Barkley** — Saquon Barkley - Questionable for Week 7 (2026-10-24T19:58:33Z)
+- **Saquon Barkley** — Saquon Barkley - Questionable for Week 7 (2026-10-24T19:58:33Z)
   - Barkley followed up limited sessions Thursday and Friday with a full practice Saturday, but his status remains up in the air for Week 7 action. He's seeking his first game action since Week 4 as he tends to a lingering hamstring injury, something that'll be confirmed, one way or another, about 90 minutes before Monday's 8:15 p.m. ET kickoff.
-- **NEW — Dallas Goedert** — Dallas Goedert - Good to go against Dallas (2026-10-24T19:57:33Z)
+- **Dallas Goedert** — Dallas Goedert - Good to go against Dallas (2026-10-24T19:57:33Z)
   - After opening the week with two missed practices, the veteran tight end returned to full work Saturday, which was enough for him to fade an injury tag for Monday night's contest. Both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) have been ruled out, so Goedert and rookie wide receiver Makai Lemon should command the majority of targets from quarterback Tanner McKee. Goedert has a 12-99-0 receiving line on 17 targets over his last two games.
-- **NEW — DeVonta Smith** — DeVonta Smith - Ruled out for Monday Night Football (2026-10-24T19:54:50Z)
+- **DeVonta Smith** — DeVonta Smith - Ruled out for Monday Night Football (2026-10-24T19:54:50Z)
   - Smith was unable to practice all week while nursing a hamstring injury, and the Eagles will be without both of their top wide receivers, as Dontayvion Wicks (ankle) has also been ruled out. Rookie Makai Lemon, Darius Cooper and Hollywood Brown figure to be the Eagles' top wideouts for Monday night's game, and tight end Dallas Goedert will be a go-to target for quarterback Tanner McKee due to the absences of both Smith and Wicks. Smith's next opportunity to play is Week 8 against the Commanders on Sunday, Nov. 1.
-- **NEW — Tyler Huntley** — Tyler Huntley - Starting Sunday vs. Cincinnati (2026-10-24T19:40:11Z)
+- **Tyler Huntley** — Tyler Huntley - Starting Sunday vs. Cincinnati (2026-10-24T19:40:11Z)
   - Jackson initially drew the questionable tag after being limited in practice all week, but he has not recovered enough from a high-ankle sprain to make his return for Sunday's AFC North showdown. Huntley will start for a third consecutive game, and the veteran quarterback will face a Bengals defense that has given up only five touchdown passes (tied for third-fewest in the league) and ranks sixth in the NFL in sacks (17).
-- **NEW — Lamar Jackson** — Lamar Jackson - Won't return for Week 7 (2026-10-24T19:35:57Z)
+- **Lamar Jackson** — Lamar Jackson - Won't return for Week 7 (2026-10-24T19:35:57Z)
   - Jackson drew the questionable tag for Sunday's AFC North tilt after being a limited practice participant all week, but the superstar quarterback will end up missing a third consecutive game due to a high-ankle sprain. As a result, Tyler Huntley will once again start under center for the Ravens, and Jackson's next opportunity to play is Week 8 against the Bills on Sunday, Nov. 1.
+- **NEW — Kendrick Bourne** — Kendrick Bourne Likely Available on the Waive Wire for Deep League Needs (2026-10-24T19:11:12Z)
+  - Source: https://www.rotoballer.com/player-news/kendrick-bourne-likely-available-on-the-waive-wire-for-deep-league-needs/1975035
+- **NEW — Omar Cooper Jr.** — Omar Cooper Jr. Strong Stremaing Option vs. Dolphins (2026-10-24T18:55:13Z)
+  - Source: https://www.rotoballer.com/player-news/omar-cooper-jr-strong-stremaing-option-vs-dolphins/1975033
+- **NEW — Jonah Coleman** — Denver Broncos Activate Jonah Coleman from Injured Reserve (2026-10-24T18:40:14Z)
+  - Source: https://www.rotoballer.com/player-news/denver-broncos-activate-jonah-coleman-from-injured-reserve/1975029
+- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane is a Late-Week Streaming Option Vs. Bengals (2026-10-24T18:19:11Z)
+  - Source: https://www.rotoballer.com/player-news/jakobi-lane-is-a-late-week-streaming-option-vs-bengals/1975026
 - **Dallas Goedert** — Dallas Goedert - Optimistic about knee injury (2026-10-24T17:59:03Z)
   - Goedert was back on the practice field Saturday after missing the first two sessions of Week 7 prep while dealing with inflammation in his knee. The Eagles still need to submit their injury designations for Monday's game against the Cowboys, but Goedert noted after Saturday's session that he expects to play, per Olivia Reiner of The Philadelphia Inquirer. The veteran tight end's availability is crucial for Philadelphia, given that both of the team's top wide receivers in DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) did not practice all week.
-- **NEW — Tanner McKee** — Tanner McKee Looks to Improve in Matchup Vs. Cowboys (2026-10-24T17:17:12Z)
+- **NEW — Darius Cooper** — Darius Cooper Has Big Opportunity on Monday Night Football Vs. Cowboys (2026-10-24T17:21:12Z)
+  - Source: https://www.rotoballer.com/player-news/darius-cooper-has-big-opportunity-on-monday-night-football-vs-cowboys/1974996
+- **Tanner McKee** — Tanner McKee Looks to Improve in Matchup Vs. Cowboys (2026-10-24T17:17:12Z)
   - Source: https://www.rotoballer.com/player-news/tanner-mckee-looks-to-improve-in-matchup-vs-cowboys/1974992
-- **NEW — Saquon Barkley** — Saquon Barkley's Status is Cloudy Vs. Cowboys, But He Could Make Impact (2026-10-24T17:13:20Z)
+- **Saquon Barkley** — Saquon Barkley's Status is Cloudy Vs. Cowboys, But He Could Make Impact (2026-10-24T17:13:20Z)
   - Source: https://www.rotoballer.com/player-news/saquon-barkleys-status-is-cloudy-vs-cowboys-but-he-could-make-impact/1974988
-- **NEW — Dameon Pierce** — Dameon Pierce Could Play No. 2 Role Vs. Cowboys, But Still Has Value (2026-10-24T17:02:12Z)
+- **Dameon Pierce** — Dameon Pierce Could Play No. 2 Role Vs. Cowboys, But Still Has Value (2026-10-24T17:02:12Z)
   - Source: https://www.rotoballer.com/player-news/dameon-pierce-to-play-no-2-role-vs-cowboys-but-still-has-value/1974981
-- **NEW — Makai Lemon** — Despite Slow Start, Makai Lemon Should See More Volume vs. Cowboys (2026-10-24T16:57:11Z)
+- **Makai Lemon** — Despite Slow Start, Makai Lemon Should See More Volume vs. Cowboys (2026-10-24T16:57:11Z)
   - Source: https://www.rotoballer.com/player-news/despite-slow-start-makai-lemon-should-see-more-volume-vs-cowboys/1974977
 - **Dylan Sampson** — Dylan Sampson - Activated from injured reserve (2026-10-24T16:52:50Z)
   - Sampson also had his questionable injury designation removed and has been cleared to play against the Titans on Sunday. He's missed the Browns' last five games due to a knee injury, but his return means Cleveland's backfield will have its top backfield options in Sampson and Quinshon Judkins (ankle) for Week 7.
-- **NEW — Dallas Goedert** — Dallas Goedert Is Still a Reliable Option for Eagles (2026-10-24T16:50:13Z)
+- **Dallas Goedert** — Dallas Goedert Is Still a Reliable Option for Eagles (2026-10-24T16:50:13Z)
   - Source: https://www.rotoballer.com/player-news/dallas-goedert-is-still-a-reliable-option-for-eagles/1974974
-- **NEW — Jordan Mason** — Jordan Mason Officially Activated Ahead of Week 7 Return (2026-10-24T16:49:11Z)
+- **Jordan Mason** — Jordan Mason Officially Activated Ahead of Week 7 Return (2026-10-24T16:49:11Z)
   - Source: https://www.rotoballer.com/player-news/jordan-mason-officially-activated-ahead-of-week-7-return/1974972
-- **NEW — Tank Dell** — Tank Dell Added to Texans' 53-Man Roster, Will Play in Week 7 (2026-10-24T16:40:14Z)
+- **Tank Dell** — Tank Dell Added to Texans' 53-Man Roster, Will Play in Week 7 (2026-10-24T16:40:14Z)
   - Source: https://www.rotoballer.com/player-news/tank-dell-added-to-texans-53-man-roster-will-play-in-week-7/1974968
 - **Saquon Barkley** — Saquon Barkley - Practicing Saturday (2026-10-24T16:32:26Z)
   - Barkley was a limited participant in each of the first two practices of Week 7 prep as the star running back works his way back from a hamstring injury that sidelined him for each of the Eagles' last two games. Saturday's practice report will shed light on Barkley's status ahead of Monday's game against the Cowboys, and a full session would likely be enough for him to avoid an injury designation. His return would result in Dameon Pierce reverting to a rotational role in the backfield.
-- **NEW — Josh Jacobs** — Josh Jacobs Activated, Will Play in Week 7 (2026-10-24T16:27:12Z)
+- **Josh Jacobs** — Josh Jacobs Activated, Will Play in Week 7 (2026-10-24T16:27:12Z)
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-activated-will-play-in-week-7/1974955
 - **Dontayvion Wicks** — Dontayvion Wicks - Not spotted at Saturday's practice (2026-10-24T16:24:49Z)
   - It looks like both Wicks and DeVonta Smith (hamstring) will miss all three Week 7 practices, so the duo's chances of playing Monday against the Cowboys appears to be slim, but the Eagles will announce their injury designations following Saturday's session. Rookie Makai Lemon, Darius Cooper and tight end Dallas Goedert (knee) would all be involved more heavily in the offense if one or both of Wicks and Smith is sidelined.
 - **DeVonta Smith** — DeVonta Smith - Absent from Saturday's practice (2026-10-24T16:21:02Z)
   - Smith missed each of the first two practices of Week 7 prep while tending to a hamstring injury that he aggravated against the Panthers in Week 6. His absence for a third consecutive practice doesn't bode well for his chances of playing Monday against the Cowboys, but his status for that contest will be more clear once the Eagles announce their injury designations following Saturday's session. Dontayvion Wicks (ankle) was also not on the field, so Dallas Goedert (knee), Makai Lemon and Darius Cooper could be the top targets for quarterback Tanner McKee in Monday's NFC East showdown.
-- **NEW — KC Concepcion Jr.** — KC Concepcion Jr. a PPR Add With Steady Targets (2026-10-24T16:20:13Z)
+- **KC Concepcion Jr.** — KC Concepcion Jr. a PPR Add With Steady Targets (2026-10-24T16:20:13Z)
   - Source: https://www.rotoballer.com/player-news/kc-concepcion-jr-a-ppr-add-with-steady-targets/1974946
 - **Dallas Goedert** — Dallas Goedert - Back at practice Saturday (2026-10-24T16:17:49Z)
   - Goedert missed the first two practices of Week 7 prep while tending to a knee injury, but he's back on the field and in pads for Saturday's session. The Eagles are also dealing with injuries to DeVonta Smith (hamstring) and Dontayvion Wicks (ankle), so Goedert -- if active for Monday night's game against the Cowboys -- would operate in an expanded role in the passing game if either or both of the Eagles' top two wide receivers is sidelined.
-- **NEW — Keenan Allen** — Keenan Allen a Solid Wide Receiver Streamer Option in Week 7 (2026-10-24T16:08:14Z)
+- **Keenan Allen** — Keenan Allen a Solid Wide Receiver Streamer Option in Week 7 (2026-10-24T16:08:14Z)
   - Source: https://www.rotoballer.com/player-news/keenan-allen-a-solid-wide-receiver-streamer-option-in-week-7/1974930
-- **NEW — Lamar Jackson** — Lamar Jackson Ruled Out for Week 7 Against Bengals (2026-10-24T15:44:12Z)
+- **Lamar Jackson** — Lamar Jackson Ruled Out for Week 7 Against Bengals (2026-10-24T15:44:12Z)
   - Source: https://www.rotoballer.com/player-news/lamar-jackson-ruled-out-for-week-7-against-bengals/1974924
 - **Zach Charbonnet** — Zach Charbonnet (knee) will not play in Week 7 (2026-10-24T15:40:58.701000Z)
   - There was some speculation that Charbonnet would make his long-awaited return for the Seahawks on Sunday night, but that will not be the case. Charbonnet was activated from the PUP list this past Thursday and should be ready to go for a Monday night matchup against the Bears in Week 8. 
   - Source: https://www.fantasypros.com/nfl/news/615638/zach-charbonnet-knee-will-not-play-week-7.php
-- **NEW — Brandin Cooks** — Brandin Cooks a Waiver Option With Expanded Receiving Opportunity (2026-10-24T15:19:12Z)
+- **Brandin Cooks** — Brandin Cooks a Waiver Option With Expanded Receiving Opportunity (2026-10-24T15:19:12Z)
   - Source: https://www.rotoballer.com/player-news/brandin-cooks-a-waiver-option-with-expanded-receiving-opportunity/1974913
-- **NEW — Jonah Coleman** — Jonah Coleman Offers Stash Appeal as Backfield Opens (2026-10-24T15:03:14Z)
+- **Jonah Coleman** — Jonah Coleman Offers Stash Appeal as Backfield Opens (2026-10-24T15:03:14Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-offers-stash-appeal-as-backfield-opens/1974906
 - **Tyrone Tracy Jr.** — Tyrone Tracy Jr. Draws Waiver Interest After Two-Touchdown Performance (2026-10-24T14:48:15Z)
   - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-draws-waiver-interest-after-two-touchdown-performance/1974901
@@ -200,15 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kenyon-sadiqs-recent-receiving-slump-leaves-him-a-week-7-te2/1974670
 - **Cam Ward** — Cam Ward Faces Tough Matchup in Week 7 (2026-10-24T11:08:16Z)
   - Source: https://www.rotoballer.com/player-news/cam-ward-faces-tough-matchup-in-week-7/1974667
-- **Adonai Mitchell** — Adonai Mitchell Returns With Deep-League Appeal Against Miami (2026-10-24T11:07:17Z)
-  - Source: https://www.rotoballer.com/player-news/adonai-mitchell-returns-with-deep-league-appeal-against-miami/1974665
-- **Omar Cooper Jr.** — Omar Cooper Jr. Brings Breakout Momentum Into Week 7 (2026-10-24T11:05:12Z)
-  - Source: https://www.rotoballer.com/player-news/omar-cooper-jr-brings-breakout-momentum-into-week-7/1974660
-- **Garrett Wilson** — Garrett Wilson Retains WR2 Appeal as Jets Get Healthier (2026-10-24T11:02:12Z)
-  - Source: https://www.rotoballer.com/player-news/garrett-wilson-retains-wr2-appeal-as-jets-get-healthier/1974656
-- **Matthew Stafford** — Matthew Stafford Could Enter Week 7 Without Top Two Targets (2026-10-24T11:01:12Z)
-  - Source: https://www.rotoballer.com/player-news/matthew-stafford-could-enter-week-7-without-top-two-targets/1974654
-- **Ted Hurst III** — Ted Hurst III Offers Plug-and-Play Potential Against Carolina (2026-10-24T11:00:31Z)
-  - Source: https://www.rotoballer.com/player-news/ted-hurst-iii-offers-plug-and-play-potential-against-carolina/1974652
-- **Braelon Allen** — Braelon Allen's Week 7 Starting Value Hinges on Backfield Availability (2026-10-24T10:59:13Z)
-  - Source: https://www.rotoballer.com/player-news/braelon-allens-week-7-starting-value-hinges-on-backfield-availability/1974650
