@@ -2,95 +2,171 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6453**
-- Newly captured: **34**
+- Stored stories: **6411**
+- Newly captured: **35**
 
 ## Latest news
 
-- **NEW — Shedeur Sanders** — Shedeur Sanders - Remaining in backup role for Week 7 (2026-10-25T16:01:22Z)
+- **NEW — Kenny Gainwell** — Kenny Gainwell (hip) questionable to return Sunday  (2026-10-25T19:00:09.902000Z)
+  - Gainwell was listed as questionable to return coming into the third quarter. This will likely lead to more touches for Sean Tucker if he is unable to return against the Panthers. 
+  - Source: https://www.fantasypros.com/nfl/news/615719/kenny-gainwell-hip-questionable-to-return-sunday.php
+- **NEW — Josh Jacobs** — Josh Jacobs (suspension) active for Week 7 (2026-10-25T19:00:09.890000Z)
+  - Jacobs will make his season debut after being placed on the commissioners exempt list in the summer, looking to boost a Green Bay ground attack that has struggled up until this point.
+  - Source: https://www.fantasypros.com/nfl/news/615720/josh-jacobs-suspension-active-week-7.php
+- **NEW — Kaleb Johnson** — Kaleb Johnson inactive for Week 7 (2026-10-25T19:00:09.875000Z)
+  - Johnson will not suit up after just one touch in Week 6, with the returning Josh Jacobs (suspension) poised to reclaim his role as the No. 1 option in the Green Bay backfield moving forward.
+  - Source: https://www.fantasypros.com/nfl/news/615721/kaleb-johnson-inactive-week-7.php
+- **NEW — Josh Jacobs** — Josh Jacobs - Active as expected Sunday (2026-10-25T18:56:39Z)
+  - Jacobs was removed from the Commissioner's Exempt List on Monday after sitting out the first six games of the season, and the veteran running back proceeded to participate in all Week 7 prep without limitations. Reports earlier Sunday indicated Jacobs' workload will likely be watched closely as the game unfolds; however, the fact he was able to continue participating in individualized conditioning work at the team facility throughout the time he was on the CEL should leave Jacobs prepared to handle some solid volume in his first game action since the wild-card loss to the Bears in January.
+- **NEW — Kenny Gainwell** — Kenny Gainwell - Sustains hip injury, iffy to return (2026-10-25T18:50:25Z)
+  - Gainwell carried nine times for 49 yards and didn't draw a target before checking out of the game to have his hip injury further evaluated. If Gainwell is unable to return, the Buccaneers will be left with Bucky Irving and Sean Tucker as their running backs for the rest of Sunday's contest.
+- **NEW — Christian McCaffrey** — Christian McCaffrey - Reenters Sunday's game (2026-10-25T18:50:17Z)
+  - McCaffrey missed the entire second quarter as he had his left thigh worked on, which officially left him as questionable to return before he checked back in for the 49ers' first possession of the third quarter. Now that he's back in the contest, he likely will continue to lead San Francisco's backfield.
+- **NEW — Jonah Coleman** — Jonah Coleman (ankle) active for Week 7 (2026-10-25T18:50:09.224000Z)
+  - Coleman will suit up after being activated earlier in the week from injured reserve, providing head coach Sean Payton with another option as part of a backfield including RJ Harvey and J.K. Dobbins against the Cardinals Sunday.
+  - Source: https://www.fantasypros.com/nfl/news/615717/jonah-coleman-ankle-active-week-7.php
+- **NEW — Christian McCaffrey** — Christian McCaffrey (thigh) returns to the game  (2026-10-25T18:50:09.215000Z)
+  - McCaffrey suffered a thigh injury in the first half and was listed as questionable to return. The broadcast showed that he was on the sideline working before the start of the half and returned on the team's first series. 
+  - Source: https://www.fantasypros.com/nfl/news/615718/christian-mccaffrey-thigh-returns-to-game.php
+- **NEW — Carson Beck** — Carson Beck - Emergency QB3 against Denver (2026-10-25T18:44:59Z)
+  - Beck was unable to practice Thursday and Friday due to back spasms. He's inactive for Sunday's contest, but as the emergency third quarterback, he would be allowed to play in the event that both Jacoby Brissett and Gardner Minshew left the game due to injury, illness or ejection.
+- **NEW — Jonah Coleman** — Jonah Coleman - Returning to action in Week 7 (2026-10-25T18:38:59Z)
+  - The Broncos placed Coleman on injured reserve just before Week 3 due to a sprained ankle, and with four absences under his belt after Week 6, the team designated him for return Wednesday. He then logged three consecutive full practices this week before being tagged as questionable Friday and being activated from IR on Saturday. Now that Coleman is in the clear to play in Week 7, his role may be muted with both J.K. Dobbins and RJ Harvey healthy at the moment.
+- **NEW — Devaughn Vele** — Devaughn Vele - Finds end zone in Paris (2026-10-25T18:28:07Z)
+  - The third-year wideout was on the other end of Tyler Shough's only TD pass of the day, hauling in a one-yard toss in the second quarter for the Saints' final points. Vele tied his career high with his third touchdown of the season, and his 33-348-3 line on 48 targets through seven games has him tracking toward a career-best campaign heading into a Week 8 bye. His role could shrink significantly after the bye, however, if rookie Jordyn Tyson (hamstring) is cleared to make his NFL debut.
+- **NEW — Chris Boswell** — Chris Boswell - Nails all four kicks in Paris (2026-10-25T18:26:15Z)
+  - Boswell opened Sunday's contest with a 28-yard chip shot early in the first quarter before connecting on field goals from 47 and 39 yards in the second and third, respectively. It's the third time this season that he has made at least three field goals, and through seven regular-season games, he is 16-for-20 on field-goal attempts (including 4-for-6 on kicks from 50-plus yards) and 13-for-13 on extra-point tries. The Steelers will return home for a Week 8, AFC North showdown against the Browns on Nov. 1.
+- **NEW — Tyrone Tracy Jr.** — Tyrone Tracy Jr. (hamstring) questionable to return  (2026-10-25T18:25:09.657000Z)
+  - Tracy walked off the field gingerly after his last rush and now is officially questionable to return. Cam Skattebo will see an uptick in carries if Tracy cannot return, with Devin Singletary serving as the backup. 
+  - Source: https://www.fantasypros.com/nfl/news/615713/tyrone-tracy-jr-hamstring-questionable-to-return.php
+- **NEW — Alvin Kamara** — Alvin Kamara - Heavy workload as pass catcher Sunday (2026-10-25T18:23:19Z)
+  - The Saints' ground game was completely shut down, as quarterback Tyler Shough led the team with a mere seven rushing yards, but Kamara still contributed through the air and led New Orleans in catches while tying Barion Brown for the game high in receiving yards. Since missing the season opener, Kamara has put together 258 scrimmage yards and three total TDs (two rushing, one receiving) over six games, but the backfield could get more crowded after a Week 8 bye if Travis Etienne (hamstring) is cleared to return.
+- **NEW — Tyrone Tracy Jr.** — Tyrone Tracy - Exits Sunday with hamstring issue (2026-10-25T18:21:42Z)
+  - Tracy made his way off the field slowly with 5:29 left in the second quarter and was deemed questionable to return not long afterward. At the time of his exit, he had six carries for 15 yards and one touchdown and one catch (on one target) for two yards. Cam Skattebo and Devin Singletary will handle the Giants backfield for as long as Tracy is sidelined.
+- **NEW — Tyler Shough** — Tyler Shough - Tosses one TD in Paris (2026-10-25T18:17:07Z)
+  - With the Saints' ground game getting absolutely nowhere -- Shough actually led the team in rushing yards -- the second-year QB had to air it out frequently once again, but the volume didn't result in much production. Shough will head into a Week 8 bye averaging 39 pass attempts a game -- the fourth-highest mark in the league behind Matthew Stafford, Dak Prescott and Bryce Young -- to go along with a 13:6 TD:INT and 1,721 passing yards.
+- **NEW — Chris Olave** — Chris Olave - Six grabs in Week 7 loss (2026-10-25T18:10:17Z)
+  - While Olave saw a team-high 10 targets, Alvin Kamara caught one more pass and gained one more receiving yard for the team leads in those categories, while Devaughn Vele caught Tyler Shough's only TD. Olave has failed to reach 60 yards in three straight games after topping 100 in three of his first four contests this season, but he'll get a bye week to reset before facing the Browns in Week 9.
+- **NEW — Christian McCaffrey** — Christian McCaffrey - Goes to locker room Sunday (2026-10-25T18:05:59Z)
+  - McCaffrey remained on the sideline for the 49ers' third possession to get his left leg worked on, which seemingly stemmed from a hit he took on a 24-yard catch on the team's first drive. Officially questionable to return due to a thigh injury, he attempted to warm up on San Francisco's bench before jogging to the locker room in the middle of the second quarter. Kaelon Black will be the team's leading runner for as long as McCaffrey is out of the contest.
+- **NEW — DK Metcalf** — DK Metcalf - Leading receiver in Week 7 win (2026-10-25T18:04:26Z)
+  - The Steelers' offense mostly flowed through its backfield, and Metcalf's 56 receiving yards actually led the team despite the fact that his two catches were a season low. The veteran wideout's target volume has been erratic this year, but he remains Aaron Rodgers' top downfield option. Metcalf will take a 32-374-1 line on 58 targets through seven games into a Week 8 clash with the Browns, who he produced a 5-115-0 line against in Week 4.
+- **NEW — Rico Dowdle** — Rico Dowdle - Big volume in win over Saints (2026-10-25T17:57:40Z)
+  - The 15 touches were a season high for Dowdle, but he still took a back seat to Jaylen Warren's 21 touches and 137 scrimmage yards in the Steelers' backfield. Dowdle also led the team in receptions on the day, and his own 86 combined yards were a season high. Pittsburgh could stay with its ground-heavy game plan in Week 8 against Cleveland, giving Dowdle some fantasy appeal even in his backup role.
+- **NEW — Aaron Rodgers** — Aaron Rodgers - Limited production in Week 7 win (2026-10-25T17:52:22Z)
+  - The Steelers' offense relied heavily on its backfield in this one, as Jaylen Warren and Rico Dowdle combined for 36 touches and 223 scrimmage yards. Rodgers did produce the team's only TD of the day on a four-yard toss to Darnell Washington in the second quarter. The veteran QB will take a 13:5 TD:INT through seven games into a Week 8 clash with the Browns, who Rodgers threw three touchdowns and a season-high 299 yards against in Week 4.
+- **NEW — Jaylen Warren** — Jaylen Warren - Piles up yardage in Paris (2026-10-25T17:45:22Z)
+  - The 21 touches tied his season high, while Rico Dowdle got 15 as the Steelers went with a ground-heavy game plan. Warren has topped 100 scrimmage yards in four of the last five games, racking up 472 rushing yards and a TD along with a 17-233-1 line on 24 targets during that hot stretch. He'll remain one of the key pieces of the Pittsburgh offense heading into a Week 8 clash at home against a Cleveland defense that Warren recorded 126 combined yards against in Week 4.
+- **NEW — Taylen Green** — Taylen Green - Emergency QB3 vs. Tennessee (2026-10-25T16:13:41Z)
+  - Dillon Gabriel (back) is staying on IR, so Green will once again serve as the emergency QB3 behind Deshaun Watson and Shedeur Sanders. As such, Green is not allowed to play Sunday unless both Watson and Sanders leave the game due to injury, illness or ejection.
+- **NEW — Kaytron Allen** — Kaytron Allen - Debuting for Miami in Week 7 (2026-10-25T16:07:52Z)
+  - Allen was a sixth-round selection of the Commanders in the 2026 NFL Draft, but he was waived by the team Oct. 8. He was claimed off waivers by the Dolphins one day later, and the Penn State product will suit up for his new team for the first time Sunday, when he'll operate as the RB3 behind Ollie Gordon and Jaylen Wright.
+- **NEW — Tank Dell** — Tank Dell - Cleared to make 2026 debut (2026-10-25T16:05:59Z)
+  - Dell is ready to take the field for the first time since Dec. 21, 2024, when he suffered a dislocated kneecap and multiple ligament tears in his left knee. The 2023 third-rounder certainly had his share of success playing with C.J. Stroud over his first two seasons, but he'll likely be eased into the workload in his first game in nearly two years. Dell figures to operate in a rotational role behind Nico Collins, Marvin Harrison and Jaylin Noel against New York, with progressively expanded opportunity expected in coming games.
+- **Shedeur Sanders** — Shedeur Sanders - Remaining in backup role for Week 7 (2026-10-25T16:01:22Z)
   - After Deshaun Watson had a listless performance in a blowout loss to the Jaguars in Week 1, Ian Rapoport of ESPN had reported that Sanders could get a chance to start as soon as Week 3 if the Browns continued to languish. Watson has since steadied the ship, leading the Browns to wins in four of their last five games to put them atop the AFC North standings heading into Week 7 action. As a result, Sanders doesn't appear likely to threaten Watson's standing atop the depth chart anytime soon, though Sanders will continue to suit up on game days ahead of rookie Taylen Green, who will once again be inactive Sunday as the Browns' emergency No. 3 quarterback.
-- **NEW — Nicholas Singleton** — Nicholas Singleton - Idle despite Spears absence (2026-10-25T15:58:24Z)
+- **Nicholas Singleton** — Nicholas Singleton - Idle despite Spears absence (2026-10-25T15:58:24Z)
   - Despite the fact that Tyjae Spears (knee) is inactive, Singleton will be a healthy scratch for Sunday's contest. It will be the rookie fifth-rounder's third missed game in a row, and his next opportunity to play is Week 8 against the Bengals on Nov. 1. Tony Pollard will operate as the Titans' lead back for Week 7 while Julius Chestnut, Michael Carter and Kalel Mullings provide depth.
-- **NEW — Tyjae Spears** — Tyjae Spears (knee) officially inactive for Week 7  (2026-10-25T15:50:08.257000Z)
+- **Tyjae Spears** — Tyjae Spears (knee) officially inactive for Week 7  (2026-10-25T15:50:08.257000Z)
   - Spears continues to deal with a nagging knee injury that will keep him out this week. Tony Pollard will see the bulk of the touches out of the Titans' backfield, with Julius Chestnut serving as the backup. 
   - Source: https://www.fantasypros.com/nfl/news/615696/tyjae-spears-knee-officially-inactive-week-7.php
-- **NEW — Tank Dell** — Tank Dell (knee) officially active for Week 7 (2026-10-25T15:50:08.237000Z)
+- **Tank Dell** — Tank Dell (knee) officially active for Week 7 (2026-10-25T15:50:08.237000Z)
   - Dell was considered questionable to play but will suit up for the first time since December 2024. Fantasy managers should expect Dell to have limited fantasy value right now. 
   - Source: https://www.fantasypros.com/nfl/news/615697/tank-dell-knee-officially-active-week-7.php
-- **NEW — Breece Hall** — Breece Hall (quad) officially inactive for Week 7 (2026-10-25T15:50:08.215000Z)
+- **Breece Hall** — Breece Hall (quad) officially inactive for Week 7 (2026-10-25T15:50:08.215000Z)
   - Hall was expected to test his injured quad in pregame warmups, but will now miss his fourth straight game. Braelon Allen will serve as the primary running back against Miami. 
   - Source: https://www.fantasypros.com/nfl/news/615698/breece-hall-quad-officially-inactive-week-7.php
-- **NEW — Caleb Douglas** — Caleb Douglas (ankle) officially active for Week 7 (2026-10-25T15:50:08.193000Z)
+- **Caleb Douglas** — Caleb Douglas (ankle) officially active for Week 7 (2026-10-25T15:50:08.193000Z)
   - Douglas has been out of action since Week 2. Prior to his injury, he had seven receptions for 113 yards in his first two NFL games. Fantasy managers should expect him to be involved in the Dolphins' passing attack. 
   - Source: https://www.fantasypros.com/nfl/news/615700/caleb-douglas-ankle-officially-active-week-7.php
-- **NEW — Braelon Allen** — Braelon Allen - Handling lead role again Sunday (2026-10-25T15:44:23Z)
+- **Braelon Allen** — Braelon Allen - Handling lead role again Sunday (2026-10-25T15:44:23Z)
   - With Hall unavailable for a fourth straight game Sunday, Allen will have a chance to build on the averages of 18.3 rush attempts, 84.3 rushing yards, 1.7 receptions and 11.3 receiving yards he's generated in the lead role over his teammate's first three absences. Despite their winless record, the Dolphins have been respectable defending the run, allowing 4.0 yards per carry to running backs, albeit while also conceding a 25-197-5 receiving line to the position.
-- **NEW — Breece Hall** — Breece Hall - Out again in Week 7 (2026-10-25T15:37:50Z)
-  - Early Sunday reports indicated Hall was unlikely to play, and a fourth straight absence for the star running back is now official. With Hall sidelined again Sunday, Braelon Allen, who's averaged 18.3 carries, 84.3 rushing yards, 1.7 receptions and 11.3 receiving yards over the past three games while serving in the lead role, will once again helm the Jets' ground attack. Meanwhile, Hall will target a return to action in a Week 8 home matchup against the Raiders next Sunday.
-- **NEW — Demond Claiborne** — Demond Claiborne - Inactive for Week 7 (2026-10-25T15:37:18Z)
-  - Claiborne is a healthy scratch for Week 7 due to the return of Jordan Mason. Mason has recovered from his thumb injury and is all set to resume his role as the backup running back to Aaron Jones, making Claiborne largely obsolete for the Vikings' offense.
-- **NEW — Tyjae Spears** — Tyjae Spears - Inactive for Sunday's game (2026-10-25T15:36:44Z)
-  - Beginning during Week 3 prep, Spears has experienced practice restrictions most weeks due to first an ankle injury and currently a knee issue. He's been able to suit up for each of the last four games but played second fiddle to Tony Pollard out of the Titans backfield, turning eight carries and 11 catches (on as many targets) into 47 yards from scrimmage. Now that Spears is confirmed to be unavailable, though, the active RBs behind Pollard on Sunday are Julius Chestnut, Michael Carter and Kalel Mullings.
-- **NEW — Baker Mayfield** — Baker Mayfield - Cleared to start Week 7 (2026-10-25T15:36:14Z)
+- **Breece Hall** — Breece Hall - Out again in Week 7 (2026-10-25T15:37:50Z)
+  - Early Sunday reports indicated Hall was unlikely to play, and a fourth straight absence for the star running back is now official. With Hall sidelined again Sunday, Braelon Allen, who's averaged 18.3 carries, 84.3 rushing yards, 1.7 receptions and 11.3 receiving yards over the past three games while serving in the lead role, once again will helm the Jets' ground attack. Meanwhile, Hall will target a return to action in a Week 8 home matchup against the Raiders next Sunday.
+- **Demond Claiborne** — Demond Claiborne - Inactive for Week 7 (2026-10-25T15:37:18Z)
+  - Claiborne is a healthy scratch for Week 7 due to the return of Jordan Mason, who's been activated from injured reserve after completing his recovery from a thumb injury. Clairborne may have an uphill battle for active status moving forward as long as both Jones and Mason are available.
+- **Tyjae Spears** — Tyjae Spears - Inactive for Sunday's game (2026-10-25T15:36:44Z)
+  - Beginning during Week 3 prep, Spears has experienced practice restrictions most weeks due to first an ankle injury and currently a knee issue. He's been able to suit up for each of the last four games but has played second fiddle to Tony Pollard out of the Titans backfield, turning eight carries and 11 catches (on as many targets) into 47 yards from scrimmage. Now that Spears is confirmed to be unavailable, though, the active RBs behind Pollard on Sunday are Julius Chestnut, Michael Carter and Kalel Mullings.
+- **Baker Mayfield** — Baker Mayfield - Cleared to start Week 7 (2026-10-25T15:36:14Z)
   - Following a three-game absence, Mayfield returned to practice this week as a full participant from Wednesday through Friday. Tampa Bay still elected to list him as questionable heading into Sunday, but Mayfield's availability was never in any peril after he experienced no setbacks with his dislocated right thumb throughout the week. Though he'll be back under center for the first time since Week 3, Mayfield will be wearing a specialized glove on his right hand that offers added support to the injured joint in his thumb, per Scott Smith of the Buccaneers' official site. Mayfield will be returning to the lineup without his top target at his disposal, as wideout Emeka Egbuka (concussion/foot) has been ruled out.
-- **NEW — Elijah Sarratt** — Elijah Sarratt - Won't play against Cincinnati (2026-10-25T15:35:52Z)
-  - Saratt will be sidelined for six of the Ravens' first seven games of the regular season. His next chance to play is Week 8 against the Bills on Nov. 1, but it looks like the rookie fourth-rounder won't have a role in the offense unless another receiver were to miss time.
-- **NEW — Dylan Sampson** — Dylan Sampson (knee) officially active for Week 7  (2026-10-25T15:35:08.288000Z)
+- **Elijah Sarratt** — Elijah Sarratt - Won't play against Cincinnati (2026-10-25T15:35:52Z)
+  - Sarratt will be sidelined for six of the Ravens' first seven games of the regular season. His next chance to play is Week 8 against the Bills on Nov. 1, but it looks like the rookie fourth-rounder won't have a role in the offense unless another receiver misses time.
+- **Dylan Sampson** — Dylan Sampson (knee) officially active for Week 7  (2026-10-25T15:35:08.288000Z)
   - Sampson was considered questionable to play against the Titans, but will serve as the backup to Quinshon Judkins in a plus matchup against Tennessee. 
   - Source: https://www.fantasypros.com/nfl/news/615694/dylan-sampson-knee-officially-active-week-7.php
-- **NEW — Josh Jacobs** — Josh Jacobs - May not get full workload Sunday (2026-10-25T15:24:16Z)
+- **Josh Jacobs** — Josh Jacobs - May not get full workload Sunday (2026-10-25T15:24:16Z)
   - While he spent the first six weeks of the season on the commissioner's exempt list, Jacobs was still allowed at the Green Bay facility and was able to stay on top of his conditioning, but he wasn't cleared to resume practicing with the team until Wednesday. After a full week of drills, the Packers were comfortable enough with activating Jacobs for Sunday, but the team plans to "keep an eye on him" and may not be ready to hand him his normal workload right off the bat. In the weeks to come, Jacobs shouldn't have much trouble reclaiming a three-down workhorse role, given the struggles of Green Bay's other running backs in generating production over the first six games of the season.
-- **NEW — Breece Hall** — Breece Hall (quad) unlikely to play Sunday  (2026-10-25T13:40:07.100000Z)
+- **NEW — Jonah Coleman** — Jonah Coleman Active for Week 7 Against Cardinals (2026-10-25T14:47:45Z)
+  - Source: https://www.rotoballer.com/player-news/jonah-coleman-active-for-week-7-against-cardinals/1975441
+- **NEW — Tyrone Tracy Jr.** — Tyrone Tracy Jr. Questionable to Return With Hamstring Injury (2026-10-25T14:24:12Z)
+  - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-questionable-to-return-with-hamstring-injury/1975439
+- **NEW — Rico Dowdle** — Rico Dowdle Productive  in Win Over Saints, but  Clear No. 2 Option (2026-10-25T14:07:11Z)
+  - Source: https://www.rotoballer.com/player-news/rico-dowdle-productive-in-win-over-saints-but-clear-no-2-option/1975433
+- **NEW — Devaughn Vele** — Devaughn Vele Efficient, Finds End Zone in Loss to Steelers (2026-10-25T13:42:12Z)
+  - Source: https://www.rotoballer.com/player-news/devaughn-vele-efficient-finds-end-zone-in-loss-to-steelers/1975427
+- **Breece Hall** — Breece Hall (quad) unlikely to play Sunday  (2026-10-25T13:40:07.100000Z)
   - Hall will test the injured quad during pregame activities for head coach Aaron Glenn, but barring something unforeseen the running back will likely miss a fourth consecutive contest while Braelon Allen once again operates as the No. 1 backfield option against the Dolphins Sunday.
   - Source: https://www.fantasypros.com/nfl/news/615693/breece-hall-quad-unlikely-to-play-sunday.php
-- **NEW — Tyrone Tracy Jr.** — Tyrone Tracy - Likely to remain factor in RB rotation (2026-10-25T13:09:45Z)
+- **NEW — Germie Bernard** — Germie Bernard Cools Down in Victory over Saints (2026-10-25T13:27:17Z)
+  - Source: https://www.rotoballer.com/player-news/germie-bernard-cools-down-in-victory-over-saints/1975425
+- **NEW — Jaylen Warren** — Jaylen Warren Continues to Lead Pittsburgh Backfield in Win over Saints (2026-10-25T13:16:16Z)
+  - Source: https://www.rotoballer.com/player-news/jaylen-warren-continues-to-lead-pittsburgh-backfield-in-win-over-saints/1975423
+- **Tyrone Tracy Jr.** — Tyrone Tracy - Likely to remain factor in RB rotation (2026-10-25T13:09:45Z)
   - After receiving at least 15 touches in each of the Giants' first five games, Skattebo had his playing time scaled back dramatically in the Week 6 loss to the Saints, logging no carries or receptions while playing just six snaps on offense. The main beneficiary of Skattebo's role reduction was Tracy, who carried six times for 18 yards and a touchdown while adding two receptions for 27 yards and another score across a season-high 29 offensive snaps. The Giants' decision to pare back Skattebo's workload looks to be a one-time arrangement as a result of his fumble issues in the prior five contests, and while Skattebo should take back an increased workload in Week 7, Tracy won't be phased out of the game plan entirely. Raanan speculates that the Giants will proceed with "close to a 50/50 split" between the two backs Sunday, with Devin Singletary picking up any of the remaining snaps out of the backfield.
-- **NEW — Lamar Jackson** — Lamar Jackson - Expected back for Week 8 (2026-10-25T12:53:36Z)
+- **NEW — Lamar Jackson** — Lamar Jackson Likely to Return Against Bills in Week 8 (2026-10-25T13:03:13Z)
+  - Source: https://www.rotoballer.com/player-news/lamar-jackson-likely-to-return-against-bills-in-week-8/1975420
+- **Lamar Jackson** — Lamar Jackson - Expected back for Week 8 (2026-10-25T12:53:36Z)
   - Tyler Huntley will start a third consecutive game while Jackson remains sidelined due to a left ankle sprain. Though Jackson has taken longer than initially anticipated to make a full recovery from the injury, he took some clear steps forward in Week 7 by practicing as a limited participant Wednesday through Friday. So long as Jackson can maintain that level of activity or upgrade to full at any point during Week 8 prep, he should get the green light to return to the lineup in Buffalo.
-- **NEW — Rico Dowdle** — Rico Dowdle (knee) active for Week 7 (2026-10-25T12:20:06.379000Z)
+- **NEW — Jaylen Waddle** — Jaylen Waddle a Borderline Week 7 Start Against Vulnerable Cardinals (2026-10-25T12:50:13Z)
+  - Source: https://www.rotoballer.com/player-news/jaylen-waddle-a-borderline-week-7-start-against-vulnerable-cardinals/1975418
+- **NEW — Tyjae Spears** — Tyjae Spears Inactive Against Browns in Week 7 (2026-10-25T12:30:17Z)
+  - Source: https://www.rotoballer.com/player-news/tyjae-spears-inactive-against-browns-in-week-7/1975410
+- **Rico Dowdle** — Rico Dowdle (knee) active for Week 7 (2026-10-25T12:20:06.379000Z)
   - Dowdle will suit up after struggling through limited practice sessions late in the week, offering head coach Mike McCarthy another option out of the Pittsburgh backfield behind Jaylen Warren against the Saints.
   - Source: https://www.fantasypros.com/nfl/news/615681/rico-dowdle-knee-active-week-7.php
-- **NEW — Rico Dowdle** — Rico Dowdle - Available to play in Paris (2026-10-25T12:13:34Z)
+- **Rico Dowdle** — Rico Dowdle - Available to play in Paris (2026-10-25T12:13:34Z)
   - After missing three straight games due to a dislocated toe, Dowdle made his return to action in last week's overtime win over the Buccaneers, finishing with 40 yards on seven carries and nine yards on three receptions. However, he seemingly emerged from that contest with a new knee issue, which limited his participation in Week 7 prep and resulted in him being listed as questionable heading into Sunday. The Steelers were apparently encouraged enough by how Dowdle looked in pregame warmups to clear him to play against the Saints, and the 28-year-old should be ready to work in his usual complementary role behind lead back Jaylen Warren.
-- **NEW — Puka Nacua** — Puka Nacua - Optimism regarding Week 7 status (2026-10-25T12:03:33Z)
+- **NEW — Dylan Sampson** — Dylan Sampson Active for Week 7 Against Titans (2026-10-25T12:05:11Z)
+  - Source: https://www.rotoballer.com/player-news/dylan-sampson-active-for-week-7-against-titans/1975394
+- **Puka Nacua** — Puka Nacua - Optimism regarding Week 7 status (2026-10-25T12:03:33Z)
   - The injury-plagued Rams endured another scare this week when Nacua made an early exit from Thursday's practice due to a calf injury. Ian Rapoport of NFL Network reported Friday that Nacua's new health concern is believed to be "more minor than anything else" and "not significant," but the wide receiver sat out the team's last Week 7 session and was listed as questionable ahead of the weekend. Nacua likely is poised for a pregame workout before L.A. makes a call on his status about 90 minutes before Sunday's 4:25 p.m. ET kickoff.
-- **NEW — Jordan Mason** — Jordan Mason Officially Active for Week 7 Against Colts (2026-10-25T11:56:15Z)
+- **Jordan Mason** — Jordan Mason Officially Active for Week 7 Against Colts (2026-10-25T11:56:15Z)
   - Source: https://www.rotoballer.com/player-news/jordan-mason-active-for-week-7-against-colts/1975389
 - **Mike Washington Jr.** — Mike Washington - Deemed game-time decision (2026-10-25T11:49:40Z)
   - Washington managed just one limited session (Wednesday) during Week 7 prep due to foot and back injuries, but a listing of questionable has kept the door open for the rookie fourth-round pick to suit up Sunday. His status will be clarified about 90 minutes before a 4:25 p.m. ET kickoff, but if Washington is inhibited or sidelined, Dylan Laube will be the primary backup to No. 1 RB Ashton Jeanty.
-- **NEW — Tank Dell** — Tank Dell Officially Active for Week 7 Against Giants (2026-10-25T11:48:11Z)
+- **Tank Dell** — Tank Dell Officially Active for Week 7 Against Giants (2026-10-25T11:48:11Z)
   - Source: https://www.rotoballer.com/player-news/tank-dell-active-for-week-7-against-giants/1975383
 - **Breece Hall** — Breece Hall - Not likely to play Sunday (2026-10-25T11:43:16Z)
   - Hall has missed the past three contests due to a quadriceps injury and seems poised to miss a fourth, but Rapoport reported that the running back may work out pregame to see if a return to action is possible. If Hall remains sidelined Sunday, Braelon Allen again will pace the Jets backfield, with Isaiah Davis on hand for RB reps that linger.
-- **NEW — Baker Mayfield** — Baker Mayfield to Wear Protective Glove Against Panthers (2026-10-25T11:27:40Z)
+- **Baker Mayfield** — Baker Mayfield to Wear Protective Glove Against Panthers (2026-10-25T11:27:40Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-to-wear-protective-glove-against-panthers/1975360
-- **NEW — Braelon Allen** — Braelon Allen a Strong Week 7 RB2 Against Dolphins (2026-10-25T11:20:13Z)
+- **Braelon Allen** — Braelon Allen a Strong Week 7 RB2 Against Dolphins (2026-10-25T11:20:13Z)
   - Source: https://www.rotoballer.com/player-news/braelon-allen-a-strong-week-7-rb2-against-dolphins/1975313
 - **Cam Skattebo** — Cam Skattebo - Slated to resume role as RB1 (2026-10-25T11:18:22Z)
   - Skattebo ranked fourth in offensive snaps (six of 77) among Giants running backs behind Devin Singletary (31), Tyrone Tracy (29) and Najee Harris (11) last Sunday against the Saints, failing to log a touch in the process. The team has since released Harris, and Skattebo's brief benching appears to be over. It's unclear who among Skattebo, Singletary and Tracy will get the start this Sunday, but the former did average 18.2 touches per game through the first five weeks of the campaign.
-- **NEW — Josh Jacobs** — Josh Jacobs Will Start in Week 7 and Handle "Normal" Workload (2026-10-25T11:01:12Z)
+- **Josh Jacobs** — Josh Jacobs Will Start in Week 7 and Handle "Normal" Workload (2026-10-25T11:01:12Z)
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-will-start-in-week-7-and-handle-normal-workload/1975306
-- **NEW — Zonovan Knight** — Bam Knight a Top-36 Running Back with Starter Sidelined Again (2026-10-25T10:54:08Z)
+- **Zonovan Knight** — Bam Knight a Top-36 Running Back with Starter Sidelined Again (2026-10-25T10:54:08Z)
   - Source: https://www.rotoballer.com/player-news/bam-knight-a-top-36-running-back-with-starter-sidelined-again/1975304
-- **NEW — Tyler Higbee** — Tyler Higbee Worth Starting with Volume Projected to Increase (2026-10-25T10:47:04Z)
+- **Tyler Higbee** — Tyler Higbee Worth Starting with Volume Projected to Increase (2026-10-25T10:47:04Z)
   - Source: https://www.rotoballer.com/player-news/tyler-higbee-worth-starting-with-volume-projected-to-increase/1975299
-- **NEW — Omar Cooper Jr.** — Game Script a Major Factor for Omar Cooper Jr. in Week 7 (2026-10-25T09:52:13Z)
+- **Omar Cooper Jr.** — Game Script a Major Factor for Omar Cooper Jr. in Week 7 (2026-10-25T09:52:13Z)
   - Source: https://www.rotoballer.com/player-news/game-script-a-major-factor-for-omar-cooper-jr-in-week-7/1975280
-- **NEW — Jerry Jeudy** — Jerry Jeudy Has a High Price Tag, Unlikely to be Traded (2026-10-25T08:56:12Z)
+- **Jerry Jeudy** — Jerry Jeudy Has a High Price Tag, Unlikely to be Traded (2026-10-25T08:56:12Z)
   - Source: https://www.rotoballer.com/player-news/jerry-jeudy-has-a-high-price-tag-unlikely-to-be-traded/1975223
-- **NEW — Mike Washington Jr.** — Mike Washington Jr. a Game-Time Decision for Week 7 (2026-10-25T08:36:09Z)
+- **Mike Washington Jr.** — Mike Washington Jr. a Game-Time Decision for Week 7 (2026-10-25T08:36:09Z)
   - Source: https://www.rotoballer.com/player-news/mike-washington-jr-a-game-time-decision-for-week-7/1975211
-- **NEW — Cam Skattebo** — Cam Skattebo Expected to Return to Lead Role in Week 7 (2026-10-25T08:32:07Z)
+- **Cam Skattebo** — Cam Skattebo Expected to Return to Lead Role in Week 7 (2026-10-25T08:32:07Z)
   - Source: https://www.rotoballer.com/player-news/cam-skattebo-expected-to-return-to-lead-role-in-week-7/1975209
-- **NEW — Rico Dowdle** — Rico Dowdle Active for Week 7 Against Saints in Paris (2026-10-25T08:27:11Z)
+- **Rico Dowdle** — Rico Dowdle Active for Week 7 Against Saints in Paris (2026-10-25T08:27:11Z)
   - Source: https://www.rotoballer.com/player-news/rico-dowdle-active-for-week-7-against-saints-in-paris/1975206
-- **NEW — Puka Nacua** — Rams Optimistic Puka Nacua Will Play vs. Raiders in Week 7 (2026-10-25T08:22:12Z)
+- **Puka Nacua** — Rams Optimistic Puka Nacua Will Play vs. Raiders in Week 7 (2026-10-25T08:22:12Z)
   - Source: https://www.rotoballer.com/player-news/rams-optimistic-puka-nacua-will-play-vs-raiders-in-week-7/1975204
 - **Mike Gesicki** — Mike Gesicki a TD Threat in Plus Matchup (2026-10-25T01:23:15Z)
   - Source: https://www.rotoballer.com/player-news/mike-gesicki-a-td-threat-in-plus-matchup/1975144
 - **Pat Freiermuth** — Pat Freiermuth a Touchdown-Dependent Streamer (2026-10-25T01:06:17Z)
   - Source: https://www.rotoballer.com/player-news/pat-freiermuth-a-touchdown-dependent-stream/1975142
-- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson Remains a Low-Floor PPR Flex Option (2026-10-25T00:52:12Z)
+- **Wan'Dale Robinson** — Wan'Dale Robinson Remains a Low-Floor PPR Flex Option (2026-10-25T00:52:12Z)
   - Source: https://www.rotoballer.com/player-news/wandale-robinson-remains-a-low-floor-ppr-flex-option/1975140
 - **Jaylin Noel** — Jaylin Noel a Startable Waiver-Wire Find (2026-10-25T00:37:12Z)
   - Source: https://www.rotoballer.com/player-news/jaylin-noel-a-startable-waiver-wire-find/1975138
@@ -148,74 +224,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Jackson initially drew the questionable tag after being limited in practice all week, but he has not recovered enough from a high-ankle sprain to make his return for Sunday's AFC North showdown. Huntley will start for a third consecutive game, and the veteran quarterback will face a Bengals defense that has given up only five touchdown passes (tied for third-fewest in the league) and ranks sixth in the NFL in sacks (17).
 - **Lamar Jackson** — Lamar Jackson - Won't return for Week 7 (2026-10-24T19:35:57Z)
   - Jackson drew the questionable tag for Sunday's AFC North tilt after being a limited practice participant all week, but the superstar quarterback will end up missing a third consecutive game due to a high-ankle sprain. As a result, Tyler Huntley will once again start under center for the Ravens, and Jackson's next opportunity to play is Week 8 against the Bills on Sunday, Nov. 1.
-- **Kendrick Bourne** — Kendrick Bourne Likely Available on the Waive Wire for Deep League Needs (2026-10-24T19:11:12Z)
-  - Source: https://www.rotoballer.com/player-news/kendrick-bourne-likely-available-on-the-waive-wire-for-deep-league-needs/1975035
-- **Omar Cooper Jr.** — Omar Cooper Jr. Strong Stremaing Option vs. Dolphins (2026-10-24T18:55:13Z)
-  - Source: https://www.rotoballer.com/player-news/omar-cooper-jr-strong-stremaing-option-vs-dolphins/1975033
-- **Jonah Coleman** — Denver Broncos Activate Jonah Coleman from Injured Reserve (2026-10-24T18:40:14Z)
-  - Source: https://www.rotoballer.com/player-news/denver-broncos-activate-jonah-coleman-from-injured-reserve/1975029
-- **Ja'Kobi Lane** — Ja'Kobi Lane is a Late-Week Streaming Option Vs. Bengals (2026-10-24T18:19:11Z)
-  - Source: https://www.rotoballer.com/player-news/jakobi-lane-is-a-late-week-streaming-option-vs-bengals/1975026
-- **Dallas Goedert** — Dallas Goedert - Optimistic about knee injury (2026-10-24T17:59:03Z)
-  - Goedert was back on the practice field Saturday after missing the first two sessions of Week 7 prep while dealing with inflammation in his knee. The Eagles still need to submit their injury designations for Monday's game against the Cowboys, but Goedert noted after Saturday's session that he expects to play, per Olivia Reiner of The Philadelphia Inquirer. The veteran tight end's availability is crucial for Philadelphia, given that both of the team's top wide receivers in DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) did not practice all week.
-- **Darius Cooper** — Darius Cooper Has Big Opportunity on Monday Night Football Vs. Cowboys (2026-10-24T17:21:12Z)
-  - Source: https://www.rotoballer.com/player-news/darius-cooper-has-big-opportunity-on-monday-night-football-vs-cowboys/1974996
-- **Tanner McKee** — Tanner McKee Looks to Improve in Matchup Vs. Cowboys (2026-10-24T17:17:12Z)
-  - Source: https://www.rotoballer.com/player-news/tanner-mckee-looks-to-improve-in-matchup-vs-cowboys/1974992
-- **Saquon Barkley** — Saquon Barkley's Status is Cloudy Vs. Cowboys, But He Could Make Impact (2026-10-24T17:13:20Z)
-  - Source: https://www.rotoballer.com/player-news/saquon-barkleys-status-is-cloudy-vs-cowboys-but-he-could-make-impact/1974988
-- **Dameon Pierce** — Dameon Pierce Could Play No. 2 Role Vs. Cowboys, But Still Has Value (2026-10-24T17:02:12Z)
-  - Source: https://www.rotoballer.com/player-news/dameon-pierce-to-play-no-2-role-vs-cowboys-but-still-has-value/1974981
-- **Makai Lemon** — Despite Slow Start, Makai Lemon Should See More Volume vs. Cowboys (2026-10-24T16:57:11Z)
-  - Source: https://www.rotoballer.com/player-news/despite-slow-start-makai-lemon-should-see-more-volume-vs-cowboys/1974977
-- **Dylan Sampson** — Dylan Sampson - Activated from injured reserve (2026-10-24T16:52:50Z)
-  - Sampson also had his questionable injury designation removed and has been cleared to play against the Titans on Sunday. He's missed the Browns' last five games due to a knee injury, but his return means Cleveland's backfield will have its top backfield options in Sampson and Quinshon Judkins (ankle) for Week 7.
-- **Dallas Goedert** — Dallas Goedert Is Still a Reliable Option for Eagles (2026-10-24T16:50:13Z)
-  - Source: https://www.rotoballer.com/player-news/dallas-goedert-is-still-a-reliable-option-for-eagles/1974974
-- **Jordan Mason** — Jordan Mason Officially Activated Ahead of Week 7 Return (2026-10-24T16:49:11Z)
-  - Source: https://www.rotoballer.com/player-news/jordan-mason-officially-activated-ahead-of-week-7-return/1974972
-- **Tank Dell** — Tank Dell Added to Texans' 53-Man Roster, Will Play in Week 7 (2026-10-24T16:40:14Z)
-  - Source: https://www.rotoballer.com/player-news/tank-dell-added-to-texans-53-man-roster-will-play-in-week-7/1974968
-- **Saquon Barkley** — Saquon Barkley - Practicing Saturday (2026-10-24T16:32:26Z)
-  - Barkley was a limited participant in each of the first two practices of Week 7 prep as the star running back works his way back from a hamstring injury that sidelined him for each of the Eagles' last two games. Saturday's practice report will shed light on Barkley's status ahead of Monday's game against the Cowboys, and a full session would likely be enough for him to avoid an injury designation. His return would result in Dameon Pierce reverting to a rotational role in the backfield.
-- **Josh Jacobs** — Josh Jacobs Activated, Will Play in Week 7 (2026-10-24T16:27:12Z)
-  - Source: https://www.rotoballer.com/player-news/josh-jacobs-activated-will-play-in-week-7/1974955
-- **Dontayvion Wicks** — Dontayvion Wicks - Not spotted at Saturday's practice (2026-10-24T16:24:49Z)
-  - It looks like both Wicks and DeVonta Smith (hamstring) will miss all three Week 7 practices, so the duo's chances of playing Monday against the Cowboys appears to be slim, but the Eagles will announce their injury designations following Saturday's session. Rookie Makai Lemon, Darius Cooper and tight end Dallas Goedert (knee) would all be involved more heavily in the offense if one or both of Wicks and Smith is sidelined.
-- **DeVonta Smith** — DeVonta Smith - Absent from Saturday's practice (2026-10-24T16:21:02Z)
-  - Smith missed each of the first two practices of Week 7 prep while tending to a hamstring injury that he aggravated against the Panthers in Week 6. His absence for a third consecutive practice doesn't bode well for his chances of playing Monday against the Cowboys, but his status for that contest will be more clear once the Eagles announce their injury designations following Saturday's session. Dontayvion Wicks (ankle) was also not on the field, so Dallas Goedert (knee), Makai Lemon and Darius Cooper could be the top targets for quarterback Tanner McKee in Monday's NFC East showdown.
-- **KC Concepcion Jr.** — KC Concepcion Jr. a PPR Add With Steady Targets (2026-10-24T16:20:13Z)
-  - Source: https://www.rotoballer.com/player-news/kc-concepcion-jr-a-ppr-add-with-steady-targets/1974946
-- **Dallas Goedert** — Dallas Goedert - Back at practice Saturday (2026-10-24T16:17:49Z)
-  - Goedert missed the first two practices of Week 7 prep while tending to a knee injury, but he's back on the field and in pads for Saturday's session. The Eagles are also dealing with injuries to DeVonta Smith (hamstring) and Dontayvion Wicks (ankle), so Goedert -- if active for Monday night's game against the Cowboys -- would operate in an expanded role in the passing game if either or both of the Eagles' top two wide receivers is sidelined.
-- **Keenan Allen** — Keenan Allen a Solid Wide Receiver Streamer Option in Week 7 (2026-10-24T16:08:14Z)
-  - Source: https://www.rotoballer.com/player-news/keenan-allen-a-solid-wide-receiver-streamer-option-in-week-7/1974930
-- **Lamar Jackson** — Lamar Jackson Ruled Out for Week 7 Against Bengals (2026-10-24T15:44:12Z)
-  - Source: https://www.rotoballer.com/player-news/lamar-jackson-ruled-out-for-week-7-against-bengals/1974924
-- **Zach Charbonnet** — Zach Charbonnet (knee) will not play in Week 7 (2026-10-24T15:40:58.701000Z)
-  - There was some speculation that Charbonnet would make his long-awaited return for the Seahawks on Sunday night, but that will not be the case. Charbonnet was activated from the PUP list this past Thursday and should be ready to go for a Monday night matchup against the Bears in Week 8. 
-  - Source: https://www.fantasypros.com/nfl/news/615638/zach-charbonnet-knee-will-not-play-week-7.php
-- **Brandin Cooks** — Brandin Cooks a Waiver Option With Expanded Receiving Opportunity (2026-10-24T15:19:12Z)
-  - Source: https://www.rotoballer.com/player-news/brandin-cooks-a-waiver-option-with-expanded-receiving-opportunity/1974913
-- **Jonah Coleman** — Jonah Coleman Offers Stash Appeal as Backfield Opens (2026-10-24T15:03:14Z)
-  - Source: https://www.rotoballer.com/player-news/jonah-coleman-offers-stash-appeal-as-backfield-opens/1974906
-- **Tyrone Tracy Jr.** — Tyrone Tracy Jr. Draws Waiver Interest After Two-Touchdown Performance (2026-10-24T14:48:15Z)
-  - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-draws-waiver-interest-after-two-touchdown-performance/1974901
-- **Kendre Miller** — Kendre Miller a Priority Week 7 Waiver Add as Backfield Role Expands (2026-10-24T14:20:13Z)
-  - Source: https://www.rotoballer.com/player-news/kendre-miller-a-priority-week-7-waiver-add-as-backfield-role-expands/1974885
-- **Konata Mumpfield** — Konata Mumpfield Headed for Uptick in Volume, Possible No. 1 Role (2026-10-24T14:13:19Z)
-  - Source: https://www.rotoballer.com/player-news/konata-mumpfield-headed-for-uptick-in-volume-possible-no-1-role/1974883
-- **Terrance Ferguson** — Terrance Ferguson a Late-Week IR Stash With Future Target Potential (2026-10-24T14:07:12Z)
-  - Source: https://www.rotoballer.com/player-news/terrance-ferguson-a-late-week-ir-stash-with-future-target-potential/1974880
-- **Dallas Goedert** — Dallas Goedert Expects to Play Monday Despite Knee Setback (2026-10-24T13:55:13Z)
-  - Source: https://www.rotoballer.com/player-news/dallas-goedert-expects-to-play-monday-despite-knee-setback/1974874
-- **Jordan Mason** — Jordan Mason Expected to Be Activated Saturday (2026-10-24T13:47:11Z)
-  - Source: https://www.rotoballer.com/player-news/jordan-mason-expected-to-be-activated-saturday/1974869
-- **Samaje Perine** — Samaje Perine Offers Late-Week PPR Appeal After 14-Carry Outing (2026-10-24T13:36:18Z)
-  - Source: https://www.rotoballer.com/player-news/samaje-perine-offers-late-week-ppr-appeal-after-14-carry-outing/1974862
-- **Spencer Shrader** — Spencer Shrader A Worthwhile Starter Despite Unfavorable Week 7 Matchup (2026-10-24T13:18:14Z)
-  - Source: https://www.rotoballer.com/player-news/spencer-shrader-a-worthwhile-fantasy-football-starter-despite-unfavorable-week-7-matchup/1974846
-- **Dontayvion Wicks** — Dontayvion Wicks Remains Sidelined With Ankle Injury (2026-10-24T13:16:17Z)
-  - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-remains-sidelined-with-ankle-injury/1974844
-- **DeVonta Smith** — DeVonta Smith Absent From Practice Again Saturday (2026-10-24T13:10:14Z)
-  - Source: https://www.rotoballer.com/player-news/devonta-smith-absent-from-practice-again-saturday/1974842
