@@ -2,12 +2,12 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6490**
-- Newly captured: **6**
+- Stored stories: **6479**
+- Newly captured: **1**
 
 ## Latest news
 
-- **NEW — Eli Stowers** — Eli Stowers - Tagged as questionable to return Week 7 (2026-10-24T22:14:10Z)
+- **Eli Stowers** — Eli Stowers - Tagged as questionable to return Week 7 (2026-10-24T22:14:10Z)
   - After being drafted in the second round of April's NFL Draft, Stowers hurt his hamstring during preseason play and began the campaign on IR. The Eagles opened his 21-day practice window Oct. 14, and the rookie practiced in full all three days this week. Both Stowers and fellow tight end Grant Calcaterra (back) could be ready to return from IR ahead of Monday's matchup, but for that to happen, they'd need to be activated to the 53-man roster at some point this weekend.
 - **Lamar Jackson** — Lamar Jackson (ankle) ruled out for Week 7 (2026-10-24T21:26:00.890000Z)
   - Jackson last played on Oct. 4 against the Tennessee Titans, throwing for two scores and 222 yards in one half. The Ravens are 1-1 in that stretch, with Tyler Huntley starting under center. A key divisional matchup awaits in a competitive AFC North, and Jackson could return in Week 8 against the Buffalo Bills.
@@ -21,10 +21,12 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Dontayvion Wicks** — Dontayvion Wicks (ankle) out for Week 7 (2026-10-24T21:26:00.852000Z)
   - Wicks did not practice this week, so this does not come as a surprise. However, multiple important players will miss Week 7, including Wicks and wide receiver DeVonta Smith. Quarterback Tanner McKee will rely on a patchwork offense in a divisional matchup. 
   - Source: https://www.fantasypros.com/nfl/news/615654/dontayvion-wicks-ankle-out-week-7.php
+- **NEW — Dameon Pierce** — Dameon Pierce is Worth Stashing Ahead of Week 7 (2026-10-24T21:16:16Z)
+  - Source: https://www.rotoballer.com/player-news/dameon-pierce-is-worth-stashing-ahead-of-week-7/1975076
 - **Jonah Coleman** — Jonah Coleman - Activated from IR (2026-10-24T20:48:41Z)
   - Coleman is still questionable for Sunday's game against the Cardinals, but his activation off IR indicates that he is on track to appear in his first contest since Week 2 against the Jaguars. With Tyler Badie (thumb) on injured reserve, Coleman will slot into the RB3 spot behind J.K. Dobbins and RJ Harvey, and Coleman should also be in the mix for return duties on kickoffs.
 - **Jordan Mason** — Jordan Mason - Activated from IR, cleared for Week 7 (2026-10-24T20:34:17Z)
-  - Mason has spent the four-game minimum on IR while recovering from a thumb injury, and the veteran running back has been given the green light to return for Week 7. He'll rejoin Aaron Jones in the backfield for Sunday's game, and the veteran duo figure to operate in a timeshare as they did last season.
+  - Mason has spent the four-game minimum on IR while recovering from a thumb injury, and the veteran running back has been given the green light to return for Week 7. He'll rejoin Aaron Jones in the backfield for Sunday's game, and the veteran duo figure to operate in a timeshare as they did last season, per Kevin Seifert of ESPN.com.
 - **Tank Dell** — Tank Dell - Activated from injured reserve (2026-10-24T20:16:10Z)
   - Dell thus is poised to log his first game action since he suffered a serious left knee injury Dec. 21, 2024 that included a dislocated kneecap and multiple ligament tears. The Texans' receiving corps is in a much different state this time around, with Marvin Harrison, Jaylin Noel, Xavier Hutchinson and Kayshon Boutte all vying for reps behind No. 1 option Nico Collins. Where Dell may stand behind Collins remains to be seen, assuming the former is active for Sunday's 1:00 p.m. ET kickoff.
 - **Josh Jacobs** — Josh Jacobs - Expected to play Sunday (2026-10-24T20:09:18Z)
@@ -41,17 +43,17 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Jackson initially drew the questionable tag after being limited in practice all week, but he has not recovered enough from a high-ankle sprain to make his return for Sunday's AFC North showdown. Huntley will start for a third consecutive game, and the veteran quarterback will face a Bengals defense that has given up only five touchdown passes (tied for third-fewest in the league) and ranks sixth in the NFL in sacks (17).
 - **Lamar Jackson** — Lamar Jackson - Won't return for Week 7 (2026-10-24T19:35:57Z)
   - Jackson drew the questionable tag for Sunday's AFC North tilt after being a limited practice participant all week, but the superstar quarterback will end up missing a third consecutive game due to a high-ankle sprain. As a result, Tyler Huntley will once again start under center for the Ravens, and Jackson's next opportunity to play is Week 8 against the Bills on Sunday, Nov. 1.
-- **NEW — Kendrick Bourne** — Kendrick Bourne Likely Available on the Waive Wire for Deep League Needs (2026-10-24T19:11:12Z)
+- **Kendrick Bourne** — Kendrick Bourne Likely Available on the Waive Wire for Deep League Needs (2026-10-24T19:11:12Z)
   - Source: https://www.rotoballer.com/player-news/kendrick-bourne-likely-available-on-the-waive-wire-for-deep-league-needs/1975035
-- **NEW — Omar Cooper Jr.** — Omar Cooper Jr. Strong Stremaing Option vs. Dolphins (2026-10-24T18:55:13Z)
+- **Omar Cooper Jr.** — Omar Cooper Jr. Strong Stremaing Option vs. Dolphins (2026-10-24T18:55:13Z)
   - Source: https://www.rotoballer.com/player-news/omar-cooper-jr-strong-stremaing-option-vs-dolphins/1975033
-- **NEW — Jonah Coleman** — Denver Broncos Activate Jonah Coleman from Injured Reserve (2026-10-24T18:40:14Z)
+- **Jonah Coleman** — Denver Broncos Activate Jonah Coleman from Injured Reserve (2026-10-24T18:40:14Z)
   - Source: https://www.rotoballer.com/player-news/denver-broncos-activate-jonah-coleman-from-injured-reserve/1975029
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane is a Late-Week Streaming Option Vs. Bengals (2026-10-24T18:19:11Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane is a Late-Week Streaming Option Vs. Bengals (2026-10-24T18:19:11Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-lane-is-a-late-week-streaming-option-vs-bengals/1975026
 - **Dallas Goedert** — Dallas Goedert - Optimistic about knee injury (2026-10-24T17:59:03Z)
   - Goedert was back on the practice field Saturday after missing the first two sessions of Week 7 prep while dealing with inflammation in his knee. The Eagles still need to submit their injury designations for Monday's game against the Cowboys, but Goedert noted after Saturday's session that he expects to play, per Olivia Reiner of The Philadelphia Inquirer. The veteran tight end's availability is crucial for Philadelphia, given that both of the team's top wide receivers in DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) did not practice all week.
-- **NEW — Darius Cooper** — Darius Cooper Has Big Opportunity on Monday Night Football Vs. Cowboys (2026-10-24T17:21:12Z)
+- **Darius Cooper** — Darius Cooper Has Big Opportunity on Monday Night Football Vs. Cowboys (2026-10-24T17:21:12Z)
   - Source: https://www.rotoballer.com/player-news/darius-cooper-has-big-opportunity-on-monday-night-football-vs-cowboys/1974996
 - **Tanner McKee** — Tanner McKee Looks to Improve in Matchup Vs. Cowboys (2026-10-24T17:17:12Z)
   - Source: https://www.rotoballer.com/player-news/tanner-mckee-looks-to-improve-in-matchup-vs-cowboys/1974992
@@ -210,5 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/puka-nacua-a-must-start-wr1-if-active-for-week-7/1974675
 - **Kenyon Sadiq** — Kenyon Sadiq's Recent Receiving Slump Leaves Him a Week 7 TE2 (2026-10-24T11:10:14Z)
   - Source: https://www.rotoballer.com/player-news/kenyon-sadiqs-recent-receiving-slump-leaves-him-a-week-7-te2/1974670
-- **Cam Ward** — Cam Ward Faces Tough Matchup in Week 7 (2026-10-24T11:08:16Z)
-  - Source: https://www.rotoballer.com/player-news/cam-ward-faces-tough-matchup-in-week-7/1974667
