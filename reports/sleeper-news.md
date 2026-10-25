@@ -2,36 +2,42 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6469**
-- Newly captured: **12**
+- Stored stories: **6458**
+- Newly captured: **9**
 
 ## Latest news
 
-- **NEW — Mike Gesicki** — Mike Gesicki a TD Threat in Plus Matchup (2026-10-25T01:23:15Z)
+- **NEW — Mike Washington Jr.** — Mike Washington - Deemed game-time decision (2026-10-25T11:49:40Z)
+  - Washington managed just one limited session (Wednesday) during Week 7 prep due to foot and back injuries, but a listing of questionable has kept the door open for the rookie fourth-round pick to suit up Sunday. His status will be clarified about 90 minutes before a 4:25 p.m. ET kickoff, but if Washington is inhibited or sidelined, Dylan Laube will be the primary backup to No. 1 RB Ashton Jeanty.
+- **NEW — Breece Hall** — Breece Hall - Not likely to play Sunday (2026-10-25T11:43:16Z)
+  - Hall has missed the past three contests due to a quadriceps injury and seems poised to miss a fourth, but Rapoport reported that the running back may work out pregame to see if a return to action is possible. If Hall remains sidelined Sunday, Braelon Allen again will pace the Jets backfield, with Isaiah Davis on hand for RB reps that linger.
+- **NEW — Cam Skattebo** — Cam Skattebo - Slated to resume role as RB1 (2026-10-25T11:18:22Z)
+  - Skattebo ranked fourth in offensive snaps (six of 77) among Giants running backs behind Devin Singletary (31), Tyrone Tracy (29) and Najee Harris (11) last Sunday against the Saints, failing to log a touch in the process. The team has since released Harris, and Skattebo's brief benching appears to be over. It's unclear who among Skattebo, SIngletary and Tracy will get the start this Sunday, but the former did average 18.2 touches per game through the first five weeks of the campaign.
+- **Mike Gesicki** — Mike Gesicki a TD Threat in Plus Matchup (2026-10-25T01:23:15Z)
   - Source: https://www.rotoballer.com/player-news/mike-gesicki-a-td-threat-in-plus-matchup/1975144
-- **NEW — Pat Freiermuth** — Pat Freiermuth a Touchdown-Dependent Stream (2026-10-25T01:06:17Z)
+- **Pat Freiermuth** — Pat Freiermuth a Touchdown-Dependent Stream (2026-10-25T01:06:17Z)
   - Source: https://www.rotoballer.com/player-news/pat-freiermuth-a-touchdown-dependent-stream/1975142
-- **NEW — Jaylin Noel** — Jaylin Noel a Startable Waiver-Wire Find (2026-10-25T00:37:12Z)
+- **Jaylin Noel** — Jaylin Noel a Startable Waiver-Wire Find (2026-10-25T00:37:12Z)
   - Source: https://www.rotoballer.com/player-news/jaylin-noel-a-startable-waiver-wire-find/1975138
-- **NEW — Emmett Johnson** — Emmett Johnson a Fine Bench Stash (2026-10-25T00:17:16Z)
+- **Emmett Johnson** — Emmett Johnson a Fine Bench Stash (2026-10-25T00:17:16Z)
   - Source: https://www.rotoballer.com/player-news/emmett-johnson-a-fine-bench-stash/1975136
-- **NEW — Malik Washington** — Malik Washington's Large Volume Driving Fantasy Production (2026-10-24T23:50:13Z)
+- **Malik Washington** — Malik Washington's Large Volume Driving Fantasy Production (2026-10-24T23:50:13Z)
   - Source: https://www.rotoballer.com/player-news/malik-washingtons-large-volume-driving-fantasy-production/1975126
-- **NEW — Caleb Douglas** — Caleb Douglas Returns to Action with Large Anticipated Role (2026-10-24T23:23:16Z)
+- **Caleb Douglas** — Caleb Douglas Returns to Action with Large Anticipated Role (2026-10-24T23:23:16Z)
   - Source: https://www.rotoballer.com/player-news/caleb-douglas-returns-to-action-with-large-anticipated-role/1975115
-- **NEW — T.J. Hockenson** — T.J. Hockenson a Viable Streamer After Clearing Concussion Protocol (2026-10-24T23:05:12Z)
+- **T.J. Hockenson** — T.J. Hockenson a Viable Streamer After Clearing Concussion Protocol (2026-10-24T23:05:12Z)
   - Source: https://www.rotoballer.com/player-news/t-j-hockenson-a-viable-streamer-after-clearing-concussion-protocol/1975112
-- **NEW — Kaelon Black** — Kaelon Black a Top Handcuff to Roster in Fantasy Football (2026-10-24T22:45:11Z)
+- **Kaelon Black** — Kaelon Black a Top Handcuff to Roster in Fantasy Football (2026-10-24T22:45:11Z)
   - Source: https://www.rotoballer.com/player-news/kaelon-black-a-top-handcuff-to-roster-in-fantasy-football/1975103
-- **NEW — Tyler Allgeier** — Tyler Allgeier a Solid Streamer in Second Consecutive Start (2026-10-24T22:26:17Z)
+- **Tyler Allgeier** — Tyler Allgeier a Solid Streamer in Second Consecutive Start (2026-10-24T22:26:17Z)
   - Source: https://www.rotoballer.com/player-news/tyler-allgeier-a-solid-streamer-in-second-consecutive-start/1975097
 - **Eli Stowers** — Eli Stowers - Tagged as questionable to return Week 7 (2026-10-24T22:14:10Z)
   - After being drafted in the second round of April's NFL Draft, Stowers hurt his hamstring during preseason play and began the campaign on IR. The Eagles opened his 21-day practice window Oct. 14, and the rookie practiced in full all three days this week. Both Stowers and fellow tight end Grant Calcaterra (back) could be ready to return from IR ahead of Monday's matchup, but for that to happen, they'd need to be activated to the 53-man roster at some point this weekend.
-- **NEW — Colby Parkinson** — Colby Parkinson Could Offer Deep League Value in Week 7 (2026-10-24T21:52:12Z)
+- **Colby Parkinson** — Colby Parkinson Could Offer Deep League Value in Week 7 (2026-10-24T21:52:12Z)
   - Source: https://www.rotoballer.com/player-news/colby-parkinson-could-offer-deep-league-value-in-week-7/1975086
-- **NEW — Makai Lemon** — Makai Lemon is Streaming Option with Larger Role Looming (2026-10-24T21:43:13Z)
+- **Makai Lemon** — Makai Lemon is Streaming Option with Larger Role Looming (2026-10-24T21:43:13Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-is-streaming-option-with-larger-role-looming/1975084
-- **NEW — Mike Washington Jr.** — Mike Washington Jr. has Stash Value After Getting More Involved (2026-10-24T21:36:12Z)
+- **Mike Washington Jr.** — Mike Washington Jr. has Stash Value After Getting More Involved (2026-10-24T21:36:12Z)
   - Source: https://www.rotoballer.com/player-news/mike-washington-jr-has-stash-value-after-getting-more-involved/1975082
 - **Lamar Jackson** — Lamar Jackson (ankle) ruled out for Week 7 (2026-10-24T21:26:00.890000Z)
   - Jackson last played on Oct. 4 against the Tennessee Titans, throwing for two scores and 222 yards in one half. The Ravens are 1-1 in that stretch, with Tyler Huntley starting under center. A key divisional matchup awaits in a competitive AFC North, and Jackson could return in Week 8 against the Buffalo Bills.
@@ -182,6 +188,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/ceedee-lamb-has-detonation-potential-in-fantasy-football-in-week-7/1974764
 - **DeVonta Smith** — Eagles Non-Committal on Potentially Shutting DeVonta Smith Down (2026-10-24T12:08:17Z)
   - Source: https://www.rotoballer.com/player-news/eagles-non-committal-on-potentially-shutting-devonta-smith-down/1974762
+- **NEW — Jahan Dotson** — Jahan Dotson Trending Up, but Still a Boom/Bust Flex Option in Week 7 (2026-10-24T12:05:13Z)
+  - Source: https://www.rotoballer.com/player-news/jahan-dotson-trending-up-but-still-a-boom-bust-flex-option-in-week-7/1974756
 - **Zay Flowers** — Zay Flowers a Borderline WR1 With Starting QB in Question (2026-10-24T12:04:11Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-a-borderline-wr1-with-starting-qb-in-question/1974755
 - **Dak Prescott** — Dak Prescott A Borderline Top-10 QB In Fantasy Football For Week 7 (2026-10-24T12:02:12Z)
@@ -204,11 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/tyler-higbee-on-track-to-operate-as-the-rams-top-target/1974729
 - **Lamar Jackson** — Lamar Jackson a Top Fantasy QB in Week 7 Despite Ankle Injury (2026-10-24T11:44:11Z)
   - Source: https://www.rotoballer.com/player-news/lamar-jackson-a-top-fantasy-qb-in-week-7-despite-ankle-injury/1974728
-- **Michael Penix Jr.** — Michael Penix Jr. a Low-End QB2 Against Stout 49ers Defense (2026-10-24T11:42:12Z)
-  - Source: https://www.rotoballer.com/player-news/michael-penix-jr-a-low-end-qb2-against-stout-49ers-defense/1974725
-- **Gunnar Helm** — Gunnar Helm a Tough Play in Week 7 (2026-10-24T11:36:18Z)
-  - Source: https://www.rotoballer.com/player-news/gunnar-helm-a-tough-play-in-week-7/1974713
-- **Wan'Dale Robinson** — Wan'Dale Robinson Looking to Bounce Back (2026-10-24T11:35:12Z)
-  - Source: https://www.rotoballer.com/player-news/wandale-robinson-looking-to-bounce-back/1974711
-- **Carnell Tate** — Carnell Tate Gaining Steam Entering Week 7 (2026-10-24T11:33:15Z)
-  - Source: https://www.rotoballer.com/player-news/carnell-tate-gaining-steam-entering-week-7/1974709

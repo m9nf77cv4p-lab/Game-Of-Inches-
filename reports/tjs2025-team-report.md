@@ -3,7 +3,7 @@
 - Team: **It Hurts So Good**
 - Manager: **TJS2025**
 - Roster ID: **5**
-- Players: **25**
+- Players: **26**
 - Taxi: **1**
 - Reserve/IR: **3**
 
@@ -31,6 +31,7 @@
 - Deebo Samuel Sr. — WR — SF — reserve/IR
 - Demarcus Robinson — WR — SF — reserve/IR
 - Elic Ayomanor — WR — TEN
+- Jahan Dotson — WR — ATL
 - Jalen Nailor — WR — LV
 - Pat Bryant — WR — DEN — reserve/IR
 - Xavier Hutchinson — WR — HOU
