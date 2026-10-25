@@ -1,9 +1,20 @@
 {
-  "last_checked_at": "2026-10-25T01:36:39Z",
+  "last_checked_at": "2026-10-25T06:49:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 304,
   "new_story_ids": [
-    "nfl|8129|rotoballer|225413|1792876576000"
+    "nfl|11610|rotoballer|225422|1792885813000",
+    "nfl|12536|rotoballer|225424|1792888632000",
+    "nfl|13294|rotoballer|225416|1792878193000",
+    "nfl|13296|rotoballer|225421|1792884196000",
+    "nfl|13305|rotoballer|225415|1792877772000",
+    "nfl|13337|rotoballer|225423|1792887436000",
+    "nfl|13414|rotoballer|225419|1792881911000",
+    "nfl|4993|rotoballer|225426|1792891395000",
+    "nfl|5844|rotoballer|225420|1792883112000",
+    "nfl|6865|rotoballer|225417|1792878732000",
+    "nfl|7600|rotoballer|225425|1792890377000",
+    "nfl|8132|rotoballer|225418|1792880777000"
   ],
   "schema_version": 1,
   "source": {
@@ -13,6 +24,186 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals tight end Mike Gesicki offers upside at the position for fantasy managers in a pinch ahead of the team's road divisional clash with the Baltimore Ravens. Gesicki entered Cincinnati's Week 6 bye with a touchdown in every game he'd recorded a target. On the downside for prospective owners, the ninth-year pro hasn't commanded enough consistent volume to be a locked-and-loaded weekly TE play. That said, Gesicki has the highest average depth of target among tight ends (10.4) and ranks second on the Bengals with four red zone looks, trailing only wide receiver Ja'Marr Chase (seven). The Ravens have been one of the better units against fantasy tight ends, but Gesicki's red-zone usage and his connection with quarterback Joe Burrow keep him an intriguing flyer off the waiver wire.",
+      "metadata": {
+        "description": "Cincinnati Bengals tight end Mike Gesicki offers upside at the position for fantasy managers in a pinch ahead of the team's road divisional clash with the Baltimore Ravens. Gesicki entered Cincinnati's Week 6 bye with a touchdown in every game he'd recorded a target. On the downside for prospective owners, the ninth-year pro hasn't commanded enough consistent volume to be a locked-and-loaded weekly TE play. That said, Gesicki has the highest average depth of target among tight ends (10.4) and ranks second on the Bengals with four red zone looks, trailing only wide receiver Ja'Marr Chase (seven). The Ravens have been one of the better units against fantasy tight ends, but Gesicki's red-zone usage and his connection with quarterback Joe Burrow keep him an intriguing flyer off the waiver wire.",
+        "title": "Mike Gesicki a TD Threat in Plus Matchup",
+        "topic_id": "1419956424955420672",
+        "url": "https://www.rotoballer.com/player-news/mike-gesicki-a-td-threat-in-plus-matchup/1975144"
+      },
+      "nfl_team": "CIN",
+      "player_id": "4993",
+      "player_name": "Mike Gesicki",
+      "position": "TE",
+      "published": 1792891395000,
+      "source": "rotoballer",
+      "source_key": "225426",
+      "story_id": "nfl|4993|rotoballer|225426|1792891395000",
+      "title": "Mike Gesicki a TD Threat in Plus Matchup",
+      "url": "https://www.rotoballer.com/player-news/mike-gesicki-a-td-threat-in-plus-matchup/1975144"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers tight end Pat Freiermuth is a streamable asset ahead of Sunday's outing with the New Orleans Saints in Paris, France. Freiermuth saw a slight dip in opportunity in last weekend's overtime win over the Buccaneers, falling below four targets for the first time all season. The timing was unfortunate for fantasy managers who rolled with him after three touchdowns in the two games prior. The Penn State product doesn't project to win owners their week on the back of a high target share. However, he's as good a bet as any in the Steelers' offense to score a TD. Freiermuth is currently tied for the team lead with five red zone targets, and sits atop all Pittsburgh pass catchers with four receiving touchdowns. His snap split with teammate Darnell Washington isn't an ideal scenario for fantasy, but the 28-year-old gets a slight boost this week against a Saints defense that's been one of the worst against the position.",
+      "metadata": {
+        "description": "Pittsburgh Steelers tight end Pat Freiermuth is a streamable asset ahead of Sunday's outing with the New Orleans Saints in Paris, France. Freiermuth saw a slight dip in opportunity in last weekend's overtime win over the Buccaneers, falling below four targets for the first time all season. The timing was unfortunate for fantasy managers who rolled with him after three touchdowns in the two games prior. The Penn State product doesn't project to win owners their week on the back of a high target share. However, he's as good a bet as any in the Steelers' offense to score a TD. Freiermuth is currently tied for the team lead with five red zone targets, and sits atop all Pittsburgh pass catchers with four receiving touchdowns. His snap split with teammate Darnell Washington isn't an ideal scenario for fantasy, but the 28-year-old gets a slight boost this week against a Saints defense that's been one of the worst against the position.",
+        "title": "Pat Freiermuth a Touchdown-Dependent Stream",
+        "topic_id": "1419950132358656000",
+        "url": "https://www.rotoballer.com/player-news/pat-freiermuth-a-touchdown-dependent-stream/1975142"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7600",
+      "player_name": "Pat Freiermuth",
+      "position": "TE",
+      "published": 1792890377000,
+      "source": "rotoballer",
+      "source_key": "225425",
+      "story_id": "nfl|7600|rotoballer|225425|1792890377000",
+      "title": "Pat Freiermuth a Touchdown-Dependent Stream",
+      "url": "https://www.rotoballer.com/player-news/pat-freiermuth-a-touchdown-dependent-stream/1975142"
+    },
+    {
+      "analysis": null,
+      "description": "Houston Texans wide receiver Jaylin Noel is riding a hot streak ahead of Sunday's home meeting with the New York Giants and is worth a look on the waiver wire for fantasy managers in need of a high-upside spark. Noel doesn't meet the requirements of a high-volume, plug-and-play fantasy receiver, though he has some interesting traits to his game. Furthermore, he's gone from an afterthought in the offense through the first three weeks to a legitimate field-flipping deep threat over the prior three. The second-year pro primarily operates from the slot, so he'll lose playing time when Houston runs out two or fewer wide receivers. However, owners will be happy to know the Texans utilize 11 personnel at the ninth-highest clip in the league (60.9%). Unfortunately, given Noel's play style, there will be a few clunkers for fantasy. Either way, Houston is airing it out 62.23% of the time, the seventh-highest rate, and quarterback C.J. Stroud is playing some of the best football of his career.",
+      "metadata": {
+        "description": "Houston Texans wide receiver Jaylin Noel is riding a hot streak ahead of Sunday's home meeting with the New York Giants and is worth a look on the waiver wire for fantasy managers in need of a high-upside spark. Noel doesn't meet the requirements of a high-volume, plug-and-play fantasy receiver, though he has some interesting traits to his game. Furthermore, he's gone from an afterthought in the offense through the first three weeks to a legitimate field-flipping deep threat over the prior three. The second-year pro primarily operates from the slot, so he'll lose playing time when Houston runs out two or fewer wide receivers. However, owners will be happy to know the Texans utilize 11 personnel at the ninth-highest clip in the league (60.9%). Unfortunately, given Noel's play style, there will be a few clunkers for fantasy. Either way, Houston is airing it out 62.23% of the time, the seventh-highest rate, and quarterback C.J. Stroud is playing some of the best football of his career.",
+        "title": "Jaylin Noel a Startable Waiver-Wire Find",
+        "topic_id": "1419943841875681280",
+        "url": "https://www.rotoballer.com/player-news/jaylin-noel-a-startable-waiver-wire-find/1975138"
+      },
+      "nfl_team": "HOU",
+      "player_id": "12536",
+      "player_name": "Jaylin Noel",
+      "position": "WR",
+      "published": 1792888632000,
+      "source": "rotoballer",
+      "source_key": "225424",
+      "story_id": "nfl|12536|rotoballer|225424|1792888632000",
+      "title": "Jaylin Noel a Startable Waiver-Wire Find",
+      "url": "https://www.rotoballer.com/player-news/jaylin-noel-a-startable-waiver-wire-find/1975138"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs running back Emmett Johnson hasn't been involved enough to garner standalone value in his rookie season. However, he's a worthy bench stash as we approach the halfway mark of the campaign. Johnson isn't the fastest or most agile back, but he runs hard and had a nice role in the receiving game during his tenure at the University of Nebraska. In the former Cornhusker's final two collegiate seasons, he piled up an 85/656/5 line through the air. While he hasn't had the same opportunity in the pros, Johnson is poised to fill a pristine role if backfield mate Kenneth Walker III ever misses time. For now, fantasy managers with an extra bench spot would do well to stow the 23-year-old away for a rainy day. Johnson is the clear handcuff to own in Kansas City, and could see a slight uptick in touches this Sunday night with teammate Brashard Smith (hamstring) being placed on IR.",
+      "metadata": {
+        "description": "Kansas City Chiefs running back Emmett Johnson hasn't been involved enough to garner standalone value in his rookie season. However, he's a worthy bench stash as we approach the halfway mark of the campaign. Johnson isn't the fastest or most agile back, but he runs hard and had a nice role in the receiving game during his tenure at the University of Nebraska. In the former Cornhusker's final two collegiate seasons, he piled up an 85/656/5 line through the air. While he hasn't had the same opportunity in the pros, Johnson is poised to fill a pristine role if backfield mate Kenneth Walker III ever misses time. For now, fantasy managers with an extra bench spot would do well to stow the 23-year-old away for a rainy day. Johnson is the clear handcuff to own in Kansas City, and could see a slight uptick in touches this Sunday night with teammate Brashard Smith (hamstring) being placed on IR.",
+        "title": "Emmett Johnson a Fine Bench Stash",
+        "topic_id": "1419937548783931392",
+        "url": "https://www.rotoballer.com/player-news/emmett-johnson-a-fine-bench-stash/1975136"
+      },
+      "nfl_team": "KC",
+      "player_id": "13337",
+      "player_name": "Emmett Johnson",
+      "position": "RB",
+      "published": 1792887436000,
+      "source": "rotoballer",
+      "source_key": "225423",
+      "story_id": "nfl|13337|rotoballer|225423|1792887436000",
+      "title": "Emmett Johnson a Fine Bench Stash",
+      "url": "https://www.rotoballer.com/player-news/emmett-johnson-a-fine-bench-stash/1975136"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins wide receiver Malik Washington is the primary option in a bad offense, and his large role as the team's alpha receiver lately has put him on the fantasy radar as an impressive streamer. Washington has double-digit fantasy points (PPR) in each of his last three games, totaling 23 targets and 16 catches during that span. Washington occupied a larger role because Caleb Douglas (ankle) was sidelined, but now that he has been able to carve out a sizable role in Miami, we expect that he'll remain on the fantasy radar even after Douglas's return. We should get our answer pretty soon, as Douglas is playing in Week 7 against the New York Jets. For the time being, we're continuing to trust Washington as a WR3/flex option with substantial streaming appeal.",
+      "metadata": {
+        "description": "Miami Dolphins wide receiver Malik Washington is the primary option in a bad offense, and his large role as the team's alpha receiver lately has put him on the fantasy radar as an impressive streamer. Washington has double-digit fantasy points (PPR) in each of his last three games, totaling 23 targets and 16 catches during that span. Washington occupied a larger role because Caleb Douglas (ankle) was sidelined, but now that he has been able to carve out a sizable role in Miami, we expect that he'll remain on the fantasy radar even after Douglas's return. We should get our answer pretty soon, as Douglas is playing in Week 7 against the New York Jets. For the time being, we're continuing to trust Washington as a WR3/flex option with substantial streaming appeal.",
+        "title": "Malik Washington's Large Volume Driving Fantasy Production",
+        "topic_id": "1419932514545385472",
+        "url": "https://www.rotoballer.com/player-news/malik-washingtons-large-volume-driving-fantasy-production/1975126"
+      },
+      "nfl_team": "MIA",
+      "player_id": "11610",
+      "player_name": "Malik Washington",
+      "position": "WR",
+      "published": 1792885813000,
+      "source": "rotoballer",
+      "source_key": "225422",
+      "story_id": "nfl|11610|rotoballer|225422|1792885813000",
+      "title": "Malik Washington's Large Volume Driving Fantasy Production",
+      "url": "https://www.rotoballer.com/player-news/malik-washingtons-large-volume-driving-fantasy-production/1975126"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins wide receiver Caleb Douglas is on track to play in his first game since Week 2, when he suffered an ankle injury. It's now Week 7, and Douglas will look to return to his sizable role as soon as he steps back onto the field. In his only two games so far this year, the Texas Tech product played more than 86% of the snaps. He fetched seven targets in the season opener but was held to just two catches for 19 yards the following week. Douglas has a chance to lead the receiver room in snaps this week, with Chris Bell and Malik Washington serving as his primary competition to earn targets. The 23-year-old was dropped in many leagues when he went down, but he has the youth and upside to be productive, even on a team that is heading for the worst record in football.",
+      "metadata": {
+        "description": "Miami Dolphins wide receiver Caleb Douglas is on track to play in his first game since Week 2, when he suffered an ankle injury. It's now Week 7, and Douglas will look to return to his sizable role as soon as he steps back onto the field. In his only two games so far this year, the Texas Tech product played more than 86% of the snaps. He fetched seven targets in the season opener but was held to just two catches for 19 yards the following week. Douglas has a chance to lead the receiver room in snaps this week, with Chris Bell and Malik Washington serving as his primary competition to earn targets. The 23-year-old was dropped in many leagues when he went down, but he has the youth and upside to be productive, even on a team that is heading for the worst record in football.",
+        "title": "Caleb Douglas Returns to Action with Large Anticipated Role",
+        "topic_id": "1419924967490965504",
+        "url": "https://www.rotoballer.com/player-news/caleb-douglas-returns-to-action-with-large-anticipated-role/1975115"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13296",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "published": 1792884196000,
+      "source": "rotoballer",
+      "source_key": "225421",
+      "story_id": "nfl|13296|rotoballer|225421|1792884196000",
+      "title": "Caleb Douglas Returns to Action with Large Anticipated Role",
+      "url": "https://www.rotoballer.com/player-news/caleb-douglas-returns-to-action-with-large-anticipated-role/1975115"
+    },
+    {
+      "analysis": null,
+      "description": "Minnesota Vikings tight end T.J. Hockenson used last week's bye to clear concussion protocol, and he will get back on the fantasy radar as a streaming option for Week 7 against the Indianapolis Colts. Hockenson has posted mixed results so far this year; he has at least 13.6 PPR points in two of his five games, but fewer than 6.0 PPR points in each of the other three. The veteran tight end did handle very encouraging 83% and 85% snap shares in the two weeks prior to suffering his concussion, so perhaps he'll maintain a workload large enough to contribute as a top-12 option on Sunday afternoon. In fact, Hockenson ranks as RotoBaller's TE12 in the latest Week 7 fantasy rankings, which makes him a very intriguing option in leagues where he's still on waivers. As it stands, Hockenson is available to be added in 49% of leagues.",
+      "metadata": {
+        "description": "Minnesota Vikings tight end T.J. Hockenson used last week's bye to clear concussion protocol, and he will get back on the fantasy radar as a streaming option for Week 7 against the Indianapolis Colts. Hockenson has posted mixed results so far this year; he has at least 13.6 PPR points in two of his five games, but fewer than 6.0 PPR points in each of the other three. The veteran tight end did handle very encouraging 83% and 85% snap shares in the two weeks prior to suffering his concussion, so perhaps he'll maintain a workload large enough to contribute as a top-12 option on Sunday afternoon. In fact, Hockenson ranks as RotoBaller's TE12 in the latest Week 7 fantasy rankings, which makes him a very intriguing option in leagues where he's still on waivers. As it stands, Hockenson is available to be added in 49% of leagues.",
+        "title": "T.J. Hockenson a Viable Streamer After Clearing Concussion Protocol",
+        "topic_id": "1419919931402620928",
+        "url": "https://www.rotoballer.com/player-news/t-j-hockenson-a-viable-streamer-after-clearing-concussion-protocol/1975112"
+      },
+      "nfl_team": "MIN",
+      "player_id": "5844",
+      "player_name": "T.J. Hockenson",
+      "position": "TE",
+      "published": 1792883112000,
+      "source": "rotoballer",
+      "source_key": "225420",
+      "story_id": "nfl|5844|rotoballer|225420|1792883112000",
+      "title": "T.J. Hockenson a Viable Streamer After Clearing Concussion Protocol",
+      "url": "https://www.rotoballer.com/player-news/t-j-hockenson-a-viable-streamer-after-clearing-concussion-protocol/1975112"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers running back Kaelon Black currently lacks standalone value in his role as the No. 2 ball-carrier behind Christian McCaffrey. However, he is one of the league's highest-upside handcuffs because of how much his value would rise if McCaffrey were to miss any time. McCaffrey had 25 touches last week, including nine receptions. While Black may not quite handle that many touches in this hypothetical jump to the No. 1 spot on the depth chart, he would absolutely be the lead-back option ahead of Jordan James, who hasn't played an offensive snap since Week 2. Black has been much more involved to this point, amassing 45 carries, 170 rushing yards, two catches, and eight receiving yards. Evidently, while Black would take on a lot of McCaffrey's hypothetically vacated rushing attempts, the 25-year-old rookie doesn't have much appeal in the passing game, and so he'd have less value and a lower floor in PPR leagues compared to half-PPR and standard formats.",
+      "metadata": {
+        "description": "San Francisco 49ers running back Kaelon Black currently lacks standalone value in his role as the No. 2 ball-carrier behind Christian McCaffrey. However, he is one of the league's highest-upside handcuffs because of how much his value would rise if McCaffrey were to miss any time. McCaffrey had 25 touches last week, including nine receptions. While Black may not quite handle that many touches in this hypothetical jump to the No. 1 spot on the depth chart, he would absolutely be the lead-back option ahead of Jordan James, who hasn't played an offensive snap since Week 2. Black has been much more involved to this point, amassing 45 carries, 170 rushing yards, two catches, and eight receiving yards. Evidently, while Black would take on a lot of McCaffrey's hypothetically vacated rushing attempts, the 25-year-old rookie doesn't have much appeal in the passing game, and so he'd have less value and a lower floor in PPR leagues compared to half-PPR and standard formats.",
+        "title": "Kaelon Black a Top Handcuff to Roster in Fantasy Football",
+        "topic_id": "1419916155514032128",
+        "url": "https://www.rotoballer.com/player-news/kaelon-black-a-top-handcuff-to-roster-in-fantasy-football/1975103"
+      },
+      "nfl_team": "SF",
+      "player_id": "13414",
+      "player_name": "Kaelon Black",
+      "position": "RB",
+      "published": 1792881911000,
+      "source": "rotoballer",
+      "source_key": "225419",
+      "story_id": "nfl|13414|rotoballer|225419|1792881911000",
+      "title": "Kaelon Black a Top Handcuff to Roster in Fantasy Football",
+      "url": "https://www.rotoballer.com/player-news/kaelon-black-a-top-handcuff-to-roster-in-fantasy-football/1975103"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Tyler Allgeier is expected to lead the team's backfield for the second week in a row. Jeremiyah Love is usually the team's primary running back, but he has been ruled out for Week 7 against the Denver Broncos, marking his second consecutive absence. Occupying the lead-back role automatically makes Allgeier a strong fantasy football streaming option, although managers will want him to perform better than he did last weekend. In Week 6, Allgeier had 18 carries for just 38 rushing yards, and he also caught a 10-yard pass. He had more snaps and touches than Zonovan Knight, but was drastically outperformed by Knight in terms of total yardage and efficiency. Last week's efficiency concerns will leave Allgeier with a lower floor, but he still ranks as an RB3 and can be worth streaming in many leagues for Week 7 against Denver.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Tyler Allgeier is expected to lead the team's backfield for the second week in a row. Jeremiyah Love is usually the team's primary running back, but he has been ruled out for Week 7 against the Denver Broncos, marking his second consecutive absence. Occupying the lead-back role automatically makes Allgeier a strong fantasy football streaming option, although managers will want him to perform better than he did last weekend. In Week 6, Allgeier had 18 carries for just 38 rushing yards, and he also caught a 10-yard pass. He had more snaps and touches than Zonovan Knight, but was drastically outperformed by Knight in terms of total yardage and efficiency. Last week's efficiency concerns will leave Allgeier with a lower floor, but he still ranks as an RB3 and can be worth streaming in many leagues for Week 7 against Denver.",
+        "title": "Tyler Allgeier a Solid Streamer in Second Consecutive Start",
+        "topic_id": "1419909863626088448",
+        "url": "https://www.rotoballer.com/player-news/tyler-allgeier-a-solid-streamer-in-second-consecutive-start/1975097"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1792880777000,
+      "source": "rotoballer",
+      "source_key": "225418",
+      "story_id": "nfl|8132|rotoballer|225418|1792880777000",
+      "title": "Tyler Allgeier a Solid Streamer in Second Consecutive Start",
+      "url": "https://www.rotoballer.com/player-news/tyler-allgeier-a-solid-streamer-in-second-consecutive-start/1975097"
+    },
     {
       "analysis": "After being drafted in the second round of April's NFL Draft, Stowers hurt his hamstring during preseason play and began the campaign on IR. The Eagles opened his 21-day practice window Oct. 14, and the rookie practiced in full all three days this week. Both Stowers and fellow tight end Grant Calcaterra (back) could be ready to return from IR ahead of Monday's matchup, but for that to happen, they'd need to be activated to the 53-man roster at some point this weekend.",
       "description": "Stowers (quadriceps), who is on injured reserve, is officially questionable to play Monday against Dallas.",
@@ -32,6 +223,66 @@
       "story_id": "nfl|13349|rotowire|644152|1792880050000",
       "title": "Eli Stowers - Tagged as questionable to return Week 7",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams tight end Colby Parkinson is looking to build off his strong performance against the Arizona Cardinals last week. Parkinson hauled in five of his six targets for 31 yards and a touchdown during last week's win. Coming into that game, Parkinson only had four receptions on the season. The expectation is that Parkinson is going to get more involved after his solid performance last weekend. The Rams are still without Terrance Ferguson (ankle), so Parkinson figures to keep having steady playing time. Fantasy managers should consider Parkinson a potential deep league streaming option ahead of the Week 7 matchup against the Las Vegas Raiders.",
+      "metadata": {
+        "description": "Los Angeles Rams tight end Colby Parkinson is looking to build off his strong performance against the Arizona Cardinals last week. Parkinson hauled in five of his six targets for 31 yards and a touchdown during last week's win. Coming into that game, Parkinson only had four receptions on the season. The expectation is that Parkinson is going to get more involved after his solid performance last weekend. The Rams are still without Terrance Ferguson (ankle), so Parkinson figures to keep having steady playing time. Fantasy managers should consider Parkinson a potential deep league streaming option ahead of the Week 7 matchup against the Las Vegas Raiders.",
+        "title": "Colby Parkinson Could Offer Deep League Value in Week 7",
+        "topic_id": "1419902313409032192",
+        "url": "https://www.rotoballer.com/player-news/colby-parkinson-could-offer-deep-league-value-in-week-7/1975086"
+      },
+      "nfl_team": "LAR",
+      "player_id": "6865",
+      "player_name": "Colby Parkinson",
+      "position": "TE",
+      "published": 1792878732000,
+      "source": "rotoballer",
+      "source_key": "225417",
+      "story_id": "nfl|6865|rotoballer|225417|1792878732000",
+      "title": "Colby Parkinson Could Offer Deep League Value in Week 7",
+      "url": "https://www.rotoballer.com/player-news/colby-parkinson-could-offer-deep-league-value-in-week-7/1975086"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles wide receiver Makai Lemon is quickly moving up the depth chart on this roster. Both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) have been ruled out ahead of the Week 7 matchup against the Dallas Cowboys. With neither of them active, Lemon will move into the top spot on the depth chart ahead of this juicy matchup against the Cowboys' secondary. The 22-year-old hasn't done much this season, but he should be counted on more frequently this weekend. Fantasy managers in deep leagues who are looking for a possible streaming option should consider Lemon for this weekend.",
+      "metadata": {
+        "description": "Philadelphia Eagles wide receiver Makai Lemon is quickly moving up the depth chart on this roster. Both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) have been ruled out ahead of the Week 7 matchup against the Dallas Cowboys. With neither of them active, Lemon will move into the top spot on the depth chart ahead of this juicy matchup against the Cowboys' secondary. The 22-year-old hasn't done much this season, but he should be counted on more frequently this weekend. Fantasy managers in deep leagues who are looking for a possible streaming option should consider Lemon for this weekend.",
+        "title": "Makai Lemon is Streaming Option with Larger Role Looming",
+        "topic_id": "1419901053855412224",
+        "url": "https://www.rotoballer.com/player-news/makai-lemon-is-streaming-option-with-larger-role-looming/1975084"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1792878193000,
+      "source": "rotoballer",
+      "source_key": "225416",
+      "story_id": "nfl|13294|rotoballer|225416|1792878193000",
+      "title": "Makai Lemon is Streaming Option with Larger Role Looming",
+      "url": "https://www.rotoballer.com/player-news/makai-lemon-is-streaming-option-with-larger-role-looming/1975084"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders running back Mike Washington Jr. (foot, back) is currently listed as questionable ahead of the Week 7 matchup against the Los Angeles Rams. Washington missed back-to-back practices this week, but head coach Klint Kubiak said they expect Washington to play this weekend. The rookie back saw a season-high 35 percent snap share during last week's game against the Buffalo Bills. Washington carried the ball nine times for 43 yards in the loss. Ashton Jeanty remains the top back in Las Vegas, but it seems like Washington is going to have a decent role when he's healthy. The 23-year-old is worth stashing in deep leagues at the minimum right now.",
+      "metadata": {
+        "description": "Las Vegas Raiders running back Mike Washington Jr. (foot, back) is currently listed as questionable ahead of the Week 7 matchup against the Los Angeles Rams. Washington missed back-to-back practices this week, but head coach Klint Kubiak said they expect Washington to play this weekend. The rookie back saw a season-high 35 percent snap share during last week's game against the Buffalo Bills. Washington carried the ball nine times for 43 yards in the loss. Ashton Jeanty remains the top back in Las Vegas, but it seems like Washington is going to have a decent role when he's healthy. The 23-year-old is worth stashing in deep leagues at the minimum right now.",
+        "title": "Mike Washington Jr. has Stash Value After Getting More Involved",
+        "topic_id": "1419897279212498944",
+        "url": "https://www.rotoballer.com/player-news/mike-washington-jr-has-stash-value-after-getting-more-involved/1975082"
+      },
+      "nfl_team": "LV",
+      "player_id": "13305",
+      "player_name": "Mike Washington Jr.",
+      "position": "RB",
+      "published": 1792877772000,
+      "source": "rotoballer",
+      "source_key": "225415",
+      "story_id": "nfl|13305|rotoballer|225415|1792877772000",
+      "title": "Mike Washington Jr. has Stash Value After Getting More Involved",
+      "url": "https://www.rotoballer.com/player-news/mike-washington-jr-has-stash-value-after-getting-more-involved/1975082"
     },
     {
       "analysis": "Jackson last played on Oct. 4 against the Tennessee Titans, throwing for two scores and 222 yards in one half. The Ravens are 1-1 in that stretch, with Tyler Huntley starting under center. A key divisional matchup awaits in a competitive AFC North, and Jackson could return in Week 8 against the Buffalo Bills.",
@@ -130961,455 +131212,6 @@
       "story_id": "nfl|11566|rotoballer|222131|1790327604000",
       "title": "Surgery Not an Option for Jayden Daniels, Quick Return Possible?",
       "url": "https://www.rotoballer.com/player-news/surgery-not-an-option-for-jayden-daniels-quick-return-possible/1950011"
-    },
-    {
-      "analysis": "The inefficiency reflected in Lloyd's final line underscores the type of season it's been so far for the second-year back, who's tried in vain to serve as a serviceable replacement for Josh Jacobs (personal) while he remains on the Commissioner's Exempt List. Lloyd's rushing opportunities were limited Thursday largely due to game script, but the 2024 third-round pick is averaging just 3.0 yards per carry through three games and has complemented it with an unremarkable 4-13-0 line through the air. Lloyd, Chris Brooks and Kaleb Johnson will continue to share the Packers' backfield workload in a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
-      "description": "Lloyd rushed four times for 11 yards and brought in two of three targets for seven yards in the Packers' 35-14 loss to the Falcons on Thursday.",
-      "metadata": {
-        "analysis": "The inefficiency reflected in Lloyd's final line underscores the type of season it's been so far for the second-year back, who's tried in vain to serve as a serviceable replacement for Josh Jacobs (personal) while he remains on the Commissioner's Exempt List. Lloyd's rushing opportunities were limited Thursday largely due to game script, but the 2024 third-round pick is averaging just 3.0 yards per carry through three games and has complemented it with an unremarkable 4-13-0 line through the air. Lloyd, Chris Brooks and Kaleb Johnson will continue to share the Packers' backfield workload in a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
-        "description": "Lloyd rushed four times for 11 yards and brought in two of three targets for seven yards in the Packers' 35-14 loss to the Falcons on Thursday.",
-        "title": "MarShawn Lloyd - Limited to 18 total yards in loss",
-        "topic_id": "1409074874634256384"
-      },
-      "nfl_team": "GB",
-      "player_id": "11581",
-      "player_name": "MarShawn Lloyd",
-      "position": "RB",
-      "published": 1790311962000,
-      "source": "rotowire",
-      "source_key": "639108",
-      "story_id": "nfl|11581|rotowire|639108|1790311962000",
-      "title": "MarShawn Lloyd - Limited to 18 total yards in loss",
-      "url": null
-    },
-    {
-      "analysis": "Pitts' slow start persisted Thursday despite Michael Penix making his season debut and taking the reins of the offense from the ineffective duo of Cooper Rush and Jack Strand. Pitts has managed just two receptions for 20 yards on six targets through three games, but given how sharp Penix looked right out of the gate Thursday, the duo is bound to start clicking in coming games as they've done previously.",
-      "description": "Pitts secured one of two targets for five yards in the Falcons' 35-14 win over the Packers on Thursday.",
-      "metadata": {
-        "analysis": "Pitts' slow start persisted Thursday despite Michael Penix making his season debut and taking the reins of the offense from the ineffective duo of Cooper Rush and Jack Strand. Pitts has managed just two receptions for 20 yards on six targets through three games, but given how sharp Penix looked right out of the gate Thursday, the duo is bound to start clicking in coming games as they've done previously.",
-        "description": "Pitts secured one of two targets for five yards in the Falcons' 35-14 win over the Packers on Thursday.",
-        "title": "Kyle Pitts - Limited to one catch in win",
-        "topic_id": "1409073616137535488"
-      },
-      "nfl_team": "ATL",
-      "player_id": "7553",
-      "player_name": "Kyle Pitts",
-      "position": "TE",
-      "published": 1790311573000,
-      "source": "rotowire",
-      "source_key": "639107",
-      "story_id": "nfl|7553|rotowire|639107|1790311573000",
-      "title": "Kyle Pitts - Limited to one catch in win",
-      "url": null
-    },
-    {
-      "analysis": "Kraft finished third in targets and catches on the night for the Packers, but in uncharacteristic fashion, the field-stretching tight end was limited to a short-area role. He made an impressively rapid recovery from last year's torn ACL, which he suffered Week 9 of the 2025 campaign, to open the season in his customary No. 1 tight end role. However, he's mustered a modest a 9-106-0 line on 17 targets through three games heading into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
-      "description": "Kraft secured four of eight targets for 26 yards in the Packers' 35-14 loss to the Falcons on Thursday. He also recovered a fumble.",
-      "metadata": {
-        "analysis": "Kraft finished third in targets and catches on the night for the Packers, but in uncharacteristic fashion, the field-stretching tight end was limited to a short-area role. He made an impressively rapid recovery from last year's torn ACL, which he suffered Week 9 of the 2025 campaign, to open the season in his customary No. 1 tight end role. However, he's mustered a modest a 9-106-0 line on 17 targets through three games heading into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
-        "description": "Kraft secured four of eight targets for 26 yards in the Packers' 35-14 loss to the Falcons on Thursday. He also recovered a fumble.",
-        "title": "Tucker Kraft - Modest production with four catches",
-        "topic_id": "1409072358525796352"
-      },
-      "nfl_team": "GB",
-      "player_id": "9484",
-      "player_name": "Tucker Kraft",
-      "position": "TE",
-      "published": 1790311372000,
-      "source": "rotowire",
-      "source_key": "639106",
-      "story_id": "nfl|9484|rotowire|639106|1790311372000",
-      "title": "Tucker Kraft - Modest production with four catches",
-      "url": null
-    },
-    {
-      "analysis": "The kicker's 47-yard attempt in the second quarter was blocked. It was Smack's first miss on a field-goal try this season, and it probably wasn't his fault. The rookie has, however, missed an extra point as well.",
-      "description": "Smack went 0-for-1 on field-goal tries and 2-for-2 on extra-point attempts in Thursday's 35-14 loss to the Falcons.",
-      "metadata": {
-        "analysis": "The kicker's 47-yard attempt in the second quarter was blocked. It was Smack's first miss on a field-goal try this season, and it probably wasn't his fault. The rookie has, however, missed an extra point as well.",
-        "description": "Smack went 0-for-1 on field-goal tries and 2-for-2 on extra-point attempts in Thursday's 35-14 loss to the Falcons.",
-        "title": "Trey Smack - Has kick blocked",
-        "topic_id": "1409072358513213440"
-      },
-      "nfl_team": "GB",
-      "player_id": "13545",
-      "player_name": "Trey Smack",
-      "position": "K",
-      "published": 1790311238000,
-      "source": "rotowire",
-      "source_key": "639105",
-      "story_id": "nfl|13545|rotowire|639105|1790311238000",
-      "title": "Trey Smack - Has kick blocked",
-      "url": null
-    },
-    {
-      "analysis": "The kicker did his job during the blowout win, with his longest field goal connecting from 44 yards out. Folk missed three field goals across Atlanta's first two games, both losses, but he bounced back Thursday night. If the Falcons can keep scoring, he is a viable fantasy option.",
-      "description": "Folk hit both field-goal attempts and all three extra-point tries in Thursday's 35-14 win over the Packers.",
-      "metadata": {
-        "analysis": "The kicker did his job during the blowout win, with his longest field goal connecting from 44 yards out. Folk missed three field goals across Atlanta's first two games, both losses, but he bounced back Thursday night. If the Falcons can keep scoring, he is a viable fantasy option.",
-        "description": "Folk hit both field-goal attempts and all three extra-point tries in Thursday's 35-14 win over the Packers.",
-        "title": "Nick Folk - Makes all five kicks Thursday",
-        "topic_id": "1409069842409029632"
-      },
-      "nfl_team": "ATL",
-      "player_id": "650",
-      "player_name": "Nick Folk",
-      "position": "K",
-      "published": 1790310836000,
-      "source": "rotowire",
-      "source_key": "639104",
-      "story_id": "nfl|650|rotowire|639104|1790310836000",
-      "title": "Nick Folk - Makes all five kicks Thursday",
-      "url": null
-    },
-    {
-      "analysis": "Robinson's backfield mate Bijan Robinson and No. 1 receiver Drake London stole the show Thursday while accruing 194 yards apiece, but Brian had his own moment in the spotlight when he capped off a 10-play, 92-yard drive in the third quarter with a seven-yard touchdown run. Brian Robinson now has back-to-back games with double-digit carries and has at least 50 rushing yards in each, keeping him somewhat relevant in very deep formats heading into a Week 4 road matchup against the Saints on Monday, Oct. 5.",
-      "description": "Robinson rushed 10 times for 50 yards and a touchdown and returned two kickoffs for 54 yards in the Falcons' 35-14 win over the Packers on Thursday.",
-      "metadata": {
-        "analysis": "Robinson's backfield mate Bijan Robinson and No. 1 receiver Drake London stole the show Thursday while accruing 194 yards apiece, but Brian had his own moment in the spotlight when he capped off a 10-play, 92-yard drive in the third quarter with a seven-yard touchdown run. Brian Robinson now has back-to-back games with double-digit carries and has at least 50 rushing yards in each, keeping him somewhat relevant in very deep formats heading into a Week 4 road matchup against the Saints on Monday, Oct. 5.",
-        "description": "Robinson rushed 10 times for 50 yards and a touchdown and returned two kickoffs for 54 yards in the Falcons' 35-14 win over the Packers on Thursday.",
-        "title": "Brian Robinson - Gets into end zone in win",
-        "topic_id": "1409069842354503680"
-      },
-      "nfl_team": "ATL",
-      "player_id": "8154",
-      "player_name": "Brian Robinson",
-      "position": "RB",
-      "published": 1790310778000,
-      "source": "rotowire",
-      "source_key": "639103",
-      "story_id": "nfl|8154|rotowire|639103|1790310778000",
-      "title": "Brian Robinson - Gets into end zone in win",
-      "url": null
-    },
-    {
-      "analysis": "Playing in his first game since Week 11 of last season, Penix started off sluggishly Thursday before finding a rhythm and putting together a near-flawless performance. Penix threw his one interception four plays into the night on a pass intended for Jahan Dotson, but he went on to record only five more incompletions the rest of the way while connecting with Austin Hooper for a five-yard touchdown pass just before halftime. Penix's chemistry with Drake London also was in fine form over the last three quarters, and he hit his No. 1 target for gains of 68 and 40 yards in the fourth quarter to help close out the upset victory. Penix should only get more comfortable the further removed he is from the third ACL surgery of his playing career, and he'll look to carry over the considerable momentum from his season debut into a Week 4 road divisional showdown against the Saints on Monday, Oct. 5.",
-      "description": "Penix completed 18 of 25 passes for 256 yards with one touchdown and one interception while rushing twice for minus-2 yards in the Falcons' 35-14 win over the Packers on Thursday. He also threw a two-point conversion pass.",
-      "metadata": {
-        "analysis": "Playing in his first game since Week 11 of last season, Penix started off sluggishly Thursday before finding a rhythm and putting together a near-flawless performance. Penix threw his one interception four plays into the night on a pass intended for Jahan Dotson, but he went on to record only five more incompletions the rest of the way while connecting with Austin Hooper for a five-yard touchdown pass just before halftime. Penix's chemistry with Drake London also was in fine form over the last three quarters, and he hit his No. 1 target for gains of 68 and 40 yards in the fourth quarter to help close out the upset victory. Penix should only get more comfortable the further removed he is from the third ACL surgery of his playing career, and he'll look to carry over the considerable momentum from his season debut into a Week 4 road divisional showdown against the Saints on Monday, Oct. 5.",
-        "description": "Penix completed 18 of 25 passes for 256 yards with one touchdown and one interception while rushing twice for minus-2 yards in the Falcons' 35-14 win over the Packers on Thursday. He also threw a two-point conversion pass.",
-        "title": "Michael Penix - Stellar in season debut",
-        "topic_id": "1409068584109432832"
-      },
-      "nfl_team": "ATL",
-      "player_id": "11559",
-      "player_name": "Michael Penix",
-      "position": "QB",
-      "published": 1790310434000,
-      "source": "rotowire",
-      "source_key": "639102",
-      "story_id": "nfl|11559|rotowire|639102|1790310434000",
-      "title": "Michael Penix - Stellar in season debut",
-      "url": null
-    },
-    {
-      "analysis": "Kraft could have had a slightly bigger day had he held onto the football in what ended up being ruled a drop. The defensive back made a fantastic punch at the ball right as Kraft was corralling it into his chest, forcing a dropped pass. Kraft is still worth starting, and with that eight-target total, he has now beaten his season high in targets (previously six). The volume is there; the results just haven't quite followed yet.",
-      "description": "Tucker Kraft caught four of eight targets for 26 yards in the Packers' 35-14 loss to Atlanta on Thursday.",
-      "metadata": {
-        "analysis": "Kraft could have had a slightly bigger day had he held onto the football in what ended up being ruled a drop. The defensive back made a fantastic punch at the ball right as Kraft was corralling it into his chest, forcing a dropped pass. Kraft is still worth starting, and with that eight-target total, he has now beaten his season high in targets (previously six). The volume is there; the results just haven't quite followed yet.",
-        "description": "Tucker Kraft caught four of eight targets for 26 yards in the Packers' 35-14 loss to Atlanta on Thursday.",
-        "title": "Tucker Kraft snags four passes in loss to Atlanta",
-        "topic_id": "1409063554824302592",
-        "url": "https://www.fantasypros.com/nfl/news/610465/tucker-kraft-snags-four-passes-loss-to-atlanta.php"
-      },
-      "nfl_team": "GB",
-      "player_id": "9484",
-      "player_name": "Tucker Kraft",
-      "position": "TE",
-      "published": 1790309439914,
-      "source": "fantasy_pros",
-      "source_key": "610465",
-      "story_id": "nfl|9484|fantasy_pros|610465|1790309439914",
-      "title": "Tucker Kraft snags four passes in loss to Atlanta",
-      "url": "https://www.fantasypros.com/nfl/news/610465/tucker-kraft-snags-four-passes-loss-to-atlanta.php"
-    },
-    {
-      "analysis": "Love was a bit up and down in this game. He was struggling against the pressure Atlanta was bringing, missing several forced throws and causing tipped passes. The Green Bay offense has no run game, which has worked out decently well for the pass catchers, but until they get things going on the ground to make the defense respect the run, it will be hard for the receivers and Love to have a ceiling week in, week out.",
-      "description": "Jordan Love completed 28 of 53 passes for 312 yards with two touchdowns and a pick in the Packers' 35-14 loss to the Falcons. He also ran once for no gain.",
-      "metadata": {
-        "analysis": "Love was a bit up and down in this game. He was struggling against the pressure Atlanta was bringing, missing several forced throws and causing tipped passes. The Green Bay offense has no run game, which has worked out decently well for the pass catchers, but until they get things going on the ground to make the defense respect the run, it will be hard for the receivers and Love to have a ceiling week in, week out.",
-        "description": "Jordan Love completed 28 of 53 passes for 312 yards with two touchdowns and a pick in the Packers' 35-14 loss to the Falcons. He also ran once for no gain.",
-        "title": "Jordan Love passes for 312 yards in loss",
-        "topic_id": "1409063553549234176",
-        "url": "https://www.fantasypros.com/nfl/news/610462/jordan-love-passes-312-yards-loss.php"
-      },
-      "nfl_team": "GB",
-      "player_id": "6804",
-      "player_name": "Jordan Love",
-      "position": "QB",
-      "published": 1790309439606,
-      "source": "fantasy_pros",
-      "source_key": "610462",
-      "story_id": "nfl|6804|fantasy_pros|610462|1790309439606",
-      "title": "Jordan Love passes for 312 yards in loss",
-      "url": "https://www.fantasypros.com/nfl/news/610462/jordan-love-passes-312-yards-loss.php"
-    },
-    {
-      "analysis": "It might not have been in a win, but fantasy managers won't care. Watson has been a clear favorite target for Jordan Love, especially down in the red zone, with Tucker Kraft still working his way back to full health. He should be in your lineup whenever he is playing.",
-      "description": "Christian Watson caught 7 of 10 targets for 96 yards and a touchdown in the Packers' 35-14 loss to the Falcons on Thursday.",
-      "metadata": {
-        "analysis": "It might not have been in a win, but fantasy managers won't care. Watson has been a clear favorite target for Jordan Love, especially down in the red zone, with Tucker Kraft still working his way back to full health. He should be in your lineup whenever he is playing.",
-        "description": "Christian Watson caught 7 of 10 targets for 96 yards and a touchdown in the Packers' 35-14 loss to the Falcons on Thursday.",
-        "title": "Christian Watson extends touchdown streak to three games",
-        "topic_id": "1409063553503096832",
-        "url": "https://www.fantasypros.com/nfl/news/610463/christian-watson-extends-touchdown-streak-to-three-games.php"
-      },
-      "nfl_team": "GB",
-      "player_id": "8167",
-      "player_name": "Christian Watson",
-      "position": "WR",
-      "published": 1790309439596,
-      "source": "fantasy_pros",
-      "source_key": "610463",
-      "story_id": "nfl|8167|fantasy_pros|610463|1790309439596",
-      "title": "Christian Watson extends touchdown streak to three games",
-      "url": "https://www.fantasypros.com/nfl/news/610463/christian-watson-extends-touchdown-streak-to-three-games.php"
-    },
-    {
-      "analysis": "Golden had several passes intended for him tipped by defensive backs after being undethrown, and another target where the DB committed a pass interference penalty. So, the five catches on 12 targets may not seem great; there is still context to be had. He is startable each week for the Packers.",
-      "description": "Matthew Golden caught 5 of 12 targets for 100 yards and a touchdown in the Packers'  35-14 loss to the Falcons on Thursday.",
-      "metadata": {
-        "analysis": "Golden had several passes intended for him tipped by defensive backs after being undethrown, and another target where the DB committed a pass interference penalty. So, the five catches on 12 targets may not seem great; there is still context to be had. He is startable each week for the Packers.",
-        "description": "Matthew Golden caught 5 of 12 targets for 100 yards and a touchdown in the Packers'  35-14 loss to the Falcons on Thursday.",
-        "title": "Matthew Golden snags touchdown in loss to Falcons",
-        "topic_id": "1409063553444376576",
-        "url": "https://www.fantasypros.com/nfl/news/610464/matthew-golden-snags-touchdown-loss-to-falcons.php"
-      },
-      "nfl_team": "GB",
-      "player_id": "12501",
-      "player_name": "Matthew Golden",
-      "position": "WR",
-      "published": 1790309439584,
-      "source": "fantasy_pros",
-      "source_key": "610464",
-      "story_id": "nfl|12501|fantasy_pros|610464|1790309439584",
-      "title": "Matthew Golden snags touchdown in loss to Falcons",
-      "url": "https://www.fantasypros.com/nfl/news/610464/matthew-golden-snags-touchdown-loss-to-falcons.php"
-    },
-    {
-      "analysis": "While Love's final line was certainly a fantasy-friendly one, it was largely the byproduct of Green Bay being playing catch-up in the fourth quarter and the Falcons showing a willingness to give up some yardage while in prevent mode. Love spread the ball around to nine different targets on the night, and he connected with Christian Watson (four yards) and Matthew Golden (15 yards ) -- who were his two most prolific options by far -- for his pair of touchdown passes. Love's one interception closed out the Packers' final drive with the game already out of reach, but the embattled veteran signal-caller does head into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4 averaging 281.3 passing yards per game while sporting a 6:2 TD:INT.",
-      "description": "Love completed 28 of 53 passes for 312 yards with two touchdowns and one interception and rushed once for no gain in the Packers' 35-14 loss to the Falcons on Thursday. He also committed a fumble recovered by Green Bay.",
-      "metadata": {
-        "analysis": "While Love's final line was certainly a fantasy-friendly one, it was largely the byproduct of Green Bay being playing catch-up in the fourth quarter and the Falcons showing a willingness to give up some yardage while in prevent mode. Love spread the ball around to nine different targets on the night, and he connected with Christian Watson (four yards) and Matthew Golden (15 yards ) -- who were his two most prolific options by far -- for his pair of touchdown passes. Love's one interception closed out the Packers' final drive with the game already out of reach, but the embattled veteran signal-caller does head into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4 averaging 281.3 passing yards per game while sporting a 6:2 TD:INT.",
-        "description": "Love completed 28 of 53 passes for 312 yards with two touchdowns and one interception and rushed once for no gain in the Packers' 35-14 loss to the Falcons on Thursday. He also committed a fumble recovered by Green Bay.",
-        "title": "Jordan Love - Fantasy-friendly numbers in loss",
-        "topic_id": "1409062291177005056"
-      },
-      "nfl_team": "GB",
-      "player_id": "6804",
-      "player_name": "Jordan Love",
-      "position": "QB",
-      "published": 1790308935000,
-      "source": "rotowire",
-      "source_key": "639101",
-      "story_id": "nfl|6804|rotowire|639101|1790308935000",
-      "title": "Jordan Love - Fantasy-friendly numbers in loss",
-      "url": null
-    },
-    {
-      "analysis": "Robinson played second fiddle to Bijan Robinson, but he still got enough touches and some goal-line work that he was usable for those who started him. He's been splitting work with Bijan to keep the younger back rested, and he won't have outings like this all the time, but he's certainly a handcuff worth rostering.",
-      "description": "Brian Robinson Jr. ran 10 times for 50 yards and a touchdown in the Falcons' 35-14 win over the Packers on Thursday.",
-      "metadata": {
-        "analysis": "Robinson played second fiddle to Bijan Robinson, but he still got enough touches and some goal-line work that he was usable for those who started him. He's been splitting work with Bijan to keep the younger back rested, and he won't have outings like this all the time, but he's certainly a handcuff worth rostering.",
-        "description": "Brian Robinson Jr. ran 10 times for 50 yards and a touchdown in the Falcons' 35-14 win over the Packers on Thursday.",
-        "title": "Brian Robinson Jr. runs in touchdown in big win",
-        "topic_id": "1409061036329283584",
-        "url": "https://www.fantasypros.com/nfl/news/610458/brian-robinson-jr-runs-touchdown-big-win.php"
-      },
-      "nfl_team": "ATL",
-      "player_id": "8154",
-      "player_name": "Brian Robinson",
-      "position": "RB",
-      "published": 1790308839455,
-      "source": "fantasy_pros",
-      "source_key": "610458",
-      "story_id": "nfl|8154|fantasy_pros|610458|1790308839455",
-      "title": "Brian Robinson Jr. runs in touchdown in big win",
-      "url": "https://www.fantasypros.com/nfl/news/610458/brian-robinson-jr-runs-touchdown-big-win.php"
-    },
-    {
-      "analysis": "Golden set the pace for the Packers in both receiving yards and targets with totals that also qualified as or tied new single-game career highs. The second-year wideout has hit the ground running this season, quickly generating a 15-253-1 line on 30 targets while showing clearly improved chemistry with Jordan Love. The speedster also added his first touchdown catch of the campaign on an impressive 15-yard grab in the fourth quarter where Golden had to reach behind him to reel in the ball, and he'll remain a coveted option in all fantasy formats in a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
-      "description": "Golden brought in five of 12 targets for 100 yards and a touchdown in the Packers' 35-14 loss to the Falcons on Thursday.",
-      "metadata": {
-        "analysis": "Golden set the pace for the Packers in both receiving yards and targets with totals that also qualified as or tied new single-game career highs. The second-year wideout has hit the ground running this season, quickly generating a 15-253-1 line on 30 targets while showing clearly improved chemistry with Jordan Love. The speedster also added his first touchdown catch of the campaign on an impressive 15-yard grab in the fourth quarter where Golden had to reach behind him to reel in the ball, and he'll remain a coveted option in all fantasy formats in a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
-        "description": "Golden brought in five of 12 targets for 100 yards and a touchdown in the Packers' 35-14 loss to the Falcons on Thursday.",
-        "title": "Matthew Golden - Hits century mark in loss",
-        "topic_id": "1409059774544330752"
-      },
-      "nfl_team": "GB",
-      "player_id": "12501",
-      "player_name": "Matthew Golden",
-      "position": "WR",
-      "published": 1790308298000,
-      "source": "rotowire",
-      "source_key": "639100",
-      "story_id": "nfl|12501|rotowire|639100|1790308298000",
-      "title": "Matthew Golden - Hits century mark in loss",
-      "url": null
-    },
-    {
-      "analysis": "Pitts took a backseat to Drake London and Bijan Robinson in this game, with Michael Penix heavily favoring London in terms of target share. Pitts was productive last year both with London on and off the field, but Penix has been so fixated on London in his starts that it's tough to trust Pitts. He is a bit of a shaky fantasy start until his workload improves.",
-      "description": "Kyle Pitts Sr. caught just one of two targets for five yards in the Falcons' 35-14 win over the Packers on Thursday.",
-      "metadata": {
-        "analysis": "Pitts took a backseat to Drake London and Bijan Robinson in this game, with Michael Penix heavily favoring London in terms of target share. Pitts was productive last year both with London on and off the field, but Penix has been so fixated on London in his starts that it's tough to trust Pitts. He is a bit of a shaky fantasy start until his workload improves.",
-        "description": "Kyle Pitts Sr. caught just one of two targets for five yards in the Falcons' 35-14 win over the Packers on Thursday.",
-        "title": "Kyle Pitts Sr. snags single pass in win",
-        "topic_id": "1409058521248448512",
-        "url": "https://www.fantasypros.com/nfl/news/610457/kyle-pitts-sr-snags-single-pass-win.php"
-      },
-      "nfl_team": "ATL",
-      "player_id": "7553",
-      "player_name": "Kyle Pitts",
-      "position": "TE",
-      "published": 1790308239812,
-      "source": "fantasy_pros",
-      "source_key": "610457",
-      "story_id": "nfl|7553|fantasy_pros|610457|1790308239812",
-      "title": "Kyle Pitts Sr. snags single pass in win",
-      "url": "https://www.fantasypros.com/nfl/news/610457/kyle-pitts-sr-snags-single-pass-win.php"
-    },
-    {
-      "analysis": "Penix might not have had the biggest fantasy day, but the Falcons' offense sure felt his return. They hadn't made a trip to the red zone in the previous two games, and they did just that on their second drive of the game. The 35 points more than doubled the Falcons' total offensive output in 2026, and things are now looking up. ",
-      "description": "Michael Penix Jr. completed 18 of 25 passes for 256 yards, a touchdown, and a pick in the Falcons' 35-14 win over the Packers on Thursday. He also lost two yards on two carries.",
-      "metadata": {
-        "analysis": "Penix might not have had the biggest fantasy day, but the Falcons' offense sure felt his return. They hadn't made a trip to the red zone in the previous two games, and they did just that on their second drive of the game. The 35 points more than doubled the Falcons' total offensive output in 2026, and things are now looking up. ",
-        "description": "Michael Penix Jr. completed 18 of 25 passes for 256 yards, a touchdown, and a pick in the Falcons' 35-14 win over the Packers on Thursday. He also lost two yards on two carries.",
-        "title": "Michael Penix Jr. commands offense in win over Packers",
-        "topic_id": "1409058520296341504",
-        "url": "https://www.fantasypros.com/nfl/news/610455/michael-penix-jr-commands-offense-win-over-packers.php"
-      },
-      "nfl_team": "ATL",
-      "player_id": "11559",
-      "player_name": "Michael Penix",
-      "position": "QB",
-      "published": 1790308239586,
-      "source": "fantasy_pros",
-      "source_key": "610455",
-      "story_id": "nfl|11559|fantasy_pros|610455|1790308239586",
-      "title": "Michael Penix Jr. commands offense in win over Packers",
-      "url": "https://www.fantasypros.com/nfl/news/610455/michael-penix-jr-commands-offense-win-over-packers.php"
-    },
-    {
-      "analysis": "London was fantastic in this game, spurred on by the return of Michael Penix. When Penix has been at the helm of the offense, London has been among the best fantasy producers in the game, and it showed once again on Thursday. He should be a locked in starter whenever Penix is playing.",
-      "description": "Drake London caught 9 of 10 targets for 194 yards in the Falcons' 35-14 win over the Packers on Thursday.",
-      "metadata": {
-        "analysis": "London was fantastic in this game, spurred on by the return of Michael Penix. When Penix has been at the helm of the offense, London has been among the best fantasy producers in the game, and it showed once again on Thursday. He should be a locked in starter whenever Penix is playing.",
-        "description": "Drake London caught 9 of 10 targets for 194 yards in the Falcons' 35-14 win over the Packers on Thursday.",
-        "title": "Drake London goes for 194 yards in win over Green Bay",
-        "topic_id": "1409058520241815552",
-        "url": "https://www.fantasypros.com/nfl/news/610456/drake-london-goes-194-yards-win-over-green-bay.php"
-      },
-      "nfl_team": "ATL",
-      "player_id": "8112",
-      "player_name": "Drake London",
-      "position": "WR",
-      "published": 1790308239575,
-      "source": "fantasy_pros",
-      "source_key": "610456",
-      "story_id": "nfl|8112|fantasy_pros|610456|1790308239575",
-      "title": "Drake London goes for 194 yards in win over Green Bay",
-      "url": "https://www.fantasypros.com/nfl/news/610456/drake-london-goes-194-yards-win-over-green-bay.php"
-    },
-    {
-      "analysis": "Watson led the Packers in receptions while finishing as the runner-up in receiving yards and targets to Matthew Golden. Watson recorded a 34-yard grab among his six catches, and he opened the scoring on the night with a four-yard touchdown reception just before the five-minute mark of the first quarter. Watson has at least four receptions, along with 284 total receiving yards and four touchdowns, across his first three games, keeping his fantasy appeal high heading into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
-      "description": "Watson brought in seven of 10 targets for 96 yards and a touchdown in the Packers' 35-14 loss to the Falcons on Thursday.",
-      "metadata": {
-        "analysis": "Watson led the Packers in receptions while finishing as the runner-up in receiving yards and targets to Matthew Golden. Watson recorded a 34-yard grab among his six catches, and he opened the scoring on the night with a four-yard touchdown reception just before the five-minute mark of the first quarter. Watson has at least four receptions, along with 284 total receiving yards and four touchdowns, across his first three games, keeping his fantasy appeal high heading into a Week 4 road matchup against the Buccaneers on Sunday, Oct. 4.",
-        "description": "Watson brought in seven of 10 targets for 96 yards and a touchdown in the Packers' 35-14 loss to the Falcons on Thursday.",
-        "title": "Christian Watson - Team-high catch tally in loss",
-        "topic_id": "1409057257898921984"
-      },
-      "nfl_team": "GB",
-      "player_id": "8167",
-      "player_name": "Christian Watson",
-      "position": "WR",
-      "published": 1790307870000,
-      "source": "rotowire",
-      "source_key": "639099",
-      "story_id": "nfl|8167|rotowire|639099|1790307870000",
-      "title": "Christian Watson - Team-high catch tally in loss",
-      "url": null
-    },
-    {
-      "analysis": "Robinson had his way with the Packers' defense, rushing for 6.7 yards per carry. He ripped off a huge 55-yard gain early on in the game, which opened the floodgates for many more big runs throughout the game. The Packers simply could not stop him, and once the ground game got going, QB Michael Penix and WR Drake London were able to carve up the Packers' secondary. With Penix back, the offense has new life, and Bijan stands to benefit greatly from it, even if Brian Robinson Jr. spells him.",
-      "description": "Bijan Robinson ran 29 times for 194 yards and two touchdowns and caught both of his targets for 19 yards in the Falcons' 35-14 win over the Packers on Thursday.",
-      "metadata": {
-        "analysis": "Robinson had his way with the Packers' defense, rushing for 6.7 yards per carry. He ripped off a huge 55-yard gain early on in the game, which opened the floodgates for many more big runs throughout the game. The Packers simply could not stop him, and once the ground game got going, QB Michael Penix and WR Drake London were able to carve up the Packers' secondary. With Penix back, the offense has new life, and Bijan stands to benefit greatly from it, even if Brian Robinson Jr. spells him.",
-        "description": "Bijan Robinson ran 29 times for 194 yards and two touchdowns and caught both of his targets for 19 yards in the Falcons' 35-14 win over the Packers on Thursday.",
-        "title": "Bijan Robinson explodes in Week 3 win over Packers",
-        "topic_id": "1409056002518605824",
-        "url": "https://www.fantasypros.com/nfl/news/610454/bijan-robinson-explodes-week-3-win-over-packers.php"
-      },
-      "nfl_team": "ATL",
-      "player_id": "9509",
-      "player_name": "Bijan Robinson",
-      "position": "RB",
-      "published": 1790307639302,
-      "source": "fantasy_pros",
-      "source_key": "610454",
-      "story_id": "nfl|9509|fantasy_pros|610454|1790307639302",
-      "title": "Bijan Robinson explodes in Week 3 win over Packers",
-      "url": "https://www.fantasypros.com/nfl/news/610454/bijan-robinson-explodes-week-3-win-over-packers.php"
-    },
-    {
-      "analysis": "London and Michael Penix got their first 2026 game together off to a very quiet start, but once the duo began clicking, they helped fuel the surprising road rout. Two of London's fourth-quarter catches accounted for 108 of his yards, the first a 68-yarder early in the period on which he appeared he could have scored but was caught from behind at the Packers' 16-yard line. London then struck again with just over five minutes remaining, recording a 40-yard grab where he ran away from a fallen defender to Green Bay's 13-yard line to set up the final touchdown of the night. The receiving yardage tally was a new career high for the 2022 first-round pick, while his nine receptions were his most since Week 9 of last season. London will take a 15-274-0 line into a Week 4 divisional road clash against the Saints on Monday, Oct. 5.",
-      "description": "London secured nine of 10 targets for 194 yards in the Falcons' 35-14 win over the Packers on Thursday.",
-      "metadata": {
-        "analysis": "London and Michael Penix got their first 2026 game together off to a very quiet start, but once the duo began clicking, they helped fuel the surprising road rout. Two of London's fourth-quarter catches accounted for 108 of his yards, the first a 68-yarder early in the period on which he appeared he could have scored but was caught from behind at the Packers' 16-yard line. London then struck again with just over five minutes remaining, recording a 40-yard grab where he ran away from a fallen defender to Green Bay's 13-yard line to set up the final touchdown of the night. The receiving yardage tally was a new career high for the 2022 first-round pick, while his nine receptions were his most since Week 9 of last season. London will take a 15-274-0 line into a Week 4 divisional road clash against the Saints on Monday, Oct. 5.",
-        "description": "London secured nine of 10 targets for 194 yards in the Falcons' 35-14 win over the Packers on Thursday.",
-        "title": "Drake London - Career-high receiving yards in win",
-        "topic_id": "1409056003458080768"
-      },
-      "nfl_team": "ATL",
-      "player_id": "8112",
-      "player_name": "Drake London",
-      "position": "WR",
-      "published": 1790307479000,
-      "source": "rotowire",
-      "source_key": "639096",
-      "story_id": "nfl|8112|rotowire|639096|1790307479000",
-      "title": "Drake London - Career-high receiving yards in win",
-      "url": null
-    },
-    {
-      "analysis": "Robinson's night on the ground was every bit as dominating as his final line suggests, as the star running back repeatedly ripped off chunk gains against an overwhelmed Packers defense. He got the night off on the right foot by netting 21 yards on the Falcons' first two plays, and he struck for his game-long 55-yard run on Atlanta's third possession to set himself up for a three-yard touchdown rush two plays later. The 2023 first-round pick went on to add a three-yard touchdown run to close out the scoring with just over three and a half minutes remaining, and he came just a yard short of equaling the career-high 195 rushing yards he hung on the Rams in Week 17 of last season. Robinson already has 543 rushing yards and three total touchdowns through three games heading into a Week 4 road matchup against the Saints on Monday, Oct. 5.",
-      "description": "Robinson rushed 29 times for 194 yards and two touchdowns and brought in both targets for 19 yards in the Falcons' 35-14 win over the Packers on Thursday.",
-      "metadata": {
-        "analysis": "Robinson's night on the ground was every bit as dominating as his final line suggests, as the star running back repeatedly ripped off chunk gains against an overwhelmed Packers defense. He got the night off on the right foot by netting 21 yards on the Falcons' first two plays, and he struck for his game-long 55-yard run on Atlanta's third possession to set himself up for a three-yard touchdown rush two plays later. The 2023 first-round pick went on to add a three-yard touchdown run to close out the scoring with just over three and a half minutes remaining, and he came just a yard short of equaling the career-high 195 rushing yards he hung on the Rams in Week 17 of last season. Robinson already has 543 rushing yards and three total touchdowns through three games heading into a Week 4 road matchup against the Saints on Monday, Oct. 5.",
-        "description": "Robinson rushed 29 times for 194 yards and two touchdowns and brought in both targets for 19 yards in the Falcons' 35-14 win over the Packers on Thursday.",
-        "title": "Bijan Robinson - Dominates throughout blowout win",
-        "topic_id": "1409054740964237312"
-      },
-      "nfl_team": "ATL",
-      "player_id": "9509",
-      "player_name": "Bijan Robinson",
-      "position": "RB",
-      "published": 1790307011000,
-      "source": "rotowire",
-      "source_key": "639091",
-      "story_id": "nfl|9509|rotowire|639091|1790307011000",
-      "title": "Bijan Robinson - Dominates throughout blowout win",
-      "url": null
-    },
-    {
-      "analysis": "Wright is not only battling a foot injury, but he also sustained a stinger in Sunday's 35-13 loss to San Francisco. However, since he practiced in a limited capacity Wednesday and Thursday, the door remains open regarding his potential to play in Week 3 against Kansas City. While Wright hasn't held a prominent role, his absence would likely mean more work for Ollie Gordon behind De'Von Achane.",
-      "description": "Wright (foot) was a limited participant in Thursday's practice.",
-      "metadata": {
-        "analysis": "Wright is not only battling a foot injury, but he also sustained a stinger in Sunday's 35-13 loss to San Francisco. However, since he practiced in a limited capacity Wednesday and Thursday, the door remains open regarding his potential to play in Week 3 against Kansas City. While Wright hasn't held a prominent role, his absence would likely mean more work for Ollie Gordon behind De'Von Achane.",
-        "description": "Wright (foot) was a limited participant in Thursday's practice.",
-        "title": "Jaylen Wright - Limited again Thursday",
-        "topic_id": "1409031963435663360"
-      },
-      "nfl_team": "MIA",
-      "player_id": "11643",
-      "player_name": "Jaylen Wright",
-      "position": "RB",
-      "published": 1790301750000,
-      "source": "rotowire",
-      "source_key": "639061",
-      "story_id": "nfl|11643|rotowire|639061|1790301750000",
-      "title": "Jaylen Wright - Limited again Thursday",
-      "url": null
     }
   ]
 }

@@ -2,13 +2,37 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6479**
-- Newly captured: **1**
+- Stored stories: **6469**
+- Newly captured: **12**
 
 ## Latest news
 
+- **NEW — Mike Gesicki** — Mike Gesicki a TD Threat in Plus Matchup (2026-10-25T01:23:15Z)
+  - Source: https://www.rotoballer.com/player-news/mike-gesicki-a-td-threat-in-plus-matchup/1975144
+- **NEW — Pat Freiermuth** — Pat Freiermuth a Touchdown-Dependent Stream (2026-10-25T01:06:17Z)
+  - Source: https://www.rotoballer.com/player-news/pat-freiermuth-a-touchdown-dependent-stream/1975142
+- **NEW — Jaylin Noel** — Jaylin Noel a Startable Waiver-Wire Find (2026-10-25T00:37:12Z)
+  - Source: https://www.rotoballer.com/player-news/jaylin-noel-a-startable-waiver-wire-find/1975138
+- **NEW — Emmett Johnson** — Emmett Johnson a Fine Bench Stash (2026-10-25T00:17:16Z)
+  - Source: https://www.rotoballer.com/player-news/emmett-johnson-a-fine-bench-stash/1975136
+- **NEW — Malik Washington** — Malik Washington's Large Volume Driving Fantasy Production (2026-10-24T23:50:13Z)
+  - Source: https://www.rotoballer.com/player-news/malik-washingtons-large-volume-driving-fantasy-production/1975126
+- **NEW — Caleb Douglas** — Caleb Douglas Returns to Action with Large Anticipated Role (2026-10-24T23:23:16Z)
+  - Source: https://www.rotoballer.com/player-news/caleb-douglas-returns-to-action-with-large-anticipated-role/1975115
+- **NEW — T.J. Hockenson** — T.J. Hockenson a Viable Streamer After Clearing Concussion Protocol (2026-10-24T23:05:12Z)
+  - Source: https://www.rotoballer.com/player-news/t-j-hockenson-a-viable-streamer-after-clearing-concussion-protocol/1975112
+- **NEW — Kaelon Black** — Kaelon Black a Top Handcuff to Roster in Fantasy Football (2026-10-24T22:45:11Z)
+  - Source: https://www.rotoballer.com/player-news/kaelon-black-a-top-handcuff-to-roster-in-fantasy-football/1975103
+- **NEW — Tyler Allgeier** — Tyler Allgeier a Solid Streamer in Second Consecutive Start (2026-10-24T22:26:17Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-allgeier-a-solid-streamer-in-second-consecutive-start/1975097
 - **Eli Stowers** — Eli Stowers - Tagged as questionable to return Week 7 (2026-10-24T22:14:10Z)
   - After being drafted in the second round of April's NFL Draft, Stowers hurt his hamstring during preseason play and began the campaign on IR. The Eagles opened his 21-day practice window Oct. 14, and the rookie practiced in full all three days this week. Both Stowers and fellow tight end Grant Calcaterra (back) could be ready to return from IR ahead of Monday's matchup, but for that to happen, they'd need to be activated to the 53-man roster at some point this weekend.
+- **NEW — Colby Parkinson** — Colby Parkinson Could Offer Deep League Value in Week 7 (2026-10-24T21:52:12Z)
+  - Source: https://www.rotoballer.com/player-news/colby-parkinson-could-offer-deep-league-value-in-week-7/1975086
+- **NEW — Makai Lemon** — Makai Lemon is Streaming Option with Larger Role Looming (2026-10-24T21:43:13Z)
+  - Source: https://www.rotoballer.com/player-news/makai-lemon-is-streaming-option-with-larger-role-looming/1975084
+- **NEW — Mike Washington Jr.** — Mike Washington Jr. has Stash Value After Getting More Involved (2026-10-24T21:36:12Z)
+  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-has-stash-value-after-getting-more-involved/1975082
 - **Lamar Jackson** — Lamar Jackson (ankle) ruled out for Week 7 (2026-10-24T21:26:00.890000Z)
   - Jackson last played on Oct. 4 against the Tennessee Titans, throwing for two scores and 222 yards in one half. The Ravens are 1-1 in that stretch, with Tyler Huntley starting under center. A key divisional matchup awaits in a competitive AFC North, and Jackson could return in Week 8 against the Buffalo Bills.
   - Source: https://www.fantasypros.com/nfl/news/615650/lamar-jackson-ankle-ruled-out-week-7.php
@@ -21,7 +45,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Dontayvion Wicks** — Dontayvion Wicks (ankle) out for Week 7 (2026-10-24T21:26:00.852000Z)
   - Wicks did not practice this week, so this does not come as a surprise. However, multiple important players will miss Week 7, including Wicks and wide receiver DeVonta Smith. Quarterback Tanner McKee will rely on a patchwork offense in a divisional matchup. 
   - Source: https://www.fantasypros.com/nfl/news/615654/dontayvion-wicks-ankle-out-week-7.php
-- **NEW — Dameon Pierce** — Dameon Pierce is Worth Stashing Ahead of Week 7 (2026-10-24T21:16:16Z)
+- **Dameon Pierce** — Dameon Pierce is Worth Stashing Ahead of Week 7 (2026-10-24T21:16:16Z)
   - Source: https://www.rotoballer.com/player-news/dameon-pierce-is-worth-stashing-ahead-of-week-7/1975076
 - **Jonah Coleman** — Jonah Coleman - Activated from IR (2026-10-24T20:48:41Z)
   - Coleman is still questionable for Sunday's game against the Cardinals, but his activation off IR indicates that he is on track to appear in his first contest since Week 2 against the Jaguars. With Tyler Badie (thumb) on injured reserve, Coleman will slot into the RB3 spot behind J.K. Dobbins and RJ Harvey, and Coleman should also be in the mix for return duties on kickoffs.
@@ -188,27 +212,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/wandale-robinson-looking-to-bounce-back/1974711
 - **Carnell Tate** — Carnell Tate Gaining Steam Entering Week 7 (2026-10-24T11:33:15Z)
   - Source: https://www.rotoballer.com/player-news/carnell-tate-gaining-steam-entering-week-7/1974709
-- **Tyjae Spears** — Tyjae Spears Has Tall Hill to Climb (2026-10-24T11:32:19Z)
-  - Source: https://www.rotoballer.com/player-news/tyjae-spears-has-tall-hill-to-climb/1974707
-- **Tony Pollard** — Tony Pollard a Volume-Based RB Option in Week 7 (2026-10-24T11:30:16Z)
-  - Source: https://www.rotoballer.com/player-news/tony-pollard-a-reliable-option/1974704
-- **Courtland Sutton** — Courtland Sutton Remains a Week 7 Bench Option (2026-10-24T11:24:12Z)
-  - Source: https://www.rotoballer.com/player-news/courtland-sutton-remains-a-week-7-bench-option/1974695
-- **Bijan Robinson** — Bijan Robinson a High-End RB1 Again Despite Tough Matchup (2026-10-24T11:23:15Z)
-  - Source: https://www.rotoballer.com/player-news/bijan-robinson-a-high-end-rb1-again-despite-tough-matchup/1974693
-- **Jaylen Waddle** — Jaylen Waddle a Risky WR3/Flex as he Looks to Get Going (2026-10-24T11:21:12Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-waddle-cleared-for-week-7-after-chest-injury/1974689
-- **Emanuel Wilson** — Emanuel Wilson Remains in the Lead-Back Role for Another Week (2026-10-24T11:20:14Z)
-  - Source: https://www.rotoballer.com/player-news/emanuel-wilson-remains-in-the-lead-back-role-for-another-week/1974687
-- **Jonah Coleman** — Jonah Coleman Not a Realistic Starting RB in Potential Return (2026-10-24T11:18:14Z)
-  - Source: https://www.rotoballer.com/player-news/jonah-coleman-questionable-after-three-full-practices/1974684
-- **RJ Harvey** — RJ Harvey Offers PPR Flex Upside With an Uneven Receiving Role (2026-10-24T11:17:16Z)
-  - Source: https://www.rotoballer.com/player-news/rj-harvey-offers-ppr-flex-upside-with-an-uneven-receiving-role/1974682
-- **J.K. Dobbins** — J.K. Dobbins Leans on Volume and Touchdowns Entering Week 7 (2026-10-24T11:15:14Z)
-  - Source: https://www.rotoballer.com/player-news/j-k-dobbins-leans-on-volume-and-touchdowns-entering-week-7/1974679
-- **Bo Nix** — Bo Nix Enters Arizona Matchup With Limited Rushing Support (2026-10-24T11:14:12Z)
-  - Source: https://www.rotoballer.com/player-news/bo-nix-enters-arizona-matchup-with-limited-rushing-support/1974677
-- **Puka Nacua** — Puka Nacua a Must-Start WR1 if Active for Week 7 (2026-10-24T11:12:13Z)
-  - Source: https://www.rotoballer.com/player-news/puka-nacua-a-must-start-wr1-if-active-for-week-7/1974675
-- **Kenyon Sadiq** — Kenyon Sadiq's Recent Receiving Slump Leaves Him a Week 7 TE2 (2026-10-24T11:10:14Z)
-  - Source: https://www.rotoballer.com/player-news/kenyon-sadiqs-recent-receiving-slump-leaves-him-a-week-7-te2/1974670
