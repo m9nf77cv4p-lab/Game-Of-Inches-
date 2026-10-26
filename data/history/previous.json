@@ -18164,15 +18164,15 @@
         "roster_id": 1,
         "starters": [
           "11563",
-          "12474",
+          "5967",
           "6790",
           "9493",
           "8167",
           "8148",
-          "4993",
-          "5967",
+          "10236",
+          "8138",
           "9228",
-          "13545",
+          "11786",
           "PIT"
         ],
         "starters_points": [
@@ -24849,8 +24849,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-26T06:57:50Z",
-    "source_fingerprint": "783b9a74eceb8ca1c4a385c530dcf8c52e6f0624870290be07fb28dfff8d323c"
+    "last_changed_at": "2026-10-26T14:03:29Z",
+    "source_fingerprint": "e2972a46f814dcc0ac8573516305f0d7d64afd71da01ca561f4a30787da95999"
   },
   "teams": [
     {
