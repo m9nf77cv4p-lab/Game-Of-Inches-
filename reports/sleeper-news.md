@@ -2,273 +2,286 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6641**
-- Newly captured: **142**
+- Stored stories: **6579**
+- Newly captured: **30**
 
 ## Latest news
 
-- **NEW — Malik Nabers** — Malik Nabers totals 111 yards Sunday  (2026-10-26T06:55:14.785000Z)
+- **NEW — Saquon Barkley** — Saquon Barkley - 'Trending toward playing' Monday (2026-10-26T13:22:50Z)
+  - Though No. 1 wideout DeVonta Smith (hamstring) has been ruled out for the Week 7 contest, the Eagles are expected to get one of their other top playmakers in Barkley back in action following a two-game absence. Barkley participated in practice throughout the week, turning in limited sessions Thursday and Friday before upgrading to full activity Saturday. Assuming his hamstring checks out fine while warming up Monday, Barkley's availability should be confirmed when the Eagles release their inactive list 90 minutes prior to the 8:15 p.m. ET kickoff.
+- **NEW — Tucker Kraft** — Tucker Kraft finds end zone Sunday (2026-10-26T12:20:16.943000Z)
+  - Kraft had a solid game on Sunday. He was able to haul in four passes for 49 yards on the afternoon, one of which he was able to get into the end zone on as well. He should continue to be viewed as a weekly starter at the tight end position moving forward.
+  - Source: https://www.fantasypros.com/nfl/news/615969/tucker-kraft-finds-end-zone-sunday.php
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd quiet in loss Sunday (2026-10-26T12:20:16.933000Z)
+  - Lloyd was still somewhat involved on Sunday and saw eight opportunities, but he wasn't able to do much with them and was entirely outshined by Josh Jacobs in his first game back. There doesn't seem to be much optimism surrounding Lloyd's role or fantasy outlook for the foreseeable future with Jacobs now back in the lineup.
+  - Source: https://www.fantasypros.com/nfl/news/615970/marshawn-lloyd-quiet-loss-sunday.php
+- **NEW — Trey Smack** — Trey Smack misses two kicks in loss Sunday (2026-10-26T12:20:16.925000Z)
+  - The rookie ended up with two missed field-goal attempts on Sunday, which was especially consequential with Green Bay losing by just three points. One of those were blocked, however, which can't really be blamed on him. Still, this wasn't a good performance from him and he will likely be a shaky fantasy option at the position for the foreseeable future.
+  - Source: https://www.fantasypros.com/nfl/news/615972/trey-smack-misses-two-kicks-loss-sunday.php
+- **NEW — Josh Jacobs** — Josh Jacobs scores once in return game Sunday (2026-10-26T12:10:16.642000Z)
+  - Sunday was the first game back for Jacobs after he missed the start of the season while on the Commissioner's Exempt List. He wasn't effective on the ground in his first game back, but he made his hay through the air with five catches, 55 yards, and a touchdown on the day. He should be a viable RB2 over the course of the back half of the season as he continues to knock the rust off after so much time off.
+  - Source: https://www.fantasypros.com/nfl/news/615968/josh-jacobs-scores-once-return-game-sunday.php
+- **NEW — Jordan Love** — Jordan Love throws two touchdowns in loss Sunday (2026-10-26T12:00:16.907000Z)
+  - Love had an okay game on Sunday. He threw for close to 300 yards and two touchdowns over the course of the game, but he also threw two interceptions and didn't have a very high completion percentage on the day. He will continue to be a viable week-to-week streaming option moving forward.
+  - Source: https://www.fantasypros.com/nfl/news/615965/jordan-love-throws-two-touchdowns-loss-sunday.php
+- **NEW — Christian Watson** — Christian Watson leads team in receiving Sunday (2026-10-26T12:00:16.897000Z)
+  - Watson played a decent game on Sunday. He was able to lead the team with 57 receiving yards on the day, but he didn't get into the end zone at all and only caught five passes, which left him with a mediocre fantasy finish. He will continue to be a must-start option on a week-to-week basis for as long as he continues to be productive.
+  - Source: https://www.fantasypros.com/nfl/news/615966/christian-watson-leads-team-receiving-sunday.php
+- **NEW — Matthew Golden** — Matthew Golden underwhelming in loss Sunday (2026-10-26T12:00:16.887000Z)
+  - Golden was the most-targeted receiver for Green Bay on Sunday. He wasn't able to make the most out of those opportunities, however, catching just half of his targets and turning that into 39 scoreless yards against Detroit. This was a bit of a down game for him, but he should bounce back in the near future, especially if he continues to be targeted at this rate.
+  - Source: https://www.fantasypros.com/nfl/news/615967/matthew-golden-underwhelming-loss-sunday.php
+- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown leads team in receiving Sunday (2026-10-26T11:50:16.524000Z)
+  - The veteran wideout played very well on Sunday. He led the team with 153 receiving yards over the course of the afternoon, although he wasn't able to get into the end zone to put the cherry on top. Fantasy managers should continue to regard him as a top-tier option moving forward.
+  - Source: https://www.fantasypros.com/nfl/news/615959/amon-ra-st-brown-leads-team-receiving-sunday.php
+- **NEW — Jameson Williams** — Jameson Williams scores two touchdowns in win Sunday (2026-10-26T11:50:16.513000Z)
+  - The Lions gave Williams plenty of opportunities on Sunday, and he was able to capitalize on them. He caught two touchdowns and came close to hitting the 100 receiving yards mark, which left him with a terrific fantasy total. He should continue to be viewed as a high-ceiling fantasy option on a week-to-week basis moving forward, though his floor leaves something to be desired.
+  - Source: https://www.fantasypros.com/nfl/news/615960/jameson-williams-scores-two-touchdowns-win-sunday.php
+- **NEW — Sam LaPorta** — Sam LaPorta disappoints in win Sunday (2026-10-26T11:50:16.498000Z)
+  - LaPorta had a disappointing performance on Sunday. He was only able to catch one pass over the course of the entire game, and he was only able to rack up 18 scoreless yards on it, which left him with a poor fantasy total. He should bounce back in the near future, though he will remain prone to bad showings in the future.
+  - Source: https://www.fantasypros.com/nfl/news/615961/sam-laporta-disappoints-win-sunday.php
+- **NEW — Isaac TeSlaa** — Isaac TeSlaa quiet in win Sunday (2026-10-26T11:50:16.482000Z)
+  - TeSlaa wasn't able to get much going on Sunday. He was targeted just twice and ended with just one catch for ten yards in this win over the Packers. Fantasy managers shouldn't have high expectations for him for the foreseeable future.
+  - Source: https://www.fantasypros.com/nfl/news/615962/isaac-teslaa-quiet-win-sunday.php
+- **NEW — Jake Bates** — Jake Bates scores eight points in win Sunday (2026-10-26T11:50:16.471000Z)
+  - Bates did his job on Sunday, making all four of his attempted kicks in a win over the Packers. He should continue to be a good fantasy option at the kicker position moving forward, considering how effective Detroit is at moving the ball.
+  - Source: https://www.fantasypros.com/nfl/news/615963/jake-bates-scores-eight-points-win-sunday.php
+- **NEW — Jared Goff** — Jared Goff plays well in win Sunday (2026-10-26T11:20:16.628000Z)
+  - The veteran quarterback played pretty well on Sunday, racking up over 300 yards and scoring twice while leading the Lions to a win over their divisional rival. His lost fumble was less than ideal, but fantasy managers should still be well pleased with his performance in this game.
+  - Source: https://www.fantasypros.com/nfl/news/615958/jared-goff-plays-well-win-sunday.php
+- **NEW — Jahmyr Gibbs** — Jahmyr Gibbs racks up 143 yards in win Sunday (2026-10-26T11:10:16.539000Z)
+  - Gibbs looked good on Sunday. He was a bit more inefficient than usual and failed to get into the end zone at all, but he still racked up 143 total yards on the day and ended with a great fantasy total. He is the best running back in fantasy right now and should continue to produce like it moving forward.
+  - Source: https://www.fantasypros.com/nfl/news/615957/jahmyr-gibbs-racks-up-143-yards-win-sunday.php
+- **NEW — Jordyn Tyson** — Jordyn Tyson Is a Waiver Wire Target Ahead of Potential Return (2026-10-26T09:55:55Z)
+  - Source: https://www.rotoballer.com/player-news/jordyn-tyson-is-a-waiver-wire-target-ahead-of-potential-return/1976093
+- **NEW — Chris Godwin Jr.** — Chris Godwin Jr. Struggles Again, Droppable in Most Leagues (2026-10-26T09:43:12Z)
+  - Source: https://www.rotoballer.com/player-news/chris-godwin-jr-struggles-again-droppable-in-most-leagues/1976064
+- **NEW — Christian McCaffrey** — Christian McCaffrey Not Worried About "Thigh" Injury (2026-10-26T09:36:13Z)
+  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-not-worried-about-thigh-injury/1976059
+- **NEW — A.J. Brown** — Vrabel Not Concerned with A.J. Brown's Struggles (2026-10-26T09:27:12Z)
+  - Source: https://www.rotoballer.com/player-news/vrabel-not-concerned-with-a-j-browns-struggles/1976053
+- **NEW — Saquon Barkley** — Saquon Barkley Trending in Right Direction for Monday Night (2026-10-26T09:19:13Z)
+  - Source: https://www.rotoballer.com/player-news/saquon-barkley-trending-in-right-direction-ahead-of-week-7/1976047
+- **NEW — Fernando Mendoza** — Raiders Considering Naming Fernando Mendoza the Starter (2026-10-26T09:11:13Z)
+  - Source: https://www.rotoballer.com/player-news/raiders-considering-naming-fernando-mendoza-the-starter/1976043
+- **NEW — Dalton Schultz** — Dalton Schultz hauls in five passes Sunday  (2026-10-26T07:15:14.929000Z)
+  - Schultz was the safety blanket for C.J. Stroud on the day. He remains a borderline low-end TE1/high-end TE2 for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/615938/dalton-schultz-hauls-five-passes-sunday.php
+- **NEW — Ka'imi Fairbairn** — Ka'imi Fairbairn makes both field goals Sunday  (2026-10-26T07:15:14.913000Z)
+  - Fairbairn made field goals from 58 and 57 yards out. He remains a reliable kicker for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/615939/kaimi-fairbairn-makes-both-field-goals-sunday.php
+- **NEW — Marvin Harrison Jr.** — Marvin Harrison Jr. catches touchdown Sunday  (2026-10-26T07:10:15.115000Z)
+  - For fantasy managers desperate enough to start Harrison, fortunately his lone catch was in the end zone. He remains in the WR4/WR5 range. 
+  - Source: https://www.fantasypros.com/nfl/news/615934/marvin-harrison-jr-catches-touchdown-sunday.php
+- **NEW — Tank Dell** — Tank Dell hauls in big catch Sunday  (2026-10-26T07:10:15.104000Z)
+  - Dell was making his much anticipated return for the first time in two years. He remains off the fantasy radar for now. 
+  - Source: https://www.fantasypros.com/nfl/news/615935/tank-dell-hauls-big-catch-sunday.php
+- **NEW — Xavier Hutchinson** — Xavier Hutchinson hauls in touchdown Sunday  (2026-10-26T07:10:15.093000Z)
+  - Hutchinson hauled in one of the two touchdowns thrown by C.J. Stroud on the day. He remains off the fantasy radar. 
+  - Source: https://www.fantasypros.com/nfl/news/615936/xavier-hutchinson-hauls-touchdown-sunday.php
+- **NEW — Jaylin Noel** — Jaylin Noel dealing with turf toe  (2026-10-26T07:10:15.078000Z)
+  - Noel is likely to miss some time. He is off the fantasy radar. 
+  - Source: https://www.fantasypros.com/nfl/news/615937/jaylin-noel-dealing-with-turf-toe.php
+- **NEW — Woody Marks** — Woody Marks totals 20 touches Sunday  (2026-10-26T07:05:14.971000Z)
+  - Marks was the clear workhorse on Sunday. He was unable to break off any big plays or find the end zone. The Texans will hope to get David Montgomery back following their bye week. 
+  - Source: https://www.fantasypros.com/nfl/news/615932/woody-marks-totals-20-touches-sunday.php
+- **NEW — Nico Collins** — Nico Collins shut down Sunday  (2026-10-26T07:05:14.957000Z)
+  - Collins was completely held in check. He'll look to bounce back off the bye week. 
+  - Source: https://www.fantasypros.com/nfl/news/615933/nico-collins-shut-down-sunday.php
+- **NEW — C.J. Stroud** — C.J. Stroud tosses two touchdowns Sunday  (2026-10-26T07:00:15.061000Z)
+  - Stroud did not throw for many yards, but he also didn't commit any turnovers. The Texans are heading into their bye next week. 
+  - Source: https://www.fantasypros.com/nfl/news/615931/cj-stroud-tosses-two-touchdowns-sunday.php
+- **Malik Nabers** — Malik Nabers totals 111 yards Sunday  (2026-10-26T06:55:14.785000Z)
   - Despite the quarterback change, Nabers production remained just as dominant. He remains a WR1 moving forward. 
   - Source: https://www.fantasypros.com/nfl/news/615926/malik-nabers-totals-111-yards-sunday.php
-- **NEW — Malachi Fields** — Malachi Fields totals 83 yards Sunday  (2026-10-26T06:55:14.771000Z)
+- **Malachi Fields** — Malachi Fields totals 83 yards Sunday  (2026-10-26T06:55:14.771000Z)
   - Fields recorded a career-best in yardage in the first start with the Giants for J.J. McCarthy. He remains off the fantasy radar for now heading into the Giants bye week. 
   - Source: https://www.fantasypros.com/nfl/news/615927/malachi-fields-totals-83-yards-sunday.php
-- **NEW — Isaiah Likely** — Isaiah Likely quiet Sunday  (2026-10-26T06:55:14.761000Z)
+- **Isaiah Likely** — Isaiah Likely quiet Sunday  (2026-10-26T06:55:14.761000Z)
   - Likely was not involved much in the first career start for J.J. McCarthy. He still remains a TE1 heading into the Giants bye week. 
   - Source: https://www.fantasypros.com/nfl/news/615928/isaiah-likely-quiet-sunday.php
-- **NEW — J.J. McCarthy** — J.J. McCarthy impresses through air Sunday  (2026-10-26T06:50:15.454000Z)
+- **J.J. McCarthy** — J.J. McCarthy impresses through air Sunday  (2026-10-26T06:50:15.454000Z)
   - Making his first start for the Giants, McCarthy did not throw a touchdown or turn the ball over. He was able to find Malik Nabers early and often. He'll be a QB2 in superflex and 2-QB leagues moving forward. 
   - Source: https://www.fantasypros.com/nfl/news/615923/jj-mccarthy-impresses-through-air-sunday.php
-- **NEW — Cam Skattebo** — Cam Skattebo records strong performance Sunday  (2026-10-26T06:50:15.432000Z)
+- **Cam Skattebo** — Cam Skattebo records strong performance Sunday  (2026-10-26T06:50:15.432000Z)
   - Skattebo appeared to injure his hamstring late in the win. He impressed in his first game back since being benched last week. He'll need to be monitored in practice this upcoming week. 
   - Source: https://www.fantasypros.com/nfl/news/615924/cam-skattebo-records-strong-performance-sunday.php
-- **NEW — Will Reichard** — Will Reichard makes three field goals Sunday  (2026-10-26T06:45:14.643000Z)
+- **Will Reichard** — Will Reichard makes three field goals Sunday  (2026-10-26T06:45:14.643000Z)
   - Reichard connected on field goals from 28, 47 and 52 yards out. He missed from 59 yards on an attempt that was blocked. He remains a fairly safe kicker for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/615921/will-reichard-makes-three-field-goals-sunday.php
-- **NEW — Aaron Jones Sr.** — Aaron Jones Sr. suffers knee injury late Sunday  (2026-10-26T06:40:15.396000Z)
+- **Aaron Jones Sr.** — Aaron Jones Sr. suffers knee injury late Sunday  (2026-10-26T06:40:15.396000Z)
   - Jones left in the fourth quarter with a knee injury. He got the start, but Jordan Mason wound up being on the field more and seeing more opportunity. Jones will need to be monitored in practice this upcoming week. 
   - Source: https://www.fantasypros.com/nfl/news/615916/aaron-jones-sr-suffers-knee-injury-late-sunday.php
-- **NEW — Justin Jefferson** — Justin Jefferson quiet Sunday  (2026-10-26T06:40:15.383000Z)
+- **Justin Jefferson** — Justin Jefferson quiet Sunday  (2026-10-26T06:40:15.383000Z)
   - It was a quiet afternoon for the entire Vikings passing attack. Jefferson will remain a WR1 heading into next week against the Lions. 
   - Source: https://www.fantasypros.com/nfl/news/615917/justin-jefferson-quiet-sunday.php
-- **NEW — Jordan Addison** — Jordan Addison quiet Sunday  (2026-10-26T06:40:15.357000Z)
+- **Jordan Addison** — Jordan Addison quiet Sunday  (2026-10-26T06:40:15.357000Z)
   - It was a low volume day for the entire Vikings passing attack. Addison remains a volatile WR3/WR4 for fantasy managers.
   - Source: https://www.fantasypros.com/nfl/news/615919/jordan-addison-quiet-sunday.php
-- **NEW — T.J. Hockenson** — T.J. Hockenson catches touchdown Sunday  (2026-10-26T06:40:15.343000Z)
+- **T.J. Hockenson** — T.J. Hockenson catches touchdown Sunday  (2026-10-26T06:40:15.343000Z)
   - Hockenson hauled in a short touchdown from Kyler Murray. He'll be a low-end TE1 next week against the Lions. 
   - Source: https://www.fantasypros.com/nfl/news/615920/tj-hockenson-catches-touchdown-sunday.php
-- **NEW — Kyler Murray** — Kyler Murray does not turn ball over Sunday  (2026-10-26T06:35:14.704000Z)
+- **Kyler Murray** — Kyler Murray does not turn ball over Sunday  (2026-10-26T06:35:14.704000Z)
   - Murray also added 39 yards on the ground. He didn't have many big plays, but most importantly he avoided any turnovers. He will remain a QB2 next week against the Lions. 
   - Source: https://www.fantasypros.com/nfl/news/615914/kyler-murray-does-not-turn-ball-over-sunday.php
-- **NEW — Jordan Mason** — Jordan Mason leads Vikings backfield in return Sunday (2026-10-26T06:35:14.694000Z)
+- **Jordan Mason** — Jordan Mason leads Vikings backfield in return Sunday (2026-10-26T06:35:14.694000Z)
   - Mason did not start the game, but he was on the field more and saw more opportunity than Aaron Jones. He'll be an RB2 play next week against the Lions. 
   - Source: https://www.fantasypros.com/nfl/news/615915/jordan-mason-leads-vikings-backfield-return-sunday.php
-- **NEW — Josh Downs** — Josh Downs sees team-high four targets Sunday  (2026-10-26T06:30:15.019000Z)
+- **Josh Downs** — Josh Downs sees team-high four targets Sunday  (2026-10-26T06:30:15.019000Z)
   - Downs led the team in targets, while Keenan Allen led the team with just 31 receiving yards. Downs remains on the border of being a WR3/WR4 for fantasy managers.
   - Source: https://www.fantasypros.com/nfl/news/615910/josh-downs-sees-team-high-four-targets-sunday.php
-- **NEW — Spencer Shrader** — Spencer Shrader misses two field goals Sunday  (2026-10-26T06:30:14.992000Z)
+- **Spencer Shrader** — Spencer Shrader misses two field goals Sunday  (2026-10-26T06:30:14.992000Z)
   - Shrader missed field goals from 56 and 48 yards out. He has been more reliable on the season than he was this week. 
   - Source: https://www.fantasypros.com/nfl/news/615912/spencer-shrader-misses-two-field-goals-sunday.php
-- **NEW — Seth McGowan** — Seth McGowan sees 11 carries Sunday  (2026-10-26T06:25:14.491000Z)
+- **Seth McGowan** — Seth McGowan sees 11 carries Sunday  (2026-10-26T06:25:14.491000Z)
   - McGowan saw a season-high in carries, his first time reaching double-digit carries. He is an intriguing stash for fantasy managers with Jonathan Taylor continuing to have his name brought up in trade rumors. 
   - Source: https://www.fantasypros.com/nfl/news/615908/seth-mcgowan-sees-11-carries-sunday.php
-- **NEW — Keenan Allen** — Keenan Allen hauls in three passes Sunday  (2026-10-26T06:25:14.478000Z)
+- **Keenan Allen** — Keenan Allen hauls in three passes Sunday  (2026-10-26T06:25:14.478000Z)
   - It was a low-volume passing day for the Colts offense as Allen led the team in receiving. He remains a low upside WR3/flex play for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/615909/keenan-allen-hauls-three-passes-sunday.php
-- **NEW — Jonathan Taylor** — Jonathan Taylor finds the end zone Sunday  (2026-10-26T06:20:15.181000Z)
+- **Jonathan Taylor** — Jonathan Taylor finds the end zone Sunday  (2026-10-26T06:20:15.181000Z)
   - Taylor opened up the scoring in what wound up being the lone touchdown scored on the day by the Colts. His name will remain one to monitor in trade rumors over the next couple of weeks. 
   - Source: https://www.fantasypros.com/nfl/news/615907/jonathan-taylor-finds-end-zone-sunday.php
-- **NEW — Daniel Jones** — Daniel Jones shut down Sunday  (2026-10-26T06:15:14.698000Z)
+- **Daniel Jones** — Daniel Jones shut down Sunday  (2026-10-26T06:15:14.698000Z)
   - Jones was already struggling heading into this week and it didn't get any easier against the Vikings defense. He took four sacks and didn't get much going on the ground. He'll be a QB2 heading into next week against the Jaguars. 
   - Source: https://www.fantasypros.com/nfl/news/615906/daniel-jones-shut-down-sunday.php
-- **NEW — Jason Myers** — Jason Myers makes two FGs in Week 7 (2026-10-26T04:35:14.370000Z)
+- **Jason Myers** — Jason Myers makes two FGs in Week 7 (2026-10-26T04:35:14.370000Z)
   - Myers hit field goals from 25 and 35 yards out in the win over the previously undefeated Chiefs. The veteran kicker has now hit 14 of his 15 attempts on the year. He will take on the Bears in Week 8.
   - Source: https://www.fantasypros.com/nfl/news/615904/jason-myers-makes-two-fgs-week-7.php
-- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba hauls in TD in Week 7 win (2026-10-26T04:35:14.088000Z)
+- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba hauls in TD in Week 7 win (2026-10-26T04:35:14.088000Z)
   - Smith-Njigba's crazy production continues as he has at least 100 receiving yards in all but one of his seven games this season while adding eight touchdowns along the way. The star wideout will be a top-three fantasy option heading into Week 8 vs. the Bears on Monday night.
   - Source: https://www.fantasypros.com/nfl/news/615900/jaxon-smith-njigba-hauls-td-week-7-win.php
-- **NEW — Rashid Shaheed** — Rashid Shaheed catches two passes, leaves Week 7 with knee injury (2026-10-26T04:35:14.078000Z)
+- **Rashid Shaheed** — Rashid Shaheed catches two passes, leaves Week 7 with knee injury (2026-10-26T04:35:14.078000Z)
   - Shaheed was held in check in the game before leaving with a knee injury in the first half. The veteran wideout was eventually ruled out for the remainder of the contest on Sunday night. The Seahawks have yet to update his status as they eye a Week 8 matchup against the Bears. For now, consider Shaheed questionable for that game.
   - Source: https://www.fantasypros.com/nfl/news/615901/rashid-shaheed-catches-two-passes-leaves-week-7-with-knee-injury.php
-- **NEW — Cooper Kupp** — Cooper Kupp goes for 20 yards in Week 7 (2026-10-26T04:35:14.064000Z)
+- **Cooper Kupp** — Cooper Kupp goes for 20 yards in Week 7 (2026-10-26T04:35:14.064000Z)
   - Kupp was quiet just one week after drawing 10 targets vs. the Broncos. The veteran wideout continues to operate as Seattle's No. 2 receiver, although the majority of the work goes to Jaxon Smith-Njigba. Kupp will be a low-end flex option in Week 8 vs. the Bears.
   - Source: https://www.fantasypros.com/nfl/news/615902/cooper-kupp-goes-20-yards-week-7.php
-- **NEW — Sam Darnold** — Sam Darnold throws one TD in Week 7 (2026-10-26T04:25:13.818000Z)
+- **Sam Darnold** — Sam Darnold throws one TD in Week 7 (2026-10-26T04:25:13.818000Z)
   - Darnold found Jaxon Smith-Njigba for a 28-yard score in the second quarter. The veteran quarterback wasn't perfect but he looked much better than he did in Week 6's overtime loss to the Broncos. Darnold has now thrown eight touchdowns and eight interceptions in six games. He will be a low-end QB2 in Week 8 vs. the Bears.
   - Source: https://www.fantasypros.com/nfl/news/615897/sam-darnold-throws-one-td-week-7.php
-- **NEW — Emanuel Wilson** — Emanuel Wilson finds the end zone in Week 7 win (2026-10-26T04:25:13.806000Z)
+- **Emanuel Wilson** — Emanuel Wilson finds the end zone in Week 7 win (2026-10-26T04:25:13.806000Z)
   - Wilson notched his first 100-yard game of the season while adding a 21-yard rushing touchdown. That being said, the Seahawks could be activating Zach Charbonnet (knee) ahead of their Week 8 matchup against the Bears, which would cut into Wilson's workload. If Charbonnet returns, Wilson will be downgraded to a flex option in fantasy leagues.
   - Source: https://www.fantasypros.com/nfl/news/615898/emanuel-wilson-finds-end-zone-week-7-win.php
-- **NEW — Xavier Worthy** — Xavier Worthy catches three passes in Week 7 (2026-10-26T04:15:14.004000Z)
+- **Xavier Worthy** — Xavier Worthy catches three passes in Week 7 (2026-10-26T04:15:14.004000Z)
   - Worthy turned in a disappointing outing in a tough matchup against Seattle. The speedy wideout was held to 11 yards despite operating as the Chiefs' top receiver with Rashee Rice and Tyquan Thornton both injured. Worthy will be a boom/bust flex option in fantasy in Week 8 vs. the Broncos.
   - Source: https://www.fantasypros.com/nfl/news/615891/xavier-worthy-catches-three-passes-week-7.php
-- **NEW — Cyrus Allen** — Cyrus Allen brings in 18-yard pass in Week 7 (2026-10-26T04:15:13.984000Z)
+- **Cyrus Allen** — Cyrus Allen brings in 18-yard pass in Week 7 (2026-10-26T04:15:13.984000Z)
   - Despite an increased role due to injuries, Allen has just three catches for 45 yards over his past two games. The rookie wideout does not need to be rostered in most fantasy leagues heading into Week 8 against the Broncos.
   - Source: https://www.fantasypros.com/nfl/news/615893/cyrus-allen-brings-18-yard-pass-week-7.php
-- **NEW — Travis Kelce** — Travis Kelce catches four passes in Week 7 (2026-10-26T04:15:13.971000Z)
+- **Travis Kelce** — Travis Kelce catches four passes in Week 7 (2026-10-26T04:15:13.971000Z)
   - Kelce led the Chiefs in targets and receiving yards while tying for the lead in catches in the disappointing loss. The veteran tight end has notched at least 44 receiving yards in five of his six games this year. He will be a low-end TE1 in Week 8 vs. the Broncos.
   - Source: https://www.fantasypros.com/nfl/news/615894/travis-kelce-catches-four-passes-week-7.php
-- **NEW — Patrick Mahomes** — Patrick Mahomes II struggles vs. Seahawks in Week 7 (2026-10-26T04:05:13.831000Z)
+- **Patrick Mahomes** — Patrick Mahomes II struggles vs. Seahawks in Week 7 (2026-10-26T04:05:13.831000Z)
   - Mahomes and the Kansas City offense struggled in the loss to Seattle on Sunday night as they were held without a touchdown for the first time all season while being dealt their first loss. Mahomes will take nine touchdown passes and four interceptions into his Week 8 matchup against the Broncos.
   - Source: https://www.fantasypros.com/nfl/news/615888/patrick-mahomes-ii-struggles-vs-seahawks-week-7.php
-- **NEW — Kenneth Walker III** — Kenneth Walker III held in check by Seahawks in Week 7 (2026-10-26T04:05:13.818000Z)
+- **Kenneth Walker III** — Kenneth Walker III held in check by Seahawks in Week 7 (2026-10-26T04:05:13.818000Z)
   - Walker's 21 receiving yards were good enough for third on the Chiefs in receiving, which gives a good idea of how things went for the team's offense in the loss. The veteran running back has notched eight all-purpose touchdowns this season as the Chiefs' lead back. One of the top running backs in fantasy this season, Walker will be a locked-in RB1 in Week 8 vs. the Broncos.
   - Source: https://www.fantasypros.com/nfl/news/615889/kenneth-walker-iii-held-check-by-seahawks-week-7.php
-- **NEW — Emmett Johnson** — Emmett Johnson catches two balls in Week 7 (2026-10-26T04:05:13.809000Z)
+- **Emmett Johnson** — Emmett Johnson catches two balls in Week 7 (2026-10-26T04:05:13.809000Z)
   - Johnson was not given a carry on a sluggish day for the Chiefs on offense. The rookie running back remains an interesting handcuff for fantasy moving forward. He will take on the Broncos in Week 8.
   - Source: https://www.fantasypros.com/nfl/news/615890/emmett-johnson-catches-two-balls-week-7.php
-- **NEW — Xavier Worthy** — Xavier Worthy - Held to 11 yards on six targets (2026-10-26T04:01:25Z)
+- **Xavier Worthy** — Xavier Worthy - Held to 11 yards on six targets (2026-10-26T04:01:25Z)
   - Seattle successfully limited Worthy's output in the absence of Rashee Rice (hamstring/knee), with the versatile Nick Emmanwori running stride for stride with the speedy Worthy on a couple of downfield misconnections. Worthy finished second behind Travis Kelce (eight) in targets but sixth on the Chiefs in receiving yards Sunday. Heading into a Week 8 road game against the Broncos, Worthy has drawn at least six targets in five of six games this season. He has reached 70 yards twice and failed to eclipse 25 yards in any of the other four games.
-- **NEW — Travis Kelce** — Travis Kelce - Moves to fifth on all-time catch list (2026-10-26T03:59:15Z)
+- **Travis Kelce** — Travis Kelce - Moves to fifth on all-time catch list (2026-10-26T03:59:15Z)
   - Kelce increased his career total to 1,104 regular-season catches, passing Hall of Famers Marvin Harrison (1,102) and Cris Carter (1,101) to move up to fifth on the all-time list. Jason Witten holds the fourth spot with 1,228 receptions, so Kelce is more likely to be caught by Keenan Allen (1,084) than Kelce is to catch Witten. Kelce led the Chiefs with eight targets in the absence of WR Rashee Rice (hamstring/knee) and tied fellow TE Noah Gray for the team lead in receiving yards as Kansas City mustered just three Harrison Butker field-goal attempts on offense, two of which missed. This was only the second time Kelce failed to reach the 50-yard threshold in six appearances this season. He had 71 yards in Week 1 against the Broncos, whom the Chiefs will face in a Week 8 road rematch.
-- **NEW — Patrick Mahomes** — Patrick Mahomes - Two-game TD drought sans Rice (2026-10-26T03:55:48Z)
+- **Patrick Mahomes** — Patrick Mahomes - Two-game TD drought sans Rice (2026-10-26T03:55:48Z)
   - Mahomes was picked off in the second quarter and remarkably recovered his own fumble in a pile of bodies to avoid a second turnover in the third quarter, setting up a Harrison Butker field goal on the next play for the Chiefs' only points of the night. This was the first start in Mahomes' career during which Kansas City failed to reach the red zone, and he hasn't thrown a touchdown pass in two games since KC's Week 5 bye. Seattle's defense dominated while Kansas City struggled to move the ball in the absence of No. 1 WR Rashee Rice (hamstring/knee), whom the Chiefs will hope to get back for a Week 8 road game against the Broncos.
-- **NEW — Carnell Tate** — Carnell Tate goes for 69 yards in Week 7 (2026-10-26T03:55:13.701000Z)
+- **Carnell Tate** — Carnell Tate goes for 69 yards in Week 7 (2026-10-26T03:55:13.701000Z)
   - After slow performances in Weeks 1 and 2, Tate continues to ascend in the Tennessee offense as he's hit at least 58 receiving yards and five catches in four of his past five contests. The rookie wideout will be a solid fantasy play in Week 8 vs. the Bengals.
   - Source: https://www.fantasypros.com/nfl/news/615879/carnell-tate-goes-69-yards-week-7.php
-- **NEW — Ted Hurst III** — Ted Hurst III shut out in win (2026-10-26T03:55:13.678000Z)
+- **Ted Hurst III** — Ted Hurst III shut out in win (2026-10-26T03:55:13.678000Z)
   - Hurst was put into the WR3 role after Emeka Egbuka was ruled out due to injury, but it amounted to nothing. He's a boom-bust play at best, and in almost every format, too risky to start.
   - Source: https://www.fantasypros.com/nfl/news/615881/ted-hurst-iii-shut-out-win.php
-- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson held to seven yards in Week 7 (2026-10-26T03:55:13.667000Z)
+- **Wan'Dale Robinson** — Wan'Dale Robinson held to seven yards in Week 7 (2026-10-26T03:55:13.667000Z)
   - Robinson was held to just 1.8 yards per carry by a tough Cleveland secondary. The veteran wideout has topped 50 receiving yards just twice in seven contests this season. Robinson will be a WR4 in fantasy heading into Week 8 against the Bengals.
   - Source: https://www.fantasypros.com/nfl/news/615882/wandale-robinson-held-to-seven-yards-week-7.php
-- **NEW — Cade Otton** — Cade Otton silent in Sunday win (2026-10-26T03:55:13.651000Z)
+- **Cade Otton** — Cade Otton silent in Sunday win (2026-10-26T03:55:13.651000Z)
   - Otton was running wind sprints once again, and now has just three targets and four receiving yards to his name over the last two weekends of football. He's best left on waivers right now, as his value has primarily been when the Bucs are without any notable receivers.
   - Source: https://www.fantasypros.com/nfl/news/615883/cade-otton-silent-sunday-win.php
-- **NEW — Elic Ayomanor** — Elic Ayomanor goes for 44 yards in Week 7 loss (2026-10-26T03:55:13.640000Z)
+- **Elic Ayomanor** — Elic Ayomanor goes for 44 yards in Week 7 loss (2026-10-26T03:55:13.640000Z)
   - Ayomanor tied with Carnell Tate for the team lead with seven targets. The three catches go down as Ayomanor's best effort of the season as he's been held to just one catch in five of seven games. He will not be a strong fantasy play heading into Week 8 vs. the Bengals.
   - Source: https://www.fantasypros.com/nfl/news/615884/elic-ayomanor-goes-44-yards-week-7-loss.php
-- **NEW — Gunnar Helm** — Gunnar Helm finishes with three catches in Week 7 (2026-10-26T03:55:13.628000Z)
+- **Gunnar Helm** — Gunnar Helm finishes with three catches in Week 7 (2026-10-26T03:55:13.628000Z)
   - Helm was quiet in the close loss. It was just the second time all season that he has topped 20 receiving yards in the Tennessee offense. Helm will not be a strong fantasy play heading into Week 8 vs. the Bengals.
   - Source: https://www.fantasypros.com/nfl/news/615885/gunnar-helm-finishes-with-three-catches-week-7.php
-- **NEW — Jason Myers** — Jason Myers - Coverts two field goals in win (2026-10-26T03:53:01Z)
+- **Jason Myers** — Jason Myers - Coverts two field goals in win (2026-10-26T03:53:01Z)
   - Myers was able to make multiple field goals for the third straight game, converting a 25-yarder in the second quarter before later adding a 35-yard make in the second half. The kicker has now gone 14-for-15 on field-goal tries, including 3-for-3 from 50-plus yards, over the first seven games of the 2026 campaign.
-- **NEW — Sam Darnold** — Sam Darnold - One TD, one INT in comfortable win (2026-10-26T03:52:32Z)
+- **Sam Darnold** — Sam Darnold - One TD, one INT in comfortable win (2026-10-26T03:52:32Z)
   - Darnold threw a 28-yard touchdown pass to Jaxon Smith-Njigba in the second quarter to give the Seahawks a 10-0 lead, but Darnold's end-zone interception from the 3-yard line in the final minute of the first half allowed the Chiefs to stay within striking distance. Seattle's dominant defense made sure Darnold's eighth interception in five starts since returning from a glute injury wouldn't prove too costly. He has matched that interception total with eight touchdown passes over that span. Darnold and the 4-3 Seahawks will play at home in prime time again Week 8, hosting the Bears on MNF.
-- **NEW — Cam Ward** — Cam Ward throws one INT in Week 7 loss (2026-10-26T03:45:13.368000Z)
+- **Cam Ward** — Cam Ward throws one INT in Week 7 loss (2026-10-26T03:45:13.368000Z)
   - Ward struggled yet again, failing to throw a touchdown pass for the third time this season. The second-year signal-caller is still looking for his first multi-touchdown game as it has been a disappointing sophomore campaign for the 2025 No. 1 overall pick. Ward will not be a recommended fantasy option heading into Week 8's matchup vs. the Bengals.
   - Source: https://www.fantasypros.com/nfl/news/615876/cam-ward-throws-one-int-week-7-loss.php
-- **NEW — Kenny Gainwell** — Kenny Gainwell rumbles for 88 yards in win (2026-10-26T03:45:13.354000Z)
+- **Kenny Gainwell** — Kenny Gainwell rumbles for 88 yards in win (2026-10-26T03:45:13.354000Z)
   - Gainwell joined in on the fun in this one, receiving a lot of his carries towards the end of the game after it was already decided. He didn't score a touchdown or catch a pass, but the efficiency we've seen from him in the past was certainly there. He's still not worth putting in your lineups as of now, but still not a bad bench stash.
   - Source: https://www.fantasypros.com/nfl/news/615877/kenny-gainwell-rumbles-88-yards-win.php
-- **NEW — Tony Pollard** — Tony Pollard scores three TDs in Week 7 (2026-10-26T03:45:13.344000Z)
+- **Tony Pollard** — Tony Pollard scores three TDs in Week 7 (2026-10-26T03:45:13.344000Z)
   - Pollard was one of the few bright spots for the Titans in Week 7. He got his team off to a fast start, ripping off a 36-yard touchdown run to cap off the Titans' first drive of the game. Pollard now has four rushing touchdowns on the year as he prepares to take on the Bengals in Week 8.
   - Source: https://www.fantasypros.com/nfl/news/615878/tony-pollard-scores-three-tds-week-7.php
-- **NEW — Chris Godwin Jr.** — Chris Godwin Jr. catches four passes in win (2026-10-26T03:40:13.585000Z)
+- **Chris Godwin Jr.** — Chris Godwin Jr. catches four passes in win (2026-10-26T03:40:13.585000Z)
   - While the final stat line is a bit disappointing considering Emeka Egbuka did not play, it's important to remember Baker Mayfield threw only 11 passes for 64 yards. Godwin had a 45% target share and a 42% receiving yards share with those numbers. So again, nothing much to write home about in the final box score, but his actual market share was great. He could be interesting next week against the Falcons
   - Source: https://www.fantasypros.com/nfl/news/615874/chris-godwin-jr-catches-four-passes-win.php
-- **NEW — Emanuel Wilson** — Emanuel Wilson - Rumbles for 100 yards, TD (2026-10-26T03:37:43Z)
+- **Emanuel Wilson** — Emanuel Wilson - Rumbles for 100 yards, TD (2026-10-26T03:37:43Z)
   - Wilson recorded the second 100-yard rushing performance of his career, having accomplished that feat in Week 12 of last season with the Packers. He put the game away with a 21-yard rushing touchdown with 3:47 remaining in the fourth quarter. That was his third touchdown run in the past four games, during which Wilson has racked up 294 rushing yards on 79 carries (3.7 YPC), covering for lackluster efficiency with heavy rushing volume. He could face a significant influx of competition for carries as soon as Week 8 against the Bears, as Jadarian Price (chest) will be eligible to return from IR, while Zach Charbonnet (knee), who was inactive Sunday, could make his season debut after being activated from the reserve/PUP list Thursday.
-- **NEW — Kenneth Walker III** — Kenneth Walker - Stymied by Seattle's elite front (2026-10-26T03:36:29Z)
+- **Kenneth Walker III** — Kenneth Walker - Stymied by Seattle's elite front (2026-10-26T03:36:29Z)
   - Walker was held in check by his former team after recording at least 70 rushing yards in each of his first five games with the Chiefs. The MVP of Super LX with Seattle entered play Sunday leading the league with 665 rushing yards on 6.3 yards per carry in the 2026 regular season, but he mustered just 2.6 YPC in by far his quietest performance of the season against a Seahawks defense that hasn't allowed a 100-yard rushing performance since Week 8 of the 2024 regular season. Walker has a nice bounce-back opportunity in a Week 8 road clash with the Broncos, against whom he generated 191 scrimmage yards and two total touchdowns in the season opener.
-- **NEW — Denzel Boston** — Denzel Boston catches three balls in Week 7 (2026-10-26T03:35:13.832000Z)
+- **Denzel Boston** — Denzel Boston catches three balls in Week 7 (2026-10-26T03:35:13.832000Z)
   - Boston drew a healthy eight targets but he wasn't able to do much with the opportunities while fellow rookie KC Concepcion posted a career day with eight catches for 129 yards. Boston now has 20 catches for 372 yards and three touchdowns in seven games this year. He will be a flex option in Week 8 against the Steelers.
   - Source: https://www.fantasypros.com/nfl/news/615866/denzel-boston-catches-three-balls-week-7.php
-- **NEW — KC Concepcion Jr.** — KC Concepcion Jr. explodes for eight catches, 129 yards in Week 7 (2026-10-26T03:35:13.824000Z)
+- **KC Concepcion Jr.** — KC Concepcion Jr. explodes for eight catches, 129 yards in Week 7 (2026-10-26T03:35:13.824000Z)
   - The rookie easily turned in his best game as a pro as he dominated the Titans in the close win. Concepcion came into the game with just 186 receiving yards on the year and came close to doubling that total while leading the Browns in all receiving categories against Tennessee. He will be a WR3 heading into Week 8 vs. the Steelers.
   - Source: https://www.fantasypros.com/nfl/news/615867/kc-concepcion-jr-explodes-eight-catches-129-yards-week-7.php
-- **NEW — Jerry Jeudy** — Jerry Jeudy catches four balls in Week 7 win (2026-10-26T03:35:13.814000Z)
+- **Jerry Jeudy** — Jerry Jeudy catches four balls in Week 7 win (2026-10-26T03:35:13.814000Z)
   - Jeudy was quiet in the close win as he was held under 30 receiving yards for the fifth time in seven games this season. The veteran wideout will not be a recommended fantasy option heading into Week 8 vs. the Steelers.
   - Source: https://www.fantasypros.com/nfl/news/615868/jerry-jeudy-catches-four-balls-week-7-win.php
-- **NEW — Baker Mayfield** — Baker Mayfield throws 11 passes in return (2026-10-26T03:35:13.805000Z)
+- **Baker Mayfield** — Baker Mayfield throws 11 passes in return (2026-10-26T03:35:13.805000Z)
   - Mayfield didn't really do much in his return to play, but he did enough to at least manage things while the running game took over against the Panthers' defense. He will almost assuredly put up stronger numbers against the Falcons next Sunday.
   - Source: https://www.fantasypros.com/nfl/news/615869/baker-mayfield-throws-11-passes-return.php
-- **NEW — Harold Fannin Jr.** — Harold Fannin Jr. hauls in six passes in Week 7 (2026-10-26T03:35:13.796000Z)
+- **Harold Fannin Jr.** — Harold Fannin Jr. hauls in six passes in Week 7 (2026-10-26T03:35:13.796000Z)
   - Fannin set a season-high in receiving yardage in the close win. The second-year tight end made the play of the day on a 36-yard catch-and-run late in the fourth quarter to set up the eventual game-winning field goal. Fannin will be a low-end TE1 in Week 8 against Pittsburgh. 
   - Source: https://www.fantasypros.com/nfl/news/615870/harold-fannin-jr-hauls-six-passes-week-7.php
-- **NEW — Bucky Irving** — Bucky Irving gashes Carolina in win (2026-10-26T03:35:13.783000Z)
+- **Bucky Irving** — Bucky Irving gashes Carolina in win (2026-10-26T03:35:13.783000Z)
   - Irving has put up strong performances of late, with 100+ rushing yards and 1+ rushing touchdowns in two of his last three games played. He's firmly in RB2 territory with RB1 upside.
   - Source: https://www.fantasypros.com/nfl/news/615871/bucky-irving-gashes-carolina-win.php
-- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba - Racks up 150 rec yards, TD in Week 7 (2026-10-26T03:35:02Z)
+- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba - Racks up 150 rec yards, TD in Week 7 (2026-10-26T03:35:02Z)
   - After leading the league in catches, receiving yards and receiving touchdowns through Week 6, Smith-Njigba increased his pace with a season-high 163 scrimmage yards Sunday night. JSN scored his eighth touchdown of the season on a 28-yard catch in the second quarter, with four apiece having been thrown by Sam Darnold and Drew Lock. Smith-Njigba became the sixth player in NFL history to reach 100 receiving yards in six of his team's first seven regular-season games. He led the league in receiving yards last regular season and is showing no signs of slowing down heading into a Week 8 home game against the Bears on MNF.
-- **NEW — Juwan Johnson** — Juwan Johnson held in check on Sunday (2026-10-26T03:25:13.547000Z)
+- **Juwan Johnson** — Juwan Johnson held in check on Sunday (2026-10-26T03:25:13.547000Z)
   - Johnson started the season off hot, but has only five catches for 23 yards in the past three weeks, with four of those receptions and 16 of the yards coming in one game. With Jordyn Tyson expected to return after the bye, Johnson could find himself buried even further.
   - Source: https://www.fantasypros.com/nfl/news/615859/juwan-johnson-held-check-on-sunday.php
-- **NEW — Deshaun Watson** — Deshaun Watson throws for 308 yards in Week 7 win (2026-10-26T03:25:13.522000Z)
+- **Deshaun Watson** — Deshaun Watson throws for 308 yards in Week 7 win (2026-10-26T03:25:13.522000Z)
   - Watson did not throw any touchdowns but he contributed on a nine-yard touchdown run in the fourth quarter. The veteran QB only has two touchdown passes over his last four games but he did just enough to get the Browns the win in Week 7, completing a key 36-yard pass to Harold Fannin Jr. late in the fourth quarter to set the Browns up for the game-winning field goal. Watson will be a low-end QB2 in Week 8 vs. the Steelers.
   - Source: https://www.fantasypros.com/nfl/news/615861/deshaun-watson-throws-308-yards-week-7-win.php
-- **NEW — Quinshon Judkins** — Quinshon Judkins scores twice in Week 7 win (2026-10-26T03:25:13.512000Z)
+- **Quinshon Judkins** — Quinshon Judkins scores twice in Week 7 win (2026-10-26T03:25:13.512000Z)
   - Judkins turned in one of his better games as a pro, finding the end zone on runs of five and six yards in the win. He looked good after missing the previous week with an ankle injury. Judkins now has three rushing touchdowns across six contests this season. He will be on the RB2 radar in Week 8 vs. the Steelers. 
   - Source: https://www.fantasypros.com/nfl/news/615862/quinshon-judkins-scores-twice-week-7-win.php
-- **NEW — Dylan Sampson** — Dylan Sampson sees nine touches in Week 7 (2026-10-26T03:25:13.487000Z)
+- **Dylan Sampson** — Dylan Sampson sees nine touches in Week 7 (2026-10-26T03:25:13.487000Z)
   - Sampson returned to action after missing the previous five games with a knee injury. He slotted right back in behind Quinshon Judkins as the Browns' passing-down back while averaging 7.5 yards per carry. He will be on the radar as a PPR flex option in Week 8 against the Steelers.
   - Source: https://www.fantasypros.com/nfl/news/615864/dylan-sampson-sees-nine-touches-week-7.php
-- **NEW — Matthew Stafford** — Matthew Stafford - Three-TD day in Week 7 win (2026-10-26T03:11:47Z)
+- **Matthew Stafford** — Matthew Stafford - Three-TD day in Week 7 win (2026-10-26T03:11:47Z)
   - Stafford was operating with a less-than-100-percent Puka Nacua (calf) and without Davante Adams (IR, hamstring), so his reduced passing yardage total wasn't entirely surprising. The reigning MVP still found a way to deliver a highly useful fantasy performance via a trio of first-half scoring strikes to Davis Allen (three, five yards) and Nacua (11 yards). Stafford also extended a streak of games with better than a 74.0 percent completion rate to three, and his 79.3 percent tally Sunday was a season-high figure. Stafford next takes aim at the Chargers defense in a Week 8 home matchup next Sunday.
-- **NEW — Devaughn Vele** — Devaughn Vele snags touchdown in loss (2026-10-26T03:10:13.529000Z)
+- **Devaughn Vele** — Devaughn Vele snags touchdown in loss (2026-10-26T03:10:13.529000Z)
   - Vele caught the Saints' only touchdown in this game, very much helping out his final fantasy line. He was one of four Saints to finish between 57 and 54 receiving yards, joining Barion Brown, Alvin Kamara, and Chris Olave. Vele has been a great waiver pickup for the first half of the season, but with the Saints going on bye and Jordyn Tyson expected back soon after it, it could be tough for Vele to have much relevance moving forward.
   - Source: https://www.fantasypros.com/nfl/news/615857/devaughn-vele-snags-touchdown-loss.php
-- **NEW — Alvin Kamara** — Alvin Kamara catches seven passes in win (2026-10-26T03:10:13.509000Z)
+- **Alvin Kamara** — Alvin Kamara catches seven passes in win (2026-10-26T03:10:13.509000Z)
   - After averaging four yards per carry or better in his previous two contests, Kamara was held in check in this one. He got there in fantasy thanks to his receiving production, something those who started him can be grateful for. His role may change after the bye, but the pass-catching should remain a staple for him.
   - Source: https://www.fantasypros.com/nfl/news/615858/alvin-kamara-catches-seven-passes-win.php
-- **NEW — Cade Otton** — Cade Otton - No catches in blowout win (2026-10-26T03:05:27Z)
+- **Cade Otton** — Cade Otton - No catches in blowout win (2026-10-26T03:05:27Z)
   - Otton went without a reception for the first time this season, and he has now combined to reel in one of three targets for four yards over the last two weeks. Tampa Bay leaned on the run in the return of quarterback Baker Mayfield, and Mayfield completed seven of 11 passes for just 64 yards in the victory. Otton figures to have much better days ahead as his quarterback gets back up to speed, and the tight end's first shot at getting back on track will come Week 8 against Atlanta.
-- **NEW — Kenyon Sadiq** — Kenyon Sadiq - One catch in Week 7 loss (2026-10-26T03:01:09Z)
+- **Kenyon Sadiq** — Kenyon Sadiq - One catch in Week 7 loss (2026-10-26T03:01:09Z)
   - With Mason Taylor dominating the targets at tight end for the Jets, Sadiq continues to fade into the background for an offense that is unable to support more than a couple pass catchers in the box score each week. Sadiq has just four catches for 21 yards over the last three weeks with Taylor back in the lineup.
-- **NEW — Tyler Shough** — Tyler Shough throws for 278 yards in loss (2026-10-26T03:00:13.427000Z)
+- **Tyler Shough** — Tyler Shough throws for 278 yards in loss (2026-10-26T03:00:13.427000Z)
   - Shough didn't have a terrible game, all things considered. He was accurate, put up decent yardage, but was just held out of the end zone. Obviously, that's a big part of fantasy football, but it's also important to remember that because the Saints had no running game, it made things a little tougher for Shough in the passing game.
   - Source: https://www.fantasypros.com/nfl/news/615854/tyler-shough-throws-278-yards-loss.php
-- **NEW — Chris Olave** — Chris Olave snags 6 passes in loss (2026-10-26T03:00:13.411000Z)
+- **Chris Olave** — Chris Olave snags 6 passes in loss (2026-10-26T03:00:13.411000Z)
   - Olave was second on the team in receiving yards by one, but led in targets by three over RB Alvin Kamara. It wasn't the game we would have hoped for Olave, but it certainly wasn't something that ruined your week. He's been quiet over the last three weeks, aside from a touchdown last Sunday. He will look to have better results against Cleveland after the Saints' bye.
   - Source: https://www.fantasypros.com/nfl/news/615855/chris-olave-snags-6-passes-loss.php
-- **NEW — Kendre Miller** — Kendre Miller held in check on Sunday (2026-10-26T03:00:13.392000Z)
+- **Kendre Miller** — Kendre Miller held in check on Sunday (2026-10-26T03:00:13.392000Z)
   - Miller went from having 20 carries last week for 70 yards to averaging less than one yard per carry. He's a very inconsistent asset; Travis Etienne Jr. will be back soon, and Alvin Kamara is still acting as the primary receiving back. Miller is not someone you can confidently start. 
   - Source: https://www.fantasypros.com/nfl/news/615856/kendre-miller-held-check-on-sunday.php
-- **NEW — Pat Freiermuth** — Pat Freiermuth - Two catches in win over New Orleans (2026-10-26T02:58:38Z)
+- **Pat Freiermuth** — Pat Freiermuth - Two catches in win over New Orleans (2026-10-26T02:58:38Z)
   - Over the last two weeks, Freiermuth has just four grabs for 31 yards on seven targets. In that same span, Darnell Washington has secured five grabs for 29 yards and two touchdowns as one of Aaron Rodgers' preferred targets in the red zone. Freiermuth is in the large bucket of touchdown-or-bust fantasy options at tight end.
-- **NEW — Tre Tucker** — Tre Tucker - Strikes for long TD in loss (2026-10-26T02:54:33Z)
+- **Tre Tucker** — Tre Tucker - Strikes for long TD in loss (2026-10-26T02:54:33Z)
   - Tucker led the Raiders in receiving yards and targets on the afternoon with a big lift from a game-long 41-yard catch and a 37-yard fourth-quarter touchdown reception. The speedy wideout has a combined 10-200-3 line over his last two games alone as he continues to take his chemistry with Kirk Cousins to new levels, and Tucker is averaging a stellar 16.3 yards per reception heading into a favorable Week 8 road matchup against the Jets next Sunday.
-- **NEW — Juwan Johnson** — Juwan Johnson - One snag in defeat (2026-10-26T02:53:43Z)
+- **Juwan Johnson** — Juwan Johnson - One snag in defeat (2026-10-26T02:53:43Z)
   - Johnson was held in check yet again in Week 7. The tight end has now gone three straight games without exceeding 16 receiving yards, and he hasn't scored a touchdown since Week 3. Johnson has slowly become an unreliable fantasy option as the season has progressed, but he'll have the opportunity to hit the reset button during the Saints' bye week in Week 8.
-- **NEW — Kirk Cousins** — Kirk Cousins - Just under 300 passing yards in loss (2026-10-26T02:51:12Z)
+- **Kirk Cousins** — Kirk Cousins - Just under 300 passing yards in loss (2026-10-26T02:51:12Z)
   - With the Raiders trailing throughout, Cousins had another very busy day and finished with his third-highest passing yardage total of the season. Cousins also threw multiple touchdown passes for the sixth time in seven games, connecting with Tre Tucker (37 yards) and Ashton Jeanty (15 yards) for fourth-quarter scoring strikes. The veteran signal-caller continues to show excellent command of Klint Kubiak's offense, as he connected with eight different targets in the high-scoring loss. Cousins has compiled 1,877 passing yards and generated a 16:5 TD:INT through his first seven games heading into a Week 8 road matchup against the Jets next Sunday.
-- **NEW — Rashid Shaheed** — Rashid Shaheed - Ruled out for remainder of SNF (2026-10-26T02:50:28Z)
-  - Shaheed didn't return after halftime due to a knee injury. The wide receiver and standout special teams return man will have an extra day to recover before the Seahawks face the Bears on MNF in Week 8.
-- **NEW — Chris Boswell** — Chris Boswell leads Steelers to win on Sunday (2026-10-26T02:50:13.317000Z)
-  - Boswell benefited from the Steelers' offense failing to move the ball effectively down into the end zone, resulting in the team primarily putting up field goals. He should be a consistent and top-end option with the Steelers' offense humming, touchdowns or not.
-  - Source: https://www.fantasypros.com/nfl/news/615852/chris-boswell-leads-steelers-to-win-on-sunday.php
-- **NEW — Blake Corum** — Blake Corum - Over 100 scrimmage yards in win (2026-10-26T02:45:18Z)
-  - Corum led the Rams in rush attempts and was a close runner-up to Kyren Williams in rushing yards. Corum, like Williams, crossed the goal line as well, recording a four-yard touchdown run with 6:34 remaining in the fourth quarter. Corum's carry and yardage totals were also season highs, but given he'd logged single-digit rush attempts in each of the prior four games, he's more likely than not to continue operating in a clear complementary role behind Williams most weeks.
-- **NEW — Travis Kelce** — Travis Kelce Ineffective in Defeat (2026-10-26T02:42:17Z)
-  - Source: https://www.rotoballer.com/player-news/travis-kelce-ineffective-in-defeat/1975889
-- **NEW — Rico Dowdle** — Rico Dowdle snags six passes in win (2026-10-26T02:35:13.475000Z)
-  - Dowdle really saw his numbers come up in this game after a disappointing outing against Tampa Bay. Not that his efficiency running the ball was bad then, but he simply didn't receive many opportunities. Dowdle is looking like an RB3 type of play moving forward.
-  - Source: https://www.fantasypros.com/nfl/news/615849/rico-dowdle-snags-six-passes-win.php
-- **NEW — Pat Freiermuth** — Pat Freiermuth held to two catches in win (2026-10-26T02:35:13.463000Z)
-  - After two games with a combined three touchdowns, Freiermuth has just four receptions for 31 yards in the last two games. He's a risky streaming tight end at best.
-  - Source: https://www.fantasypros.com/nfl/news/615850/pat-freiermuth-held-to-two-catches-win.php
-- **NEW — Michael Mayer** — Michael Mayer - Three catches in Week 7 loss (2026-10-26T02:34:55Z)
-  - After a big Week 6 in which Mayer caught seven of nine targets for 95 yards against the Bills, Mayer faded into the background against Los Angeles, as Tre Tucker (5-103-1 receiving), Brock Bowers (6-73-0) and Ashton Jeanty (8-61-1) accounted for most of the production in the passing game for the Raiders. Mayer will be a fantasy TE1/2 for next Sunday's game against the Jets.
-- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson - Minimal production in loss (2026-10-26T02:34:35Z)
-  - Robinson garnered exactly seven targets for the third straight week, but his seven receiving yards were a new season low for the wideout. Robinson is pretty much limited to short and intermediate routes, and as a result, he has a rather low floor from a fantasy perspective. On the year, the wide receiver has reeled in 29 of 44 targets for 205 yards and two touchdowns over seven contests so far.
-- **NEW — Mike Washington Jr.** — Mike Washington - Leads team with 27 rushing yards in loss (2026-10-26T02:32:10Z)
-  - Despite dealing with foot and back injuries throughout the practice week, Washington played against Los Angeles and handled his normal workload behind starter Ashton Jeanty. Even though Jeanty again handled more carries, Washington ended up leading the team in rushing yards on a day the Raiders ran for just 48 yards. Washington is pushing Jeanty for more rushing work, but it's not enough at this point to warrant starting the rookie running back in fantasy.
-- **NEW — Patrick Mahomes** — Patrick Mahomes Held in Check on SNF (2026-10-26T02:30:14Z)
-  - Source: https://www.rotoballer.com/player-news/patrick-mahomes-held-in-check-on-snf/1975885
-- **NEW — Gunnar Helm** — Gunnar Helm - Three catches in Week 7 defeat (2026-10-26T02:29:17Z)
-  - The receptions marked the tight end's first catches since Week 4, as he went back-to-back games without a grab in Weeks 5 and 6 against the Texans and Colts. Helm has yet to reach 30 yards in a game this season and is well off the fantasy radar in one of the league's worst passing offenses.
-- **NEW — Germie Bernard** — Germie Bernard snags three passes in win over Saints (2026-10-26T02:25:12.813000Z)
-  - After two great weeks in a row, Bernard was largely held in check by the Saints defense in this one, limited to three short yardage catches. There will be better days ahead, but one thing to keep note of is that the Steelers will have to start getting him some space downfield rather than the short dink-and-dunk targets he's had recently.
-  - Source: https://www.fantasypros.com/nfl/news/615848/germie-bernard-snags-three-passes-win-over-saints.php
-- **NEW — Denzel Boston** — Denzel Boston - Quiet again in Week 7 win (2026-10-26T02:23:17Z)
-  - The wide receiver was the favorite for the Offensive Rookie of the Year after the first five weeks of the season, but he's now posted back-to-back subpar games against the Ravens and Titans. During those two contests, Boston has four catches for 42 yards on 13 targets. He's been extremely inefficient with his looks and isn't getting loose for big plays over the top of the defense. He'll try to get back on track next Sunday in Pittsburgh.
-- **NEW — Jaylen Warren** — Jaylen Warren goes off against Saints (2026-10-26T02:20:13.465000Z)
-  - Warren was the clear lead back for the Steelers on Sunday, showing markedly better efficiency than fellow RB Rico Dowdle. A two-back system will still likely be employed to keep Warren fresh, but Warren is looking like a solid weekly RB1 candidate.
-  - Source: https://www.fantasypros.com/nfl/news/615846/jaylen-warren-goes-off-against-saints.php
-- **NEW — DK Metcalf** — DK Metcalf hauls in big 51 yarder in win (2026-10-26T02:20:13.451000Z)
-  - Metcalf has been very up and down this season, with a big 115 yard performance against Cleveland followed up by 12 yards the following week, then an 11-for-93 stat line last Sunday, and finally two for 56 this Sunday. He's a boom-bust receiver for now; if you can afford to let him have his ups and downs, then he's a fine start. But more than likely, he's a risky flex at best.
-  - Source: https://www.fantasypros.com/nfl/news/615847/dk-metcalf-hauls-big-51-yarder-win.php
-- **NEW — Dalton Schultz** — Dalton Schultz - Paces Houston in receiving and targets (2026-10-26T02:19:28Z)
-  - The veteran tight end paced the Texans with his six targets, matching Xavier Hutchinson, as the duo saw one more than Nico Collins on a day when C.J. Stroud targeted nine different pass catchers. Schultz is still looking for his first touchdown of the season and has settled in as a low-ceiling fantasy tight end.
-- **NEW — Emanuel Wilson** — Emanuel Wilson Rebounds in Primetime (2026-10-26T02:16:16Z)
-  - Source: https://www.rotoballer.com/player-news/emanuel-wilson-rebounds-in-primetime/1975880
-- **NEW — Jalen Coker** — Jalen Coker - Cools off in Week 7 (2026-10-26T02:14:41Z)
-  - Coker and the rest of the Panthers' offense put together a putrid effort in Week 7. The wide receiver had recorded at least six catches and 66 receiving yards in each of his previous three healthy contests this season, and he will look to get back on track Thursday night against the Packers.
-- **NEW — Sam LaPorta** — Sam LaPorta - Shut down in Week 7 win (2026-10-26T02:14:28Z)
-  - It wasn't a happy Tight Ends Day for LaPorta, who had his worst performance of the season despite the fact that Jared Goff threw for over 300 yards. Even with the quiet afternoon, LaPorta still sports a 28-334-3 line on 39 targets through six games, keeping him on pace for a new career high in receiving yards. He faces another tough challenge in Week 8 versus the dominant defense of the undefeated Vikings.
-- **NEW — Rashid Shaheed** — Rashid Shaheed - Questionable to return for second half (2026-10-26T02:13:40Z)
-  - Shaheed didn't come out for the second half, as Tory Horton returned the second-half kickoff in Shaheed's stead. Prior to getting hurt, Shaheed caught two of three targets for one yard while adding a 32-yard punt return.
-- **NEW — Jameson Williams** — Jameson Williams - Finds end zone twice in win over Pack (2026-10-26T02:10:44Z)
-  - One game after scoring his first two TDs of the season, Williams struck twice again, hauling in a 16-yard toss from Jared Goff in the first quarter and a 10-yard score in the third. After a slow start to the campaign, Williams has broken out for a 13-240-4 line on 19 targets over the last three contests, and the Lions' Week 6 bye did nothing to cool him off. The fifth-year wideout will carry plenty of momentum into a tough Week 8 matchup against the unbeaten Vikings.
-- **NEW — Aaron Rodgers** — Aaron Rodgers quiet in win over Saints (2026-10-26T02:10:13.413000Z)
-  - Rodgers had been on a hot streak coming into this game, and the overseas trip did him in, snapping his streak of multi-touchdown games. It was an unfortunate outing for those who expected a few more fireworks in this matchup, but down games are part of the fantasy football experience.
-  - Source: https://www.fantasypros.com/nfl/news/615845/aaron-rodgers-quiet-win-over-saints.php
-- **NEW — Mark Andrews** — Mark Andrews - Another uninspiring performance (2026-10-26T02:08:42Z)
-  - Andrews reeled in three or fewer passes for the second straight game and third time overall this season, and he has now gone five games in a row without recording 30-plus receiving yards. The tight end's production will likely go up once Lamar Jackson (ankle) is able to return, but he no longer appears to be a must-roster asset in fantasy football. Through seven games this season, Andrews has caught 26 of 37 targets for 204 yards and one touchdown.
-- **NEW — Jared Goff** — Jared Goff - Tosses two TDs in Week 7 win (2026-10-26T02:06:49Z)
-  - It's the third time in six games this season Goff has passed for 300-plus yards, and the fifth time he's tossed multiple TDs. Both of his scores in this one went to Jameson Williams, as he connected with the speedy wideout for a 16-yard strike in the first quarter and a 10-yard touchdown in the third. Goff will take a stellar 14:0 TD:INT into a crucial NFC North battle in Week 8 against the undefeated Vikings.
-- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown - New season high in receiving yards (2026-10-26T02:03:39Z)
-  - The 153 yards were a new season high for St. Brown, topping the 142 yards he amassed against the Bills in Week 2. The star wideout's touchdown drought grew to three games, but his 46-525-5 line on 68 targets through six games this season remains elite. St. Brown will face a tough test in Week 8 against the dominant defense of the undefeated Vikings.
-- **NEW — Isaiah Likely** — Isaiah Likely - Quiet game in McCarthy's first start (2026-10-26T02:03:14Z)
-  - With J.J. McCarthy inserted under center for his first start with the Giants, Likely took a big hit in production, as Malik Nabers led the team in targets (nine), catches (seven) and yards (111) despite the tough on-paper matchup with cornerback Derek Stingley. Likely will try to get back on track coming out of the Week 8 bye when the Giants face the Eagles on the road in Week 9.
-- **NEW — Courtland Sutton** — Courtland Sutton - Three catches in victory (2026-10-26T02:02:39Z)
-  - Sutton was able to reel in three passes for the first time since Week 3, and his 45 receiving yards were his second highest total in a contest this year. The wide receiver has had an overall disappointing campaign so far, but Jaylen Waddle (chest) exited the contest in the fourth quarter, so Sutton could be thrust into a more prominent role in Week 8 against the Chiefs.
-- **NEW — Chad Ryland** — Chad Ryland Makes Three Field Goals in Week 7 (2026-10-26T02:00:12.907000Z)
-  - Ryland connected from 30, 26 and 41 yards and accounted for 10 of Arizona's 16 points. The Cardinals struggled to finish drives, but that worked in Ryland's favor Sunday. He's a matchup-dependent streaming option at kicker.
-  - Source: https://www.fantasypros.com/nfl/news/615843/chad-ryland-makes-three-field-goals-week-7.php
-- **NEW — Jacoby Brissett** — Jacoby Brissett Throws for 272 Yards in Week 7 (2026-10-26T02:00:12.661000Z)
-  - Brissett attempted 48 passes with Arizona playing from behind, but averaged just 5.7 yards per attempt. His lone touchdown went to Trey McBride, and he avoided turning the ball over against one of the NFL's better defenses. The volume, though, gives Brissett some streaming value, but he's better viewed as a QB2.
-  - Source: https://www.fantasypros.com/nfl/news/615836/jacoby-brissett-throws-272-yards-week-7.php
-- **NEW — Trey McBride** — Trey McBride Goes Over 100 Yards, Scores in Week 7 (2026-10-26T02:00:12.649000Z)
-  - McBride accounted for 10 of Jacoby Brissett's 27 completions and 111 of his 272 passing yards. He also caught Arizona's only touchdown, scoring from seven yards out in the third quarter. With 13 targets and no other Cardinal seeing more than eight, McBride remains one of fantasy football's safest elite TE1 options.
-  - Source: https://www.fantasypros.com/nfl/news/615837/trey-mcbride-goes-over-100-yards-scores-week-7.php
