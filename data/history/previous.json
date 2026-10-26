@@ -23498,7 +23498,7 @@
       ],
       "first_name": "Amon-Ra",
       "full_name": "Amon-Ra St. Brown",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "St. Brown",
       "nfl_team": "DET",
       "player_id": "7547",
@@ -24849,8 +24849,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-26T14:03:29Z",
-    "source_fingerprint": "e2972a46f814dcc0ac8573516305f0d7d64afd71da01ca561f4a30787da95999"
+    "last_changed_at": "2026-10-26T19:52:05Z",
+    "source_fingerprint": "007033f02dd4bbe4e1e76eee19bbaaae0be94691f5cb0320299fd5b90046f089"
   },
   "teams": [
     {
