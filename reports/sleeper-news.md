@@ -2,57 +2,79 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6591**
-- Newly captured: **27**
+- Stored stories: **6501**
+- Newly captured: **11**
 
 ## Latest news
 
-- **NEW — Jalen Coker** — Jalen Coker - Practices fully Tuesday (2026-10-27T19:23:22Z)
+- **NEW — Tyrone Tracy Jr.** — Tyrone Tracy - Move to IR official (2026-10-27T21:04:19Z)
+  - Just as general manager Joe Schoen indicated would be the case earlier in the day, Tracy was deactivated after straining his hamstring during Sunday's 27-21 overtime win over the Texans. He'll be out for at least the next four games, making the Giants' Week 13 game against the 49ers his earliest possible return date. While Tracy is sidelined, Devin Singletary is expected to operate as the top complement to Cam Skattebo (hamstring), who thrived while moving back into a lead role out of the backfield in the Week 7 victory.
+- **NEW — Lamar Jackson** — Lamar Jackson - Trending toward return in Week 8 (2026-10-27T20:32:29Z)
+  - After missing the Ravens' last three games with what he has described as a left high-ankle sprain, Jackson seems to have responded well to taking part in practices last week and looks to be moving toward a return to the lineup this Sunday. The Ravens will presumably prepare for Jackson to take on more reps in practices Wednesday through Friday, and if all goes well, he could head into the weekend without a designation. In Jackson's absence, Tyler Huntley has started each of the last three contests and has guided Baltimore to a 1-2 record while completing 68 percent of his passes for 6.8 yards per attempt and accounting for five touchdowns.
+- **NEW — Matthew Golden** — Matthew Golden - Sits out walkthrough practice (2026-10-27T20:21:57Z)
+  - Coming out of Sunday's 20-17 loss to the Lions, Golden is nursing a pair of injuries that have resulted in him going down as a non-participant on the Packers' Week 8 injury report. The Packers will see if Golden can upgrade to limited or full participation in Wednesday's session before deciding whether he'll carry a designation into Thursday's game against the Panthers. Despite leading the NFL with six drops through the first seven weeks, Golden has emerged as a useful fantasy asset in his second NFL season with 36 receptions for 540 yards and three touchdowns on 69 targets to go with six rushing yards.
+- **Jalen Coker** — Jalen Coker - Practices fully Tuesday (2026-10-27T19:23:22Z)
   - After being listed as limited in Monday's practice estimate, Coker was able to take a step forward in activity a day later. With a full practice under his belt, Coker should be ready to handle his usual snap share in Thursday's game against the Packers. Coker -- who was held to one reception on four targets in Week 7 -- and the rest of the passing attack will look to bounce back after Carolina quarterbacks Bryce Young and Kenny Pickett were limited to just 178 yards through the air in a 43-13 loss to the Buccaneers on Sunday.
-- **NEW — Tyrone Tracy Jr.** — Tyrone Tracy - Bound for IR (2026-10-27T18:06:41Z)
+- **NEW — Matthew Golden** — Matthew Golden "Working Through it" Before Thursday's Game (2026-10-27T18:54:11Z)
+  - Source: https://www.rotoballer.com/player-news/matthew-golden-working-through-it-before-thursdays-game/1977428
+- **Tyrone Tracy Jr.** — Tyrone Tracy - Bound for IR (2026-10-27T18:06:41Z)
   - Per Duggan, Schoen added that the hamstring injury that Tracy sustained in Sunday's overtime win over the Texans isn't season-ending, but the running back's impending move to IR means that he won't be eligible to play in any of the Giants' next four games. With Tracy out through at least Week 12, Devin Singletary should will be in line to serve as the top complement to lead back Cam Skattebo (hamstring). The Giants are planning to sign Greg Desrosiers off the Chargers' practice squad to add depth to the position group, according to Jordan Raanan of ESPN.com.
-- **NEW — Saquon Barkley** — Saquon Barkley - Plans to play through back issue (2026-10-27T15:38:05Z)
+- **NEW — Josh Downs** — WR-Needy Teams Calling Colts About Josh Downs (2026-10-27T17:31:42Z)
+  - Source: https://www.rotoballer.com/player-news/wr-needy-teams-calling-colts-about-josh-downs/1977394
+- **NEW — Lamar Jackson** — Lamar Jackson Expected to Return in Week 8 (2026-10-27T16:50:15Z)
+  - Source: https://www.rotoballer.com/player-news/lamar-jackson-expected-to-return-in-week-8-2/1977358
+- **NEW — Jalen Coker** — Jalen Coker Upgraded to Full Practice Participation on Tuesday (2026-10-27T16:36:17Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-coker-upgraded-to-full-practice-participation-on-tuesday/1977342
+- **NEW — Matthew Golden** — Matthew Golden Remains a Non-Participant in Practice on Tuesday (2026-10-27T16:28:14Z)
+  - Source: https://www.rotoballer.com/player-news/matthew-golden-remains-a-non-participant-in-practice-on-tuesday/1977335
+- **NEW — Tyler Huntley** — Tyler Huntley Could Be Worth Stashing in Two-QB Formats (2026-10-27T16:18:20Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-huntley-could-be-worth-stashing-in-two-qb-formats/1977323
+- **NEW — Sam Darnold** — Sam Darnold Stays Sack-Free but Keeps Throwing Interceptions (2026-10-27T15:58:12Z)
+  - Source: https://www.rotoballer.com/player-news/sam-darnold-stays-sack-free-but-keeps-throwing-interceptions/1977291
+- **NEW — Deshaun Watson** — Deshaun Watson's 308 Yards Don't Fix the Touchdown Drought (2026-10-27T15:41:12Z)
+  - Source: https://www.rotoballer.com/player-news/deshaun-watsons-308-yards-dont-fix-the-touchdown-drought/1977274
+- **Saquon Barkley** — Saquon Barkley - Plans to play through back issue (2026-10-27T15:38:05Z)
   - While suiting up for the first time since Week 4 after missing the Eagles' previous two games due to a hamstring strain, Barkley took the field for just 10 snaps on the night but was impactful in his limited playing time. He touched the ball on nine of those snaps, carrying seven times for 62 yards and a touchdown to go with two receptions for nine yards on two targets. Heading into the game, the Eagles had deliberately planned to manage Barkley's workload to some extent, but he ended up seeing fewer snaps than anticipated after his back locked up on him following a 29-yard run in the first quarter. He didn't end up taking any snaps after the third quarter, with the Eagles leaning exclusively on Dameon Pierce (undisclosed) and Elijah Mitchell out of the backfield over the final 15 minutes. Fortunately for Barkley, the back issue doesn't seem to be a major concern, but his activity in practice this week will warrant monitoring as the Eagles assess his availability for Sunday's contest.
-- **NEW — Michael Penix Jr.** — Michael Penix Jr. Is a Streamer Riding a Touchdown Run (2026-10-27T15:21:12Z)
+- **Michael Penix Jr.** — Michael Penix Jr. Is a Streamer Riding a Touchdown Run (2026-10-27T15:21:12Z)
   - Source: https://www.rotoballer.com/player-news/michael-penix-jr-is-a-streamer-riding-a-touchdown-run/1977259
-- **NEW — Geno Smith** — Geno Smith Is a Week 8 Streamer Against the Raiders (2026-10-27T15:08:15Z)
+- **Geno Smith** — Geno Smith Is a Week 8 Streamer Against the Raiders (2026-10-27T15:08:15Z)
   - Source: https://www.rotoballer.com/player-news/geno-smith-is-a-week-8-streamer-against-the-raiders/1977254
-- **NEW — Kyle Monangai** — Kyle Monangai Not Spotted at Tuesday's Practice (2026-10-27T14:45:09Z)
+- **Kyle Monangai** — Kyle Monangai Not Spotted at Tuesday's Practice (2026-10-27T14:45:09Z)
   - Source: https://www.rotoballer.com/player-news/kyle-monangai-not-spotted-at-tuesdays-practice/1977245
-- **NEW — Brian Thomas Jr.** — Jaguars Saying They Aren't Trading Brian Thomas Jr. (2026-10-27T14:40:13Z)
+- **Brian Thomas Jr.** — Jaguars Saying They Aren't Trading Brian Thomas Jr. (2026-10-27T14:40:13Z)
   - Source: https://www.rotoballer.com/player-news/jaguars-saying-they-arent-trading-brian-thomas-jr/1977243
-- **NEW — Dameon Pierce** — Dameon Pierce - Makes late exit in Week 7 (2026-10-27T14:28:44Z)
+- **Dameon Pierce** — Dameon Pierce - Makes late exit in Week 7 (2026-10-27T14:28:44Z)
   - Pierce was the second Eagles running back to make an early exit from Monday's contest, as starter Saquon Barkley was held out for the entire fourth quarter while nursing hamstring and back injuries. Before leaving the contest, Pierce carried 14 times for 47 yards and a touchdown while adding a one-yard reception on his lone target. Ahead of their Week 8 matchup with the Commanders, the Eagles will issue their next injury report Wednesday, when the nature of Pierce's health concern as well as the extent of his practice activity will be revealed.
-- **NEW — Jonathan Taylor** — Colts Don't Seem Likely to Trade Jonathan Taylor (2026-10-27T14:25:14Z)
+- **Jonathan Taylor** — Colts Don't Seem Likely to Trade Jonathan Taylor (2026-10-27T14:25:14Z)
   - Source: https://www.rotoballer.com/player-news/colts-dont-seem-likely-to-trade-jonathan-taylor/1977233
-- **NEW — J.J. McCarthy** — J.J. McCarthy Worth a Speculative Waiver Addition (2026-10-27T14:21:14Z)
+- **J.J. McCarthy** — J.J. McCarthy Worth a Speculative Waiver Addition (2026-10-27T14:21:14Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-worth-a-speculative-add/1977229
-- **NEW — Keenan Allen** — Could Keenan Allen Be the Next Colts Player on the Move? (2026-10-27T14:03:14Z)
+- **Keenan Allen** — Could Keenan Allen Be the Next Colts Player on the Move? (2026-10-27T14:03:14Z)
   - Source: https://www.rotoballer.com/player-news/could-keenan-allen-be-the-next-colts-player-on-the-move/1977212
-- **NEW — Tyrone Tracy Jr.** — Tyrone Tracy Jr. Headed to Injured Reserve (2026-10-27T14:01:12Z)
+- **Tyrone Tracy Jr.** — Tyrone Tracy Jr. Headed to Injured Reserve (2026-10-27T14:01:12Z)
   - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-headed-to-injured-reserve/1977209
-- **NEW — Josh Downs** — Josh Downs a Potential Trade Candidate Ahead of NFL Deadline (2026-10-27T13:49:12Z)
+- **Josh Downs** — Josh Downs a Potential Trade Candidate Ahead of NFL Deadline (2026-10-27T13:49:12Z)
   - Source: https://www.rotoballer.com/player-news/josh-downs-a-potential-trade-candidate-ahead-of-nfl-deadline/1977198
-- **NEW — Baker Mayfield** — Baker Mayfield a Streaming Option After a Quiet Return (2026-10-27T13:37:13Z)
+- **Baker Mayfield** — Baker Mayfield a Streaming Option After a Quiet Return (2026-10-27T13:37:13Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-a-streaming-option-after-a-quiet-return/1977190
-- **NEW — Roschon Johnson** — Roschon Johnson Worth Stashing in Deep Leagues Only (2026-10-27T13:29:13Z)
+- **Roschon Johnson** — Roschon Johnson Worth Stashing in Deep Leagues Only (2026-10-27T13:29:13Z)
   - Source: https://www.rotoballer.com/player-news/roschon-johnson-worth-stashing-in-deep-leagues-only/1977182
-- **NEW — Kirk Cousins** — Kirk Cousins Remains a Strong Weekly Play (2026-10-27T13:26:17Z)
+- **Kirk Cousins** — Kirk Cousins Remains a Strong Weekly Play (2026-10-27T13:26:17Z)
   - Source: https://www.rotoballer.com/player-news/kirk-cousins-remains-a-strong-weekly-play/1977179
-- **NEW — Malik Willis** — Malik Willis Beginning to Deliver for Fantasy Managers (2026-10-27T13:14:11Z)
+- **Malik Willis** — Malik Willis Beginning to Deliver for Fantasy Managers (2026-10-27T13:14:11Z)
   - Source: https://www.rotoballer.com/player-news/malik-willis-beginning-to-deliver-for-fantasy/1977161
-- **NEW — Jacoby Brissett** — Jacoby Brissett Back on the Streaming Radar in Week 8 (2026-10-27T12:58:11Z)
+- **Jacoby Brissett** — Jacoby Brissett Back on the Streaming Radar in Week 8 (2026-10-27T12:58:11Z)
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-back-on-the-streaming-radar-in-week-8/1977154
-- **NEW — Darren Waller** — Darren Waller Remains an Extremely Risky Streaming Option (2026-10-27T12:32:23Z)
+- **Darren Waller** — Darren Waller Remains an Extremely Risky Streaming Option (2026-10-27T12:32:23Z)
   - Source: https://www.rotoballer.com/player-news/darren-waller-remains-an-extremely-risky-streaming-option/1977129
-- **NEW — Tyreek Hill** — Tyreek Hill Still a Waiver Target With No Signing Imminent? (2026-10-27T12:28:15Z)
+- **Tyreek Hill** — Tyreek Hill Still a Waiver Target With No Signing Imminent? (2026-10-27T12:28:15Z)
   - Source: https://www.rotoballer.com/player-news/tyreek-hill-still-a-waiver-target-with-no-signing-imminent/1977122
-- **NEW — Kyler Murray** — Kyler Murray Still Adjusting to Vikings' Passing Game (2026-10-27T12:18:14Z)
+- **Kyler Murray** — Kyler Murray Still Adjusting to Vikings' Passing Game (2026-10-27T12:18:14Z)
   - Source: https://www.rotoballer.com/player-news/kyler-murray-still-adjusting-to-vikings-passing-game/1977101
 - **Dameon Pierce** — Dameon Pierce finds end zone Monday (2026-10-27T12:10:04.117000Z)
   - Pierce saw the most carries on the team on Monday night, with Saquon Barkley (hamstring) still having a limited workload in his return game. Barkley seems to have gotten banged up in this game as well, so if he's out next week, Pierce will prove to be startable in a lot of league formats in a matchup against the Commanders on Sunday night next week.
   - Source: https://www.fantasypros.com/nfl/news/616112/dameon-pierce-finds-end-zone-monday.php
-- **NEW — Saquon Barkley** — Saquon Barkley Not Worried About his Back Injury (2026-10-27T12:06:21Z)
+- **Saquon Barkley** — Saquon Barkley Not Worried About his Back Injury (2026-10-27T12:06:21Z)
   - Source: https://www.rotoballer.com/player-news/saquon-barkley-not-worried-about-his-back-injury/1977091
 - **Darius Cooper** — Darius Cooper quiet in loss Monday (2026-10-27T12:00:04.119000Z)
   - The Eagles weren't able to get Cooper going on Monday, as he finished with just 17 yards in this loss to their divisional rival. He will likely have a couple of boom games over the remainder of the season, but fantasy managers shouldn't trust him at this point.
@@ -69,15 +91,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Makai Lemon** — Makai Lemon plays well in loss Monday (2026-10-27T12:00:03.818000Z)
   - The rookie finally had a high-production game, finishing with the most receptions, receiving yards, and touchdowns out of anyone on the team on Monday night. This performance was a good sign that he's not dead in the water after a slow start to the season, but he's unlikely to keep up at this pace when DeVonta Smith (hamstring) makes his return to the lineup.
   - Source: https://www.fantasypros.com/nfl/news/616110/makai-lemon-plays-well-loss-monday.php
-- **NEW — Kaytron Allen** — Kaytron Allen Is a Deep Stash After Teammate's Injury (2026-10-27T11:53:13Z)
+- **Kaytron Allen** — Kaytron Allen Is a Deep Stash After Teammate's Injury (2026-10-27T11:53:13Z)
   - Source: https://www.rotoballer.com/player-news/kaytron-allen-is-a-deep-stash-after-wright-injury/1977080
-- **NEW — Eli Raridon** — Eli Raridon Worth Adding After Another Strong Performance (2026-10-27T11:00:35Z)
+- **Eli Raridon** — Eli Raridon Worth Adding After Another Strong Performance (2026-10-27T11:00:35Z)
   - Source: https://www.rotoballer.com/player-news/eli-raridon-worth-adding-after-another-strong-performance/1977020
-- **NEW — Tyler Higbee** — Tyler Higbee Losing Appeal as Week 8 Streamer (2026-10-27T10:47:14Z)
+- **Tyler Higbee** — Tyler Higbee Losing Appeal as Week 8 Streamer (2026-10-27T10:47:14Z)
   - Source: https://www.rotoballer.com/player-news/tyler-higbee-losing-appeal-as-week-8-streamer/1977006
-- **NEW — Michael Mayer** — Michael Mayer Still Worth Stashing Despite Quiet Week 7 (2026-10-27T10:29:12Z)
+- **Michael Mayer** — Michael Mayer Still Worth Stashing Despite Quiet Week 7 (2026-10-27T10:29:12Z)
   - Source: https://www.rotoballer.com/player-news/michael-mayer-still-worth-stashing-despite-quiet-week-7/1976997
-- **NEW — Colby Parkinson** — Colby Parkinson Worth Stashing After Increased Involvement (2026-10-27T10:23:13Z)
+- **Colby Parkinson** — Colby Parkinson Worth Stashing After Increased Involvement (2026-10-27T10:23:13Z)
   - Source: https://www.rotoballer.com/player-news/colby-parkinson-worth-stashing-after-increased-involvement/1976995
 - **Keon Coleman** — Keon Coleman Worth Stashing Despite Inconsistent Production (2026-10-27T10:07:18Z)
   - Source: https://www.rotoballer.com/player-news/keon-coleman-worth-stashing-despite-inconsistent-production/1976989
@@ -201,25 +223,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Coming off the heels of a second straight five-catch game, Bourne had positive momentum coming into Week 7. However, while his six targets were encouraging, his production was less efficient than a team baseline that was already not very good. With that said, teammate Jalen Brooks suffered a season-ending wrist injury Sunday, leaving Bourne as the Cardinals' undisputed second option at wide receiver moving forward.
 - **Noah Fant** — Noah Fant - Another quiet performance Sunday (2026-10-27T00:11:01Z)
   - After finding the end zone twice in the loss to the Raiders in Week 3, Fant has combined for just three catches in his previous three appearances. While his two receptions Sunday were a small step in the right direction, he is expected to continue to play second fiddle to Juwan Johnson moving forward. It may also be a matter of time before rookie Oscar Delp logs more snaps from week to week.
-- **Konata Mumpfield** — Konata Mumpfield - Held to one catch Sunday (2026-10-27T00:10:39Z)
-  - With Davante Adams (hamstring) on IR and Puka Nacua dealing with a calf injury going into gameday, it looked like Mumpfield was going to see his role expand in Week 7. While he was second on the team in snaps at wide receiver Sunday (28), he still lagged far behind Nacua (58). As long as the latter remains available, Mumpfield appears unlikely to draw more than a few targets in any given game.
-- **Jahan Dotson** — Jahan Dotson - Only one catch in Week 7 victory (2026-10-26T23:57:53Z)
-  - Dotson's lone catch came late in the second quarter as part of a 14-play, 56-yard drive that ended with a 33-yard field goal by Nick Folk as time expired. Dotson also drew a defensive pass interference penalty late in the third quarter, but it was an otherwise quiet night for the fifth-year pro, whose 38 offensive snaps were second-most among Falcons wide receivers behind Drake London (55). Dotson has two catches or fewer in six of the first seven games of the regular season and has a 12-242-2 receiving line on 26 targets this year. The Falcons hit the road in Week 8 for an NFC South tilt against the Buccaneers, whose defense stifled Panthers QB Bryce Young in a Week 7 win for Tampa Bay.
-- **Tyler Higbee** — Tyler Higbee - Disappointing production in Week 7 (2026-10-26T23:50:40Z)
-  - Higbee was expected to have a chance to see an increase in production with wide receiver Davante Adams (hamstring) unavailable, but the tight end put together a disappointing performance. Fellow tight ends Colby Parkinson (5-48-0) and Davis Allen (4-20-2) had more impressive days, and it may be hard to predict which of the three will be the go-to option any given week until Terrance Ferguson (ankle) returns from injured reserve.
-- **CeeDee Lamb** — CeeDee Lamb Shines on Monday Night With Two-Touchdown Performance (2026-10-26T23:49:47Z)
-  - Source: https://www.rotoballer.com/player-news/ceedee-lamb-shines-on-monday-night-with-two-touchdown-performance/1976698
-- **Germie Bernard** — Germie Bernard - Quiet game in win over New Orleans (2026-10-26T23:49:44Z)
-  - It was a big step back in production for the rookie wideout compared to Week 6 against the Bucs, but Bernard still ran a team-high 33 routes on Aaron Rodgers' 34 dropbacks against New Orleans. Bernard's role is secure while Michael Pittman (foot) and Roman Wilson (finger) remain sidelined for at least two more games each. Bernard will be a fantasy WR3 for next Sunday's game against the Browns.
-- **Kendre Miller** — Kendre Miller - Handles eight carries in Paris loss (2026-10-26T23:45:15Z)
-  - The Saints got absolutely nothing going on the ground against Pittsburgh, rushing 17 times for 18 yards as a team, so it's not like Miller and his team-leading eight carries was the only issue. New Orleans heads into its bye in Week 8, and Travis Etienne (hamstring) will be eligible to come off injured reserve for Week 9 against the Browns. When both Etienne and Alvin Kamara were healthy and active together earlier this season, Miller was a healthy inactive.
-- **Brandin Cooks** — Brandin Cooks - Only one catch vs. Atlanta (2026-10-26T23:42:05Z)
-  - Cooks was in line to serve as the 49ers' top wide receiver for Week 7 due to the absences of Mike Evans (Achilles) and Deebo Samuel (hamstring). Cooks' 45 offensive snaps were second-most among 49ers wideouts behind Jordan Watkins (50), although the former had only once catch to show for his extra playing time, which didn't happen until the final minute of the fourth quarter. Cooks has three catches on seven targets for 33 yards and a touchdown over his last three games, but his role could shrink significantly following the 49ers' Week 8 bye depending on the statuses of Evans, Samuel and Demarcus Robinson (ankle, IR).
-- **Javonte Williams** — Javonte Williams Gets Going With 155 Yards and TD Against Eagles (2026-10-26T23:39:13Z)
-  - Source: https://www.rotoballer.com/player-news/javonte-williams-gets-going-with-155-yards-and-td-against-eagles/1976693
-- **Keenan Allen** — Keenan Allen - Three catches in loss (2026-10-26T23:34:25Z)
-  - Allen was held to his fewest catches, receiving yards and targets since Week 2 as the Colts struggled to establish a passing attack against Minnesota's impressive defense. The wide receiver still led the team in all three categories, and he'll have a chance for better production in Week 8 versus the Jaguars.
-- **Makai Lemon** — Makai Lemon a Waiver-Wire Target Amid Eagles WR Injuries (2026-10-26T23:32:12Z)
-  - Source: https://www.rotoballer.com/player-news/makai-lemon-a-waiver-wire-target-amid-eagles-wr-injuries/1976688
-- **Dameon Pierce** — Dameon Pierce Finds End Zone, Leaves Early Monday With Injury (2026-10-26T23:25:14Z)
-  - Source: https://www.rotoballer.com/player-news/dameon-pierce-finds-end-zone-leaves-early-monday-with-injury/1976683
