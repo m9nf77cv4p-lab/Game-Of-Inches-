@@ -2,38 +2,92 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6649**
-- Newly captured: **11**
+- Stored stories: **6591**
+- Newly captured: **27**
 
 ## Latest news
 
-- **NEW — Dameon Pierce** — Dameon Pierce finds end zone Monday (2026-10-27T12:10:04.117000Z)
+- **NEW — Jalen Coker** — Jalen Coker - Practices fully Tuesday (2026-10-27T19:23:22Z)
+  - After being listed as limited in Monday's practice estimate, Coker was able to take a step forward in activity a day later. With a full practice under his belt, Coker should be ready to handle his usual snap share in Thursday's game against the Packers. Coker -- who was held to one reception on four targets in Week 7 -- and the rest of the passing attack will look to bounce back after Carolina quarterbacks Bryce Young and Kenny Pickett were limited to just 178 yards through the air in a 43-13 loss to the Buccaneers on Sunday.
+- **NEW — Tyrone Tracy Jr.** — Tyrone Tracy - Bound for IR (2026-10-27T18:06:41Z)
+  - Per Duggan, Schoen added that the hamstring injury that Tracy sustained in Sunday's overtime win over the Texans isn't season-ending, but the running back's impending move to IR means that he won't be eligible to play in any of the Giants' next four games. With Tracy out through at least Week 12, Devin Singletary should will be in line to serve as the top complement to lead back Cam Skattebo (hamstring). The Giants are planning to sign Greg Desrosiers off the Chargers' practice squad to add depth to the position group, according to Jordan Raanan of ESPN.com.
+- **NEW — Saquon Barkley** — Saquon Barkley - Plans to play through back issue (2026-10-27T15:38:05Z)
+  - While suiting up for the first time since Week 4 after missing the Eagles' previous two games due to a hamstring strain, Barkley took the field for just 10 snaps on the night but was impactful in his limited playing time. He touched the ball on nine of those snaps, carrying seven times for 62 yards and a touchdown to go with two receptions for nine yards on two targets. Heading into the game, the Eagles had deliberately planned to manage Barkley's workload to some extent, but he ended up seeing fewer snaps than anticipated after his back locked up on him following a 29-yard run in the first quarter. He didn't end up taking any snaps after the third quarter, with the Eagles leaning exclusively on Dameon Pierce (undisclosed) and Elijah Mitchell out of the backfield over the final 15 minutes. Fortunately for Barkley, the back issue doesn't seem to be a major concern, but his activity in practice this week will warrant monitoring as the Eagles assess his availability for Sunday's contest.
+- **NEW — Michael Penix Jr.** — Michael Penix Jr. Is a Streamer Riding a Touchdown Run (2026-10-27T15:21:12Z)
+  - Source: https://www.rotoballer.com/player-news/michael-penix-jr-is-a-streamer-riding-a-touchdown-run/1977259
+- **NEW — Geno Smith** — Geno Smith Is a Week 8 Streamer Against the Raiders (2026-10-27T15:08:15Z)
+  - Source: https://www.rotoballer.com/player-news/geno-smith-is-a-week-8-streamer-against-the-raiders/1977254
+- **NEW — Kyle Monangai** — Kyle Monangai Not Spotted at Tuesday's Practice (2026-10-27T14:45:09Z)
+  - Source: https://www.rotoballer.com/player-news/kyle-monangai-not-spotted-at-tuesdays-practice/1977245
+- **NEW — Brian Thomas Jr.** — Jaguars Saying They Aren't Trading Brian Thomas Jr. (2026-10-27T14:40:13Z)
+  - Source: https://www.rotoballer.com/player-news/jaguars-saying-they-arent-trading-brian-thomas-jr/1977243
+- **NEW — Dameon Pierce** — Dameon Pierce - Makes late exit in Week 7 (2026-10-27T14:28:44Z)
+  - Pierce was the second Eagles running back to make an early exit from Monday's contest, as starter Saquon Barkley was held out for the entire fourth quarter while nursing hamstring and back injuries. Before leaving the contest, Pierce carried 14 times for 47 yards and a touchdown while adding a one-yard reception on his lone target. Ahead of their Week 8 matchup with the Commanders, the Eagles will issue their next injury report Wednesday, when the nature of Pierce's health concern as well as the extent of his practice activity will be revealed.
+- **NEW — Jonathan Taylor** — Colts Don't Seem Likely to Trade Jonathan Taylor (2026-10-27T14:25:14Z)
+  - Source: https://www.rotoballer.com/player-news/colts-dont-seem-likely-to-trade-jonathan-taylor/1977233
+- **NEW — J.J. McCarthy** — J.J. McCarthy Worth a Speculative Waiver Addition (2026-10-27T14:21:14Z)
+  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-worth-a-speculative-add/1977229
+- **NEW — Keenan Allen** — Could Keenan Allen Be the Next Colts Player on the Move? (2026-10-27T14:03:14Z)
+  - Source: https://www.rotoballer.com/player-news/could-keenan-allen-be-the-next-colts-player-on-the-move/1977212
+- **NEW — Tyrone Tracy Jr.** — Tyrone Tracy Jr. Headed to Injured Reserve (2026-10-27T14:01:12Z)
+  - Source: https://www.rotoballer.com/player-news/tyrone-tracy-jr-headed-to-injured-reserve/1977209
+- **NEW — Josh Downs** — Josh Downs a Potential Trade Candidate Ahead of NFL Deadline (2026-10-27T13:49:12Z)
+  - Source: https://www.rotoballer.com/player-news/josh-downs-a-potential-trade-candidate-ahead-of-nfl-deadline/1977198
+- **NEW — Baker Mayfield** — Baker Mayfield a Streaming Option After a Quiet Return (2026-10-27T13:37:13Z)
+  - Source: https://www.rotoballer.com/player-news/baker-mayfield-a-streaming-option-after-a-quiet-return/1977190
+- **NEW — Roschon Johnson** — Roschon Johnson Worth Stashing in Deep Leagues Only (2026-10-27T13:29:13Z)
+  - Source: https://www.rotoballer.com/player-news/roschon-johnson-worth-stashing-in-deep-leagues-only/1977182
+- **NEW — Kirk Cousins** — Kirk Cousins Remains a Strong Weekly Play (2026-10-27T13:26:17Z)
+  - Source: https://www.rotoballer.com/player-news/kirk-cousins-remains-a-strong-weekly-play/1977179
+- **NEW — Malik Willis** — Malik Willis Beginning to Deliver for Fantasy Managers (2026-10-27T13:14:11Z)
+  - Source: https://www.rotoballer.com/player-news/malik-willis-beginning-to-deliver-for-fantasy/1977161
+- **NEW — Jacoby Brissett** — Jacoby Brissett Back on the Streaming Radar in Week 8 (2026-10-27T12:58:11Z)
+  - Source: https://www.rotoballer.com/player-news/jacoby-brissett-back-on-the-streaming-radar-in-week-8/1977154
+- **NEW — Darren Waller** — Darren Waller Remains an Extremely Risky Streaming Option (2026-10-27T12:32:23Z)
+  - Source: https://www.rotoballer.com/player-news/darren-waller-remains-an-extremely-risky-streaming-option/1977129
+- **NEW — Tyreek Hill** — Tyreek Hill Still a Waiver Target With No Signing Imminent? (2026-10-27T12:28:15Z)
+  - Source: https://www.rotoballer.com/player-news/tyreek-hill-still-a-waiver-target-with-no-signing-imminent/1977122
+- **NEW — Kyler Murray** — Kyler Murray Still Adjusting to Vikings' Passing Game (2026-10-27T12:18:14Z)
+  - Source: https://www.rotoballer.com/player-news/kyler-murray-still-adjusting-to-vikings-passing-game/1977101
+- **Dameon Pierce** — Dameon Pierce finds end zone Monday (2026-10-27T12:10:04.117000Z)
   - Pierce saw the most carries on the team on Monday night, with Saquon Barkley (hamstring) still having a limited workload in his return game. Barkley seems to have gotten banged up in this game as well, so if he's out next week, Pierce will prove to be startable in a lot of league formats in a matchup against the Commanders on Sunday night next week.
   - Source: https://www.fantasypros.com/nfl/news/616112/dameon-pierce-finds-end-zone-monday.php
-- **NEW — Darius Cooper** — Darius Cooper quiet in loss Monday (2026-10-27T12:00:04.119000Z)
+- **NEW — Saquon Barkley** — Saquon Barkley Not Worried About his Back Injury (2026-10-27T12:06:21Z)
+  - Source: https://www.rotoballer.com/player-news/saquon-barkley-not-worried-about-his-back-injury/1977091
+- **Darius Cooper** — Darius Cooper quiet in loss Monday (2026-10-27T12:00:04.119000Z)
   - The Eagles weren't able to get Cooper going on Monday, as he finished with just 17 yards in this loss to their divisional rival. He will likely have a couple of boom games over the remainder of the season, but fantasy managers shouldn't trust him at this point.
   - Source: https://www.fantasypros.com/nfl/news/616111/darius-cooper-quiet-loss-monday.php
-- **NEW — Tanner McKee** — Tanner McKee throws one touchdown in loss Monday (2026-10-27T12:00:03.870000Z)
+- **Tanner McKee** — Tanner McKee throws one touchdown in loss Monday (2026-10-27T12:00:03.870000Z)
   - McKee got the start for Philadelphia on Monday night. He didn't have a very strong showing against the Cowboys, but it wasn't all bad, finishing with 200 yards and a touchdown with one pick. He is not expected to be fantasy relevant moving forward, however.
   - Source: https://www.fantasypros.com/nfl/news/616107/tanner-mckee-throws-one-touchdown-loss-monday.php
-- **NEW — Dallas Goedert** — Dallas Goedert hauls in five passes Monday (2026-10-27T12:00:03.857000Z)
+- **Dallas Goedert** — Dallas Goedert hauls in five passes Monday (2026-10-27T12:00:03.857000Z)
   - The veteran played pretty well on Monday. He hauled in five passes over the course of the game and was able to turn that into 48 yards, but he didn't get into the end zone at all, which left him with a mediocre fantasy finish in most league formats. He will likely continue to be startable moving forward, especially if DeVonta Smith (hamstring) misses more time.
   - Source: https://www.fantasypros.com/nfl/news/616108/dallas-goedert-hauls-five-passes-monday.php
-- **NEW — Saquon Barkley** — Saquon Barkley gets banged up in return game Monday (2026-10-27T12:00:03.843000Z)
+- **Saquon Barkley** — Saquon Barkley gets banged up in return game Monday (2026-10-27T12:00:03.843000Z)
   - Monday night was Barkley's return game after he misses several weeks with a hamstring issue. He looked good with 62 yards and a touchdown in his limited action, but he tweaked his hamstring and suffered a new back issue that may affect him moving forward. Fantasy managers should keep close tabs on his injury status heading into Week 8.
   - Source: https://www.fantasypros.com/nfl/news/616109/saquon-barkley-gets-banged-up-return-game-monday.php
-- **NEW — Makai Lemon** — Makai Lemon plays well in loss Monday (2026-10-27T12:00:03.818000Z)
+- **Makai Lemon** — Makai Lemon plays well in loss Monday (2026-10-27T12:00:03.818000Z)
   - The rookie finally had a high-production game, finishing with the most receptions, receiving yards, and touchdowns out of anyone on the team on Monday night. This performance was a good sign that he's not dead in the water after a slow start to the season, but he's unlikely to keep up at this pace when DeVonta Smith (hamstring) makes his return to the lineup.
   - Source: https://www.fantasypros.com/nfl/news/616110/makai-lemon-plays-well-loss-monday.php
-- **NEW — Keon Coleman** — Keon Coleman Worth Stashing Despite Inconsistent Production (2026-10-27T10:07:18Z)
+- **NEW — Kaytron Allen** — Kaytron Allen Is a Deep Stash After Teammate's Injury (2026-10-27T11:53:13Z)
+  - Source: https://www.rotoballer.com/player-news/kaytron-allen-is-a-deep-stash-after-wright-injury/1977080
+- **NEW — Eli Raridon** — Eli Raridon Worth Adding After Another Strong Performance (2026-10-27T11:00:35Z)
+  - Source: https://www.rotoballer.com/player-news/eli-raridon-worth-adding-after-another-strong-performance/1977020
+- **NEW — Tyler Higbee** — Tyler Higbee Losing Appeal as Week 8 Streamer (2026-10-27T10:47:14Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-higbee-losing-appeal-as-week-8-streamer/1977006
+- **NEW — Michael Mayer** — Michael Mayer Still Worth Stashing Despite Quiet Week 7 (2026-10-27T10:29:12Z)
+  - Source: https://www.rotoballer.com/player-news/michael-mayer-still-worth-stashing-despite-quiet-week-7/1976997
+- **NEW — Colby Parkinson** — Colby Parkinson Worth Stashing After Increased Involvement (2026-10-27T10:23:13Z)
+  - Source: https://www.rotoballer.com/player-news/colby-parkinson-worth-stashing-after-increased-involvement/1976995
+- **Keon Coleman** — Keon Coleman Worth Stashing Despite Inconsistent Production (2026-10-27T10:07:18Z)
   - Source: https://www.rotoballer.com/player-news/keon-coleman-worth-stashing-despite-inconsistent-production/1976989
-- **NEW — Konata Mumpfield** — Konata Mumpfield Still a Strong Stash Despite Quiet Week (2026-10-27T09:59:09Z)
+- **Konata Mumpfield** — Konata Mumpfield Still a Strong Stash Despite Quiet Week (2026-10-27T09:59:09Z)
   - Source: https://www.rotoballer.com/player-news/konata-mumpfield-still-a-strong-stash-despite-quiet-week/1976981
-- **NEW — Tre' Harris** — Tre' Harris Offers Upside From the Waiver Wire (2026-10-27T09:36:16Z)
+- **Tre' Harris** — Tre' Harris Offers Upside From the Waiver Wire (2026-10-27T09:36:16Z)
   - Source: https://www.rotoballer.com/player-news/tre-harris-offers-upside-from-the-waiver-wire/1976940
-- **NEW — Malachi Fields** — Malachi Fields A Solid Stash for Receiver Depth (2026-10-27T09:24:12Z)
+- **Malachi Fields** — Malachi Fields A Solid Stash for Receiver Depth (2026-10-27T09:24:12Z)
   - Source: https://www.rotoballer.com/player-news/malachi-fields-a-solid-stash-for-receiver-depth/1976911
-- **NEW — Saquon Barkley** — Saquon Barkley Says His "Hamstring Came Out Great" After Week 7 Return (2026-10-27T09:14:11Z)
+- **Saquon Barkley** — Saquon Barkley Says His "Hamstring Came Out Great" After Week 7 Return (2026-10-27T09:14:11Z)
   - Source: https://www.rotoballer.com/player-news/saquon-barkley-says-his-hamstring-came-out-great-after-week-7-return/1976894
 - **Deebo Samuel Sr.** — Deebo Samuel Sr. (hamstring) expected to return after bye week (2026-10-27T05:30:29.370000Z)
   - Samuel hasn't practiced since injuring his hamstring in the 49ers Week 5 win over the Seahawks. He'll hope to return after the bye week. 
@@ -169,58 +223,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/makai-lemon-a-waiver-wire-target-amid-eagles-wr-injuries/1976688
 - **Dameon Pierce** — Dameon Pierce Finds End Zone, Leaves Early Monday With Injury (2026-10-26T23:25:14Z)
   - Source: https://www.rotoballer.com/player-news/dameon-pierce-finds-end-zone-leaves-early-monday-with-injury/1976683
-- **Cole Payton** — Cole Payton - Inactive, emergency QB versus Dallas (2026-10-26T23:00:32Z)
-  - Payton will serve as the emergency signal-caller, meaning he won't be able to play unless Tanner McKee and Joe Milton exit the game due to injury, illness or ejection.
-- **Dameon Pierce** — Dameon Pierce - Returning to reserve role (2026-10-26T22:55:05Z)
-  - With Barkley out of the lineup the last two games, Pierce accounted for 27 touches for 62 yards from scrimmage and one rushing TD. In Barkley's two healthy outings this season, he averaged 16.0 touches per game, and if he takes on such a role Monday, Pierce will have to fight for scraps in the Eagles offense. Elijah Mitchell also is on hand for RB reps.
-- **Malik Washington** — Malik Washington - Totals 35 yards in win (2026-10-26T22:49:20Z)
-  - Greg Dulcich ended up leading the Dolphins in targets (five), catches (five) and yards (86) on a day Malik Willis attempted just 21 passes and spread the ball around to eight different pass catchers. Washington will look to bounce back next Sunday against the Patriots, where he'll have some WR4 appeal in fantasy.
-- **Saquon Barkley** — Saquon Barkley - Back in action Monday (2026-10-26T22:48:26Z)
-  - Barkley is available to power the Eagles' backfield for the first time since Week 4, ending a two-game absence due to a hamstring injury. Considering he practiced fully Saturday, he may be ready to operate as a workhorse as he did in his two healthy games (Weeks 1 and 3) this season. In those games, Barkley combined for 32 touches for 160 yards from scrimmage and no TDs.
-- **Dylan Sampson** — Dylan Sampson is Quickly Gaining Value (2026-10-26T22:46:11Z)
-  - Source: https://www.rotoballer.com/player-news/dylan-sampson-is-quickly-gaining-value/1976668
-- **Deebo Samuel Sr.** — Deebo Samuel - Eyes Week 9 return (2026-10-26T22:35:45Z)
-  - All three of Mike Evans (Achilles), Samuel and Demarcus Robinson (ankle) are eyeing a Week 9 return against the Raiders, so the 49ers' wide receiver depth chart could look vastly different coming out of the bye. Samuel would likely go back to his part-time role, handling short-area passes and an occasional handoff or two. He's not a particularly exciting fantasy play when Evans, George Kittle and Christian McCaffrey (hamstring) are all healthy.
-- **Jonathon Brooks** — Jonathon Brooks is Worth Stashing with Return Looming (2026-10-26T22:30:15Z)
-  - Source: https://www.rotoballer.com/player-news/jonathon-brooks-is-worth-stashing-with-return-looming/1976661
-- **Demarcus Robinson** — Demarcus Robinson - Could be back following bye week (2026-10-26T22:25:33Z)
-  - Shanahan said the same thing 11 days ago, so the timeline appears to remain in place for Robinson, who suffered a high-ankle sprain way back in Week 2 against Miami. The Niners are expected to get plenty of reinforcements following their open date, and all three of Mike Evans (Achilles), Deebo Samuel (hamstring) and Robinson could be among those returning for Week 9 against Las Vegas.
-- **De'Zhaun Stribling** — De'Zhaun Stribling - Remains on track for December return (2026-10-26T22:17:15Z)
-  - Stribling was injured in the 49ers' Week 1 win over the Rams in Australia and remains on injured reserve. He missed a big opportunity for snaps and targets with the team dealing with so many injuries at the wide receiver position, but all indications are Stribling will be back for the stretch run and a possible trip to the playoffs.
-- **Pat Freiermuth** — Pat Freiermuth Could be Worth Stashing (2026-10-26T22:16:16Z)
-  - Source: https://www.rotoballer.com/player-news/pat-freiermuth-could-be-worth-stashing/1976656
-- **Mike Evans** — Mike Evans - Expected back after bye week (2026-10-26T22:15:01Z)
-  - After missing Sunday's game against the Falcons with the Achilles issue, Evans appears to be trending toward a return for San Francisco's next contest in Week 9 against the Raiders. Working as the Niners' big-play X receiver this season, Evans has been nearly unstoppable when healthy. Maintaining health has been his biggest issue. When on the field, Evans is a fantasy WR2 with WR1 upside.
-- **Christian McCaffrey** — Christian McCaffrey - Dealing with mild hamstring strain (2026-10-26T22:12:55Z)
-  - After McCaffrey briefly exited Sunday's loss to Atlanta with what had been described as a thigh issue, this update offers more clarity on the injury and a favorable outlook. The timing of the 49ers' bye gives the veteran running back added recovery time ahead of their next game in Week 9 versus the Raiders, though his practice status will still be worth monitoring once San Francisco returns to work. Kaelon Black will be a priority add off waivers considering CMC's injury history.
-- **Chris Rodriguez Jr.** — Chris Rodriguez Jr. Remains an Appealing Running Back Stash (2026-10-26T21:59:12Z)
-  - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-remains-an-appealing-running-back-stash/1976654
-- **Chig Okonkwo** — Chig Okonkwo a Breakout Candidate to Target on the Waiver Wire (2026-10-26T21:49:11Z)
-  - Source: https://www.rotoballer.com/player-news/chig-okonkwo-a-breakout-candidate-to-target-on-the-waiver-wire/1976646
-- **Matthew Golden** — Matthew Golden - Listed as DNP on Monday (2026-10-26T21:46:45Z)
-  - After being limited last week due to a shoulder injury, Golden was able to suit up Sunday at Detroit, logging an 85 percent snap share and corralling six of 12 targets for 39 yards. As Week 8 prep kicks off, he's also tending to a foot issue. Golden will have two more chances to be listed as something other than DNP this week before the Packers potentially tag him with a designation for Thursday's game against the Panthers.
-- **DeMario Douglas** — DeMario Douglas Still Carries Clear Streamer Appeal on the Waiver Wire (2026-10-26T21:40:12Z)
-  - Source: https://www.rotoballer.com/player-news/demario-douglas-still-carries-clear-streamer-appeal-on-the-waiver-wire/1976643
-- **Jeremiyah Love** — Jeremiyah Love - Set to practice Wednesday (2026-10-26T21:39:14Z)
-  - Love has missed the last two games due to a lingering ankle issue, which allowed Tyler Allgeier and Bam Knight to split backfield reps during that span. More likely than not, Love will need to string together multiple practices in a row to put himself in a position to return to action this coming Sunday at Dallas.
-- **Jalen Coker** — Jalen Coker - Listed as limited Monday (2026-10-26T21:34:25Z)
-  - Coker previously dealt with ankle and quadriceps issues this season, so this is a new health concern for the third-year pro. While he dropped from 13 targets in a Week 6 win at Philadelphia to just four targets Sunday against the Buccaneers, he still ranked second in snap share (66 percent) among Carolina wide receivers behind Tetairoa McMillan (68 percent). Considering Coker logged a capped walkthrough Monday, he likely is on pace to play Thursday in Green Bay, but Wednesday's injury report will determine if he as a designation for that contest.
-- **Malik Washington** — Malik Washington Remains a Viable PPR Streamer Despite Quiet Week 7 (2026-10-26T21:31:12Z)
-  - Source: https://www.rotoballer.com/player-news/malik-washington-remains-a-viable-ppr-streamer-despite-quiet-week-7/1976637
-- **Mike Washington Jr.** — Mike Washington Jr. a Top Add Ahead of Potential Breakout in Las Vegas (2026-10-26T21:25:13Z)
-  - Source: https://www.rotoballer.com/player-news/mike-washington-jr-a-top-add-ahead-of-potential-breakout-in-las-vegas/1976633
-- **Keaton Mitchell** — Keaton Mitchell Could Be Worth Stashing Given Backfield Uncertainty (2026-10-26T21:11:13Z)
-  - Source: https://www.rotoballer.com/player-news/keaton-mitchell-could-be-worth-stashing-given-backfield-uncertainty-in-los-angeles/1976621
-- **Ladd McConkey** — Ladd McConkey - Spotted practicing Monday (2026-10-26T21:02:21Z)
-  - After a Week 7 bye, the Chargers held an unofficial practice Monday as they begin prepping for a road matchup with the Rams next Sunday. Though the team won't have to release its first Week 8 injury report Wednesday, McConkey appears poised to be listed as at least a limited practice participant, which suggests that he's made some progress through the five-step concussion protocol. The wideout will look to practice fully by the end of the week and receive clearance from an independent neurologist in order to play against the Rams.
-- **Deebo Samuel Sr.** — Deebo Samuel Sr. has a Chance to Return in Week 9 (2026-10-26T20:31:12Z)
-  - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-has-a-chance-to-return-in-week-9/1976593
-- **Eli Stowers** — Eli Stowers - Available for NFL debut (2026-10-26T20:26:45Z)
-  - Philadelphia had listed Stowers as questionable for the contest, but after bringing him back from IR, the rookie second-round pick out of Vanderbilt will be available to make his NFL debut after sitting out the team's first six games of the season. With Grant Calcaterra (back) also being reinstated from IR, the Eagles now have four tight ends on the 53-man roster. Dallas Goedert should be locked into a sizable snap share as the Eagles' starting tight end, while Calcaterra and Johnny Mundt function mainly as blockers at the position and Stowers provides more of a pass-catching presence. Stowers' receiving skills could come in handy while the Eagles are down their top two wideouts in DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) on Monday.
-- **Eli Stowers** — Eli Stowers (quad/hamsting) to be activated from IR, will play on Monday (2026-10-26T20:20:05.599000Z)
-  - Stowers has yet to play in 2026 due to injuries sustained in the preseason. The rookie second round pick will now make his season debut, and look to make an impact for a struggling Eagles roster.
-  - Source: https://www.fantasypros.com/nfl/news/616033/eli-stowers-quadhamsting-to-be-activated-from-ir-will-play-on-monday.php
-- **Jack Bech** — Jack Bech - Making return to practice (2026-10-26T20:19:27Z)
-  - The transaction opens up a 21-day window wherein Bech can practice with the team while the Raiders evaluate him for a potential return to the 53-man roster. Before fracturing his left forearm in a Week 3 win over the Saints, Bech had recorded five receptions for 48 yards and a touchdown on six targets while serving as the Raiders' No. 3 wideout behind Tre Tucker and Jalen Nailor.
-- **Joe Milton** — Joe Milton III Serving as Eagles' Backup QB on Monday Night (2026-10-26T19:59:12Z)
-  - Source: https://www.rotoballer.com/player-news/joe-milton-serving-as-eagles-backup-qb-on-monday-night/1976572
