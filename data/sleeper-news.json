@@ -1,53 +1,40 @@
 {
-  "last_checked_at": "2026-10-27T02:21:02Z",
+  "last_checked_at": "2026-10-27T08:03:23Z",
   "league_id": "1312075409780649984",
-  "monitored_player_count": 304,
+  "monitored_player_count": 303,
   "new_story_ids": [
-    "nfl|10219|rotoballer|225613|1793051952000",
-    "nfl|11439|rotowire|644602|1793063432000",
-    "nfl|11557|rotoballer|225603|1793044752000",
-    "nfl|11610|rotoballer|225609|1793050272000",
-    "nfl|11625|rotowire|644576|1793060652000",
-    "nfl|11627|rotowire|644577|1793060657000",
-    "nfl|12497|rotowire|644588|1793061685000",
-    "nfl|12499|rotowire|644584|1793061290000",
-    "nfl|12535|rotowire|644611|1793065229000",
-    "nfl|12718|rotowire|644569|1793059839000",
-    "nfl|13269|rotowire|644579|1793060762000",
-    "nfl|13274|rotowire|644562|1793058584000",
-    "nfl|13293|rotowire|644600|1793062841000",
-    "nfl|13305|rotoballer|225608|1793049913000",
-    "nfl|13311|rotowire|644593|1793062411000",
-    "nfl|13317|rotowire|644618|1793065986000",
-    "nfl|13337|rotowire|644585|1793061422000",
-    "nfl|13405|rotowire|644580|1793061024000",
-    "nfl|13413|rotowire|644601|1793063172000",
-    "nfl|13417|rotoballer|225602|1793044392000",
-    "nfl|13424|rotowire|644603|1793063473000",
-    "nfl|13425|rotowire|644606|1793064337000",
-    "nfl|1479|rotowire|644551|1793057665000",
-    "nfl|2197|rotowire|644555|1793058125000",
-    "nfl|2216|rotoballer|225601|1793044029000",
-    "nfl|2306|rotowire|644605|1793063773000",
-    "nfl|3271|rotowire|644563|1793058640000",
-    "nfl|4034|rotoballer|225600|1793043672000",
-    "nfl|4039|rotowire|644591|1793062102000",
-    "nfl|4454|rotowire|644572|1793060302000",
-    "nfl|4866|rotoballer|225599|1793042891000",
-    "nfl|5857|rotowire|644570|1793059861000",
-    "nfl|5872|rotoballer|225605|1793046672000",
-    "nfl|5995|rotowire|644594|1793062486000",
-    "nfl|6783|rotowire|644578|1793060683000",
-    "nfl|7562|rotowire|644615|1793065655000",
-    "nfl|7571|rotowire|644586|1793061488000",
-    "nfl|8119|rotowire|644566|1793059073000",
-    "nfl|8180|rotowire|644573|1793060403000",
-    "nfl|8210|rotoballer|225612|1793051351000",
-    "nfl|9501|rotoballer|225611|1793050812000",
-    "nfl|9502|rotowire|644592|1793062223000",
-    "nfl|9504|rotowire|644581|1793061070000",
-    "nfl|9511|rotoballer|225607|1793049073000",
-    "nfl|9757|rotowire|644557|1793058315000"
+    "nfl|11533|fantasy_pros|616079|1793074228562",
+    "nfl|11583|rotoballer|225616|1793053815000",
+    "nfl|11783|fantasy_pros|616077|1793074228591",
+    "nfl|11783|rotowire|644634|1793074757000",
+    "nfl|12469|rotoballer|225618|1793054771000",
+    "nfl|12530|rotoballer|225627|1793065091000",
+    "nfl|13294|rotoballer|225621|1793057532000",
+    "nfl|13294|rotowire|644632|1793074310000",
+    "nfl|2216|fantasy_pros|616082|1793079029035",
+    "nfl|3294|fantasy_pros|616072|1793073028651",
+    "nfl|3294|rotowire|644627|1793072732000",
+    "nfl|4034|fantasy_pros|616081|1793079029049",
+    "nfl|4866|rotoballer|225624|1793061552000",
+    "nfl|4866|rotowire|644625|1793069401000",
+    "nfl|4866|rotowire|644631|1793074140000",
+    "nfl|4993|rotoballer|225626|1793062272000",
+    "nfl|5022|rotowire|644633|1793074548000",
+    "nfl|5872|fantasy_pros|616083|1793079029370",
+    "nfl|6786|fantasy_pros|616074|1793073628377",
+    "nfl|6786|rotoballer|225623|1793058587000",
+    "nfl|6786|rotowire|644626|1793072398000",
+    "nfl|7567|rotoballer|225625|1793061851000",
+    "nfl|7588|fantasy_pros|616073|1793073028636",
+    "nfl|7588|rotoballer|225622|1793057953000",
+    "nfl|7588|rotowire|644628|1793073220000",
+    "nfl|7600|rotoballer|225614|1793052976000",
+    "nfl|8110|fantasy_pros|616076|1793073628657",
+    "nfl|8129|rotoballer|225620|1793057114000",
+    "nfl|8129|rotowire|644636|1793075204000",
+    "nfl|8137|fantasy_pros|616075|1793073628365",
+    "nfl|8137|rotowire|644629|1793073646000",
+    "nfl|9230|rotowire|644630|1793074017000"
   ],
   "schema_version": 1,
   "source": {
@@ -57,6 +44,436 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Samuel hasn't practiced since injuring his hamstring in the 49ers Week 5 win over the Seahawks. He'll hope to return after the bye week. ",
+      "description": "49ers head coach Kyle Shanahan told reporters he expects Deebo Samuel Sr. to be good to go following the 49ers Week 8 bye week. ",
+      "metadata": {
+        "analysis": "Samuel hasn't practiced since injuring his hamstring in the 49ers Week 5 win over the Seahawks. He'll hope to return after the bye week. ",
+        "description": "49ers head coach Kyle Shanahan told reporters he expects Deebo Samuel Sr. to be good to go following the 49ers Week 8 bye week. ",
+        "title": "Deebo Samuel Sr. (hamstring) expected to return after bye week",
+        "topic_id": "1420680054966325248",
+        "url": "https://www.fantasypros.com/nfl/news/616083/deebo-samuel-sr-hamstring-expected-to-return-after-bye-week.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "5872",
+      "player_name": "Deebo Samuel Sr.",
+      "position": "WR",
+      "published": 1793079029370,
+      "source": "fantasy_pros",
+      "source_key": "616083",
+      "story_id": "nfl|5872|fantasy_pros|616083|1793079029370",
+      "title": "Deebo Samuel Sr. (hamstring) expected to return after bye week",
+      "url": "https://www.fantasypros.com/nfl/news/616083/deebo-samuel-sr-hamstring-expected-to-return-after-bye-week.php"
+    },
+    {
+      "analysis": "McCaffrey briefly left Sunday's game against the Falcons with the injury. 49ers head coach Kyle Shanahan told reporters that he believes McCaffrey will be ready to play when the team comes out of their Week 8 bye.  ",
+      "description": "The 49ers say RB Christian McCaffrey has a mild hamstring strain. ",
+      "metadata": {
+        "analysis": "McCaffrey briefly left Sunday's game against the Falcons with the injury. 49ers head coach Kyle Shanahan told reporters that he believes McCaffrey will be ready to play when the team comes out of their Week 8 bye.  ",
+        "description": "The 49ers say RB Christian McCaffrey has a mild hamstring strain. ",
+        "title": "Christian McCaffrey dealing with mild hamstring strain",
+        "topic_id": "1420680053619953664",
+        "url": "https://www.fantasypros.com/nfl/news/616081/christian-mccaffrey-dealing-with-mild-hamstring-strain.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1793079029049,
+      "source": "fantasy_pros",
+      "source_key": "616081",
+      "story_id": "nfl|4034|fantasy_pros|616081|1793079029049",
+      "title": "Christian McCaffrey dealing with mild hamstring strain",
+      "url": "https://www.fantasypros.com/nfl/news/616081/christian-mccaffrey-dealing-with-mild-hamstring-strain.php"
+    },
+    {
+      "analysis": "Evans sat out the 49ers loss before the bye against the Falcons on Sunday. He'll hope to return after missing just one game. ",
+      "description": "49ers head coach Kyle Shanahan told reporters he expects Mike Evans to be good to go following the 49ers Week 8 bye week. ",
+      "metadata": {
+        "analysis": "Evans sat out the 49ers loss before the bye against the Falcons on Sunday. He'll hope to return after missing just one game. ",
+        "description": "49ers head coach Kyle Shanahan told reporters he expects Mike Evans to be good to go following the 49ers Week 8 bye week. ",
+        "title": "Mike Evans (Achilles) expected to return after bye week",
+        "topic_id": "1420680053561233408",
+        "url": "https://www.fantasypros.com/nfl/news/616082/mike-evans-achilles-expected-to-return-after-bye-week.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "2216",
+      "player_name": "Mike Evans",
+      "position": "WR",
+      "published": 1793079029035,
+      "source": "fantasy_pros",
+      "source_key": "616082",
+      "story_id": "nfl|2216|fantasy_pros|616082|1793079029035",
+      "title": "Mike Evans (Achilles) expected to return after bye week",
+      "url": "https://www.fantasypros.com/nfl/news/616082/mike-evans-achilles-expected-to-return-after-bye-week.php"
+    },
+    {
+      "analysis": "Pierce opened the night in a clear No. 2 role behind the returning Saquon Barkley, but the latter's eventual exit in the fourth quarter due to a back injury helped Pierce double up his teammate in carries. Pierce finished with season highs in rush attempts and rushing yards, and he scored his second touchdown of the campaign on a five-yard run early in the second quarter. With Barkley now navigating multiple injuries, there's a possibility Pierce is back in the top role for a Week 8 road matchup against the Commanders on Sunday night.",
+      "description": "Pierce rushed 14 times for 47 yards and a touchdown and brought in his only target for one yard in the Eagles' 38-21 loss to the Cowboys on Monday night. He also returned two kickoffs for 37 yards.",
+      "metadata": {
+        "analysis": "Pierce opened the night in a clear No. 2 role behind the returning Saquon Barkley, but the latter's eventual exit in the fourth quarter due to a back injury helped Pierce double up his teammate in carries. Pierce finished with season highs in rush attempts and rushing yards, and he scored his second touchdown of the campaign on a five-yard run early in the second quarter. With Barkley now navigating multiple injuries, there's a possibility Pierce is back in the top role for a Week 8 road matchup against the Commanders on Sunday night.",
+        "description": "Pierce rushed 14 times for 47 yards and a touchdown and brought in his only target for one yard in the Eagles' 38-21 loss to the Cowboys on Monday night. He also returned two kickoffs for 37 yards.",
+        "title": "Dameon Pierce - Solid volume as Barkley exits early",
+        "topic_id": "1420664949864206336"
+      },
+      "nfl_team": "PHI",
+      "player_id": "8129",
+      "player_name": "Dameon Pierce",
+      "position": "RB",
+      "published": 1793075204000,
+      "source": "rotowire",
+      "source_key": "644636",
+      "story_id": "nfl|8129|rotowire|644636|1793075204000",
+      "title": "Dameon Pierce - Solid volume as Barkley exits early",
+      "url": null
+    },
+    {
+      "analysis": "Flournoy tied with George Pickens for second in receptions and outgained his teammate by 13 receiving yards to finish as the runner-up in that category as well. The second-year wideout has popped for 90- and 70-yard tallies in two of his last three games, and although his week-to-week production remains somewhat erratic, Flournoy does have some upside thanks to his growing chemistry with Dak Prescott.",
+      "description": "Flournoy secured all four targets for 70 yards in the Cowboys' 38-21 win over the Eagles on Monday night.",
+      "metadata": {
+        "analysis": "Flournoy tied with George Pickens for second in receptions and outgained his teammate by 13 receiving yards to finish as the runner-up in that category as well. The second-year wideout has popped for 90- and 70-yard tallies in two of his last three games, and although his week-to-week production remains somewhat erratic, Flournoy does have some upside thanks to his growing chemistry with Dak Prescott.",
+        "description": "Flournoy secured all four targets for 70 yards in the Cowboys' 38-21 win over the Eagles on Monday night.",
+        "title": "Ryan Flournoy - Four catches in Week 7 win",
+        "topic_id": "1420662432921038848"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11783",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "published": 1793074757000,
+      "source": "rotowire",
+      "source_key": "644634",
+      "story_id": "nfl|11783|rotowire|644634|1793074757000",
+      "title": "Ryan Flournoy - Four catches in Week 7 win",
+      "url": null
+    },
+    {
+      "analysis": "On a night when both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) were sidelined, Goedert served as an even more important target than usual. The veteran tight end finished second in all of receptions, receiving yards and targets for the Eagles on the night, and he's now recorded at least five catches in three consecutive games. Goedert has 24 targets over that span as well, and he should remain similarly busy in a Week 8 road matchup against the Commanders on Sunday night.",
+      "description": "Goedert secured five of seven targets for 48 yards in the Eagles' 38-21 loss to the Cowboys on Monday night.",
+      "metadata": {
+        "analysis": "On a night when both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) were sidelined, Goedert served as an even more important target than usual. The veteran tight end finished second in all of receptions, receiving yards and targets for the Eagles on the night, and he's now recorded at least five catches in three consecutive games. Goedert has 24 targets over that span as well, and he should remain similarly busy in a Week 8 road matchup against the Commanders on Sunday night.",
+        "description": "Goedert secured five of seven targets for 48 yards in the Eagles' 38-21 loss to the Cowboys on Monday night.",
+        "title": "Dallas Goedert - Five catches in Week 7 loss",
+        "topic_id": "1420662432904261632"
+      },
+      "nfl_team": "PHI",
+      "player_id": "5022",
+      "player_name": "Dallas Goedert",
+      "position": "TE",
+      "published": 1793074548000,
+      "source": "rotowire",
+      "source_key": "644633",
+      "story_id": "nfl|5022|rotowire|644633|1793074548000",
+      "title": "Dallas Goedert - Five catches in Week 7 loss",
+      "url": null
+    },
+    {
+      "analysis": "Lemon operated as the Eagles' de facto No. 1 receiver on a night where both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) were sidelined, and the rookie met the moment by posting career- and team-high figures across the board in receptions, receiving yards and targets. Lemon rounded out his solid performance by recording his first NFL touchdown catch on a four-yard scoring grab with just under six minutes remaining in the third quarter. Lemon could have another opportunity to spearhead the air attack in a Week 8 road matchup against the Commanders on Sunday night, as both Smith and Wicks may be hard-pressed to get healthy enough to suit up for that contest.",
+      "description": "Lemon brought in seven of eight targets for 67 yards and a touchdown in the Eagles' 38-21 loss to the Cowboys on Monday night.",
+      "metadata": {
+        "analysis": "Lemon operated as the Eagles' de facto No. 1 receiver on a night where both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) were sidelined, and the rookie met the moment by posting career- and team-high figures across the board in receptions, receiving yards and targets. Lemon rounded out his solid performance by recording his first NFL touchdown catch on a four-yard scoring grab with just under six minutes remaining in the third quarter. Lemon could have another opportunity to spearhead the air attack in a Week 8 road matchup against the Commanders on Sunday night, as both Smith and Wicks may be hard-pressed to get healthy enough to suit up for that contest.",
+        "description": "Lemon brought in seven of eight targets for 67 yards and a touchdown in the Eagles' 38-21 loss to the Cowboys on Monday night.",
+        "title": "Makai Lemon - Paces pass catchers in Week 7 loss",
+        "topic_id": "1420661173874905088"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1793074310000,
+      "source": "rotowire",
+      "source_key": "644632",
+      "story_id": "nfl|13294|rotowire|644632|1793074310000",
+      "title": "Makai Lemon - Paces pass catchers in Week 7 loss",
+      "url": null
+    },
+    {
+      "analysis": "Flournoy wasn't heavily targeted on Monday night, but he was able to make the most out of his four opportunities by turning them into four catches for 70 total yards. He isn't fantasy relevant at this point, but he is currently a strong contributor for the Cowboys in real life and worth keeping an eye on if someone ahead of him on the depth chart suffers an injury.",
+      "description": "Ryan Flournoy caught four passes for 70 yards in Monday's 38-21 win over the Philadelphia Eagles.",
+      "metadata": {
+        "analysis": "Flournoy wasn't heavily targeted on Monday night, but he was able to make the most out of his four opportunities by turning them into four catches for 70 total yards. He isn't fantasy relevant at this point, but he is currently a strong contributor for the Cowboys in real life and worth keeping an eye on if someone ahead of him on the depth chart suffers an injury.",
+        "description": "Ryan Flournoy caught four passes for 70 yards in Monday's 38-21 win over the Philadelphia Eagles.",
+        "title": "Ryan Flournoy racks up 70 yards in win Monday",
+        "topic_id": "1420659919044022272",
+        "url": "https://www.fantasypros.com/nfl/news/616077/ryan-flournoy-racks-up-70-yards-win-monday.php"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11783",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "published": 1793074228591,
+      "source": "fantasy_pros",
+      "source_key": "616077",
+      "story_id": "nfl|11783|fantasy_pros|616077|1793074228591",
+      "title": "Ryan Flournoy racks up 70 yards in win Monday",
+      "url": "https://www.fantasypros.com/nfl/news/616077/ryan-flournoy-racks-up-70-yards-win-monday.php"
+    },
+    {
+      "analysis": "Aubrey had a perfect showing on Monday night, making all six of his kicks in a win over the Eagles. He is one of the NFL's best kickers and should continue to produce like it moving forward.",
+      "description": "Brandon Aubrey went 3-for-3 on his field-goal attempts and 3-for-3 on his extra-point attempts in Monday night's 38-21 win over the Philadelphia Eagles.",
+      "metadata": {
+        "analysis": "Aubrey had a perfect showing on Monday night, making all six of his kicks in a win over the Eagles. He is one of the NFL's best kickers and should continue to produce like it moving forward.",
+        "description": "Brandon Aubrey went 3-for-3 on his field-goal attempts and 3-for-3 on his extra-point attempts in Monday night's 38-21 win over the Philadelphia Eagles.",
+        "title": "Brandon Aubrey scores 12 points in win Monday",
+        "topic_id": "1420659918918193152",
+        "url": "https://www.fantasypros.com/nfl/news/616079/brandon-aubrey-scores-12-points-win-monday.php"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11533",
+      "player_name": "Brandon Aubrey",
+      "position": "K",
+      "published": 1793074228562,
+      "source": "fantasy_pros",
+      "source_key": "616079",
+      "story_id": "nfl|11533|fantasy_pros|616079|1793074228562",
+      "title": "Brandon Aubrey scores 12 points in win Monday",
+      "url": "https://www.fantasypros.com/nfl/news/616079/brandon-aubrey-scores-12-points-win-monday.php"
+    },
+    {
+      "analysis": "Barkley had been dealing with a hamstring injury for multiple weeks coming into Monday, but he tried to tough it out and give Philadelphia a boost. He did just that on Philadelphia's first drive, as he gained 12 yards on a reception on the first play and immediately followed that with a 29-yard rush. Barkley appeared to pull up a bit lame on the latter play, but he still managed an eight-yard rushing TD less than two minutes later. However, the star running back was used only intermittently for the remainder of the contest, and Dameon Pierce ended up logging 14 carries (on which he gained 47 yards and scored a TD) to Barkley's seven. Smith reports that Barkley was on a \"pitch count\" ahead  of Monday's game; however, he was deemed questionable to return early in the fourth quarter with what was described as a back injury and never returned. It appears the back issue was a side effect of Barkley tweaking the hamstring problem, which casts considerable doubt on his ability to suit up next Sunday against the Commanders.",
+      "description": "Barkley said Monday that his back injury was compensatory after he tweaked his hamstring on his first run of the game and tried to play through it, EJ Smith of The Philadelphia Inquirer reports.",
+      "metadata": {
+        "analysis": "Barkley had been dealing with a hamstring injury for multiple weeks coming into Monday, but he tried to tough it out and give Philadelphia a boost. He did just that on Philadelphia's first drive, as he gained 12 yards on a reception on the first play and immediately followed that with a 29-yard rush. Barkley appeared to pull up a bit lame on the latter play, but he still managed an eight-yard rushing TD less than two minutes later. However, the star running back was used only intermittently for the remainder of the contest, and Dameon Pierce ended up logging 14 carries (on which he gained 47 yards and scored a TD) to Barkley's seven. Smith reports that Barkley was on a \"pitch count\" ahead  of Monday's game; however, he was deemed questionable to return early in the fourth quarter with what was described as a back injury and never returned. It appears the back issue was a side effect of Barkley tweaking the hamstring problem, which casts considerable doubt on his ability to suit up next Sunday against the Commanders.",
+        "description": "Barkley said Monday that his back injury was compensatory after he tweaked his hamstring on his first run of the game and tried to play through it, EJ Smith of The Philadelphia Inquirer reports.",
+        "title": "Saquon Barkley - Suffers compensatory back injury",
+        "topic_id": "1420659915743084544"
+      },
+      "nfl_team": "PHI",
+      "player_id": "4866",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "published": 1793074140000,
+      "source": "rotowire",
+      "source_key": "644631",
+      "story_id": "nfl|4866|rotowire|644631|1793074140000",
+      "title": "Saquon Barkley - Suffers compensatory back injury",
+      "url": null
+    },
+    {
+      "analysis": "McKee's final numbers weren't poor by any stretch, but the fourth-year signal-caller couldn't come close to keeping pace with Dak Prescott's exploits. McKee was working without both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle), so in that context, the quarterback's production was solid, albeit unspectacular. McKee recorded completions to eight different targets overall, and he'll look to boost his overall numbers with a hopefully healthier receiving corps in a Week 8 road matchup against the Commanders on Sunday night.",
+      "description": "McKee completed 23 of 35 passes for 211 yards with one touchdown and one interception and added one rush for one yard in the Eagles' 38-21 loss to the Cowboys on Monday night.",
+      "metadata": {
+        "analysis": "McKee's final numbers weren't poor by any stretch, but the fourth-year signal-caller couldn't come close to keeping pace with Dak Prescott's exploits. McKee was working without both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle), so in that context, the quarterback's production was solid, albeit unspectacular. McKee recorded completions to eight different targets overall, and he'll look to boost his overall numbers with a hopefully healthier receiving corps in a Week 8 road matchup against the Commanders on Sunday night.",
+        "description": "McKee completed 23 of 35 passes for 211 yards with one touchdown and one interception and added one rush for one yard in the Eagles' 38-21 loss to the Cowboys on Monday night.",
+        "title": "Tanner McKee - Modest numbers in Week 7 loss",
+        "topic_id": "1420659915675975680"
+      },
+      "nfl_team": "PHI",
+      "player_id": "9230",
+      "player_name": "Tanner McKee",
+      "position": "QB",
+      "published": 1793074017000,
+      "source": "rotowire",
+      "source_key": "644630",
+      "story_id": "nfl|9230|rotowire|644630|1793074017000",
+      "title": "Tanner McKee - Modest numbers in Week 7 loss",
+      "url": null
+    },
+    {
+      "analysis": "Pickens tied for second in receptions and finished third in receiving yards on the night for the Cowboys, and the athletic receiver added his second touchdown of the season on a highly difficult catch in the right corner of the end zone with just under six minutes remaining in the second quarter. Both of Pickens' scoring grabs this season have come in the last three games, and he's now boasting a 37-485-2 line on 58 targets as a Week 8 home matchup against the Cardinals approaches this Sunday.",
+      "description": "Pickens brought in four of six targets for 57 yards and a touchdown in the Cowboys' 38-21 win over the Eagles on Monday night.",
+      "metadata": {
+        "analysis": "Pickens tied for second in receptions and finished third in receiving yards on the night for the Cowboys, and the athletic receiver added his second touchdown of the season on a highly difficult catch in the right corner of the end zone with just under six minutes remaining in the second quarter. Both of Pickens' scoring grabs this season have come in the last three games, and he's now boasting a 37-485-2 line on 58 targets as a Week 8 home matchup against the Cardinals approaches this Sunday.",
+        "description": "Pickens brought in four of six targets for 57 yards and a touchdown in the Cowboys' 38-21 win over the Eagles on Monday night.",
+        "title": "George Pickens - Gets into end zone in win",
+        "topic_id": "1420658657699336192"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8137",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "published": 1793073646000,
+      "source": "rotowire",
+      "source_key": "644629",
+      "story_id": "nfl|8137|rotowire|644629|1793073646000",
+      "title": "George Pickens - Gets into end zone in win",
+      "url": null
+    },
+    {
+      "analysis": "The veteran had a goose egg on Monday night, finishing the game with zero catches and just one target. This performance burned any fantasy managers who started him, and he remains a risky option on a week-to-week basis moving forward.",
+      "description": "Jake Ferguson failed to catch his lone target in Monday night's 38-21 win over the Philadelphia Eagles.",
+      "metadata": {
+        "analysis": "The veteran had a goose egg on Monday night, finishing the game with zero catches and just one target. This performance burned any fantasy managers who started him, and he remains a risky option on a week-to-week basis moving forward.",
+        "description": "Jake Ferguson failed to catch his lone target in Monday night's 38-21 win over the Philadelphia Eagles.",
+        "title": "Jake Ferguson catchless in win Monday",
+        "topic_id": "1420657402746830848",
+        "url": "https://www.fantasypros.com/nfl/news/616076/jake-ferguson-catchless-win-monday.php"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8110",
+      "player_name": "Jake Ferguson",
+      "position": "TE",
+      "published": 1793073628657,
+      "source": "fantasy_pros",
+      "source_key": "616076",
+      "story_id": "nfl|8110|fantasy_pros|616076|1793073628657",
+      "title": "Jake Ferguson catchless in win Monday",
+      "url": "https://www.fantasypros.com/nfl/news/616076/jake-ferguson-catchless-win-monday.php"
+    },
+    {
+      "analysis": "Lamb wasn't able to connect with Prescott on over half of his targets, but he was able to make the most out of the ones that he did catch, finishing with 74 yards and two touchdowns in a comfortable win over the Eagles. He will continue to be a top-tier fantasy option moving forward, assuming he remains healthy.",
+      "description": "CeeDee Lamb hauled in 5-of-12 targets for 74 yards and two touchdowns in Monday night's 38-21 win over the Philadelphia Eagles.",
+      "metadata": {
+        "analysis": "Lamb wasn't able to connect with Prescott on over half of his targets, but he was able to make the most out of the ones that he did catch, finishing with 74 yards and two touchdowns in a comfortable win over the Eagles. He will continue to be a top-tier fantasy option moving forward, assuming he remains healthy.",
+        "description": "CeeDee Lamb hauled in 5-of-12 targets for 74 yards and two touchdowns in Monday night's 38-21 win over the Philadelphia Eagles.",
+        "title": "CeeDee Lamb hauls in two touchdowns Monday",
+        "topic_id": "1420657401568231424",
+        "url": "https://www.fantasypros.com/nfl/news/616074/ceedee-lamb-hauls-two-touchdowns-monday.php"
+      },
+      "nfl_team": "DAL",
+      "player_id": "6786",
+      "player_name": "CeeDee Lamb",
+      "position": "WR",
+      "published": 1793073628377,
+      "source": "fantasy_pros",
+      "source_key": "616074",
+      "story_id": "nfl|6786|fantasy_pros|616074|1793073628377",
+      "title": "CeeDee Lamb hauls in two touchdowns Monday",
+      "url": "https://www.fantasypros.com/nfl/news/616074/ceedee-lamb-hauls-two-touchdowns-monday.php"
+    },
+    {
+      "analysis": "Pickens had a productive outing on Monday night. He was able to rack up 57 yards and a touchdown over the course of the game, which left him with a pretty good fantasy total. He will continue to be a boom-or-bust fantasy option on a week-to-week basis moving forward.",
+      "description": "George Pickens caught 4-of-6 targets for 57 yards and a touchdown in Monday night's 38-21 win over the Philadelphia Eagles.",
+      "metadata": {
+        "analysis": "Pickens had a productive outing on Monday night. He was able to rack up 57 yards and a touchdown over the course of the game, which left him with a pretty good fantasy total. He will continue to be a boom-or-bust fantasy option on a week-to-week basis moving forward.",
+        "description": "George Pickens caught 4-of-6 targets for 57 yards and a touchdown in Monday night's 38-21 win over the Philadelphia Eagles.",
+        "title": "George Pickens finds end zone in win Monday",
+        "topic_id": "1420657401509511168",
+        "url": "https://www.fantasypros.com/nfl/news/616075/george-pickens-finds-end-zone-win-monday.php"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8137",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "published": 1793073628365,
+      "source": "fantasy_pros",
+      "source_key": "616075",
+      "story_id": "nfl|8137|fantasy_pros|616075|1793073628365",
+      "title": "George Pickens finds end zone in win Monday",
+      "url": "https://www.fantasypros.com/nfl/news/616075/george-pickens-finds-end-zone-win-monday.php"
+    },
+    {
+      "analysis": "Williams broke out for a new single-game career high in rushing yards during the impressive victory, sealing the win with a two-yard scoring run just ahead of the two-minute warning in the fourth quarter. The remarkable performance also marked Williams' first 100-yard tally of the season, and he's been highly rewarding for fantasy managers by scoring a touchdown in five straight games. Williams should have a prime opportunity to continue building on his strong first half of the season in Week 8, as he'll face a vulnerable Cardinals run defense at home on Sunday.",
+      "description": "Williams rushed 25 times for 155 yards and a touchdown in the Cowboys' 38-21 win over the Eagles on Monday night.",
+      "metadata": {
+        "analysis": "Williams broke out for a new single-game career high in rushing yards during the impressive victory, sealing the win with a two-yard scoring run just ahead of the two-minute warning in the fourth quarter. The remarkable performance also marked Williams' first 100-yard tally of the season, and he's been highly rewarding for fantasy managers by scoring a touchdown in five straight games. Williams should have a prime opportunity to continue building on his strong first half of the season in Week 8, as he'll face a vulnerable Cardinals run defense at home on Sunday.",
+        "description": "Williams rushed 25 times for 155 yards and a touchdown in the Cowboys' 38-21 win over the Eagles on Monday night.",
+        "title": "Javonte Williams - Career-high rushing yardage in win",
+        "topic_id": "1420657398900600832"
+      },
+      "nfl_team": "DAL",
+      "player_id": "7588",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "published": 1793073220000,
+      "source": "rotowire",
+      "source_key": "644628",
+      "story_id": "nfl|7588|rotowire|644628|1793073220000",
+      "title": "Javonte Williams - Career-high rushing yardage in win",
+      "url": null
+    },
+    {
+      "analysis": "Prescott had a pretty nice showing on Monday night. He totaled over 200 yards on the night and was able to score three touchdowns while leading the Cowboys to a comfortable win over Philadelphia. He will continue to be a good depth piece or streaming option in most leagues moving forward.",
+      "description": "Dak Prescott completed 15-of-27 passing attempts for 212 yards and three touchdowns in Monday night's 38-21 win over the Philadelphia Eagles.",
+      "metadata": {
+        "analysis": "Prescott had a pretty nice showing on Monday night. He totaled over 200 yards on the night and was able to score three touchdowns while leading the Cowboys to a comfortable win over Philadelphia. He will continue to be a good depth piece or streaming option in most leagues moving forward.",
+        "description": "Dak Prescott completed 15-of-27 passing attempts for 212 yards and three touchdowns in Monday night's 38-21 win over the Philadelphia Eagles.",
+        "title": "Dak Prescott tosses three touchdowns in win Monday",
+        "topic_id": "1420654886126678016",
+        "url": "https://www.fantasypros.com/nfl/news/616072/dak-prescott-tosses-three-touchdowns-win-monday.php"
+      },
+      "nfl_team": "DAL",
+      "player_id": "3294",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "published": 1793073028651,
+      "source": "fantasy_pros",
+      "source_key": "616072",
+      "story_id": "nfl|3294|fantasy_pros|616072|1793073028651",
+      "title": "Dak Prescott tosses three touchdowns in win Monday",
+      "url": "https://www.fantasypros.com/nfl/news/616072/dak-prescott-tosses-three-touchdowns-win-monday.php"
+    },
+    {
+      "analysis": "Williams was absolutely dominant on Monday night. He set a new career high with 155 rushing yards over the course of the game, and he was also able to get into the end zone towards the end of the game, which was the cherry on top. Fantasy managers should be well pleased with his performance in this primetime matchup.",
+      "description": "Javonte Williams rushed the ball 25 times for 155 yards and a touchdown in Monday night's 38-21 win over the Philadelphia Eagles.",
+      "metadata": {
+        "analysis": "Williams was absolutely dominant on Monday night. He set a new career high with 155 rushing yards over the course of the game, and he was also able to get into the end zone towards the end of the game, which was the cherry on top. Fantasy managers should be well pleased with his performance in this primetime matchup.",
+        "description": "Javonte Williams rushed the ball 25 times for 155 yards and a touchdown in Monday night's 38-21 win over the Philadelphia Eagles.",
+        "title": "Javonte Williams sets career high in yards Monday",
+        "topic_id": "1420654886063763456",
+        "url": "https://www.fantasypros.com/nfl/news/616073/javonte-williams-sets-career-high-yards-monday.php"
+      },
+      "nfl_team": "DAL",
+      "player_id": "7588",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "published": 1793073028636,
+      "source": "fantasy_pros",
+      "source_key": "616073",
+      "story_id": "nfl|7588|fantasy_pros|616073|1793073028636",
+      "title": "Javonte Williams sets career high in yards Monday",
+      "url": "https://www.fantasypros.com/nfl/news/616073/javonte-williams-sets-career-high-yards-monday.php"
+    },
+    {
+      "analysis": "The Cowboys were able to keep Prescott upright throughout the night, and the veteran signal-caller leveraged the solid protection into his first multi-touchdown-pass tally since Week 2. Prescott connected with CeeDee Lamb (nine, 16 yards) and George Pickens (21 yards) for his trio of scoring strikes, and although his 55.6 percent completion rate was a season low, Prescott was able to steer clear of interceptions after throwing two apiece in Weeks 5 and 6. Prescott now has 1,851 passing yards and a 13:5 TD:INT going into a favorable Week 8 home matchup against the Cardinals on Sunday.",
+      "description": "Prescott completed 15 of 27 passes for 212 yards with three touchdowns and no interceptions while adding two rushes for eight yards in the Cowboys' 38-21 win over the Eagles on Monday night. He also had a two-point conversion run.",
+      "metadata": {
+        "analysis": "The Cowboys were able to keep Prescott upright throughout the night, and the veteran signal-caller leveraged the solid protection into his first multi-touchdown-pass tally since Week 2. Prescott connected with CeeDee Lamb (nine, 16 yards) and George Pickens (21 yards) for his trio of scoring strikes, and although his 55.6 percent completion rate was a season low, Prescott was able to steer clear of interceptions after throwing two apiece in Weeks 5 and 6. Prescott now has 1,851 passing yards and a 13:5 TD:INT going into a favorable Week 8 home matchup against the Cardinals on Sunday.",
+        "description": "Prescott completed 15 of 27 passes for 212 yards with three touchdowns and no interceptions while adding two rushes for eight yards in the Cowboys' 38-21 win over the Eagles on Monday night. He also had a two-point conversion run.",
+        "title": "Dak Prescott - Trio of TDs in Week 7 win",
+        "topic_id": "1420654882049798144"
+      },
+      "nfl_team": "DAL",
+      "player_id": "3294",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "published": 1793072732000,
+      "source": "rotowire",
+      "source_key": "644627",
+      "story_id": "nfl|3294|rotowire|644627|1793072732000",
+      "title": "Dak Prescott - Trio of TDs in Week 7 win",
+      "url": null
+    },
+    {
+      "analysis": "Lamb led the Cowboys across the board in receptions, receiving yards and targets, and he added his fifth and sixth touchdowns of the season on nine- and 16-yard scoring grabs. The veteran star has 70 or more receiving yards in two straight and five of his last six contests overall, and his average of 11.6 targets per game gives Lamb an elite floor heading into a Week 8 home matchup against the Cardinals on Sunday.",
+      "description": "Lamb brought in five of 12 targets for 74 yards and two touchdowns in the Cowboys' 38-21 win over the Eagles on Monday night.",
+      "metadata": {
+        "analysis": "Lamb led the Cowboys across the board in receptions, receiving yards and targets, and he added his fifth and sixth touchdowns of the season on nine- and 16-yard scoring grabs. The veteran star has 70 or more receiving yards in two straight and five of his last six contests overall, and his average of 11.6 targets per game gives Lamb an elite floor heading into a Week 8 home matchup against the Cardinals on Sunday.",
+        "description": "Lamb brought in five of 12 targets for 74 yards and two touchdowns in the Cowboys' 38-21 win over the Eagles on Monday night.",
+        "title": "CeeDee Lamb - Another pair of TDs in win",
+        "topic_id": "1420652365987483648"
+      },
+      "nfl_team": "DAL",
+      "player_id": "6786",
+      "player_name": "CeeDee Lamb",
+      "position": "WR",
+      "published": 1793072398000,
+      "source": "rotowire",
+      "source_key": "644626",
+      "story_id": "nfl|6786|rotowire|644626|1793072398000",
+      "title": "CeeDee Lamb - Another pair of TDs in win",
+      "url": null
+    },
+    {
+      "analysis": "Barkley entered Monday's contest managing a hamstring injury but was ultimately able to suit up. The star running back looked hobbled throughout much of the game but was able to tally 62 yards and a touchdown on just seven carries along with two catches on two targets for nine yards before being deemed questionable to return early in the fourth period. The Eagles indicated that Barkley is dealing with a back issue when announcing his 'questionable' tag, so it's unclear if the hamstring is also still bothering him.",
+      "description": "Barkley is questionable to return to Monday's game against the Cowboys due to a back injury.",
+      "metadata": {
+        "analysis": "Barkley entered Monday's contest managing a hamstring injury but was ultimately able to suit up. The star running back looked hobbled throughout much of the game but was able to tally 62 yards and a touchdown on just seven carries along with two catches on two targets for nine yards before being deemed questionable to return early in the fourth period. The Eagles indicated that Barkley is dealing with a back issue when announcing his 'questionable' tag, so it's unclear if the hamstring is also still bothering him.",
+        "description": "Barkley is questionable to return to Monday's game against the Cowboys due to a back injury.",
+        "title": "Saquon Barkley - Questionable to return to Monday Night Football",
+        "topic_id": "1420639781766873088"
+      },
+      "nfl_team": "PHI",
+      "player_id": "4866",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "published": 1793069401000,
+      "source": "rotowire",
+      "source_key": "644625",
+      "story_id": "nfl|4866|rotowire|644625|1793069401000",
+      "title": "Saquon Barkley - Questionable to return to Monday Night Football",
+      "url": null
+    },
     {
       "analysis": "With Emeka Egbuka (concussion/foot) inactive, Hurst was expected to take on an expanded offensive role, but it was actually Tez Johnson who saw the bigger bump in playing time. Johnson played 41 snaps to Hurst's 35 and ran one more route (12) than the rookie wide receiver. The Bucs clobbered the Panthers, and Baker Mayfield was forced to drop back to pass just 12 times on the afternoon.",
       "description": "Hurst didn't record a catch on one target in Sunday's 43-13 win over the Panthers.",
@@ -116,6 +533,26 @@
       "story_id": "nfl|12535|rotowire|644611|1793065229000",
       "title": "Isaac TeSlaa - One catch in close win",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars cornerback/wide receiver Travis Hunter is back on the fantasy radar after an impressive offensive showing against the Houston Texans in London in Week 6. Hunter had played almost exclusively on offense through the first five games this year, but he got more involved as a receiver against the Texans a week ago, catching four passes for 48 yards and a touchdown. He also impressed defensively with three tackles and an interception in the loss. Hunter's four catches came on just nine offensive snaps, so quarterback Trevor Lawrence obviously made an effort to get him the ball when he was on the field. With such a small offensive snap count, it's hard to forecast week-over-week consistency for Hunter on offense. However, at the very least, he's back on the fantasy radar as a potential waiver wire option going forward. He could become particularly intriguing in fantasy football if the Jaguars trade wide receiver Brian Thomas Jr. in the next two weeks.",
+      "metadata": {
+        "description": "Jacksonville Jaguars cornerback/wide receiver Travis Hunter is back on the fantasy radar after an impressive offensive showing against the Houston Texans in London in Week 6. Hunter had played almost exclusively on offense through the first five games this year, but he got more involved as a receiver against the Texans a week ago, catching four passes for 48 yards and a touchdown. He also impressed defensively with three tackles and an interception in the loss. Hunter's four catches came on just nine offensive snaps, so quarterback Trevor Lawrence obviously made an effort to get him the ball when he was on the field. With such a small offensive snap count, it's hard to forecast week-over-week consistency for Hunter on offense. However, at the very least, he's back on the fantasy radar as a potential waiver wire option going forward. He could become particularly intriguing in fantasy football if the Jaguars trade wide receiver Brian Thomas Jr. in the next two weeks.",
+        "title": "Travis Hunter's Offensive Involvement Rekindles Fantasy Appeal",
+        "topic_id": "1420682564674293760",
+        "url": "https://www.rotoballer.com/player-news/travis-hunters-offensive-involvement-rekindles-fantasy-appeal/1976744"
+      },
+      "nfl_team": "JAX",
+      "player_id": "12530",
+      "player_name": "Travis Hunter",
+      "position": "DB",
+      "published": 1793065091000,
+      "source": "rotoballer",
+      "source_key": "225627",
+      "story_id": "nfl|12530|rotoballer|225627|1793065091000",
+      "title": "Travis Hunter's Offensive Involvement Rekindles Fantasy Appeal",
+      "url": "https://www.rotoballer.com/player-news/travis-hunters-offensive-involvement-rekindles-fantasy-appeal/1976744"
     },
     {
       "analysis": "Daniels entered Sunday's contest late in the fourth quarter with Tampa Bay in full command of the contest, ultimately recording minus-three rushing yards while kneeling on back-to-back plays to end the game. With Mayfield back in action, Daniels will now have to wait for his next chance to command the Buccaneers' offense.",
@@ -278,6 +715,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Cincinnati Bengals tight end Mike Gesicki has scored a touchdown in four consecutive games, putting him on the fantasy football radar as a solid streaming option for Week 8 against the Tennessee Titans. In addition to the four-game scoring streak, Gesicki found the end zone back in Week 1, which means that he has a touchdown in five of the Bengals' six games so far. The tendency to score touchdowns certainly gives Gesicki a solid ceiling, but managers also must acknowledge that he is touchdown-dependent and possesses a low floor. After all, he has just eight catches over his last five games, as well as four touchdowns on his last seven receptions. The Bengals love using him around the goal line, but the rate at which he is scoring touchdowns is not sustainable over the course of the full season, especially with a relatively low number of receptions. His snap share has also dropped to below 50% in each of the last two weeks, which is another reason for fantasy managers to temper expectations. With that being said, managers looking to stream a tight end with touchdown upside should turn to Gesicki, even if he has a lower floor.",
+      "metadata": {
+        "description": "Cincinnati Bengals tight end Mike Gesicki has scored a touchdown in four consecutive games, putting him on the fantasy football radar as a solid streaming option for Week 8 against the Tennessee Titans. In addition to the four-game scoring streak, Gesicki found the end zone back in Week 1, which means that he has a touchdown in five of the Bengals' six games so far. The tendency to score touchdowns certainly gives Gesicki a solid ceiling, but managers also must acknowledge that he is touchdown-dependent and possesses a low floor. After all, he has just eight catches over his last five games, as well as four touchdowns on his last seven receptions. The Bengals love using him around the goal line, but the rate at which he is scoring touchdowns is not sustainable over the course of the full season, especially with a relatively low number of receptions. His snap share has also dropped to below 50% in each of the last two weeks, which is another reason for fantasy managers to temper expectations. With that being said, managers looking to stream a tight end with touchdown upside should turn to Gesicki, even if he has a lower floor.",
+        "title": "Mike Gesicki a Streamer Amid Touchdown Streak",
+        "topic_id": "1420672497325477888",
+        "url": "https://www.rotoballer.com/player-news/mike-gesicki-a-streamer-amid-touchdown-streak/1976736"
+      },
+      "nfl_team": "CIN",
+      "player_id": "4993",
+      "player_name": "Mike Gesicki",
+      "position": "TE",
+      "published": 1793062272000,
+      "source": "rotoballer",
+      "source_key": "225626",
+      "story_id": "nfl|4993|rotoballer|225626|1793062272000",
+      "title": "Mike Gesicki a Streamer Amid Touchdown Streak",
+      "url": "https://www.rotoballer.com/player-news/mike-gesicki-a-streamer-amid-touchdown-streak/1976736"
+    },
+    {
       "analysis": "Dell made his return to action after missing nearly two full years while recovering from a dislocated kneecap and series of torn ligaments in his left knee. The wide receiver was only on the field for 11 offensive plays, but he made the most of his one target. Dell reeled in a deep ball from C.J. Stroud in the second quarter, churning out a 43-yard gain. With Nico Collins, Marvin Harrison, Xavier Hutchinson, Jaylin Noel (toe) and Kayshon Boutte also in the mix at wide receiver, Dell may have a hard time getting many looks each week.",
       "description": "Dell caught his only target for 43 yards and added a two-yard rush during Sunday's 27-21 overtime loss to the Giants.",
       "metadata": {
@@ -318,6 +775,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers running back Kenny Gainwell has demonstrated efficiency in the rushing attack all season long, even when he hasn't been tasked with handling a large workload. Gainwell is now averaging more than 4.5 yards per carry this season, and he exploded for 6.3 yards per carry on 14 rushing attempts in the Bucs' 43-13 win over the Panthers on Sunday in Week 7. The 27-year-old only played 30% of the snaps in the divisional win, but Tampa Bay leaned on him to handle a large workload, especially once the score got out of hand later in the game. While Gainwell's overall volume was likely skewed by garbage time and may not be sustainable, the fact that he maintained impressive efficiency numbers should be an encouraging sign going forward. We expect him to continue posting around four to five yards per carry going forward, even if his overall volume of rushing attempts gets scaled back a little. He's an intriguing handcuff behind Bucky Irving with the potential to handle more volume in garbage time or if Irving gets banged up.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers running back Kenny Gainwell has demonstrated efficiency in the rushing attack all season long, even when he hasn't been tasked with handling a large workload. Gainwell is now averaging more than 4.5 yards per carry this season, and he exploded for 6.3 yards per carry on 14 rushing attempts in the Bucs' 43-13 win over the Panthers on Sunday in Week 7. The 27-year-old only played 30% of the snaps in the divisional win, but Tampa Bay leaned on him to handle a large workload, especially once the score got out of hand later in the game. While Gainwell's overall volume was likely skewed by garbage time and may not be sustainable, the fact that he maintained impressive efficiency numbers should be an encouraging sign going forward. We expect him to continue posting around four to five yards per carry going forward, even if his overall volume of rushing attempts gets scaled back a little. He's an intriguing handcuff behind Bucky Irving with the potential to handle more volume in garbage time or if Irving gets banged up.",
+        "title": "Kenny Gainwell Worthy of Waiver-Wire Consideration After Efficient Outing",
+        "topic_id": "1420671238602244096",
+        "url": "https://www.rotoballer.com/player-news/kenny-gainwell-worthy-of-waiver-wire-consideration-after-efficient-outing/1976731"
+      },
+      "nfl_team": "TB",
+      "player_id": "7567",
+      "player_name": "Kenny Gainwell",
+      "position": "RB",
+      "published": 1793061851000,
+      "source": "rotoballer",
+      "source_key": "225625",
+      "story_id": "nfl|7567|rotoballer|225625|1793061851000",
+      "title": "Kenny Gainwell Worthy of Waiver-Wire Consideration After Efficient Outing",
+      "url": "https://www.rotoballer.com/player-news/kenny-gainwell-worthy-of-waiver-wire-consideration-after-efficient-outing/1976731"
+    },
+    {
       "analysis": "Horton's 31 offensive snaps were third-most among Seahawks wide receivers behind Jaxon Smith-Njigba (53) and Cooper Kupp (45). 17 of Sam Darnold's 28 pass attempts went to Smith-Njigba (12) and tight end AJ Barner (five), with Horton and the rest of Seattle's pass catchers serving in complementary roles. The Seahawks' offense revolves around Smith-Njigba, so most of Horton's work will come on special teams, although the latter could see an uptick in opportunities if Rashid Shaheed (knee) cannot play against the Bears in Week 8.",
       "description": "Horton failed to haul in his lone target and returned two kickoffs for 60 yards during the Seahawks' 20-3 win over the Chiefs on Sunday.",
       "metadata": {
@@ -336,6 +813,26 @@
       "story_id": "nfl|12497|rotowire|644588|1793061685000",
       "title": "Tory Horton - Only one target against Kansas City",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles running back Saquon Barkley (back, hamstring) said that he suffered a back injury while trying to compensate for his existing hamstring issue during a rushing attempt early in Monday's game against the Dallas Cowboys, according to EJ  Smith of PHLY Sports. Barkley came into Week 7 listed as questionable with a hamstring injury, and he was initially playing through the injury before tweaking his back. As a result, the 29-year-old was used sparingly for the rest of the game, finishing with seven rushing attempts, 62 rushing yards, one rushing touchdown, two catches, and nine receiving yards. His injury cleared the way for Dameon Pierce to lead the backfield in touches (15) for a third consecutive game, and he also scored a touchdown for the second week in a row. With the Eagles falling to 2-5, it's fair to assume the team may consider being extra cautious with how they handle Barkley's workload going forward. Pierce is an intriguing running back to roster in fantasy football as long as Barkley, Tank Bigsby (core), and Will Shipley (foot) are all banged up.",
+      "metadata": {
+        "description": "Philadelphia Eagles running back Saquon Barkley (back, hamstring) said that he suffered a back injury while trying to compensate for his existing hamstring issue during a rushing attempt early in Monday's game against the Dallas Cowboys, according to EJ  Smith of PHLY Sports. Barkley came into Week 7 listed as questionable with a hamstring injury, and he was initially playing through the injury before tweaking his back. As a result, the 29-year-old was used sparingly for the rest of the game, finishing with seven rushing attempts, 62 rushing yards, one rushing touchdown, two catches, and nine receiving yards. His injury cleared the way for Dameon Pierce to lead the backfield in touches (15) for a third consecutive game, and he also scored a touchdown for the second week in a row. With the Eagles falling to 2-5, it's fair to assume the team may consider being extra cautious with how they handle Barkley's workload going forward. Pierce is an intriguing running back to roster in fantasy football as long as Barkley, Tank Bigsby (core), and Will Shipley (foot) are all banged up.",
+        "title": "Saquon Barkley Suffers Compensatory Back Injury on Monday Night",
+        "topic_id": "1420668721998929920",
+        "url": "https://www.rotoballer.com/player-news/saquon-barkley-suffered-a-compensatory-back-injury-on-monday-night/1976728"
+      },
+      "nfl_team": "PHI",
+      "player_id": "4866",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "published": 1793061552000,
+      "source": "rotoballer",
+      "source_key": "225624",
+      "story_id": "nfl|4866|rotoballer|225624|1793061552000",
+      "title": "Saquon Barkley Suffers Compensatory Back Injury on Monday Night",
+      "url": "https://www.rotoballer.com/player-news/saquon-barkley-suffered-a-compensatory-back-injury-on-monday-night/1976728"
     },
     {
       "analysis": "Bateman was able to handle a full workload for the first time since Week 5 after dealing with a shoulder injury, and the wide receiver was on the field for 74 percent of the team's offensive snaps. Bateman finished tied for third on the team in targets with running back Justice Hill and tight end Mark Andrews, and his 33 receiving yards ranked third. The wide receiver and the rest of the team's pass catchers would stand to see an increase in production if Lamar Jackson (ankle) is able to return to action in Week 8 versus Buffalo.",
@@ -638,6 +1135,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver CeeDee Lamb had a couple of impressive catches to help the Cowboys dismantle the banged-up Philadelphia Eagles by a score of 38-21 on Monday Night Football. Lamb was by far quarterback Dak Prescott's favorite weapon in the win, as he caught five of a team-high 12 targets for a team-high 74 yards and two touchdowns. George Pickens saw half the number of targets, although he found the end zone as well. The 27-year-old five-time Pro Bowler now has six touchdown receptions this year after he was overshadowed by Pickens in 2025 and finished with just three touchdown catches in 14 games played. Lamb now has 70-plus receiving yards in five of his last six games and will be a set-and-forget fantasy receiver once again for a plus Week 8 matchup against the Arizona Cardinals this Sunday.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver CeeDee Lamb had a couple of impressive catches to help the Cowboys dismantle the banged-up Philadelphia Eagles by a score of 38-21 on Monday Night Football. Lamb was by far quarterback Dak Prescott's favorite weapon in the win, as he caught five of a team-high 12 targets for a team-high 74 yards and two touchdowns. George Pickens saw half the number of targets, although he found the end zone as well. The 27-year-old five-time Pro Bowler now has six touchdown receptions this year after he was overshadowed by Pickens in 2025 and finished with just three touchdown catches in 14 games played. Lamb now has 70-plus receiving yards in five of his last six games and will be a set-and-forget fantasy receiver once again for a plus Week 8 matchup against the Arizona Cardinals this Sunday.",
+        "title": "CeeDee Lamb Shines on Monday Night With Two-Touchdown Performance",
+        "topic_id": "1420657396493078528",
+        "url": "https://www.rotoballer.com/player-news/ceedee-lamb-shines-on-monday-night-with-two-touchdown-performance/1976698"
+      },
+      "nfl_team": "DAL",
+      "player_id": "6786",
+      "player_name": "CeeDee Lamb",
+      "position": "WR",
+      "published": 1793058587000,
+      "source": "rotoballer",
+      "source_key": "225623",
+      "story_id": "nfl|6786|rotoballer|225623|1793058587000",
+      "title": "CeeDee Lamb Shines on Monday Night With Two-Touchdown Performance",
+      "url": "https://www.rotoballer.com/player-news/ceedee-lamb-shines-on-monday-night-with-two-touchdown-performance/1976698"
+    },
+    {
       "analysis": "It was a big step back in production for the rookie wideout compared to Week 6 against the Bucs, but Bernard still ran a team-high 33 routes on Aaron Rodgers' 34 dropbacks against New Orleans. Bernard's role is secure while Michael Pittman (foot) and Roman Wilson (finger) remain sidelined for at least two more games each. Bernard will be a fantasy WR3 for next Sunday's game against the Browns.",
       "description": "Bernard caught three of five targets for 27 yards in Sunday's 16-10 win over the Saints.",
       "metadata": {
@@ -698,6 +1215,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Dallas Cowboys running back Javonte Williams and the Cowboys' run game was finally able to break out in the 38-21 victory on Monday Night Football against the banged-up Philadelphia Eagles. Williams had big holes to run through all night and finished with 25 carries for a season-high 155 yards (6.2 yards per attempt) and one touchdown. He was not targeted at all in the passing game. It was a nice bounce-back performance for the 26-year-old after he had a season-low 11 rushing attempts for 41 yards in last week's loss to the Green Bay Packers. Despite the fact that Williams came into Monday's game with under 4.0 yards per carry, he has now found the end zone in each of the five games and has eight rushing touchdowns through the first seven weeks of the 2026 campaign. He has had a nose for the end zone so far after his 2025 breakout in his first year in Dallas, and he will be a good bet to find paydirt again in a strong Week 8 matchup against the Arizona Cardinals. If Dallas can continue to run the ball like they did on Monday night, they will be a very tough offense to stop.",
+      "metadata": {
+        "description": "Dallas Cowboys running back Javonte Williams and the Cowboys' run game was finally able to break out in the 38-21 victory on Monday Night Football against the banged-up Philadelphia Eagles. Williams had big holes to run through all night and finished with 25 carries for a season-high 155 yards (6.2 yards per attempt) and one touchdown. He was not targeted at all in the passing game. It was a nice bounce-back performance for the 26-year-old after he had a season-low 11 rushing attempts for 41 yards in last week's loss to the Green Bay Packers. Despite the fact that Williams came into Monday's game with under 4.0 yards per carry, he has now found the end zone in each of the five games and has eight rushing touchdowns through the first seven weeks of the 2026 campaign. He has had a nose for the end zone so far after his 2025 breakout in his first year in Dallas, and he will be a good bet to find paydirt again in a strong Week 8 matchup against the Arizona Cardinals. If Dallas can continue to run the ball like they did on Monday night, they will be a very tough offense to stop.",
+        "title": "Javonte Williams Gets Going With 155 Yards and TD Against Eagles",
+        "topic_id": "1420653621158154240",
+        "url": "https://www.rotoballer.com/player-news/javonte-williams-gets-going-with-155-yards-and-td-against-eagles/1976693"
+      },
+      "nfl_team": "DAL",
+      "player_id": "7588",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "published": 1793057953000,
+      "source": "rotoballer",
+      "source_key": "225622",
+      "story_id": "nfl|7588|rotoballer|225622|1793057953000",
+      "title": "Javonte Williams Gets Going With 155 Yards and TD Against Eagles",
+      "url": "https://www.rotoballer.com/player-news/javonte-williams-gets-going-with-155-yards-and-td-against-eagles/1976693"
+    },
+    {
       "analysis": "Allen was held to his fewest catches, receiving yards and targets since Week 2 as the Colts struggled to establish a passing attack against Minnesota's impressive defense. The wide receiver still led the team in all three categories, and he'll have a chance for better production in Week 8 versus the Jaguars.",
       "description": "Allen caught all three of his targets for 31 yards during Sunday's 16-10 loss to the Vikings.",
       "metadata": {
@@ -716,6 +1253,46 @@
       "story_id": "nfl|1479|rotowire|644551|1793057665000",
       "title": "Keenan Allen - Three catches in loss",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles rookie first-round wide receiver Makai Lemon is a priority waiver-wire addition heading into Week 8 after both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) missed the team's 38-21 loss to the division-rival Dallas Cowboys on Monday night. With both of Philly's top two receivers out of action, Lemon led the team in targets (eight), receptions (seven), and receiving yards (67) while scoring the first touchdown of his career. The 22-year-old 20th overall pick from USC came into Monday's tilt with only 18 receptions for 127 yards on 28 targets in his first six NFL games. Lemon's fantasy upside should be tempered with quarterback Jalen Hurts (blood clots) out for the rest of the season, but he could continue to operate as the team's WR1 if both Smith and Wicks are unavailable for a second straight game in Week 8 on Sunday night against the division-rival Washington Commanders. In Lemon's NFL debut in the Week 1 win over Washington, he hauled in three of his four targets for a loss of five yards. Lemon is currently rostered in only 37% of Yahoo leagues.",
+      "metadata": {
+        "description": "Philadelphia Eagles rookie first-round wide receiver Makai Lemon is a priority waiver-wire addition heading into Week 8 after both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) missed the team's 38-21 loss to the division-rival Dallas Cowboys on Monday night. With both of Philly's top two receivers out of action, Lemon led the team in targets (eight), receptions (seven), and receiving yards (67) while scoring the first touchdown of his career. The 22-year-old 20th overall pick from USC came into Monday's tilt with only 18 receptions for 127 yards on 28 targets in his first six NFL games. Lemon's fantasy upside should be tempered with quarterback Jalen Hurts (blood clots) out for the rest of the season, but he could continue to operate as the team's WR1 if both Smith and Wicks are unavailable for a second straight game in Week 8 on Sunday night against the division-rival Washington Commanders. In Lemon's NFL debut in the Week 1 win over Washington, he hauled in three of his four targets for a loss of five yards. Lemon is currently rostered in only 37% of Yahoo leagues.",
+        "title": "Makai Lemon a Waiver-Wire Target Amid Eagles WR Injuries",
+        "topic_id": "1420651104097538048",
+        "url": "https://www.rotoballer.com/player-news/makai-lemon-a-waiver-wire-target-amid-eagles-wr-injuries/1976688"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1793057532000,
+      "source": "rotoballer",
+      "source_key": "225621",
+      "story_id": "nfl|13294|rotoballer|225621|1793057532000",
+      "title": "Makai Lemon a Waiver-Wire Target Amid Eagles WR Injuries",
+      "url": "https://www.rotoballer.com/player-news/makai-lemon-a-waiver-wire-target-amid-eagles-wr-injuries/1976688"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles running back Dameon Pierce (undisclosed) led the Eagles' backfield with 14 carries for 47 yards and a touchdown in the 38-21 Monday night loss to the division-rival Dallas Cowboys despite the return of starting RB Saquon Barkley, but he suffered an undisclosed injury on a kickoff return in the fourth quarter, was seen heading to the locker room with a trainer, and did not return. Barkley ended a two-game absence due to a hamstring injury, but he was hobbled from the start of Monday's game and was eventually listed as questionable to return due to a back injury in the second half. With both Barkley and Pierce going down with injuries against Dallas, Elijah Mitchell was the last man standing in the Eagles' backfield. Remember, Tank Bigsby (abdomen) and Will Shipley (foot) are currently on Injured Reserve for a decimated Eagles offense. Pierce, who is rostered in 51% of Yahoo leagues, should still be considered a waiver-wire option going into the team's Week 8 contest on Sunday night against the division-rival Washington Commanders now that Barkley is dealing with a new injury. Check back for an injury update on Pierce on Tuesday. If his injury is serious enough to cause him to miss time, Mitchell would become a must-add off the waiver wire.",
+      "metadata": {
+        "description": "Philadelphia Eagles running back Dameon Pierce (undisclosed) led the Eagles' backfield with 14 carries for 47 yards and a touchdown in the 38-21 Monday night loss to the division-rival Dallas Cowboys despite the return of starting RB Saquon Barkley, but he suffered an undisclosed injury on a kickoff return in the fourth quarter, was seen heading to the locker room with a trainer, and did not return. Barkley ended a two-game absence due to a hamstring injury, but he was hobbled from the start of Monday's game and was eventually listed as questionable to return due to a back injury in the second half. With both Barkley and Pierce going down with injuries against Dallas, Elijah Mitchell was the last man standing in the Eagles' backfield. Remember, Tank Bigsby (abdomen) and Will Shipley (foot) are currently on Injured Reserve for a decimated Eagles offense. Pierce, who is rostered in 51% of Yahoo leagues, should still be considered a waiver-wire option going into the team's Week 8 contest on Sunday night against the division-rival Washington Commanders now that Barkley is dealing with a new injury. Check back for an injury update on Pierce on Tuesday. If his injury is serious enough to cause him to miss time, Mitchell would become a must-add off the waiver wire.",
+        "title": "Dameon Pierce Finds End Zone, Leaves Early Monday With Injury",
+        "topic_id": "1420649846192275456",
+        "url": "https://www.rotoballer.com/player-news/dameon-pierce-finds-end-zone-leaves-early-monday-with-injury/1976683"
+      },
+      "nfl_team": "PHI",
+      "player_id": "8129",
+      "player_name": "Dameon Pierce",
+      "position": "RB",
+      "published": 1793057114000,
+      "source": "rotoballer",
+      "source_key": "225620",
+      "story_id": "nfl|8129|rotoballer|225620|1793057114000",
+      "title": "Dameon Pierce Finds End Zone, Leaves Early Monday With Injury",
+      "url": "https://www.rotoballer.com/player-news/dameon-pierce-finds-end-zone-leaves-early-monday-with-injury/1976683"
     },
     {
       "analysis": "Payton will serve as the emergency signal-caller, meaning he won't be able to play unless Tanner McKee and Joe Milton exit the game due to injury, illness or ejection.",
@@ -798,6 +1375,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Cleveland Browns running back Dylan Sampson made his return to the field during the Week 7 matchup against the Tennessee Titans. He made his return after missing the last five games due to a knee injury. Sampson rushed the ball six times for 45 yards and hauled in all three of his targets for 32 additional yards in the win over the Titans. The 22-year-old is clearly the No. 2 back in Cleveland, but he has shown that he can be a solid contributor when healthy. The expectation is that his role will continue to grow as long as he keeps playing like this every week. Sampson is looking like an interesting stash option in 12-team formats ahead of the Week 8 matchup against the Pittsburgh Steelers.",
+      "metadata": {
+        "description": "Cleveland Browns running back Dylan Sampson made his return to the field during the Week 7 matchup against the Tennessee Titans. He made his return after missing the last five games due to a knee injury. Sampson rushed the ball six times for 45 yards and hauled in all three of his targets for 32 additional yards in the win over the Titans. The 22-year-old is clearly the No. 2 back in Cleveland, but he has shown that he can be a solid contributor when healthy. The expectation is that his role will continue to grow as long as he keeps playing like this every week. Sampson is looking like an interesting stash option in 12-team formats ahead of the Week 8 matchup against the Pittsburgh Steelers.",
+        "title": "Dylan Sampson is Quickly Gaining Value",
+        "topic_id": "1420639778759557120",
+        "url": "https://www.rotoballer.com/player-news/dylan-sampson-is-quickly-gaining-value/1976668"
+      },
+      "nfl_team": "CLE",
+      "player_id": "12469",
+      "player_name": "Dylan Sampson",
+      "position": "RB",
+      "published": 1793054771000,
+      "source": "rotoballer",
+      "source_key": "225618",
+      "story_id": "nfl|12469|rotoballer|225618|1793054771000",
+      "title": "Dylan Sampson is Quickly Gaining Value",
+      "url": "https://www.rotoballer.com/player-news/dylan-sampson-is-quickly-gaining-value/1976668"
+    },
+    {
       "analysis": "All three of Mike Evans (Achilles), Samuel and Demarcus Robinson (ankle) are eyeing a Week 9 return against the Raiders, so the 49ers' wide receiver depth chart could look vastly different coming out of the bye. Samuel would likely go back to his part-time role, handling short-area passes and an occasional handoff or two. He's not a particularly exciting fantasy play when Evans, George Kittle and Christian McCaffrey (hamstring) are all healthy.",
       "description": "Samuel (hamstring) has a chance to return following the 49ers' Week 8 bye, Matt Maiocco of NBC Sports Bay Area reports.",
       "metadata": {
@@ -816,6 +1413,26 @@
       "story_id": "nfl|5872|rotowire|644526|1793054145000",
       "title": "Deebo Samuel - Eyes Week 9 return",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Carolina Panthers running back Jonathon Brooks (abdomen) has not played since Week 2, but he'll hopefully get back on the field soon. Recently, head coach Dave Canales said Brooks was trending in the right direction. The 23-year-old remains on the Injured Reserve right now, so his chances of playing in Week 8 are slim. It wouldn't be shocking to see Brooks back within the next few games, given the fact that he is making progress. He figures to eat into Chuba Hubbard's playing time once Brooks is cleared to play. Fantasy managers who can afford to be patient should consider stashing Brooks, with his return hopefully coming soon.",
+      "metadata": {
+        "description": "Carolina Panthers running back Jonathon Brooks (abdomen) has not played since Week 2, but he'll hopefully get back on the field soon. Recently, head coach Dave Canales said Brooks was trending in the right direction. The 23-year-old remains on the Injured Reserve right now, so his chances of playing in Week 8 are slim. It wouldn't be shocking to see Brooks back within the next few games, given the fact that he is making progress. He figures to eat into Chuba Hubbard's playing time once Brooks is cleared to play. Fantasy managers who can afford to be patient should consider stashing Brooks, with his return hopefully coming soon.",
+        "title": "Jonathon Brooks is Worth Stashing with Return Looming",
+        "topic_id": "1420636003642707968",
+        "url": "https://www.rotoballer.com/player-news/jonathon-brooks-is-worth-stashing-with-return-looming/1976661"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11583",
+      "player_name": "Jonathon Brooks",
+      "position": "RB",
+      "published": 1793053815000,
+      "source": "rotoballer",
+      "source_key": "225616",
+      "story_id": "nfl|11583|rotoballer|225616|1793053815000",
+      "title": "Jonathon Brooks is Worth Stashing with Return Looming",
+      "url": "https://www.rotoballer.com/player-news/jonathon-brooks-is-worth-stashing-with-return-looming/1976661"
     },
     {
       "analysis": "Shanahan said the same thing 11 days ago, so the timeline appears to remain in place for Robinson, who suffered a high-ankle sprain way back in Week 2 against Miami. The Niners are expected to get plenty of reinforcements following their open date, and all three of Mike Evans (Achilles), Deebo Samuel (hamstring) and Robinson could be among those returning for Week 9 against Las Vegas.",
@@ -856,6 +1473,26 @@
       "story_id": "nfl|13417|rotowire|644522|1793053035000",
       "title": "De'Zhaun Stribling - Remains on track for December return",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers tight end Pat Freiermuth is coming off another lousy performance, but he's still a decent fantasy option. Over the last two games, Freiermuth has hauled in four receptions for 31 yards. It has been a struggle for the big tight end, but he's still the TE11 at the moment despite some lackluster performances. He has seen four or more targets in every game but one this season. He should continue to stay involved against the Cleveland Browns in Week 8. Fantasy managers looking for an option with their tight end on a bye week should consider snagging Freiermuth. He has a good track record despite some sluggish performances as of late.",
+      "metadata": {
+        "description": "Pittsburgh Steelers tight end Pat Freiermuth is coming off another lousy performance, but he's still a decent fantasy option. Over the last two games, Freiermuth has hauled in four receptions for 31 yards. It has been a struggle for the big tight end, but he's still the TE11 at the moment despite some lackluster performances. He has seen four or more targets in every game but one this season. He should continue to stay involved against the Cleveland Browns in Week 8. Fantasy managers looking for an option with their tight end on a bye week should consider snagging Freiermuth. He has a good track record despite some sluggish performances as of late.",
+        "title": "Pat Freiermuth Could be Worth Stashing",
+        "topic_id": "1420633486682812416",
+        "url": "https://www.rotoballer.com/player-news/pat-freiermuth-could-be-worth-stashing/1976656"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7600",
+      "player_name": "Pat Freiermuth",
+      "position": "TE",
+      "published": 1793052976000,
+      "source": "rotoballer",
+      "source_key": "225614",
+      "story_id": "nfl|7600|rotoballer|225614|1793052976000",
+      "title": "Pat Freiermuth Could be Worth Stashing",
+      "url": "https://www.rotoballer.com/player-news/pat-freiermuth-could-be-worth-stashing/1976656"
     },
     {
       "analysis": "After missing Sunday's game against the Falcons with the Achilles issue, Evans appears to be trending toward a return for San Francisco's next contest in Week 9 against the Raiders. Working as the Niners' big-play X receiver this season, Evans has been nearly unstoppable when healthy. Maintaining health has been his biggest issue. When on the field, Evans is a fantasy WR2 with WR1 upside.",
