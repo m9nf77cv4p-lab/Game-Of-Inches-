@@ -18771,17 +18771,17 @@
         "points": 0.0,
         "roster_id": 8,
         "starters": [
-          "4046",
+          "11559",
           "8151",
           "9221",
-          "11632",
-          "7547",
           "13346",
+          "7547",
+          "11783",
           "12506",
           "4866",
-          "9230",
+          "4046",
           "11533",
-          "CLE"
+          "NE"
         ],
         "starters_points": [
           0.0,
@@ -20842,7 +20842,7 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen Coker",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Coker",
       "nfl_team": "CAR",
       "player_id": "11646",
@@ -21187,7 +21187,7 @@
       ],
       "first_name": "Matthew",
       "full_name": "Matthew Golden",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Golden",
       "nfl_team": "GB",
       "player_id": "12501",
@@ -21998,7 +21998,7 @@
       ],
       "first_name": "Cole",
       "full_name": "Cole Payton",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "Payton",
       "nfl_team": "PHI",
       "player_id": "13335",
@@ -22073,12 +22073,12 @@
       ],
       "first_name": "Eli",
       "full_name": "Eli Stowers",
-      "injury_status": "IR",
+      "injury_status": null,
       "last_name": "Stowers",
       "nfl_team": "PHI",
       "player_id": "13349",
       "position": "TE",
-      "status": "Inactive",
+      "status": "Active",
       "years_exp": 0
     },
     "13353": {
@@ -22733,7 +22733,7 @@
       ],
       "first_name": "Saquon",
       "full_name": "Saquon Barkley",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Barkley",
       "nfl_team": "PHI",
       "player_id": "4866",
@@ -24849,8 +24849,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-26T19:52:05Z",
-    "source_fingerprint": "007033f02dd4bbe4e1e76eee19bbaaae0be94691f5cb0320299fd5b90046f089"
+    "last_changed_at": "2026-10-26T23:27:35Z",
+    "source_fingerprint": "c0e1e00cfb9c8a7d51ba4295f820c6b1a44bec432240abde11f76da0b2896350"
   },
   "teams": [
     {
