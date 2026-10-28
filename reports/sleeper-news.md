@@ -2,24 +2,49 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6329**
+- Stored stories: **6256**
 - Newly captured: **12**
 
 ## Latest news
 
-- **NEW — Justice Hill** — Justice Hill an Intriguing Handcuff Despite Pass-Catching Profile (2026-10-28T03:31:12Z)
+- **NEW — Jaylen Waddle** — Jaylen Waddle (chest) to see how practice week goes (2026-10-28T14:20:22.422000Z)
+  - Waddle aggravated a previous chest injury in Sunday's game, and his status for Week 8 will be determined as the week progresses at practice. If Waddle misses Sunday's game, Troy Franklin and Marvin Mims Jr. could stand to see more snaps. This is a situation to monitor.
+  - Source: https://www.fantasypros.com/nfl/news/616191/jaylen-waddle-chest-to-see-how-practice-week-goes.php
+- **NEW — Jaylen Waddle** — Jaylen Waddle - Uncertain to play Sunday (2026-10-28T14:08:13Z)
+  - Waddle recorded four receptions for 48 yards on seven targets against Arizona before checking out of the game in the fourth quarter due to the lingering chest issue, which had limited his participation in two practices during Week 7 prep. The wideout's practice activity appears likely to be affected in Week 8, but the Broncos aren't yet counting him out from suiting up against the Chiefs.
+- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson Gets Outsnapped as Tennessee's Rotation Shifts (2026-10-28T11:15:16Z)
+  - Source: https://www.rotoballer.com/player-news/wandale-robinson-gets-outsnapped-as-tennessees-rotation-shifts/1977802
+- **NEW — Kendre Miller** — Kendre Miller Faces a Crowded Backfield as the Saints Get Healthy (2026-10-28T11:00:14Z)
+  - Source: https://www.rotoballer.com/player-news/kendre-miller-faces-a-crowded-backfield-as-the-saints-get-healthy/1977790
+- **NEW — Chris Godwin Jr.** — Chris Godwin Jr. Tops Tampa Bay in Targets, but the Production Isn't Following (2026-10-28T10:45:16Z)
+  - Source: https://www.rotoballer.com/player-news/chris-godwin-jr-tops-tampa-bay-in-targets-but-the-production-isnt-following/1977776
+- **NEW — Juwan Johnson** — Juwan Johnson's Passing-Game Role Shrinks Ahead of Saints' Bye (2026-10-28T10:29:12Z)
+  - Source: https://www.rotoballer.com/player-news/juwan-johnsons-passing-game-role-shrinks-ahead-of-saints-bye/1977760
+- **NEW — Tyler Allgeier** — Tyler Allgeier Loses His Snap Edge in Arizona's Backfield (2026-10-28T10:18:14Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-allgeier-loses-his-snap-edge-in-arizonas-backfield/1977750
+- **NEW — Jaylen Waddle** — Jaylen Waddle's Chest Injury Flares Up Again Before Week 8 (2026-10-28T10:12:57Z)
+  - Source: https://www.rotoballer.com/player-news/jaylen-waddles-chest-injury-flares-up-again-before-week-8/1977746
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd Should Be Dropped After Teammate's Return (2026-10-28T10:00:14Z)
+  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-should-be-dropped-after-jacobs-return/1977703
+- **NEW — Aaron Rodgers** — Aaron Rodgers is a Desperation QB Pickup for Week 8 (2026-10-28T09:39:17Z)
+  - Source: https://www.rotoballer.com/player-news/aaron-rodgers-is-a-desperation-qb-pick-up-on-week-8-waiver-wire/1977470
+- **NEW — Tony Pollard** — Tony Pollard Emerging as Likely Trade Candidate (2026-10-28T09:38:12Z)
+  - Source: https://www.rotoballer.com/player-news/tony-pollard-emerging-as-likely-trade-candidate/1977673
+- **NEW — Brian Thomas Jr.** — Brian Thomas Jr. to Be Traded by Jaguars? (2026-10-28T09:19:12Z)
+  - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-s-days-with-jaguars-could-be-numbered/1977650
+- **Justice Hill** — Justice Hill an Intriguing Handcuff Despite Pass-Catching Profile (2026-10-28T03:31:12Z)
   - Source: https://www.rotoballer.com/player-news/justice-hill-an-intriguing-handcuff-despite-pass-catching-profile/1977562
-- **NEW — De'Zhaun Stribling** — Time to Consider Stashing De'Zhaun Stribling in Redraft Leagues (2026-10-28T03:27:16Z)
+- **De'Zhaun Stribling** — Time to Consider Stashing De'Zhaun Stribling in Redraft Leagues (2026-10-28T03:27:16Z)
   - Source: https://www.rotoballer.com/player-news/time-to-consider-stashing-dezhaun-stribling-in-redraft-leagues/1977560
-- **NEW — Alec Pierce** — Alec Pierce a Glaring Stash Ahead of Return, Teammate's Potential Trade (2026-10-28T03:22:12Z)
+- **Alec Pierce** — Alec Pierce a Glaring Stash Ahead of Return, Teammate's Potential Trade (2026-10-28T03:22:12Z)
   - Source: https://www.rotoballer.com/player-news/alec-pierce-a-glaring-stash-ahead-of-return-teammates-potential-trade/1977558
-- **NEW — Brandin Cooks** — Brandin Cooks snags one pass in Week 7 (2026-10-28T03:20:18.216000Z)
+- **Brandin Cooks** — Brandin Cooks snags one pass in Week 7 (2026-10-28T03:20:18.216000Z)
   - Cooks had another quiet week despite a season-high snap rate, appearing on 68% of the offensive plays. The 49ers are desperate for healthy wide receivers, but that doesn't mean they're going to make an impact. Quarterback Brock Purdy completed 27 passes - seven were caught by a wide receiver, a trend that could continue.
   - Source: https://www.fantasypros.com/nfl/news/616159/brandin-cooks-snags-one-pass-week-7.php
-- **NEW — Kayshon Boutte** — Kayshon Boutte takes backseat in Week 7 loss (2026-10-28T03:10:17.961000Z)
+- **Kayshon Boutte** — Kayshon Boutte takes backseat in Week 7 loss (2026-10-28T03:10:17.961000Z)
   - Boutte recorded a season-low offensive snap rate in Week 7: 31%. This is notable given Xavier Hutchinson's involvement and Marvin Harrison's expected role growth. Jaylin Noel did suffer an injury, but Boutte has yet to surpass 40 receiving yards in a game and has seen a decrease in snap rate in each of the last two weeks.
   - Source: https://www.fantasypros.com/nfl/news/616157/kayshon-boutte-takes-backseat-week-7-loss.php
-- **NEW — Tyrone Tracy Jr.** — Tyrone Tracy Jr. (hamstring) placed on IR (2026-10-28T03:00:17.917000Z)
+- **Tyrone Tracy Jr.** — Tyrone Tracy Jr. (hamstring) placed on IR (2026-10-28T03:00:17.917000Z)
   - Tracy suffered an injury during the Giants' win over the Houston Texans, a game in which he carried the ball six times for 15 yards and a score. The third-year running back had seen an uptick in snaps after playing 3% or fewer in the opening three weeks, scoring three touchdowns in the last two weeks. Cam Skattebo and Devin Singletary will lead the way for a New York running back room that bounced back in Week 7. Tracy is eligible to return in Week 13, given New York's Week 8 bye.
   - Source: https://www.fantasypros.com/nfl/news/616156/tyrone-tracy-jr-hamstring-placed-on-ir.php
 - **Jake Ferguson** — Jake Ferguson - Blanked on MNF (2026-10-27T23:34:33Z)
@@ -42,7 +67,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After missing the Ravens' last three games with what he has described as a left high-ankle sprain, Jackson seems to have responded well to taking part in practices last week and looks to be moving toward a return to the lineup this Sunday. The Ravens will presumably prepare for Jackson to take on more reps in practices Wednesday through Friday, and if all goes well, he could head into the weekend without a designation. In Jackson's absence, Tyler Huntley has started each of the last three contests and has guided Baltimore to a 1-2 record while completing 68 percent of his passes for 6.8 yards per attempt and accounting for five touchdowns.
 - **Matthew Golden** — Matthew Golden - Sits out walkthrough practice (2026-10-27T20:21:57Z)
   - Coming out of Sunday's 20-17 loss to the Lions, Golden is nursing a pair of injuries that have resulted in him going down as a non-participant on the Packers' Week 8 injury report. The Packers will see if Golden can upgrade to limited or full participation in Wednesday's session before deciding whether he'll carry a designation into Thursday's game against the Panthers. Despite leading the NFL with six drops through the first seven weeks, Golden has emerged as a useful fantasy asset in his second NFL season with 36 receptions for 540 yards and three touchdowns on 69 targets to go with six rushing yards.
-- **NEW — Dont'e Thornton Jr.** — Dont'e Thornton - Makes return from IR (2026-10-27T20:08:23Z)
+- **Dont'e Thornton Jr.** — Dont'e Thornton - Makes return from IR (2026-10-27T20:08:23Z)
   - With Thornton's 21-day practice window coming to a close this week, the Raiders elected to move him back on to the 53-man roster. A full participant in each of the Raiders' last nine practices, Thornton looks like he'll be ready to play this Sunday against the Jets, but he may not be in store for a meaningful role in the receiver rotation. He struggled to carve out consistent volume in the passing game as a rookie fourth-round pick in 2025, putting together a 10-135-0 receiving line on 30 targets over 15 appearances.
 - **Jalen Coker** — Jalen Coker - Practices fully Tuesday (2026-10-27T19:23:22Z)
   - After being listed as limited in Monday's practice estimate, Coker was able to take a step forward in activity a day later. With a full practice under his belt, Coker should be ready to handle his usual snap share in Thursday's game against the Packers. Coker -- who was held to one reception on four targets in Week 7 -- and the rest of the passing attack will look to bounce back after Carolina quarterbacks Bryce Young and Kenny Pickett were limited to just 178 yards through the air in a 43-13 loss to the Buccaneers on Sunday.
@@ -60,7 +85,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/matthew-golden-remains-a-non-participant-in-practice-on-tuesday/1977335
 - **Tyler Huntley** — Tyler Huntley Could Be Worth Stashing in Two-QB Formats (2026-10-27T16:18:20Z)
   - Source: https://www.rotoballer.com/player-news/tyler-huntley-could-be-worth-stashing-in-two-qb-formats/1977323
-- **NEW — Dont'e Thornton Jr.** — Dont'e Thornton Jr. Activated from Injured Reserve (2026-10-27T16:11:13Z)
+- **Dont'e Thornton Jr.** — Dont'e Thornton Jr. Activated from Injured Reserve (2026-10-27T16:11:13Z)
   - Source: https://www.rotoballer.com/player-news/donte-thornton-jr-activated-from-injured-reserve/1977312
 - **Sam Darnold** — Sam Darnold Stays Sack-Free but Keeps Throwing Interceptions (2026-10-27T15:58:12Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-stays-sack-free-but-keeps-throwing-interceptions/1977291
@@ -202,27 +227,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - With Davante Adams (hamstring) out, Atwell was active and played 25 offensive snaps. He ran 20 routes on Matthew Stafford's 32 dropbacks, tying Konata Mumpfield for second on the team behind Puka Nacua's 31, but Atwell was just doing cardio out there. He's not a reliable fantasy target, even with Adams injured.
 - **Isaac TeSlaa** — Isaac TeSlaa - One catch in close win (2026-10-27T01:40:29Z)
   - TeSlaa played 33 offensive snaps for the Lions in the contest. The wide receiver participated in 49 percent of the team's offensive snaps but failed to receive much attention from Jared Goff for the second week in a row.
-- **Travis Hunter** — Travis Hunter's Offensive Involvement Rekindles Fantasy Appeal (2026-10-27T01:38:11Z)
-  - Source: https://www.rotoballer.com/player-news/travis-hunters-offensive-involvement-rekindles-fantasy-appeal/1976744
-- **Jalon Daniels** — Jalon Daniels - Returns to backup role in Week 7 (2026-10-27T01:25:37Z)
-  - Daniels entered Sunday's contest late in the fourth quarter with Tampa Bay in full command of the contest, ultimately recording minus-three rushing yards while kneeling on back-to-back plays to end the game. With Mayfield back in action, Daniels will now have to wait for his next chance to command the Buccaneers' offense.
-- **Jameis Winston** — Jameis Winston - Finds end zone in Week 7 OT win (2026-10-27T01:16:13Z)
-  - The Giants turned to J.J. McCarthy to serve as the starting quarterback for Week 7 after Winston filled in that role in each of the four prior games. McCarthy looked more poised in the pocket, but all four of the Giants' touchdowns came on the ground, with Winston finding the end zone on a designed QB sneak late in the second quarter. That figures to be the veteran's role moving forward unless McCarthy were to miss time.
-- **Seth McGowan** — Seth McGowan - Rushes 11 times in loss (2026-10-27T01:11:13Z)
-  - McGowan played a season-high 31 percent of the team's offensive snaps, and as a result, he was able to set new highs in both carries and rushing yards. With Jonathan Taylor potentially set to be traded in the coming weeks, the rookie would stand to operate as the team's lead back following Taylor's departure. On the season, McGowan has rushed 34 times for 134 yards and reeled in four of five targets for 12 yards while compiling 566 kickoff-return yards over seven contests so far.
-- **Jaleel McLaughlin** — Jaleel McLaughlin - Limited to return role vs. Tennessee (2026-10-27T01:10:32Z)
-  - McLaughlin played a key role in the Browns' Week 6 win over the Ravens, when he turned nine carries into 41 yards and a touchdown while catching all four of his targets for 13 yards. However, his role on offense evaporated Sunday due to the returns of both Quinshon Judkins and Dylan Sampson. McLaughlin figures to be limited to return duties moving forward unless one or both of Judkins or Sampson were to miss time.
-- **Cyrus Allen** — Cyrus Allen - One early catch in Week 7 loss (2026-10-27T01:06:12Z)
-  - Allen and Patrick Mahomes for an 18-yard pass on the Chiefs' second offensive play of the game, but the rookie wide receiver did not see another pass from his veteran quarterback until the fourth quarter. All three of Allen's catches this season have come over his last two games, which has coincided with the absence of Rashee Rice (knee/hamstring). Allen was on the field for 16 of the Chiefs' 53 offensive snaps Sunday, and his minimal role would decrease even more if Rice is cleared to return for Week 8 against the Broncos on Nov. 1.
-- **Ja'Kobi Lane** — Ja'Kobi Lane - Three snags in loss (2026-10-27T01:00:41Z)
-  - Lane finished second on the team in targets behind fellow wideout Zay Flowers (11), and he was able to reel in at least three passes for the second straight week. With Lamar Jackson (ankle) nearing a return to action, Lane may be able to establish himself as a reliable red-zone threat for Baltimore moving forward this season. The rookie's next chance to record his first career touchdown will come in Week 8 versus the Bills.
-- **Justice Hill** — Justice Hill - Gets six touches in loss (2026-10-27T00:54:46Z)
-  - Baltimore led for most of the game Sunday before falling behind late in the third quarter, and from that point on, the game script favored Hill. Even still, his snap count at running back in Week 7 (29) lagged behind that of starter Derrick Henry (33). When Lamar Jackson (ankle) returns to action, it should give a boost to the entire Ravens offense.
-- **Chris Bell** — Chris Bell - Four targets in first win (2026-10-27T00:53:31Z)
-  - The third-round rookie played 31 offensive snaps and five special-teams snaps in the contest. Bell was in on 48 percent of the Dolphins' offensive plays and saw the second-most targets behind tight end Greg Dulcich (five).
-- **Mike Gesicki** — Mike Gesicki a Streamer Amid Touchdown Streak (2026-10-27T00:51:12Z)
-  - Source: https://www.rotoballer.com/player-news/mike-gesicki-a-streamer-amid-touchdown-streak/1976736
-- **Tank Dell** — Tank Dell - Highlight play in return to action (2026-10-27T00:50:23Z)
-  - Dell made his return to action after missing nearly two full years while recovering from a dislocated kneecap and series of torn ligaments in his left knee. The wide receiver was only on the field for 11 offensive plays, but he made the most of his one target. Dell reeled in a deep ball from C.J. Stroud in the second quarter, churning out a 43-yard gain. With Nico Collins, Marvin Harrison, Xavier Hutchinson, Jaylin Noel (toe) and Kayshon Boutte also in the mix at wide receiver, Dell may have a hard time getting many looks each week.
-- **Cooper Kupp** — Cooper Kupp - Hauls in both targets in Week 7 win (2026-10-27T00:48:22Z)
-  - Kupp entered Sunday's contest on the heels of a 10-target performance against the Broncos in Week 6. However, the veteran wideout saw only two looks from Sam Darnold, with the veteran quarterback relying heavily on favorite target Jaxon Smith-Njigba, who finished with a 9-150-1 receiving line on 12 targets. Kupp has logged three targets or fewer in five of seven regular-season games, though he could see a slight bump in opportunities if Rashid Shaheed (knee) is unable to play against the Bears in Week 8.
