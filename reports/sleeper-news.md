@@ -2,24 +2,39 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6388**
-- Newly captured: **7**
+- Stored stories: **6329**
+- Newly captured: **12**
 
 ## Latest news
 
-- **NEW — Jake Ferguson** — Jake Ferguson - Blanked on MNF (2026-10-27T23:34:33Z)
+- **NEW — Justice Hill** — Justice Hill an Intriguing Handcuff Despite Pass-Catching Profile (2026-10-28T03:31:12Z)
+  - Source: https://www.rotoballer.com/player-news/justice-hill-an-intriguing-handcuff-despite-pass-catching-profile/1977562
+- **NEW — De'Zhaun Stribling** — Time to Consider Stashing De'Zhaun Stribling in Redraft Leagues (2026-10-28T03:27:16Z)
+  - Source: https://www.rotoballer.com/player-news/time-to-consider-stashing-dezhaun-stribling-in-redraft-leagues/1977560
+- **NEW — Alec Pierce** — Alec Pierce a Glaring Stash Ahead of Return, Teammate's Potential Trade (2026-10-28T03:22:12Z)
+  - Source: https://www.rotoballer.com/player-news/alec-pierce-a-glaring-stash-ahead-of-return-teammates-potential-trade/1977558
+- **NEW — Brandin Cooks** — Brandin Cooks snags one pass in Week 7 (2026-10-28T03:20:18.216000Z)
+  - Cooks had another quiet week despite a season-high snap rate, appearing on 68% of the offensive plays. The 49ers are desperate for healthy wide receivers, but that doesn't mean they're going to make an impact. Quarterback Brock Purdy completed 27 passes - seven were caught by a wide receiver, a trend that could continue.
+  - Source: https://www.fantasypros.com/nfl/news/616159/brandin-cooks-snags-one-pass-week-7.php
+- **NEW — Kayshon Boutte** — Kayshon Boutte takes backseat in Week 7 loss (2026-10-28T03:10:17.961000Z)
+  - Boutte recorded a season-low offensive snap rate in Week 7: 31%. This is notable given Xavier Hutchinson's involvement and Marvin Harrison's expected role growth. Jaylin Noel did suffer an injury, but Boutte has yet to surpass 40 receiving yards in a game and has seen a decrease in snap rate in each of the last two weeks.
+  - Source: https://www.fantasypros.com/nfl/news/616157/kayshon-boutte-takes-backseat-week-7-loss.php
+- **NEW — Tyrone Tracy Jr.** — Tyrone Tracy Jr. (hamstring) placed on IR (2026-10-28T03:00:17.917000Z)
+  - Tracy suffered an injury during the Giants' win over the Houston Texans, a game in which he carried the ball six times for 15 yards and a score. The third-year running back had seen an uptick in snaps after playing 3% or fewer in the opening three weeks, scoring three touchdowns in the last two weeks. Cam Skattebo and Devin Singletary will lead the way for a New York running back room that bounced back in Week 7. Tracy is eligible to return in Week 13, given New York's Week 8 bye.
+  - Source: https://www.fantasypros.com/nfl/news/616156/tyrone-tracy-jr-hamstring-placed-on-ir.php
+- **Jake Ferguson** — Jake Ferguson - Blanked on MNF (2026-10-27T23:34:33Z)
   - Monday was the first time since Week 8 of the 2025 season that Ferguson failed to record a catch, and the only pass he saw from Dak Prescott was on a broken play in the red zone early in the fourth quarter. Ferguson's 38 offensive snaps were only two more than fellow tight end Brevyn Spann-Ford, and the latter's role in the offense has grown over the last few weeks at the expense of the former. Week 8 against the Cardinals presents itself as a bounce-back opportunity for Ferguson, seeing as Arizona's defense ranks 27th in the NFL in fantasy points allowed per game to tight ends.
-- **NEW — Eli Stowers** — Eli Stowers - Limited in NFL debut (2026-10-27T23:12:13Z)
+- **Eli Stowers** — Eli Stowers - Limited in NFL debut (2026-10-27T23:12:13Z)
   - The rookie second-rounder was activated from injured reserve ahead of Monday's contest after missing the first six games of the regular season due to quad and hamstring injuries that he picked up during training camp. He played a total of 21 snaps (12 on offense, nine on special teams) in his NFL debut, but his lone target from Tanner McKee came within the last two minutes of the fourth quarter, when the game was well out of reach for Philadelphia. Stowers will likely be limited to TE3 duties behind Dallas Goedert and Johnny Mundt for the time being.
-- **NEW — Darius Cooper** — Darius Cooper - Only one catch despite elevated snap count (2026-10-27T23:06:59Z)
+- **Darius Cooper** — Darius Cooper - Only one catch despite elevated snap count (2026-10-27T23:06:59Z)
   - With both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) sidelined, the Eagles' wide receiver group was led by Cooper, rookie Makai Lemon and Hollywood Brown during Monday's contest. Cooper led the position group with 61 offensive snaps, but he only had a 17-yard catch to show for it, which he logged on the Eagles' final play of the first quarter. He has only two catches on five targets for 26 yards over his last two games, and his profile as a boom-or-bust touchdown option in fantasy is severely hampered with Tanner McKee under center instead of Jalen Hurts (calf, IR). The Eagles will hit the road for Week 8 against the Commanders on Sunday.
-- **NEW — Michael Pittman Jr.** — Michael Pittman Jr. Could be Long-Term Stash Option (2026-10-27T21:56:14Z)
+- **Michael Pittman Jr.** — Michael Pittman Jr. Could be Long-Term Stash Option (2026-10-27T21:56:14Z)
   - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-could-be-long-term-stash-option/1977484
-- **NEW — Tanner McKee** — Tanner McKee Could Offer Deep League Streaming Value (2026-10-27T21:44:54Z)
+- **Tanner McKee** — Tanner McKee Could Offer Deep-League Streaming Value (2026-10-27T21:44:54Z)
   - Source: https://www.rotoballer.com/player-news/tanner-mckee-could-offer-deep-league-streaming-value/1977482
-- **NEW — Rachaad White** — Rachaad White is a Decent Streaming Option for Week 8 (2026-10-27T21:33:16Z)
+- **Rachaad White** — Rachaad White is a Decent Streaming Option for Week 8 (2026-10-27T21:33:16Z)
   - Source: https://www.rotoballer.com/player-news/rachaad-white-is-a-decent-streaming-option-for-week-8/1977477
-- **NEW — Darius Cooper** — Darius Cooper Offers Deep League Stash Value (2026-10-27T21:14:12Z)
+- **Darius Cooper** — Darius Cooper Offers Deep-League Stash Value (2026-10-27T21:14:12Z)
   - Source: https://www.rotoballer.com/player-news/darius-cooper-offers-deep-league-stash-value/1977464
 - **Tyrone Tracy Jr.** — Tyrone Tracy - Move to IR official (2026-10-27T21:04:19Z)
   - Just as general manager Joe Schoen indicated would be the case earlier in the day, Tracy was deactivated after straining his hamstring during Sunday's 27-21 overtime win over the Texans. He'll be out for at least the next four games, making the Giants' Week 13 game against the 49ers his earliest possible return date. While Tracy is sidelined, Devin Singletary is expected to operate as the top complement to Cam Skattebo (hamstring), who thrived while moving back into a lead role out of the backfield in the Week 7 victory.
@@ -27,6 +42,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After missing the Ravens' last three games with what he has described as a left high-ankle sprain, Jackson seems to have responded well to taking part in practices last week and looks to be moving toward a return to the lineup this Sunday. The Ravens will presumably prepare for Jackson to take on more reps in practices Wednesday through Friday, and if all goes well, he could head into the weekend without a designation. In Jackson's absence, Tyler Huntley has started each of the last three contests and has guided Baltimore to a 1-2 record while completing 68 percent of his passes for 6.8 yards per attempt and accounting for five touchdowns.
 - **Matthew Golden** — Matthew Golden - Sits out walkthrough practice (2026-10-27T20:21:57Z)
   - Coming out of Sunday's 20-17 loss to the Lions, Golden is nursing a pair of injuries that have resulted in him going down as a non-participant on the Packers' Week 8 injury report. The Packers will see if Golden can upgrade to limited or full participation in Wednesday's session before deciding whether he'll carry a designation into Thursday's game against the Panthers. Despite leading the NFL with six drops through the first seven weeks, Golden has emerged as a useful fantasy asset in his second NFL season with 36 receptions for 540 yards and three touchdowns on 69 targets to go with six rushing yards.
+- **NEW — Dont'e Thornton Jr.** — Dont'e Thornton - Makes return from IR (2026-10-27T20:08:23Z)
+  - With Thornton's 21-day practice window coming to a close this week, the Raiders elected to move him back on to the 53-man roster. A full participant in each of the Raiders' last nine practices, Thornton looks like he'll be ready to play this Sunday against the Jets, but he may not be in store for a meaningful role in the receiver rotation. He struggled to carve out consistent volume in the passing game as a rookie fourth-round pick in 2025, putting together a 10-135-0 receiving line on 30 targets over 15 appearances.
 - **Jalen Coker** — Jalen Coker - Practices fully Tuesday (2026-10-27T19:23:22Z)
   - After being listed as limited in Monday's practice estimate, Coker was able to take a step forward in activity a day later. With a full practice under his belt, Coker should be ready to handle his usual snap share in Thursday's game against the Packers. Coker -- who was held to one reception on four targets in Week 7 -- and the rest of the passing attack will look to bounce back after Carolina quarterbacks Bryce Young and Kenny Pickett were limited to just 178 yards through the air in a 43-13 loss to the Buccaneers on Sunday.
 - **Matthew Golden** — Matthew Golden "Working Through it" Before Thursday's Game (2026-10-27T18:54:11Z)
@@ -43,6 +60,8 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/matthew-golden-remains-a-non-participant-in-practice-on-tuesday/1977335
 - **Tyler Huntley** — Tyler Huntley Could Be Worth Stashing in Two-QB Formats (2026-10-27T16:18:20Z)
   - Source: https://www.rotoballer.com/player-news/tyler-huntley-could-be-worth-stashing-in-two-qb-formats/1977323
+- **NEW — Dont'e Thornton Jr.** — Dont'e Thornton Jr. Activated from Injured Reserve (2026-10-27T16:11:13Z)
+  - Source: https://www.rotoballer.com/player-news/donte-thornton-jr-activated-from-injured-reserve/1977312
 - **Sam Darnold** — Sam Darnold Stays Sack-Free but Keeps Throwing Interceptions (2026-10-27T15:58:12Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-stays-sack-free-but-keeps-throwing-interceptions/1977291
 - **Deshaun Watson** — Deshaun Watson's 308 Yards Don't Fix the Touchdown Drought (2026-10-27T15:41:12Z)
@@ -207,19 +226,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Dell made his return to action after missing nearly two full years while recovering from a dislocated kneecap and series of torn ligaments in his left knee. The wide receiver was only on the field for 11 offensive plays, but he made the most of his one target. Dell reeled in a deep ball from C.J. Stroud in the second quarter, churning out a 43-yard gain. With Nico Collins, Marvin Harrison, Xavier Hutchinson, Jaylin Noel (toe) and Kayshon Boutte also in the mix at wide receiver, Dell may have a hard time getting many looks each week.
 - **Cooper Kupp** — Cooper Kupp - Hauls in both targets in Week 7 win (2026-10-27T00:48:22Z)
   - Kupp entered Sunday's contest on the heels of a 10-target performance against the Broncos in Week 6. However, the veteran wideout saw only two looks from Sam Darnold, with the veteran quarterback relying heavily on favorite target Jaxon Smith-Njigba, who finished with a 9-150-1 receiving line on 12 targets. Kupp has logged three targets or fewer in five of seven regular-season games, though he could see a slight bump in opportunities if Rashid Shaheed (knee) is unable to play against the Bears in Week 8.
-- **Kenny Gainwell** — Kenny Gainwell Worthy of Waiver-Wire Consideration After Efficient Outing (2026-10-27T00:44:11Z)
-  - Source: https://www.rotoballer.com/player-news/kenny-gainwell-worthy-of-waiver-wire-consideration-after-efficient-outing/1976731
-- **Tory Horton** — Tory Horton - Only one target against Kansas City (2026-10-27T00:41:25Z)
-  - Horton's 31 offensive snaps were third-most among Seahawks wide receivers behind Jaxon Smith-Njigba (53) and Cooper Kupp (45). 17 of Sam Darnold's 28 pass attempts went to Smith-Njigba (12) and tight end AJ Barner (five), with Horton and the rest of Seattle's pass catchers serving in complementary roles. The Seahawks' offense revolves around Smith-Njigba, so most of Horton's work will come on special teams, although the latter could see an uptick in opportunities if Rashid Shaheed (knee) cannot play against the Bears in Week 8.
-- **Saquon Barkley** — Saquon Barkley Suffers Compensatory Back Injury on Monday Night (2026-10-27T00:39:12Z)
-  - Source: https://www.rotoballer.com/player-news/saquon-barkley-suffered-a-compensatory-back-injury-on-monday-night/1976728
-- **Rashod Bateman** — Rashod Bateman - Two catches in loss (2026-10-27T00:38:08Z)
-  - Bateman was able to handle a full workload for the first time since Week 5 after dealing with a shoulder injury, and the wide receiver was on the field for 74 percent of the team's offensive snaps. Bateman finished tied for third on the team in targets with running back Justice Hill and tight end Mark Andrews, and his 33 receiving yards ranked third. The wide receiver and the rest of the team's pass catchers would stand to see an increase in production if Lamar Jackson (ankle) is able to return to action in Week 8 versus Buffalo.
-- **Emmett Johnson** — Emmett Johnson - Logs two catches in Week 7 loss (2026-10-27T00:37:02Z)
-  - Johnson was held without a carry for the second time in three games, with lead back Kenneth Walker bottled up for 36 yards on 14 carries (2.6 YPC). Johnson has seen three carries or fewer in four of the first six games of the regular season and figures to be limited to a third-down role as a pass catcher unless Walker were to miss time. The Chiefs will stay on the road for a Week 8 divisional matchup against the Broncos on Nov. 1.
-- **Elic Ayomanor** — Elic Ayomanor - Seven targets in close loss (2026-10-27T00:34:50Z)
-  - Ayomanor played 56 offensive snaps for the Titans in Sunday's contest. The wide receiver was in on 89 percent of the team's offensive plays and was tied with rookie first-rounder Carnell Tate for the team lead in targets.
-- **Kayshon Boutte** — Kayshon Boutte - Catches one ball in loss (2026-10-27T00:31:10Z)
-  - Boutte played a season-low 18 offensive snaps in Week 7, trailing behind Nico Collins (34) and Xavier Hutchinson (31) and tying with Jaylin Noel (toe). Predictably, he wasn't very involved in an inefficient passing game. As recent trade acquisition Marvin Harrison gets acclimated, Boutte's role will probably continue to shrink as the campaign continues.
-- **Kaytron Allen** — Kaytron Allen - Limited to special-teams work in Miami debut (2026-10-27T00:30:24Z)
-  - Allen -- who was claimed off waivers by the Dolphins one day after being let go by the Commanders on Oct. 8 -- was cleared to make his debut with his new team Sunday. He was limited to work on special teams, but he could carve himself a role on offense as he gets more familiar with the playbook. Jaylen Wright left Sunday's game and did not return due to a quadriceps, and if he cannot play against the Raiders in Week 8, then Allen would step into the RB2 role behind Ollie Gordon.
