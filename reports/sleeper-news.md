@@ -2,36 +2,50 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6501**
-- Newly captured: **11**
+- Stored stories: **6388**
+- Newly captured: **7**
 
 ## Latest news
 
-- **NEW — Tyrone Tracy Jr.** — Tyrone Tracy - Move to IR official (2026-10-27T21:04:19Z)
+- **NEW — Jake Ferguson** — Jake Ferguson - Blanked on MNF (2026-10-27T23:34:33Z)
+  - Monday was the first time since Week 8 of the 2025 season that Ferguson failed to record a catch, and the only pass he saw from Dak Prescott was on a broken play in the red zone early in the fourth quarter. Ferguson's 38 offensive snaps were only two more than fellow tight end Brevyn Spann-Ford, and the latter's role in the offense has grown over the last few weeks at the expense of the former. Week 8 against the Cardinals presents itself as a bounce-back opportunity for Ferguson, seeing as Arizona's defense ranks 27th in the NFL in fantasy points allowed per game to tight ends.
+- **NEW — Eli Stowers** — Eli Stowers - Limited in NFL debut (2026-10-27T23:12:13Z)
+  - The rookie second-rounder was activated from injured reserve ahead of Monday's contest after missing the first six games of the regular season due to quad and hamstring injuries that he picked up during training camp. He played a total of 21 snaps (12 on offense, nine on special teams) in his NFL debut, but his lone target from Tanner McKee came within the last two minutes of the fourth quarter, when the game was well out of reach for Philadelphia. Stowers will likely be limited to TE3 duties behind Dallas Goedert and Johnny Mundt for the time being.
+- **NEW — Darius Cooper** — Darius Cooper - Only one catch despite elevated snap count (2026-10-27T23:06:59Z)
+  - With both DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) sidelined, the Eagles' wide receiver group was led by Cooper, rookie Makai Lemon and Hollywood Brown during Monday's contest. Cooper led the position group with 61 offensive snaps, but he only had a 17-yard catch to show for it, which he logged on the Eagles' final play of the first quarter. He has only two catches on five targets for 26 yards over his last two games, and his profile as a boom-or-bust touchdown option in fantasy is severely hampered with Tanner McKee under center instead of Jalen Hurts (calf, IR). The Eagles will hit the road for Week 8 against the Commanders on Sunday.
+- **NEW — Michael Pittman Jr.** — Michael Pittman Jr. Could be Long-Term Stash Option (2026-10-27T21:56:14Z)
+  - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-could-be-long-term-stash-option/1977484
+- **NEW — Tanner McKee** — Tanner McKee Could Offer Deep League Streaming Value (2026-10-27T21:44:54Z)
+  - Source: https://www.rotoballer.com/player-news/tanner-mckee-could-offer-deep-league-streaming-value/1977482
+- **NEW — Rachaad White** — Rachaad White is a Decent Streaming Option for Week 8 (2026-10-27T21:33:16Z)
+  - Source: https://www.rotoballer.com/player-news/rachaad-white-is-a-decent-streaming-option-for-week-8/1977477
+- **NEW — Darius Cooper** — Darius Cooper Offers Deep League Stash Value (2026-10-27T21:14:12Z)
+  - Source: https://www.rotoballer.com/player-news/darius-cooper-offers-deep-league-stash-value/1977464
+- **Tyrone Tracy Jr.** — Tyrone Tracy - Move to IR official (2026-10-27T21:04:19Z)
   - Just as general manager Joe Schoen indicated would be the case earlier in the day, Tracy was deactivated after straining his hamstring during Sunday's 27-21 overtime win over the Texans. He'll be out for at least the next four games, making the Giants' Week 13 game against the 49ers his earliest possible return date. While Tracy is sidelined, Devin Singletary is expected to operate as the top complement to Cam Skattebo (hamstring), who thrived while moving back into a lead role out of the backfield in the Week 7 victory.
-- **NEW — Lamar Jackson** — Lamar Jackson - Trending toward return in Week 8 (2026-10-27T20:32:29Z)
+- **Lamar Jackson** — Lamar Jackson - Trending toward return in Week 8 (2026-10-27T20:32:29Z)
   - After missing the Ravens' last three games with what he has described as a left high-ankle sprain, Jackson seems to have responded well to taking part in practices last week and looks to be moving toward a return to the lineup this Sunday. The Ravens will presumably prepare for Jackson to take on more reps in practices Wednesday through Friday, and if all goes well, he could head into the weekend without a designation. In Jackson's absence, Tyler Huntley has started each of the last three contests and has guided Baltimore to a 1-2 record while completing 68 percent of his passes for 6.8 yards per attempt and accounting for five touchdowns.
-- **NEW — Matthew Golden** — Matthew Golden - Sits out walkthrough practice (2026-10-27T20:21:57Z)
+- **Matthew Golden** — Matthew Golden - Sits out walkthrough practice (2026-10-27T20:21:57Z)
   - Coming out of Sunday's 20-17 loss to the Lions, Golden is nursing a pair of injuries that have resulted in him going down as a non-participant on the Packers' Week 8 injury report. The Packers will see if Golden can upgrade to limited or full participation in Wednesday's session before deciding whether he'll carry a designation into Thursday's game against the Panthers. Despite leading the NFL with six drops through the first seven weeks, Golden has emerged as a useful fantasy asset in his second NFL season with 36 receptions for 540 yards and three touchdowns on 69 targets to go with six rushing yards.
 - **Jalen Coker** — Jalen Coker - Practices fully Tuesday (2026-10-27T19:23:22Z)
   - After being listed as limited in Monday's practice estimate, Coker was able to take a step forward in activity a day later. With a full practice under his belt, Coker should be ready to handle his usual snap share in Thursday's game against the Packers. Coker -- who was held to one reception on four targets in Week 7 -- and the rest of the passing attack will look to bounce back after Carolina quarterbacks Bryce Young and Kenny Pickett were limited to just 178 yards through the air in a 43-13 loss to the Buccaneers on Sunday.
-- **NEW — Matthew Golden** — Matthew Golden "Working Through it" Before Thursday's Game (2026-10-27T18:54:11Z)
+- **Matthew Golden** — Matthew Golden "Working Through it" Before Thursday's Game (2026-10-27T18:54:11Z)
   - Source: https://www.rotoballer.com/player-news/matthew-golden-working-through-it-before-thursdays-game/1977428
 - **Tyrone Tracy Jr.** — Tyrone Tracy - Bound for IR (2026-10-27T18:06:41Z)
   - Per Duggan, Schoen added that the hamstring injury that Tracy sustained in Sunday's overtime win over the Texans isn't season-ending, but the running back's impending move to IR means that he won't be eligible to play in any of the Giants' next four games. With Tracy out through at least Week 12, Devin Singletary should will be in line to serve as the top complement to lead back Cam Skattebo (hamstring). The Giants are planning to sign Greg Desrosiers off the Chargers' practice squad to add depth to the position group, according to Jordan Raanan of ESPN.com.
-- **NEW — Josh Downs** — WR-Needy Teams Calling Colts About Josh Downs (2026-10-27T17:31:42Z)
+- **Josh Downs** — WR-Needy Teams Calling Colts About Josh Downs (2026-10-27T17:31:42Z)
   - Source: https://www.rotoballer.com/player-news/wr-needy-teams-calling-colts-about-josh-downs/1977394
-- **NEW — Lamar Jackson** — Lamar Jackson Expected to Return in Week 8 (2026-10-27T16:50:15Z)
+- **Lamar Jackson** — Lamar Jackson Expected to Return in Week 8 (2026-10-27T16:50:15Z)
   - Source: https://www.rotoballer.com/player-news/lamar-jackson-expected-to-return-in-week-8-2/1977358
-- **NEW — Jalen Coker** — Jalen Coker Upgraded to Full Practice Participation on Tuesday (2026-10-27T16:36:17Z)
+- **Jalen Coker** — Jalen Coker Upgraded to Full Practice Participation on Tuesday (2026-10-27T16:36:17Z)
   - Source: https://www.rotoballer.com/player-news/jalen-coker-upgraded-to-full-practice-participation-on-tuesday/1977342
-- **NEW — Matthew Golden** — Matthew Golden Remains a Non-Participant in Practice on Tuesday (2026-10-27T16:28:14Z)
+- **Matthew Golden** — Matthew Golden Remains a Non-Participant in Practice on Tuesday (2026-10-27T16:28:14Z)
   - Source: https://www.rotoballer.com/player-news/matthew-golden-remains-a-non-participant-in-practice-on-tuesday/1977335
-- **NEW — Tyler Huntley** — Tyler Huntley Could Be Worth Stashing in Two-QB Formats (2026-10-27T16:18:20Z)
+- **Tyler Huntley** — Tyler Huntley Could Be Worth Stashing in Two-QB Formats (2026-10-27T16:18:20Z)
   - Source: https://www.rotoballer.com/player-news/tyler-huntley-could-be-worth-stashing-in-two-qb-formats/1977323
-- **NEW — Sam Darnold** — Sam Darnold Stays Sack-Free but Keeps Throwing Interceptions (2026-10-27T15:58:12Z)
+- **Sam Darnold** — Sam Darnold Stays Sack-Free but Keeps Throwing Interceptions (2026-10-27T15:58:12Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-stays-sack-free-but-keeps-throwing-interceptions/1977291
-- **NEW — Deshaun Watson** — Deshaun Watson's 308 Yards Don't Fix the Touchdown Drought (2026-10-27T15:41:12Z)
+- **Deshaun Watson** — Deshaun Watson's 308 Yards Don't Fix the Touchdown Drought (2026-10-27T15:41:12Z)
   - Source: https://www.rotoballer.com/player-news/deshaun-watsons-308-yards-dont-fix-the-touchdown-drought/1977274
 - **Saquon Barkley** — Saquon Barkley - Plans to play through back issue (2026-10-27T15:38:05Z)
   - While suiting up for the first time since Week 4 after missing the Eagles' previous two games due to a hamstring strain, Barkley took the field for just 10 snaps on the night but was impactful in his limited playing time. He touched the ball on nine of those snaps, carrying seven times for 62 yards and a touchdown to go with two receptions for nine yards on two targets. Heading into the game, the Eagles had deliberately planned to manage Barkley's workload to some extent, but he ended up seeing fewer snaps than anticipated after his back locked up on him following a 29-yard run in the first quarter. He didn't end up taking any snaps after the third quarter, with the Eagles leaning exclusively on Dameon Pierce (undisclosed) and Elijah Mitchell out of the backfield over the final 15 minutes. Fortunately for Barkley, the back issue doesn't seem to be a major concern, but his activity in practice this week will warrant monitoring as the Eagles assess his availability for Sunday's contest.
@@ -209,17 +223,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Boutte played a season-low 18 offensive snaps in Week 7, trailing behind Nico Collins (34) and Xavier Hutchinson (31) and tying with Jaylin Noel (toe). Predictably, he wasn't very involved in an inefficient passing game. As recent trade acquisition Marvin Harrison gets acclimated, Boutte's role will probably continue to shrink as the campaign continues.
 - **Kaytron Allen** — Kaytron Allen - Limited to special-teams work in Miami debut (2026-10-27T00:30:24Z)
   - Allen -- who was claimed off waivers by the Dolphins one day after being let go by the Commanders on Oct. 8 -- was cleared to make his debut with his new team Sunday. He was limited to work on special teams, but he could carve himself a role on offense as he gets more familiar with the playbook. Jaylen Wright left Sunday's game and did not return due to a quadriceps, and if he cannot play against the Raiders in Week 8, then Allen would step into the RB2 role behind Ollie Gordon.
-- **Fernando Mendoza** — Fernando Mendoza - No action in Week 7 (2026-10-27T00:26:02Z)
-  - Mendoza didn't see any action for the second straight week after he got his toes wet in the team's Week 5 loss to New England. With the Raiders falling to 3-4 with the loss in Week 7, current starting quarterback Kirk Cousins may not remain in that role for much longer. Las Vegas will travel to face the Jets in Week 8 before a trio of tough matchups against the 49ers, Seahawks and Broncos in the next three weeks.
-- **Jerry Jeudy** — Jerry Jeudy - Makes four grabs in win (2026-10-27T00:24:43Z)
-  - Jeudy now has four catches in each of his last two games, an encouraging sign after he had no more than three in any of the first five games of the season. He's still trailing rookies Denzel Boston and KC Concepcion in terms of playing time, however. Jeudy is not on the radar in most formats going into a Week 8 matchup at Pittsburgh.
-- **Troy Franklin** — Troy Franklin - No production in win (2026-10-27T00:24:17Z)
-  - Franklin played 28 offensive snaps in Sunday's contest. Despite being on the field for 46 percent of the Broncos' offensive plays, the No. 3 option was targeted only twice and failed to catch either pass.
-- **Adonai Mitchell** — Adonai Mitchell - Zero catches on three targets in return (2026-10-27T00:24:12Z)
-  - Mitchell was cleared to return from a four-game absence due to a finger injury. However, the third-year pro was unable to connect with Geno Smith during Sunday's loss, and Mitchell's 26 offensive snaps were third-most among Jets wide receivers behind Garrett Wilson (50) and rookie Omar Cooper (38). Mitchell logged 15 targets through the first two games of the regular season prior to his injury, but his offensive opportunities figure to be limited while competing for targets against Wilson, Cooper and tight ends Mason Taylor and Kenyon Sadiq. The Jets will stay home for Week 8 against the Raiders, whose defense has given up the second-most passing touchdowns (16) this season.
-- **Jalen Nailor** — Jalen Nailor - Two snags in loss (2026-10-27T00:20:03Z)
-  - Nailor was able to reel in multiple passes for the first time since Week 1, but he was still limited to an uninspiring 14 receiving yards. With Brock Bowers, Tre Tucker and Ashton Jeanty combining for 28 targets in the contest, Nailor operated as a the No. 4 option at best for Las Vegas. Through six contests this year, the wide receiver has caught eight of 20 targets for 75 yards, and he is still searching for his first touchdown.
-- **Kendrick Bourne** — Kendrick Bourne - Held in check in loss (2026-10-27T00:18:22Z)
-  - Coming off the heels of a second straight five-catch game, Bourne had positive momentum coming into Week 7. However, while his six targets were encouraging, his production was less efficient than a team baseline that was already not very good. With that said, teammate Jalen Brooks suffered a season-ending wrist injury Sunday, leaving Bourne as the Cardinals' undisputed second option at wide receiver moving forward.
-- **Noah Fant** — Noah Fant - Another quiet performance Sunday (2026-10-27T00:11:01Z)
-  - After finding the end zone twice in the loss to the Raiders in Week 3, Fant has combined for just three catches in his previous three appearances. While his two receptions Sunday were a small step in the right direction, he is expected to continue to play second fiddle to Juwan Johnson moving forward. It may also be a matter of time before rookie Oscar Delp logs more snaps from week to week.
