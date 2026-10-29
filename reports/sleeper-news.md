@@ -2,59 +2,59 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6268**
-- Newly captured: **33**
+- Stored stories: **6247**
+- Newly captured: **0**
 
 ## Latest news
 
-- **NEW — Carson Beck** — Carson Beck (back) limited in practice Wednesday  (2026-10-29T02:00:26.719000Z)
+- **Carson Beck** — Carson Beck (back) limited in practice Wednesday  (2026-10-29T02:00:26.719000Z)
   - Beck has been dealing with back spasms. He remains the current No. 3 quarterback for the Cardinals. 
   - Source: https://www.fantasypros.com/nfl/news/616340/carson-beck-back-limited-practice-wednesday.php
-- **NEW — Jeremiyah Love** — Jeremiyah Love (ankle) limited in practice Wednesday  (2026-10-29T01:55:26.661000Z)
+- **Jeremiyah Love** — Jeremiyah Love (ankle) limited in practice Wednesday  (2026-10-29T01:55:26.661000Z)
   - Love has missed the past couple weeks of action. His return to open the week gives him a chance to return on Sunday. 
   - Source: https://www.fantasypros.com/nfl/news/616338/jeremiyah-love-ankle-limited-practice-wednesday.php
-- **NEW — Colby Parkinson** — Colby Parkinson (ribs) misses practice Wednesday  (2026-10-29T01:50:27.083000Z)
+- **Colby Parkinson** — Colby Parkinson (ribs) misses practice Wednesday  (2026-10-29T01:50:27.083000Z)
   - Parkinson has played a bigger role in recent weeks. He will need to be monitored in practice the rest of the week. 
   - Source: https://www.fantasypros.com/nfl/news/616334/colby-parkinson-ribs-misses-practice-wednesday.php
-- **NEW — Terrance Ferguson** — Terrance Ferguson (ankle) will not return to practice this week (2026-10-29T01:50:27.068000Z)
+- **Terrance Ferguson** — Terrance Ferguson (ankle) will not return to practice this week (2026-10-29T01:50:27.068000Z)
   - Ferguson remains without a clear timetable to return. Tyler Higbee and Colby Parkinson will continue to lead a committee of tight ends. 
   - Source: https://www.fantasypros.com/nfl/news/616335/terrance-ferguson-ankle-will-not-return-to-practice-this-week.php
-- **NEW — Dylan Sampson** — Dylan Sampson (knee) limited in practice Wednesday  (2026-10-29T01:40:26.419000Z)
+- **Dylan Sampson** — Dylan Sampson (knee) limited in practice Wednesday  (2026-10-29T01:40:26.419000Z)
   - Sampson made his return in Week 7. He remains in the flex streaming conversation. 
   - Source: https://www.fantasypros.com/nfl/news/616331/dylan-sampson-knee-limited-practice-wednesday.php
-- **NEW — Dalton Kincaid** — Dalton Kincaid (chest) limited in practice Wednesday  (2026-10-29T01:35:26.341000Z)
+- **Dalton Kincaid** — Dalton Kincaid (chest) limited in practice Wednesday  (2026-10-29T01:35:26.341000Z)
   - Kincaid is on track to be good to go for Sunday's game against the Ravens. He'll remain a TE1 play for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/616328/dalton-kincaid-chest-limited-practice-wednesday.php
-- **NEW — George Pickens** — George Pickens (shoulder/hamstring) limited in practice Wednesday  (2026-10-29T01:30:26.926000Z)
+- **George Pickens** — George Pickens (shoulder/hamstring) limited in practice Wednesday  (2026-10-29T01:30:26.926000Z)
   - Pickens appeared to have picked up the hamstring injury in Monday's game. He'll need to be monitored in practice the rest of the week. 
   - Source: https://www.fantasypros.com/nfl/news/616323/george-pickens-shoulderhamstring-limited-practice-wednesday.php
-- **NEW — Jaylen Waddle** — Jaylen Waddle (chest) misses practice Wednesday  (2026-10-29T01:30:26.895000Z)
+- **Jaylen Waddle** — Jaylen Waddle (chest) misses practice Wednesday  (2026-10-29T01:30:26.895000Z)
   - Waddle's status for Week 8 against the Chiefs is up in the air. 
   - Source: https://www.fantasypros.com/nfl/news/616325/jaylen-waddle-chest-misses-practice-wednesday.php
-- **NEW — Quinshon Judkins** — Quinshon Judkins Proves Capable of Producing Big Results (2026-10-29T01:26:17Z)
+- **Quinshon Judkins** — Quinshon Judkins Proves Capable of Producing Big Results (2026-10-29T01:26:17Z)
   - Source: https://www.rotoballer.com/player-news/quinshon-judkins-proves-capable-of-producing-big-results/1978388
-- **NEW — Saquon Barkley** — Saquon Barkley (hamstring/back) misses walkthrough practice Wednesday  (2026-10-29T01:25:26.566000Z)
+- **Saquon Barkley** — Saquon Barkley (hamstring/back) misses walkthrough practice Wednesday  (2026-10-29T01:25:26.566000Z)
   - Barkley returned in Week 7 against the Cowboys, but appeared to get banged up again. He'll need to be monitored in practice the rest of the week. 
   - Source: https://www.fantasypros.com/nfl/news/616320/saquon-barkley-hamstringback-misses-walkthrough-practice-wednesday.php
-- **NEW — Colston Loveland** — Colston Loveland Seems to Have Turned a Corner After Big Week 7 (2026-10-29T01:22:12Z)
+- **Colston Loveland** — Colston Loveland Seems to Have Turned a Corner After Big Week 7 (2026-10-29T01:22:12Z)
   - Source: https://www.rotoballer.com/player-news/colston-loveland-seems-to-have-turned-a-corner-after-big-week-7/1978386
-- **NEW — Tyler Allgeier** — Tyler Allgeier (toe) misses practice Wednesday  (2026-10-29T01:20:27.308000Z)
+- **Tyler Allgeier** — Tyler Allgeier (toe) misses practice Wednesday  (2026-10-29T01:20:27.308000Z)
   - Allgeier is dealing with a toe injury. Jeremiyah Love (ankle) returned to practice in a limited fashion on Wednesday. 
   - Source: https://www.fantasypros.com/nfl/news/616316/tyler-allgeier-toe-misses-practice-wednesday.php
-- **NEW — DeVonta Smith** — DeVonta Smith (hamstring) misses walkthrough Wednesday  (2026-10-29T01:20:27.282000Z)
+- **DeVonta Smith** — DeVonta Smith (hamstring) misses walkthrough Wednesday  (2026-10-29T01:20:27.282000Z)
   - Smith was sidelined in Week 7 against the Cowboys. He'll need to be monitored in practice the rest of the week. 
   - Source: https://www.fantasypros.com/nfl/news/616318/devonta-smith-hamstring-misses-walkthrough-wednesday.php
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks (ankle) misses practice Wednesday  (2026-10-29T01:20:27.270000Z)
+- **Dontayvion Wicks** — Dontayvion Wicks (ankle) misses practice Wednesday  (2026-10-29T01:20:27.270000Z)
   - Wicks was sidelined in Week 7 against the Cowboys. He'll need to be monitored in practice the rest of the week. 
   - Source: https://www.fantasypros.com/nfl/news/616319/dontayvion-wicks-ankle-misses-practice-wednesday.php
-- **NEW — Dalton Kincaid** — Dalton Kincaid Limited with a Chest Injury on Wednesday (2026-10-29T01:19:12Z)
+- **Dalton Kincaid** — Dalton Kincaid Limited with a Chest Injury on Wednesday (2026-10-29T01:19:12Z)
   - Source: https://www.rotoballer.com/player-news/dalton-kincaid-limited-with-a-chest-injury-on-wednesday/1978384
-- **NEW — Michael Wilson** — Michael Wilson (ribs) limited in practice Wednesday  (2026-10-29T01:10:26.422000Z)
+- **Michael Wilson** — Michael Wilson (ribs) limited in practice Wednesday  (2026-10-29T01:10:26.422000Z)
   - Wilson was on the practice field wearing a non-contact jersey. He should still be on track to be good to go this week. 
   - Source: https://www.fantasypros.com/nfl/news/616315/michael-wilson-ribs-limited-practice-wednesday.php
-- **NEW — Tyler Allgeier** — Tyler Allgeier - DNP on Wednesday (2026-10-29T00:16:27Z)
+- **Tyler Allgeier** — Tyler Allgeier - DNP on Wednesday (2026-10-29T00:16:27Z)
   - Allgeier wasn't present for the media-access portion of Wednesday's session, and a toe injury was the reason for his absence. Fellow RB Jeremiyah Love (ankle) returned to drills Wednesday as a limited participant, so question marks abound in the Cardinals backfield as the team kicks off Week 8 prep.
-- **NEW — Michael Wilson** — Michael Wilson - Limited Wednesday (2026-10-29T00:12:27Z)
+- **Michael Wilson** — Michael Wilson - Limited Wednesday (2026-10-29T00:12:27Z)
   - Wilson was seen wearing a yellow non-contact jersey Wednesday, per Theo Mackie of The Arizona Republic. Afterward, Wilson told Tyler Drake of ArizonaSports.com that he emerged from this past Sunday's loss to the Broncos with sore ribs, hence the reason for the jersey. Wilson will have two more chances to get back to full this week before the Cardinals potentially tag him with a designation for Sunday's game at Dallas.
 - **Elijah Mitchell** — Elijah Mitchell - Reverts to practice squad (2026-10-29T00:00:21Z)
   - Mitchell is a prime candidate for promotion or elevation to the active roster ahead of Sunday's game against the Commanders. The running back played 14 offensive snaps in the Eagles' Week 7 loss to the Cowboys, logging three carries for 11 yards in the contest. With Saquon Barkley (hamstring) banged up and Dameon Pierce (undisclosed) moved to IR, Mitchell could be the team's No. 2 rusher for Week 8 behind Jaydon Blue.
@@ -70,47 +70,47 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Wicks thus has logged a DNP on four consecutive injury reports going back to last week as he deals with an ankle issue. He likely will need to practice in some capacity Thursday and/or Friday to have a chance to suit up Sunday at Washington.
 - **DeVonta Smith** — DeVonta Smith - No practice Wednesday (2026-10-28T23:10:35Z)
   - Smith has missed three of the last four games due to a hamstring injury, and his lack of activity to begin Week 8 prep isn't a great sign for his odds to return to action Sunday in Washington. He likely will need to mix into drills Thursday and/or Friday to have a chance to play this weekend.
-- **NEW — Michael Wilson** — Michael Wilson Limited in Wednesday's Practice (2026-10-28T23:10:13Z)
+- **Michael Wilson** — Michael Wilson Limited in Wednesday's Practice (2026-10-28T23:10:13Z)
   - Source: https://www.rotoballer.com/player-news/michael-wilson-limited-in-wednesdays-practice/1978378
 - **Jerry Jeudy** — Jerry Jeudy - Unlikely trade candidate for now (2026-10-28T23:08:20Z)
   - The rookie wide receiver duo of Denzel Boston and KC Concepcion, along with second-year tight end Harold Fannin, have dominated most of the targets from quarterback Deshaun Watson. Jeudy has been less involved offensively, although he's slight uptick in work as of late, accumulating 14 catches (on 18 targets) for 145 yards over his last four games. The 2020 first-rounder brings a veteran presence to the Browns' pass-catching group, but given his lower workload compared to his younger teammates in Cleveland, Jeudy could garner interest from a team who is in more need of depth at wide receiver.
 - **Saquon Barkley** — Saquon Barkley - Doesn't practice Wednesday (2026-10-28T23:05:23Z)
   - The Eagles are listing Barkley's previous hamstring injury and the back issue that he picked up during Monday's loss to the Cowboys as the reasons for Wednesday's absence. He'll have two more chances to mix into drills this week, but even if he isn't able to, he mentioned of the aforementioned contest that his "hamstring came out great" and that he isn't worried about the new health concern, per Tim McManus of ESPN.com. Ultimately, Friday's injury report will reveal Barkley's odds to suit up Sunday at Washington.
-- **NEW — Stefon Diggs** — Stefon Diggs Expected to Return to Practice on Thursday (2026-10-28T22:54:12Z)
+- **Stefon Diggs** — Stefon Diggs Expected to Return to Practice on Thursday (2026-10-28T22:54:12Z)
   - Source: https://www.rotoballer.com/player-news/stefon-diggs/1978371
 - **Stefon Diggs** — Stefon Diggs - DNP due to 'hand/hamstring/rest' (2026-10-28T22:53:33Z)
   - Head coach Dan Quinn relayed to Tashan Reed of The Washington Post earlier Wednesday that Diggs wasn't going to practice for an unspecified reason. The Commanders ended up listing hand and hamstring issues in addition to rest, the latter of which is the likeliest reason for his absence because Diggs is expected to be a full participant Thursday. With Terry McLaurin (knee) out for the season, Diggs will be on the receiving end of plenty of targets from QB Jayden Daniels as long as Diggs is able to suit up on game days.
-- **NEW — Tyler Warren** — Tyler Warren Back at Practice, Limited on Wednesday (2026-10-28T22:53:16Z)
+- **Tyler Warren** — Tyler Warren Back at Practice, Limited on Wednesday (2026-10-28T22:53:16Z)
   - Source: https://www.rotoballer.com/player-news/tyler-warren-back-at-practice-limited-on-wednesday/1978367
-- **NEW — Drake Maye** — Drake Maye Bouncing Back from Rough Start to 2026 Season (2026-10-28T22:39:12Z)
+- **Drake Maye** — Drake Maye Bouncing Back from Rough Start to 2026 Season (2026-10-28T22:39:12Z)
   - Source: https://www.rotoballer.com/player-news/drake-maye-bouncing-back-from-rough-start-to-2026-season/1978358
-- **NEW — Ladd McConkey** — Ladd McConkey Practicing Without Restrictions Off Bye Week (2026-10-28T22:37:13Z)
+- **Ladd McConkey** — Ladd McConkey Practicing Without Restrictions Off Bye Week (2026-10-28T22:37:13Z)
   - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-practicing-without-restrictions-off-bye-week/1978356
 - **Ladd McConkey** — Ladd McConkey - Full practice Wednesday (2026-10-28T22:36:50Z)
   - McConkey was dealing with a foot injury for multiple weeks before suffering a concussion in the Chargers' last game on Oct. 18. With the benefit of the team's Week 7 bye, he didn't endure any practice restrictions Wednesday and also ditched his previous foot issue. McConkey thus appears as if he only needs clearance from an independent neurologist in order to play Sunday against the Rams.
 - **Jaylin Noel** — Jaylin Noel - Needs season-ending surgery on toe (2026-10-28T22:30:42Z)
   - Noel was forced out of this past Sunday's 27-21 overtime loss to the Giants after going down with the toe injury with just under nine minutes remaining in the fourth quarter. The loss of Noel is a major blow to the Texans, as he had been serving as the team's top return man in addition to emerging as a big-play threat on offense. Through Houston's first seven games, Noel had recorded 19 receptions for a team-leading 331 yards and two touchdowns and added 26 yards on four carries.
-- **NEW — Blake Corum** — Blake Corum Continues to See an Increase in Usage (2026-10-28T22:23:17Z)
+- **Blake Corum** — Blake Corum Continues to See an Increase in Usage (2026-10-28T22:23:17Z)
   - Source: https://www.rotoballer.com/player-news/blake-corum-continues-to-see-an-increase-in-usage/1978350
 - **George Pickens** — George Pickens - Remains limited Wednesday (2026-10-28T22:20:34Z)
   - Pickens endured some practice restrictions last week due to a shoulder issue, but a hamstring injury is combining with the existing health concern to impact his on-field work to kick off Week 8 prep. He'll have two more opportunities to get back to full this week, at which point the Cowboys may tag him with a designation ahead of Sunday's game against the Cardinals.
 - **Tyler Allgeier** — Tyler Allgeier - Not spotted Wednesday (2026-10-28T22:15:40Z)
   - It's unclear if Allgeier is dealing with a health concern or merely getting the day off, but Wednesday's practice report will reveal as much. Fellow RB Jeremiyah Love (ankle) is returning as a limited participant to begin Week 8 prep, throwing the Cardinals backfield in a bit of flux.
-- **NEW — George Pickens** — George Pickens Remains on the Injury Report for Week 8 (2026-10-28T22:12:16Z)
+- **George Pickens** — George Pickens Remains on the Injury Report for Week 8 (2026-10-28T22:12:16Z)
   - Source: https://www.rotoballer.com/player-news/george-pickens-remains-on-the-injury-report-for-week-8/1978346
 - **Dylan Sampson** — Dylan Sampson - Turns in limited practice (2026-10-28T22:08:49Z)
   - Sampson's limitations were presumably maintenance-related after he suited up in Sunday's 27-24 win over the Titans following a five-game stint on injured reserve due to the knee injury. In his return to action, Sampson served as the No. 2 option out of the backfield behind Quinshon Judkins and carried six times for 45 yards while adding three receptions for 32 yards on three targets.
-- **NEW — Daniel Jones** — Daniel Jones' Play and Situation Make Him a Difficult Player to Roster (2026-10-28T22:05:12Z)
+- **Daniel Jones** — Daniel Jones' Play and Situation Make Him a Difficult Player to Roster (2026-10-28T22:05:12Z)
   - Source: https://www.rotoballer.com/player-news/daniel-jones-play-and-situation-make-him-a-difficult-player-to-roster/1978343
 - **Jaylen Waddle** — Jaylen Waddle - Misses Wednesday's practice (2026-10-28T22:02:19Z)
   - According to Zac Stevens of TheDNVR.com, Waddle was present for the media-access portion of practice, but he didn't end up doing enough on the field to go down as a limited participant on the Broncos' first report of Week 8. The wideout thus has two more opportunities to log practice reps ahead of Sunday's game against the Chiefs. Per Mike Klis of 9News Denver, the Broncos remain hopeful that Waddle will be able to suit up Sunday, after he aggravated the chest injury when he was tackled for a 12-yard loss after bobbling a pitch from quarterback Bo Nix on a reverse play in last week's win over the Cardinals.
-- **NEW — Elijah Mitchell** — Elijah Mitchell Offers Stash Value as Next Man Up in Philly (2026-10-28T21:56:17Z)
+- **Elijah Mitchell** — Elijah Mitchell Offers Stash Value as Next Man Up in Philly (2026-10-28T21:56:17Z)
   - Source: https://www.rotoballer.com/player-news/elijah-mitchell-offers-stash-value-as-next-man-up-in-philly/1978325
 - **Dalton Kincaid** — Dalton Kincaid - Limited to begin Week 8 (2026-10-28T21:43:44Z)
   - Before the Bills went on bye Week 7, Kincaid briefly exited a 33-30 win over the Raiders on Oct. 18 due to what the team referred to as a rib issue. His listed chest injury is presumably related and resulted in Kincaid donning a no-contact jersey during the open portion of Wednesday's practice, per Matt Parrino of The Syracuse Post-Standard. As long as the tight end is able to practice fully by the end of the week, he should be ready to handle his normal snap share in Sunday's matchup with the Ravens.
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks is Absent from Wednesday's Walkthrough (2026-10-28T21:43:14Z)
+- **Dontayvion Wicks** — Dontayvion Wicks is Absent from Wednesday's Walkthrough (2026-10-28T21:43:14Z)
   - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-is-absent-from-wednesdays-walkthrough/1978308
-- **NEW — Jaylen Waddle** — No Practice for Jaylen Waddle on Wednesday (2026-10-28T21:42:19Z)
+- **Jaylen Waddle** — No Practice for Jaylen Waddle on Wednesday (2026-10-28T21:42:19Z)
   - Source: https://www.rotoballer.com/player-news/no-practice-for-jaylen-waddle-on-wednesday/1978305
 - **Lamar Jackson** — Lamar Jackson - Practices fully Wednesday (2026-10-28T21:40:33Z)
   - Jackson, who hasn't played since Week 4, was able to practice in a limited fashion last week, so his upgrade to full participation Wednesday is a significant development ahead of Sunday's game against the Bills. Assuming he's able to maintain that level activity Thursday and Friday, Jackson has a chance to approach Week 8 action minus an injury designation.
@@ -119,11 +119,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Brock Bowers** — Brock Bowers (calf) limited in practice Wednesday  (2026-10-28T21:35:25.325000Z)
   - Warren notes that Bowers was also limited last Wednesday then was a full participant in practice the next two days.
   - Source: https://www.fantasypros.com/nfl/news/616296/brock-bowers-calf-limited-practice-wednesday.php
-- **NEW — DeVonta Smith** — DeVonta Smith Misses Walkthrough on Wednesday (2026-10-28T21:35:14Z)
+- **DeVonta Smith** — DeVonta Smith Misses Walkthrough on Wednesday (2026-10-28T21:35:14Z)
   - Source: https://www.rotoballer.com/player-news/devonta-smith-misses-walkthrough-on-wednesday/1978291
-- **NEW — Saquon Barkley** — Saquon Barkley is a Non-Participant on Wednesday (2026-10-28T21:32:12Z)
+- **Saquon Barkley** — Saquon Barkley is a Non-Participant on Wednesday (2026-10-28T21:32:12Z)
   - Source: https://www.rotoballer.com/player-news/saquon-barkley-is-a-non-participant-on-wednesday/1978286
-- **NEW — Jalen Nailor** — Jalen Nailor Not Worth Rostering Despite Preseason Hope (2026-10-28T21:29:12Z)
+- **Jalen Nailor** — Jalen Nailor Not Worth Rostering Despite Preseason Hope (2026-10-28T21:29:12Z)
   - Source: https://www.rotoballer.com/player-news/jalen-nailor-is-not-worth-rostering-despite-preseason-hope/1978281
 - **Brock Bowers** — Brock Bowers - Limited by calf issue (2026-10-28T21:28:24Z)
   - Bowers was listed with both hamstring and calf issues on the Raiders' Week 7 injury report, but he appears to have at least put the former injury behind him heading into a Week 8 matchup with the Jets. As long as he's able to make it through the Raiders' next two practices without incident, Bowers will likely head into the weekend without an injury designation.
@@ -142,7 +142,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Wednesday marked Rice's first practice since suffering a hamstring injury in the Week 4 win against the Raiders. He was limited this time, so it's unclear if he'll be able to ramp up to full practices by the end of the week. Rice's progress through the remainder of the week will be an indicator of his status going into Week 8 against the Broncos. Even if he's not quite ready Sunday, a return to action looks to be on the horizon.
 - **Terrance Ferguson** — Terrance Ferguson - Won't return in Week 8 (2026-10-28T21:12:10Z)
   - Coach Sean McVay revealed that Ferguson's practice window to return from injured reserve won't open during Week 8 prep. Ferguson has missed the minimum four games while on IR due to an ankle sprain, and for as long as he's sidelined, the Rams will continue to roll with Tyler Higbee, Colby Parkinson and Davis Allen at tight end.
-- **NEW — Adonai Mitchell** — Adonai Mitchell Tough to Roster After Teammate's Return (2026-10-28T21:07:35Z)
+- **Adonai Mitchell** — Adonai Mitchell Tough to Roster After Teammate's Return (2026-10-28T21:07:35Z)
   - Source: https://www.rotoballer.com/player-news/adonai-mitchell-is-no-longer-worth-rostering-after-teammates-return/1978235
 - **Jeremiyah Love** — Jeremiyah Love - Will be limited Wednesday (2026-10-28T21:06:33Z)
   - This doesn't come as a surprise, as LaFleur told Theo Mackie of The Arizona Republic on Monday that Love was slated to practice Wednesday. Now that Love's activity level is known, he'll have two more chances to get back to full this week before the Cardinals potentially make a ruling on his status ahead of Sunday's game at Dallas. Love has missed the last two games due to a lingering ankle injury, which has allowed Tyler Allgeier and Bam Knight to split the backfield reps during that span.
