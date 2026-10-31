@@ -2,153 +2,213 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6451**
-- Newly captured: **69**
+- Stored stories: **6408**
+- Newly captured: **25**
 
 ## Latest news
 
-- **NEW — Jack Bech** — Jack Bech - Expected to be activated from IR (2026-10-31T17:53:10Z)
+- **NEW — Zach Charbonnet** — Zach Charbonnet (knee) off injury report Monday  (2026-10-31T21:10:26.661000Z)
+  - Charbonnet will be ready to make his season debut. He'll be a touchdown dependent flex play in his first game back for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/616840/zach-charbonnet-knee-off-injury-report-monday.php
+- **NEW — Jadarian Price** — Jadarian Price (chest) off injury report Monday  (2026-10-31T21:10:26.652000Z)
+  - Price will make his return from injured reserve. Zach Charbonnet is also off the injury report, making it the first week all season the Seahawks backfield will be healthy. 
+  - Source: https://www.fantasypros.com/nfl/news/616841/jadarian-price-chest-off-injury-report-monday.php
+- **NEW — Kenny Gainwell** — Kenny Gainwell (hip) expected to play Sunday  (2026-10-31T21:10:26.642000Z)
+  - The Buccaneers did not have any elevations from their practice squad. Gainwell remains listed as questionable, but he will likely be available for Sunday. 
+  - Source: https://www.fantasypros.com/nfl/news/616842/kenny-gainwell-hip-expected-to-play-sunday.php
+- **NEW — Rashid Shaheed** — Rashid Shaheed - Ruled out for MNF (2026-10-31T20:53:14Z)
+  - Shaheed will miss his first game of the 2026 season due to a knee injury that he sustained during the Seahawks' Week 7 win over the Chiefs. Tory Horton and Velus Jones are the top candidates to operate as Seattle's returners on kickoffs and punts, and Horton and Cooper Kupp should see a bump in offensive snaps in Shaheed's absence. Shaheed's next opportunity to play is Week 9 against the Cardinals on Sunday, Nov. 8.
+- **NEW — Jadarian Price** — Jadarian Price - No designation for Week 8 (2026-10-31T20:50:20Z)
+  - The Seahawks designated Price for return from IR on Thursday, and he proceeded to be limited that day and full Friday. Now that he's been given clearance for his first game action since Week 3 due to a chest injury, the team still needs to activate him from IR by Monday afternoon in order for him to be available in Week 8. Fellow RB Zach Charbonnet (knee) also doesn't have a designation this week, so Seattle's backfield suddenly is crowded, with Emanuel Wilson and George Holani also in the mix.
+- **NEW — Zach Charbonnet** — Zach Charbonnet - Will play Monday (2026-10-31T20:49:14Z)
+  - Charbonnet has been officially cleared to make his 2026 regular-season debut, marking the end to his rehab from a torn ACL in his left knee that he sustained in mid-January during the Seahawks' playoff run. The Seahawks' backfield will be whole for the first time this season, seeing as both Charbonnet and Jadarian Price (chest) have been cleared to play Monday, with Emanuel Wilson and George Holani providing depth.
+- **NEW — RJ Harvey** — RJ Harvey (knee) placed on short-term IR (2026-10-31T20:30:26.560000Z)
+  - Harvey sustained a knee injury at practice earlier this week. He will now be forced to miss at least the next four games. JK Dobbins and Jonah Coleman could see more touches as a result. 
+  - Source: https://www.fantasypros.com/nfl/news/616818/rj-harvey-knee-placed-on-short-term-ir.php
+- **NEW — Elijah Mitchell** — Elijah Mitchell elevated from practice squad  (2026-10-31T20:30:26.547000Z)
+  - Mitchell will add depth in the backfield for Philadelphia. He will remain off the fantasy radar. 
+  - Source: https://www.fantasypros.com/nfl/news/616819/elijah-mitchell-elevated-from-practice-squad.php
+- **NEW — RJ Harvey** — RJ Harvey - Lands on injured reserve (2026-10-31T20:18:44Z)
+  - Harvey was already ruled out for Sunday's contest against the Chiefs, but now that he's on IR, the second-year running back will be required to miss at least the next four games. That means the earliest that he is eligible to return is Week 13 against the Dolphins on Sunday, Dec. 6. In Harvey's absence, the Broncos' backfield will be led by J.K. Dobbins and rookie fourth-rounder Jonah Coleman.
+- **NEW — Garrett Wilson** — Garrett Wilson not expected to be traded (2026-10-31T20:00:27.245000Z)
+  - Wilson told reporters this week that he hasn't requested a trade. It appears the Jets will continue to build around him. 
+  - Source: https://www.fantasypros.com/nfl/news/616791/garrett-wilson-not-expected-to-be-traded.php
+- **NEW — Colston Loveland** — Colston Loveland (neck) removed from injury report for Week 8 (2026-10-31T20:00:27.210000Z)
+  - Loveland was added to the injury report on Friday. He will be good to go in a tough matchup against Seattle. 
+  - Source: https://www.fantasypros.com/nfl/news/616793/colston-loveland-neck-removed-from-injury-report-week-8.php
+- **NEW — Jonathan Taylor** — Jonathan Taylor, Colts active in trade talks (2026-10-31T19:55:26.661000Z)
+  - Tom Pelissero reported that the Colts already turned down an offer for Taylor that included a 2027 second-round pick and another pick. This will remain a situation to monitor with the trade deadline around the corner. 
+  - Source: https://www.fantasypros.com/nfl/news/616789/jonathan-taylor-colts-active-trade-talks.php
+- **NEW — Josh Jacobs** — Josh Jacobs: Additional accusers come forward (2026-10-31T19:55:26.641000Z)
+  - Jacobs has played in two games since returning. It is unclear as of now if this will lead to anything for him. This will remain a situation to monitor. 
+  - Source: https://www.fantasypros.com/nfl/news/616790/josh-jacobs-additional-accusers-come-forward.php
+- **NEW — Jack Bech** — Jack Bech - Cleared to return for Week 8 (2026-10-31T19:53:36Z)
+  - Bech has progressed enough in his recovery from a fractured forearm to return Sunday from a four-game absence. Tre Tucker and Brock Bowers will both be the preferred targets for Kirk Cousins, but the addition of Bech gives the veteran QB another set of hands in the passing game. Bech caught five of seven targets for 48 yards and a touchdown across the Raiders' first two games of the regular season.
+- **NEW — Jack Bech** — Jack Bech (forearm) expected to be activated Sunday  (2026-10-31T19:45:25.966000Z)
+  - Bech been recovering from a fractured forearm. He remains listed as questionable. 
+  - Source: https://www.fantasypros.com/nfl/news/616785/jack-bech-forearm-expected-to-be-activated-sunday.php
+- **NEW — Colston Loveland** — Colston Loveland - Cleared for Monday Night Football (2026-10-31T18:57:00Z)
+  - Loveland popped up on Friday's injury report as a limited practice participant due to a neck injury. However, the second-year tight end was able to practice without restriction Saturday and is good to go for Monday's game. His availability for Week 8 and beyond is particularly important given that Cole Kmet (knee, IR) is out for the rest of the 2026 season. Loveland has caught 25 passes (on 37 targets) for 241 yards and two touchdowns over his last five outings.
+- **Jack Bech** — Jack Bech - Expected to be activated from IR (2026-10-31T17:53:10Z)
   - Bech drew the questionable tag for Sunday's game after logging a trio of full practices during Week 8 prep. He's missed the Raiders' last four games while recovering from a fractured forearm, but it appears the second-year pro has progressed enough in his recovery to make his return. Bech will likely work in a rotational role alongside Cody White and Dont'e Thornton and behind Tre Tucker and Jalen Nailor.
-- **NEW — Kyle Monangai** — Kyle Monangai (thumb/toe) ruled out for Week 8 (2026-10-31T17:20:25.456000Z)
+- **Kyle Monangai** — Kyle Monangai (thumb/toe) ruled out for Week 8 (2026-10-31T17:20:25.456000Z)
   - Monangai will miss a fourth consecutive contest while continuing to work towards a return to the Chicago backfield for head coach Ben Johnson, with D'Andre Swift in line for the majority of running back touches against the Seahawks Monday night.
   - Source: https://www.fantasypros.com/nfl/news/616781/kyle-monangai-thumbtoe-ruled-out-week-8.php
-- **NEW — A.J. Brown** — A.J. Brown (knee/ankle) ruled out for Week 8 (2026-10-31T17:10:25.545000Z)
+- **A.J. Brown** — A.J. Brown (knee/ankle) ruled out for Week 8 (2026-10-31T17:10:25.545000Z)
   - Brown will sit out after being unable to practice throughout the week, leaving the New England passing attack without its primary weapon. Demario Douglas should see even more targets for head coach Mike Vrabel against the Dolphins Sunday.
   - Source: https://www.fantasypros.com/nfl/news/616779/aj-brown-kneeankle-ruled-out-week-8.php
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson (illness) ruled out for Week 8 (2026-10-31T17:10:25.530000Z)
+- **TreVeyon Henderson** — TreVeyon Henderson (illness) ruled out for Week 8 (2026-10-31T17:10:25.530000Z)
   - Henderson will sit out while continuing to battle an illness that kept the running back from practicing throughout the week for head coach Mike Vrabel. Rhamondre Stevenson will receive as many touches as he can handle out of the backfield against the Dolphins Sunday.
   - Source: https://www.fantasypros.com/nfl/news/616780/treveyon-henderson-illness-ruled-out-week-8.php
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Not available for Week 8 (2026-10-31T17:10:04Z)
+- **TreVeyon Henderson** — TreVeyon Henderson - Not available for Week 8 (2026-10-31T17:10:04Z)
   - Henderson was given the questionable tag for Week 8 despite missing the last two practices due to an illness. He won't travel with the team to Miami, so the Patriots' backfield will be led by Rhamondre Stevenson while Corey Kiner provides depth. Henderson's next opportunity to suit up is Week 9 against the Packers on Sunday, Nov. 8.
-- **NEW — A.J. Brown** — A.J. Brown - Won't play against Miami (2026-10-31T17:07:17Z)
+- **A.J. Brown** — A.J. Brown - Won't play against Miami (2026-10-31T17:07:17Z)
   - Brown entered the weekend with the questionable tag despite being held out of practice both Thursday and Friday, and the knee injury that flared up during Wednesday's session is severe enough for the veteran wide receiver to miss Sunday's AFC East tilt. With Brown sidelined, the Patriots' pass-catching group will be led by DeMario Douglas, Efton Chism and tight end Hunter Henry. Brown's next opportunity to play is Week 9 against the Packers on Sunday, Nov. 8.
-- **NEW — Kyle Monangai** — Kyle Monangai - Won't play against Seattle (2026-10-31T16:55:20Z)
+- **NEW — Jadarian Price** — Jadarian Price Cleared to Return From Injured Reserve in Week 8 (2026-10-31T17:05:31Z)
+  - Source: https://www.rotoballer.com/player-news/jadarian-price-cleared-to-return-from-injured-reserve-in-week-8/1980776
+- **NEW — Zach Charbonnet** — Zach Charbonnet Removed From Injury Report, Will Play in Week 8 (2026-10-31T17:00:18Z)
+  - Source: https://www.rotoballer.com/player-news/zach-charbonnet-removed-from-injury-report-will-play-in-week-8/1980774
+- **Kyle Monangai** — Kyle Monangai - Won't play against Seattle (2026-10-31T16:55:20Z)
   - It will be the fourth consecutive game that Monangai will miss while nursing thumb and toe injuries. His next opportunity to play is Week 9 against the Buccaneers on Sunday, Nov. 8, but he would need to be cleared to practice before the Bears entertain bringing the second-year pro back into the fold. Roschon Johnson will continue to serve as the Bears' RB2 behind D'Andre Swift in Monangai's absence, while Zavier Scott -- who was signed to the active roster Tuesay -- provides additional backfield depth.
-- **NEW — Carnell Tate** — Carnell Tate - Expected back after bye (2026-10-31T15:10:01Z)
+- **NEW — RJ Harvey** — RJ Harvey Placed on Short-Term IR with Knee Injury (2026-10-31T16:16:40Z)
+  - Source: https://www.rotoballer.com/player-news/r-j-harvey-placed-on-short-term-ir-with-knee-injury/1980739
+- **NEW — Konata Mumpfield** — Konata Mumpfield Set for Increased Involvement Again (2026-10-31T15:51:18Z)
+  - Source: https://www.rotoballer.com/player-news/konata-mumpfield-set-for-increased-involvement-again/1980727
+- **NEW — Efton Chism III** — Efton Chism III Remains an Intriguing Streamer with Teammate Ruled Out (2026-10-31T15:38:12Z)
+  - Source: https://www.rotoballer.com/player-news/efton-chism-iii-remains-an-intriguing-streamer-with-teammate-ruled-out/1980718
+- **NEW — Travis Hunter** — Travis Hunter Back on the Fantasy Radar in Two-Way Role (2026-10-31T15:34:09Z)
+  - Source: https://www.rotoballer.com/player-news/travis-hunter-back-on-the-fantasy-radar-in-two-way-role/1980716
+- **NEW — Cam Little** — Cam Little Remains a Top-Tier Kicker Against Colts (2026-10-31T15:22:12Z)
+  - Source: https://www.rotoballer.com/player-news/cam-little-remains-a-top-tier-kicker-against-colts/1980709
+- **Carnell Tate** — Carnell Tate - Expected back after bye (2026-10-31T15:10:01Z)
   - Tate was held out of practice all week while nursing a shoulder injury, but the rookie fourth-overall pick will have the benefit of extra rest courtesy of the Titans' Week 9 bye. Tate leads the Titans pass catchers with 34 catches (on 51 targets) for 413 yards and a touchdown through seven regular-season games, and in his absence, quarterback Cam Ward will have to rely more heavily on the likes of Wan'Dale Robinson, Calvin Ridley (shoulder), Elic Ayomanor and Chimere Dike, with tight end Gunnar Helm also in the mix for a bump in targets.
-- **NEW — Blake Corum** — Blake Corum Maintains Standalone Value in Week 8 Against Chargers (2026-10-31T14:12:12Z)
+- **NEW — Colston Loveland** — Colston Loveland Cleared to Play in Week 8 Against Seahawks (2026-10-31T15:00:20Z)
+  - Source: https://www.rotoballer.com/player-news/colston-loveland-neck-good-to-go-for-monday-night-football/1980679
+- **NEW — Brenton Strange** — Brenton Strange a Borderline TE1 in Potentially Larger Role Against Colts (2026-10-31T14:58:14Z)
+  - Source: https://www.rotoballer.com/player-news/brenton-strange-a-borderline-te1-in-potentially-larger-role-against-colts/1980683
+- **Blake Corum** — Blake Corum Maintains Standalone Value in Week 8 Against Chargers (2026-10-31T14:12:12Z)
   - Source: https://www.rotoballer.com/player-news/blake-corum-maintains-standalone-value-in-week-8-against-chargers/1980645
-- **NEW — Kyren Williams** — Kyren Williams Projects as a Top Fantasy Option Against Chargers (2026-10-31T13:40:14Z)
+- **Kyren Williams** — Kyren Williams Projects as a Top Fantasy Option Against Chargers (2026-10-31T13:40:14Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-projects-as-a-top-fantasy-option-against-chargers/1980627
-- **NEW — Colby Parkinson** — Colby Parkinson a Central Part of Passing Game if Active (2026-10-31T13:28:14Z)
+- **Colby Parkinson** — Colby Parkinson a Central Part of Passing Game if Active (2026-10-31T13:28:14Z)
   - Source: https://www.rotoballer.com/player-news/colby-parkinson-a-central-part-of-passing-game-if-active/1980621
-- **NEW — Josh Jacobs** — NFL to Review New Physical-Abuse Allegations Against Josh Jacobs (2026-10-31T13:26:21Z)
+- **Josh Jacobs** — NFL to Review New Physical-Abuse Allegations Against Josh Jacobs (2026-10-31T13:26:21Z)
   - Source: https://www.rotoballer.com/player-news/nfl-to-review-new-physical-abuse-allegations-against-josh-jacobs/1980618
-- **NEW — Oronde Gadsden** — Oronde Gadsden Not a TE Streaming Option in Week 8 vs. Rams (2026-10-31T13:24:09Z)
+- **Oronde Gadsden** — Oronde Gadsden Not a TE Streaming Option in Week 8 vs. Rams (2026-10-31T13:24:09Z)
   - Source: https://www.rotoballer.com/player-news/oronde-gadsden-ii-not-a-te-streaming-option-in-week-8-vs-rams/1980610
-- **NEW — Tyler Higbee** — Tyler Higbee a Potential Streamer Depending on Teammate's Status (2026-10-31T13:22:12Z)
+- **Tyler Higbee** — Tyler Higbee a Potential Streamer Depending on Teammate's Status (2026-10-31T13:22:12Z)
   - Source: https://www.rotoballer.com/player-news/tyler-higbee-a-potential-streamer-depending-on-teammates-status/1980608
-- **NEW — Tre' Harris** — Tre' Harris Hard to Trust as Deep-League Flex Versus Rams (2026-10-31T13:21:13Z)
+- **Tre' Harris** — Tre' Harris Hard to Trust as Deep-League Flex Versus Rams (2026-10-31T13:21:13Z)
   - Source: https://www.rotoballer.com/player-news/tre-harris-off-injury-report-ahead-of-week-8-matchup-vs-rams/1980605
-- **NEW — Quentin Johnston** — Quentin Johnston Out of Flex Consideration in Week 8 vs. Rams (2026-10-31T13:21:09Z)
+- **Quentin Johnston** — Quentin Johnston Out of Flex Consideration in Week 8 vs. Rams (2026-10-31T13:21:09Z)
   - Source: https://www.rotoballer.com/player-news/quentin-johnston-out-of-flex-consideration-in-week-8-vs-rams/1980603
-- **NEW — Ladd McConkey** — A Healthy Ladd McConkey Looking to Get Going Coming Off Bye Week (2026-10-31T13:19:13Z)
+- **Ladd McConkey** — A Healthy Ladd McConkey Looking to Get Going Coming Off Bye Week (2026-10-31T13:19:13Z)
   - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-carries-no-injury-designation-into-week-8-matchup-vs-rams/1980600
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson Downgraded to Out in Week 8 (2026-10-31T13:18:15Z)
+- **TreVeyon Henderson** — TreVeyon Henderson Downgraded to Out in Week 8 (2026-10-31T13:18:15Z)
   - Source: https://www.rotoballer.com/player-news/treveyon-henderson-downgraded-to-out-in-week-8/1980598
-- **NEW — Keaton Mitchell** — Keaton Mitchell a High-Risk Flex option in Deeper Leagues in Week 8 (2026-10-31T13:14:14Z)
+- **Keaton Mitchell** — Keaton Mitchell a High-Risk Flex option in Deeper Leagues in Week 8 (2026-10-31T13:14:14Z)
   - Source: https://www.rotoballer.com/player-news/keaton-mitchell-a-high-risk-flex-option-in-deeper-leagues-in-week-8-vs-rams/1980591
-- **NEW — A.J. Brown** — A.J. Brown Ruled Out for Week 8 (2026-10-31T13:14:10Z)
+- **A.J. Brown** — A.J. Brown Ruled Out for Week 8 (2026-10-31T13:14:10Z)
   - Source: https://www.rotoballer.com/player-news/a-j-brown-treveyon-henderson-ruled-out-vs-dolphins/1980581
-- **NEW — Omarion Hampton** — Omarion Hampton a Flimsy Flex Option in Week 8 vs. Rams (2026-10-31T13:08:26Z)
+- **Omarion Hampton** — Omarion Hampton a Flimsy Flex Option in Week 8 vs. Rams (2026-10-31T13:08:26Z)
   - Source: https://www.rotoballer.com/player-news/omarion-hampton-a-flimsy-flex-option-in-week-8-vs-rams/1980586
-- **NEW — Justin Herbert** — Justin Herbert Will Attempt to Turn Season Around in Week 8 vs. Rams (2026-10-31T13:06:21Z)
+- **Justin Herbert** — Justin Herbert Will Attempt to Turn Season Around in Week 8 vs. Rams (2026-10-31T13:06:21Z)
   - Source: https://www.rotoballer.com/player-news/justin-herbert-will-attempt-to-turn-season-around-in-week-8-vs-rams/1980584
-- **NEW — Kyle Monangai** — Kyle Monangai out vs. Seattle (2026-10-31T13:04:10Z)
+- **Kyle Monangai** — Kyle Monangai out vs. Seattle (2026-10-31T13:04:10Z)
   - Source: https://www.rotoballer.com/player-news/kyle-monangai-toe-out-vs-seattle/1980565
-- **NEW — Puka Nacua** — Puka Nacua Remains a High-End WR1 While Playing Through Calf Issue (2026-10-31T12:58:17Z)
+- **Puka Nacua** — Puka Nacua Remains a High-End WR1 While Playing Through Calf Issue (2026-10-31T12:58:17Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacua-remains-a-high-end-wr1-while-playing-through-calf-issue/1980572
-- **NEW — Dylan Sampson** — Dylan Sampson Merely a RB Handcuff as Browns Face Steelers (2026-10-31T12:56:19Z)
+- **Dylan Sampson** — Dylan Sampson Merely a RB Handcuff as Browns Face Steelers (2026-10-31T12:56:19Z)
   - Source: https://www.rotoballer.com/player-news/dylan-sampson-merely-a-rb-handcuff-as-browns-face-steelers/1980570
-- **NEW — Matthew Stafford** — Matthew Stafford Surges Into Week 8 as a Top-12 Fantasy Option (2026-10-31T12:53:35Z)
+- **Matthew Stafford** — Matthew Stafford Surges Into Week 8 as a Top-12 Fantasy Option (2026-10-31T12:53:35Z)
   - Source: https://www.rotoballer.com/player-news/matthew-stafford-surges-into-week-8-as-a-top-12-fantasy-option/1980568
-- **NEW — Seth McGowan** — Seth McGowan Still Firmly the Colts' RB2 For Now (2026-10-31T12:45:09Z)
+- **Seth McGowan** — Seth McGowan Still Firmly the Colts' RB2 For Now (2026-10-31T12:45:09Z)
   - Source: https://www.rotoballer.com/player-news/seth-mcgowan-still-firmly-colts-rb2-with-taylor-remaining-on-team-for-now/1980559
-- **NEW — Rashod Bateman** — Rashod Bateman Gets a Boost as Deep-League Flex With QB Returning (2026-10-31T12:42:09Z)
+- **Rashod Bateman** — Rashod Bateman Gets a Boost as Deep-League Flex With QB Returning (2026-10-31T12:42:09Z)
   - Source: https://www.rotoballer.com/player-news/rashod-bateman-gets-a-boost-as-deep-league-flex-with-qb-returning/1980555
-- **NEW — Spencer Shrader** — Spencer Shrader Still A Worthwhile Fantasy Starter For Week 8 (2026-10-31T12:41:16Z)
+- **Spencer Shrader** — Spencer Shrader Still A Worthwhile Fantasy Starter For Week 8 (2026-10-31T12:41:16Z)
   - Source: https://www.rotoballer.com/player-news/despite-recent-misses-spencer-shrader-still-a-worthwhile-fantasy-starter-for-week-8/1980553
-- **NEW — DeMario Douglas** — DeMario Douglas Headed for a Significant Uptick in Volume (2026-10-31T12:35:32Z)
+- **DeMario Douglas** — DeMario Douglas Headed for a Significant Uptick in Volume (2026-10-31T12:35:32Z)
   - Source: https://www.rotoballer.com/player-news/demario-douglas-headed-for-a-significant-uptick-in-volume/1980551
-- **NEW — Zonovan Knight** — Bam Knight a Hard-to-Trust Flex With Rookie RB Returning (2026-10-31T12:32:13Z)
+- **Zonovan Knight** — Bam Knight a Hard-to-Trust Flex With Rookie RB Returning (2026-10-31T12:32:13Z)
   - Source: https://www.rotoballer.com/player-news/bam-knight-a-hard-to-trust-flex-with-rookie-rb-returning/1980549
-- **NEW — Tyler Bass** — Tyler Bass a Top-10 Play Against Ravens (2026-10-31T12:27:13Z)
+- **Tyler Bass** — Tyler Bass a Top-10 Play Against Ravens (2026-10-31T12:27:13Z)
   - Source: https://www.rotoballer.com/player-news/tyler-bass-a-top-10-play-against-ravens/1980545
-- **NEW — Dalton Kincaid** — Banged-Up Dalton Kincaid Hoping to Break Out (2026-10-31T12:13:21Z)
+- **Dalton Kincaid** — Banged-Up Dalton Kincaid Hoping to Break Out (2026-10-31T12:13:21Z)
   - Source: https://www.rotoballer.com/player-news/banged-up-dalton-kincaid-hoping-to-break-out/1980535
-- **NEW — Eli Raridon** — Eli Raridon Has Deep-League Streaming Appeal with WRs Sidelined (2026-10-31T12:10:14Z)
+- **Eli Raridon** — Eli Raridon Has Deep-League Streaming Appeal with WRs Sidelined (2026-10-31T12:10:14Z)
   - Source: https://www.rotoballer.com/player-news/eli-raridon-has-deep-league-streaming-appeal-with-wrs-sidelined/1980531
-- **NEW — Hunter Henry** — Hunter Henry in a Perfect Spot to Feast Against Miami (2026-10-31T12:07:13Z)
+- **Hunter Henry** — Hunter Henry in a Perfect Spot to Feast Against Miami (2026-10-31T12:07:13Z)
   - Source: https://www.rotoballer.com/player-news/hunter-henry-in-a-perfect-spot-to-feast-against-miami/1980527
-- **NEW — Keon Coleman** — Keon Coleman Hopes to Stay Hot (2026-10-31T12:05:09Z)
+- **Keon Coleman** — Keon Coleman Hopes to Stay Hot (2026-10-31T12:05:09Z)
   - Source: https://www.rotoballer.com/player-news/keon-coleman-hopes-to-stay-hot/1980523
 - **Jonathan Taylor** — Jonathan Taylor - Trade talks heating up (2026-10-31T12:03:45Z)
   - Taylor himself was not requesting a trade earlier in the week, but Indianapolis' recent flurry of moves opened the possibility that the star running back would also be moved in the team's teardown before a rebuild. The Colts moved on from Quenton Nelson and DeForest Buckner and got significant draft capital from the Seahawks and 49ers in return. Now a market is forming for Taylor, 27, who could help put a contender over the top. Per Schefter, the Colts are seeking a deal similar to what the Panthers got in 2022 when they traded Christian McCaffrey.
-- **NEW — Keenan Allen** — Keenan Allen a Steady Contributor to Trust in Week 8 (2026-10-31T12:00:18Z)
+- **Keenan Allen** — Keenan Allen a Steady Contributor to Trust in Week 8 (2026-10-31T12:00:18Z)
   - Source: https://www.rotoballer.com/player-news/keenan-allen-a-steady-contributor-to-trust-in-week-8/1980521
-- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson Likely Headed for Immense Volume in Week 8 (2026-10-31T11:57:14Z)
+- **Rhamondre Stevenson** — Rhamondre Stevenson Likely Headed for Immense Volume in Week 8 (2026-10-31T11:57:14Z)
   - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-likely-headed-for-immense-volume-in-week-8/1980515
-- **NEW — Jakobi Meyers** — Jakobi Meyers a Reasonable Flex Despite Injury Concerns (2026-10-31T11:56:19Z)
+- **Jakobi Meyers** — Jakobi Meyers a Reasonable Flex Despite Injury Concerns (2026-10-31T11:56:19Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-meyers-a-reasonable-flex-despite-injury-concerns/1980512
-- **NEW — Mark Andrews** — Mark Andrews No Longer a Reliable Fantasy Starter (2026-10-31T11:55:09Z)
+- **Mark Andrews** — Mark Andrews No Longer a Reliable Fantasy Starter (2026-10-31T11:55:09Z)
   - Source: https://www.rotoballer.com/player-news/mark-andrews-no-longer-a-reliable-fantasy-starter/1980509
-- **NEW — Drake Maye** — Drake Maye Still a Premium Fantasy QB Despite WR Injuries (2026-10-31T11:53:32Z)
+- **Drake Maye** — Drake Maye Still a Premium Fantasy QB Despite WR Injuries (2026-10-31T11:53:32Z)
   - Source: https://www.rotoballer.com/player-news/drake-maye-still-a-premium-fantasy-qb-despite-short-staffed-supporting-cast/1980507
-- **NEW — Nick Folk** — Nick Folk Kicks His Way into Streaming Pool in Week 8 (2026-10-31T11:52:11Z)
+- **Nick Folk** — Nick Folk Kicks His Way into Streaming Pool in Week 8 (2026-10-31T11:52:11Z)
   - Source: https://www.rotoballer.com/player-news/nick-folk-kicks-his-way-into-streaming-pool-in-week-8/1980504
-- **NEW — Parker Washington** — Parker Washington Looking to Regain Momentum Against Struggling Colts (2026-10-31T11:48:51Z)
+- **Parker Washington** — Parker Washington Looking to Regain Momentum Against Struggling Colts (2026-10-31T11:48:51Z)
   - Source: https://www.rotoballer.com/player-news/parker-washington-looking-to-regain-momentum-against-struggling-colts/1980502
-- **NEW — Jahan Dotson** — Jahan Dotson a Touchdown-Dependent Flex Play in Week 8 (2026-10-31T11:47:12Z)
+- **Jahan Dotson** — Jahan Dotson a Touchdown-Dependent Flex Play in Week 8 (2026-10-31T11:47:12Z)
   - Source: https://www.rotoballer.com/player-news/jahan-dotson-a-touchdown-dependent-flex-play-in-week-8/1980500
-- **NEW — DJ Moore** — DJ Moore Could Enjoy Big Day if He Returns vs. Ravens (2026-10-31T11:46:17Z)
+- **DJ Moore** — DJ Moore Could Enjoy Big Day if He Returns vs. Ravens (2026-10-31T11:46:17Z)
   - Source: https://www.rotoballer.com/player-news/dj-moore-could-enjoy-big-day-if-he-returns-vs-ravens/1980498
-- **NEW — Sam LaPorta** — Sam LaPorta Coming Off a Disappointing Performance (2026-10-31T11:45:09Z)
+- **Sam LaPorta** — Sam LaPorta Coming Off a Disappointing Performance (2026-10-31T11:45:09Z)
   - Source: https://www.rotoballer.com/player-news/sam-laporta-coming-off-a-disappointing-performance/1980496
-- **NEW — Bhayshul Tuten** — Bhayshul Tuten in Line for Second Straight Big Performance in Week 8 (2026-10-31T11:43:17Z)
+- **Bhayshul Tuten** — Bhayshul Tuten in Line for Second Straight Big Performance in Week 8 (2026-10-31T11:43:17Z)
   - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-in-line-for-second-straight-big-performance-in-week-8/1980493
-- **NEW — Josh Jacobs** — Three More Women Accuse Josh Jacobs of Physical Abuse (2026-10-31T11:42:05Z)
+- **Josh Jacobs** — Three More Women Accuse Josh Jacobs of Physical Abuse (2026-10-31T11:42:05Z)
   - Source: https://www.rotoballer.com/player-news/three-more-women-accuse-josh-jacobs-of-physical-abuse/1980491
-- **NEW — James Cook III** — James Cook III Faces Tall Task in Week 8 (2026-10-31T11:38:09Z)
+- **James Cook III** — James Cook III Faces Tall Task in Week 8 (2026-10-31T11:38:09Z)
   - Source: https://www.rotoballer.com/player-news/james-cook-faces-tall-task-in-week-8/1980488
-- **NEW — Trevor Lawrence** — Trevor Lawrence Among Top QB Options Against Skidding Colts (2026-10-31T11:34:41Z)
+- **Trevor Lawrence** — Trevor Lawrence Among Top QB Options Against Skidding Colts (2026-10-31T11:34:41Z)
   - Source: https://www.rotoballer.com/player-news/trevor-lawrence-among-top-qb-options-against-skidding-colts/1980485
-- **NEW — Kyle Pitts Sr.** — Kyle Pitts Sr. Carries Momentum into Favorable Week 8 Matchup (2026-10-31T11:30:09Z)
+- **Kyle Pitts Sr.** — Kyle Pitts Sr. Carries Momentum into Favorable Week 8 Matchup (2026-10-31T11:30:09Z)
   - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-carries-momentum-into-favorable-week-8-matchup/1980480
-- **NEW — Drake London** — Drake London a Reliable Target-Heavy WR1 Against Bucs (2026-10-31T11:26:09Z)
+- **Drake London** — Drake London a Reliable Target-Heavy WR1 Against Bucs (2026-10-31T11:26:09Z)
   - Source: https://www.rotoballer.com/player-news/drake-london-a-reliable-target-heavy-wr1-against-bucs/1980477
-- **NEW — Michael Wilson** — Michael Wilson's Volume Has Been Slipping Lately (2026-10-31T11:23:46Z)
+- **Michael Wilson** — Michael Wilson's Volume Has Been Slipping Lately (2026-10-31T11:23:46Z)
   - Source: https://www.rotoballer.com/player-news/michael-wilsons-volume-has-been-slipping-lately/1980475
-- **NEW — Josh Allen** — Josh Allen Faces Vulnerable Ravens Pass Defense (2026-10-31T11:22:12Z)
+- **Josh Allen** — Josh Allen Faces Vulnerable Ravens Pass Defense (2026-10-31T11:22:12Z)
   - Source: https://www.rotoballer.com/player-news/josh-allen-faces-vulnerable-ravens-pass-defense/1980472
-- **NEW — Carnell Tate** — Carnell Tate Expected to Return After Bye Week (2026-10-31T11:21:10Z)
+- **Carnell Tate** — Carnell Tate Expected to Return After Bye Week (2026-10-31T11:21:10Z)
   - Source: https://www.rotoballer.com/player-news/carnell-tate-shoulder-out-sunday-expected-back-after-bye-week/1980437
-- **NEW — Javonte Williams** — Javonte Williams Looks to Continue Momentum in Matchup vs. Cardinals (2026-10-31T11:19:09Z)
+- **Javonte Williams** — Javonte Williams Looks to Continue Momentum in Matchup vs. Cardinals (2026-10-31T11:19:09Z)
   - Source: https://www.rotoballer.com/player-news/javonte-williams-looks-to-continue-momentum-in-matchup-vs-cardinals/1980466
-- **NEW — Bijan Robinson** — Bijan Robinson an Elite Workhorse RB1 Despite Tough Matchup (2026-10-31T11:12:13Z)
+- **Bijan Robinson** — Bijan Robinson an Elite Workhorse RB1 Despite Tough Matchup (2026-10-31T11:12:13Z)
   - Source: https://www.rotoballer.com/player-news/bijan-robinson-an-elite-workhorse-rb1-despite-tough-matchup/1980450
-- **NEW — Ja'Kobi Lane** — Ja'Kobi Lane Continues to See Targets in Rookie Campaign (2026-10-31T11:10:09Z)
+- **Ja'Kobi Lane** — Ja'Kobi Lane Continues to See Targets in Rookie Campaign (2026-10-31T11:10:09Z)
   - Source: https://www.rotoballer.com/player-news/jakobi-lane-continues-to-see-targets-in-rookie-campaign/1980444
-- **NEW — Omar Cooper Jr.** — Omar Cooper Jr. has Expanding Role Heading into Week 8 (2026-10-31T11:04:37Z)
+- **Omar Cooper Jr.** — Omar Cooper Jr. has Expanding Role Heading into Week 8 (2026-10-31T11:04:37Z)
   - Source: https://www.rotoballer.com/player-news/omar-cooper-jr-s-expanding-role-supports-wr3-start/1980435
-- **NEW — Garrett Wilson** — Garrett Wilson's Recent Target Share Adds Risk to WR2 Outlook (2026-10-31T11:04:33Z)
+- **Garrett Wilson** — Garrett Wilson's Recent Target Share Adds Risk to WR2 Outlook (2026-10-31T11:04:33Z)
   - Source: https://www.rotoballer.com/player-news/garrett-wilsons-recent-target-share-adds-risk-to-wr2-outlook/1980433
-- **NEW — Braelon Allen** — Braelon Allen Has RB2 Upside If he Makes Another Start (2026-10-31T11:01:14Z)
+- **Braelon Allen** — Braelon Allen Has RB2 Upside If he Makes Another Start (2026-10-31T11:01:14Z)
   - Source: https://www.rotoballer.com/player-news/braelon-allen-has-rb2-upside-with-another-start/1980430
-- **NEW — Breece Hall** — Breece Hall Carries Conditional RB2 Value Into Favorable Matchup (2026-10-31T10:58:16Z)
+- **Breece Hall** — Breece Hall Carries Conditional RB2 Value Into Favorable Matchup (2026-10-31T10:58:16Z)
   - Source: https://www.rotoballer.com/player-news/breece-hall-carries-conditional-rb2-value-into-favorable-matchup/1980422
-- **NEW — Geno Smith** — Geno Smith Offers QB2 Value Against Struggling Raiders Defense (2026-10-31T10:57:13Z)
+- **Geno Smith** — Geno Smith Offers QB2 Value Against Struggling Raiders Defense (2026-10-31T10:57:13Z)
   - Source: https://www.rotoballer.com/player-news/geno-smith-offers-qb2-value-against-struggling-raiders-defense/1980420
-- **NEW — Courtland Sutton** — Limited Targets Keep Courtland Sutton in WR4 Range (2026-10-31T10:51:18Z)
+- **Courtland Sutton** — Limited Targets Keep Courtland Sutton in WR4 Range (2026-10-31T10:51:18Z)
   - Source: https://www.rotoballer.com/player-news/limited-targets-keep-courtland-sutton-in-wr4-range/1980408
-- **NEW — Zay Flowers** — Zay Flowers Flourishing in Baltimore's Offense (2026-10-31T10:49:12Z)
+- **Zay Flowers** — Zay Flowers Flourishing in Baltimore's Offense (2026-10-31T10:49:12Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-flourishing-in-baltimores-offense/1980403
-- **NEW — Jaylen Waddle** — Jaylen Waddle Is a Risky Flex After Limited Practice Week (2026-10-31T10:48:12Z)
+- **Jaylen Waddle** — Jaylen Waddle Is a Risky Flex After Limited Practice Week (2026-10-31T10:48:12Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-waddle-is-a-risky-flex-after-limited-practice-week/1980400
-- **NEW — J.K. Dobbins** — J.K. Dobbins Has Touchdown-Dependent Flex Value (2026-10-31T10:43:12Z)
+- **J.K. Dobbins** — J.K. Dobbins Has Touchdown-Dependent Flex Value (2026-10-31T10:43:12Z)
   - Source: https://www.rotoballer.com/player-news/j-k-dobbins-has-touchdown-dependent-flex-value/1980389
-- **NEW — Jonah Coleman** — Jonah Coleman Is Denver's Preferred Week 8 Flex (2026-10-31T10:42:22Z)
+- **Jonah Coleman** — Jonah Coleman Is Denver's Preferred Week 8 Flex (2026-10-31T10:42:22Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-is-denvers-preferred-week-8-flex/1980387
-- **NEW — Bo Nix** — Bo Nix Remains a QB2 With Receiving Options Banged Up (2026-10-31T10:41:28Z)
+- **Bo Nix** — Bo Nix Remains a QB2 With Receiving Options Banged Up (2026-10-31T10:41:28Z)
   - Source: https://www.rotoballer.com/player-news/bo-nix-remains-a-qb2-with-receiving-options-banged-up/1980385
 - **Derrick Henry** — Derrick Henry Looks to Get Back on Track in Matchup Vs. Bills (2026-10-31T10:33:13Z)
   - Source: https://www.rotoballer.com/player-news/derrick-henry-looks-to-get-back-on-track-in-matchup-vs-bills/1980374
@@ -160,53 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/sam-laporta-a-bounce-back-candidate-in-week-8-despite-tough-matchup/1980360
 - **Isaac TeSlaa** — Isaac TeSlaa is Tough to Trust in Difficult Week 8 Matchup (2026-10-31T10:16:09Z)
   - Source: https://www.rotoballer.com/player-news/isaac-teslaa-is-tough-to-trust-in-difficult-week-8-matchup/1980358
-- **Jameson Williams** — Jameson Williams a High-Risk, High-Reward Wide Receiver Option in Week 8 (2026-10-31T10:10:13Z)
-  - Source: https://www.rotoballer.com/player-news/jameson-williams-a-high-risk-high-reward-wide-receiver-option-in-week-8/1980353
-- **Amon-Ra St. Brown** — Amon-Ra St. Brown Remains a High-End Wide Receiver Option in Week 8 (2026-10-31T10:09:12Z)
-  - Source: https://www.rotoballer.com/player-news/amon-ra-st-brown-remains-a-high-end-wide-receiver-option-in-week-8/1980351
-- **Garrett Wilson** — "No Way" the Jets Trade Garrett Wilson at Deadline (2026-10-31T10:08:09Z)
-  - Source: https://www.rotoballer.com/player-news/no-way-the-jets-trade-garrett-wilson-at-deadline/1980349
-- **Michael Penix Jr.** — Michael Penix Jr. a Volatile QB2 with QB1 Upside in Week 8 (2026-10-31T09:57:12Z)
-  - Source: https://www.rotoballer.com/player-news/michael-penix-jr-a-volatile-qb2-with-qb1-upside-in-week-8/1980340
-- **Jahmyr Gibbs** — Jahmyr Gibbs a Must-Start Running Back in Week 8 (2026-10-31T09:56:18Z)
-  - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-a-must-start-running-back-in-week-8/1980338
-- **Brian Thomas Jr.** — Growing Belief that Jaguars Could Trade Brian Thomas Jr. (2026-10-31T09:55:31Z)
-  - Source: https://www.rotoballer.com/player-news/growing-belief-that-jaguars-could-trade-brian-thomas-jr/1980336
-- **Jared Goff** — Jared Goff Remains a Low-End Starter in Tough Week 8 Matchup (2026-10-31T09:53:39Z)
-  - Source: https://www.rotoballer.com/player-news/jared-goff-remains-a-low-end-starter-in-tough-week-8-matchup/1980333
-- **Daniel Jones** — Colts Have Not Discussed Benching Daniel Jones (2026-10-31T09:37:13Z)
-  - Source: https://www.rotoballer.com/player-news/colts-have-not-discussed-benching-daniel-jones/1980309
-- **Jonathan Taylor** — Colts Now Open to Trading Jonathan Taylor (2026-10-31T09:21:18Z)
-  - Source: https://www.rotoballer.com/player-news/colts-now-open-to-trading-jonathan-taylor/1980290
-- **Josh Jacobs** — Police Department Releases Hundreds of Unredacted Files in Josh Jacobs Case (2026-10-31T09:08:09Z)
-  - Source: https://www.rotoballer.com/player-news/police-department-releases-hundreds-of-unredacted-files-in-josh-jacobs-case/1980271
-- **Chris Bell** — Chris Bell A High-Risk Start in Week 8 (2026-10-31T07:31:23Z)
-  - Source: https://www.rotoballer.com/player-news/chris-bell-a-high-risk-start-in-week-8/1980221
-- **Caleb Douglas** — Caleb Douglas A High-Risk FLEX Play Vs. New England (2026-10-31T07:26:09Z)
-  - Source: https://www.rotoballer.com/player-news/caleb-douglas-a-high-risk-flex-play-vs-new-england/1980216
-- **Malik Washington** — Malik Washington Only A Deep-League Starter (2026-10-31T06:52:12Z)
-  - Source: https://www.rotoballer.com/player-news/malik-washington-only-a-deep-league-starter/1980198
-- **Jaylen Wright** — Jaylen Wright Ready for Backup Role (2026-10-31T06:44:09Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-wright-ready-for-backup-role/1980190
-- **Ollie Gordon II** — Ollie Gordon II A High-End FLEX Play (2026-10-31T06:33:49Z)
-  - Source: https://www.rotoballer.com/player-news/ollie-gordon-ii-a-high-end-flex-play/1980187
-- **Malik Willis** — Malik Willis Emerging as QB2 Option for Week 8 (2026-10-31T06:16:39Z)
-  - Source: https://www.rotoballer.com/player-news/malik-willis-emerging-as-qb2-option-for-week-8/1980175
-- **Jonathan Taylor** — Jonathan Taylor An RB1 Lineup Lock Despite Trade Rumors (2026-10-31T05:38:16Z)
-  - Source: https://www.rotoballer.com/player-news/jonathan-taylor-an-rb1-lineup-lock-despite-trade-rumors/1980151
-- **Josh Downs** — Josh Downs A Low-Floor, Low-Ceiling Fantasy Option In Week 8 (2026-10-31T04:11:09Z)
-  - Source: https://www.rotoballer.com/player-news/josh-downs-a-low-floor-low-ceiling-fantasy-option-in-week-8/1980140
-- **Tyler Warren** — Tyler Warren Good to Go, A Must-Start TE In Return From Injury For Week 8 (2026-10-31T03:26:22Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-warren-a-must-start-te-in-return-from-injury-for-week-8/1980136
-- **Daniel Jones** — Daniel Jones A Bench Candidate For Week 8 (2026-10-31T03:23:09Z)
-  - Source: https://www.rotoballer.com/player-news/daniel-jones-a-bench-candidate-for-week-8/1980134
-- **Ryan Flournoy** — Ryan Flournoy Has Sleeper Potential Vs Weak Defense In Week 8 (2026-10-31T03:14:09Z)
-  - Source: https://www.rotoballer.com/player-news/ryan-flournoy-has-sleeper-potential-vs-weak-defense-in-week-8/1980132
-- **Brandon Aubrey** — Brandon Aubrey A Solid Starting Kicker Option vs Cardinals In Week 8 (2026-10-31T03:11:09Z)
-  - Source: https://www.rotoballer.com/player-news/brandon-aubrey-a-solid-starting-kicker-option-vs-cardinals-in-week-8/1980130
-- **Jake Ferguson** — Jake Ferguson A Risky Start In Deeper Leagues For Week 8 (2026-10-31T03:02:12Z)
-  - Source: https://www.rotoballer.com/player-news/jake-ferguson-a-risky-start-in-deeper-leagues-for-week-8/1980128
-- **Dak Prescott** — Dak Prescott A Must-Start QB1 Vs Cardinals In Week 8 (2026-10-31T02:57:10Z)
-  - Source: https://www.rotoballer.com/player-news/dak-prescott-a-must-start-qb1-vs-cardinals-in-week-8/1980126
-- **Chad Ryland** — Chad Ryland A Solid Streaming Pick For Week 8 (2026-10-31T02:45:27Z)
-  - Source: https://www.rotoballer.com/player-news/chad-ryland-a-solid-streaming-pick-for-week-8/1980123

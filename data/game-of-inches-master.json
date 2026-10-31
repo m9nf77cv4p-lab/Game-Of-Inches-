@@ -20885,12 +20885,12 @@
       ],
       "first_name": "Jack",
       "full_name": "Jack Bech",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Bech",
       "nfl_team": "LV",
       "player_id": "12483",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "years_exp": 1
     },
     "12484": {
@@ -20930,12 +20930,12 @@
       ],
       "first_name": "RJ",
       "full_name": "RJ Harvey",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Harvey",
       "nfl_team": "DEN",
       "player_id": "12489",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 1
     },
     "12490": {
@@ -21185,7 +21185,7 @@
       ],
       "first_name": "Colston",
       "full_name": "Colston Loveland",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Loveland",
       "nfl_team": "CHI",
       "player_id": "12517",
@@ -23901,7 +23901,7 @@
       ],
       "first_name": "Rashid",
       "full_name": "Rashid Shaheed",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Shaheed",
       "nfl_team": "SEA",
       "player_id": "8676",
@@ -24261,7 +24261,7 @@
       ],
       "first_name": "Zach",
       "full_name": "Zach Charbonnet",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Charbonnet",
       "nfl_team": "SEA",
       "player_id": "9753",
@@ -24592,8 +24592,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-31T18:52:14Z",
-    "source_fingerprint": "b3f5c85ad90481dbae4e71583f3d05ce25b2c2965d7130eed0993325f3ea89b4"
+    "last_changed_at": "2026-10-31T22:03:31Z",
+    "source_fingerprint": "aa38420ed982e48908640ec0d2d04f288a082b4444db310faf53db5c5672e181"
   },
   "teams": [
     {
