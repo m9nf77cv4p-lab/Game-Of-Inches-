@@ -1,22 +1,34 @@
 {
-  "last_checked_at": "2026-10-31T02:29:26Z",
+  "last_checked_at": "2026-10-31T08:46:11Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 298,
   "new_story_ids": [
-    "nfl|12499|rotoballer|225972|1793387415000",
-    "nfl|12499|rotowire|645144|1793402457000",
-    "nfl|12527|rotoballer|225980|1793398595000",
-    "nfl|13286|rotoballer|225974|1793396224000",
-    "nfl|13286|rotowire|645145|1793402697000",
-    "nfl|7021|rotoballer|225981|1793398449000",
-    "nfl|8126|rotoballer|225973|1793387130000",
-    "nfl|8228|rotoballer|225978|1793397368000",
-    "nfl|8676|rotowire|645147|1793402951000",
-    "nfl|9500|rotowire|645166|1793405797000",
-    "nfl|96|rotoballer|225975|1793396349000",
-    "nfl|9753|rotoballer|225976|1793396779000",
-    "nfl|9753|rotowire|645143|1793402297000",
-    "nfl|9756|rotoballer|225979|1793397981000"
+    "nfl|10232|rotoballer|225997|1793413841000",
+    "nfl|10955|rotoballer|226000|1793414727000",
+    "nfl|11533|rotoballer|226004|1793416269000",
+    "nfl|11643|rotoballer|225991|1793408649000",
+    "nfl|11783|rotoballer|226005|1793416449000",
+    "nfl|12507|rotoballer|225986|1793400609000",
+    "nfl|12518|rotoballer|226007|1793417182000",
+    "nfl|13274|rotoballer|225985|1793400249000",
+    "nfl|13287|rotoballer|225994|1793413276000",
+    "nfl|13346|rotoballer|225984|1793400009000",
+    "nfl|1945|rotoballer|225989|1793402896000",
+    "nfl|3257|rotoballer|225993|1793413029000",
+    "nfl|3294|rotoballer|226002|1793415430000",
+    "nfl|4454|rotoballer|225996|1793414052000",
+    "nfl|5846|rotoballer|225983|1793399416000",
+    "nfl|5870|rotoballer|226006|1793416989000",
+    "nfl|6786|rotoballer|225999|1793414290000",
+    "nfl|6806|rotoballer|225992|1793410877000",
+    "nfl|7600|rotoballer|225987|1793401278000",
+    "nfl|8110|rotoballer|226003|1793415732000",
+    "nfl|8130|rotoballer|225998|1793414368000",
+    "nfl|8132|rotoballer|225995|1793413531000",
+    "nfl|8137|rotoballer|226001|1793414533000",
+    "nfl|8676|rotoballer|225990|1793407932000",
+    "nfl|9500|rotoballer|226008|1793419869000",
+    "nfl|9754|rotoballer|225982|1793399131000"
   ],
   "schema_version": 1,
   "source": {
@@ -26,6 +38,386 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": null,
+      "description": "When the Indianapolis Colts take on the Jacksonville Jaguars in Week 8, they'll have their top slot wide receiver, Josh Downs, healthy and active. He's not been very productive this season, though. Colts starting quarterback Daniel Jones, to the detriment of the team, has opted not to get the ball to Downs, and instead focus on his outside receivers and tight ends. Downs is separating very well this season -- he has no issues with getting open, but just isn't getting the ball as much as he should be. With just 12 receptions over the past four games combined, he's not been start-worthy in any fantasy football leagues this year. He requested a trade away from the Colts, likely due to his lack of involvement, but remains with the team for now and will be active for Week 8. He should be on benches in all leagues for now, and his current value in redraft leagues is very low.",
+      "metadata": {
+        "description": "When the Indianapolis Colts take on the Jacksonville Jaguars in Week 8, they'll have their top slot wide receiver, Josh Downs, healthy and active. He's not been very productive this season, though. Colts starting quarterback Daniel Jones, to the detriment of the team, has opted not to get the ball to Downs, and instead focus on his outside receivers and tight ends. Downs is separating very well this season -- he has no issues with getting open, but just isn't getting the ball as much as he should be. With just 12 receptions over the past four games combined, he's not been start-worthy in any fantasy football leagues this year. He requested a trade away from the Colts, likely due to his lack of involvement, but remains with the team for now and will be active for Week 8. He should be on benches in all leagues for now, and his current value in redraft leagues is very low.",
+        "title": "Josh Downs A Low-Floor, Low-Ceiling Fantasy Option In Week 8",
+        "topic_id": "1422172348320071680",
+        "url": "https://www.rotoballer.com/player-news/josh-downs-a-low-floor-low-ceiling-fantasy-option-in-week-8/1980140"
+      },
+      "nfl_team": "IND",
+      "player_id": "9500",
+      "player_name": "Josh Downs",
+      "position": "WR",
+      "published": 1793419869000,
+      "source": "rotoballer",
+      "source_key": "226008",
+      "story_id": "nfl|9500|rotoballer|226008|1793419869000",
+      "title": "Josh Downs A Low-Floor, Low-Ceiling Fantasy Option In Week 8",
+      "url": "https://www.rotoballer.com/player-news/josh-downs-a-low-floor-low-ceiling-fantasy-option-in-week-8/1980140"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Tyler Warren should be started in all fantasy football leagues for Week 8, when he takes on the Jacksonville Jaguars. They're not a soft defense against tight ends by any means, but with Colts WR1 Alec Pierce (heel) sidelined with a heel injury, Warren has been the clear No. 1 target in the passing game when healthy. Colts quarterback Daniel Jones has played poor football this season, but Warren can thrive in PPR fantasy leagues even when he's not gaining a lot of yardage, as his receptions alone have made him fantasy relevant. Jones appears to have regressed massively from last season, but still targets Warren heavily -- it's been the team's other pass-catchers that have been mostly unproductive this season. The Colts offense may look ugly, but Warren can still produce for fantasy managers.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Tyler Warren should be started in all fantasy football leagues for Week 8, when he takes on the Jacksonville Jaguars. They're not a soft defense against tight ends by any means, but with Colts WR1 Alec Pierce (heel) sidelined with a heel injury, Warren has been the clear No. 1 target in the passing game when healthy. Colts quarterback Daniel Jones has played poor football this season, but Warren can thrive in PPR fantasy leagues even when he's not gaining a lot of yardage, as his receptions alone have made him fantasy relevant. Jones appears to have regressed massively from last season, but still targets Warren heavily -- it's been the team's other pass-catchers that have been mostly unproductive this season. The Colts offense may look ugly, but Warren can still produce for fantasy managers.",
+        "title": "Tyler Warren A Must-Start TE In Return From Injury For Week 8",
+        "topic_id": "1422161021547597824",
+        "url": "https://www.rotoballer.com/player-news/tyler-warren-a-must-start-te-in-return-from-injury-for-week-8/1980136"
+      },
+      "nfl_team": "IND",
+      "player_id": "12518",
+      "player_name": "Tyler Warren",
+      "position": "TE",
+      "published": 1793417182000,
+      "source": "rotoballer",
+      "source_key": "226007",
+      "story_id": "nfl|12518|rotoballer|226007|1793417182000",
+      "title": "Tyler Warren A Must-Start TE In Return From Injury For Week 8",
+      "url": "https://www.rotoballer.com/player-news/tyler-warren-a-must-start-te-in-return-from-injury-for-week-8/1980136"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts quarterback Daniel Jones is probably best left on the benches outside of deep superflex leagues for Week 8. He's not even a top-24 QB in fantasy football this season despite not having had his bye week yet. With five total touchdowns and 10 turnovers on the season, he's arguably been a detriment to his teams offense as he continues to recover from the torn Achilles tendon he suffered late last season. The Colts will be without their top wideout, Alec Pierce (heel), as he recovers from a heel injury. He will at least get back his top remaining target, tight end Tyler Warren, who's been cleared to play in Week 8. Jones is a low-end QB2 when he's not having one of his awful turnover-ridden games and an unstartable player when he is. It's best to look elsewhere to fill your QB and superflex spots in your lineups this week.",
+      "metadata": {
+        "description": "Indianapolis Colts quarterback Daniel Jones is probably best left on the benches outside of deep superflex leagues for Week 8. He's not even a top-24 QB in fantasy football this season despite not having had his bye week yet. With five total touchdowns and 10 turnovers on the season, he's arguably been a detriment to his teams offense as he continues to recover from the torn Achilles tendon he suffered late last season. The Colts will be without their top wideout, Alec Pierce (heel), as he recovers from a heel injury. He will at least get back his top remaining target, tight end Tyler Warren, who's been cleared to play in Week 8. Jones is a low-end QB2 when he's not having one of his awful turnover-ridden games and an unstartable player when he is. It's best to look elsewhere to fill your QB and superflex spots in your lineups this week.",
+        "title": "Daniel Jones A Bench Candidate For Week 8",
+        "topic_id": "1422159763847847936",
+        "url": "https://www.rotoballer.com/player-news/daniel-jones-a-bench-candidate-for-week-8/1980134"
+      },
+      "nfl_team": "IND",
+      "player_id": "5870",
+      "player_name": "Daniel Jones",
+      "position": "QB",
+      "published": 1793416989000,
+      "source": "rotoballer",
+      "source_key": "226006",
+      "story_id": "nfl|5870|rotoballer|226006|1793416989000",
+      "title": "Daniel Jones A Bench Candidate For Week 8",
+      "url": "https://www.rotoballer.com/player-news/daniel-jones-a-bench-candidate-for-week-8/1980134"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver Ryan Flournoy is coming off multiple double-digit PPR fantasy point performances in his last three games. Though some of those points were scored in garbage time, it's nice to see him more consistently involved in the offense and getting targeted on passes that have the potential to score enough points to be fantasy relevant. There's always risk when starting a team's WR3 in fantasy football, but that risk could be mitigated by playing against the dismal Arizona Cardinals pass defense. They rank near the bottom of the league in yards per pass attempt, PPR fantasy points to wide receivers, and passing touchdowns given up to opposing offenses this season. We could see a shootout result in enough fantasy points to go around for Cowboys WRs CeeDee Lamb, George Pickens (hamstring/shoulder), and Flournoy to all have great games. Treat Flournoy as a WR4 with upside in deeper leagues for Week 8.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver Ryan Flournoy is coming off multiple double-digit PPR fantasy point performances in his last three games. Though some of those points were scored in garbage time, it's nice to see him more consistently involved in the offense and getting targeted on passes that have the potential to score enough points to be fantasy relevant. There's always risk when starting a team's WR3 in fantasy football, but that risk could be mitigated by playing against the dismal Arizona Cardinals pass defense. They rank near the bottom of the league in yards per pass attempt, PPR fantasy points to wide receivers, and passing touchdowns given up to opposing offenses this season. We could see a shootout result in enough fantasy points to go around for Cowboys WRs CeeDee Lamb, George Pickens (hamstring/shoulder), and Flournoy to all have great games. Treat Flournoy as a WR4 with upside in deeper leagues for Week 8.",
+        "title": "Ryan Flournoy Has Sleeper Potential Vs Weak Defense In Week 8",
+        "topic_id": "1422158504600330240",
+        "url": "https://www.rotoballer.com/player-news/ryan-flournoy-has-sleeper-potential-vs-weak-defense-in-week-8/1980132"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11783",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "published": 1793416449000,
+      "source": "rotoballer",
+      "source_key": "226005",
+      "story_id": "nfl|11783|rotoballer|226005|1793416449000",
+      "title": "Ryan Flournoy Has Sleeper Potential Vs Weak Defense In Week 8",
+      "url": "https://www.rotoballer.com/player-news/ryan-flournoy-has-sleeper-potential-vs-weak-defense-in-week-8/1980132"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys kicker Brandon Aubrey righted the ship of his rough season in Week 7 by making all three of his field goal attempts and not missing an extra point, finishing with 14 fantasy points. He's struggled with accuracy this season, making just 80 percent of his field goal attempts. But the Cowboys should have an easy time running up the score against the hapless Arizona Cardinals defense in Week 8. Interestingly, kickers don't fare particularly well against them in fantasy football, though that could be due to them allowing 3.5 touchdowns per contest this year. Arizona is bottom-8 at stopping opposing teams in the red zone. Aubrey may kick more extra points than field goals, but he's at least a decent starting option, as it's better to kick extra points than have an offense get completely shut down. Treat Aubrey as a low-end K1 for Week 8.",
+      "metadata": {
+        "description": "Dallas Cowboys kicker Brandon Aubrey righted the ship of his rough season in Week 7 by making all three of his field goal attempts and not missing an extra point, finishing with 14 fantasy points. He's struggled with accuracy this season, making just 80 percent of his field goal attempts. But the Cowboys should have an easy time running up the score against the hapless Arizona Cardinals defense in Week 8. Interestingly, kickers don't fare particularly well against them in fantasy football, though that could be due to them allowing 3.5 touchdowns per contest this year. Arizona is bottom-8 at stopping opposing teams in the red zone. Aubrey may kick more extra points than field goals, but he's at least a decent starting option, as it's better to kick extra points than have an offense get completely shut down. Treat Aubrey as a low-end K1 for Week 8.",
+        "title": "Brandon Aubrey A Solid Starting Kicker Option vs Cardinals In Week 8",
+        "topic_id": "1422155987598471168",
+        "url": "https://www.rotoballer.com/player-news/brandon-aubrey-a-solid-starting-kicker-option-vs-cardinals-in-week-8/1980130"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11533",
+      "player_name": "Brandon Aubrey",
+      "position": "K",
+      "published": 1793416269000,
+      "source": "rotoballer",
+      "source_key": "226004",
+      "story_id": "nfl|11533|rotoballer|226004|1793416269000",
+      "title": "Brandon Aubrey A Solid Starting Kicker Option vs Cardinals In Week 8",
+      "url": "https://www.rotoballer.com/player-news/brandon-aubrey-a-solid-starting-kicker-option-vs-cardinals-in-week-8/1980130"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys tight end Jake Ferguson has cooled off massively over the last few weeks after a solid start to the season. He's almost entirely touchdown dependent to have good fantasy football production this season, as he's too far down the list of priority targets in the passing game for Dallas. Competing with wide receivers CeeDee Lamb, George Pickens (shoulder/hamstring), and Ryan Flournoy, as well as running back Javonte Williams for targets simply isn't a recipe for success. The matchup is great in Week 8, though -- the opposing Arizona Cardinals are a bottom-10 fantasy defense against opposing tight ends this season. Ferguson will probably need a touchdown or two to be worth starting in fantasy, but there's a solid chance he could do that against Arizona, who allows 2.4 passing touchdowns per game to opposing teams. That's the fourth-highest of any team this year. Ferguson is a decent option if you don't have a TE to start this week, but there's plenty of risk that he doesn't score.",
+      "metadata": {
+        "description": "Dallas Cowboys tight end Jake Ferguson has cooled off massively over the last few weeks after a solid start to the season. He's almost entirely touchdown dependent to have good fantasy football production this season, as he's too far down the list of priority targets in the passing game for Dallas. Competing with wide receivers CeeDee Lamb, George Pickens (shoulder/hamstring), and Ryan Flournoy, as well as running back Javonte Williams for targets simply isn't a recipe for success. The matchup is great in Week 8, though -- the opposing Arizona Cardinals are a bottom-10 fantasy defense against opposing tight ends this season. Ferguson will probably need a touchdown or two to be worth starting in fantasy, but there's a solid chance he could do that against Arizona, who allows 2.4 passing touchdowns per game to opposing teams. That's the fourth-highest of any team this year. Ferguson is a decent option if you don't have a TE to start this week, but there's plenty of risk that he doesn't score.",
+        "title": "Jake Ferguson A Risky Start In Deeper Leagues For Week 8",
+        "topic_id": "1422153470504378368",
+        "url": "https://www.rotoballer.com/player-news/jake-ferguson-a-risky-start-in-deeper-leagues-for-week-8/1980128"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8110",
+      "player_name": "Jake Ferguson",
+      "position": "TE",
+      "published": 1793415732000,
+      "source": "rotoballer",
+      "source_key": "226003",
+      "story_id": "nfl|8110|rotoballer|226003|1793415732000",
+      "title": "Jake Ferguson A Risky Start In Deeper Leagues For Week 8",
+      "url": "https://www.rotoballer.com/player-news/jake-ferguson-a-risky-start-in-deeper-leagues-for-week-8/1980128"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys quarterback Dak Prescott should not be left out of starting lineups in any fantasy football leagues in Week 8. He gets a home matchup with the Arizona Cardinals, who are simply a bad team with a bad defense that's been torn to shreds by opposing quarterbacks this season. If you simply started the QB that faced Arizona each week, you'd have gotten an average of 22.3 fantasy points per game, which would rank as the No. 2 overall quarterback in fantasy football if it were done by one player. The Cardinals are abysmal against the pass, allowing nearly eight yards per pass attempt to opposing QBs. That's a recipe for disaster against an excellent passing offense with two high-quality WRs. Prescott should comfortably eclipse the 20-point mark, making him a lineup lock in all leagues for Week 8.",
+      "metadata": {
+        "description": "Dallas Cowboys quarterback Dak Prescott should not be left out of starting lineups in any fantasy football leagues in Week 8. He gets a home matchup with the Arizona Cardinals, who are simply a bad team with a bad defense that's been torn to shreds by opposing quarterbacks this season. If you simply started the QB that faced Arizona each week, you'd have gotten an average of 22.3 fantasy points per game, which would rank as the No. 2 overall quarterback in fantasy football if it were done by one player. The Cardinals are abysmal against the pass, allowing nearly eight yards per pass attempt to opposing QBs. That's a recipe for disaster against an excellent passing offense with two high-quality WRs. Prescott should comfortably eclipse the 20-point mark, making him a lineup lock in all leagues for Week 8.",
+        "title": "Dak Prescott A Must-Start QB1 Vs Cardinals In Week 8",
+        "topic_id": "1422152212326412288",
+        "url": "https://www.rotoballer.com/player-news/dak-prescott-a-must-start-qb1-vs-cardinals-in-week-8/1980126"
+      },
+      "nfl_team": "DAL",
+      "player_id": "3294",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "published": 1793415430000,
+      "source": "rotoballer",
+      "source_key": "226002",
+      "story_id": "nfl|3294|rotoballer|226002|1793415430000",
+      "title": "Dak Prescott A Must-Start QB1 Vs Cardinals In Week 8",
+      "url": "https://www.rotoballer.com/player-news/dak-prescott-a-must-start-qb1-vs-cardinals-in-week-8/1980126"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals kicker Chad Ryland put up another double-digit fantasy score last week against the Broncos. In the 30-16 loss to Denver, Ryland was 3-for-3 on field goal attempts, converting from 26, 30, and 41 yards out. It was a decent follow-up to his huge day in Week 6, wherein he hit six field goals in Arizona's shocking 18-16 win over the Rams. Ryland is tied for the third-most field goals made (17) and attempted (19), and has at least eight fantasy points in five of Arizona's first seven games. In Week 8, the Cardinals face the Cowboys in what is expected to be a high-scoring affair. If the shootout comes to fruition, Ryland will be afforded some extra opportunities to cash in. Fantasy managers in the market for an option at kicker in Week 8 can pick up and start Ryland with confidence.",
+      "metadata": {
+        "description": "Arizona Cardinals kicker Chad Ryland put up another double-digit fantasy score last week against the Broncos. In the 30-16 loss to Denver, Ryland was 3-for-3 on field goal attempts, converting from 26, 30, and 41 yards out. It was a decent follow-up to his huge day in Week 6, wherein he hit six field goals in Arizona's shocking 18-16 win over the Rams. Ryland is tied for the third-most field goals made (17) and attempted (19), and has at least eight fantasy points in five of Arizona's first seven games. In Week 8, the Cardinals face the Cowboys in what is expected to be a high-scoring affair. If the shootout comes to fruition, Ryland will be afforded some extra opportunities to cash in. Fantasy managers in the market for an option at kicker in Week 8 can pick up and start Ryland with confidence.",
+        "title": "Chad Ryland A Solid Streaming Pick For Week 8",
+        "topic_id": "1422149695353987073",
+        "url": "https://www.rotoballer.com/player-news/chad-ryland-a-solid-streaming-pick-for-week-8/1980123"
+      },
+      "nfl_team": "ARI",
+      "player_id": "10955",
+      "player_name": "Chad Ryland",
+      "position": "K",
+      "published": 1793414727000,
+      "source": "rotoballer",
+      "source_key": "226000",
+      "story_id": "nfl|10955|rotoballer|226000|1793414727000",
+      "title": "Chad Ryland A Solid Streaming Pick For Week 8",
+      "url": "https://www.rotoballer.com/player-news/chad-ryland-a-solid-streaming-pick-for-week-8/1980123"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver George Pickens (shoulder/hamstring) is dealing with multiple injuries and is listed as questionable for Week 8, but it looks like he'll be able to play. He's set to face one of the NFL's worst pass defenses in the Arizona Cardinals. They allow the second-most pass yards per attempt to opposing defenses this season, and don't fare well at slowing down opposing wideouts. Pickens has been a clear second fiddle to Cowboys WR1 CeeDee Lamb this season, which hasn't been ideal for his fantasy production, but he's seen 30 targets combined in his last three contests and turned in double-digit PPR fantasy points in each. While he doesn't have the high-end WR1 ceiling he had last season when Lamb is on the field this year, he's still a must-start WR2 with plenty of upside in a fantastic matchup. The Cowboys passing offense is playing good football right now, and Pickens can't be benched.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver George Pickens (shoulder/hamstring) is dealing with multiple injuries and is listed as questionable for Week 8, but it looks like he'll be able to play. He's set to face one of the NFL's worst pass defenses in the Arizona Cardinals. They allow the second-most pass yards per attempt to opposing defenses this season, and don't fare well at slowing down opposing wideouts. Pickens has been a clear second fiddle to Cowboys WR1 CeeDee Lamb this season, which hasn't been ideal for his fantasy production, but he's seen 30 targets combined in his last three contests and turned in double-digit PPR fantasy points in each. While he doesn't have the high-end WR1 ceiling he had last season when Lamb is on the field this year, he's still a must-start WR2 with plenty of upside in a fantastic matchup. The Cowboys passing offense is playing good football right now, and Pickens can't be benched.",
+        "title": "George Pickens Set For Another Strong Performance In Week 8",
+        "topic_id": "1422149695353987072",
+        "url": "https://www.rotoballer.com/player-news/george-pickens-set-for-another-strong-performance-in-week-8/1980121"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8137",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "published": 1793414533000,
+      "source": "rotoballer",
+      "source_key": "226001",
+      "story_id": "nfl|8137|rotoballer|226001|1793414533000",
+      "title": "George Pickens Set For Another Strong Performance In Week 8",
+      "url": "https://www.rotoballer.com/player-news/george-pickens-set-for-another-strong-performance-in-week-8/1980121"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals tight end Trey McBride enjoyed his best game of the season last week against the Broncos, catching 10 of 13 targets for 111 yards and a touchdown. Through the first seven weeks of 2026, McBride leads the league in receptions (59), ranks second in targets (78), and fifth in target share (30.1%). McBride's next stop will be against the Dallas Cowboys on Sunday. Dallas is in the middle of the pack when it comes to fantasy points allowed to tight ends, but that may be because so few of their opponents utilize their tight ends comparably to Arizona's use of McBride. The Cardinals' offense is flowing through the fifth-year star, and that should remain the case in Week 8. McBride has entered set-and-forget territory and should be locked into fantasy lineups for Sunday.",
+      "metadata": {
+        "description": "Arizona Cardinals tight end Trey McBride enjoyed his best game of the season last week against the Broncos, catching 10 of 13 targets for 111 yards and a touchdown. Through the first seven weeks of 2026, McBride leads the league in receptions (59), ranks second in targets (78), and fifth in target share (30.1%). McBride's next stop will be against the Dallas Cowboys on Sunday. Dallas is in the middle of the pack when it comes to fantasy points allowed to tight ends, but that may be because so few of their opponents utilize their tight ends comparably to Arizona's use of McBride. The Cardinals' offense is flowing through the fifth-year star, and that should remain the case in Week 8. McBride has entered set-and-forget territory and should be locked into fantasy lineups for Sunday.",
+        "title": "Trey McBride A Must-Start In Week 8",
+        "topic_id": "1422148436437778432",
+        "url": "https://www.rotoballer.com/player-news/trey-mcbride-a-must-start-in-week-8/1980119"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8130",
+      "player_name": "Trey McBride",
+      "position": "TE",
+      "published": 1793414368000,
+      "source": "rotoballer",
+      "source_key": "225998",
+      "story_id": "nfl|8130|rotoballer|225998|1793414368000",
+      "title": "Trey McBride A Must-Start In Week 8",
+      "url": "https://www.rotoballer.com/player-news/trey-mcbride-a-must-start-in-week-8/1980119"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver CeeDee Lamb is healthy and ready to face one of the worst pass defenses in the NFL in Week 8. He's a must-start, elite WR1 option with week-winning potential against the Arizona Cardinals, who are the second-worst pass defense in the NFL by yards per pass attempt allowed to opposing passers. They also allow the 12th-most PPR fantasy points per game to opposing wideouts. It's a dream matchup for the WR2 overall in PPR fantasy football leagues. He would have had a shot at being the WR1 overall over Seattle Seahawks WR Jaxon Smith-Njigba were it not for a quad injury that saw him pulled from his Week 5 game early and limited in Week 6. Lamb is in his prime and is one of the best separators in the NFL. Arizona is no match for his skills, and expect a monster performance from a potential future Hall of Fame wideout in Week 8.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver CeeDee Lamb is healthy and ready to face one of the worst pass defenses in the NFL in Week 8. He's a must-start, elite WR1 option with week-winning potential against the Arizona Cardinals, who are the second-worst pass defense in the NFL by yards per pass attempt allowed to opposing passers. They also allow the 12th-most PPR fantasy points per game to opposing wideouts. It's a dream matchup for the WR2 overall in PPR fantasy football leagues. He would have had a shot at being the WR1 overall over Seattle Seahawks WR Jaxon Smith-Njigba were it not for a quad injury that saw him pulled from his Week 5 game early and limited in Week 6. Lamb is in his prime and is one of the best separators in the NFL. Arizona is no match for his skills, and expect a monster performance from a potential future Hall of Fame wideout in Week 8.",
+        "title": "CeeDee Lamb An Elite WR1 In An Elite Matchup For Week 8",
+        "topic_id": "1422148436458749952",
+        "url": "https://www.rotoballer.com/player-news/ceedee-lamb-an-elite-wr1-in-an-elite-matchup-for-week-8/1980117"
+      },
+      "nfl_team": "DAL",
+      "player_id": "6786",
+      "player_name": "CeeDee Lamb",
+      "position": "WR",
+      "published": 1793414290000,
+      "source": "rotoballer",
+      "source_key": "225999",
+      "story_id": "nfl|6786|rotoballer|225999|1793414290000",
+      "title": "CeeDee Lamb An Elite WR1 In An Elite Matchup For Week 8",
+      "url": "https://www.rotoballer.com/player-news/ceedee-lamb-an-elite-wr1-in-an-elite-matchup-for-week-8/1980117"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals wide receiver Kendrick Bourne has been relatively quiet since his surprising eight-catch, 75-yard performance in Week 1 against the Chargers. Bourne has been used almost exclusively as Arizona's slot receiver in three-WR sets, so Marvin Harrison Jr.'s departure hasn't brought extra opportunities, but his utilization remains stable, netting him 22 targets (equal to that of Michael Wilson) in the last three weeks. Bourne's steady workload and a Week 8 matchup against the Cowboys set him up for a potential boom game. Dallas has allowed the fourth-most receptions and third-most receiving yards to receivers lined up in the slot this season. If Arizona stays consistent in how they have been using Bourne, the results should be far better this week. He projects as a WR4 and is startable in deep leagues or as a desperation flex for teams missing players on bye in Week 8.",
+      "metadata": {
+        "description": "Arizona Cardinals wide receiver Kendrick Bourne has been relatively quiet since his surprising eight-catch, 75-yard performance in Week 1 against the Chargers. Bourne has been used almost exclusively as Arizona's slot receiver in three-WR sets, so Marvin Harrison Jr.'s departure hasn't brought extra opportunities, but his utilization remains stable, netting him 22 targets (equal to that of Michael Wilson) in the last three weeks. Bourne's steady workload and a Week 8 matchup against the Cowboys set him up for a potential boom game. Dallas has allowed the fourth-most receptions and third-most receiving yards to receivers lined up in the slot this season. If Arizona stays consistent in how they have been using Bourne, the results should be far better this week. He projects as a WR4 and is startable in deep leagues or as a desperation flex for teams missing players on bye in Week 8.",
+        "title": "Kendrick Bourne Could See Better Results Against Dallas",
+        "topic_id": "1422147178293407744",
+        "url": "https://www.rotoballer.com/player-news/kendrick-bourne-could-see-better-results-against-dallas/1980115"
+      },
+      "nfl_team": "ARI",
+      "player_id": "4454",
+      "player_name": "Kendrick Bourne",
+      "position": "WR",
+      "published": 1793414052000,
+      "source": "rotoballer",
+      "source_key": "225996",
+      "story_id": "nfl|4454|rotoballer|225996|1793414052000",
+      "title": "Kendrick Bourne Could See Better Results Against Dallas",
+      "url": "https://www.rotoballer.com/player-news/kendrick-bourne-could-see-better-results-against-dallas/1980115"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals wide receiver Michael Wilson (ribs) was a limited participant in practice all week but carries no designation for Sunday's matchup against the Cowboys. As long as Wilson can play through the pain, he stands a good chance of getting his season back on track. The trade that sent Marvin Harrison Jr. to Houston was thought to open the door for a boon in production, but in the three games since, Wilson had four catches in each contest and averaged 39 receiving yards and 8.4 fantasy points per game. Things should pick up against Dallas, who have given up the fourth-most fantasy points to opposing wide receivers. The Cowboys' defense is allowing 25.7 points per game and ranks 26th in red zone scoring allowed. Wilson projects as a WR2 and, despite his recent shortcomings, should be in fantasy lineups for Week 8.",
+      "metadata": {
+        "description": "Arizona Cardinals wide receiver Michael Wilson (ribs) was a limited participant in practice all week but carries no designation for Sunday's matchup against the Cowboys. As long as Wilson can play through the pain, he stands a good chance of getting his season back on track. The trade that sent Marvin Harrison Jr. to Houston was thought to open the door for a boon in production, but in the three games since, Wilson had four catches in each contest and averaged 39 receiving yards and 8.4 fantasy points per game. Things should pick up against Dallas, who have given up the fourth-most fantasy points to opposing wide receivers. The Cowboys' defense is allowing 25.7 points per game and ranks 26th in red zone scoring allowed. Wilson projects as a WR2 and, despite his recent shortcomings, should be in fantasy lineups for Week 8.",
+        "title": "Michael Wilson Primed For A Rebound Against Cowboys",
+        "topic_id": "1422147178289213440",
+        "url": "https://www.rotoballer.com/player-news/michael-wilson-primed-for-a-rebound-against-cowboys/1980113"
+      },
+      "nfl_team": "ARI",
+      "player_id": "10232",
+      "player_name": "Michael Wilson",
+      "position": "WR",
+      "published": 1793413841000,
+      "source": "rotoballer",
+      "source_key": "225997",
+      "story_id": "nfl|10232|rotoballer|225997|1793413841000",
+      "title": "Michael Wilson Primed For A Rebound Against Cowboys",
+      "url": "https://www.rotoballer.com/player-news/michael-wilson-primed-for-a-rebound-against-cowboys/1980113"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Tyler Allgeier (toe) whiffed on his opportunity to operate as the team's lead back during Jeremiyah Love's (ankle) two-week absence. While Love was out, Allgeier totaled 26 rushing attempts and just 57 yards. Furthermore, he was outproduced by his own backup, Bam Knight. Their relative performances invite speculation over which back might have the most to gain operating behind Love in Week 8. Arizona's upcoming matchup is against the Cowboys, who have allowed the fifth-most rushing yards and fourth-most fantasy points to opposing running backs through the first seven weeks of 2026. Even with the soft matchup, Allgeier is hard to trust given his recent performance and concerns about his health. Thanks to a recent toe injury, Allgeier's only participation in practice this week was a limited session on Friday. Allgeier projects as an RB3/4 and is a risky start in fantasy for Week 8.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Tyler Allgeier (toe) whiffed on his opportunity to operate as the team's lead back during Jeremiyah Love's (ankle) two-week absence. While Love was out, Allgeier totaled 26 rushing attempts and just 57 yards. Furthermore, he was outproduced by his own backup, Bam Knight. Their relative performances invite speculation over which back might have the most to gain operating behind Love in Week 8. Arizona's upcoming matchup is against the Cowboys, who have allowed the fifth-most rushing yards and fourth-most fantasy points to opposing running backs through the first seven weeks of 2026. Even with the soft matchup, Allgeier is hard to trust given his recent performance and concerns about his health. Thanks to a recent toe injury, Allgeier's only participation in practice this week was a limited session on Friday. Allgeier projects as an RB3/4 and is a risky start in fantasy for Week 8.",
+        "title": "Tyler Allgeier's Outlook Takes A Hit Despite Good Matchup",
+        "topic_id": "1422145919595327488",
+        "url": "https://www.rotoballer.com/player-news/tyler-allgeiers-outlook-takes-a-hit-despite-good-matchup/1980111"
+      },
+      "nfl_team": "ARI",
+      "player_id": "8132",
+      "player_name": "Tyler Allgeier",
+      "position": "RB",
+      "published": 1793413531000,
+      "source": "rotoballer",
+      "source_key": "225995",
+      "story_id": "nfl|8132|rotoballer|225995|1793413531000",
+      "title": "Tyler Allgeier's Outlook Takes A Hit Despite Good Matchup",
+      "url": "https://www.rotoballer.com/player-news/tyler-allgeiers-outlook-takes-a-hit-despite-good-matchup/1980111"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals running back Jeremiyah Love (ankle) missed the last two weeks of action while nursing an ankle injury, but he will be back to work in Week 8 against the Cowboys. Love started the week with two limited practices but was a full participant on Friday and carries no designation heading into the weekend. Outside of Week 3, when he racked up 109 scrimmage yards and a touchdown on 26 touches, Love's rookie season has been something of a dud. He has a good chance to turn things around against Dallas. Through Week 7, the Cowboys have allowed the fifth-most rushing yards and fourth-most fantasy points to opposing running backs. Last week, a hobbled Saquon Barkley (hamstring, back) and Dameon Pierce (undisclosed) combined for 109 yards and two touchdowns on the ground against Dallas. Love is projected on the RB2/3 border and can be plugged into starting lineups this weekend.",
+      "metadata": {
+        "description": "Arizona Cardinals running back Jeremiyah Love (ankle) missed the last two weeks of action while nursing an ankle injury, but he will be back to work in Week 8 against the Cowboys. Love started the week with two limited practices but was a full participant on Friday and carries no designation heading into the weekend. Outside of Week 3, when he racked up 109 scrimmage yards and a touchdown on 26 touches, Love's rookie season has been something of a dud. He has a good chance to turn things around against Dallas. Through Week 7, the Cowboys have allowed the fifth-most rushing yards and fourth-most fantasy points to opposing running backs. Last week, a hobbled Saquon Barkley (hamstring, back) and Dameon Pierce (undisclosed) combined for 109 yards and two touchdowns on the ground against Dallas. Love is projected on the RB2/3 border and can be plugged into starting lineups this weekend.",
+        "title": "Jeremiyah Love Gets Easy Matchup In Return To Action",
+        "topic_id": "1422143403050668032",
+        "url": "https://www.rotoballer.com/player-news/jeremiyah-love-gets-easy-matchup-in-return-to-action/1980109"
+      },
+      "nfl_team": "ARI",
+      "player_id": "13287",
+      "player_name": "Jeremiyah Love",
+      "position": "RB",
+      "published": 1793413276000,
+      "source": "rotoballer",
+      "source_key": "225994",
+      "story_id": "nfl|13287|rotoballer|225994|1793413276000",
+      "title": "Jeremiyah Love Gets Easy Matchup In Return To Action",
+      "url": "https://www.rotoballer.com/player-news/jeremiyah-love-gets-easy-matchup-in-return-to-action/1980109"
+    },
+    {
+      "analysis": null,
+      "description": "Arizona Cardinals quarterback Jacoby Brissett's fantasy performance in 2026 has been inconsistent, but he will be a good streaming option in Week 8. Last week was another good showing, going 27-for-48 for 272 yards and one touchdown against the Broncos. The prolific passer has now put up 35 pass attempts or more in six of his first seven games and now leads the league with 40.3 pass attempts per game. Arizona's tendency to let Brissett air it out sets up a potential boom game against the Cowboys on Sunday. Dallas has allowed the seventh-most fantasy points to quarterbacks this season, with twelve passing touchdowns to just two interceptions. Brissett is a definite start in two-QB formats and is a worthwhile streamer in single-QB leagues for Week 8.",
+      "metadata": {
+        "description": "Arizona Cardinals quarterback Jacoby Brissett's fantasy performance in 2026 has been inconsistent, but he will be a good streaming option in Week 8. Last week was another good showing, going 27-for-48 for 272 yards and one touchdown against the Broncos. The prolific passer has now put up 35 pass attempts or more in six of his first seven games and now leads the league with 40.3 pass attempts per game. Arizona's tendency to let Brissett air it out sets up a potential boom game against the Cowboys on Sunday. Dallas has allowed the seventh-most fantasy points to quarterbacks this season, with twelve passing touchdowns to just two interceptions. Brissett is a definite start in two-QB formats and is a worthwhile streamer in single-QB leagues for Week 8.",
+        "title": "Jacoby Brissett Has A Rosy Outlook Against Dallas",
+        "topic_id": "1422142145107615744",
+        "url": "https://www.rotoballer.com/player-news/jacoby-brissett-has-a-rosy-outlook-against-dallas/1980107"
+      },
+      "nfl_team": "ARI",
+      "player_id": "3257",
+      "player_name": "Jacoby Brissett",
+      "position": "QB",
+      "published": 1793413029000,
+      "source": "rotoballer",
+      "source_key": "225993",
+      "story_id": "nfl|3257|rotoballer|225993|1793413029000",
+      "title": "Jacoby Brissett Has A Rosy Outlook Against Dallas",
+      "url": "https://www.rotoballer.com/player-news/jacoby-brissett-has-a-rosy-outlook-against-dallas/1980107"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos running back J.K. Dobbins has been falling out of favor recently. Not only has his snap count dropped significantly, but his total volume is also trending in the wrong direction. Just last Sunday, in Week 7, Dobbins had just six rushing attempts for 23 rushing yards. He did somewhat salvage his fantasy performance with a rushing touchdown, but the low volume makes him an incredibly risky fantasy play going forward. In fact, he played just 23% of the snaps last week, taking a backseat to both RJ Harvey and Jonah Coleman. Denver's backfield dynamic could look different any given week, but for now, we would strongly avoid starting Dobbins on Sunday against the Kansas City Chiefs. He had just 36 rushing yards in his last game against the Chiefs, and he was equally underwhelming in that game, too, despite Coleman not being quite as involved yet in the season opener.",
+      "metadata": {
+        "description": "Denver Broncos running back J.K. Dobbins has been falling out of favor recently. Not only has his snap count dropped significantly, but his total volume is also trending in the wrong direction. Just last Sunday, in Week 7, Dobbins had just six rushing attempts for 23 rushing yards. He did somewhat salvage his fantasy performance with a rushing touchdown, but the low volume makes him an incredibly risky fantasy play going forward. In fact, he played just 23% of the snaps last week, taking a backseat to both RJ Harvey and Jonah Coleman. Denver's backfield dynamic could look different any given week, but for now, we would strongly avoid starting Dobbins on Sunday against the Kansas City Chiefs. He had just 36 rushing yards in his last game against the Chiefs, and he was equally underwhelming in that game, too, despite Coleman not being quite as involved yet in the season opener.",
+        "title": "J.K. Dobbins Losing Volume in Three-Headed Backfield",
+        "topic_id": "1422134594131468288",
+        "url": "https://www.rotoballer.com/player-news/j-k-dobbins-losing-volume-in-three-headed-backfield/1980105"
+      },
+      "nfl_team": "DEN",
+      "player_id": "6806",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "published": 1793410877000,
+      "source": "rotoballer",
+      "source_key": "225992",
+      "story_id": "nfl|6806|rotoballer|225992|1793410877000",
+      "title": "J.K. Dobbins Losing Volume in Three-Headed Backfield",
+      "url": "https://www.rotoballer.com/player-news/j-k-dobbins-losing-volume-in-three-headed-backfield/1980105"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins running back Jaylen Wright (foot, quad) has been removed from the injury report and will play in Sunday's Week 8 contest against the New England Patriots. Wright was a full participant for three consecutive practices, so we're not surprised that he's going to suit up without any sort of injury designation. The 23-year-old has seen a slight uptick in snaps and carries since the Dolphins lost De'Von Achane (knee), but he's still far less involved in the rushing attack than running back Ollie Gordon II and quarterback Malik Willis. Wright can be left on waivers in leagues with 14 or fewer teams, as he's a low-volume option in a poor offense. At best, he's a handcuff for managers who already have Gordon and are looking for a little more insurance behind him.",
+      "metadata": {
+        "description": "Miami Dolphins running back Jaylen Wright (foot, quad) has been removed from the injury report and will play in Sunday's Week 8 contest against the New England Patriots. Wright was a full participant for three consecutive practices, so we're not surprised that he's going to suit up without any sort of injury designation. The 23-year-old has seen a slight uptick in snaps and carries since the Dolphins lost De'Von Achane (knee), but he's still far less involved in the rushing attack than running back Ollie Gordon II and quarterback Malik Willis. Wright can be left on waivers in leagues with 14 or fewer teams, as he's a low-volume option in a poor offense. At best, he's a handcuff for managers who already have Gordon and are looking for a little more insurance behind him.",
+        "title": "Jaylen Wright Off the Injury Report, Will Play in Week 8",
+        "topic_id": "1422124526103228416",
+        "url": "https://www.rotoballer.com/player-news/jaylen-wright-off-the-injury-report-will-play-in-week-8/1980091"
+      },
+      "nfl_team": "MIA",
+      "player_id": "11643",
+      "player_name": "Jaylen Wright",
+      "position": "RB",
+      "published": 1793408649000,
+      "source": "rotoballer",
+      "source_key": "225991",
+      "story_id": "nfl|11643|rotoballer|225991|1793408649000",
+      "title": "Jaylen Wright Off the Injury Report, Will Play in Week 8",
+      "url": "https://www.rotoballer.com/player-news/jaylen-wright-off-the-injury-report-will-play-in-week-8/1980091"
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Rashid Shaheed (knee) did not practice on Friday, according to Tim Booth of the Seattle Times. Shaheed has now missed back-to-back practices, putting his availability in jeopardy for Week 8 against the Chicago Bears. The Seahawks don't play until Monday, so Shaheed does have an extra day to recover. Still, he's trending in the wrong direction. He'd likely need to log a limited practice on Saturday to have any chance of playing against Chicago. The 28-year-old has been disappointing in fantasy football this season, scoring more than 7.0 PPR points just twice. He's a big-play threat, but so far, there have been more \"bust\" games than \"boom\" games. Even if he suits up this week, he'll be tough to start in fantasy football leagues. Jaxon Smith-Njigba remains the only Seahawks receiver we can start with confidence.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Rashid Shaheed (knee) did not practice on Friday, according to Tim Booth of the Seattle Times. Shaheed has now missed back-to-back practices, putting his availability in jeopardy for Week 8 against the Chicago Bears. The Seahawks don't play until Monday, so Shaheed does have an extra day to recover. Still, he's trending in the wrong direction. He'd likely need to log a limited practice on Saturday to have any chance of playing against Chicago. The 28-year-old has been disappointing in fantasy football this season, scoring more than 7.0 PPR points just twice. He's a big-play threat, but so far, there have been more \"bust\" games than \"boom\" games. Even if he suits up this week, he'll be tough to start in fantasy football leagues. Jaxon Smith-Njigba remains the only Seahawks receiver we can start with confidence.",
+        "title": "Rashid Shaheed Remains Absent From Practice on Friday",
+        "topic_id": "1422122009311076352",
+        "url": "https://www.rotoballer.com/player-news/rashid-shaheed-remains-absent-from-practice-on-friday/1980084"
+      },
+      "nfl_team": "SEA",
+      "player_id": "8676",
+      "player_name": "Rashid Shaheed",
+      "position": "WR",
+      "published": 1793407932000,
+      "source": "rotoballer",
+      "source_key": "225990",
+      "story_id": "nfl|8676|rotoballer|225990|1793407932000",
+      "title": "Rashid Shaheed Remains Absent From Practice on Friday",
+      "url": "https://www.rotoballer.com/player-news/rashid-shaheed-remains-absent-from-practice-on-friday/1980084"
+    },
     {
       "analysis": "It's been a tumultuous week for the Colts, who traded away two stalwarts in left guard Quenton Nelson and defensive tackle DeForest Buckner. Downs requested a trade shortly thereafter, but the team has yet to meet that request. Indianapolis has reportedly fielded trade offers for Downs, but despite the lingering uncertainty of his future with the team, there doesn't appear to be a desire to hold him out Sunday or reduce his role. Alec Pierce (heel) is remaining on IR for at least another week, so Downs is set to work as one of QB Daniel Jones' top targets against the Jaguars.",
       "description": "Colts head coach Shane Steichen said Friday that Downs will perform his usual role Sunday against Jacksonville in spite of the fact that he requested a trade this week, Stephen Holder of ESPN.com reports.",
@@ -65,6 +457,26 @@
       "story_id": "nfl|8676|rotowire|645147|1793402951000",
       "title": "Rashid Shaheed - Doesn't practice Friday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers kicker Chris Boswell drilled all three of his field goal attempts and his lone extra-point try in a 16-10 win over the New Orleans Saints last week. He'll look to keep rolling against the Cleveland Browns in an important Week 8 matchup. Boswell missed a field goal when these teams met in Week 4, but he's converted nine of his 10 attempts since then and hasn't missed an extra point all season. The only factor working against Boswell's fantasy outlook this week is the projected point total of around 39.5. Fantasy managers can consider other options in more favorable matchups, but Boswell remains a quality starter who should stay on the fantasy radar in what projects to be a competitive game.",
+      "metadata": {
+        "description": "Pittsburgh Steelers kicker Chris Boswell drilled all three of his field goal attempts and his lone extra-point try in a 16-10 win over the New Orleans Saints last week. He'll look to keep rolling against the Cleveland Browns in an important Week 8 matchup. Boswell missed a field goal when these teams met in Week 4, but he's converted nine of his 10 attempts since then and hasn't missed an extra point all season. The only factor working against Boswell's fantasy outlook this week is the projected point total of around 39.5. Fantasy managers can consider other options in more favorable matchups, but Boswell remains a quality starter who should stay on the fantasy radar in what projects to be a competitive game.",
+        "title": "Chris Boswell A Solid Fantasy Option Against Division Rival",
+        "topic_id": "1422100616146079744",
+        "url": "https://www.rotoballer.com/player-news/chris-boswell-a-solid-fantasy-option-against-division-rival/1980081"
+      },
+      "nfl_team": "PIT",
+      "player_id": "1945",
+      "player_name": "Chris Boswell",
+      "position": "K",
+      "published": 1793402896000,
+      "source": "rotoballer",
+      "source_key": "225989",
+      "story_id": "nfl|1945|rotoballer|225989|1793402896000",
+      "title": "Chris Boswell A Solid Fantasy Option Against Division Rival",
+      "url": "https://www.rotoballer.com/player-news/chris-boswell-a-solid-fantasy-option-against-division-rival/1980081"
     },
     {
       "analysis": "Since the Seahawks designated Price for return from injured reserve Thursday, he logged a limited session in his first chance to do so, followed by Friday's uncapped practice. How he's listed on Saturday's injury report will determine if he has a chance to return in Week 8 against the Bears, and if he's anything but 'Out' he'll need to be activated from IR by Monday afternoon and then be deemed active that evening. Meanwhile, fellow RB Zach Charbonnet (knee) went from full Thursday to limited Friday, seemingly indicating he may be trending in the wrong direction to make his season sebut.",
@@ -167,6 +579,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Pittsburgh Steelers tight end Pat Freiermuth has had some standout fantasy performances this season but managed just two receptions for 20 yards in last week's win over the New Orleans Saints. Although he found the end zone against the Cleveland Browns in Week 4, he'll be difficult to trust when these teams meet again on Sunday. Cleveland has been a middle-of-the-road matchup for fantasy tight ends this season, allowing just under 11 half-PPR fantasy points per game to the position. With teammate Darnell Washington playing meaningful snaps and commanding red-zone targets, Freiermuth's opportunities are becoming increasingly unreliable despite his chemistry with quarterback Aaron Rodgers. The 28-year-old should only be considered a bye-week fill-in, and fantasy managers can likely find a better option in most formats.",
+      "metadata": {
+        "description": "Pittsburgh Steelers tight end Pat Freiermuth has had some standout fantasy performances this season but managed just two receptions for 20 yards in last week's win over the New Orleans Saints. Although he found the end zone against the Cleveland Browns in Week 4, he'll be difficult to trust when these teams meet again on Sunday. Cleveland has been a middle-of-the-road matchup for fantasy tight ends this season, allowing just under 11 half-PPR fantasy points per game to the position. With teammate Darnell Washington playing meaningful snaps and commanding red-zone targets, Freiermuth's opportunities are becoming increasingly unreliable despite his chemistry with quarterback Aaron Rodgers. The 28-year-old should only be considered a bye-week fill-in, and fantasy managers can likely find a better option in most formats.",
+        "title": "Pat Freiermuth Has Unreliable Floor in Week 8",
+        "topic_id": "1422094323675074560",
+        "url": "https://www.rotoballer.com/player-news/pat-freiermuth-has-unreliable-floor-in-week-8/1980077"
+      },
+      "nfl_team": "PIT",
+      "player_id": "7600",
+      "player_name": "Pat Freiermuth",
+      "position": "TE",
+      "published": 1793401278000,
+      "source": "rotoballer",
+      "source_key": "225987",
+      "story_id": "nfl|7600|rotoballer|225987|1793401278000",
+      "title": "Pat Freiermuth Has Unreliable Floor in Week 8",
+      "url": "https://www.rotoballer.com/player-news/pat-freiermuth-has-unreliable-floor-in-week-8/1980077"
+    },
+    {
       "analysis": "Jones injured his knee against the Colts in Week 7, so Mason ended up leading the Vikings backfield in touches and finished with 15 carries for 68 yards while failing to haul in either of his two targets from Kyler Murray. Jones has been cleared to play in Sunday's NFC North tilt after logging a full practice Friday, so he and Mason figure to split duties for that contest while rookie sixth-rounder Demond Claiborne operates in a depth role.",
       "description": "Mason and Aaron Jones (knee) will share the backfield against the Lions on Sunday after the latter avoided an injury designation for Week 8, Craig Peters of the Vikings' official site reports.",
       "metadata": {
@@ -207,6 +639,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Omarion Hampton has been unable to find much success on the ground lately. Over the last two games, Hampton has carried the ball 21 times for 51 yards, and he hasn't scored a touchdown since Week 4. The 23-year-old is starting to lose touches with a season-low seven carries during the Week 6 loss to the Kansas City Chiefs. Due to his struggles, it seems that the Chargers are going to continue mixing in Kimani Vidal and Keaton Mitchell. It probably won't get better for Hampton against the Rams defense, which ranks 18th against the run this season. Hampton is ranked as Rotoballer's RB32 and should be viewed as a possible flex play for Week 8.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Omarion Hampton has been unable to find much success on the ground lately. Over the last two games, Hampton has carried the ball 21 times for 51 yards, and he hasn't scored a touchdown since Week 4. The 23-year-old is starting to lose touches with a season-low seven carries during the Week 6 loss to the Kansas City Chiefs. Due to his struggles, it seems that the Chargers are going to continue mixing in Kimani Vidal and Keaton Mitchell. It probably won't get better for Hampton against the Rams defense, which ranks 18th against the run this season. Hampton is ranked as Rotoballer's RB32 and should be viewed as a possible flex play for Week 8.",
+        "title": "Omarion Hampton Continues Strugglng on the Ground",
+        "topic_id": "1422091808065740800",
+        "url": "https://www.rotoballer.com/player-news/omarion-hampton-continues-strugglng-on-the-ground/1980075"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12507",
+      "player_name": "Omarion Hampton",
+      "position": "RB",
+      "published": 1793400609000,
+      "source": "rotoballer",
+      "source_key": "225986",
+      "story_id": "nfl|12507|rotoballer|225986|1793400609000",
+      "title": "Omarion Hampton Continues Strugglng on the Ground",
+      "url": "https://www.rotoballer.com/player-news/omarion-hampton-continues-strugglng-on-the-ground/1980075"
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers wide receiver Germie Bernard underwhelmed fantasy managers last week after his breakout performance in Week 6 and will look to get back on track against the Cleveland Browns in a divisional matchup. Bernard had just two receptions for 11 yards against Cleveland in Week 4, but he was still playing behind Michael Pittman Jr. (foot) and Roman Wilson (finger), both of whom will be sidelined on Sunday. Cleveland's defense has been vulnerable to opposing wide receivers this season, so despite the low projected point total, there is reason to believe Bernard and running mate DK Metcalf can find success in this contest. Bernard will need to show more consistency to become a weekly fantasy starter, but he remains a viable flex option in what projects to be a competitive game.",
+      "metadata": {
+        "description": "Pittsburgh Steelers wide receiver Germie Bernard underwhelmed fantasy managers last week after his breakout performance in Week 6 and will look to get back on track against the Cleveland Browns in a divisional matchup. Bernard had just two receptions for 11 yards against Cleveland in Week 4, but he was still playing behind Michael Pittman Jr. (foot) and Roman Wilson (finger), both of whom will be sidelined on Sunday. Cleveland's defense has been vulnerable to opposing wide receivers this season, so despite the low projected point total, there is reason to believe Bernard and running mate DK Metcalf can find success in this contest. Bernard will need to show more consistency to become a weekly fantasy starter, but he remains a viable flex option in what projects to be a competitive game.",
+        "title": "Germie Bernard Remains a Quality Flex Option in Week 8",
+        "topic_id": "1422090548595982336",
+        "url": "https://www.rotoballer.com/player-news/germie-bernard-remains-a-quality-flex-option-in-week-8/1980072"
+      },
+      "nfl_team": "PIT",
+      "player_id": "13274",
+      "player_name": "Germie Bernard",
+      "position": "WR",
+      "published": 1793400249000,
+      "source": "rotoballer",
+      "source_key": "225985",
+      "story_id": "nfl|13274|rotoballer|225985|1793400249000",
+      "title": "Germie Bernard Remains a Quality Flex Option in Week 8",
+      "url": "https://www.rotoballer.com/player-news/germie-bernard-remains-a-quality-flex-option-in-week-8/1980072"
+    },
+    {
       "analysis": "Rice injured his hamstring and knee against the Raiders in Week 4 and missed both of the Chiefs' two games following the Week 5 bye. During that two-game absence, Worthy turned 13 targets into 10 catches for 84 yards, but the return of Rice may give the former more space to operate in the passing game, seeing as the Broncos defense also will have to account for the returning Rice and veteran tight end Travis Kelce.",
       "description": "Rashee Rice (knee/hamstring) has no injury designation for Sunday's game against the Broncos, so Worthy will move back into his WR2 role for Week 8.",
       "metadata": {
@@ -225,6 +697,26 @@
       "story_id": "nfl|11624|rotowire|645138|1793400136000",
       "title": "Xavier Worthy - Reverting to WR2 duties vs. Denver",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Cleveland Browns wide receiver Denzel Boston is hopeful for better results after two straight poor performances. Over his last two games, Boston has been held to four receptions for 47 receiving yards with zero touchdowns. Boston has been one of the best deep ball threats this season, but quarterback Deshaun Watson has struggled to connect with Boston lately. It won't be easy for Boston against the Steelers defense, which ranks as the 11th-best defense against the pass coming into Week 8. The rookie wideout hauled in four receptions for 89 yards during their first meeting in Week 4. Boston is ranked as Rotoballer's WR29 and should be a solid flex play for Week 8.",
+      "metadata": {
+        "description": "Cleveland Browns wide receiver Denzel Boston is hopeful for better results after two straight poor performances. Over his last two games, Boston has been held to four receptions for 47 receiving yards with zero touchdowns. Boston has been one of the best deep ball threats this season, but quarterback Deshaun Watson has struggled to connect with Boston lately. It won't be easy for Boston against the Steelers defense, which ranks as the 11th-best defense against the pass coming into Week 8. The rookie wideout hauled in four receptions for 89 yards during their first meeting in Week 4. Boston is ranked as Rotoballer's WR29 and should be a solid flex play for Week 8.",
+        "title": "Denzel Boston is Losing Value with Inconsistent Play",
+        "topic_id": "1422089289977597952",
+        "url": "https://www.rotoballer.com/player-news/denzel-boston-is-losing-value-with-inconsistent-play/1980070"
+      },
+      "nfl_team": "CLE",
+      "player_id": "13346",
+      "player_name": "Denzel Boston",
+      "position": "WR",
+      "published": 1793400009000,
+      "source": "rotoballer",
+      "source_key": "225984",
+      "story_id": "nfl|13346|rotoballer|225984|1793400009000",
+      "title": "Denzel Boston is Losing Value with Inconsistent Play",
+      "url": "https://www.rotoballer.com/player-news/denzel-boston-is-losing-value-with-inconsistent-play/1980070"
     },
     {
       "analysis": "Harvey popped up on Thursday's injury report due to a knee injury and was unable to practice Friday, which resulted in him being ruled out for Sunday's AFC West tilt. Dobbins found the end zone in Week 7 against the Cardinals but was less efficient with his carries than Coleman, although the duo could have a fairly even split in backfield duties in Harvey's absence. Through seven regular-season games. Dobbins has turned 87 carries into 293 yards (3.4 YPC) and three touchdowns while adding eight catches on nine targets for 27 yards.",
@@ -285,6 +777,46 @@
       "story_id": "nfl|13294|rotowire|645135|1793399587000",
       "title": "Makai Lemon - Philly's top WR for Week 8",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Pittsburgh Steelers wide receiver DK Metcalf was held to just two receptions in last week's win and will look to get more involved against the Cleveland Browns in Week 8. Cleveland has allowed several big performances to opposing wideouts this season, including one from Metcalf when these teams met in Week 4. Pittsburgh's WR1 finished with five receptions for 115 yards on nine targets, while Roman Wilson (finger) added three catches for 74 yards and a touchdown in the loss. With Wilson and Michael Pittman Jr. (foot) both on injured reserve, Metcalf and rookie Germie Bernard should once again serve as quarterback Aaron Rodgers' top options in the passing game. Metcalf's boom-or-bust production makes him difficult to rely on consistently, but he still offers plenty of upside as a fantasy WR2 in this crucial divisional matchup.",
+      "metadata": {
+        "description": "Pittsburgh Steelers wide receiver DK Metcalf was held to just two receptions in last week's win and will look to get more involved against the Cleveland Browns in Week 8. Cleveland has allowed several big performances to opposing wideouts this season, including one from Metcalf when these teams met in Week 4. Pittsburgh's WR1 finished with five receptions for 115 yards on nine targets, while Roman Wilson (finger) added three catches for 74 yards and a touchdown in the loss. With Wilson and Michael Pittman Jr. (foot) both on injured reserve, Metcalf and rookie Germie Bernard should once again serve as quarterback Aaron Rodgers' top options in the passing game. Metcalf's boom-or-bust production makes him difficult to rely on consistently, but he still offers plenty of upside as a fantasy WR2 in this crucial divisional matchup.",
+        "title": "DK Metcalf Looks to Repeat Success Against Browns",
+        "topic_id": "1422085515015892992",
+        "url": "https://www.rotoballer.com/player-news/dk-metcalf-looks-to-repeat-success-against-browns/1980066"
+      },
+      "nfl_team": "PIT",
+      "player_id": "5846",
+      "player_name": "DK Metcalf",
+      "position": "WR",
+      "published": 1793399416000,
+      "source": "rotoballer",
+      "source_key": "225983",
+      "story_id": "nfl|5846|rotoballer|225983|1793399416000",
+      "title": "DK Metcalf Looks to Repeat Success Against Browns",
+      "url": "https://www.rotoballer.com/player-news/dk-metcalf-looks-to-repeat-success-against-browns/1980066"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers wide receiver Quentin Johnston could see a reduced target share during Sunday's Week 8 matchup against the Los Angeles Rams. The Chargers are coming off a bye week and are getting healthy at the wideout position. Both Ladd McConkey and Tre' Harris are cleared to play, which is not good news for Johnston's target share. The 25-year-old hasn't been much of a factor this season anyway, with two receptions over his last two games. The Rams defense is ranked 4th-best in passing yardage, allowing only 186.3 passing yards per game. Johnston will rank as Rotoballer's WR62 and fall into low-end flex territory for this Week 8 matchup.",
+      "metadata": {
+        "description": "Los Angeles Chargers wide receiver Quentin Johnston could see a reduced target share during Sunday's Week 8 matchup against the Los Angeles Rams. The Chargers are coming off a bye week and are getting healthy at the wideout position. Both Ladd McConkey and Tre' Harris are cleared to play, which is not good news for Johnston's target share. The 25-year-old hasn't been much of a factor this season anyway, with two receptions over his last two games. The Rams defense is ranked 4th-best in passing yardage, allowing only 186.3 passing yards per game. Johnston will rank as Rotoballer's WR62 and fall into low-end flex territory for this Week 8 matchup.",
+        "title": "Quentin Johnston Could Take a Backseat in Week 8",
+        "topic_id": "1422084256582119424",
+        "url": "https://www.rotoballer.com/player-news/quentin-johnston-could-take-a-backseat-in-week-8/1980064"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9754",
+      "player_name": "Quentin Johnston",
+      "position": "WR",
+      "published": 1793399131000,
+      "source": "rotoballer",
+      "source_key": "225982",
+      "story_id": "nfl|9754|rotoballer|225982|1793399131000",
+      "title": "Quentin Johnston Could Take a Backseat in Week 8",
+      "url": "https://www.rotoballer.com/player-news/quentin-johnston-could-take-a-backseat-in-week-8/1980064"
     },
     {
       "analysis": "Jackson was a full participant in all three practices during Week 8 prep, which was enough for the two-time MVP to be cleared to return for Sunday's road tilt. Huntley started in each of the Ravens' last three games, during which he has completed 68.0 percent of his passes for 664 yards, four touchdowns and one interception while adding 14 carries for 60 yards and a score. Huntley will be on standby in case Jackson aggravates his ankle issue in Week 8.",
@@ -1371,10 +1903,10 @@
       "url": "https://www.fantasypros.com/nfl/news/616626/ray-davis-illness-cleared-to-play-sunday.php"
     },
     {
-      "analysis": "After sitting out practice Thursday, Davis practiced fully Friday and will assume his normal role as the Bills' RB3 behind James Cook and passing-down back Ty Johnson. Davis has rushed five times for 12 yards this season and only holds contingent value in fantasy should anything happen to Cook.",
+      "analysis": "After sitting out practice Thursday, Davis practiced fully Friday and will assume his normal role as the Bills' RB3 behind James Cook and passing-down back Ty Johnson. Davis has rushed five times for 12 yards this season and holds only contingent value in fantasy in the case  something happens to Cook.",
       "description": "Davis (illness) doesn't have an injury designation for Sunday's game against the Ravens.",
       "metadata": {
-        "analysis": "After sitting out practice Thursday, Davis practiced fully Friday and will assume his normal role as the Bills' RB3 behind James Cook and passing-down back Ty Johnson. Davis has rushed five times for 12 yards this season and only holds contingent value in fantasy should anything happen to Cook.",
+        "analysis": "After sitting out practice Thursday, Davis practiced fully Friday and will assume his normal role as the Bills' RB3 behind James Cook and passing-down back Ty Johnson. Davis has rushed five times for 12 yards this season and holds only contingent value in fantasy in the case  something happens to Cook.",
         "description": "Davis (illness) doesn't have an injury designation for Sunday's game against the Ravens.",
         "title": "Ray Davis - Good to go for Week 8",
         "topic_id": "1421977289247174656"
@@ -129514,132 +130046,6 @@
       "story_id": "nfl|9511|rotoballer|222833|1790845747000",
       "title": "Keaton Mitchell in a Walking Boot",
       "url": "https://www.rotoballer.com/player-news/keaton-mitchell-in-a-walking-boot/1955248"
-    },
-    {
-      "analysis": "Ferguson remains likely to be sidelined this week. ",
-      "description": "Terrance Ferguson did not practice on Wednesday. ",
-      "metadata": {
-        "analysis": "Ferguson remains likely to be sidelined this week. ",
-        "description": "Terrance Ferguson did not practice on Wednesday. ",
-        "title": "Terrance Ferguson (ankle) misses practice ",
-        "topic_id": "1411241627321651200",
-        "url": "https://www.fantasypros.com/nfl/news/611653/terrance-ferguson-ankle-misses-practice.php"
-      },
-      "nfl_team": "LAR",
-      "player_id": "12487",
-      "player_name": "Terrance Ferguson",
-      "position": "TE",
-      "published": 1790828732861,
-      "source": "fantasy_pros",
-      "source_key": "611653",
-      "story_id": "nfl|12487|fantasy_pros|611653|1790828732861",
-      "title": "Terrance Ferguson (ankle) misses practice ",
-      "url": "https://www.fantasypros.com/nfl/news/611653/terrance-ferguson-ankle-misses-practice.php"
-    },
-    {
-      "analysis": "Dobbins will remain in his lead role in the Broncos backfield. ",
-      "description": "J.K. Dobbins is practicing in full for Week 4 against the 49ers.",
-      "metadata": {
-        "analysis": "Dobbins will remain in his lead role in the Broncos backfield. ",
-        "description": "J.K. Dobbins is practicing in full for Week 4 against the 49ers.",
-        "title": "J.K. Dobbins (hip) practicing in full for Week 4",
-        "topic_id": "1411241627179044864",
-        "url": "https://www.fantasypros.com/nfl/news/611655/jk-dobbins-hip-practicing-full-week-4.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "6806",
-      "player_name": "J.K. Dobbins",
-      "position": "RB",
-      "published": 1790828732827,
-      "source": "fantasy_pros",
-      "source_key": "611655",
-      "story_id": "nfl|6806|fantasy_pros|611655|1790828732827",
-      "title": "J.K. Dobbins (hip) practicing in full for Week 4",
-      "url": "https://www.fantasypros.com/nfl/news/611655/jk-dobbins-hip-practicing-full-week-4.php"
-    },
-    {
-      "analysis": "Harvey was checked for a concussion in Week. He will be good to go in his complimentary role next to J.K. Dobbins. ",
-      "description": "RJ Harvey is off the injury report on Wednesday. ",
-      "metadata": {
-        "analysis": "Harvey was checked for a concussion in Week. He will be good to go in his complimentary role next to J.K. Dobbins. ",
-        "description": "RJ Harvey is off the injury report on Wednesday. ",
-        "title": "RJ Harvey (concussion) off injury report ",
-        "topic_id": "1411241627120324608",
-        "url": "https://www.fantasypros.com/nfl/news/611656/rj-harvey-concussion-off-injury-report.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "12489",
-      "player_name": "RJ Harvey",
-      "position": "RB",
-      "published": 1790828732814,
-      "source": "fantasy_pros",
-      "source_key": "611656",
-      "story_id": "nfl|12489|fantasy_pros|611656|1790828732814",
-      "title": "RJ Harvey (concussion) off injury report ",
-      "url": "https://www.fantasypros.com/nfl/news/611656/rj-harvey-concussion-off-injury-report.php"
-    },
-    {
-      "analysis": "Mitchell was listed as a limited participant in practice on Wednesday. His status will need to be monitored in practice the rest of the week. ",
-      "description": "Keaton Mitchell was wearing a walking boot on his left foot after practice.",
-      "metadata": {
-        "analysis": "Mitchell was listed as a limited participant in practice on Wednesday. His status will need to be monitored in practice the rest of the week. ",
-        "description": "Keaton Mitchell was wearing a walking boot on his left foot after practice.",
-        "title": "Keaton Mitchell in walking boot",
-        "topic_id": "1411241627061604352",
-        "url": "https://www.fantasypros.com/nfl/news/611657/keaton-mitchell-walking-boot.php"
-      },
-      "nfl_team": "LAC",
-      "player_id": "9511",
-      "player_name": "Keaton Mitchell",
-      "position": "RB",
-      "published": 1790828732800,
-      "source": "fantasy_pros",
-      "source_key": "611657",
-      "story_id": "nfl|9511|fantasy_pros|611657|1790828732800",
-      "title": "Keaton Mitchell in walking boot",
-      "url": "https://www.fantasypros.com/nfl/news/611657/keaton-mitchell-walking-boot.php"
-    },
-    {
-      "analysis": "Goedert remains likely to miss another game. ",
-      "description": "Dallas Goedert did not practice on Wednesday. ",
-      "metadata": {
-        "analysis": "Goedert remains likely to miss another game. ",
-        "description": "Dallas Goedert did not practice on Wednesday. ",
-        "title": "Dallas Goedert (knee) not practicing Wednesday ",
-        "topic_id": "1411241627023855616",
-        "url": "https://www.fantasypros.com/nfl/news/611658/dallas-goedert-knee-not-practicing-wednesday.php"
-      },
-      "nfl_team": "PHI",
-      "player_id": "5022",
-      "player_name": "Dallas Goedert",
-      "position": "TE",
-      "published": 1790828732788,
-      "source": "fantasy_pros",
-      "source_key": "611658",
-      "story_id": "nfl|5022|fantasy_pros|611658|1790828732788",
-      "title": "Dallas Goedert (knee) not practicing Wednesday ",
-      "url": "https://www.fantasypros.com/nfl/news/611658/dallas-goedert-knee-not-practicing-wednesday.php"
-    },
-    {
-      "analysis": "Smith also missed practice to begin last week. His status will need to be monitored the next couple of days. ",
-      "description": "DeVonta Smith did not practice on Wednesday.",
-      "metadata": {
-        "analysis": "Smith also missed practice to begin last week. His status will need to be monitored the next couple of days. ",
-        "description": "DeVonta Smith did not practice on Wednesday.",
-        "title": "DeVonta Smith (hamstring) misses practice Wednesday ",
-        "topic_id": "1411241626977718272",
-        "url": "https://www.fantasypros.com/nfl/news/611659/devonta-smith-hamstring-misses-practice-wednesday.php"
-      },
-      "nfl_team": "PHI",
-      "player_id": "7525",
-      "player_name": "DeVonta Smith",
-      "position": "WR",
-      "published": 1790828732780,
-      "source": "fantasy_pros",
-      "source_key": "611659",
-      "story_id": "nfl|7525|fantasy_pros|611659|1790828732780",
-      "title": "DeVonta Smith (hamstring) misses practice Wednesday ",
-      "url": "https://www.fantasypros.com/nfl/news/611659/devonta-smith-hamstring-misses-practice-wednesday.php"
     }
   ]
 }
