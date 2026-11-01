@@ -2,18 +2,42 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6402**
-- Newly captured: **15**
+- Stored stories: **6392**
+- Newly captured: **12**
 
 ## Latest news
 
-- **NEW — Elijah Mitchell** — Elijah Mitchell - Promoted from practice squad (2026-11-01T00:42:14Z)
-  - It's the second consecutive week in which Mitchell has been elevated to the Eagles' 53-man roster. He was the RB3 against the Cowboys in Week 7, and he'll reprise that depth role behind Saquon Barkley and Dameon Pierce for Sunday's game against the Commanders. Mitchell turned three carries into 11 yards and added three catches on four targets for 23 yards during Philadelphia's 38-21 loss to Dallas.
-- **NEW — Josh Jacobs** — Josh Jacobs - Additional allegations emerge (2026-10-31T23:04:23Z)
+- **NEW — Keenan Allen** — Keenan Allen a Potential Long-Term Waiver Find (2026-11-01T01:55:09Z)
+  - Source: https://www.rotoballer.com/player-news/keenan-allen-a-potential-long-term-waiver-find/1980935
+- **NEW — Caleb Douglas** — Caleb Douglas a Compelling Add Vs. Pats (2026-11-01T01:45:16Z)
+  - Source: https://www.rotoballer.com/player-news/caleb-douglas-a-compelling-add-vs-pats/1980927
+- **NEW — Chig Okonkwo** — Chig Okonkwo Gaining Momentum Ahead of Divisional Outing (2026-11-01T01:22:12Z)
+  - Source: https://www.rotoballer.com/player-news/chig-okonkwo-gaining-momentum-ahead-of-divisional-outing/1980931
+- **NEW — Khalil Shakir** — Khalil Shakir a Steady PPR Stream (2026-11-01T01:04:38Z)
+  - Source: https://www.rotoballer.com/player-news/khalil-shakir-a-steady-ppr-stream/1980929
+- **Elijah Mitchell** — Elijah Mitchell - Promoted from practice squad (2026-11-01T00:42:14Z)
+  - It's the second consecutive week in which Mitchell has been elevated to the Eagles' 53-man roster. He was the RB3 against the Cowboys in Week 7, and he'll reprise that depth role with Jaydon Blue behind Saquon Barkley for Sunday's game against the Commanders. Mitchell turned three carries into 11 yards and added three catches on four targets for 23 yards during Philadelphia's 38-21 loss to Dallas.
+- **Josh Jacobs** — Josh Jacobs - Additional allegations emerge (2026-10-31T23:04:23Z)
   - Per the initial report, "The accounts surfaced during the department's investigation into a May 23 incident at Jacobs' home," and according to the Associated Press "were included in evidence regarding Jacobs' battery case," which he ultimately pleaded no contest to. The follow-up report notes that the NFL will "review these allegations as part of its investigation, which has remained open."
-- **NEW — Rashid Shaheed** — Rashid Shaheed (knee) ruled out Monday  (2026-10-31T22:55:27.610000Z)
+- **NEW — Antonio Williams** — Antonio Williams an Intriguing Plug-and-Play Wide Receiver in Expanded Role (2026-10-31T23:02:13Z)
+  - Source: https://www.rotoballer.com/player-news/antonio-williams-an-intriguing-plug-and-play-wide-receiver-in-expanded-role/1980912
+- **NEW — Jordyn Tyson** — Jordyn Tyson a Must-Stash Receiver Despite Delayed Recovery (2026-10-31T22:57:12Z)
+  - Source: https://www.rotoballer.com/player-news/jordyn-tyson-a-must-stash-receiver-despite-delayed-recovery/1980909
+- **Rashid Shaheed** — Rashid Shaheed (knee) ruled out Monday  (2026-10-31T22:55:27.610000Z)
   - Shaheed was unable to practice all week. His absence likely won't impact the Seahawks wide receiver room for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/616869/rashid-shaheed-knee-ruled-out-monday.php
+- **NEW — Adonai Mitchell** — Adonai Mitchell Belongs on Bench After Being Overtaken by Rookie (2026-10-31T22:45:09Z)
+  - Source: https://www.rotoballer.com/player-news/adonai-mitchell-belongs-on-bench-after-being-overtaken-by-rookie/1980904
+- **NEW — Kenny Gainwell** — Kenny Gainwell Not a Reliable Flex Play Against Atlanta (2026-10-31T22:33:09Z)
+  - Source: https://www.rotoballer.com/player-news/kenny-gainwell-not-a-reliable-flex-play-against-atlanta/1980902
+- **NEW — Brian Thomas Jr.** — Brian Thomas Jr. is Risky Flex Play for Week 8 (2026-10-31T21:57:12Z)
+  - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-is-risky-flex-play-for-week-8/1980890
+- **NEW — Jaydon Blue** — Jaydon Blue Could be Desperation Flex Play (2026-10-31T21:40:14Z)
+  - Source: https://www.rotoballer.com/player-news/jaydon-blue-could-be-desperation-flex-play/1980876
+- **NEW — Chris Rodriguez Jr.** — Chris Rodriguez Jr. Could Offer Deep League Flex Value (2026-10-31T21:33:16Z)
+  - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-could-offer-deep-league-flex-value/1980871
+- **NEW — Elijah Mitchell** — Elijah Mitchell is Elevated for Week 8 (2026-10-31T21:14:09Z)
+  - Source: https://www.rotoballer.com/player-news/elijah-mitchell-is-elevated-for-week-8/1980863
 - **Zach Charbonnet** — Zach Charbonnet (knee) off injury report Monday  (2026-10-31T21:10:26.661000Z)
   - Charbonnet will be ready to make his season debut. He'll be a touchdown dependent flex play in his first game back for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/616840/zach-charbonnet-knee-off-injury-report-monday.php
@@ -54,25 +78,25 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Jack Bech** — Jack Bech (forearm) expected to be activated Sunday  (2026-10-31T19:45:25.966000Z)
   - Bech been recovering from a fractured forearm. He remains listed as questionable. 
   - Source: https://www.fantasypros.com/nfl/news/616785/jack-bech-forearm-expected-to-be-activated-sunday.php
-- **NEW — Jonathan Taylor** — Jonathan Taylor Expected to See Normal Workload in Week 8 (2026-10-31T19:04:09Z)
+- **Jonathan Taylor** — Jonathan Taylor Expected to See Normal Workload in Week 8 (2026-10-31T19:04:09Z)
   - Source: https://www.rotoballer.com/player-news/jonathan-taylor-josh-downs-expected-to-see-normal-workload-despite-trade-speculation-in-week-8-vs-jaguars/1980832
 - **Colston Loveland** — Colston Loveland - Cleared for Monday Night Football (2026-10-31T18:57:00Z)
   - Loveland popped up on Friday's injury report as a limited practice participant due to a neck injury. However, the second-year tight end was able to practice without restriction Saturday and is good to go for Monday's game. His availability for Week 8 and beyond is particularly important given that Cole Kmet (knee, IR) is out for the rest of the 2026 season. Loveland has caught 25 passes (on 37 targets) for 241 yards and two touchdowns over his last five outings.
-- **NEW — Kenny Gainwell** — Kenny Gainwell Expected to Play in Week 8 (2026-10-31T18:42:10Z)
+- **Kenny Gainwell** — Kenny Gainwell Expected to Play in Week 8 (2026-10-31T18:42:10Z)
   - Source: https://www.rotoballer.com/player-news/kenny-gainwell-expected-to-play-in-week-8/1980823
-- **NEW — Rashid Shaheed** — Rashid Shaheed Ruled Out for Week 8 (2026-10-31T18:25:34Z)
+- **Rashid Shaheed** — Rashid Shaheed Ruled Out for Week 8 (2026-10-31T18:25:34Z)
   - Source: https://www.rotoballer.com/player-news/rashid-shaheed-ruled-out-for-week-8/1980813
-- **NEW — Sam Darnold** — Sam Darnold a Potential Streaming Option in Week 8 (2026-10-31T18:21:16Z)
+- **Sam Darnold** — Sam Darnold a Potential Streaming Option in Week 8 (2026-10-31T18:21:16Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-a-potential-streaming-option-in-week-8/1980806
-- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba Receives a Boost in a Plus Matchup in Week 8 (2026-10-31T18:20:35Z)
+- **Jaxon Smith-Njigba** — Jaxon Smith-Njigba Receives a Boost in a Plus Matchup in Week 8 (2026-10-31T18:20:35Z)
   - Source: https://www.rotoballer.com/player-news/jaxon-smith-njigba-receives-a-boost-in-a-plus-matchup-in-week-8/1980804
-- **NEW — Cooper Kupp** — Cooper Kupp Could See a Boost in Usage in Week 8 (2026-10-31T18:18:13Z)
+- **Cooper Kupp** — Cooper Kupp Could See a Boost in Usage in Week 8 (2026-10-31T18:18:13Z)
   - Source: https://www.rotoballer.com/player-news/cooper-kupp-could-see-a-boost-in-usage-in-week-8/1980801
-- **NEW — Jason Myers** — Jason Myers a Strong Play in Week 8 (2026-10-31T18:15:13Z)
+- **Jason Myers** — Jason Myers a Strong Play in Week 8 (2026-10-31T18:15:13Z)
   - Source: https://www.rotoballer.com/player-news/jason-myers-a-strong-play-in-week-8/1980796
-- **NEW — Zach Charbonnet** — Zach Charbonnet a Risky Flex Play in First Game Back (2026-10-31T18:15:08Z)
+- **Zach Charbonnet** — Zach Charbonnet a Risky Flex Play in First Game Back (2026-10-31T18:15:08Z)
   - Source: https://www.rotoballer.com/player-news/zach-charbonnet-a-risky-flex-play-in-first-game-back/1980794
-- **NEW — Jadarian Price** — Jadarian Price a Low-End Flex Play in Week 8 if Active (2026-10-31T18:11:17Z)
+- **Jadarian Price** — Jadarian Price a Low-End Flex Play in Week 8 if Active (2026-10-31T18:11:17Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-a-low-end-flex-play-in-week-8/1980789
 - **Jack Bech** — Jack Bech - Expected to be activated from IR (2026-10-31T17:53:10Z)
   - Bech drew the questionable tag for Sunday's game after logging a trio of full practices during Week 8 prep. He's missed the Raiders' last four games while recovering from a fractured forearm, but it appears the second-year pro has progressed enough in his recovery to make his return. Bech will likely work in a rotational role alongside Cody White and Dont'e Thornton and behind Tre Tucker and Jalen Nailor.
@@ -197,27 +221,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/james-cook-faces-tall-task-in-week-8/1980488
 - **Trevor Lawrence** — Trevor Lawrence Among Top QB Options Against Skidding Colts (2026-10-31T11:34:41Z)
   - Source: https://www.rotoballer.com/player-news/trevor-lawrence-among-top-qb-options-against-skidding-colts/1980485
-- **Kyle Pitts Sr.** — Kyle Pitts Sr. Carries Momentum into Favorable Week 8 Matchup (2026-10-31T11:30:09Z)
-  - Source: https://www.rotoballer.com/player-news/kyle-pitts-sr-carries-momentum-into-favorable-week-8-matchup/1980480
-- **Drake London** — Drake London a Reliable Target-Heavy WR1 Against Bucs (2026-10-31T11:26:09Z)
-  - Source: https://www.rotoballer.com/player-news/drake-london-a-reliable-target-heavy-wr1-against-bucs/1980477
-- **Michael Wilson** — Michael Wilson's Volume Has Been Slipping Lately (2026-10-31T11:23:46Z)
-  - Source: https://www.rotoballer.com/player-news/michael-wilsons-volume-has-been-slipping-lately/1980475
-- **Josh Allen** — Josh Allen Faces Vulnerable Ravens Pass Defense (2026-10-31T11:22:12Z)
-  - Source: https://www.rotoballer.com/player-news/josh-allen-faces-vulnerable-ravens-pass-defense/1980472
-- **Carnell Tate** — Carnell Tate Expected to Return After Bye Week (2026-10-31T11:21:10Z)
-  - Source: https://www.rotoballer.com/player-news/carnell-tate-shoulder-out-sunday-expected-back-after-bye-week/1980437
-- **Javonte Williams** — Javonte Williams Looks to Continue Momentum in Matchup vs. Cardinals (2026-10-31T11:19:09Z)
-  - Source: https://www.rotoballer.com/player-news/javonte-williams-looks-to-continue-momentum-in-matchup-vs-cardinals/1980466
-- **Bijan Robinson** — Bijan Robinson an Elite Workhorse RB1 Despite Tough Matchup (2026-10-31T11:12:13Z)
-  - Source: https://www.rotoballer.com/player-news/bijan-robinson-an-elite-workhorse-rb1-despite-tough-matchup/1980450
-- **Ja'Kobi Lane** — Ja'Kobi Lane Continues to See Targets in Rookie Campaign (2026-10-31T11:10:09Z)
-  - Source: https://www.rotoballer.com/player-news/jakobi-lane-continues-to-see-targets-in-rookie-campaign/1980444
-- **Omar Cooper Jr.** — Omar Cooper Jr. has Expanding Role Heading into Week 8 (2026-10-31T11:04:37Z)
-  - Source: https://www.rotoballer.com/player-news/omar-cooper-jr-s-expanding-role-supports-wr3-start/1980435
-- **Garrett Wilson** — Garrett Wilson's Recent Target Share Adds Risk to WR2 Outlook (2026-10-31T11:04:33Z)
-  - Source: https://www.rotoballer.com/player-news/garrett-wilsons-recent-target-share-adds-risk-to-wr2-outlook/1980433
-- **Braelon Allen** — Braelon Allen Has RB2 Upside If he Makes Another Start (2026-10-31T11:01:14Z)
-  - Source: https://www.rotoballer.com/player-news/braelon-allen-has-rb2-upside-with-another-start/1980430
-- **Breece Hall** — Breece Hall Carries Conditional RB2 Value Into Favorable Matchup (2026-10-31T10:58:16Z)
-  - Source: https://www.rotoballer.com/player-news/breece-hall-carries-conditional-rb2-value-into-favorable-matchup/1980422

@@ -1,23 +1,20 @@
 {
-  "last_checked_at": "2026-11-01T01:02:04Z",
+  "last_checked_at": "2026-11-01T07:25:00Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 299,
   "new_story_ids": [
-    "nfl|12457|fantasy_pros|616295|1793223325340",
-    "nfl|12457|rotoballer|225768|1793214312000",
-    "nfl|12457|rotowire|644805|1793222617000",
-    "nfl|13286|rotoballer|226127|1793470277000",
-    "nfl|2747|rotoballer|226125|1793470513000",
-    "nfl|4039|rotoballer|226129|1793470693000",
-    "nfl|4943|rotoballer|226132|1793470876000",
-    "nfl|5850|rotowire|645234|1793487863000",
-    "nfl|6813|rotoballer|226134|1793473449000",
-    "nfl|7561|rotowire|645252|1793493734000",
-    "nfl|7567|rotoballer|226133|1793472130000",
-    "nfl|8676|fantasy_pros|616869|1793487327610",
-    "nfl|8676|rotoballer|226131|1793471134000",
-    "nfl|9488|rotoballer|226128|1793470835000",
-    "nfl|9753|rotoballer|226126|1793470508000"
+    "nfl|10219|rotoballer|226137|1793482396000",
+    "nfl|11625|rotoballer|226141|1793486709000",
+    "nfl|11631|rotoballer|226139|1793483832000",
+    "nfl|12457|rotoballer|226138|1793482814000",
+    "nfl|13281|rotoballer|226143|1793487432000",
+    "nfl|13296|rotoballer|226145|1793497516000",
+    "nfl|13301|rotoballer|226144|1793487733000",
+    "nfl|1479|rotoballer|226148|1793498109000",
+    "nfl|7561|rotoballer|226135|1793481249000",
+    "nfl|7567|rotoballer|226140|1793485989000",
+    "nfl|8134|rotoballer|226146|1793495078000",
+    "nfl|8210|rotoballer|226147|1793496132000"
   ],
   "schema_version": 1,
   "source": {
@@ -28,10 +25,90 @@
   },
   "stories": [
     {
-      "analysis": "It's the second consecutive week in which Mitchell has been elevated to the Eagles' 53-man roster. He was the RB3 against the Cowboys in Week 7, and he'll reprise that depth role behind Saquon Barkley and Dameon Pierce for Sunday's game against the Commanders. Mitchell turned three carries into 11 yards and added three catches on four targets for 23 yards during Philadelphia's 38-21 loss to Dallas.",
+      "analysis": null,
+      "description": "Indianapolis Colts wide receiver Keenan Allen is well positioned for a solid fantasy outing in this weekend's road game against the Jacksonville Jaguars. The veteran is coming off a rough three-catch, 31-yard performance his last time out against a relentless Vikings defense. It wasn't the result fantasy managers wanted, though Allen still led the team in receptions and receiving yards and tied for second in targets with three. While the North Carolina native will likely lose some looks with the return of tight end Tyler Warren, he still has room to be productive. Jacksonville has been an awful matchup for opposing ground attacks, but they've been porous on the back end, yielding the third-most passing yards per game (273.8). Additionally, it's one of the highest-scoring teams, which should put Allen in a positive game script. The 34-year-old is a worthy add for Week 8, with the potential for more if fellow wideout Josh Downs gets shipped off before the trade deadline. He's RotoBaller's PPR WR31 for the divisional faceoff.",
+      "metadata": {
+        "description": "Indianapolis Colts wide receiver Keenan Allen is well positioned for a solid fantasy outing in this weekend's road game against the Jacksonville Jaguars. The veteran is coming off a rough three-catch, 31-yard performance his last time out against a relentless Vikings defense. It wasn't the result fantasy managers wanted, though Allen still led the team in receptions and receiving yards and tied for second in targets with three. While the North Carolina native will likely lose some looks with the return of tight end Tyler Warren, he still has room to be productive. Jacksonville has been an awful matchup for opposing ground attacks, but they've been porous on the back end, yielding the third-most passing yards per game (273.8). Additionally, it's one of the highest-scoring teams, which should put Allen in a positive game script. The 34-year-old is a worthy add for Week 8, with the potential for more if fellow wideout Josh Downs gets shipped off before the trade deadline. He's RotoBaller's PPR WR31 for the divisional faceoff.",
+        "title": "Keenan Allen a Potential Long-Term Waiver Find",
+        "topic_id": "1422514644546785280",
+        "url": "https://www.rotoballer.com/player-news/keenan-allen-a-potential-long-term-waiver-find/1980935"
+      },
+      "nfl_team": "IND",
+      "player_id": "1479",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "published": 1793498109000,
+      "source": "rotoballer",
+      "source_key": "226148",
+      "story_id": "nfl|1479|rotoballer|226148|1793498109000",
+      "title": "Keenan Allen a Potential Long-Term Waiver Find",
+      "url": "https://www.rotoballer.com/player-news/keenan-allen-a-potential-long-term-waiver-find/1980935"
+    },
+    {
+      "analysis": null,
+      "description": "Miami Dolphins wide receiver Caleb Douglas is an intriguing waiver add ahead of a Week 8 home clash with the division-rival New England Patriots. Douglas returned from an ankle injury last weekend to post the first two touchdowns of his career against the Jets. The Houston, Texas native is an enticing blend of size (6-foot-4) and speed (4.39 40-yard dash), and had it on display when he gashed New York for a 63-yard catch-and-run for his second TD of the day. Unfortunately, Douglas' volume could be a problem for fantasy, as he's notched precisely two catches and three targets over his last two appearances. However, it's at least encouraging that he fell behind only teammate Malik Washington in snaps. As it stands, the 23-year-old must overcome a mostly ineffective Dolphins pass attack and his near-exclusive perimeter role to be a consistent fantasy producer. On the bright side, his athletic profile and the chance to become Miami's No. 1 pass catcher make him a compelling option. Douglas is RotoBaller's PPR WR35 for Sunday's matchup.",
+      "metadata": {
+        "description": "Miami Dolphins wide receiver Caleb Douglas is an intriguing waiver add ahead of a Week 8 home clash with the division-rival New England Patriots. Douglas returned from an ankle injury last weekend to post the first two touchdowns of his career against the Jets. The Houston, Texas native is an enticing blend of size (6-foot-4) and speed (4.39 40-yard dash), and had it on display when he gashed New York for a 63-yard catch-and-run for his second TD of the day. Unfortunately, Douglas' volume could be a problem for fantasy, as he's notched precisely two catches and three targets over his last two appearances. However, it's at least encouraging that he fell behind only teammate Malik Washington in snaps. As it stands, the 23-year-old must overcome a mostly ineffective Dolphins pass attack and his near-exclusive perimeter role to be a consistent fantasy producer. On the bright side, his athletic profile and the chance to become Miami's No. 1 pass catcher make him a compelling option. Douglas is RotoBaller's PPR WR35 for Sunday's matchup.",
+        "title": "Caleb Douglas a Compelling Add Vs. Pats",
+        "topic_id": "1422497026305716224",
+        "url": "https://www.rotoballer.com/player-news/caleb-douglas-a-compelling-add-vs-pats/1980927"
+      },
+      "nfl_team": "MIA",
+      "player_id": "13296",
+      "player_name": "Caleb Douglas",
+      "position": "WR",
+      "published": 1793497516000,
+      "source": "rotoballer",
+      "source_key": "226145",
+      "story_id": "nfl|13296|rotoballer|226145|1793497516000",
+      "title": "Caleb Douglas a Compelling Add Vs. Pats",
+      "url": "https://www.rotoballer.com/player-news/caleb-douglas-a-compelling-add-vs-pats/1980927"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders tight end Chig Okonkwo has put together two straight viable performances and could be a nice add for tight-end-needy teams coming out of his Week 7 bye. Okonkwo quietly led Washington in targets (13), receptions (11), and yards (129) in their two games prior to a week off, and should continue to see a reliable target share with wide receiver Terry McLaurin (knee) missing the remainder of the campaign. The former Tennessee Titan will have to contend with veteran wideout Stefon Diggs and rookie Antonio Williams for targets, although neither is out there on as many snaps as him. Moreover, Okonkwo appears to be developing some chemistry with quarterback Jayden Daniels, and offers nice upside in the YAC department. He'll get a boost this week against a Philadelphia Eagles defense that's currently a bottom-seven unit in the league against the pass (239.9 yards per game).",
+      "metadata": {
+        "description": "Washington Commanders tight end Chig Okonkwo has put together two straight viable performances and could be a nice add for tight-end-needy teams coming out of his Week 7 bye. Okonkwo quietly led Washington in targets (13), receptions (11), and yards (129) in their two games prior to a week off, and should continue to see a reliable target share with wide receiver Terry McLaurin (knee) missing the remainder of the campaign. The former Tennessee Titan will have to contend with veteran wideout Stefon Diggs and rookie Antonio Williams for targets, although neither is out there on as many snaps as him. Moreover, Okonkwo appears to be developing some chemistry with quarterback Jayden Daniels, and offers nice upside in the YAC department. He'll get a boost this week against a Philadelphia Eagles defense that's currently a bottom-seven unit in the league against the pass (239.9 yards per game).",
+        "title": "Chig Okonkwo Gaining Momentum Ahead of Divisional Outing",
+        "topic_id": "1422514644555173888",
+        "url": "https://www.rotoballer.com/player-news/chig-okonkwo-gaining-momentum-ahead-of-divisional-outing/1980931"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8210",
+      "player_name": "Chig Okonkwo",
+      "position": "TE",
+      "published": 1793496132000,
+      "source": "rotoballer",
+      "source_key": "226147",
+      "story_id": "nfl|8210|rotoballer|226147|1793496132000",
+      "title": "Chig Okonkwo Gaining Momentum Ahead of Divisional Outing",
+      "url": "https://www.rotoballer.com/player-news/chig-okonkwo-gaining-momentum-ahead-of-divisional-outing/1980931"
+    },
+    {
+      "analysis": null,
+      "description": "Buffalo Bills wide receiver Khalil Shakir draws interest as a reliable PPR option in deeper formats ahead of a meeting with the visiting Baltimore Ravens this weekend. Shakir has been a decent play over his last three outings, though he notched more than four catches just once in that span. Numbers aside, the 26-year-old's target volume has been fine for fantasy, and he's typically in the mix for most of Buffalo's snaps as the team does well to move him around the formation. Teammate DJ Moore's (shoulder) potential return dampens Shakir's upside, but the latter could still have a nice role - particularly in a game with a projected 54.5-point over/under. Shakir may not be the high-volume asset he was in recent seasons, but a favorable matchup and uncertainty around Moore's game status keep him on the fantasy radar for at least one more go. The fifth-year pro is a fine deep-league stream as RotoBaller's PPR WR45.",
+      "metadata": {
+        "description": "Buffalo Bills wide receiver Khalil Shakir draws interest as a reliable PPR option in deeper formats ahead of a meeting with the visiting Baltimore Ravens this weekend. Shakir has been a decent play over his last three outings, though he notched more than four catches just once in that span. Numbers aside, the 26-year-old's target volume has been fine for fantasy, and he's typically in the mix for most of Buffalo's snaps as the team does well to move him around the formation. Teammate DJ Moore's (shoulder) potential return dampens Shakir's upside, but the latter could still have a nice role - particularly in a game with a projected 54.5-point over/under. Shakir may not be the high-volume asset he was in recent seasons, but a favorable matchup and uncertainty around Moore's game status keep him on the fantasy radar for at least one more go. The fifth-year pro is a fine deep-league stream as RotoBaller's PPR WR45.",
+        "title": "Khalil Shakir a Steady PPR Stream",
+        "topic_id": "1422514644605505536",
+        "url": "https://www.rotoballer.com/player-news/khalil-shakir-a-steady-ppr-stream/1980929"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8134",
+      "player_name": "Khalil Shakir",
+      "position": "WR",
+      "published": 1793495078000,
+      "source": "rotoballer",
+      "source_key": "226146",
+      "story_id": "nfl|8134|rotoballer|226146|1793495078000",
+      "title": "Khalil Shakir a Steady PPR Stream",
+      "url": "https://www.rotoballer.com/player-news/khalil-shakir-a-steady-ppr-stream/1980929"
+    },
+    {
+      "analysis": "It's the second consecutive week in which Mitchell has been elevated to the Eagles' 53-man roster. He was the RB3 against the Cowboys in Week 7, and he'll reprise that depth role with Jaydon Blue behind Saquon Barkley for Sunday's game against the Commanders. Mitchell turned three carries into 11 yards and added three catches on four targets for 23 yards during Philadelphia's 38-21 loss to Dallas.",
       "description": "The Eagles elevated Mitchell from the practice squad to the active roster Saturday.",
       "metadata": {
-        "analysis": "It's the second consecutive week in which Mitchell has been elevated to the Eagles' 53-man roster. He was the RB3 against the Cowboys in Week 7, and he'll reprise that depth role behind Saquon Barkley and Dameon Pierce for Sunday's game against the Commanders. Mitchell turned three carries into 11 yards and added three catches on four targets for 23 yards during Philadelphia's 38-21 loss to Dallas.",
+        "analysis": "It's the second consecutive week in which Mitchell has been elevated to the Eagles' 53-man roster. He was the RB3 against the Cowboys in Week 7, and he'll reprise that depth role with Jaydon Blue behind Saquon Barkley for Sunday's game against the Commanders. Mitchell turned three carries into 11 yards and added three catches on four targets for 23 yards during Philadelphia's 38-21 loss to Dallas.",
         "description": "The Eagles elevated Mitchell from the practice squad to the active roster Saturday.",
         "title": "Elijah Mitchell - Promoted from practice squad",
         "topic_id": "1422420261898027009"
@@ -68,6 +145,46 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Antonio Williams should continue to occupy a substantial role in Week 8 against the Philadelphia Eagles, which makes him an intriguing streamer in fantasy football. The Commanders recently placed Terry McLaurin (knee) on injured reserve, leaving Williams in the No. 2 receiver role behind Stefon Diggs. McLaurin is out for the season, so Williams has a chance to solidify his rest-of-season outlook if he is productive on Sunday against Philadelphia. Williams had a season-high 69% snap share and eight targets in the last game that McLaurin missed, so we know that the rookie from Clemson will continue to handle a large workload this week and beyond. Managers can absolutely justify adding Williams off the waiver wire and immediately plugging him into their fantasy football starting lineup for Week 8. As it stands, he has jumped all the way up to WR33 in RotoBaller's latest half-PPR rankings for this week.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Antonio Williams should continue to occupy a substantial role in Week 8 against the Philadelphia Eagles, which makes him an intriguing streamer in fantasy football. The Commanders recently placed Terry McLaurin (knee) on injured reserve, leaving Williams in the No. 2 receiver role behind Stefon Diggs. McLaurin is out for the season, so Williams has a chance to solidify his rest-of-season outlook if he is productive on Sunday against Philadelphia. Williams had a season-high 69% snap share and eight targets in the last game that McLaurin missed, so we know that the rookie from Clemson will continue to handle a large workload this week and beyond. Managers can absolutely justify adding Williams off the waiver wire and immediately plugging him into their fantasy football starting lineup for Week 8. As it stands, he has jumped all the way up to WR33 in RotoBaller's latest half-PPR rankings for this week.",
+        "title": "Antonio Williams an Intriguing Plug-and-Play Wide Receiver in Expanded Role",
+        "topic_id": "1422456755773784064",
+        "url": "https://www.rotoballer.com/player-news/antonio-williams-an-intriguing-plug-and-play-wide-receiver-in-expanded-role/1980912"
+      },
+      "nfl_team": "WAS",
+      "player_id": "13301",
+      "player_name": "Antonio Williams",
+      "position": "WR",
+      "published": 1793487733000,
+      "source": "rotoballer",
+      "source_key": "226144",
+      "story_id": "nfl|13301|rotoballer|226144|1793487733000",
+      "title": "Antonio Williams an Intriguing Plug-and-Play Wide Receiver in Expanded Role",
+      "url": "https://www.rotoballer.com/player-news/antonio-williams-an-intriguing-plug-and-play-wide-receiver-in-expanded-role/1980912"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Jordyn Tyson (hamstring) should continue to be stashed in all fantasy leagues, even though rostering him has required more patience than expected. Tyson opened the season on injured reserve, and it was initially reported that he would return around the end of September or the start of October. Instead, we're turning the calendar to November, and Tyson is still on IR. Stashing Tyson has definitely required more patience, but that patience should pay off when he does eventually make his NFL debut. The first-round pick is viewed as one of the most intriguing rookies in dynasty leagues, and he'll have similar upside in redraft fantasy football once he's activated. Presumably, Tyson will step into the No. 2 receiver role behind Chris Olave. The No. 2 receiver role in a productive, pass-heavy offense like New Orleans should make him a fringe WR2/WR3 on a weekly basis. There's no reason a player like that should be on the waiver wire, even in shallower leagues. Managers should quickly add and stash Tyson wherever he's available.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Jordyn Tyson (hamstring) should continue to be stashed in all fantasy leagues, even though rostering him has required more patience than expected. Tyson opened the season on injured reserve, and it was initially reported that he would return around the end of September or the start of October. Instead, we're turning the calendar to November, and Tyson is still on IR. Stashing Tyson has definitely required more patience, but that patience should pay off when he does eventually make his NFL debut. The first-round pick is viewed as one of the most intriguing rookies in dynasty leagues, and he'll have similar upside in redraft fantasy football once he's activated. Presumably, Tyson will step into the No. 2 receiver role behind Chris Olave. The No. 2 receiver role in a productive, pass-heavy offense like New Orleans should make him a fringe WR2/WR3 on a weekly basis. There's no reason a player like that should be on the waiver wire, even in shallower leagues. Managers should quickly add and stash Tyson wherever he's available.",
+        "title": "Jordyn Tyson a Must-Stash Receiver Despite Delayed Recovery",
+        "topic_id": "1422455498736685056",
+        "url": "https://www.rotoballer.com/player-news/jordyn-tyson-a-must-stash-receiver-despite-delayed-recovery/1980909"
+      },
+      "nfl_team": "NO",
+      "player_id": "13281",
+      "player_name": "Jordyn Tyson",
+      "position": "WR",
+      "published": 1793487432000,
+      "source": "rotoballer",
+      "source_key": "226143",
+      "story_id": "nfl|13281|rotoballer|226143|1793487432000",
+      "title": "Jordyn Tyson a Must-Stash Receiver Despite Delayed Recovery",
+      "url": "https://www.rotoballer.com/player-news/jordyn-tyson-a-must-stash-receiver-despite-delayed-recovery/1980909"
+    },
+    {
       "analysis": "Shaheed was unable to practice all week. His absence likely won't impact the Seahawks wide receiver room for fantasy managers. ",
       "description": "Rashid Shaheed has been ruled out for Monday's game against the Bears. ",
       "metadata": {
@@ -87,6 +204,126 @@
       "story_id": "nfl|8676|fantasy_pros|616869|1793487327610",
       "title": "Rashid Shaheed (knee) ruled out Monday ",
       "url": "https://www.fantasypros.com/nfl/news/616869/rashid-shaheed-knee-ruled-out-monday.php"
+    },
+    {
+      "analysis": null,
+      "description": "New York Jets wide receiver Adonai Mitchell can be benched in most fantasy leagues ahead of his Week 8 matchup against the Las Vegas Raiders. Mitchell finished last season strong and opened the 2026 campaign on a positive note, but a four-week absence set him back significantly. He returned to action in Week 7 and caught zero of his three targets on a 44% snap share. Evidently, Mitchell had the No. 2 receiver role before his injury, but he has since fallen to No. 3 on the depth chart after being overtaken by rookie Omar Cooper Jr. Now, Cooper and Garrett Wilson are the only Jets receivers who can be started with confidence, while Mitchell is a much riskier play with a very low floor. Mitchell has a favorable matchup against the Raiders this week, but we'd prefer to fill our flex spot with someone who isn't the No. 3 receiver in a bad offense.",
+      "metadata": {
+        "description": "New York Jets wide receiver Adonai Mitchell can be benched in most fantasy leagues ahead of his Week 8 matchup against the Las Vegas Raiders. Mitchell finished last season strong and opened the 2026 campaign on a positive note, but a four-week absence set him back significantly. He returned to action in Week 7 and caught zero of his three targets on a 44% snap share. Evidently, Mitchell had the No. 2 receiver role before his injury, but he has since fallen to No. 3 on the depth chart after being overtaken by rookie Omar Cooper Jr. Now, Cooper and Garrett Wilson are the only Jets receivers who can be started with confidence, while Mitchell is a much riskier play with a very low floor. Mitchell has a favorable matchup against the Raiders this week, but we'd prefer to fill our flex spot with someone who isn't the No. 3 receiver in a bad offense.",
+        "title": "Adonai Mitchell Belongs on Bench After Being Overtaken by Rookie",
+        "topic_id": "1422452980292022272",
+        "url": "https://www.rotoballer.com/player-news/adonai-mitchell-belongs-on-bench-after-being-overtaken-by-rookie/1980904"
+      },
+      "nfl_team": "NYJ",
+      "player_id": "11625",
+      "player_name": "Adonai Mitchell",
+      "position": "WR",
+      "published": 1793486709000,
+      "source": "rotoballer",
+      "source_key": "226141",
+      "story_id": "nfl|11625|rotoballer|226141|1793486709000",
+      "title": "Adonai Mitchell Belongs on Bench After Being Overtaken by Rookie",
+      "url": "https://www.rotoballer.com/player-news/adonai-mitchell-belongs-on-bench-after-being-overtaken-by-rookie/1980904"
+    },
+    {
+      "analysis": null,
+      "description": "Tampa Bay Buccaneers running back Kenny Gainwell (hip) accrued some garbage-time fantasy points last week, but we don't expect that to happen again in Week 8 against the Atlanta Falcons. On the injury front, it's worth noting that Gainwell is listed as questionable but expected to play. Last week was the first time this season that Gainwell had more than five carries or more than 20 rushing yards. It was also just his second game with more than 5.8 fantasy points in PPR leagues. For the most part, Gainwell has spent this season in a clear backup role behind workhorse ball-carrier Bucky Irving. We expect that trend to continue in Week 8, with Gainwell's only clear path to production being a positive game script environment in garbage time. For now, the 27-year-old is best viewed as a handcuff, so he's still worth stashing on the bench for fantasy managers who also have Irving on their roster. However, he shouldn't find his way into the starting lineup in leagues with 14 or fewer teams.",
+      "metadata": {
+        "description": "Tampa Bay Buccaneers running back Kenny Gainwell (hip) accrued some garbage-time fantasy points last week, but we don't expect that to happen again in Week 8 against the Atlanta Falcons. On the injury front, it's worth noting that Gainwell is listed as questionable but expected to play. Last week was the first time this season that Gainwell had more than five carries or more than 20 rushing yards. It was also just his second game with more than 5.8 fantasy points in PPR leagues. For the most part, Gainwell has spent this season in a clear backup role behind workhorse ball-carrier Bucky Irving. We expect that trend to continue in Week 8, with Gainwell's only clear path to production being a positive game script environment in garbage time. For now, the 27-year-old is best viewed as a handcuff, so he's still worth stashing on the bench for fantasy managers who also have Irving on their roster. However, he shouldn't find his way into the starting lineup in leagues with 14 or fewer teams.",
+        "title": "Kenny Gainwell Not a Reliable Flex Play Against Atlanta",
+        "topic_id": "1422449205049327616",
+        "url": "https://www.rotoballer.com/player-news/kenny-gainwell-not-a-reliable-flex-play-against-atlanta/1980902"
+      },
+      "nfl_team": "TB",
+      "player_id": "7567",
+      "player_name": "Kenny Gainwell",
+      "position": "RB",
+      "published": 1793485989000,
+      "source": "rotoballer",
+      "source_key": "226140",
+      "story_id": "nfl|7567|rotoballer|226140|1793485989000",
+      "title": "Kenny Gainwell Not a Reliable Flex Play Against Atlanta",
+      "url": "https://www.rotoballer.com/player-news/kenny-gainwell-not-a-reliable-flex-play-against-atlanta/1980902"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars wide receiver Brian Thomas Jr. has been a non-factor in this offense for weeks. He hasn't recorded a reception since Week 4 against the Cincinnati Bengals. His role has been reduced in recent weeks and it's unclear how much he's going to be involved in the gameplan going forward. The good news is that Thomas does have a plus matchup against the Indianapolis Colts in Week 8. The Colts defense ranks 25th in the league in passing yards allowed per game. The Jaguars should be able to move the ball through the air, but it's unclear if Thomas is going to be targeted. The 24-year-old has seen a total of five targets over his last two games. Fantasy managers should view him as a desperation flex play for Week 8.",
+      "metadata": {
+        "description": "Jacksonville Jaguars wide receiver Brian Thomas Jr. has been a non-factor in this offense for weeks. He hasn't recorded a reception since Week 4 against the Cincinnati Bengals. His role has been reduced in recent weeks and it's unclear how much he's going to be involved in the gameplan going forward. The good news is that Thomas does have a plus matchup against the Indianapolis Colts in Week 8. The Colts defense ranks 25th in the league in passing yards allowed per game. The Jaguars should be able to move the ball through the air, but it's unclear if Thomas is going to be targeted. The 24-year-old has seen a total of five targets over his last two games. Fantasy managers should view him as a desperation flex play for Week 8.",
+        "title": "Brian Thomas Jr. is Risky Flex Play for Week 8",
+        "topic_id": "1422440395563872256",
+        "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-is-risky-flex-play-for-week-8/1980890"
+      },
+      "nfl_team": "JAX",
+      "player_id": "11631",
+      "player_name": "Brian Thomas Jr.",
+      "position": "WR",
+      "published": 1793483832000,
+      "source": "rotoballer",
+      "source_key": "226139",
+      "story_id": "nfl|11631|rotoballer|226139|1793483832000",
+      "title": "Brian Thomas Jr. is Risky Flex Play for Week 8",
+      "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-is-risky-flex-play-for-week-8/1980890"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles running back Jaydon Blue was recently signed to the 53-man roster from the practice squad. Given all the injuries in the backfield, Blue is expected to play a depth role behind lead back Saquon Barkley this weekend. Blue hasn't played this season, but he has a good chance of getting in his first game action during the Week 8 matchup against the Washington Commanders. He'll likely need to battle with Elijah Mitchell for carries behind Barkley. It's unclear how much of the field Blue is actually going to see this weekend. He'll draw a decent matchup against a Commanders defense that ranks 14th in the league against the run. Blue is a deep league stash option because he could be the next man up if Barkley ever goes down. However, he's nothing more than a desperation deep league play for Week 8.",
+      "metadata": {
+        "description": "Philadelphia Eagles running back Jaydon Blue was recently signed to the 53-man roster from the practice squad. Given all the injuries in the backfield, Blue is expected to play a depth role behind lead back Saquon Barkley this weekend. Blue hasn't played this season, but he has a good chance of getting in his first game action during the Week 8 matchup against the Washington Commanders. He'll likely need to battle with Elijah Mitchell for carries behind Barkley. It's unclear how much of the field Blue is actually going to see this weekend. He'll draw a decent matchup against a Commanders defense that ranks 14th in the league against the run. Blue is a deep league stash option because he could be the next man up if Barkley ever goes down. However, he's nothing more than a desperation deep league play for Week 8.",
+        "title": "Jaydon Blue Could be Desperation Flex Play",
+        "topic_id": "1422436620392501248",
+        "url": "https://www.rotoballer.com/player-news/jaydon-blue-could-be-desperation-flex-play/1980876"
+      },
+      "nfl_team": "PHI",
+      "player_id": "12457",
+      "player_name": "Jaydon Blue",
+      "position": "RB",
+      "published": 1793482814000,
+      "source": "rotoballer",
+      "source_key": "226138",
+      "story_id": "nfl|12457|rotoballer|226138|1793482814000",
+      "title": "Jaydon Blue Could be Desperation Flex Play",
+      "url": "https://www.rotoballer.com/player-news/jaydon-blue-could-be-desperation-flex-play/1980876"
+    },
+    {
+      "analysis": null,
+      "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. is looking to build off arguably his best performance on the ground in Week 6. Rodriguez carried the ball 11 times for a season-high 55 yards during the Week 6 loss to the Houston Texans. The 27-year-old surprisingly almost evenly split the carries with lead back Bhayshul Tuten during that game. It remains to be seen if Rodriguez will once again see double-digit carries or if that was a fluke. He'll draw a favorable matchup against the Indianapolis Colts defense in Week 8. A defensive unit that ranks 22nd in the league, allowing 124.4 rushing yards per game. Rodriguez has been mostly a touchdown-dependent option throughout the season. He should be treated as a low-end flex option in deep leagues for this Week 8 contest.",
+      "metadata": {
+        "description": "Jacksonville Jaguars running back Chris Rodriguez Jr. is looking to build off arguably his best performance on the ground in Week 6. Rodriguez carried the ball 11 times for a season-high 55 yards during the Week 6 loss to the Houston Texans. The 27-year-old surprisingly almost evenly split the carries with lead back Bhayshul Tuten during that game. It remains to be seen if Rodriguez will once again see double-digit carries or if that was a fluke. He'll draw a favorable matchup against the Indianapolis Colts defense in Week 8. A defensive unit that ranks 22nd in the league, allowing 124.4 rushing yards per game. Rodriguez has been mostly a touchdown-dependent option throughout the season. He should be treated as a low-end flex option in deep leagues for this Week 8 contest.",
+        "title": "Chris Rodriguez Jr. Could Offer Deep League Flex Value",
+        "topic_id": "1422432845527289856",
+        "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-could-offer-deep-league-flex-value/1980871"
+      },
+      "nfl_team": "JAX",
+      "player_id": "10219",
+      "player_name": "Chris Rodriguez Jr.",
+      "position": "RB",
+      "published": 1793482396000,
+      "source": "rotoballer",
+      "source_key": "226137",
+      "story_id": "nfl|10219|rotoballer|226137|1793482396000",
+      "title": "Chris Rodriguez Jr. Could Offer Deep League Flex Value",
+      "url": "https://www.rotoballer.com/player-news/chris-rodriguez-jr-could-offer-deep-league-flex-value/1980871"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles running back Elijah Mitchell has been elevated from the practice squad ahead of the Week 8 matchup against the Washington Commanders. This is the second week in a row that Mitchell has been elevated to the active roster. Last week, Mitchell carried the ball three times for 11 yards and hauled in three receptions for 23 yards through the air. Saquon Barkley is healthy, so Mitchell will serve as depth in the backfield this weekend. Jaydon Blue is also on the active roster, which means Mitchell could have a minimal role. The Commanders rank 14th in the league, allowing 100.5 rushing yards per game. Fantasy managers should consider Mitchell a bench stash, but he's not worth starting in Week 8.",
+      "metadata": {
+        "description": "Philadelphia Eagles running back Elijah Mitchell has been elevated from the practice squad ahead of the Week 8 matchup against the Washington Commanders. This is the second week in a row that Mitchell has been elevated to the active roster. Last week, Mitchell carried the ball three times for 11 yards and hauled in three receptions for 23 yards through the air. Saquon Barkley is healthy, so Mitchell will serve as depth in the backfield this weekend. Jaydon Blue is also on the active roster, which means Mitchell could have a minimal role. The Commanders rank 14th in the league, allowing 100.5 rushing yards per game. Fantasy managers should consider Mitchell a bench stash, but he's not worth starting in Week 8.",
+        "title": "Elijah Mitchell is Elevated for Week 8",
+        "topic_id": "1422429069617664000",
+        "url": "https://www.rotoballer.com/player-news/elijah-mitchell-is-elevated-for-week-8/1980863"
+      },
+      "nfl_team": "PHI",
+      "player_id": "7561",
+      "player_name": "Elijah Mitchell",
+      "position": "RB",
+      "published": 1793481249000,
+      "source": "rotoballer",
+      "source_key": "226135",
+      "story_id": "nfl|7561|rotoballer|226135|1793481249000",
+      "title": "Elijah Mitchell is Elevated for Week 8",
+      "url": "https://www.rotoballer.com/player-news/elijah-mitchell-is-elevated-for-week-8/1980863"
     },
     {
       "analysis": "Charbonnet will be ready to make his season debut. He'll be a touchdown dependent flex play in his first game back for fantasy managers. ",
@@ -129372,456 +129609,6 @@
       "story_id": "nfl|11630|rotoballer|222900|1790932196000",
       "title": "Roman Wilson Produces Despite Limited Role Against Browns",
       "url": "https://www.rotoballer.com/player-news/roman-wilson-produces-despite-limited-role-against-browns/1955957"
-    },
-    {
-      "analysis": "Freiermuth and fellow tight end Darnell Washington each had three catches and a touchdown on five targets, as the two continued in a pretty even timeshare at the position. Freiermuth's scoring grab was particularly timely, as it came with 1:42 remaining and put the Steelers within two points of knotting the game up at 24-24. Freiermuth has multiple receptions in every game this season and a pair of touchdown catches, and he should remain in a similar role when Pittsburgh returns to action in a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
-      "description": "Freiermuth brought in three of five targets for 17 yards and a touchdown in the Steelers' 27-24 loss to the Browns on Thursday.",
-      "metadata": {
-        "analysis": "Freiermuth and fellow tight end Darnell Washington each had three catches and a touchdown on five targets, as the two continued in a pretty even timeshare at the position. Freiermuth's scoring grab was particularly timely, as it came with 1:42 remaining and put the Steelers within two points of knotting the game up at 24-24. Freiermuth has multiple receptions in every game this season and a pair of touchdown catches, and he should remain in a similar role when Pittsburgh returns to action in a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
-        "description": "Freiermuth brought in three of five targets for 17 yards and a touchdown in the Steelers' 27-24 loss to the Browns on Thursday.",
-        "title": "Pat Freiermuth - Gets into end zone Thursday",
-        "topic_id": "1411619055529381888"
-      },
-      "nfl_team": "PIT",
-      "player_id": "7600",
-      "player_name": "Pat Freiermuth",
-      "position": "TE",
-      "published": 1790918324000,
-      "source": "rotowire",
-      "source_key": "640275",
-      "story_id": "nfl|7600|rotowire|640275|1790918324000",
-      "title": "Pat Freiermuth - Gets into end zone Thursday",
-      "url": null
-    },
-    {
-      "analysis": "Concepcion and fellow rookie Denzel Boston continued to spark the Browns' air attack Thursday, and the former finished second in receptions and receiving yards while setting the pace in targets. Concepcion's catch and yardage totals also qualified as new career highs, and the productive night served as a welcome bounce-back effort after the rookie first-round pick had been held to 2-9-0 receiving line in the Week 3 win over the Panthers. He should continue to garner plenty of Deshaun Watson's attention in a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
-      "description": "Concepcion secured five of eight targets for 64 yards and returned two punts for 10 yards in the Browns' 27-24 win over the Steelers on Thursday.",
-      "metadata": {
-        "analysis": "Concepcion and fellow rookie Denzel Boston continued to spark the Browns' air attack Thursday, and the former finished second in receptions and receiving yards while setting the pace in targets. Concepcion's catch and yardage totals also qualified as new career highs, and the productive night served as a welcome bounce-back effort after the rookie first-round pick had been held to 2-9-0 receiving line in the Week 3 win over the Panthers. He should continue to garner plenty of Deshaun Watson's attention in a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
-        "description": "Concepcion secured five of eight targets for 64 yards and returned two punts for 10 yards in the Browns' 27-24 win over the Steelers on Thursday.",
-        "title": "KC Concepcion - Remains productive in Week 4 win",
-        "topic_id": "1411616537621614592"
-      },
-      "nfl_team": "CLE",
-      "player_id": "13298",
-      "player_name": "KC Concepcion",
-      "position": "WR",
-      "published": 1790917806000,
-      "source": "rotowire",
-      "source_key": "640274",
-      "story_id": "nfl|13298|rotowire|640274|1790917806000",
-      "title": "KC Concepcion - Remains productive in Week 4 win",
-      "url": null
-    },
-    {
-      "analysis": "The impressive start to Boston's NFL career continued Thursday, with the rookie second-round pick leading the Browns in receiving yards and tying for runner-up status with Quinshon Judkins in targets. The bulk of Boston's production came on an impressive 60-yard reception to kick off an early second-quarter possession that culminated in a Judkins two-yard touchdown run. Boston has quickly amassed a 13-284-2 line on 22 targets through his first four career games, affording him plenty of momentum heading into a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
-      "description": "Boston brought in four of seven targets for 89 yards in the Browns' 27-24 win over the Steelers on Thursday.",
-      "metadata": {
-        "analysis": "The impressive start to Boston's NFL career continued Thursday, with the rookie second-round pick leading the Browns in receiving yards and tying for runner-up status with Quinshon Judkins in targets. The bulk of Boston's production came on an impressive 60-yard reception to kick off an early second-quarter possession that culminated in a Judkins two-yard touchdown run. Boston has quickly amassed a 13-284-2 line on 22 targets through his first four career games, affording him plenty of momentum heading into a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
-        "description": "Boston brought in four of seven targets for 89 yards in the Browns' 27-24 win over the Steelers on Thursday.",
-        "title": "Denzel Boston - Continues thriving in Week 4 win",
-        "topic_id": "1411615279611457536"
-      },
-      "nfl_team": "CLE",
-      "player_id": "13346",
-      "player_name": "Denzel Boston",
-      "position": "WR",
-      "published": 1790917614000,
-      "source": "rotowire",
-      "source_key": "640273",
-      "story_id": "nfl|13346|rotowire|640273|1790917614000",
-      "title": "Denzel Boston - Continues thriving in Week 4 win",
-      "url": null
-    },
-    {
-      "analysis": "After surging over the last pair of contests, Fannin had a quiet night somewhat reminiscent of his Week 1 performance against the Jaguars. However, the second-year tight end still rewarded fantasy managers by crossing the goal line for the third time in the last two games on a two-yard catch late in the first half. Fannin does have at least five targets in three straight games, and he should have a good chance of continuing to serve as a key target for a resurgent Deshaun Watson in a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
-      "description": "Fannin secured three of five targets for 27 yards and a touchdown in the Browns' 27-24 win over the Steelers on Thursday.",
-      "metadata": {
-        "analysis": "After surging over the last pair of contests, Fannin had a quiet night somewhat reminiscent of his Week 1 performance against the Jaguars. However, the second-year tight end still rewarded fantasy managers by crossing the goal line for the third time in the last two games on a two-yard catch late in the first half. Fannin does have at least five targets in three straight games, and he should have a good chance of continuing to serve as a key target for a resurgent Deshaun Watson in a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
-        "description": "Fannin secured three of five targets for 27 yards and a touchdown in the Browns' 27-24 win over the Steelers on Thursday.",
-        "title": "Harold Fannin - Salvages night with TD",
-        "topic_id": "1411614021882294272"
-      },
-      "nfl_team": "CLE",
-      "player_id": "12506",
-      "player_name": "Harold Fannin",
-      "position": "TE",
-      "published": 1790917200000,
-      "source": "rotowire",
-      "source_key": "640272",
-      "story_id": "nfl|12506|rotowire|640272|1790917200000",
-      "title": "Harold Fannin - Salvages night with TD",
-      "url": null
-    },
-    {
-      "analysis": "Watson's rather unlikely comeback season continued in the primetime spotlight Thursday against a division rival, with the embattled veteran ultimately besting future Hall of Famer Aaron Rodgers. Watson's late third-quarter fumble on a sack by T.J. Watt didn't result in any Steelers points, but his interception on Cleveland's ensuing possession on a deep pass intended for Denzel Boston did lead to Pittsburgh's penultimate touchdown of the night. Watson was otherwise impressive, recording his highest passing yardage total since Week 3 of the 2023 season. Watson connected with seven different targets overall, and his one scoring strike went to Harold Fannin from two yards out late in the second quarter. Watson now boasts a 69.6 percent completion rate -- his highest since the 2020 season in Houston -- and a 6:2 TD:INT alongside 127 rushing yards heading into a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
-      "description": "Watson completed 24 of 33 passes for 268 yards with one touchdown and one interception while rushing seven times for 22 yards in the Browns' 27-24 win over the Steelers on Thursday. He also committed two fumbles, losing one.",
-      "metadata": {
-        "analysis": "Watson's rather unlikely comeback season continued in the primetime spotlight Thursday against a division rival, with the embattled veteran ultimately besting future Hall of Famer Aaron Rodgers. Watson's late third-quarter fumble on a sack by T.J. Watt didn't result in any Steelers points, but his interception on Cleveland's ensuing possession on a deep pass intended for Denzel Boston did lead to Pittsburgh's penultimate touchdown of the night. Watson was otherwise impressive, recording his highest passing yardage total since Week 3 of the 2023 season. Watson connected with seven different targets overall, and his one scoring strike went to Harold Fannin from two yards out late in the second quarter. Watson now boasts a 69.6 percent completion rate -- his highest since the 2020 season in Houston -- and a 6:2 TD:INT alongside 127 rushing yards heading into a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
-        "description": "Watson completed 24 of 33 passes for 268 yards with one touchdown and one interception while rushing seven times for 22 yards in the Browns' 27-24 win over the Steelers on Thursday. He also committed two fumbles, losing one.",
-        "title": "Deshaun Watson - Continues ascent with third straight win",
-        "topic_id": "1411612763146539008"
-      },
-      "nfl_team": "CLE",
-      "player_id": "4017",
-      "player_name": "Deshaun Watson",
-      "position": "QB",
-      "published": 1790917001000,
-      "source": "rotowire",
-      "source_key": "640271",
-      "story_id": "nfl|4017|rotowire|640271|1790917001000",
-      "title": "Deshaun Watson - Continues ascent with third straight win",
-      "url": null
-    },
-    {
-      "analysis": "Rodgers' final line underscores the type of uneven night it was for the future Hall of Famer and the Steelers offense as a whole. He got started on the right foot by leading a marathon 17-play, 78-yard drive that consumed 9:48 on Pittsburgh's opening drive, one he capped off with a 12-yard touchdown shovel pass to Roman Wilson. Rodgers would go on to add 21- and three-yard scoring tosses in the fourth quarter to tight ends Darnell Washington and Pat Freiermuth, respectively, the latter which the 22-year veteran followed up with a game-tying two-point conversion quarterback sneak. However, Rodgers' one non-Hail Mary interception in the second quarter, which was largely the result of his arm being hit as he threw, did lead to a Cleveland touchdown. Rodgers, who now has consecutive three-touchdown tallies, will look to regroup over the extended time between Thursday and a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
-      "description": "Rodgers completed 22 of 40 passes for 299 yards with three touchdowns and two interceptions in the Steelers' 27-24 loss to the Browns on Thursday. He also ran in a game-tying two-point conversion.",
-      "metadata": {
-        "analysis": "Rodgers' final line underscores the type of uneven night it was for the future Hall of Famer and the Steelers offense as a whole. He got started on the right foot by leading a marathon 17-play, 78-yard drive that consumed 9:48 on Pittsburgh's opening drive, one he capped off with a 12-yard touchdown shovel pass to Roman Wilson. Rodgers would go on to add 21- and three-yard scoring tosses in the fourth quarter to tight ends Darnell Washington and Pat Freiermuth, respectively, the latter which the 22-year veteran followed up with a game-tying two-point conversion quarterback sneak. However, Rodgers' one non-Hail Mary interception in the second quarter, which was largely the result of his arm being hit as he threw, did lead to a Cleveland touchdown. Rodgers, who now has consecutive three-touchdown tallies, will look to regroup over the extended time between Thursday and a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
-        "description": "Rodgers completed 22 of 40 passes for 299 yards with three touchdowns and two interceptions in the Steelers' 27-24 loss to the Browns on Thursday. He also ran in a game-tying two-point conversion.",
-        "title": "Aaron Rodgers - Mixed performance in Week 4 loss",
-        "topic_id": "1411611503861223424"
-      },
-      "nfl_team": "PIT",
-      "player_id": "96",
-      "player_name": "Aaron Rodgers",
-      "position": "QB",
-      "published": 1790916505000,
-      "source": "rotowire",
-      "source_key": "640270",
-      "story_id": "nfl|96|rotowire|640270|1790916505000",
-      "title": "Aaron Rodgers - Mixed performance in Week 4 loss",
-      "url": null
-    },
-    {
-      "analysis": "Both of Boswell's FG tries came in the second quarter; he missed a 48-yarder midway through the period before making a 31-yarder just before halftime. The missed kick ended up being costly, as the Steelers lost by three points on a last-second Andre Szmyt field goal. Boswell has struggled a bit to begin the campaign, going 7-for-10 on FG attempts but making all six of his PAT tries though three games. All of his misses so far have come from at least 48 yards, so he's been reliable from shorter ranges.",
-      "description": "Boswell went 1-for-2 on field-goal attempts and converted his lone point-after try in a loss to the Browns on Thursday Night Football.",
-      "metadata": {
-        "analysis": "Both of Boswell's FG tries came in the second quarter; he missed a 48-yarder midway through the period before making a 31-yarder just before halftime. The missed kick ended up being costly, as the Steelers lost by three points on a last-second Andre Szmyt field goal. Boswell has struggled a bit to begin the campaign, going 7-for-10 on FG attempts but making all six of his PAT tries though three games. All of his misses so far have come from at least 48 yards, so he's been reliable from shorter ranges.",
-        "description": "Boswell went 1-for-2 on field-goal attempts and converted his lone point-after try in a loss to the Browns on Thursday Night Football.",
-        "title": "Chris Boswell - Misses one FG in Week 4 loss",
-        "topic_id": "1411608987736031232"
-      },
-      "nfl_team": "PIT",
-      "player_id": "1945",
-      "player_name": "Chris Boswell",
-      "position": "K",
-      "published": 1790916194000,
-      "source": "rotowire",
-      "source_key": "640269",
-      "story_id": "nfl|1945|rotowire|640269|1790916194000",
-      "title": "Chris Boswell - Misses one FG in Week 4 loss",
-      "url": null
-    },
-    {
-      "analysis": "Metcalf led the Steelers across the stat sheet in receptions, receiving yards and targets, and his production in the first two categories also qualified as new season highs. The veteran wideout started slowly, but he came on with catches of 43, 22 and 28 yards in the fourth quarter. The standout night was a welcome sight for fantasy managers, who'd seen Metcalf post an inefficient and modest 11-98-1 line on 24 targets over his first three games. Metcalf will aim to carry over the momentum into a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
-      "description": "Metcalf brought in five of nine targets for 115 yards in the Steelers' 27-24 loss to the Browns on Thursday.",
-      "metadata": {
-        "analysis": "Metcalf led the Steelers across the stat sheet in receptions, receiving yards and targets, and his production in the first two categories also qualified as new season highs. The veteran wideout started slowly, but he came on with catches of 43, 22 and 28 yards in the fourth quarter. The standout night was a welcome sight for fantasy managers, who'd seen Metcalf post an inefficient and modest 11-98-1 line on 24 targets over his first three games. Metcalf will aim to carry over the momentum into a Week 5 home matchup against the Colts on Sunday, Oct. 11.",
-        "description": "Metcalf brought in five of nine targets for 115 yards in the Steelers' 27-24 loss to the Browns on Thursday.",
-        "title": "DK Metcalf - Vaults over century mark in loss",
-        "topic_id": "1411608987685699584"
-      },
-      "nfl_team": "PIT",
-      "player_id": "5846",
-      "player_name": "DK Metcalf",
-      "position": "WR",
-      "published": 1790916156000,
-      "source": "rotowire",
-      "source_key": "640268",
-      "story_id": "nfl|5846|rotowire|640268|1790916156000",
-      "title": "DK Metcalf - Vaults over century mark in loss",
-      "url": null
-    },
-    {
-      "analysis": "The veteran is dealing with some kind of a minor groin injury, which contributed to him being a limited participant at Thursday's practice. It's not currently thought to be much of an issue for him, but fantasy managers should keep an eye on what his injury status ends up being heading into the weekend.",
-      "description": "Keenan Allen (rest/groin) was limited at practice on Thursday.",
-      "metadata": {
-        "analysis": "The veteran is dealing with some kind of a minor groin injury, which contributed to him being a limited participant at Thursday's practice. It's not currently thought to be much of an issue for him, but fantasy managers should keep an eye on what his injury status ends up being heading into the weekend.",
-        "description": "Keenan Allen (rest/groin) was limited at practice on Thursday.",
-        "title": "Keenan Allen (rest/groin) limited at practice Thursday",
-        "topic_id": "1411607732661780480",
-        "url": "https://www.fantasypros.com/nfl/news/611808/keenan-allen-restgroin-limited-practice-thursday.php"
-      },
-      "nfl_team": "IND",
-      "player_id": "1479",
-      "player_name": "Keenan Allen",
-      "position": "WR",
-      "published": 1790916019178,
-      "source": "fantasy_pros",
-      "source_key": "611808",
-      "story_id": "nfl|1479|fantasy_pros|611808|1790916019178",
-      "title": "Keenan Allen (rest/groin) limited at practice Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/611808/keenan-allen-restgroin-limited-practice-thursday.php"
-    },
-    {
-      "analysis": "The veteran wideout was limited for a second-straight practice on Thursday as he continues to recover from a shoulder injury of some kind. He is likely to play through it this week, however, and remains a high-upside fantasy option on a week-to-week basis moving forward.",
-      "description": "DJ Moore (shoulder) was limited at practice again on Thursday.",
-      "metadata": {
-        "analysis": "The veteran wideout was limited for a second-straight practice on Thursday as he continues to recover from a shoulder injury of some kind. He is likely to play through it this week, however, and remains a high-upside fantasy option on a week-to-week basis moving forward.",
-        "description": "DJ Moore (shoulder) was limited at practice again on Thursday.",
-        "title": "DJ Moore (shoulder) limited again Thursday",
-        "topic_id": "1411607732598865920",
-        "url": "https://www.fantasypros.com/nfl/news/611809/dj-moore-shoulder-limited-again-thursday.php"
-      },
-      "nfl_team": "BUF",
-      "player_id": "4983",
-      "player_name": "DJ Moore",
-      "position": "WR",
-      "published": 1790916019163,
-      "source": "fantasy_pros",
-      "source_key": "611809",
-      "story_id": "nfl|4983|fantasy_pros|611809|1790916019163",
-      "title": "DJ Moore (shoulder) limited again Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/611809/dj-moore-shoulder-limited-again-thursday.php"
-    },
-    {
-      "analysis": "Judkins was in his customary workhorse role in the Browns' ground attack, although as his final rushing line indicates, he found running room hard to come by on most of his carries. Even the second-year back's first rushing touchdown of the season didn't come easy, as Judkins had to power his way in from two yards out in the second quarter. However, he was able to find plenty of success as a receiver, finishing as the team leader in receptions and tying for runner-up status in targets with numbers that also qualified as new career-high figures. Judkins' backfield mates Raheim Sanders and Jaleel McLaughlin combined for just three carries between them -- although the latter took his one tote for a 28-yard touchdown -- so Cleveland's clear lead back will continue to helm the run game in a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
-      "description": "Judkins rushed 17 times for 53 yards and a touchdown and brought in six of seven targets for 43 yards in the Browns' 27-24 win over the Steelers on Thursday.",
-      "metadata": {
-        "analysis": "Judkins was in his customary workhorse role in the Browns' ground attack, although as his final rushing line indicates, he found running room hard to come by on most of his carries. Even the second-year back's first rushing touchdown of the season didn't come easy, as Judkins had to power his way in from two yards out in the second quarter. However, he was able to find plenty of success as a receiver, finishing as the team leader in receptions and tying for runner-up status in targets with numbers that also qualified as new career-high figures. Judkins' backfield mates Raheim Sanders and Jaleel McLaughlin combined for just three carries between them -- although the latter took his one tote for a 28-yard touchdown -- so Cleveland's clear lead back will continue to helm the run game in a Week 5 road matchup against the Jets on Sunday, Oct. 11.",
-        "description": "Judkins rushed 17 times for 53 yards and a touchdown and brought in six of seven targets for 43 yards in the Browns' 27-24 win over the Steelers on Thursday.",
-        "title": "Quinshon Judkins - Grinds way to productive night",
-        "topic_id": "1411607727997779968"
-      },
-      "nfl_team": "CLE",
-      "player_id": "12512",
-      "player_name": "Quinshon Judkins",
-      "position": "RB",
-      "published": 1790915864000,
-      "source": "rotowire",
-      "source_key": "640267",
-      "story_id": "nfl|12512|rotowire|640267|1790915864000",
-      "title": "Quinshon Judkins - Grinds way to productive night",
-      "url": null
-    },
-    {
-      "analysis": "Warren once again had near total control of the Steelers' ground attack, as Rico Dowdle (toe) missed a second consecutive contest. As he'd done in the Week 3 win over the Bengals, Warren capitalized on the opportunity to comfortably eclipse the century mark in total yards. Warren compiled 220 rushing yards and another 82 yards through the air over the last two games while serving as the unquestioned lead back, but if Dowdle is able to make it back for a Week 5 matchup against the Colts on Sunday, Oct. 11, the former will see a hit to his touches.",
-      "description": "Warren rushed 17 times for 93 yards and secured three of six targets for 33 yards in the Steelers' 27-24 loss to the Browns on Thursday.",
-      "metadata": {
-        "analysis": "Warren once again had near total control of the Steelers' ground attack, as Rico Dowdle (toe) missed a second consecutive contest. As he'd done in the Week 3 win over the Bengals, Warren capitalized on the opportunity to comfortably eclipse the century mark in total yards. Warren compiled 220 rushing yards and another 82 yards through the air over the last two games while serving as the unquestioned lead back, but if Dowdle is able to make it back for a Week 5 matchup against the Colts on Sunday, Oct. 11, the former will see a hit to his touches.",
-        "description": "Warren rushed 17 times for 93 yards and secured three of six targets for 33 yards in the Steelers' 27-24 loss to the Browns on Thursday.",
-        "title": "Jaylen Warren - Strong production with lead role",
-        "topic_id": "1411606470671224832"
-      },
-      "nfl_team": "PIT",
-      "player_id": "8228",
-      "player_name": "Jaylen Warren",
-      "position": "RB",
-      "published": 1790915586000,
-      "source": "rotowire",
-      "source_key": "640265",
-      "story_id": "nfl|8228|rotowire|640265|1790915586000",
-      "title": "Jaylen Warren - Strong production with lead role",
-      "url": null
-    },
-    {
-      "analysis": "As expected, Meyers remained a limited participant for another practice on Thursday. He should be good to go for Sunday's game, however, assuming he doesn't suffer any setbacks between now and then.",
-      "description": "Jakobi Meyers (thumb) was listed as a limited participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "As expected, Meyers remained a limited participant for another practice on Thursday. He should be good to go for Sunday's game, however, assuming he doesn't suffer any setbacks between now and then.",
-        "description": "Jakobi Meyers (thumb) was listed as a limited participant at practice on Thursday.",
-        "title": "Jakobi Meyers (thumb) listed as limited Thursday",
-        "topic_id": "1411605216117129216",
-        "url": "https://www.fantasypros.com/nfl/news/611804/jakobi-meyers-thumb-listed-limited-thursday.php"
-      },
-      "nfl_team": "JAX",
-      "player_id": "5947",
-      "player_name": "Jakobi Meyers",
-      "position": "WR",
-      "published": 1790915419186,
-      "source": "fantasy_pros",
-      "source_key": "611804",
-      "story_id": "nfl|5947|fantasy_pros|611804|1790915419186",
-      "title": "Jakobi Meyers (thumb) listed as limited Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/611804/jakobi-meyers-thumb-listed-limited-thursday.php"
-    },
-    {
-      "analysis": "The veteran was back at practice and participated in a full capacity on Thursday, meaning that he will almost certainly be a full go in Week 4. His absence on Wednesday was likely a load management move on the part of the team.",
-      "description": "Chris Godwin Jr. (ankle) logged a full practice session on Thursday.",
-      "metadata": {
-        "analysis": "The veteran was back at practice and participated in a full capacity on Thursday, meaning that he will almost certainly be a full go in Week 4. His absence on Wednesday was likely a load management move on the part of the team.",
-        "description": "Chris Godwin Jr. (ankle) logged a full practice session on Thursday.",
-        "title": "Chris Godwin Jr. (ankle) logs full practice Thursday",
-        "topic_id": "1411602698326822912",
-        "url": "https://www.fantasypros.com/nfl/news/611795/chris-godwin-jr-ankle-logs-full-practice-thursday.php"
-      },
-      "nfl_team": "TB",
-      "player_id": "4037",
-      "player_name": "Chris Godwin",
-      "position": "WR",
-      "published": 1790914818896,
-      "source": "fantasy_pros",
-      "source_key": "611795",
-      "story_id": "nfl|4037|fantasy_pros|611795|1790914818896",
-      "title": "Chris Godwin Jr. (ankle) logs full practice Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/611795/chris-godwin-jr-ankle-logs-full-practice-thursday.php"
-    },
-    {
-      "analysis": "Irving has been limited in two-straight practices to start the week. He's still managing a glute injury, but it looks more likely than not that he will play through it this week. If he's cleared to play heading into the weekend, fantasy managers should have no hesitations starting him in a matchup against the Packers.",
-      "description": "Bucky Irving (glute) was officially a limited participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "Irving has been limited in two-straight practices to start the week. He's still managing a glute injury, but it looks more likely than not that he will play through it this week. If he's cleared to play heading into the weekend, fantasy managers should have no hesitations starting him in a matchup against the Packers.",
-        "description": "Bucky Irving (glute) was officially a limited participant at practice on Thursday.",
-        "title": "Bucky Irving (glute) officially limited Thursday",
-        "topic_id": "1411602698276491264",
-        "url": "https://www.fantasypros.com/nfl/news/611796/bucky-irving-glute-officially-limited-thursday.php"
-      },
-      "nfl_team": "TB",
-      "player_id": "11584",
-      "player_name": "Bucky Irving",
-      "position": "RB",
-      "published": 1790914818884,
-      "source": "fantasy_pros",
-      "source_key": "611796",
-      "story_id": "nfl|11584|fantasy_pros|611796|1790914818884",
-      "title": "Bucky Irving (glute) officially limited Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/611796/bucky-irving-glute-officially-limited-thursday.php"
-    },
-    {
-      "analysis": "The veteran was able to work off to the side a bit at practice on Thursday, but he didn't participate in any team drills and is officially considered a non-participant. It looks like he's slightly trending the wrong way for Week 4, although we won't get an official injury designation for him until after practice on Friday.",
-      "description": "Mike Evans (ribs) was officially a non-participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "The veteran was able to work off to the side a bit at practice on Thursday, but he didn't participate in any team drills and is officially considered a non-participant. It looks like he's slightly trending the wrong way for Week 4, although we won't get an official injury designation for him until after practice on Friday.",
-        "description": "Mike Evans (ribs) was officially a non-participant at practice on Thursday.",
-        "title": "Mike Evans (ribs) officially a non-participant Thursday",
-        "topic_id": "1411602698112913408",
-        "url": "https://www.fantasypros.com/nfl/news/611799/mike-evans-ribs-officially-non-participant-thursday.php"
-      },
-      "nfl_team": "SF",
-      "player_id": "2216",
-      "player_name": "Mike Evans",
-      "position": "WR",
-      "published": 1790914818846,
-      "source": "fantasy_pros",
-      "source_key": "611799",
-      "story_id": "nfl|2216|fantasy_pros|611799|1790914818846",
-      "title": "Mike Evans (ribs) officially a non-participant Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/611799/mike-evans-ribs-officially-non-participant-thursday.php"
-    },
-    {
-      "analysis": "It looks like the young tight end is trending towards being sidelined in Week 4, as he has been a non-participant at both of the team's practices to start the week. Tyler Higbee is primed to be the team's top tight end this week with Colby Parkinson (knee/shoulder) also unlikely to play on Sunday.",
-      "description": "Terrance Ferguson (ankle) did not take part in Los Angeles' practice on Thursday.",
-      "metadata": {
-        "analysis": "It looks like the young tight end is trending towards being sidelined in Week 4, as he has been a non-participant at both of the team's practices to start the week. Tyler Higbee is primed to be the team's top tight end this week with Colby Parkinson (knee/shoulder) also unlikely to play on Sunday.",
-        "description": "Terrance Ferguson (ankle) did not take part in Los Angeles' practice on Thursday.",
-        "title": "Terrance Ferguson (ankle) doesn't practice Thursday",
-        "topic_id": "1411600181215924224",
-        "url": "https://www.fantasypros.com/nfl/news/611790/terrance-ferguson-ankle-doesnt-practice-thursday.php"
-      },
-      "nfl_team": "LAR",
-      "player_id": "12487",
-      "player_name": "Terrance Ferguson",
-      "position": "TE",
-      "published": 1790914218772,
-      "source": "fantasy_pros",
-      "source_key": "611790",
-      "story_id": "nfl|12487|fantasy_pros|611790|1790914218772",
-      "title": "Terrance Ferguson (ankle) doesn't practice Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/611790/terrance-ferguson-ankle-doesnt-practice-thursday.php"
-    },
-    {
-      "analysis": "Some reports early in the day indicated that Nacua would be a full participant at Thursday's practice, but he ended up being limited for a second-straight day. There seems to be optimism surrounding his availability for Week 4, but fantasy managers should continue to keep close tabs on updates about his health over the next day or two to ensure that that will be the case.",
-      "description": "Puka Nacua (groin) was officially a limited participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "Some reports early in the day indicated that Nacua would be a full participant at Thursday's practice, but he ended up being limited for a second-straight day. There seems to be optimism surrounding his availability for Week 4, but fantasy managers should continue to keep close tabs on updates about his health over the next day or two to ensure that that will be the case.",
-        "description": "Puka Nacua (groin) was officially a limited participant at practice on Thursday.",
-        "title": "Puka Nacua (groin) officially limited Thursday",
-        "topic_id": "1411597664000225280",
-        "url": "https://www.fantasypros.com/nfl/news/611788/puka-nacua-groin-officially-limited-thursday.php"
-      },
-      "nfl_team": "LAR",
-      "player_id": "9493",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "published": 1790913618619,
-      "source": "fantasy_pros",
-      "source_key": "611788",
-      "story_id": "nfl|9493|fantasy_pros|611788|1790913618619",
-      "title": "Puka Nacua (groin) officially limited Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/611788/puka-nacua-groin-officially-limited-thursday.php"
-    },
-    {
-      "analysis": "The rookie was limited at practice to start the week on Wednesday, but he has since been downgraded and was a non-participant on Thursday. He seems to be trending the wrong way for Week 4, and fantasy managers should expect George Holani (rib) to see a lot of work if Price is unable to play on Sunday.",
-      "description": "Jadarian Price (chest) was downgraded to a non-participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "The rookie was limited at practice to start the week on Wednesday, but he has since been downgraded and was a non-participant on Thursday. He seems to be trending the wrong way for Week 4, and fantasy managers should expect George Holani (rib) to see a lot of work if Price is unable to play on Sunday.",
-        "description": "Jadarian Price (chest) was downgraded to a non-participant at practice on Thursday.",
-        "title": "Jadarian Price (chest) downgraded to non-participant Thursday",
-        "topic_id": "1411596409668399104",
-        "url": "https://www.fantasypros.com/nfl/news/611785/jadarian-price-chest-downgraded-to-non-participant-thursday.php"
-      },
-      "nfl_team": "SEA",
-      "player_id": "13286",
-      "player_name": "Jadarian Price",
-      "position": "RB",
-      "published": 1790913319567,
-      "source": "fantasy_pros",
-      "source_key": "611785",
-      "story_id": "nfl|13286|fantasy_pros|611785|1790913319567",
-      "title": "Jadarian Price (chest) downgraded to non-participant Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/611785/jadarian-price-chest-downgraded-to-non-participant-thursday.php"
-    },
-    {
-      "analysis": "Thursday was Charbonnet's first day back on the practice field after the team recently opened his practice window. He was able to participate in a limited fashion, and it looks like he is set to return to the lineup sometime sooner rather than later. His return, whenever it comes, will mean less work for rookie Jadarian Price (chest) moving forward.",
-      "description": "Zach Charbonnet (knee) was officially a limited participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "Thursday was Charbonnet's first day back on the practice field after the team recently opened his practice window. He was able to participate in a limited fashion, and it looks like he is set to return to the lineup sometime sooner rather than later. His return, whenever it comes, will mean less work for rookie Jadarian Price (chest) moving forward.",
-        "description": "Zach Charbonnet (knee) was officially a limited participant at practice on Thursday.",
-        "title": "Zach Charbonnet (knee) officially limited Thursday",
-        "topic_id": "1411595145769426944",
-        "url": "https://www.fantasypros.com/nfl/news/611783/zach-charbonnet-knee-officially-limited-thursday.php"
-      },
-      "nfl_team": "SEA",
-      "player_id": "9753",
-      "player_name": "Zach Charbonnet",
-      "position": "RB",
-      "published": 1790913018227,
-      "source": "fantasy_pros",
-      "source_key": "611783",
-      "story_id": "nfl|9753|fantasy_pros|611783|1790913018227",
-      "title": "Zach Charbonnet (knee) officially limited Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/611783/zach-charbonnet-knee-officially-limited-thursday.php"
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams tight end Terrance Ferguson (ankle) did not practice on Thursday, according to Blaine Grisak of Rams on SI. Ferguson has now missed back-to-back practices, casting serious doubt on his availability for Week 4 against the Philadelphia Eagles. There's always a chance that Ferguson could get back in a limited capacity on Friday, but for now, he's trending in the wrong direction. It was disappointing to see the second-year tight end get hurt in Week 3, less than seven days after he broke out with six catches, 54 yards, and one touchdown. Los Angeles has a very crowded tight end room, so if Ferguson doesn't play in Week 4, the Rams should still get productivity out of the position from Tyler Higbee and Colby Parkinson.",
-      "metadata": {
-        "description": "Los Angeles Rams tight end Terrance Ferguson (ankle) did not practice on Thursday, according to Blaine Grisak of Rams on SI. Ferguson has now missed back-to-back practices, casting serious doubt on his availability for Week 4 against the Philadelphia Eagles. There's always a chance that Ferguson could get back in a limited capacity on Friday, but for now, he's trending in the wrong direction. It was disappointing to see the second-year tight end get hurt in Week 3, less than seven days after he broke out with six catches, 54 yards, and one touchdown. Los Angeles has a very crowded tight end room, so if Ferguson doesn't play in Week 4, the Rams should still get productivity out of the position from Tyler Higbee and Colby Parkinson.",
-        "title": "Terrance Ferguson Unable to Practice on Thursday",
-        "topic_id": "1411621568764825600",
-        "url": "https://www.rotoballer.com/player-news/terrance-ferguson-unable-to-practice-on-thursday/1955840"
-      },
-      "nfl_team": "LAR",
-      "player_id": "12487",
-      "player_name": "Terrance Ferguson",
-      "position": "TE",
-      "published": 1790904490000,
-      "source": "rotoballer",
-      "source_key": "222899",
-      "story_id": "nfl|12487|rotoballer|222899|1790904490000",
-      "title": "Terrance Ferguson Unable to Practice on Thursday",
-      "url": "https://www.rotoballer.com/player-news/terrance-ferguson-unable-to-practice-on-thursday/1955840"
-    },
-    {
-      "analysis": null,
-      "description": "New York Giants tight end Isaiah Likely has cooled back down following a scorching hot start to the season. Likely made his Giants debut in Week 1 with an impressive stat line of eight catches, 78 yards, and two touchdowns, but his fantasy production has declined in every game since then. His reduced productivity is a direct result of the Giants losing quarterback Jaxson Dart (knee) for the season. New York has been forced to start Jameis Winston, and the veteran hasn't been able to match Dart's prowess in the passing attack. For a large portion of his career, Winston was viewed as a quarterback who could support top-end wide receiver and tight end production because he loved to air the football out. He's still pass-happy, but as of late, he has been delivering more turnovers and fewer completions than we'd like to see. As a result, Likely has fallen outside the top 12 tight ends in fantasy football as long as Winston is under center.",
-      "metadata": {
-        "description": "New York Giants tight end Isaiah Likely has cooled back down following a scorching hot start to the season. Likely made his Giants debut in Week 1 with an impressive stat line of eight catches, 78 yards, and two touchdowns, but his fantasy production has declined in every game since then. His reduced productivity is a direct result of the Giants losing quarterback Jaxson Dart (knee) for the season. New York has been forced to start Jameis Winston, and the veteran hasn't been able to match Dart's prowess in the passing attack. For a large portion of his career, Winston was viewed as a quarterback who could support top-end wide receiver and tight end production because he loved to air the football out. He's still pass-happy, but as of late, he has been delivering more turnovers and fewer completions than we'd like to see. As a result, Likely has fallen outside the top 12 tight ends in fantasy football as long as Winston is under center.",
-        "title": "Isaiah Likely Takes a Big Step Backward with Quarterback Downgrade",
-        "topic_id": "1411620311731892224",
-        "url": "https://www.rotoballer.com/player-news/isaiah-likely-takes-a-big-step-backward-with-quarterback-downgrade/1955838"
-      },
-      "nfl_team": "NYG",
-      "player_id": "8131",
-      "player_name": "Isaiah Likely",
-      "position": "TE",
-      "published": 1790904311000,
-      "source": "rotoballer",
-      "source_key": "222897",
-      "story_id": "nfl|8131|rotoballer|222897|1790904311000",
-      "title": "Isaiah Likely Takes a Big Step Backward with Quarterback Downgrade",
-      "url": "https://www.rotoballer.com/player-news/isaiah-likely-takes-a-big-step-backward-with-quarterback-downgrade/1955838"
     }
   ]
 }
