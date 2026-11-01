@@ -2,53 +2,78 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6408**
-- Newly captured: **25**
+- Stored stories: **6402**
+- Newly captured: **15**
 
 ## Latest news
 
-- **NEW — Zach Charbonnet** — Zach Charbonnet (knee) off injury report Monday  (2026-10-31T21:10:26.661000Z)
+- **NEW — Elijah Mitchell** — Elijah Mitchell - Promoted from practice squad (2026-11-01T00:42:14Z)
+  - It's the second consecutive week in which Mitchell has been elevated to the Eagles' 53-man roster. He was the RB3 against the Cowboys in Week 7, and he'll reprise that depth role behind Saquon Barkley and Dameon Pierce for Sunday's game against the Commanders. Mitchell turned three carries into 11 yards and added three catches on four targets for 23 yards during Philadelphia's 38-21 loss to Dallas.
+- **NEW — Josh Jacobs** — Josh Jacobs - Additional allegations emerge (2026-10-31T23:04:23Z)
+  - Per the initial report, "The accounts surfaced during the department's investigation into a May 23 incident at Jacobs' home," and according to the Associated Press "were included in evidence regarding Jacobs' battery case," which he ultimately pleaded no contest to. The follow-up report notes that the NFL will "review these allegations as part of its investigation, which has remained open."
+- **NEW — Rashid Shaheed** — Rashid Shaheed (knee) ruled out Monday  (2026-10-31T22:55:27.610000Z)
+  - Shaheed was unable to practice all week. His absence likely won't impact the Seahawks wide receiver room for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/616869/rashid-shaheed-knee-ruled-out-monday.php
+- **Zach Charbonnet** — Zach Charbonnet (knee) off injury report Monday  (2026-10-31T21:10:26.661000Z)
   - Charbonnet will be ready to make his season debut. He'll be a touchdown dependent flex play in his first game back for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/616840/zach-charbonnet-knee-off-injury-report-monday.php
-- **NEW — Jadarian Price** — Jadarian Price (chest) off injury report Monday  (2026-10-31T21:10:26.652000Z)
+- **Jadarian Price** — Jadarian Price (chest) off injury report Monday  (2026-10-31T21:10:26.652000Z)
   - Price will make his return from injured reserve. Zach Charbonnet is also off the injury report, making it the first week all season the Seahawks backfield will be healthy. 
   - Source: https://www.fantasypros.com/nfl/news/616841/jadarian-price-chest-off-injury-report-monday.php
-- **NEW — Kenny Gainwell** — Kenny Gainwell (hip) expected to play Sunday  (2026-10-31T21:10:26.642000Z)
+- **Kenny Gainwell** — Kenny Gainwell (hip) expected to play Sunday  (2026-10-31T21:10:26.642000Z)
   - The Buccaneers did not have any elevations from their practice squad. Gainwell remains listed as questionable, but he will likely be available for Sunday. 
   - Source: https://www.fantasypros.com/nfl/news/616842/kenny-gainwell-hip-expected-to-play-sunday.php
-- **NEW — Rashid Shaheed** — Rashid Shaheed - Ruled out for MNF (2026-10-31T20:53:14Z)
+- **Rashid Shaheed** — Rashid Shaheed - Ruled out for MNF (2026-10-31T20:53:14Z)
   - Shaheed will miss his first game of the 2026 season due to a knee injury that he sustained during the Seahawks' Week 7 win over the Chiefs. Tory Horton and Velus Jones are the top candidates to operate as Seattle's returners on kickoffs and punts, and Horton and Cooper Kupp should see a bump in offensive snaps in Shaheed's absence. Shaheed's next opportunity to play is Week 9 against the Cardinals on Sunday, Nov. 8.
-- **NEW — Jadarian Price** — Jadarian Price - No designation for Week 8 (2026-10-31T20:50:20Z)
+- **Jadarian Price** — Jadarian Price - No designation for Week 8 (2026-10-31T20:50:20Z)
   - The Seahawks designated Price for return from IR on Thursday, and he proceeded to be limited that day and full Friday. Now that he's been given clearance for his first game action since Week 3 due to a chest injury, the team still needs to activate him from IR by Monday afternoon in order for him to be available in Week 8. Fellow RB Zach Charbonnet (knee) also doesn't have a designation this week, so Seattle's backfield suddenly is crowded, with Emanuel Wilson and George Holani also in the mix.
-- **NEW — Zach Charbonnet** — Zach Charbonnet - Will play Monday (2026-10-31T20:49:14Z)
+- **Zach Charbonnet** — Zach Charbonnet - Will play Monday (2026-10-31T20:49:14Z)
   - Charbonnet has been officially cleared to make his 2026 regular-season debut, marking the end to his rehab from a torn ACL in his left knee that he sustained in mid-January during the Seahawks' playoff run. The Seahawks' backfield will be whole for the first time this season, seeing as both Charbonnet and Jadarian Price (chest) have been cleared to play Monday, with Emanuel Wilson and George Holani providing depth.
-- **NEW — RJ Harvey** — RJ Harvey (knee) placed on short-term IR (2026-10-31T20:30:26.560000Z)
+- **RJ Harvey** — RJ Harvey (knee) placed on short-term IR (2026-10-31T20:30:26.560000Z)
   - Harvey sustained a knee injury at practice earlier this week. He will now be forced to miss at least the next four games. JK Dobbins and Jonah Coleman could see more touches as a result. 
   - Source: https://www.fantasypros.com/nfl/news/616818/rj-harvey-knee-placed-on-short-term-ir.php
-- **NEW — Elijah Mitchell** — Elijah Mitchell elevated from practice squad  (2026-10-31T20:30:26.547000Z)
+- **Elijah Mitchell** — Elijah Mitchell elevated from practice squad  (2026-10-31T20:30:26.547000Z)
   - Mitchell will add depth in the backfield for Philadelphia. He will remain off the fantasy radar. 
   - Source: https://www.fantasypros.com/nfl/news/616819/elijah-mitchell-elevated-from-practice-squad.php
-- **NEW — RJ Harvey** — RJ Harvey - Lands on injured reserve (2026-10-31T20:18:44Z)
+- **RJ Harvey** — RJ Harvey - Lands on injured reserve (2026-10-31T20:18:44Z)
   - Harvey was already ruled out for Sunday's contest against the Chiefs, but now that he's on IR, the second-year running back will be required to miss at least the next four games. That means the earliest that he is eligible to return is Week 13 against the Dolphins on Sunday, Dec. 6. In Harvey's absence, the Broncos' backfield will be led by J.K. Dobbins and rookie fourth-rounder Jonah Coleman.
-- **NEW — Garrett Wilson** — Garrett Wilson not expected to be traded (2026-10-31T20:00:27.245000Z)
+- **Garrett Wilson** — Garrett Wilson not expected to be traded (2026-10-31T20:00:27.245000Z)
   - Wilson told reporters this week that he hasn't requested a trade. It appears the Jets will continue to build around him. 
   - Source: https://www.fantasypros.com/nfl/news/616791/garrett-wilson-not-expected-to-be-traded.php
-- **NEW — Colston Loveland** — Colston Loveland (neck) removed from injury report for Week 8 (2026-10-31T20:00:27.210000Z)
+- **Colston Loveland** — Colston Loveland (neck) removed from injury report for Week 8 (2026-10-31T20:00:27.210000Z)
   - Loveland was added to the injury report on Friday. He will be good to go in a tough matchup against Seattle. 
   - Source: https://www.fantasypros.com/nfl/news/616793/colston-loveland-neck-removed-from-injury-report-week-8.php
-- **NEW — Jonathan Taylor** — Jonathan Taylor, Colts active in trade talks (2026-10-31T19:55:26.661000Z)
+- **Jonathan Taylor** — Jonathan Taylor, Colts active in trade talks (2026-10-31T19:55:26.661000Z)
   - Tom Pelissero reported that the Colts already turned down an offer for Taylor that included a 2027 second-round pick and another pick. This will remain a situation to monitor with the trade deadline around the corner. 
   - Source: https://www.fantasypros.com/nfl/news/616789/jonathan-taylor-colts-active-trade-talks.php
-- **NEW — Josh Jacobs** — Josh Jacobs: Additional accusers come forward (2026-10-31T19:55:26.641000Z)
+- **Josh Jacobs** — Josh Jacobs: Additional accusers come forward (2026-10-31T19:55:26.641000Z)
   - Jacobs has played in two games since returning. It is unclear as of now if this will lead to anything for him. This will remain a situation to monitor. 
   - Source: https://www.fantasypros.com/nfl/news/616790/josh-jacobs-additional-accusers-come-forward.php
-- **NEW — Jack Bech** — Jack Bech - Cleared to return for Week 8 (2026-10-31T19:53:36Z)
+- **Jack Bech** — Jack Bech - Cleared to return for Week 8 (2026-10-31T19:53:36Z)
   - Bech has progressed enough in his recovery from a fractured forearm to return Sunday from a four-game absence. Tre Tucker and Brock Bowers will both be the preferred targets for Kirk Cousins, but the addition of Bech gives the veteran QB another set of hands in the passing game. Bech caught five of seven targets for 48 yards and a touchdown across the Raiders' first two games of the regular season.
-- **NEW — Jack Bech** — Jack Bech (forearm) expected to be activated Sunday  (2026-10-31T19:45:25.966000Z)
+- **Jack Bech** — Jack Bech (forearm) expected to be activated Sunday  (2026-10-31T19:45:25.966000Z)
   - Bech been recovering from a fractured forearm. He remains listed as questionable. 
   - Source: https://www.fantasypros.com/nfl/news/616785/jack-bech-forearm-expected-to-be-activated-sunday.php
-- **NEW — Colston Loveland** — Colston Loveland - Cleared for Monday Night Football (2026-10-31T18:57:00Z)
+- **NEW — Jonathan Taylor** — Jonathan Taylor Expected to See Normal Workload in Week 8 (2026-10-31T19:04:09Z)
+  - Source: https://www.rotoballer.com/player-news/jonathan-taylor-josh-downs-expected-to-see-normal-workload-despite-trade-speculation-in-week-8-vs-jaguars/1980832
+- **Colston Loveland** — Colston Loveland - Cleared for Monday Night Football (2026-10-31T18:57:00Z)
   - Loveland popped up on Friday's injury report as a limited practice participant due to a neck injury. However, the second-year tight end was able to practice without restriction Saturday and is good to go for Monday's game. His availability for Week 8 and beyond is particularly important given that Cole Kmet (knee, IR) is out for the rest of the 2026 season. Loveland has caught 25 passes (on 37 targets) for 241 yards and two touchdowns over his last five outings.
+- **NEW — Kenny Gainwell** — Kenny Gainwell Expected to Play in Week 8 (2026-10-31T18:42:10Z)
+  - Source: https://www.rotoballer.com/player-news/kenny-gainwell-expected-to-play-in-week-8/1980823
+- **NEW — Rashid Shaheed** — Rashid Shaheed Ruled Out for Week 8 (2026-10-31T18:25:34Z)
+  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-ruled-out-for-week-8/1980813
+- **NEW — Sam Darnold** — Sam Darnold a Potential Streaming Option in Week 8 (2026-10-31T18:21:16Z)
+  - Source: https://www.rotoballer.com/player-news/sam-darnold-a-potential-streaming-option-in-week-8/1980806
+- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba Receives a Boost in a Plus Matchup in Week 8 (2026-10-31T18:20:35Z)
+  - Source: https://www.rotoballer.com/player-news/jaxon-smith-njigba-receives-a-boost-in-a-plus-matchup-in-week-8/1980804
+- **NEW — Cooper Kupp** — Cooper Kupp Could See a Boost in Usage in Week 8 (2026-10-31T18:18:13Z)
+  - Source: https://www.rotoballer.com/player-news/cooper-kupp-could-see-a-boost-in-usage-in-week-8/1980801
+- **NEW — Jason Myers** — Jason Myers a Strong Play in Week 8 (2026-10-31T18:15:13Z)
+  - Source: https://www.rotoballer.com/player-news/jason-myers-a-strong-play-in-week-8/1980796
+- **NEW — Zach Charbonnet** — Zach Charbonnet a Risky Flex Play in First Game Back (2026-10-31T18:15:08Z)
+  - Source: https://www.rotoballer.com/player-news/zach-charbonnet-a-risky-flex-play-in-first-game-back/1980794
+- **NEW — Jadarian Price** — Jadarian Price a Low-End Flex Play in Week 8 if Active (2026-10-31T18:11:17Z)
+  - Source: https://www.rotoballer.com/player-news/jadarian-price-a-low-end-flex-play-in-week-8/1980789
 - **Jack Bech** — Jack Bech - Expected to be activated from IR (2026-10-31T17:53:10Z)
   - Bech drew the questionable tag for Sunday's game after logging a trio of full practices during Week 8 prep. He's missed the Raiders' last four games while recovering from a fractured forearm, but it appears the second-year pro has progressed enough in his recovery to make his return. Bech will likely work in a rotational role alongside Cody White and Dont'e Thornton and behind Tre Tucker and Jalen Nailor.
 - **Kyle Monangai** — Kyle Monangai (thumb/toe) ruled out for Week 8 (2026-10-31T17:20:25.456000Z)
@@ -64,27 +89,27 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Henderson was given the questionable tag for Week 8 despite missing the last two practices due to an illness. He won't travel with the team to Miami, so the Patriots' backfield will be led by Rhamondre Stevenson while Corey Kiner provides depth. Henderson's next opportunity to suit up is Week 9 against the Packers on Sunday, Nov. 8.
 - **A.J. Brown** — A.J. Brown - Won't play against Miami (2026-10-31T17:07:17Z)
   - Brown entered the weekend with the questionable tag despite being held out of practice both Thursday and Friday, and the knee injury that flared up during Wednesday's session is severe enough for the veteran wide receiver to miss Sunday's AFC East tilt. With Brown sidelined, the Patriots' pass-catching group will be led by DeMario Douglas, Efton Chism and tight end Hunter Henry. Brown's next opportunity to play is Week 9 against the Packers on Sunday, Nov. 8.
-- **NEW — Jadarian Price** — Jadarian Price Cleared to Return From Injured Reserve in Week 8 (2026-10-31T17:05:31Z)
+- **Jadarian Price** — Jadarian Price Cleared to Return From Injured Reserve in Week 8 (2026-10-31T17:05:31Z)
   - Source: https://www.rotoballer.com/player-news/jadarian-price-cleared-to-return-from-injured-reserve-in-week-8/1980776
-- **NEW — Zach Charbonnet** — Zach Charbonnet Removed From Injury Report, Will Play in Week 8 (2026-10-31T17:00:18Z)
+- **Zach Charbonnet** — Zach Charbonnet Removed From Injury Report, Will Play in Week 8 (2026-10-31T17:00:18Z)
   - Source: https://www.rotoballer.com/player-news/zach-charbonnet-removed-from-injury-report-will-play-in-week-8/1980774
 - **Kyle Monangai** — Kyle Monangai - Won't play against Seattle (2026-10-31T16:55:20Z)
   - It will be the fourth consecutive game that Monangai will miss while nursing thumb and toe injuries. His next opportunity to play is Week 9 against the Buccaneers on Sunday, Nov. 8, but he would need to be cleared to practice before the Bears entertain bringing the second-year pro back into the fold. Roschon Johnson will continue to serve as the Bears' RB2 behind D'Andre Swift in Monangai's absence, while Zavier Scott -- who was signed to the active roster Tuesay -- provides additional backfield depth.
-- **NEW — RJ Harvey** — RJ Harvey Placed on Short-Term IR with Knee Injury (2026-10-31T16:16:40Z)
+- **RJ Harvey** — RJ Harvey Placed on Short-Term IR with Knee Injury (2026-10-31T16:16:40Z)
   - Source: https://www.rotoballer.com/player-news/r-j-harvey-placed-on-short-term-ir-with-knee-injury/1980739
-- **NEW — Konata Mumpfield** — Konata Mumpfield Set for Increased Involvement Again (2026-10-31T15:51:18Z)
+- **Konata Mumpfield** — Konata Mumpfield Set for Increased Involvement Again (2026-10-31T15:51:18Z)
   - Source: https://www.rotoballer.com/player-news/konata-mumpfield-set-for-increased-involvement-again/1980727
-- **NEW — Efton Chism III** — Efton Chism III Remains an Intriguing Streamer with Teammate Ruled Out (2026-10-31T15:38:12Z)
+- **Efton Chism III** — Efton Chism III Remains an Intriguing Streamer with Teammate Ruled Out (2026-10-31T15:38:12Z)
   - Source: https://www.rotoballer.com/player-news/efton-chism-iii-remains-an-intriguing-streamer-with-teammate-ruled-out/1980718
-- **NEW — Travis Hunter** — Travis Hunter Back on the Fantasy Radar in Two-Way Role (2026-10-31T15:34:09Z)
+- **Travis Hunter** — Travis Hunter Back on the Fantasy Radar in Two-Way Role (2026-10-31T15:34:09Z)
   - Source: https://www.rotoballer.com/player-news/travis-hunter-back-on-the-fantasy-radar-in-two-way-role/1980716
-- **NEW — Cam Little** — Cam Little Remains a Top-Tier Kicker Against Colts (2026-10-31T15:22:12Z)
+- **Cam Little** — Cam Little Remains a Top-Tier Kicker Against Colts (2026-10-31T15:22:12Z)
   - Source: https://www.rotoballer.com/player-news/cam-little-remains-a-top-tier-kicker-against-colts/1980709
 - **Carnell Tate** — Carnell Tate - Expected back after bye (2026-10-31T15:10:01Z)
   - Tate was held out of practice all week while nursing a shoulder injury, but the rookie fourth-overall pick will have the benefit of extra rest courtesy of the Titans' Week 9 bye. Tate leads the Titans pass catchers with 34 catches (on 51 targets) for 413 yards and a touchdown through seven regular-season games, and in his absence, quarterback Cam Ward will have to rely more heavily on the likes of Wan'Dale Robinson, Calvin Ridley (shoulder), Elic Ayomanor and Chimere Dike, with tight end Gunnar Helm also in the mix for a bump in targets.
-- **NEW — Colston Loveland** — Colston Loveland Cleared to Play in Week 8 Against Seahawks (2026-10-31T15:00:20Z)
+- **Colston Loveland** — Colston Loveland Cleared to Play in Week 8 Against Seahawks (2026-10-31T15:00:20Z)
   - Source: https://www.rotoballer.com/player-news/colston-loveland-neck-good-to-go-for-monday-night-football/1980679
-- **NEW — Brenton Strange** — Brenton Strange a Borderline TE1 in Potentially Larger Role Against Colts (2026-10-31T14:58:14Z)
+- **Brenton Strange** — Brenton Strange a Borderline TE1 in Potentially Larger Role Against Colts (2026-10-31T14:58:14Z)
   - Source: https://www.rotoballer.com/player-news/brenton-strange-a-borderline-te1-in-potentially-larger-role-against-colts/1980683
 - **Blake Corum** — Blake Corum Maintains Standalone Value in Week 8 Against Chargers (2026-10-31T14:12:12Z)
   - Source: https://www.rotoballer.com/player-news/blake-corum-maintains-standalone-value-in-week-8-against-chargers/1980645
@@ -196,27 +221,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/braelon-allen-has-rb2-upside-with-another-start/1980430
 - **Breece Hall** — Breece Hall Carries Conditional RB2 Value Into Favorable Matchup (2026-10-31T10:58:16Z)
   - Source: https://www.rotoballer.com/player-news/breece-hall-carries-conditional-rb2-value-into-favorable-matchup/1980422
-- **Geno Smith** — Geno Smith Offers QB2 Value Against Struggling Raiders Defense (2026-10-31T10:57:13Z)
-  - Source: https://www.rotoballer.com/player-news/geno-smith-offers-qb2-value-against-struggling-raiders-defense/1980420
-- **Courtland Sutton** — Limited Targets Keep Courtland Sutton in WR4 Range (2026-10-31T10:51:18Z)
-  - Source: https://www.rotoballer.com/player-news/limited-targets-keep-courtland-sutton-in-wr4-range/1980408
-- **Zay Flowers** — Zay Flowers Flourishing in Baltimore's Offense (2026-10-31T10:49:12Z)
-  - Source: https://www.rotoballer.com/player-news/zay-flowers-flourishing-in-baltimores-offense/1980403
-- **Jaylen Waddle** — Jaylen Waddle Is a Risky Flex After Limited Practice Week (2026-10-31T10:48:12Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-waddle-is-a-risky-flex-after-limited-practice-week/1980400
-- **J.K. Dobbins** — J.K. Dobbins Has Touchdown-Dependent Flex Value (2026-10-31T10:43:12Z)
-  - Source: https://www.rotoballer.com/player-news/j-k-dobbins-has-touchdown-dependent-flex-value/1980389
-- **Jonah Coleman** — Jonah Coleman Is Denver's Preferred Week 8 Flex (2026-10-31T10:42:22Z)
-  - Source: https://www.rotoballer.com/player-news/jonah-coleman-is-denvers-preferred-week-8-flex/1980387
-- **Bo Nix** — Bo Nix Remains a QB2 With Receiving Options Banged Up (2026-10-31T10:41:28Z)
-  - Source: https://www.rotoballer.com/player-news/bo-nix-remains-a-qb2-with-receiving-options-banged-up/1980385
-- **Derrick Henry** — Derrick Henry Looks to Get Back on Track in Matchup Vs. Bills (2026-10-31T10:33:13Z)
-  - Source: https://www.rotoballer.com/player-news/derrick-henry-looks-to-get-back-on-track-in-matchup-vs-bills/1980374
-- **Jake Bates** — Jake Bates a Low-End Starting Kicker Option in Week 8 (2026-10-31T10:22:12Z)
-  - Source: https://www.rotoballer.com/player-news/jake-bates-a-low-end-starting-kicker-option-in-week-8/1980368
-- **Lamar Jackson** — Lamar Jackson Looks to Make Immediate Impact in Return to Action (2026-10-31T10:20:09Z)
-  - Source: https://www.rotoballer.com/player-news/lamar-jackson-looks-to-make-immediate-impact-in-return-to-action/1980364
-- **Sam LaPorta** — Sam LaPorta a Bounce-Back Candidate in Week 8 Despite Tough Matchup (2026-10-31T10:17:13Z)
-  - Source: https://www.rotoballer.com/player-news/sam-laporta-a-bounce-back-candidate-in-week-8-despite-tough-matchup/1980360
-- **Isaac TeSlaa** — Isaac TeSlaa is Tough to Trust in Difficult Week 8 Matchup (2026-10-31T10:16:09Z)
-  - Source: https://www.rotoballer.com/player-news/isaac-teslaa-is-tough-to-trust-in-difficult-week-8-matchup/1980358
