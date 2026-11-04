@@ -1394,7 +1394,7 @@
       "disable_trades": 0,
       "draft_rounds": 4,
       "faab_suggestions": 0,
-      "last_report": 7,
+      "last_report": 8,
       "last_scored_leg": 8,
       "league_average_match": 0,
       "leg": 8,
@@ -3497,7 +3497,7 @@
         "starters": [
           "7523",
           "12490",
-          "13287",
+          "4035",
           "13301",
           "7526",
           "12509",
@@ -4527,7 +4527,7 @@
         "starters": [
           "7523",
           "12490",
-          "13287",
+          "4035",
           "13301",
           "7526",
           "12509",
@@ -5557,7 +5557,7 @@
         "starters": [
           "7523",
           "12490",
-          "13287",
+          "4035",
           "13301",
           "7526",
           "12509",
@@ -6587,7 +6587,7 @@
         "starters": [
           "7523",
           "12490",
-          "13287",
+          "4035",
           "13301",
           "7526",
           "12509",
@@ -7617,7 +7617,7 @@
         "starters": [
           "7523",
           "12490",
-          "13287",
+          "4035",
           "13301",
           "7526",
           "12509",
@@ -8647,7 +8647,7 @@
         "starters": [
           "7523",
           "12490",
-          "13287",
+          "4035",
           "13301",
           "7526",
           "12509",
@@ -9677,7 +9677,7 @@
         "starters": [
           "7523",
           "12490",
-          "13287",
+          "4035",
           "13301",
           "7526",
           "12509",
@@ -10707,7 +10707,7 @@
         "starters": [
           "7523",
           "12490",
-          "13287",
+          "4035",
           "13301",
           "7526",
           "12509",
@@ -11737,7 +11737,7 @@
         "starters": [
           "7523",
           "12490",
-          "13287",
+          "4035",
           "13301",
           "7526",
           "12509",
@@ -20015,7 +20015,7 @@
         "starters": [
           "7523",
           "12490",
-          "13287",
+          "4035",
           "13301",
           "7526",
           "12509",
@@ -21625,12 +21625,12 @@
       ],
       "first_name": "Jeremiyah",
       "full_name": "Jeremiyah Love",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Love",
       "nfl_team": "ARI",
       "player_id": "13287",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 0
     },
     "13288": {
@@ -22495,7 +22495,7 @@
       ],
       "first_name": "Kendrick",
       "full_name": "Kendrick Bourne",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Bourne",
       "nfl_team": "ARI",
       "player_id": "4454",
@@ -24596,8 +24596,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-03T16:06:50Z",
-    "source_fingerprint": "21eaa0f366079131c0f4e3d3f185dd2ce98ae87bbf034e57e2cac74862a4d3de"
+    "last_changed_at": "2026-11-03T21:43:31Z",
+    "source_fingerprint": "95ef0edebdbae44a00c53ed9d3da3a6ad0864e2ad30cb6972625fa2055ca24dc"
   },
   "teams": [
     {
@@ -25490,7 +25490,7 @@
       "starter_ids": [
         "7523",
         "12490",
-        "13287",
+        "4035",
         "13301",
         "7526",
         "12509",
