@@ -21430,12 +21430,12 @@
       ],
       "first_name": "Tyler",
       "full_name": "Tyler Loop",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Loop",
       "nfl_team": "BAL",
       "player_id": "12711",
       "position": "K",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 1
     },
     "13150": {
@@ -22500,7 +22500,7 @@
       "nfl_team": "ARI",
       "player_id": "4454",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 9
     },
     "4866": {
@@ -24596,8 +24596,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-03T21:43:31Z",
-    "source_fingerprint": "95ef0edebdbae44a00c53ed9d3da3a6ad0864e2ad30cb6972625fa2055ca24dc"
+    "last_changed_at": "2026-11-04T01:41:35Z",
+    "source_fingerprint": "3bea7ba732c4559df513f5679c314858c42a1a2c35237f73529139021b3b4a76"
   },
   "teams": [
     {
@@ -24715,6 +24715,7 @@
         "SEA"
       ],
       "reserve_ids": [
+        "13279",
         "7543"
       ],
       "roster_id": 2,
@@ -25469,7 +25470,8 @@
       ],
       "reserve_ids": [
         "11638",
-        "13281"
+        "13281",
+        "13287"
       ],
       "roster_id": 12,
       "settings": {

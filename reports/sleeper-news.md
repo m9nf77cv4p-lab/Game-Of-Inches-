@@ -2,34 +2,79 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6329**
-- Newly captured: **20**
+- Stored stories: **6241**
+- Newly captured: **27**
 
 ## Latest news
 
-- **NEW — Josh Cameron** — Josh Cameron - Doesn't haul in only target Week 8 (2026-11-04T03:37:03Z)
+- **NEW — Bhayshul Tuten** — Bhayshul Tuten - Trending toward game-time call Thursday (2026-11-04T15:38:21Z)
+  - Tuten was listed as a non-participant on the Jaguars' first two Week 9 practice reports, but he may be in line to take some reps during Wednesday's session. The 23-year-old looks poised to take a questionable tag into the matchup with Baltimore, but if he fares well in practice Wednesday and while working out early Thursday, he could get the green light to play on a short week. If Tuten suits up, it's conceivable that he handles a lighter workload than normal, after receiving no fewer than 15 touches in any of the Jaguars' first seven contests.
+- **NEW — Brian Robinson Jr.** — Brian Robinson Jr. (hamstring) listed as limited Wednesday (2026-11-04T15:30:36.828000Z)
+  - Robinson has missed the last two weeks due to a hamstring injury, but this is a positive development for the Falcons' No. 2 RB. Robinson has been solid behind dual-threat star Bijan Robinson this season. Brian Robinson has averaged 4.0 yards per carry for more than 200 yards and four touchdowns in six games. 
+  - Source: https://www.fantasypros.com/nfl/news/617771/brian-robinson-jr-hamstring-listed-limited-wednesday.php
+- **NEW — Brian Robinson Jr.** — Brian Robinson - Opens week with limited practice (2026-11-04T15:12:59Z)
+  - After landing in Spain early Wednesday in advance of Sunday's game versus the Bengals in Madrid, the Falcons opted to hold a walkthrough rather than a traditional practice. Robinson was able to do enough to garner a limited listing on the injury report, marking the first time since Week 7 that he's gone down as anything other than a non-participant in practice. If Robinson can get back to full activity Thursday or Friday, he'll put himself on track to be available as the top complement to lead back Bijan Robinson on Sunday.
+- **NEW — Deshaun Watson** — Deshaun Watson in the concussion protocol  (2026-11-04T15:10:36.431000Z)
+  - Watson took a big hit early in Sunday's loss to the Steelers, but he returned to the game just a few plays later after being cleared by medical. The Cleveland QB experienced some lingering symptoms earlier this week, however, leading the team to place him in the protocol. Watson does reportedly have at least a chance of returning for Sunday's game in New Orleans, but time will ultimately tell. Sheduer Sanders would take over at QB if Watson cannot go. 
+  - Source: https://www.fantasypros.com/nfl/news/617768/deshaun-watson-concussion-protocol.php
+- **NEW — Shedeur Sanders** — Shedeur Sanders - Could start Week 9 with Watson in protocol (2026-11-04T15:07:01Z)
+  - During this past Sunday's 27-6 loss to the Steelers, Watson briefly departed the game in the first quarter after a helmet-to-helmet hit from safety Jaquan Brisker. Sanders checked in and completed both of his pass attempts for two yards across four total plays before Watson was cleared to return for the Browns' next possession. However, with the concussion symptoms surfacing a day later, Watson's availability for Week 9 is now in jeopardy. Watson will still have time to clear the five-step protocol ahead of Sunday, but expect Sanders to at least get some reps in with the first-team offense Wednesday during the team's first practice of the week.
+- **NEW — Brandon Aiyuk** — Brandon Aiyuk files for reinstatement with the NFL (2026-11-04T14:50:36.669000Z)
+  - The Aiyuk saga continues around San Francisco. The veteran wide receiver has been on the left squad list since the summer, but the 49ers will now have to make a decision to keep, cut, or, if possible, trade him. Aiyuk has not played in an NFL game since 2024. 
+  - Source: https://www.fantasypros.com/nfl/news/617766/brandon-aiyuk-files-reinstatement-with-nfl.php
+- **NEW — Deshaun Watson** — Deshaun Watson - Placed in concussion protocol (2026-11-04T14:45:52Z)
+  - Watson took a helmet-to-helmet hit in the first quarter of Sunday's 27-6 loss to the Steelers, and after being examined by an independent consultant he was cleared to return to the game. Though subsequent tests after the game and Monday morning showed no symptoms of a concussion, Watson informed the Browns on Tuesday morning that he was experiencing symptoms and was "immediately placed in the concussion protocol," per the team. Watson will need to clear the five-step protocol in order to play in Cleveland's Week 9 matchup with New Orleans, but if he's unable to go, Shedeur Sanders would be in line to start at quarterback for the first time this season.
+- **NEW — Brandon Aiyuk** — Brandon Aiyuk - Turns in reinstatement paperwork (2026-11-04T14:25:16Z)
+  - Per his agent Drew Rosenhaus, Aiyuk "is healthy and ready to get back on the field. Meanwhile, Schefter adds that once the wideout officially reports back to the 49ers, the team's options are to keep Aiyuk under his current contract, release him or look to move him ahead of this coming Tuesday's NFL trade deadline. Given the moving parts involved, it remains to be seen when Aiyuk might return to the field in any locale, but depending on his health and conditioning level, the 2020 first-rounder could represent an intriguing option for a team looking to add WR depth to consider.
+- **NEW — Eli Raridon** — Eli Raridon has Brutal Week 9 Matchup (2026-11-04T11:02:04Z)
+  - Source: https://www.rotoballer.com/player-news/eli-raridon-skippable-outside-deeper-leagues-due-to-brutal-week-9-matchup/1983573
+- **NEW — Kirk Cousins** — Kirk Cousins Remains a Must-Add Despite Tough Upcoming Matchups (2026-11-04T11:00:12Z)
+  - Source: https://www.rotoballer.com/player-news/kirk-cousins-remains-a-must-add-despite-tough-upcoming-matchups/1983568
+- **NEW — Tre' Harris** — Tre' Harris has Deep-League Streaming Appeal in Favorable Week 9 Matchup (2026-11-04T10:47:04Z)
+  - Source: https://www.rotoballer.com/player-news/tre-harris-has-deep-league-streaming-appeal-in-favorable-week-9-matchup/1983557
+- **NEW — Jahan Dotson** — Jahan Dotson Worth Streaming in Deep Setups in Week 9 (2026-11-04T10:39:28Z)
+  - Source: https://www.rotoballer.com/player-news/jahan-dotson-worth-streaming-in-deep-setups-in-week-9/1983553
+- **NEW — Corey Kiner** — Corey Kiner Worth Stashing Amid Patriots Backfield Uncertainty (2026-11-04T10:31:09Z)
+  - Source: https://www.rotoballer.com/player-news/corey-kiner-worth-stashing-amid-patriots-backfield-uncertainty/1983546
+- **NEW — Michael Penix Jr.** — Michael Penix Jr. a Deep-League Streaming Option in Week 9 (2026-11-04T10:25:11Z)
+  - Source: https://www.rotoballer.com/player-news/michael-penix-jr-a-deep-league-streaming-option-in-week-9/1983535
+- **NEW — Brian Robinson Jr.** — Brian Robinson Limited on Falcons Estimated Injury Report Wednesday (2026-11-04T10:23:14Z)
+  - Source: https://www.rotoballer.com/player-news/brian-robinson-limited-on-falcons-estimated-injury-report-wednesday/1983519
+- **NEW — Jalen Nailor** — Jalen Nailor Remains a Deep-League Stash After Week 8 Touchdown (2026-11-04T10:10:11Z)
+  - Source: https://www.rotoballer.com/player-news/jalen-nailor-remains-a-deep-league-stash-after-week-8-touchdown/1983524
+- **NEW — Jonathan Taylor** — Colts Asking for a Lot for Jonathan Taylor (2026-11-04T09:59:09Z)
+  - Source: https://www.rotoballer.com/player-news/fowler-colts-asking-for-a-lot-for-jonathan-taylor/1983512
+- **NEW — Daniel Jones** — Daniel Jones on the Ravens' Radar as a Short-Term Option (2026-11-04T09:49:09Z)
+  - Source: https://www.rotoballer.com/player-news/fowler-daniel-jones-on-the-ravens-radar-as-a-short-term-option/1983502
+- **NEW — Deshaun Watson** — Deshaun Watson Placed in Concussion Protocol Wednesday (2026-11-04T09:45:12Z)
+  - Source: https://www.rotoballer.com/player-news/deshaun-watson-placed-in-concussion-protocol-wednesday/1983484
+- **NEW — Brandon Aiyuk** — Brandon Aiyuk Files to be Reinstated, Reporting to 49ers Facility Friday (2026-11-04T09:37:11Z)
+  - Source: https://www.rotoballer.com/player-news/brandon-aiyuk-files-to-be-reinstated-reporting-to-49ers-friday/1983459
+- **NEW — Derrick Henry** — Derrick Henry a Name to Watch Ahead of Deadline (2026-11-04T09:27:10Z)
+  - Source: https://www.rotoballer.com/player-news/graziano-derrick-henry-a-name-to-watch-ahead-of-deadline/1983474
+- **Josh Cameron** — Josh Cameron - Doesn't haul in only target Week 8 (2026-11-04T03:37:03Z)
   - Jacksonville didn't need to go to its air game much given the easy win, and QB Trevor Lawrence threw just 14 passes. None of those went to Cameron -- his only target (which he didn't catch) came from backup signal-caller Quinn Ewers in garbage time. Cameron did log a season-high 52 percent offensive snap share, but game script didn't do him any favors in terms of production. With no catches in three of his seven games this season, Cameron doesn't make for an appealing fantasy asset.
-- **NEW — Jack Bech** — Jack Bech - Gets no targets in return (2026-11-04T03:21:56Z)
+- **Jack Bech** — Jack Bech - Gets no targets in return (2026-11-04T03:21:56Z)
   - Bech returned from a four-game absence due to a forearm injury and logged a 40 percent offensive snap share, but he didn't get any looks from QB Kirk Cousins. In fact, Cousins didn't go to his wideout corps as a whole very often -- 16 of his 26 targets went to tight ends, and another four went to running back Ashton Jeanty. Bech will look to get back into the box score Sunday in a Week 9 matchup in San Francisco.
-- **NEW — Tyler Higbee** — Tyler Higbee - Another quiet performance Week 8 (2026-11-04T03:07:32Z)
+- **Tyler Higbee** — Tyler Higbee - Another quiet performance Week 8 (2026-11-04T03:07:32Z)
   - Higbee logged a hearty 83 percent offensive snap share, most among Rams tight ends. However, he got little attention from quarterback Matthew Stafford, recording just two targets. Higbee had a nice run in Weeks 3-5, when he logged 18 catches for 212 yards across the three-game span. However, since then he's posted just seven receptions for 50 yards across his subsequent three contests. As such, it's hard to trust Higbee on a week-to-week basis right now even with the Rams down multiple pass catchers in Davante Adams (hamstring - IR), Terrance Ferguson (ankle - IR) and Colby Parkinson (ribs).
-- **NEW — Darius Cooper** — Darius Cooper - Inefficient with six targets Sunday (2026-11-04T02:21:59Z)
+- **Darius Cooper** — Darius Cooper - Inefficient with six targets Sunday (2026-11-04T02:21:59Z)
   - Both of Cooper's catches came in the first half -- he didn't haul in any of his three targets in the second half. The second-year wideout led Eagles wideouts with 66 offensive snaps and finished second with the six targets, but it didn't amount to much production, as he couldn't form much of a connection with QB Tanner McKee. Despite an elevated role due to injuries to DeVonta Smith (hamstring) and Dontayvion Wicks (ankle) the past two weeks, Cooper has just three catches for 36 yards in that span, making him an unappealing fantasy option.
-- **NEW — Efton Chism III** — Efton Chism - Five catches in victory (2026-11-04T02:17:52Z)
+- **Efton Chism III** — Efton Chism - Five catches in victory (2026-11-04T02:17:52Z)
   - Chism led the team in targets and receptions, with A.J. Brown (ankle/knee) unavailable. The wide receiver played a season-high 88 percent of the team's offensive snaps, and he has now reeled in 15 of 20 targets for 151 yards and a touchdown over seven regular-season contests with New England so far this year.
-- **NEW — Corey Kiner** — Corey Kiner - Seven carries in Week 8 (2026-11-04T02:12:09Z)
+- **Corey Kiner** — Corey Kiner - Seven carries in Week 8 (2026-11-04T02:12:09Z)
   - Kiner operated as the top reserve option behind starting running back Rhamondre Stevenson in Week 8, with TreVeyon Henderson (illness) sidelined. Kiner has compiled 160 rushing yards on 28 carries while reeling in his only target for seven yards over the team's last four contests, and he could earn more opportunities moving forward.
-- **NEW — Tyler Higbee** — Tyler Higbee's Streaming Appeal Softens After Three Consecutive Duds (2026-11-04T01:50:52Z)
+- **Tyler Higbee** — Tyler Higbee's Streaming Appeal Softens After Three Consecutive Duds (2026-11-04T01:50:52Z)
   - Source: https://www.rotoballer.com/player-news/tyler-higbees-streaming-appeal-softens-after-three-consecutive-duds/1983370
-- **NEW — Malachi Fields** — Malachi Fields Can be a Fantasy-Relevant No. 2 as Giants' Offense Stays Afloat (2026-11-04T01:46:12Z)
+- **Malachi Fields** — Malachi Fields Can be a Fantasy-Relevant No. 2 WR (2026-11-04T01:46:12Z)
   - Source: https://www.rotoballer.com/player-news/malachi-fields-can-be-a-fantasy-relevant-no-2-as-giants-offense-stays-afloat/1983368
-- **NEW — Efton Chism III** — Efton Chism III a Top Beneficiary Amid Teammates' Absences (2026-11-04T01:41:09Z)
+- **Efton Chism III** — Efton Chism III a Top Beneficiary Amid Teammates' Absences (2026-11-04T01:41:09Z)
   - Source: https://www.rotoballer.com/player-news/efton-chism-iii-a-top-beneficiary-amid-teammates-absences/1983365
-- **NEW — Kyle Williams** — Kyle Williams Emerging as a Big-Play Threat Amid Teammate Injuries (2026-11-04T01:38:12Z)
+- **Kyle Williams** — Kyle Williams Emerging as a Big-Play Threat Amid WR Injuries (2026-11-04T01:38:12Z)
   - Source: https://www.rotoballer.com/player-news/kyle-williams-emerging-as-a-big-play-threat-amid-teammate-injuries/1983363
-- **NEW — Darius Cooper** — Darius Cooper Remains a Featured Receiver in Eagles' Injury-Riddled Offense (2026-11-04T01:33:55Z)
+- **Darius Cooper** — Darius Cooper Remains a Featured Receiver in Eagles' Injury-Riddled Offense (2026-11-04T01:33:55Z)
   - Source: https://www.rotoballer.com/player-news/darius-cooper-remains-a-featured-receiver-in-eagles-injury-riddled-offense/1983359
-- **NEW — Tank Dell** — Tank Dell a Midseason Waiver Wire Target with Increased Volume (2026-11-04T01:29:09Z)
+- **Tank Dell** — Tank Dell a Midseason Waiver-Wire Target with Increased Volume (2026-11-04T01:29:09Z)
   - Source: https://www.rotoballer.com/player-news/tank-dell-a-midseason-waiver-wire-target-with-increased-volume/1983354
 - **Tyler Allgeier** — Tyler Allgeier - Set for lead-back duties (2026-11-04T00:17:30Z)
   - Allgeier previously led the Cardinals' backfield when Love was sidelined due to a different ankle injury Weeks 6 and 7, but Allgeier is now slated for a longer period in that role. Love was hurt late in the first quarter in his return to action Sunday against Dallas, and Allgeier ran wild after his departure, finishing with a career-high 147 yards and a touchdown on 11 carries along with 44 yards and another score on five receptions. In addition to Love getting hurt, Bam Knight suffered a concussion and is iffy to be able to suit up this Sunday against Seattle, so the backfield could belong to Allgeier, Evan Hull and a practice-squad signee (likely Jerome Ford). Though Allgeier found substantial success in Week 8, he came into the contest averaging just 2.9 yards per carry on 61 totes. He'll also be facing a Seattle defense in Week 9 that is tied for the second-fewest yards per carry (3.8) allowed to running backs this season, so a repeat performance by Allgeier would be surprising.
@@ -37,15 +82,15 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - After the Ravens estimated him as a limited practice participant Monday on their initial Week 9 injury report, Hill took every rep Tuesday to clear up any concern about his availability heading into Thursday's game against the Jaguars. Hill should serve in his familiar role as the Ravens' top passing-down back in Week 9, with Derrick Henry continuing to lead the way on the ground.
 - **Brian Thomas Jr.** — Brian Thomas - Appealing trade target for number of teams (2026-11-03T23:56:00Z)
   - Since delivering an 87-1,282-10 receiving line over 17 games as a rookie in 2024, Thomas' production has cratered in the ensuing two seasons. He's been firmly behind fellow wideouts Parker Washington and Jakobi Meyers (hamstring/ankle) in terms of snap share through the Jaguars' first seven games of 2026 and has drawn more than three targets in just one of those contests. Though the vertical threat Thomas presents makes him an appealing target for teams seeking a big-play receiver ahead of the deadline, Rapoport acknowledges that it's unclear if the Jaguars have much motivation to move him. Despite his declining role within the Jacksonville offense, Thomas remains under contract through next season at relatively modest cap hits of $4.01 million in 2026 and $4.66 million in 2027.
-- **NEW — Deshaun Watson** — Deshaun Watson Not a Trustworthy Streamer in Single-QB Leagues (2026-11-03T22:58:11Z)
+- **Deshaun Watson** — Deshaun Watson Not a Trustworthy Streamer in Single-QB Leagues (2026-11-03T22:58:11Z)
   - Source: https://www.rotoballer.com/player-news/deshaun-watson-is-a-not-a-trustworthy-streamer-in-1-qb-leagues/1983329
-- **NEW — J.J. McCarthy** — Is J.J. McCarthy a Viable Streaming Option for Week 9? (2026-11-03T22:52:14Z)
+- **J.J. McCarthy** — Is J.J. McCarthy a Viable Streaming Option for Week 9? (2026-11-03T22:52:14Z)
   - Source: https://www.rotoballer.com/player-news/is-j-j-mccarthy-a-viable-streaming-option-for-week-9/1983326
-- **NEW — Samaje Perine** — Samaje Perine Doesn't Offer Much Waiver-Wire Appeal (2026-11-03T22:39:07Z)
+- **Samaje Perine** — Samaje Perine Doesn't Offer Much Waiver-Wire Appeal (2026-11-03T22:39:07Z)
   - Source: https://www.rotoballer.com/player-news/samaje-perine-doesnt-offer-much-waiver-wire-appeal/1983322
-- **NEW — Baker Mayfield** — Baker Mayfield is a Desperation Streaming Option at QB (2026-11-03T22:28:10Z)
+- **Baker Mayfield** — Baker Mayfield is a Desperation Streaming Option at QB (2026-11-03T22:28:10Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-is-a-desperation-stream-play/1983317
-- **NEW — Tutu Atwell** — Tutu Atwell Should Not be a Waiver-Wire Consideration (2026-11-03T22:02:09Z)
+- **Tutu Atwell** — Tutu Atwell Should Not be a Waiver-Wire Consideration (2026-11-03T22:02:09Z)
   - Source: https://www.rotoballer.com/player-news/tutu-atwell-should-not-be-a-waiver-wire-consideration/1983306
 - **Chris Rodriguez Jr.** — Chris Rodriguez Jr. (hand) limited in practice Tuesday  (2026-11-03T22:00:29.569000Z)
   - Rodriguez is on track to be good to go for Thursday's game against the Ravens. He could be in line for an expanded role with Bhayshul Tuten still sidelined from practice on Tuesday. 
@@ -60,7 +105,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Though he's managing a pair of lower-body concerns coming out of Sunday's win over the Colts, Meyers' ability to practice in any fashion Tuesday bodes well for his chances of playing Thursday against the Ravens. However, Meyers may need to upgrade to full practice participation Wednesday to avoid taking an injury designation into the Week 9 contest.
 - **Chris Rodriguez Jr.** — Chris Rodriguez - Limited in Tuesday's practice (2026-11-03T21:54:09Z)
   - Though he's been deemed a limited participant on both of the Jaguars' first two Week 9 practice reports, Rodriguez still looks to be in a better spot on the health front than Bhayshul Tuten (ankle/foot), who has yet to log any practice activity. If Tuten winds up being sidelined for Thursday's game in Baltimore, Rodriguez would be the favorite to lead the Jacksonville ground attack, provided he's not inhibited by his own hand injury.
-- **NEW — Brian Thomas Jr.** — Brian Thomas Jr. is Worth Stashing Ahead of Trade Deadline (2026-11-03T21:52:50Z)
+- **Brian Thomas Jr.** — Brian Thomas Jr. is Worth Stashing Ahead of Trade Deadline (2026-11-03T21:52:50Z)
   - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-is-worth-stashing-ahead-of-trade-deadline/1983304
 - **Jakobi Meyers** — Jakobi Meyers (hamstring/ankle) limited in practice Tuesday  (2026-11-03T21:50:29.598000Z)
   - Meyers is on track to be good to go. He'll remain a fringe WR3/WR4 for fantasy managers. 
@@ -72,12 +117,12 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Kendrick Bourne** — Kendrick Bourne (ankle) placed on IR (2026-11-03T21:40:29.454000Z)
   - Bourne suffered a broken tibia that will end his season. 
   - Source: https://www.fantasypros.com/nfl/news/617592/kendrick-bourne-ankle-placed-on-ir.php
-- **NEW — Travis Hunter** — Travis Hunter an Intriguing Stash Option (2026-11-03T21:35:35Z)
+- **Travis Hunter** — Travis Hunter an Intriguing Stash Option (2026-11-03T21:35:35Z)
   - Source: https://www.rotoballer.com/player-news/travis-hunter-is-intriguing-stash-option/1983297
 - **Tyler Loop** — Tyler Loop (groin) placed on IR (2026-11-03T21:35:29.732000Z)
   - Loop will be sidelined with a groin injury. Jake Moody will kick for Baltimore. 
   - Source: https://www.fantasypros.com/nfl/news/617587/tyler-loop-groin-placed-on-ir.php
-- **NEW — Adonai Mitchell** — Adonai Mitchell has Stash Value After Breakout Performance (2026-11-03T21:18:10Z)
+- **Adonai Mitchell** — Adonai Mitchell has Stash Value After Breakout Performance (2026-11-03T21:18:10Z)
   - Source: https://www.rotoballer.com/player-news/adonai-mitchell-has-stash-value-after-breakout-performance/1983273
 - **Jeremiyah Love** — Jeremiyah Love - Hits IR, out 4-to-5 weeks (2026-11-03T21:13:49Z)
   - Love's move to IR was fully expected, after Ian Rapoport of NFL Network reported earlier Tuesday that the rookie first-round pick was diagnosed with a right high-ankle sprain and was facing a projected recovery timeline of 4-to-5 weeks. While Love is on the mend, Tyler Allgeier is expected to step into a lead role out of the Arizona backfield beginning with the team's Week 9 game against Seattle.
@@ -178,47 +223,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/keon-colemans-limited-targets-temper-waiver-appeal/1982837
 - **Makai Lemon** — Makai Lemon Worth Waiver Adds Before Week 9 (2026-11-03T11:00:10Z)
   - Source: https://www.rotoballer.com/player-news/makai-lemon-worth-waiver-adds-before-week-9/1982828
-- **Devaughn Vele** — Devaughn Vele a Better Deep-League Fantasy Option for Week 9 (2026-11-03T10:54:09Z)
-  - Source: https://www.rotoballer.com/player-news/devaughn-vele-a-better-deep-league-fantasy-option-for-week-9/1982826
-- **Keenan Allen** — Keenan Allen Offers Standard League Streaming Upside in Week 9 (2026-11-03T10:48:52Z)
-  - Source: https://www.rotoballer.com/player-news/keenan-allen-offers-standard-league-streaming-upside-in-week-9/1982824
-- **Hunter Henry** — Hunter Henry Up in the Air for Week 9 (2026-11-03T10:47:09Z)
-  - Source: https://www.rotoballer.com/player-news/hunter-henry-up-in-the-air-for-week-9/1982821
-- **Sam Darnold** — Sam Darnold a Streaming Option in Favorable Week 9 Matchup (2026-11-03T10:40:31Z)
-  - Source: https://www.rotoballer.com/player-news/sam-darnold-a-streaming-option-in-favorable-week-9-matchup/1982816
-- **Courtland Sutton** — Courtland Sutton Worth Deep-League Usage in Week 9 (2026-11-03T10:33:09Z)
-  - Source: https://www.rotoballer.com/player-news/courtland-sutton-worth-deep-league-usage-in-week-9/1982814
-- **Breece Hall** — Frank Reich "Assuming" Breece Hall is Still the Lead Back (2026-11-03T10:26:14Z)
-  - Source: https://www.rotoballer.com/player-news/frank-reich-assuming-breece-hall-is-still-the-lead-back/1982811
-- **George Pickens** — Jerry Jones Says George Pickens Needs the Ball More (2026-11-03T10:23:10Z)
-  - Source: https://www.rotoballer.com/player-news/jerry-jones-says-george-pickens-needs-the-ball-more/1982779
-- **Ryan Flournoy** — Ryan Flournoy Could Be Set Up for a Larger Role (2026-11-03T09:59:09Z)
-  - Source: https://www.rotoballer.com/player-news/ryan-flournoy-could-be-set-up-for-a-larger-role/1982785
-- **Geno Smith** — Geno Smith Becoming a Viable Streaming Option Once Again (2026-11-03T09:53:09Z)
-  - Source: https://www.rotoballer.com/player-news/geno-smith-becoming-a-viable-streaming-option-once-again/1982773
-- **Devin Singletary** — Devin Singletary A Smart Waiver Wire Snag (2026-11-03T09:52:09Z)
-  - Source: https://www.rotoballer.com/player-news/devin-singletary-a-smart-waiver-wire-snag/1982771
-- **MarShawn Lloyd** — MarShawn Lloyd Retains Deep-League Value (2026-11-03T09:40:27Z)
-  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-retains-deep-league-value/1982748
-- **Malik Willis** — Malik Willis A Strong Streaming Option for Week 9 (2026-11-03T09:30:12Z)
-  - Source: https://www.rotoballer.com/player-news/malik-willis-a-strong-streaming-option-for-week-9/1982727
-- **Zach Charbonnet** — Zach Charbonnet Returns to Action on Monday Night Football (2026-11-03T09:21:08Z)
-  - Source: https://www.rotoballer.com/player-news/zach-charbonnet-returns-to-action-on-monday-night-football/1982714
-- **Jadarian Price** — Jadarian Price Leads Seattle's Backfield in His Return (2026-11-03T09:13:09Z)
-  - Source: https://www.rotoballer.com/player-news/jadarian-price-leads-seattles-backfield-in-his-return/1982704
-- **Sam Darnold** — Sam Darnold - Middling numbers in Week 8 loss (2026-11-03T05:24:51Z)
-  - Darnold averaged just 5.5 yards per attempt and took three sacks from a Bears defense that made an impact addition in Jeffery Simmons on Thursday via trade with the Titans. Darnold's 50.0 percent completion rate was a season low for him in non-injury-shortened games, and the veteran signal-caller also threw an interception for the sixth consecutive contest. Darnold did toss multiple touchdowns for the first time since Week 4, connecting with Jaxon Smith-Njigba (43 yards) and Cooper Kupp (seven yards) for his pair of scoring strikes. Darnold will take an unsightly 10:9 TD:INT heading into a Week 9 home matchup against the Cardinals on Sunday.
-- **Cooper Kupp** — Cooper Kupp finds end zone Monday (2026-11-03T05:20:53.046000Z)
-  - Kupp was able to catch a touchdown on Monday night, but that was his only reception, so he still had a terrible fantasy total over the course of the game. He remains entirely off of the fantasy radar moving forward.
-  - Source: https://www.fantasypros.com/nfl/news/617433/cooper-kupp-finds-end-zone-monday.php
-- **Jason Myers** — Jason Myers misses two kicks in loss Monday (2026-11-03T05:20:53.014000Z)
-  - Myers missed two kicks on Monday night. One of them wasn't his fault, as it was blocked by Chicago, but there were still four points left out on the field by the veteran kicker. He isn't expected to be among the top kickers in fantasy over the back half of the season.
-  - Source: https://www.fantasypros.com/nfl/news/617435/jason-myers-misses-two-kicks-loss-monday.php
-- **Zach Charbonnet** — Zach Charbonnet - Nine touches in season debut (2026-11-03T05:19:10Z)
-  - Charbonnet took the first carry of the night for Seattle, gaining an encouraging five yards on his first tote since tearing his left ACL in a divisional-round win over the 49ers in January. He also subsequently rattled off a 13-yard gain in the third quarter, but he was limited on his other touches and ultimately had four fewer rush attempts than Jadarian Price. Charbonnet's snap share and touches should gradually increase, and a Week 9 home matchup against the Cardinals could serve as a good platform for his workload to see a nice bump.
-- **Cooper Kupp** — Cooper Kupp - Scores TD on only Week 8 reception (2026-11-03T05:18:03Z)
-  - Kupp had another low target share, but he at least made the most of his only catch by hauling in a seven-yard TD early in the fourth quarter. That score probably isn't going to be enough to inspire confidence in him in fantasy, though, given that the veteran wideout has drawn three or fewer targets in six of his eight games this season. Kupp's seven receiving yards Monday also were a season-low mark, and there simply doesn't seem to be much room for any wideout aside from Jaxon Smith-Njigba to regularly find success in Seattle's offense given Smith-Njigba's massive target share. With that said, Kupp at least will have a favorable matchup in Week 9, as he'll face an Arizona defense that has surrendered 11 receiving TDs to wideouts this season, tied for the most in the NFL.
-- **Jason Myers** — Jason Myers - Misses pair of kicks in MNF loss (2026-11-03T05:17:57Z)
-  - Myers converted a chip-shot 27-yard field goal in the second quarter but later missed an extra point wide to the left before halftime. He then had a 33-yard field-goal try blocked in the fourth quarter. On the season, the veteran kicker is 14-for-16 on FGAs and 17-for-19 on PATs. He'll be a kicker to stream next Sunday at home against the Cardinals.
-- **Jadarian Price** — Jadarian Price - Gains 37 total yards in return (2026-11-03T05:13:55Z)
-  - Making his return from a four-game stay on injured reserve due to a chest injury, Price ended up leading the Seahawks' ground attack in carries and rushing yards. Price's return coincided with the season debut of Zach Charbonnet (knee), who logged six carries in his own right in a game whose script eventually turned unfriendly to the running game. Monday may have served as a preview of what might be expected in terms of the division of labor between the two players, but more information will be gleaned during a Week 9 home matchup against the Cardinals on Sunday that should afford both backs more opportunities.
