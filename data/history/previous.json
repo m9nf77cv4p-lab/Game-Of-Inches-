@@ -21922,7 +21922,7 @@
       ],
       "first_name": "Denzel",
       "full_name": "Denzel Boston",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Boston",
       "nfl_team": "CLE",
       "player_id": "13346",
@@ -22417,7 +22417,7 @@
       ],
       "first_name": "Alvin",
       "full_name": "Alvin Kamara",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Kamara",
       "nfl_team": "NO",
       "player_id": "4035",
@@ -22507,7 +22507,7 @@
       ],
       "first_name": "Matthew",
       "full_name": "Matthew Stafford",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Stafford",
       "nfl_team": "LAR",
       "player_id": "421",
@@ -22552,7 +22552,7 @@
       ],
       "first_name": "Saquon",
       "full_name": "Saquon Barkley",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Barkley",
       "nfl_team": "PHI",
       "player_id": "4866",
@@ -22966,7 +22966,7 @@
       "years_exp": 7
     },
     "650": {
-      "age": 41,
+      "age": 42,
       "fantasy_positions": [
         "K"
       ],
@@ -23677,7 +23677,7 @@
       ],
       "first_name": "George",
       "full_name": "George Pickens",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Pickens",
       "nfl_team": "DAL",
       "player_id": "8137",
@@ -24668,8 +24668,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-04T21:53:52Z",
-    "source_fingerprint": "598d18d609af3b7daeabefe1f5a5bee3d7c21b2bd9615cd1373cb85949914ebf"
+    "last_changed_at": "2026-11-05T01:57:29Z",
+    "source_fingerprint": "1fbc7bc9455a563c7ddafce7074883b8d906c93ef5fed2d474e2d1a01b7e3d18"
   },
   "teams": [
     {
