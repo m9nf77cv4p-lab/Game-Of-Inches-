@@ -2,235 +2,239 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6238**
-- Newly captured: **34**
+- Stored stories: **6323**
+- Newly captured: **102**
 
 ## Latest news
 
-- **NEW — Kyler Murray** — Kyler Murray (hamstring) may not start in Week 9 (2026-11-05T17:25:46.178000Z)
+- **NEW — DeVonta Smith** — DeVonta Smith - Misses Thursday's practice (2026-11-05T22:38:37Z)
+  - Smith has yet to mix into any drills since his last appearance in Week 6 against the Panthers, missing the last two contests due to a hamstring issue. With a Week 10 bye on the horizon, the Eagles may be focusing on getting him healthy for the final eight weeks of the campaign. In any case, Smith's status for Sunday's contest against the Giants may gain some clarity once the team posts its final Week 9 injury report Friday.
+- **NEW — Saquon Barkley** — Saquon Barkley - Limited Thursday (2026-11-05T22:33:49Z)
+  - Barkley followed up Wednesday's DNP with some activity one day later as he deals with lingering hamstring and back injuries. Friday's practice report will determine if he enters the weekend with a designation for Sunday's game against the Giants. While playing through those health concerns this past Sunday in Washington, Barkley logged a 32 percent snap share and racked up 14 touches for 54 yards from scrimmage and one rushing TD.
+- **NEW — Keon Coleman** — Keon Coleman - Limited Thursday (2026-11-05T22:21:30Z)
+  - It's a new injury for Coleman, who is on the injury report for the first time since Week 4. With both DJ Moore (knee) and Dalton Kincaid (chest) healthy last Sunday against the Ravens, Coleman caught just one pass for four yards on three targets.
+- **NEW — Dalton Kincaid** — Dalton Kincaid - Limited at practice Thursday (2026-11-05T22:10:21Z)
+  - Fellow pass catchers DJ Moore (shoulder) and Keon Coleman (shoulder) were also limited Thursday, so the trio's status will need to be monitored ahead of Monday night's game against the Vikings. Over his last two outings, Kincaid has managed to make his mark from a fantasy perspective by logging an 11/124/1 receiving line in that span.
+- **NEW — DJ Moore** — DJ Moore - Limited participant Thursday (2026-11-05T22:04:10Z)
+  - Moore mustered some level of activity in Buffalo's first practice of Week 9 after downplaying the knee injury that forced him out late in the Week 8 win over Baltimore. He has an extra day to recover before the Bills face the Vikings on MNF. Moore has two more chances to practice without limitations and put himself in the clear to suit up.
+- **NEW — Jaylen Wright** — Jaylen Wright - Limited Thursday (2026-11-05T22:01:18Z)
+  - Wright has been battling various issues all season and hasn't been effective when on the field, yet he's still operating as the Dolphins' lightly-used RB2 behind Ollie Gordon. Wright is averaging a microscopic 1.9 yards per carry this season.
+- **NEW — Jake Ferguson** — Jake Ferguson - Remains unavailable Thursday (2026-11-05T21:57:26Z)
+  - Ferguson's back-to-back absences to kick off Week 9 prep don't bode well for his availability Sunday against the Colts. He sustained a low-ankle sprain after playing just four snaps during Dallas' Week 8 loss to the Cardinals. Brevyn Spann-Ford worked as the team's top TE after Ferguson's exit. Ferguson will have one more opportunity to practice Friday before Dallas posts Week 9 game statuses.
+- **NEW — Bhayshul Tuten** — Bhayshul Tuten (ankle) should be good to go for TNF (2026-11-05T21:55:47.512000Z)
+  - Tuten looked fine durinf his final touches on Sunday, but practice reports didn't look especially promising at first. However, his status has improved and it sounds like he will be active for Thursday. Start him if he's active.
+  - Source: https://www.fantasypros.com/nfl/news/618050/bhayshul-tuten-ankle-should-be-good-to-go-tnf.php
+- **NEW — Bhayshul Tuten** — Bhayshul Tuten - Expected to play Thursday (2026-11-05T21:51:55Z)
+  - Tuten logged 'DNP' listings on all three of the Jaguars' Week 9 injury reports ahead of the contest and had been considered a game-time decision. Fowler's report indicates that the running back is trending toward active status, but those considering Tuten in Week 9 fantasy lineups will nonetheless want to verify his playing status ahead of Thursday's 8:15 pm ET kickoff.
+- **NEW — George Pickens** — George Pickens - Another limited session (2026-11-05T21:51:55Z)
+  - Pickens maintained his activity level from Wednesday as he deals with lingering shoulder and hamstring injuries. He still was able to handle a 57 percent snap share this past Sunday against the Cardinals, but he mustered only two catches (on four targets) for 48 yards. Friday's practice report will unveil whether or not Pickens heads into the weekend with a designation for Sunday's game at Indianapolis.
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Logs another 'DNP' Thursday (2026-11-05T21:48:59Z)
+  - Henderson officially goes down as a non-participant for a second consecutive Week 9 practice and has now missed a full week due to this illness. His participation level will be worth monitoring Friday, though it looks likely at this point that Henderson will carry an injury designation into Sunday's game against the Packers. Corey Kiner would be in line to maintain an expanded role alongside Rhamondre Stevenson if Henderson sits again Sunday.
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd - Dealing with knee issue (2026-11-05T21:45:52Z)
+  - Lloyd's addition to the Packers' practice report midweek is something to monitor, especially because it may indicate a health concern that occurred during Thursday's session. Ultimately, Friday's injury report may provide some clarity into the situation.
+- **NEW — Christian Watson** — Christian Watson (rib) limited in practice Thursday  (2026-11-05T21:45:47.977000Z)
+  - Watson is continuing to trend towards being good to go for Sunday's game against the Patriots. 
+  - Source: https://www.fantasypros.com/nfl/news/618049/christian-watson-rib-limited-practice-thursday.php
+- **NEW — Alvin Kamara** — Alvin Kamara - Limited Thursday (2026-11-05T21:42:06Z)
+  - Kamara followed up Wednesday's absence from practice with some activity one day later as he eases into the week due to a lingering back issue. Friday's injury report will reveal if he has a designation for Sunday's game against the Browns.
+- **NEW — Lamar Jackson** — Lamar Jackson (thumb) officially placed on IR (2026-11-05T21:40:47.678000Z)
+  - Jackson is expected to require surgery on his thumb injury. His status to return this season remains up in the air. 
+  - Source: https://www.fantasypros.com/nfl/news/618046/lamar-jackson-thumb-officially-placed-on-ir.php
+- **NEW — Harold Fannin Jr.** — Harold Fannin Jr. (groin) added to injury report Thursday  (2026-11-05T21:40:47.655000Z)
+  - Fannin was added to the injury report. He will need to be monitored in practice on Friday. 
+  - Source: https://www.fantasypros.com/nfl/news/618048/harold-fannin-jr-groin-added-to-injury-report-thursday.php
+- **NEW — Travis Kelce** — Travis Kelce - Logs full practice Thursday (2026-11-05T21:39:32Z)
+  - Kelce was deemed a limited participant Wednesday, but the tight end's full participation Thursday paves the way for him to be in uniform Sunday against the Jets. Over his last two games, the Chiefs' leader in catches and receiving yards has amassed nine catches on 15 targets for 111 yards with a TD, and as long as he stays healthy he'll merit weekly fantasy lineup consideration.
+- **NEW — A.J. Brown** — A.J. Brown - Thursday's DNP confirmed (2026-11-05T21:38:51Z)
+  - Thursday's injury report confirms Brown's absence after he wasn't spotted earlier in the day. Brown has missed the team's first two practices leading up to Sunday's game against the Packers, suggesting he's fighting an uphill battle in his effort to avoid missing a second consecutive game. He has dressed for only three of New England's first eight games. DeMario Douglas, Efton Chism, Kyle Williams and possibly Mack Hollins (calf) would lead the Patriots' wide receiver room Sunday if Brown sits again.
+- **NEW — Christian Watson** — Christian Watson - Stays limited Thursday (2026-11-05T21:36:09Z)
+  - Watson now has back-to-back capped sessions under his belt to begin Week 9 prep, which stems from the broken rib that he suffered during last Thursday's win against the Panthers. He'll have one more chance Friday to get back to full participation, at which point the Packers may tag him with a designation for Sunday's contest at New England.
+- **NEW — Rashee Rice** — Rashee Rice - Full participant Thursday (2026-11-05T21:34:17Z)
+  - Rice is off the injury report Thursday after kicking off Week 9 prep with a limited session Wednesday. The oft-injured wide receiver has been limited to five appearances this season, one of which he left before recording a catch, but he has 20 catches for 243 yards and two touchdowns across the other four games. With Rice getting healthier, he could feast Sunday against a Jets defense that's allowing 30.7 points per game during an active three-game losing streak.
+- **NEW — Denzel Boston** — Denzel Boston - Remains limited Thursday (2026-11-05T21:32:38Z)
+  - Boston dealt with a foot issue a couple weeks ago, but the calf injury is new this week. The rookie wideout has been scuffling after a hot start to the season. Perhaps the likely insertion of Shedeur Sanders this Sunday against the Saints can help Boston regain his big-play ability. Boston is a low-floor, upside WR4 for fantasy.
+- **NEW — Jordyn Tyson** — Jordyn Tyson (hamstring) practices Thursday  (2026-11-05T21:30:47.524000Z)
+  - Tyson was limited on Wednesday as he made his return to practice. It is unclear if he'll be activated by the Saints this week. 
+  - Source: https://www.fantasypros.com/nfl/news/618034/jordyn-tyson-hamstring-practices-thursday.php
+- **NEW — Keenan Allen** — Keenan Allen returns to practice on Thursday  (2026-11-05T21:30:47.509000Z)
+  - Allen got a rest day to begin the week on Wednesday. He remains a fringe WR3/WR4 for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/618035/keenan-allen-returns-to-practice-on-thursday.php
+- **NEW — Jonathan Taylor** — Jonathan Taylor logs full practice Thursday  (2026-11-05T21:30:47.470000Z)
+  - Taylor was upgraded after he was limited in practice on Wednesday. He is slated to play at least one more game with the Colts before a potential trade happens next week. 
+  - Source: https://www.fantasypros.com/nfl/news/618038/jonathan-taylor-logs-full-practice-thursday.php
+- **NEW — A.J. Brown** — A.J. Brown (knee/ankle) misses practice Thursday  (2026-11-05T21:30:47.443000Z)
+  - Brown is continuing to trend towards missing another game for the Patriots. He will need to be monitored in practice on Friday to end the week. 
+  - Source: https://www.fantasypros.com/nfl/news/618040/aj-brown-kneeankle-misses-practice-thursday.php
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson (illness) misses practice Thursday  (2026-11-05T21:30:47.431000Z)
+  - Henderson is continuing to trend towards missing another game for the Patriots. He will need to be monitored in practice on Friday to end the week. 
+  - Source: https://www.fantasypros.com/nfl/news/618041/treveyon-henderson-illness-misses-practice-thursday.php
+- **NEW — Hunter Henry** — Hunter Henry (foot) misses practice Thursday  (2026-11-05T21:30:47.417000Z)
+  - Henry sat out of practice for the second straight day. He'll likely have to practice in some capacity on Friday to have a chance to play in Week 9. 
+  - Source: https://www.fantasypros.com/nfl/news/618042/hunter-henry-foot-misses-practice-thursday.php
+- **NEW — Cam Skattebo** — Cam Skattebo - Remains sidelined at practice (2026-11-05T21:29:35Z)
+  - Coming out of New York's Week 8 bye, Skattebo hasn't been able to practice this week due to the hamstring injury that he suffered near the end of a Week 7 win at Houston. Friday's injury report will reveal his odds to suit up Sunday at Philadelphia, but if Skattebo is inhibited or sidelined, Devin Singletary is the next player up in the Giants backfield, Greg Desrosiers is the only other RB on the active roster, and Eric Gray and Phil Mafah are candidates to be elevated from the practice squad.
+- **NEW — Jordyn Tyson** — Jordyn Tyson - Remains limited Thursday (2026-11-05T21:26:47Z)
+  - Tyson has logged consecutive limited practices since having his 21-day window to return from IR opened Wednesday. The rookie first-round pick could make his NFL regular-season debut as soon as Sunday against the Browns, though the Saints would probably want him to log at least one full practice before seeing game action, so it's more likely that Tyson's debut will be delayed at least one more week. His return to action would be proceeded by an official move adding Tyson to the 53-man roster.
+- **NEW — Harold Fannin Jr.** — Harold Fannin - Added to Week 9 injury report (2026-11-05T21:26:11Z)
+  - Fannin wasn't listed on Wednesday's injury report, so his appearance on it a day later is notable. It remains to be seen if Thursday's listed limitations were maintenance-related or indicative of a setback, but the tight end may need to work fully Friday in order to approach Sunday's game against the Saints without an injury designation.
+- **NEW — Malik Nabers** — Malik Nabers - DNP due to knee injury (2026-11-05T21:23:42Z)
+  - Nabers opened Thursday's session working on the side with trainers, and afterward he told Art Stapleton of USA Today, "I'll be good," as it pertains to his status for Week 9. In any case, the reason for Nabers' absence is a knee issue, which could be related to the right ACL tear that ended his 2025 season in Week 4. He'll have one more chance to prove his health Friday, at which point the Giants may tag him with a designation for Sunday's game in Philadelphia.
+- **NEW — Alvin Kamara** — Alvin Kamara (rest/back) practices Thursday  (2026-11-05T21:20:47.835000Z)
+  - Kamara missed practice on Wednesday. He'll need to be monitored on the official injury report for New Orleans. 
+  - Source: https://www.fantasypros.com/nfl/news/618033/alvin-kamara-restback-practices-thursday.php
+- **NEW — Amon-Ra St. Brown** — Amon-Ra St. Brown - Remains limited Thursday (2026-11-05T21:18:11Z)
+  - St. Brown maintained his activity level from Wednesday's walkthrough as he navigates a rib injury, which was likely the reason for his brief time on the sideline this past Sunday against the Vikings. He thus has one more chance to get back to full Friday, or else he'll be at risk of entering the weekend with a designation for Sunday's game at Miami.
+- **NEW — Lamar Jackson** — Lamar Jackson - Officially placed on IR (2026-11-05T21:17:31Z)
+  - Prior to Thursday night's game against the Jaguars, the Ravens made a trio of moves to re-shape their Week 9 QB corps. Along with Jackson, Tyler Huntley (toe) landed on IR, while Austin Reed was added to the team's active roster. As a result, Joe Fagnano (Thursday's starter), Kedon Slovis and Austin Reed are available to face Jacksonville, and then in the coming days Jacoby Brissett will be on his way to Baltimore via a looming trade with the Cardinals.
+- **NEW — Deebo Samuel Sr.** — Deebo Samuel - Not spotted Thursday (2026-11-05T21:17:17Z)
+  - Samuel hasn't played or practiced since sustaining a hamstring injury in San Francisco's Week 5 win over the Seahawks. He'll likely require at least some ramp-up period upon returning to practice, and GM John Lynch indicated Thursday that Samuel is expected to sit out Sunday's game against the Raiders. Samuel's likely to be formally ruled out on Friday's injury report.
+- **NEW — Mike Evans** — Mike Evans - Misses open portion Thursday (2026-11-05T21:12:46Z)
+  - Evans' absence Thursday comes as no surprise considering GM John Lynch stated earlier in the day that Evans is unlikely to return Sunday against the Raiders. Barring an unexpectedly quick recovery, Evans will sit out a second consecutive game sandwiched around San Francisco's Week 8 bye before possibly returning in Week 10 at Dallas. At 6-1, the 49ers can afford to take a cautious approach with the top option in their injury-riddled wide receiver room.
+- **NEW — Christian McCaffrey** — Christian McCaffrey - Suited up for Thursday's practice (2026-11-05T21:12:44Z)
+  - McCaffrey was hampered by a left hamstring injury during the 49ers' last game, a Week 7 loss in Atlanta. Even with the benefit of a Week 8 bye, he didn't practice Wednesday, after which he touched on the health concern. "I had no idea (it was a hamstring injury)," he told Vic Tafur and Matt Barrows of The Athletic. "It wasn't too bad. Having the bye week was awesome. But now I feel great." Thursday's practice report will reveal how much work McCaffrey was able to handle.
+- **NEW — Christian McCaffrey** — Christian McCaffrey (hamstring) seen practicing Thursday (2026-11-05T21:10:47.438000Z)
+  - McCaffrey was not able to practice on Wednesday due to a hamstring issue that he's managing, but he was back and participating at the team's practice on Thursday. That's a great sign for his Week 9 availability, and we should get more information sometime after practice.
+  - Source: https://www.fantasypros.com/nfl/news/618030/christian-mccaffrey-hamstring-seen-practicing-thursday.php
+- **NEW — Breece Hall** — Breece Hall (quad) logs full practice Thursday (2026-11-05T21:10:47.423000Z)
+  - Hall was upgraded to a full participant at practice on Thursday after being limited on Wednesday. He told reporters that he will be ready to play in Week 9, so fantasy managers should expect to see him out on the field on Sunday, barring any unforeseen setbacks between now and then.
+  - Source: https://www.fantasypros.com/nfl/news/618031/breece-hall-quad-logs-full-practice-thursday.php
+- **NEW — Breece Hall** — Breece Hall - Practices fully Thursday (2026-11-05T21:08:34Z)
+  - After opening the week with a limited session, Hall upgraded to full participation Thursday, indicating that he's in the clear to return Sunday against the Chiefs for his first action since Week 3. Braelon Allen has thrived in the lead role during Hall's absence, and offensive coordinator Frank Reich said Thursday that the Jets intend to utilize "a mix" of the two running backs Sunday, per Al Iannazzone of Newsday Sports. Hall is the superior receiving back, but Allen is averaging 5.0 yards per carry while Hall averaged just 3.2 YPC prior to getting hurt.
+- **NEW — Garrett Wilson** — Garrett Wilson - Does not practice Thursday (2026-11-05T21:07:37Z)
+  - Wilson remains in concussion protocol and has not practiced thus far this week. He was placed in protocol midweek, which makes it an uphill climb for him to be cleared for Sunday's game at the Chiefs. If Wilson can't clear protocol, fantasy managers can expect more targets for Adonai Mitchell and Omar Cooper.
+- **NEW — Alvin Kamara** — Alvin Kamara - Returns to practice Thursday (2026-11-05T21:02:41Z)
+  - The veteran RB was back on the field Thursday after getting a rest day to open the practice week. Kamara has also dealt with a back issue that limited his practice participation in recent weeks. The Saints are coming off a bye, so the added time off likely bodes well for Kamara being closer to full strength heading into Week 9 against the Browns. New Orleans' practice report will provide insight on Kamara's participation level, but he seems to be trending in the right direction regardless.
+- **NEW — Jonathan Taylor** — Jonathan Taylor - Set to play Sunday amid trade rumors (2026-11-05T20:59:38Z)
+  - "You can't avoid it," Taylor said of the trade rumors. "But it's more about trying to block that out." Taylor's preparing for what could well be his last game as a member of the Colts. Per NFL reporter Jordan Schultz, the 2-6 Colts have received trade calls on numerous players including Taylor, but Indianapolis doesn't intend to complete any additional trades prior to the conclusion of Sunday's game.
+- **NEW — Kenny Gainwell** — Kenny Gainwell - Full practice Thursday (2026-11-05T20:57:47Z)
+  - Gainwell also tended to a hip injury last week, when he got back to full by Friday, but he still entered the weekend listed as questionable for Week 8 action. He proceeded to suit up this past Sunday against the Falcons and split Tampa Bay's backfield with Bucky Irving, logging a 50 percent snap share and going for 140 yards on 25 carries in rainy conditions. Considering Gainwell followed up Wednesday's limited session with an uncapped one Thursday, he's good to go for Sunday's road showdown with the Bears.
+- **NEW — Emeka Egbuka** — Emeka Egbuka - Upgrades to full practice (2026-11-05T20:55:56Z)
+  - After missing Wednesday's practice, Egbuka was back in the mix in full on Thursday. The second-year wideout has missed the last two games due to a concussion and a foot injury, but appears to be on track to return Sunday in Chicago. Getting Egbuka back in the fold would be a boon for a Buccaneers' passing game which has yet to hit its stride this season.
+- **NEW — Kyle Monangai** — Kyle Monangai (thumb/toe) doesn't practice Thursday (2026-11-05T20:50:47.112000Z)
+  - Monangai has already been sidelined for several weeks due to a pair of issues that he's dealing with, and he wasn't able to practice on Thursday as a result. He seems unlikely to play in Week 9, which will leave Roschon Johnson as Chicago's Rb2 behind D'Andre Swift for another game.
+  - Source: https://www.fantasypros.com/nfl/news/618026/kyle-monangai-thumbtoe-doesnt-practice-thursday.php
+- **NEW — Kyle Monangai** — Kyle Monangai - Another DNP on Thursday (2026-11-05T20:40:33Z)
+  - Monangai also missed Wednesday's walkthrough due to the turf-toe injury that has sidelined him the last four contests. With no activity to speak of so far and just one more chance to practice this week, he seems to be trending toward another absence Sunday against the Buccaneers, something that may be confirmed on Friday's injury report. D'Andre Swift will continue to pace the Bears backfield for as long as Monangai is sidelined, with Roschon Johnson on hand for any RB reps that linger.
+- **NEW — Malik Nabers** — Malik Nabers - Offers positive update (2026-11-05T20:30:17Z)
+  - Nabers was spotted working with the Giants' training staff during the media-access portion of Thursday's practice, one day removed from not being on the team's initial Week 9 injury report. The reason for his likely practice restrictions isn't known but will be revealed once New York posts its second injury report of the week.
+- **NEW — Michael Wilson** — Michael Wilson - Still in non-contact jersey (2026-11-05T20:23:30Z)
+  - Wilson has been wearing said jersey the past two weeks due to what he noted are two broken ribs. He still played through the pain this past Sunday in Dallas, despite exiting for a spell in the middle of the contest, ending Week 8 with eight catches (on 15 targets) for 111 yards and one touchdown and one carry for 17 yards. Thursday's injury report will unveil Wilson's activity level.
+- **NEW — Breece Hall** — Breece Hall - Says he's ready to go this week (2026-11-05T20:20:40Z)
+  - Hall, who hasn't played since Sept. 27, participated in Thursday's practice, though it remains to be seen if the Jets list him as a full or limited participant. In any case, the running back is trending toward a return to action this weekend, and if he is indeed available versus Kansas City, Hall would be re-joining a backfield that's been capably paced paced by Braelon Allen in his absence.
+- **NEW — Zonovan Knight** — Bam Knight - Absent from Thursday practice (2026-11-05T20:12:46Z)
+  - Assuming Knight goes down as a non-participant Thursday, his lack of activity so far this week doesn't give him a good chance to gain clearance from the concussion protocol ahead of Sunday's game at Seattle. With Jeremiyah Love (ankle) hitting IR on Tuesday, Tyler Allgeier is poised to lead the Cardinals backfield until Knight is back in action, at which point there's expected to be more of a even split between the two.
+- **NEW — Saquon Barkley** — Saquon Barkley practicing Thursday  (2026-11-05T19:40:47.574000Z)
+  - Barkley is on track to be good to go for Sunday's game against his former team in the Giants. He'll remain on the RB2 radar for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/618019/saquon-barkley-practicing-thursday.php
+- **NEW — DeVonta Smith** — DeVonta Smith (hamstring) not practicing Thursday  (2026-11-05T19:40:47.558000Z)
+  - Smith is continuing to trend in the wrong direction to return for Sunday's game against the Giants. 
+  - Source: https://www.fantasypros.com/nfl/news/618020/devonta-smith-hamstring-not-practicing-thursday.php
+- **NEW — Dontayvion Wicks** — Dontayvion Wicks (ankle) not practicing Thursday  (2026-11-05T19:40:47.540000Z)
+  - Wicks is continuing to trend in the wrong direction to return for Sunday's game against the Giants. 
+  - Source: https://www.fantasypros.com/nfl/news/618021/dontayvion-wicks-ankle-not-practicing-thursday.php
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson - Not present Thursday (2026-11-05T19:38:26Z)
+  - Henderson hasn't practiced since last Wednesday as he deals with an illness. Unless he returns to drills Thursday and/or Friday this week, he may be in danger of missing a second game in a row Sunday against the Packers. Thursday's injury report will reveal Henderson's activity level.
+- **NEW — Hunter Henry** — Hunter Henry - Absent again Thursday (2026-11-05T19:37:08Z)
+  - Henry has started Week 9 prep with back-to-back absences after exiting during the Patriots' Week 8 win over Miami. If the veteran tight end is unable to practice in at least some capacity Friday, he'll likely be ruled out for Sunday's game against the Packers, paving the way for rookie third-round pick Eli Raridon to take on an expanded role.
+- **NEW — Dontayvion Wicks** — Dontayvion Wicks - Not spotted again Thursday (2026-11-05T19:33:48Z)
+  - Wicks continues to sit out drills for a third straight week due to an ankle injury. If he goes down as a non-participant again Thursday, he'll have only one more opportunity to practice this week, or else he'll be at risk of missing a third consecutive contest Sunday against the Giants.
+- **NEW — A.J. Brown** — A.J. Brown - Absent again Thursday (2026-11-05T19:32:30Z)
+  - Brown appears set for a second straight missed practice after sitting out Wednesday's session on the heels of his absence during New England's Week 8 win over Miami. He'll have one more chance to practice Friday and will likely have to participate in some capacity to avoid being ruled out for Sunday's game against the Packers.
+- **NEW — Jaylen Wright** — Jaylen Wright (quad) returns to practice Thursday  (2026-11-05T19:30:47.067000Z)
+  - Wright remains off the fantasy radar in his current role. 
+  - Source: https://www.fantasypros.com/nfl/news/618013/jaylen-wright-quad-returns-to-practice-thursday.php
+- **NEW — Malik Nabers** — Malik Nabers works off to side with trainers during practice Thursday  (2026-11-05T19:30:47.054000Z)
+  - It is unclear what Nabers is dealing with. He will need to be monitored when the injury report for Thursday is released. 
+  - Source: https://www.fantasypros.com/nfl/news/618014/malik-nabers-works-off-to-side-with-trainers-during-practice-thursday.php
+- **NEW — Kyler Murray** — Kyler Murray (hamstring) week-to-week  (2026-11-05T19:30:47.046000Z)
+  - Carson Wentz was named the Vikings starter for Monday's game against the Bills. Murray could become the backup for Minnesota if Wentz plays well. 
+  - Source: https://www.fantasypros.com/nfl/news/618015/kyler-murray-hamstring-week-to-week.php
+- **NEW — Deshaun Watson** — Deshaun Watson (concussion) not practicing Thursday  (2026-11-05T19:30:47.036000Z)
+  - Watson remains in concussion protocol. He is continuing to trend in the wrong direction for Sunday's game against the Saints. 
+  - Source: https://www.fantasypros.com/nfl/news/618016/deshaun-watson-concussion-not-practicing-thursday.php
+- **NEW — Cam Skattebo** — Cam Skattebo (hamstring) working on side with trainer in practice Thursday  (2026-11-05T19:30:47.023000Z)
+  - Skattebo will likely be listed as a non-participant in practice again on Thursday. His status for Week 9 is uncertain. 
+  - Source: https://www.fantasypros.com/nfl/news/618017/cam-skattebo-hamstring-working-on-side-with-trainer-practice-thursday.php
+- **NEW — DeVonta Smith** — DeVonta Smith - Non-participant again Thursday (2026-11-05T19:29:24Z)
+  - Smith hasn't practiced or played since he suited up for Philadelphia's Week 6 loss to the Panthers. He's trending toward a third consecutive absence Sunday against the Giants. With Dontayvion Wicks (ankle) also yet to resume practicing, Makai Lemon looks set to lead Philadelphia's receiving corps for a third consecutive game.
+- **NEW — Saquon Barkley** — Saquon Barkley - Practicing Thursday (2026-11-05T19:27:53Z)
+  - After sitting out Wednesday's practice due to existing hamstring and back injuries, Barkley is returning to drills one day later, which is one day earlier than a week ago. He thus appears to be a bit healthier this time around, but his activity level will become known once the Eagles post their second Week 9 practice report Thursday.
+- **NEW — Jaylen Wright** — Jaylen Wright - Returns to practice Thursday (2026-11-05T19:16:57Z)
+  - Wright didn't practice Wednesday, so Thursday's practice appearance is a step in the right direction, but the extent of his participation remains to be seen. Ollie Gordon has cemented himself as the lead back for the Dolphins, while Wright hasn't exceeded six touches in a game this season.
+- **NEW — Brandon Aiyuk** — Brandon Aiyuk - Path forward murky (2026-11-05T19:09:30Z)
+  - Lynch previously stated "I think it's safe to say that he's played his last snap with the Niners" regarding Aiyuk in January, but the GM was much less definitive Thursday when asked about a reunion with Aiyuk, responding with "I think everything's possible." Head coach Kyle Shanahan gave a similar answer Wednesday, stating "There's no absolutes in life." The 49ers are working with the NFL management council to find a resolution to Aiyuk's situation, so the team's front office and coaching staff are treating this situation as an ongoing legal matter. If Aiyuk is successfully reinstated, the 49ers could trade him, release him or add him to the active roster.
+- **NEW — DJ Moore** — DJ Moore - Poised to practice Thursday (2026-11-05T18:49:58Z)
+  - Cameron Wolfe of NFL Network previously reported that Moore downplayed his late-game exit from this past Sunday's 36-10 win over the Ravens, which aligns with his looming practice presence. The Bills' Thursday injury report will reveal the wideout's official participation level, either way.
+- **NEW — Cam Skattebo** — Cam Skattebo - Working with trainers Thursday (2026-11-05T18:43:41Z)
+  - Per Dan Duggan of The Athletic, Skattebo didn't have his helmet on in doing so. The Giants' upcoming injury report will reveal the running back's official participation level, but if Skattebo is limited or out Sunday against the Eagles, Devin Singletary is next in line for added work, with Greg Desrosiers and possibly practice-squad members Eric Gray and Phil Mafah also in the mix.
+- **NEW — Kyler Murray** — Kyler Murray - Likely out Monday, won't go on IR (2026-11-05T18:36:58Z)
+  - Per head coach Kevin O'Connell, Murray is considered week-to-week, paving the way for Carson Wentz to make his second start of the season when the Vikings face the Bills on MNF. Per Lewis, O'Connell said Thursday that a stint on injured reserve isn't under consideration for Murray, suggesting that the starting quarterback's potential absence isn't expected to linger beyond 1-to-3 weeks.
+- **NEW — Carson Wentz** — Carson Wentz will start in Week 9 for Vikings  (2026-11-05T18:30:46.918000Z)
+  - Kyler Murray is continuing to battle a sore hamstring. Wentz will be a QB2 for fantasy managers in 2-QB and superflex leagues. 
+  - Source: https://www.fantasypros.com/nfl/news/618010/carson-wentz-will-start-week-9-vikings.php
+- **NEW — Garrett Wilson** — Garrett Wilson (concussion) not practicing Thursday  (2026-11-05T18:30:46.879000Z)
+  - Wilson continues to trend in the wrong direction to play this week as he remains in concussion protocol. 
+  - Source: https://www.fantasypros.com/nfl/news/618012/garrett-wilson-concussion-not-practicing-thursday.php
+- **NEW — Carson Wentz** — Carson Wentz - In line to draw MNF start (2026-11-05T18:30:38Z)
+  - Wentz will get the Week 9 assignment at QB for the Vikings, with Kyler Murray viewed as week-to-week with a hamstring strain, per Ian Rapoport of NFL Network. Max Brosmer will be the team's backup versus Buffalo, and perhaps longer than that should Murray's injury linger. Wentz thus represents an option for those in Superflex formats or otherwise are in need of signal-caller help due to injury or bye week issues.
+- **NEW — Deshaun Watson** — Deshaun Watson - Missing another practice (2026-11-05T18:10:44Z)
+  - With Watson, who is in the NFL's concussion protocol, in line to log back-to-back DNPs, the QB's status for Sunday's game against the Saints remains cloudy. In the event that Watson doesn't gain clearance to play this weekend, Shedeur Sanders will draw the start in his place.
+- **NEW — Christian Watson** — Christian Watson - Practicing in pads Thursday (2026-11-05T18:10:12Z)
+  - Watson was listed as a limited participant at Wednesday's practice after sustaining a rib injury in Green Bay's Week 8 win over the Panthers. His participation level Thursday has yet to be revealed, but it's a good sign that Watson is able to practice in pads and take contact as the Packers prepare to face the Patriots on Sunday.
+- **NEW — Garrett Wilson** — Garrett Wilson - Not spotted at practice Thursday (2026-11-05T18:03:59Z)
+  - Wilson also logged a DNP on Wednesday, so the wideout's apparent absence from Thursday's session sets the stage for Friday's practice to loom large in terms of his availability for Sunday's game against the Chiefs. In the event that Wilson isn't cleared to play, added targets will be available for some combo of WRs Omar Cooper, Adonai Mitchell and Isaiah Williams, as well as tight ends Mason Taylor (back) and Kenyon Sadiq.
+- **NEW — Demarcus Robinson** — Demarcus Robinson (ankle) expected to play Sunday  (2026-11-05T17:45:46.319000Z)
+  - The 49ers are still expected to be without Mike Evans and Deebo Samuel. Robinson, Christian Kirk, Jordan Watkins, and Brandin Cooks will lead the 49ers wide receiver room. 
+  - Source: https://www.fantasypros.com/nfl/news/618007/demarcus-robinson-ankle-expected-to-play-sunday.php
+- **NEW — Deebo Samuel Sr.** — Deebo Samuel Sr. Not Seen at Thursday's Practice (2026-11-05T17:36:12Z)
+  - Source: https://www.rotoballer.com/player-news/deebo-samuel-sr-not-seen-at-thursdays-practice-2/1984958
+- **NEW — Deebo Samuel Sr.** — Deebo Samuel Sr. (hamstring) not expected to return in Week 9 (2026-11-05T17:35:46.409000Z)
+  - Mike Evans is also not expected to play. Demarcus Robinson, Christian Kirk, Jordan Watkins, and Brandin Cooks will lead the 49ers wide receiver room. 
+  - Source: https://www.fantasypros.com/nfl/news/618005/deebo-samuel-sr-hamstring-not-expected-to-return-week-9.php
+- **NEW — Mike Evans** — Mike Evans (Achilles) not expected to return in Week 9 (2026-11-05T17:30:46.216000Z)
+  - Deebo Samuel is also not expected to play. Demarcus Robinson, Christian Kirk, Jordan Watkins, and Brandin Cooks will lead the 49ers wide receiver room. 
+  - Source: https://www.fantasypros.com/nfl/news/618004/mike-evans-achilles-not-expected-to-return-week-9.php
+- **NEW — Carson Wentz** — Carson Wentz trending towards starting in Week 9 (2026-11-05T17:25:46.191000Z)
+  - Kyler Murray is continuing to be evaluated for his hamstring injury. "His status for Monday night is, at best, up in the air, and it sounds like it is trending toward Carson Wentz starting on Monday night," Adam Schefter said.
+  - Source: https://www.fantasypros.com/nfl/news/618001/carson-wentz-trending-towards-starting-week-9.php
+- **Kyler Murray** — Kyler Murray (hamstring) may not start in Week 9 (2026-11-05T17:25:46.178000Z)
   - Murray is still being evaluated for a sore hamstring. Adam Schefter notes that Carson Wentz is trending towards starting Monday's game. 
   - Source: https://www.fantasypros.com/nfl/news/618002/kyler-murray-hamstring-may-not-start-week-9.php
-- **NEW — Brian Robinson Jr.** — Brian Robinson Jr. (hamstring) limited in practice Thursday  (2026-11-05T17:25:46.166000Z)
+- **Brian Robinson Jr.** — Brian Robinson Jr. (hamstring) limited in practice Thursday  (2026-11-05T17:25:46.166000Z)
   - Robinson was also limited on Wednesday. He is trending towards having a chance to return this week for the Falcons. 
   - Source: https://www.fantasypros.com/nfl/news/618003/brian-robinson-jr-hamstring-limited-practice-thursday.php
-- **NEW — Emeka Egbuka** — Emeka Egbuka at practice testing injured foot Thursday  (2026-11-05T17:20:46.081000Z)
+- **Emeka Egbuka** — Emeka Egbuka at practice testing injured foot Thursday  (2026-11-05T17:20:46.081000Z)
   - Auman notes that Egbuka was running at full speed on the side Wednesday. He will need to be monitored on the official injury report later in the afternoon. 
   - Source: https://www.fantasypros.com/nfl/news/618000/emeka-egbuka-practice-testing-injured-foot-thursday.php
-- **NEW — Emeka Egbuka** — Emeka Egbuka - Back at practice Thursday (2026-11-05T17:04:09Z)
-  - While Egbuka opened up the practice week with a 'DNP' on Wednesday,  Auman relays that the wideout was running full speed on the side during that session. The Buccaneers' upcoming official practice report will reveal the official Thursday participation level of Egbuka, who last saw game action in Week 6.
-- **NEW — Deebo Samuel Sr.** — Deebo Samuel - Not likely to play Sunday (2026-11-05T16:44:29Z)
+- **NEW — Mike Evans** — Mike Evans Remains Sidelined on Thursday (2026-11-05T17:11:11Z)
+  - Source: https://www.rotoballer.com/player-news/mike-evans-deebo-samuel-remain-sidelined-thursday/1984838
+- **Emeka Egbuka** — Emeka Egbuka - Back at practice Thursday (2026-11-05T17:04:09Z)
+  - While Egbuka opened up the practice week with a DNP on Wednesday,  Auman relays that the wideout was running full speed on the side during that session. The Buccaneers' upcoming official practice report will reveal the official Thursday participation level of Egbuka, who last saw game action in Week 6.
+- **NEW — MarShawn Lloyd** — MarShawn Lloyd Added to the Injury Report on Thursday Due to Knee Issue (2026-11-05T17:00:15Z)
+  - Source: https://www.rotoballer.com/player-news/marshawn-lloyd-knee-added-to-injury-report-thursday/1984877
+- **NEW — Bhayshul Tuten** — Bhayshul Tuten "Should be Good" for Thursday Night Football (2026-11-05T16:52:44Z)
+  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-ankle-foot-should-be-good-for-tnf/1984905
+- **Deebo Samuel Sr.** — Deebo Samuel - Not likely to play Sunday (2026-11-05T16:44:29Z)
   - The same applies to fellow WR Mike Evans (Achilles), but on the plus side for the 49ers, Demarcus Robinson (ankle) has been designated to return from IR and could be activated ahead of Week 9 action. In any case, the official game status' of the team's top two WRs will be clarified upon the release of Friday's injury report.
-- **NEW — Mike Evans** — Mike Evans - Likely to sit Sunday per GM (2026-11-05T16:34:43Z)
+- **NEW — Harold Fannin Jr.** — Harold Fannin Jr. Limited in Practice on Thursday with Groin Injury (2026-11-05T16:44:09Z)
+  - Source: https://www.rotoballer.com/player-news/harold-fannin-jr-groin-limited-thursday/1984858
+- **NEW — Lamar Jackson** — Ravens Officially Place Lamar Jackson on Injured Reserve (2026-11-05T16:42:17Z)
+  - Source: https://www.rotoballer.com/player-news/ravens-officially-place-lamar-jackson-tyler-huntley-on-ir/1984852
+- **Mike Evans** — Mike Evans - Likely to sit Sunday per GM (2026-11-05T16:34:43Z)
   - The 49ers were initially optimistic that Evans would return after the team's Week 8 bye following an absence during the Week 7 loss to Atlanta, but the veteran wide receiver apparently needs more time to recover. While official confirmation on Evans' status is unlikely to come prior to game designations being released Friday, Lynch's comments coupled with Evans' inability to practice Wednesday suggest that the wideout's fantasy managers should have an alternative option in place for Week 9.
-- **NEW — Brian Robinson Jr.** — Brian Robinson - Limited at practice Thursday (2026-11-05T16:27:18Z)
-  - Robinson was also deemed limited on Wednesday's estimated injury report, which gives the running back one more opportunity to upgrade to full participation before the team assigns Week 9 injury designations. If he's able to return from a two-game absence Sunday against the Bengals, he'd slot back into a complementary role behind Bijan Robinson, an assignment that Khalil Herbert handled in Weeks 7 and 8.
-- **NEW — Jalen McMillan** — Jalen McMillan - Won't be back until after bye (2026-11-05T16:08:40Z)
+- **NEW — Christian McCaffrey** — Christian McCaffrey Back at Practice on Thursday (2026-11-05T16:29:13Z)
+  - Source: https://www.rotoballer.com/player-news/christian-mccaffrey-back-at-practice-on-thursday/1984870
+- **Brian Robinson Jr.** — Brian Robinson - Limited at practice Thursday (2026-11-05T16:27:18Z)
+  - Robinson also was deemed limited on Wednesday's estimated injury report, which gives the running back one more opportunity to upgrade to full participation before the team assigns Week 9 injury designations. If he's able to return from a two-game absence Sunday against the Bengals, he'd slot back into a complementary role behind Bijan Robinson, an assignment that Khalil Herbert handled in Weeks 7 and 8.
+- **NEW — Brandon Aiyuk** — Brandon Aiyuk Reunion Not Ruled Out by 49ers (2026-11-05T16:09:09Z)
+  - Source: https://www.rotoballer.com/player-news/brandon-aiyuk-reunion-not-ruled-out-by-49ers/1984848
+- **Jalen McMillan** — Jalen McMillan - Won't be back until after bye (2026-11-05T16:08:40Z)
   - McMillan was initially given a return timetable of 6-to-8 weeks after aggravating a PCL sprain in his left knee in Week 3. Head coach Todd Bowles said McMillan won't have his window to return from IR opened before the Buccaneers face the Bears on Sunday, and Tampa Bay will be on bye the following week, so McMillan's next chance to play won't come until Nov. 22 at Detroit.
-- **NEW — Josh Jacobs** — Josh Jacobs - Doesn't expect to miss additional action (2026-11-05T15:49:32Z)
+- **NEW — Drew Lock** — Drew Lock Says Elbow Feels Good Ahead of Week 9 Start (2026-11-05T15:57:10Z)
+  - Source: https://www.rotoballer.com/player-news/drew-locks-elbow-injury-feels-good-set-to-start-sunday/1984771
+- **NEW — Kyle Monangai** — Kyle Monangai Misses Practice on Thursday (2026-11-05T15:55:50Z)
+  - Source: https://www.rotoballer.com/player-news/kyle-monangai-thumb-toe-did-not-practice-thursday/1984787
+- **Josh Jacobs** — Josh Jacobs - Doesn't expect to miss additional action (2026-11-05T15:49:32Z)
   - "With all the evidence that we have and that they have at this point, it's not one of those things where I'm sitting back on my hands like, 'OK, am I going to play this week?'" Jacobs said. "I'm not worried about feeling like I'm going to miss any more time than I already have." Jacobs spent the first six weeks of the season on the Commissioner's Exempt List. Those six absences would count toward any suspension the NFL hands down to Jacobs in connection with the league's investigation into his possible violations of the league's personal conduct policy.
-- **NEW — Sam Darnold** — Sam Darnold - Considered week-to-week (2026-11-05T15:41:52Z)
-  - Head coach Mike Macdonald labeled Darnold week-to-week Wednesday while adding that Darnold isn't expected to be placed on injured reserve due to his injury. Backup Drew Lock missed the previous two games due to an elbow injury but has a chance to return Sunday against the Cardinals and take over the starting role. If Lock isn't ready to suit up, 2025 third-round pick Jalen Milroe could be tabbed for the first regular-season start of the latter's NFL career.
-- **NEW — Jalen McMillan** — Jalen McMillan Not Expected Back Until After the Bye (2026-11-05T12:12:10Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-mcmillan-not-expected-back-until-after-the-bye/1984634
-- **NEW — Brian Robinson Jr.** — Brian Robinson Remains Limited Ahead of Week 9 (2026-11-05T12:09:11Z)
-  - Source: https://www.rotoballer.com/player-news/brian-robinson-hamstring-limited-thursday/1984623
-- **NEW — Jonathan Taylor** — Jonathan Taylor Mentioned in Speculative 49ers Trade Talks (2026-11-05T12:00:21Z)
-  - Source: https://www.rotoballer.com/player-news/league-sources-speculate-on-49ers-interest-acquiring-jonathan-taylor/1984614
-- **NEW — Mike Evans** — Mike Evans Unlikely to Play Against Raiders in Week 9 (2026-11-05T11:46:01Z)
-  - Source: https://www.rotoballer.com/player-news/mike-evans-deebo-samuel-likely-out-vs-raiders/1984603
-- **NEW — Anthony Richardson Sr.** — Anthony Richardson Sr. Not Focused on Trade Request Ahead of Deadline (2026-11-05T11:22:26Z)
-  - Source: https://www.rotoballer.com/player-news/anthony-richardson-sr-says-he-hasnt-thought-about-trade-request-or-deadline/1984559
-- **NEW — Cam Little** — Cam Little a Top Kicking Option Against Ravens in Week 9 (2026-11-05T11:20:11Z)
-  - Source: https://www.rotoballer.com/player-news/cam-little-a-top-kicking-option-against-ravens-in-week-9/1984599
-- **NEW — Matthew Golden** — Matthew Golden's 38 Targets in Three Games Strengthen WR2 Case (2026-11-05T11:13:18Z)
-  - Source: https://www.rotoballer.com/player-news/matthew-goldens-38-targets-in-three-games-strengthen-wr2-case/1984582
-- **NEW — Chuba Hubbard** — Chuba Hubbard Regains Fantasy Value After Big Week 8 Showing (2026-11-05T10:57:10Z)
-  - Source: https://www.rotoballer.com/player-news/chuba-hubbard-regains-fantasy-value-after-big-week-8-showing/1984569
-- **NEW — George Kittle** — George Kittle Sees Fantasy Value Climb After Big Showings (2026-11-05T10:48:09Z)
-  - Source: https://www.rotoballer.com/player-news/george-kittle-sees-fantasy-value-climb-after-big-showings/1984555
-- **NEW — Brenton Strange** — Brenton Strange a Solid Streaming Option Against Ravens (2026-11-05T10:43:12Z)
-  - Source: https://www.rotoballer.com/player-news/brenton-strange-a-solid-streaming-option-against-ravens/1984551
-- **NEW — Marvin Harrison Jr.** — Marvin Harrison Jr. Eyes More Production After Team's Bye Week (2026-11-05T10:42:10Z)
-  - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-eyes-more-production-after-teams-bye-week/1984548
-- **NEW — Woody Marks** — Woody Marks Back on the Rise After Bye Week (2026-11-05T10:33:14Z)
-  - Source: https://www.rotoballer.com/player-news/woody-marks-back-on-the-rise-after-bye-week/1984542
-- **NEW — Jakobi Meyers** — Jakobi Meyers a Low-Upside Flex in Week 9 (2026-11-05T10:31:10Z)
-  - Source: https://www.rotoballer.com/player-news/jakobi-meyers-a-low-upside-flex-in-week-9/1984539
-- **NEW — Parker Washington** — Parker Washington a WR2 in Great Matchup With Ravens (2026-11-05T10:21:10Z)
-  - Source: https://www.rotoballer.com/player-news/parker-washington-a-wr2-in-great-matchup-with-ravens/1984529
-- **NEW — TreVeyon Henderson** — TreVeyon Henderson Losing Fantasy Value as Role Diminishes (2026-11-05T10:11:09Z)
-  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-losing-fantasy-value-as-role-diminishes/1984508
-- **NEW — Xavier Worthy** — Xavier Worthy Losing Fantasy Value (2026-11-05T09:55:10Z)
-  - Source: https://www.rotoballer.com/player-news/xavier-worthy-losing-fantasy-value/1984482
-- **NEW — Lamar Jackson** — Jacksonville Jaguars D/ST a Top Option Against Inexperienced QB (2026-11-05T09:51:09Z)
-  - Source: https://www.rotoballer.com/player-news/jacksonville-jaguars-d-st-top-option-with-no-lamar-jackson-in-week-9/1984473
-- **NEW — Josh Jacobs** — Josh Jacobs Believes He Has "Served His Time" (2026-11-05T09:44:11Z)
-  - Source: https://www.rotoballer.com/player-news/josh-jacobs-believes-hes-served-his-time-despite-ongoing-investigation/1984417
-- **NEW — Chris Rodriguez Jr.** — Chris Rodriguez Jr. Ranked Higher Than Usual in Week 9 (2026-11-05T09:37:51Z)
-  - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-higher-ranked-than-usual-in-week-9/1984455
-- **NEW — Jonathan Taylor** — Colts at a Standstill with Jonathan Taylor Trade Talks (2026-11-05T09:34:12Z)
-  - Source: https://www.rotoballer.com/player-news/colts-at-standstill-with-jonathan-taylor-trade-talks/1984403
-- **NEW — Bhayshul Tuten** — Bhayshul Tuten a Borderline RB1 if Healthy Against Ravens (2026-11-05T09:26:18Z)
-  - Source: https://www.rotoballer.com/player-news/bhayshul-tuten-borderline-rb1-if-healthy-against-ravens/1984437
-- **NEW — Trevor Lawrence** — Trevor Lawrence Once Again a Clear QB1 in Week 9 (2026-11-05T09:17:09Z)
-  - Source: https://www.rotoballer.com/player-news/trevor-lawrence-once-again-a-clear-qb1-in-week-9/1984429
-- **NEW — Jordyn Tyson** — Jordyn Tyson Feels "More Explosive Than I Ever Have" (2026-11-05T09:10:13Z)
-  - Source: https://www.rotoballer.com/player-news/jordyn-tyson-says-he-feels-more-explosive-than-i-ever-have-since-returning/1984339
-- **NEW — Jalen Hurts** — Jalen Hurts Makes Appearance at the Eagles Practice Facility on Wednesday (2026-11-05T06:05:11Z)
-  - Source: https://www.rotoballer.com/player-news/jalen-hurts-appears-at-the-eagles-facility-on-wednesday-for-the-first-time-since/1984328
-- **Drew Lock** — Drew Lock (elbow) limited at practice Wednesday (2026-11-05T02:40:40.881000Z)
-  - Lock wasn't able to log a full practice session to start the week on Wednesday. He was limited due to an elbow injury that he's dealing with, which is less than ideal given that he is set to start in place of Sam Darnold (quad/ribs) this week. This is a situation worth keeping tabs on throughout the rest of the week.
-  - Source: https://www.fantasypros.com/nfl/news/617927/drew-lock-elbow-limited-practice-wednesday.php
-- **Rashid Shaheed** — Rashid Shaheed (knee) misses practice Wednesday (2026-11-05T02:40:40.858000Z)
-  - The veteran wideout missed Seattle's last game due to a knee issue, and it prevented him from practicing on Wednesday as well. His participation at practice on Thursday and Friday will be much more telling for his outlook for Week 9, however.
-  - Source: https://www.fantasypros.com/nfl/news/617928/rashid-shaheed-knee-misses-practice-wednesday.php
-- **Rashid Shaheed** — Rashid Shaheed - DNP on Wednesday (2026-11-05T02:39:23Z)
-  - Shaheed missed Monday night's loss to the Bears, which allowed Tory Horton to log a season-high 43 offensive snaps, which he turned into a 3-26-0 receiving line on six targets. Horton would again be in line for WR3 duties if Shaheed needs to sit Sunday against Arizona.
-- **Zonovan Knight** — Bam Knight - Absent from practice Wednesday (2026-11-05T02:37:19Z)
-  - Knight is in concussion protocol after playing just 18 offensive snaps in last Sunday's overtime win over the Cowboys. With Jeremiyah Love (ankle) headed to injured reserve and out for at least the next four weeks, Knight figures to have a key backfield role alongside Tyler Allgeier, but it might be a challenge for Knight to gain clearance for Sunday's game against Seattle.
-- **Michael Wilson** — Michael Wilson (rest/ribs) limited at practice Wednesday (2026-11-05T02:25:42.055000Z)
-  - Wilson suffered an injury to his ribs in Week 8 and was limited at Wednesday's practice as a result. It looks like he will be ready to play in time for Sunday, but fantasy managers should continue to monitor his status throughout the week to confirm that he will be good to go against the Seahawks.
-  - Source: https://www.fantasypros.com/nfl/news/617922/michael-wilson-restribs-limited-practice-wednesday.php
-- **Zonovan Knight** — Bam Knight (concussion) absent from practice Wednesday (2026-11-05T02:25:42.042000Z)
-  - Knight is still going through the NFL's concussion protocols and was unable to practice on Wednesday as a result. That doesn't bode well for his Week 9 availability, and Tyler Allgeier is primed to be the team's undisputed RB1 on Sunday if Knight is ruled out ahead of game time.
-  - Source: https://www.fantasypros.com/nfl/news/617924/bam-knight-concussion-absent-from-practice-wednesday.php
-- **Michael Wilson** — Michael Wilson - Stays limited Wednesday (2026-11-05T02:25:13Z)
-  - After Wilson continued to wear a yellow non-contact jersey at Wednesday's session, his ensuing activity level mimics what transpired last week, when he initially donned the jersey. He relayed after this past Sunday's win at Dallas that he has two broken ribs, but the addition of rest on the injury report this week indicates he's preparing to continue to play through the issue. Friday's practice report will reveal if Wilson has a designation for Sunday's game in Seattle.
-- **Drew Lock** — Drew Lock - Listed as limited Wednesday (2026-11-05T02:21:43Z)
-  - The Seahawks ruled out Sam Darnold (quadriceps/ribs) for Sunday's game against the Cardinals, which places Lock in line for his second start of the campaign. However, Lock suffered a right elbow injury during Week 7 prep that left him as Seattle's emergency third quarterback the last two games. Assuming he gains clearance to suit up in Week 9, he'll be under center for Sunday's NFC West matchup.
-- **Deshaun Watson** — Deshaun Watson (concussion) officially doesn't practice Wednesday (2026-11-05T02:20:40.911000Z)
-  - Watson was placed in the NFL's concussion protocol on Wednesday, so it's not at all surprising that he was a non-participant at practice. It looks all but guaranteed that he will be sidelined this week, which will leave Shedeur Sanders as the starting quarterback for the Browns in his absence. That would be a somewhat lateral move for Cleveland's fantasy-relevant pass catchers.
-  - Source: https://www.fantasypros.com/nfl/news/617917/deshaun-watson-concussion-officially-doesnt-practice-wednesday.php
-- **Kenny Gainwell** — Kenny Gainwell - Limited Wednesday (2026-11-05T02:15:10Z)
-  - Gainwell sustained a hip injury during the Buccaneers' Week 7 win at Carolina, but he played through the issue en route to 14 carries for 88 yards. He then followed a DNP/LP/FP practice regimen last week before being listed as questionable for this past Sunday's game against the Falcons, for which he was active. Gainwell then reeled off a career-best 140 yards on 25 carries while working in tandem with fellow RB Bucky Irving. With a capped session under his belt to begin this week, Gainwell seems to be in a better spot than he was a week ago, but Friday's practice report will reveal if he enters the weekend with a designation for Sunday's game in Chicago.
-- **Alvin Kamara** — Alvin Kamara (rest/back) misses practice Wednesday (2026-11-05T02:10:41.099000Z)
-  - The veteran wasn't able to practice on Wednesday. He's managing a back issue right now, and the team also wanted to give him the day off for load management purposes. His participation at Thursday's practice should be much more revealing for his Week 9 availability.
-  - Source: https://www.fantasypros.com/nfl/news/617905/alvin-kamara-restback-misses-practice-wednesday.php
-- **Denzel Boston** — Denzel Boston (calf) limited at practice Wednesday (2026-11-05T02:10:41.083000Z)
-  - The rookie was a limited participant on Wednesday. He's managing a calf issue right now, but it doesn't seem to be serious enough to threaten his availability for Week 9. If active on Sunday, his target share may look different with Shedeur Sanders set to be the starting quarterback for the Browns.
-  - Source: https://www.fantasypros.com/nfl/news/617907/denzel-boston-calf-limited-practice-wednesday.php
-- **Kyle Monangai** — Kyle Monangai - Misses Wednesday's walkthrough (2026-11-05T02:02:15Z)
-  - Monangai continues to be listed as a DNP due to the turf-toe injury that's held him out of the last four games. It doesn't bode well for his odds to return to action Sunday against the Buccaneers that he remains sidelined, and the Bears have a Week 10 bye, so the team may be focused on getting him healthy for the final eight contests of the campaign. D'Andre Swift will continue to lead Chicago's backfield for as long as Monangai is out, with Roschon Johnson picking up the scraps behind Swift.
-- **Kaytron Allen** — Kaytron Allen - Limited practice Wednesday (2026-11-05T01:51:27Z)
-  - Allen played 16 snaps on special teams in Miami's 24-19 loss to the Patriots in Week 8, and he may have picked up a quadriceps injury in the process. The running back will have two more chances to log a full practice before Sunday's matchup with Detroit.
-- **Demarcus Robinson** — Demarcus Robinson - Practice window opened (2026-11-05T01:08:36Z)
-  - Robinson made his return to practice Wednesday, logging a limited session at the team's first gathering of the week, Nick Wagoner of ESPN.com reports. The wide receiver has been sidelined since suffering a high-ankle sprain in Week 2 against the Dolphins, but he could be nearing a return to action.
-- **Matthew Stafford** — Matthew Stafford - Practices fully Wednesday (2026-11-05T00:36:08Z)
-  - Stafford was seen leaving the locker room with his upper right arm wrapped in ice after this past Sunday's win against the Chargers. Head coach Sean McVay told Adam Grosbard of The Orange County Register on Monday that Stafford has been tending to arm soreness, but the quarterback clarified the situation with Gary Klein of the Los Angeles Times on Wednesday, stating that he's had his right arm wrapped in ice regularly this season. An uncapped session to begin Week 9 prep puts Stafford in the clear to continue to lead the Ram's offense Sunday in Washington.
-- **Malik Nabers** — Malik Nabers Dominating as Rapport Grows with New Quarterback (2026-11-05T00:32:09Z)
-  - Source: https://www.rotoballer.com/player-news/malik-nabers-dominating-as-rapport-grows-with-new-quarterback/1984304
-- **Zonovan Knight** — Bam Knight - Could see increased workload soon (2026-11-05T00:29:47Z)
-  - Love will have to spend at least the next four games on IR, and Knight's availability for Week 9 is in doubt with him being in concussion protocol, but his coach's words signal a prominent role in Arizona's backfield may be waiting for him whenever he's ready to play again. Until then, free-agent acquisition Tyler Allgeier figures to be the primary beneficiary of Love's extended absence, but Knight should also eventually see an increased workload, especially in the passing game. Recent signee Evan Hull is also in the mix, but he has not played an offensive snap yet in 2026.
-- **Pat Bryant** — Pat Bryant - Full practice Wednesday (2026-11-05T00:17:03Z)
-  - Bryant was designated to return from injured reserve Wednesday, and he was instantly able to give it a full go. With Denver's bye week coming in Week 10, it's unclear if the team will decide to activate the wide receiver before Sunday's matchup with the Panthers or potentially wait to bring him back Nov. 22 against the Raiders. Regardless of whatever decision the team makes, Bryant appears to be fully recovered from the ankle injury that has sidelined him since Week 4.
-- **Terrance Ferguson** — Terrance Ferguson - Officially limited Wednesday (2026-11-05T00:14:18Z)
-  - The Rams opened Ferguson's 21-day practice window Wednesday, as he looks to return from injured reserve for Sunday's game against the Commanders. If Colby Parkinson (ribs) is unable to play for the second straight week, Ferguson would join Tyler Higbee and Davis Allen at tight end for Los Angeles.
-- **Colby Parkinson** — Colby Parkinson - Remains DNP on Wednesday (2026-11-05T00:12:23Z)
-  - Parkinson missed the Week 8 win over the Chargers and remains sidelined for the start of Week 9 prep. Terrance Ferguson (ankle) was back at practice Wednesday and could join Tyler Higbee and Davis Allen at tight end if Parkinson is unable to face the Commanders on Sunday.
-- **Jake Ferguson** — Jake Ferguson - Officially unavailable for practice (2026-11-05T00:11:59Z)
-  - As expected, Ferguson was unavailable for practice as he worked off to the side with the team's training staff. The tight end is working through a low-ankle sprain that he suffered during the team's 33-30 overtime loss to Arizona in Week 8, and his availability for Sunday's matchup against the Colts is in question. Ferguson will have two more chances to return to practice this week, but if he can't go for Week 9, Brevyn Spann-Ford would be a top candidate to take over as the primary tight end for Dallas.
-- **Alec Pierce** — Alec Pierce Not Expected to Return "Anytime Soon" (2026-11-05T00:06:15Z)
-  - Source: https://www.rotoballer.com/player-news/alec-pierce-not-expected-to-return-anytime-soon/1984301
-- **Jalen Milroe** — Jalen Milroe - Set for increased reps at practice (2026-11-05T00:05:55Z)
-  - Milroe is expected to serve as the top backup behind Drew Lock at quarterback in Week 9 with Sam Darnold (quadriceps) sidelined. Milroe has yet to appear in a regular-season contest this season and likely won't do so Sunday unless Lock is forced out of the contest with an injury.
-- **Jaylen Wright** — Jaylen Wright Absent From Wednesday's Practice with Quad Injury (2026-11-04T23:58:12Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-wright-absent-from-wednesdays-practice-with-quad-injury/1984299
-- **Denzel Boston** — Denzel Boston Limited with Calf Injury on Wednesday (2026-11-04T23:32:09Z)
-  - Source: https://www.rotoballer.com/player-news/denzel-boston-limited-with-calf-injury-on-wednesday/1984289
-- **Dontayvion Wicks** — Dontayvion Wicks - DNP on Wednesday (2026-11-04T23:29:12Z)
-  - Wicks hasn't practiced due to an ankle injury since preparation for a Week 6 matchup with the Panthers, missing the last two games in the process. He likely will need to mix into drills in some capacity Thursday and/or Friday to put himself in a position to return to action Sunday versus the Giants.
-- **DeVonta Smith** — DeVonta Smith - No practice Wednesday (2026-11-04T23:25:30Z)
-  - Smith's lack of activity to kick off Week 9 prep doesn't come as a surprise, as he wasn't present during the media-access portion of Wednesday's session. He hasn't practiced since his last appearance in a Week 6 loss to the Panthers, when he went for seven catches (on 14 targets) for 75 yards and one touchdown. If he's able to put himself in a position to play Sunday against the Giants, Smith will be on the receiving end of passes from QB Joe Milton, who is replacing Tanner McKee as the starter.
-- **Saquon Barkley** — Saquon Barkley - Doesn't practice Wednesday (2026-11-04T23:20:41Z)
-  - Barkley's DNP to begin Week 9 prep was forecast by his lack of presence during the open portion of Wednesday's session. He continues to deal with the hamstring and back injuries that bothered him last week, but he still was able to play this past Sunday at Washington, log a 32 percent snap share and turn 14 touches into 54 yards from scrimmage and one TD. If he follows a similar practice regimen as last week, Barkley also will sit out Thursday before returning as a limited participant Friday.
-- **Rashid Shaheed** — Rashid Shaheed Does Not Practice During Wednesday's Walk-Through (2026-11-04T23:17:11Z)
-  - Source: https://www.rotoballer.com/player-news/rashid-shaheed-does-not-practice-during-wednesdays-walk-through/1984278
-- **Jaylen Waddle** — Jaylen Waddle a Full Participant in Practice with Broncos on Wednesday (2026-11-04T23:05:12Z)
-  - Source: https://www.rotoballer.com/player-news/jaylen-waddle-full-participant-in-practice-with-broncos-wednesday/1984261
-- **Rashee Rice** — Rashee Rice (hamstring/knee) limited at practice Wednesday (2026-11-04T22:55:39.896000Z)
-  - Rice is dealing with a pair of injuries right now and was limited at practice on Wednesday as a result. He should still be available to play in Week 9, but we won't get an official injury decision for him until later on in the week.
-  - Source: https://www.fantasypros.com/nfl/news/617877/rashee-rice-hamstringknee-limited-practice-wednesday.php
-- **Breece Hall** — Breece Hall (quad) limited at practice Wednesday (2026-11-04T22:55:39.884000Z)
-  - As expected, Hall was a limited participant to start the week on Wednesday. He seems to be very close to a return from his quad injury, but there also remains a slight chance that he will be traded in the near future, so fantasy managers should continue to monitor his status closely throughout the rest of the week to see if he will play in Week 9.
-  - Source: https://www.fantasypros.com/nfl/news/617880/breece-hall-quad-limited-practice-wednesday.php
-- **Garrett Wilson** — Garrett Wilson (concussion) doesn't practice Wednesday (2026-11-04T22:55:39.851000Z)
-  - Wilson was recently placed in the NFL's concussion protocols and wasn't able to practice on Wednesday as a result. It looks like a long shot that he will be cleared to play in time for Sunday's game, and if he's ruled out, Adonai Mitchell and Omar Cooper Jr. should both see a substantial increase in opportunities in his absence.
-  - Source: https://www.fantasypros.com/nfl/news/617882/garrett-wilson-concussion-doesnt-practice-wednesday.php
-- **Drew Lock** — Drew Lock Limited Wednesday with Elbow Injury (2026-11-04T22:53:10Z)
-  - Source: https://www.rotoballer.com/player-news/drew-lock-limited-wednesday-with-elbow-injury/1984265
-- **Travis Kelce** — Travis Kelce (ankle) limited at practice Wednesday (2026-11-04T22:45:40.042000Z)
-  - The veteran was limited for the team's first practice of the week on Wednesday. He's still managing an ankle issue of some kind, but it isn't likely to leave him sidelined in Week 9. He will continue to be a decently safe PPR option on a week-to-week basis moving forward.
-  - Source: https://www.fantasypros.com/nfl/news/617870/travis-kelce-ankle-limited-practice-wednesday.php
-- **Kenny Gainwell** — Kenny Gainwell Limited with Hip Injury on Wednesday (2026-11-04T22:40:25Z)
-  - Source: https://www.rotoballer.com/player-news/kenneth-gainwell-limited-with-hip-wednesday/1984199
-- **Deshaun Watson** — Deshaun Watson - Unable to practice Wednesday (2026-11-04T22:36:31Z)
-  - Early in this past Sunday's 27-6 loss to the Steelers, Watson exited the game to get checked for a concussion following a helmet-to-helmet hit, but he was cleared to re-enter the contest after missing just four offensive snaps. However, after he had some late-surfacing symptoms, Watson entered concussion protocol Tuesday and was a spectator for the Browns' first Week 9 session. According to Daniel Oyefusi of ESPN.com, Watson "felt a lot better" Wednesday and was involved in meetings, but Shedeur Sanders took all the reps with the first-team offense. Sanders appears to be trending toward starting Sunday against the Saints, as Monken acknowledged that it will be difficult for Watson to play even if he ends up clearing the protocol late in the week, per Scott Petrak of the Elyria Chronicle-Telegram.
-- **Colby Parkinson** — Colby Parkinson (ribs) not practicing Wednesday (2026-11-04T22:35:40.210000Z)
-  - Parkinson did not play in last Sunday's win over the Chargers. His status for Week 9 remains up in the air. 
-  - Source: https://www.fantasypros.com/nfl/news/617866/colby-parkinson-ribs-not-practicing-wednesday.php
-- **Michael Wilson** — Michael Wilson - Wearing non-contact jersey at practice (2026-11-04T22:35:27Z)
-  - Wilson also donned such a jersey last week, when he was listed as limited on all three of the Cardinals' injury reports due to a rib injury. He then missed a spell from the second and into the third quarters this past Sunday in Dallas, after which it was revealed he's tending to two broken ribs. Wilson still put up an 8-111-1 line on 15 targets in that contest, and assuming he's able to suit up Sunday at Seattle, he'll be one of new starting QB Gardner Minshew's top available pass catchers along with TE Trey McBride.
-- **Denzel Boston** — Denzel Boston - Limited by calf injury Wednesday (2026-11-04T22:24:51Z)
-  - Boston made appearances on the injury report in Weeks 6 and 7 due to a foot issue, but he's tending to a new health concern coming out of this past Sunday's 27-6 loss to the Steelers. The rookie wideout will have two more chances this week to upgrade to full practice, and if he does, he should head into Sunday's game in New Orleans without an injury designation.
-- **Kyle Monangai** — Kyle Monangai Misses Walk-Through Practice on Wednesday (2026-11-04T22:22:11Z)
-  - Source: https://www.rotoballer.com/player-news/kyle-monangai-did-not-participate-in-practice-wednesday/1984196
-- **Alvin Kamara** — Alvin Kamara - DNP due to rest, back (2026-11-04T22:19:17Z)
-  - The Saints cited rest and a back injury -- the latter of which impacted his practice reps in each of the three games before the team's Week 8 bye -- as the reasons for Kamara's absence to begin Week 9 prep. During that three-contest stretch, he tallied 27 touches for 137 yards from scrimmage and one receiving TD. Kamara will have two more opportunities to practice this week and put himself in a position to avoid a designation for Sunday's contest against the Browns.
-- **Hunter Henry** — Hunter Henry (foot) doesn't practice Wednesday (2026-11-04T22:15:39.426000Z)
-  - Henry suffered a foot injury last week and was not able to practice on Wednesday as a result. It could leave him sidelined in Week 9 as well, which would lead to more work for rookie Eli Raridon against the Packers.
-  - Source: https://www.fantasypros.com/nfl/news/617860/hunter-henry-foot-doesnt-practice-wednesday.php
-- **Mike Washington Jr.** — Mike Washington - Workload breakdown a 'week-to-week' decision (2026-11-04T22:11:03Z)
-  - Per Ryan McFadden of ESPN.com, Kubiak said that he "absolutely" believes that Jeanty can be a bell cow running back, but at least for the time being, he looks like he'll be part of a timeshare with Washington. Jeanty has seen his carry count drop or hold steady in each successive game since Week 1, culminating in the 2025 first-round pick logging just two carries in this past Sunday's 38-33 win over the Jets, while Washington carried a career-high 25 times for 83 yards. The split in carries may not be quite as dramatic in weeks to come, but Washington appears to have earned himself a sizable piece of the pie while he's averaging 4.3 yards per tote to Jeanty's 3.1 mark through eight games. Jeanty remains the Raiders' clear cut top option on passing downs over Washington, who has recorded just three receptions for 11 yards on six targets so far this season.
-- **Christian Watson** — Christian Watson - Limited Wednesday (2026-11-04T22:09:48Z)
-  - After making a visit to the hospital during last Thursday's win against the Panthers, Watson was able to return and finished with eight catches (on 10 targets) for 113 yards. Afterward, he was revealed to have a broken rib, which likely will be an injury he plays through while managing pain tolerance. In any case, Friday's injury report will unveil whether or not he enters the weekend with a designation for Sunday's game at New England.
-- **Terrance Ferguson** — Terrance Ferguson - Practice window opens Wednesday (2026-11-04T22:06:24Z)
-  - Ferguson has been out since sustaining an ankle injury against the Broncos in Week 3. He has upward of 21 days to be activated off IR. A return in Week 9 may be optimistic at this stage and will hinge on his practice participation for the remainder of the week. Regardless, Ferguson is trending toward being back on the field in the near future.
-- **George Pickens** — George Pickens - Limited in Wednesday's practice (2026-11-04T22:02:16Z)
-  - Pickens was limited by shoulder and hamstring injuries last week, but he was able to suit up this past Sunday against the Cardinals, logging a 57 percent snap share and gathering in two of four targets for 48 yards. As Week 9 prep kicks off, he's being listed with only the hamstring issue, which continues to impact his on-field work. Pickens will have two more chances to get back to full Thursday and Friday before Dallas potentially tags him with a designation for Sunday's contest at Indianapolis.
-- **Pat Bryant** — Pat Bryant - Opens return window (2026-11-04T21:58:13Z)
-  - Help is on the way for the Broncos' passing game, as Bryant is making progress toward a return. His 21-day practice window is now open, though his status for Week 9 against the Panthers is still undetermined.
-- **Christian McCaffrey** — Christian McCaffrey - May practice, play this week (2026-11-04T21:57:46Z)
-  - McCaffrey toughed out what eventually was revealed to be a mild left hamstring strain during a Week 7 loss in Atlanta, when he finished with 13 touches for 100 yards from scrimmage and one rushing TD. With the benefit of a Week 8 bye, he said Wednesday that he feels "great," but chances for on-field work await for him Thursday and Friday.
-- **Jake Ferguson** — Jake Ferguson (ankle) not practicing Wednesday  (2026-11-04T21:55:39.655000Z)
-  - Ferguson left last week's game early with an ankle injury. His status is uncertain for Week 9. 
-  - Source: https://www.fantasypros.com/nfl/news/617850/jake-ferguson-ankle-not-practicing-wednesday.php
-- **George Pickens** — George Pickens limited in practice Wednesday  (2026-11-04T21:55:39.637000Z)
-  - Pickens is on track to be good to go for Sunday's game against the Colts. He'll remain a volatile WR2 for fantasy managers. 
-  - Source: https://www.fantasypros.com/nfl/news/617852/george-pickens-limited-practice-wednesday.php
-- **Terrance Ferguson** — Terrance Ferguson (ankle) will practice Wednesday  (2026-11-04T21:55:39.606000Z)
-  - Ferguson will have his practice window opened. He'll have 21 days to officially be activated. He is worth stashing for fantasy managers. 
-  - Source: https://www.fantasypros.com/nfl/news/617856/terrance-ferguson-ankle-will-practice-wednesday.php
-- **Christian Watson** — Christian Watson (rib) limited at practice Wednesday (2026-11-04T21:55:39.590000Z)
-  - Watson suffered a rib injury in Green Bay's win over the Panthers last week, which left him limited at the team's practice on Wednesday. It looks like he's on track to be a full go for Week 9, but we won't know his official status until later on in the week.
-  - Source: https://www.fantasypros.com/nfl/news/617857/christian-watson-rib-limited-practice-wednesday.php
-- **Rashee Rice** — Rashee Rice Gets in Limited Session on Wednesday (2026-11-04T21:51:09Z)
-  - Source: https://www.rotoballer.com/player-news/rashee-rice-gets-in-limited-session-on-wednesday/1984222
-- **Jordyn Tyson** — Jordyn Tyson (hamstring) officially limited Wednesday (2026-11-04T21:50:39.269000Z)
-  - The rookie was officially able to take part in New Orleans' practice on Wednesday. He has yet to make his NFL debut due to a nagging hamstring issue that he has been managing, but he seems to be close to full health and is officially in his 21-day practice window. Fantasy managers should keep close tabs on updates about his health, as he could be a relevant player down the stretch if he makes his NFL debut sooner rather than later.
-  - Source: https://www.fantasypros.com/nfl/news/617847/jordyn-tyson-hamstring-officially-limited-wednesday.php
-- **Tank Dell** — Tank Dell expected to see increase in snaps (2026-11-04T21:50:39.247000Z)
-  - Ryans clarified that it isn't because Jaylin Noel is out but because the natural progression of Dell working his way back. He remains a risky start for fantasy managers. 
-  - Source: https://www.fantasypros.com/nfl/news/617848/tank-dell-expected-to-see-increase-snaps.php
-- **Rashee Rice** — Rashee Rice - Limited Wednesday (2026-11-04T21:47:35Z)
-  - Rice got back in the fold in Week 8 to the tune of an 7-53-1 line after missing time with a hamstring injury, and he is limited to start preparation for the Jets. The Chiefs could be exercising caution with their top receiver, who also rehabbed from knee surgery during the offseason. A limited session Wednesday does not mean his Week 9 status is in jeopardy, but his participation over the coming days will be telling.
-- **Jaylen Wright** — Jaylen Wright (quad) misses practice Wednesday (2026-11-04T21:45:39.506000Z)
-  - Wright wasn't able to practice on Wednesday. He's dealing with a quad injury right now and was a non-participant as a result. It could leave him sidelined in Week 9, which would likely lead to more work for Kaytron Allen (quad) as a depth piece in the backfield.
-  - Source: https://www.fantasypros.com/nfl/news/617843/jaylen-wright-quad-misses-practice-wednesday.php
-- **Christian McCaffrey** — Christian McCaffrey (hamstring) not practicing Wednesday  (2026-11-04T21:45:39.493000Z)
-  - McCaffrey got banged up in the loss against the Falcons before the bye week. He'll need to be monitored in practice the rest of the week. 
-  - Source: https://www.fantasypros.com/nfl/news/617844/christian-mccaffrey-hamstring-not-practicing-wednesday.php
-- **Mike Evans** — Mike Evans (Achilles) not practicing Wednesday  (2026-11-04T21:45:39.477000Z)
-  - Evans missed the 49ers Week 7 loss against the Falcons before the bye week. His status is uncertain heading into Week 9. 
-  - Source: https://www.fantasypros.com/nfl/news/617845/mike-evans-achilles-not-practicing-wednesday.php
-- **Travis Kelce** — Travis Kelce is Limited During Wednesday's Practice (2026-11-04T21:42:14Z)
-  - Source: https://www.rotoballer.com/player-news/travis-kelce-is-limited-during-wednesdays-practice/1984214
-- **Travis Kelce** — Travis Kelce - Limited practice Wednesday (2026-11-04T21:41:34Z)
-  - Kelce logged a limited session this past Thursday before practicing fully a day later. He then approached Week 8 action without an injury designation, en route to recording a 78 percent offensive snap share and catching five of his seven targets for 67 yards in the Chiefs' 28-24 loss to the Broncos. Chances are, the tight end's listed limitations Wednesday were maintenance-related, and he will now have two more chances to work fully ahead of Sunday's game against the Jets.
-- **Jordyn Tyson** — Jordyn Tyson - Limited in return Wednesday (2026-11-04T21:41:01Z)
-  - This is a big step in the right direction for Tyson, whose 21-day practice window is now open. The rookie has been sidelined since late in camp with a significant hamstring injury. A limited practice after a long time away from the field does not guarantee he'll be ready to go for Sunday's game against the Browns. However, Tyson's debut is on the horizon, even if it is not this week.
-- **Amon-Ra St. Brown** — Amon-Ra St. Brown (rib) limited at practice Wednesday (2026-11-04T21:40:38.971000Z)
-  - St. Brown was estimated to be a limited participant on Wednesday's injury report. He suffered a rib injury in Week 8, but he was able to finish the game, so it looks likely that he will be able to play through it in Week 9, though we won't know for sure until later on in the week. He remains a must-start if he's cleared to play this week.
-  - Source: https://www.fantasypros.com/nfl/news/617839/amon-ra-st-brown-rib-limited-practice-wednesday.php
-- **Demarcus Robinson** — Demarcus Robinson (ankle) designated to return to practice  (2026-11-04T21:40:38.938000Z)
-  - Robinson is working his way back from an ankle injury. He'll have 21 days to officially be activated. 
-  - Source: https://www.fantasypros.com/nfl/news/617841/demarcus-robinson-ankle-designated-to-return-to-practice.php
+- **NEW — Michael Wilson** — Michael Wilson Still Managing Two Broken Ribs (2026-11-05T15:45:39Z)
+  - Source: https://www.rotoballer.com/player-news/michael-wilson-ribs-remains-in-non-contact-jersey-thursday/1984767

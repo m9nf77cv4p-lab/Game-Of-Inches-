@@ -3,7 +3,7 @@
 - Team: **It Hurts So Good**
 - Manager: **TJS2025**
 - Roster ID: **5**
-- Players: **26**
+- Players: **25**
 - Taxi: **1**
 - Reserve/IR: **3**
 
@@ -11,11 +11,10 @@
 
 - DEN — DEF — DEN
 - HOU — DEF — HOU
-- LV — DEF — LV
 - Jake Bates — K — DET
-- Tyler Loop — K — BAL
 - Brock Purdy — QB — SF
-- Jalen Hurts — QB — PHI
+- Jalen Hurts — QB — PHI — reserve/IR
+- Joe Fagnano — QB — BAL
 - Shedeur Sanders — QB — CLE — taxi
 - Brian Robinson Jr. — RB — ATL
 - Chris Rodriguez Jr. — RB — JAX
@@ -28,7 +27,7 @@
 - Noah Fant — TE — NO
 - Travis Kelce — TE — KC
 - Davante Adams — WR — LAR
-- Deebo Samuel Sr. — WR — SF — reserve/IR
+- Deebo Samuel Sr. — WR — SF
 - Demarcus Robinson — WR — SF — reserve/IR
 - Elic Ayomanor — WR — TEN
 - Jahan Dotson — WR — ATL
