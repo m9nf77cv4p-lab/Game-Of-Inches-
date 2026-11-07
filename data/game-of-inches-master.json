@@ -21907,7 +21907,7 @@
       ],
       "first_name": "Demond",
       "full_name": "Demond Claiborne",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Claiborne",
       "nfl_team": "MIN",
       "player_id": "13347",
@@ -22747,7 +22747,7 @@
       ],
       "first_name": "Kyler",
       "full_name": "Kyler Murray",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Murray",
       "nfl_team": "MIN",
       "player_id": "5849",
@@ -24668,8 +24668,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-07T02:01:22Z",
-    "source_fingerprint": "9c0fb5ff1455ccd15ce6759c3c3140db8575f694848bad403a38378b156ba585"
+    "last_changed_at": "2026-11-07T19:25:10Z",
+    "source_fingerprint": "1c70ac2f26b3498c5d9d8e3bd7e5d46ec44e0a79bda6a335eb80de454f6f22ea"
   },
   "teams": [
     {
