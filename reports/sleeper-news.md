@@ -2,23 +2,58 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6375**
-- Newly captured: **8**
+- Stored stories: **6356**
+- Newly captured: **16**
 
 ## Latest news
 
-- **NEW — Demond Claiborne** — Demond Claiborne - Won't suit up Week 9 (2026-11-07T22:56:59Z)
+- **NEW — Demarcus Robinson** — Demarcus Robinson (ankle) activated from IR (2026-11-08T06:30:16.936000Z)
+  - Robinson will be good to go for Sunday's game against the Raiders. 
+  - Source: https://www.fantasypros.com/nfl/news/618459/demarcus-robinson-ankle-activated-from-ir.php
+- **NEW — Demond Claiborne** — Demond Claiborne (knee) ruled out Monday  (2026-11-08T05:10:16.405000Z)
+  - Claiborne did not practice on Friday and Saturday. DeeJay Dallas will continue to see more run in his place. 
+  - Source: https://www.fantasypros.com/nfl/news/618432/demond-claiborne-knee-ruled-out-monday.php
+- **NEW — Kyler Murray** — Kyler Murray (hamstring) ruled out Monday  (2026-11-08T05:10:16.380000Z)
+  - Murray remains week-to-week. Carson Wentz will start on Monday. 
+  - Source: https://www.fantasypros.com/nfl/news/618434/kyler-murray-hamstring-ruled-out-monday.php
+- **NEW — Emmett Johnson** — Emmett Johnson a Promising Bench Stash (2026-11-08T02:23:11Z)
+  - Source: https://www.rotoballer.com/player-news/emmett-johnson-a-promising-bench-stash/1987241
+- **NEW — Kaelon Black** — Kaelon Black a Top-End Handcuff (2026-11-08T02:05:10Z)
+  - Source: https://www.rotoballer.com/player-news/kaelon-black-a-top-end-handcuff/1987239
+- **NEW — Demarcus Robinson** — Demarcus Robinson Holds Fantasy Potential if Healthy (2026-11-08T01:52:09Z)
+  - Source: https://www.rotoballer.com/player-news/demarcus-robinson-holds-fantasy-potential-if-healthy/1987235
+- **NEW — DeMario Douglas** — DeMario Douglas a Savvy Late-Week Add Amid Injuries (2026-11-08T01:35:10Z)
+  - Source: https://www.rotoballer.com/player-news/demario-douglas-a-savvy-late-week-add-amid-injuries/1987233
+- **Demond Claiborne** — Demond Claiborne - Won't suit up Week 9 (2026-11-07T22:56:59Z)
   - Claiborne didn't practice Friday or Saturday after suffering a knee injury in practice Wednesday. Head coach Kevin O'Connell said he doesn't think Claiborne will need surgery but added that the team is still evaluating the injury. The running back has played sparingly this season, logging 18 offensive snaps through four games and tallying 13 yards on six carries along with eight yards on two receptions.
+- **NEW — Spencer Shrader** — Spencer Shrader Should Bounce Back in Week 9 (2026-11-07T22:54:08Z)
+  - Source: https://www.rotoballer.com/player-news/spencer-shrader-should-bounce-back-in-week-9/1987200
+- **NEW — Tyler Warren** — Tyler Warren is Low-End TE1 for Week 9 (2026-11-07T22:41:09Z)
+  - Source: https://www.rotoballer.com/player-news/tyler-warren-is-low-end-te1-for-week-9/1987185
+- **NEW — Seth McGowan** — Seth McGowan is Too Risky To Start (2026-11-07T22:33:10Z)
+  - Source: https://www.rotoballer.com/player-news/seth-mcgowan-is-too-risky-to-start/1987178
+- **NEW — Jonathan Taylor** — Jonathan Taylor is Strong RB1 for Week 9 (2026-11-07T22:21:09Z)
+  - Source: https://www.rotoballer.com/player-news/jonathan-taylor-is-strong-rb1-for-week-9/1987172
+- **NEW — Brandon Aubrey** — Brandon Aubrey has Favorable Matchup in Week 9 (2026-11-07T22:13:11Z)
+  - Source: https://www.rotoballer.com/player-news/brandon-aubrey-has-favorable-matchup-in-week-9/1987170
+- **NEW — Jake Ferguson** — Jake Ferguson is Shaky Starting Option (2026-11-07T21:55:10Z)
+  - Source: https://www.rotoballer.com/player-news/jake-ferguson-is-shaky-starting-option/1987161
+- **NEW — Ryan Flournoy** — Ryan Flournoy Could Offer Deep League Value in Week 9 (2026-11-07T21:46:10Z)
+  - Source: https://www.rotoballer.com/player-news/ryan-flournoy-could-offer-deep-league-value-in-week-9/1987154
 - **Brian Robinson Jr.** —  Brian Robinson Jr. (hamstring) placed on Injured Reserve (2026-11-07T21:45:13.770000Z)
   - Robinson has missed the last several games with a hamstring injury, and apparently hasn't made enough progress for the team to keep him off of IR. He will miss at least the next four games. The Falcons will need to elevate someone to back up Bijan Robinson.
   - Source: https://www.fantasypros.com/nfl/news/618394/brian-robinson-jr-hamstring-placed-on-injured-reserve.php
 - **Demarcus Robinson** — Demarcus Robinson - Off IR, clear for Sunday (2026-11-07T21:44:36Z)
-  - Robinson was carted off the field during the 49ers' Week 2 win against the Dolphins and was diagnosed with a high-ankle sprain, receiving a corresponding prognosis of 3-to-6 weeks on the sideline. After his placement on IR on Sept. 26, he missed the next five contests, but following a Week 8 bye, he was designated for return Wednesday and logged three straight limited sessions before being tagged as questionable. With his designation now a thing of the past, Robinson may immediately step into a prominent role in San Francisco's passing game Sunday with fellow WRs Mike Evans (Achilles) and Deebo Samuel (hamstring) out and Christian Kirk (knee) getting moved to IR.
+  - Robinson was carted off the field during the 49ers' Week 2 win against the Dolphins and was diagnosed with a high-ankle sprain, receiving a corresponding prognosis of 3-to-6 weeks on the sideline. After his placement on IR on Sept. 26, he missed the next five contests, but following a Week 8 bye, he was designated for return Wednesday and logged three straight limited sessions before being tagged as questionable. With his designation now a thing of the past, Robinson may immediately step into a prominent role in San Francisco's passing game Sunday due to fellow WRs Mike Evans (Achilles) and Deebo Samuel (hamstring) being out and Christian Kirk (knee) getting moved to IR.
 - **Pat Bryant** — Pat Bryant - Activated from IR (2026-11-07T21:35:19Z)
   - Bryant was carted off the field due to a sprained right ankle during a Week 4 loss at San Francisco that forced him to injured reserve before Week 5 action. Since the Broncos designated him for return from IR on Wednesday, he logged full practices during the entirety of Week 9 prep, and while he was listed as questionable for Sunday, head coach Sean Payton told Chris Tomasson of The Denver Gazette on Friday that the second-year pro is in line to play this weekend. Ultimately, Bryant's status will be confirmed about 90 minutes before Sunday's 1:00 p.m. ET kickoff.
 - **Pat Bryant** — Pat Bryant (ankle) activated off of IR (2026-11-07T21:35:13.643000Z)
   - Bryant is still officially questionable, but his activation indicates that he will play on Sunday. He'll be a tough start in his first game back, but could have some flex appeal in later weeks.
   - Source: https://www.fantasypros.com/nfl/news/618389/pat-bryant-ankle-activated-off-ir.php
+- **NEW — Javonte Williams** — Javonte Williams Should Bounce Back in Week 9 (2026-11-07T21:34:01Z)
+  - Source: https://www.rotoballer.com/player-news/javonte-williams-should-bounce-back-in-week-9/1987147
+- **NEW — Brandon Aiyuk** — Brandon Aiyuk Reinstatment Being Delayed Over Bonus Dispute (2026-11-07T21:20:11Z)
+  - Source: https://www.rotoballer.com/player-news/nfl-seems-to-be-delaying-brandon-aiyuks-reinstatement-over-bonus-dispute/1987068
 - **Brian Robinson Jr.** — Brian Robinson - Placed on injured reserve (2026-11-07T21:13:38Z)
   - Robinson already has missed two games due to a lingering hamstring injury and now must miss at least the next four outings, meaning his next chance for game action is Sunday, Dec. 13 at Cleveland. In a corresponding move, the Falcons are signing Khalil Herbert from the practice squad to the active roster to continue serving as the No. 2 RB behind workhorse Bijan Robinson.
 - **Jordyn Tyson** — Jordyn Tyson - Activated from injured reserve (2026-11-07T21:09:42Z)
@@ -29,19 +64,19 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Keon Coleman** — Keon Coleman - Set to play in Week 9 (2026-11-07T19:30:34Z)
   - Per Katherine Fitzgerald of The Buffalo News, Coleman again was spotted in a red non-contact jersey Saturday and eventually went down as a limited participant for a third consecutive practice. Despite the restrictions this week, though, Coleman is ready to suit up for an eighth straight game to begin the season, having put up a 20-287-3 line on 27 targets to date.
 - **Kyler Murray** — Kyler Murray - Out for Monday's game (2026-11-07T19:24:19Z)
-  - Murray emerged from last Sunday's loss to the Lions with a sore hamstring, and O'Connell told Alec Lewis of The Athletic on Thursday that the quarterback was unlikely to play in Week 9 but also wasn't an IR consideration. Tom Pelissero of Netflix reported Saturday morning that Murray is in recovery mode from a Grade 2 hamstring strain that will sidelined him Monday and potentially beyond that point. Now that Murray officially is out for his second contest of the campaign, Carson Wentz is set to see his first game action since Week 2.
+  - Murray emerged from last Sunday's loss to the Lions with a sore hamstring, and O'Connell told Alec Lewis of The Athletic on Thursday that the quarterback was unlikely to play in Week 9 but also wasn't an IR consideration. Tom Pelissero of Netflix reported Saturday morning that Murray is in recovery mode from a Grade 2 hamstring strain that will sideline him Monday and potentially beyond that point. Now that Murray officially is out for his second contest of the campaign, Carson Wentz is set to see his first game action since Week 2.
 - **DJ Moore** — DJ Moore - In clear for Week 9 (2026-11-07T19:17:21Z)
   - While logging three straight limited practices during Week 9 prep, Moore continued to wear a red non-contact jersey due to the AC joint sprain that he's been dealing with since Week 2. Now that he's in the clear for Monday's matchup, he'll look to build upon the 16-260-2 line on 27 targets that he's racked up through five eppearances on the campaign.
-- **NEW — Daniel Jones** — Vikings Could Trade for Both Daniel Jones and Jonathan Taylor (2026-11-07T19:14:10Z)
+- **Daniel Jones** — Vikings Could Trade for Both Daniel Jones and Jonathan Taylor (2026-11-07T19:14:10Z)
   - Source: https://www.rotoballer.com/player-news/vikings-could-acquire-both-daniel-jones-and-jonathan-taylor/1987044
-- **NEW — Cam Skattebo** — Cam Skattebo "Unlikely" to Play in Week 9 Against Eagles (2026-11-07T19:06:17Z)
+- **Cam Skattebo** — Cam Skattebo "Unlikely" to Play in Week 9 Against Eagles (2026-11-07T19:06:17Z)
   - Source: https://www.rotoballer.com/player-news/cam-skattebo-unlikely-to-play-singletary-to-get-majority-of-carries/1986978
-- **NEW — Demarcus Robinson** — Demarcus Robinson Activated From Injured Reserve, Will Play in Week 9 (2026-11-07T18:53:13Z)
+- **Demarcus Robinson** — Demarcus Robinson Activated From Injured Reserve, Will Play in Week 9 (2026-11-07T18:53:13Z)
   - Source: https://www.rotoballer.com/player-news/demarcus-robinson-activated-off-injured-reserve-by-49ers/1986961
-- **NEW — Pat Bryant** — Pat Bryant Activated From Injured Reserve, Will Play in Week 9 (2026-11-07T18:43:11Z)
+- **Pat Bryant** — Pat Bryant Activated From Injured Reserve, Will Play in Week 9 (2026-11-07T18:43:11Z)
   - Source: https://www.rotoballer.com/player-news/pat-bryant-activated-off-ir-will-play-sunday/1986953
 - **Kendre Miller** — Kendre Miller - Cut loose by Saints (2026-11-07T18:33:56Z)
-  - Miller has a 20-carry outing in Week 6 at the Giants on his resume this season, but he otherwise has 46 touches in his five other appearances and overall is averaging a miserable 2.8 yards per rush. The Saints thus will be rolling with Alvin Kamara, Audric Estime and potentially practice-squad members Jarquez Hunter and Zamir White out of the backfield Sunday against the Browns with CJ Donaldson (shoulder/concussion) sidelined.
+  - Miller has a 20-carry outing in Week 6 at the Giants on his resume this season, but he otherwise has 46 touches in his five other appearances and overall is averaging a miserable 2.8 yards per rush. The Saints thus will be rolling with Alvin Kamara, Audric Estime and potentially practice-squad members Jarquez Hunter and Zamir White out of the backfield Sunday against the Browns. CJ Donaldson (shoulder/concussion) is sidelined.
 - **Deshaun Watson** — Deshaun Watson - Clears concussion protocol, questionable (2026-11-07T18:12:55Z)
   - Since Watson reported concussion symptoms Tuesday, he didn't practice Wednesday and Thursday before being limited Friday and earning a questionable tag for Week 9 action. Head coach Todd Monken relayed to Kelsey Russo of the Browns' official site Friday that Shedeur Sanders will be the team's starting quarterback Sunday, so some possibilities for Watson this weekend are active as the backup or inactive as the emergency third QB.
 - **Jordyn Tyson** — Jordyn Tyson - Inching closer to NFL debut (2026-11-07T18:06:52Z)
@@ -178,35 +213,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/juwan-johnsons-fantasy-value-continues-to-trend-downward-against-browns/1986669
 - **Cooper Kupp** — Will Cooper Kupp See an Uptick in Volume Vs. Cardinals? (2026-11-07T11:11:09Z)
   - Source: https://www.rotoballer.com/player-news/will-cooper-kupp-see-an-uptick-in-volume-vs-cardinals/1986667
-- **Devaughn Vele** — Devaughn Vele Looks to Maintain Consistent Role Against Browns (2026-11-07T11:02:09Z)
-  - Source: https://www.rotoballer.com/player-news/devaughn-vele-looks-to-maintain-consistent-role-against-browns/1986657
-- **Kyler Murray** — Kyler Murray Has Grade 2 Hamstring Strain (2026-11-07T10:52:13Z)
-  - Source: https://www.rotoballer.com/player-news/kyler-murray-has-grade-2-hamstring-strain/1986590
-- **Isaiah Likely** — Isaiah Likely Looks to Keep Breakout Season Going Against Eagles (2026-11-07T10:50:10Z)
-  - Source: https://www.rotoballer.com/player-news/isaiah-likely-looks-to-keep-breakout-season-going-against-eagles/1986638
-- **Malachi Fields** — Malachi Fields Not a Starting Option Despite Easy Matchup in Week 9 (2026-11-07T10:47:30Z)
-  - Source: https://www.rotoballer.com/player-news/malachi-fields-not-a-starting-option-despite-easy-matchup-in-week-9/1986635
-- **Malik Nabers** — Malik Nabers Off Injury Report, Primed for Monster Week Against Eagles (2026-11-07T10:46:11Z)
-  - Source: https://www.rotoballer.com/player-news/malik-nabers-off-injury-report-primed-for-monster-week-against-eagles/1986631
-- **Devin Singletary** — Devin Singletary Set for Heavy Workload Against Eagles (2026-11-07T10:44:10Z)
-  - Source: https://www.rotoballer.com/player-news/devin-singletary-set-for-heavy-workload-against-eagles/1986626
-- **J.J. McCarthy** — J.J. McCarthy Hoping for More Touchdown Luck Against Eagles (2026-11-07T10:41:41Z)
-  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-hoping-for-more-touchdown-luck-against-eagles/1986619
-- **Jake Bates** — Jake Bates a Solid Top-12 Kicker Option in Week 9 (2026-11-07T10:37:00Z)
-  - Source: https://www.rotoballer.com/player-news/jake-bates-a-solid-top-12-kicker-option-in-week-9/1986611
-- **Chris Olave** — Chris Olave Looks to Get Back on Track Against Browns (2026-11-07T10:35:10Z)
-  - Source: https://www.rotoballer.com/player-news/chris-olave-looks-to-get-back-on-track-against-browns/1986609
-- **Sam LaPorta** — Sam LaPorta Could Have a Prime Bounce-Back Opportunity in Week 9 (2026-11-07T10:32:14Z)
-  - Source: https://www.rotoballer.com/player-news/sam-laporta-could-have-a-prime-bounce-back-opportunity-in-week-9/1986598
-- **Kendre Miller** — Kendre Miller Looks to Build on Increased Role Against Browns (2026-11-07T10:31:09Z)
-  - Source: https://www.rotoballer.com/player-news/kendre-miller-looks-to-build-on-increased-role-against-browns/1986596
-- **Isaac TeSlaa** — Isaac TeSlaa's Week 9 Outlook Dependent on Health of His Teammate (2026-11-07T10:26:13Z)
-  - Source: https://www.rotoballer.com/player-news/isaac-teslaas-week-9-outlook-dependent-on-health-of-his-teammate/1986593
-- **Emeka Egbuka** — Emeka Egbuka Looks to Make Immediate Impact if he Returns Vs. Bears (2026-11-07T10:23:11Z)
-  - Source: https://www.rotoballer.com/player-news/emeka-egbuka-looks-to-make-immediate-impact-if-he-returns-vs-bears/1986588
-- **Jameson Williams** — Jameson Williams Looking to Keep Touchdown Streak Going in Week 9 (2026-11-07T10:15:10Z)
-  - Source: https://www.rotoballer.com/player-news/jameson-williams-looking-to-keep-touchdown-streak-going-in-week-9/1986582
-- **Alvin Kamara** — Alvin Kamara's Fantasy Outlook Trending Down Ahead of Week 9 (2026-11-07T10:14:09Z)
-  - Source: https://www.rotoballer.com/player-news/alvin-kamaras-fantasy-outlook-trending-down-ahead-of-week-9/1986579
-- **Amon-Ra St. Brown** — Amon-Ra St. Brown Well-Positioned for Productive Week 9 if Active (2026-11-07T10:11:09Z)
-  - Source: https://www.rotoballer.com/player-news/amon-ra-st-brown-well-positioned-for-productive-week-9-if-active/1986575

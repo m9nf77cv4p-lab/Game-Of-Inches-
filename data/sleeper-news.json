@@ -1,16 +1,24 @@
 {
-  "last_checked_at": "2026-11-08T01:58:43Z",
+  "last_checked_at": "2026-11-08T08:51:59Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 301,
   "new_story_ids": [
-    "nfl|12481|rotoballer|226948|1794078377000",
-    "nfl|12482|fantasy_pros|616565|1793374213339",
-    "nfl|12482|rotoballer|225762|1793212514000",
-    "nfl|12482|rotoballer|226705|1793981891000",
-    "nfl|12492|rotoballer|226945|1794076991000",
-    "nfl|13347|rotowire|646447|1794092219000",
-    "nfl|3286|rotoballer|226946|1794077593000",
-    "nfl|5870|rotoballer|226949|1794078850000"
+    "nfl|11533|rotoballer|226954|1794089591000",
+    "nfl|11783|rotoballer|226952|1794087970000",
+    "nfl|12185|rotoballer|226958|1794092048000",
+    "nfl|12518|rotoballer|226957|1794091269000",
+    "nfl|13337|rotoballer|226963|1794104591000",
+    "nfl|13347|fantasy_pros|618432|1794114616405",
+    "nfl|13414|rotoballer|226962|1794103510000",
+    "nfl|13424|rotoballer|226956|1794090790000",
+    "nfl|3286|fantasy_pros|618459|1794119416936",
+    "nfl|3286|rotoballer|226961|1794102729000",
+    "nfl|5849|fantasy_pros|618434|1794114616380",
+    "nfl|6803|rotoballer|226950|1794086411000",
+    "nfl|6813|rotoballer|226955|1794090069000",
+    "nfl|7588|rotoballer|226951|1794087241000",
+    "nfl|8110|rotoballer|226953|1794088510000",
+    "nfl|9501|rotoballer|226960|1794101710000"
   ],
   "schema_version": 1,
   "source": {
@@ -20,6 +28,149 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Robinson will be good to go for Sunday's game against the Raiders. ",
+      "description": "The 49ers activated WR Demarcus Robinson from injured reserve. ",
+      "metadata": {
+        "analysis": "Robinson will be good to go for Sunday's game against the Raiders. ",
+        "description": "The 49ers activated WR Demarcus Robinson from injured reserve. ",
+        "title": "Demarcus Robinson (ankle) activated from IR",
+        "topic_id": "1425043756704342016",
+        "url": "https://www.fantasypros.com/nfl/news/618459/demarcus-robinson-ankle-activated-from-ir.php"
+      },
+      "nfl_team": "SF",
+      "player_id": "3286",
+      "player_name": "Demarcus Robinson",
+      "position": "WR",
+      "published": 1794119416936,
+      "source": "fantasy_pros",
+      "source_key": "618459",
+      "story_id": "nfl|3286|fantasy_pros|618459|1794119416936",
+      "title": "Demarcus Robinson (ankle) activated from IR",
+      "url": "https://www.fantasypros.com/nfl/news/618459/demarcus-robinson-ankle-activated-from-ir.php"
+    },
+    {
+      "analysis": "Claiborne did not practice on Friday and Saturday. DeeJay Dallas will continue to see more run in his place. ",
+      "description": "Demond Claiborne has been ruled out for Monday's game against the Bills. ",
+      "metadata": {
+        "analysis": "Claiborne did not practice on Friday and Saturday. DeeJay Dallas will continue to see more run in his place. ",
+        "description": "Demond Claiborne has been ruled out for Monday's game against the Bills. ",
+        "title": "Demond Claiborne (knee) ruled out Monday ",
+        "topic_id": "1425023621809602560",
+        "url": "https://www.fantasypros.com/nfl/news/618432/demond-claiborne-knee-ruled-out-monday.php"
+      },
+      "nfl_team": "MIN",
+      "player_id": "13347",
+      "player_name": "Demond Claiborne",
+      "position": "RB",
+      "published": 1794114616405,
+      "source": "fantasy_pros",
+      "source_key": "618432",
+      "story_id": "nfl|13347|fantasy_pros|618432|1794114616405",
+      "title": "Demond Claiborne (knee) ruled out Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/618432/demond-claiborne-knee-ruled-out-monday.php"
+    },
+    {
+      "analysis": "Murray remains week-to-week. Carson Wentz will start on Monday. ",
+      "description": "Kyler Murray has officially been ruled out for Monday's game against the Bills. ",
+      "metadata": {
+        "analysis": "Murray remains week-to-week. Carson Wentz will start on Monday. ",
+        "description": "Kyler Murray has officially been ruled out for Monday's game against the Bills. ",
+        "title": "Kyler Murray (hamstring) ruled out Monday ",
+        "topic_id": "1425023621704744960",
+        "url": "https://www.fantasypros.com/nfl/news/618434/kyler-murray-hamstring-ruled-out-monday.php"
+      },
+      "nfl_team": "MIN",
+      "player_id": "5849",
+      "player_name": "Kyler Murray",
+      "position": "QB",
+      "published": 1794114616380,
+      "source": "fantasy_pros",
+      "source_key": "618434",
+      "story_id": "nfl|5849|fantasy_pros|618434|1794114616380",
+      "title": "Kyler Murray (hamstring) ruled out Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/618434/kyler-murray-hamstring-ruled-out-monday.php"
+    },
+    {
+      "analysis": null,
+      "description": "Kansas City Chiefs running back Emmett Johnson is a worthy bench stash as we head into the back half of the fantasy season. Johnson has been used sparingly as a rusher this year behind workhorse teammate Kenneth Walker. However, when given the opportunity, he's flashed his ability as an impact player. Most recently, the rookie came alive in a big way in the team's Week 8 loss to the Broncos. The Minneapolis, Minnesota native hauled in all five of his targets for a staggering 128 yards and a touchdown on the back of a 73-yard catch-and-run. Owners can't rely on that kind of volume from Johnson every week, though it's worth noting he's been a strong option when called upon and ranks third on the team in receiving yards (237) on minimal opportunities. Johnson is unlikely to turn the Chiefs' backfield into a committee, but he could siphon off more work moving forward. Head coach Andy Reid is notorious for making rookies earn their stripes. The 23-year-old is one of fantasy's most critical handcuffs.",
+      "metadata": {
+        "description": "Kansas City Chiefs running back Emmett Johnson is a worthy bench stash as we head into the back half of the fantasy season. Johnson has been used sparingly as a rusher this year behind workhorse teammate Kenneth Walker. However, when given the opportunity, he's flashed his ability as an impact player. Most recently, the rookie came alive in a big way in the team's Week 8 loss to the Broncos. The Minneapolis, Minnesota native hauled in all five of his targets for a staggering 128 yards and a touchdown on the back of a 73-yard catch-and-run. Owners can't rely on that kind of volume from Johnson every week, though it's worth noting he's been a strong option when called upon and ranks third on the team in receiving yards (237) on minimal opportunities. Johnson is unlikely to turn the Chiefs' backfield into a committee, but he could siphon off more work moving forward. Head coach Andy Reid is notorious for making rookies earn their stripes. The 23-year-old is one of fantasy's most critical handcuffs.",
+        "title": "Emmett Johnson a Promising Bench Stash",
+        "topic_id": "1425057592350089216",
+        "url": "https://www.rotoballer.com/player-news/emmett-johnson-a-promising-bench-stash/1987241"
+      },
+      "nfl_team": "KC",
+      "player_id": "13337",
+      "player_name": "Emmett Johnson",
+      "position": "RB",
+      "published": 1794104591000,
+      "source": "rotoballer",
+      "source_key": "226963",
+      "story_id": "nfl|13337|rotoballer|226963|1794104591000",
+      "title": "Emmett Johnson a Promising Bench Stash",
+      "url": "https://www.rotoballer.com/player-news/emmett-johnson-a-promising-bench-stash/1987241"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers running back Kaelon Black may not be a useful fantasy start in Week 9, but presents as an excellent stash candidate off waivers, particularly for Christian McCaffrey owners. Black handled a heavier workload in San Francisco's Week 7 loss to Atlanta while McCaffrey battled an injury. Coming out of their bye, the latter appears healthy despite being listed as a DNP on Wednesday and should resume his role as the unquestioned workhorse. That said, there are still reasons to scoop the rookie up as we head into the back half of the campaign. For starters, the team may choose to manage McCaffrey's reps if he isn't truly healthy. Moreover, any aggravation of the injury would thrust Black into a substantial role in one of the league's top attacks. Despite no immediate standalone value, the third-round pick of April's draft draws appeal as a high-upside bench asset.",
+      "metadata": {
+        "description": "San Francisco 49ers running back Kaelon Black may not be a useful fantasy start in Week 9, but presents as an excellent stash candidate off waivers, particularly for Christian McCaffrey owners. Black handled a heavier workload in San Francisco's Week 7 loss to Atlanta while McCaffrey battled an injury. Coming out of their bye, the latter appears healthy despite being listed as a DNP on Wednesday and should resume his role as the unquestioned workhorse. That said, there are still reasons to scoop the rookie up as we head into the back half of the campaign. For starters, the team may choose to manage McCaffrey's reps if he isn't truly healthy. Moreover, any aggravation of the injury would thrust Black into a substantial role in one of the league's top attacks. Despite no immediate standalone value, the third-round pick of April's draft draws appeal as a high-upside bench asset.",
+        "title": "Kaelon Black a Top-End Handcuff",
+        "topic_id": "1425053816830656512",
+        "url": "https://www.rotoballer.com/player-news/kaelon-black-a-top-end-handcuff/1987239"
+      },
+      "nfl_team": "SF",
+      "player_id": "13414",
+      "player_name": "Kaelon Black",
+      "position": "RB",
+      "published": 1794103510000,
+      "source": "rotoballer",
+      "source_key": "226962",
+      "story_id": "nfl|13414|rotoballer|226962|1794103510000",
+      "title": "Kaelon Black a Top-End Handcuff",
+      "url": "https://www.rotoballer.com/player-news/kaelon-black-a-top-end-handcuff/1987239"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Demarcus Robinson (ankle) could find himself thrust into a considerable workload for this weekend's home date with the Las Vegas Raiders. Via technicality, the veteran is listed as questionable on the team's official injury report. However, all indications suggest he will play. If he does, it's fair to assume he'd have a significant role with San Francisco's wide receiver corps severely depleted. On Saturday, the 49ers announced that Christian Kirk (knee) would be placed on IR, joining Mike Evans (ribs, Achilles) and Deebo Samuel Sr. (hamstring) as pass catchers who won't suit up in Week 9. Robinson's early-season sample is small, but he caught three passes on just a 31% snap share in Week 2 before he left with an injury. Fantasy managers shouldn't expect WR1 numbers, but it's possible he assumes some WR1 duties for quarterback Brock Purdy. Either way, the 32-year-old is a solid speculative add and a fine flex in deeper leagues for the plus matchup.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Demarcus Robinson (ankle) could find himself thrust into a considerable workload for this weekend's home date with the Las Vegas Raiders. Via technicality, the veteran is listed as questionable on the team's official injury report. However, all indications suggest he will play. If he does, it's fair to assume he'd have a significant role with San Francisco's wide receiver corps severely depleted. On Saturday, the 49ers announced that Christian Kirk (knee) would be placed on IR, joining Mike Evans (ribs, Achilles) and Deebo Samuel Sr. (hamstring) as pass catchers who won't suit up in Week 9. Robinson's early-season sample is small, but he caught three passes on just a 31% snap share in Week 2 before he left with an injury. Fantasy managers shouldn't expect WR1 numbers, but it's possible he assumes some WR1 duties for quarterback Brock Purdy. Either way, the 32-year-old is a solid speculative add and a fine flex in deeper leagues for the plus matchup.",
+        "title": "Demarcus Robinson Holds Fantasy Potential if Healthy",
+        "topic_id": "1425051299879153664",
+        "url": "https://www.rotoballer.com/player-news/demarcus-robinson-holds-fantasy-potential-if-healthy/1987235"
+      },
+      "nfl_team": "SF",
+      "player_id": "3286",
+      "player_name": "Demarcus Robinson",
+      "position": "WR",
+      "published": 1794102729000,
+      "source": "rotoballer",
+      "source_key": "226961",
+      "story_id": "nfl|3286|rotoballer|226961|1794102729000",
+      "title": "Demarcus Robinson Holds Fantasy Potential if Healthy",
+      "url": "https://www.rotoballer.com/player-news/demarcus-robinson-holds-fantasy-potential-if-healthy/1987235"
+    },
+    {
+      "analysis": null,
+      "description": "New England Patriots wide receiver DeMario Douglas offers decent flex value off waivers ahead of a home clash with the Green Bay Packers. Douglas hasn't seen much volume in a passing game that spreads it around, but he's been a nice fantasy play recently, posting three outings with at least 65 yards and a touchdown over his previous four appearances. As it stands, the Liberty product will again work in tandem with teammates Efton Chism III and Kyle Williams unless fellow wideout Mack Hollins (calf) suits up. If Hollins does play, it would make Douglas that much harder to trust for solid fantasy output. However, he'd retain some low-end flex appeal if the former misses a fifth straight game. Unfortunately, the Liberty product isn't quite a full-time player. Still, he warrants managers' attention because A.J. Brown (ankle, knee) is out, and tight end Hunter Henry's (foot) status remains uncertain.",
+      "metadata": {
+        "description": "New England Patriots wide receiver DeMario Douglas offers decent flex value off waivers ahead of a home clash with the Green Bay Packers. Douglas hasn't seen much volume in a passing game that spreads it around, but he's been a nice fantasy play recently, posting three outings with at least 65 yards and a touchdown over his previous four appearances. As it stands, the Liberty product will again work in tandem with teammates Efton Chism III and Kyle Williams unless fellow wideout Mack Hollins (calf) suits up. If Hollins does play, it would make Douglas that much harder to trust for solid fantasy output. However, he'd retain some low-end flex appeal if the former misses a fifth straight game. Unfortunately, the Liberty product isn't quite a full-time player. Still, he warrants managers' attention because A.J. Brown (ankle, knee) is out, and tight end Hunter Henry's (foot) status remains uncertain.",
+        "title": "DeMario Douglas a Savvy Late-Week Add Amid Injuries",
+        "topic_id": "1425047524674109440",
+        "url": "https://www.rotoballer.com/player-news/demario-douglas-a-savvy-late-week-add-amid-injuries/1987233"
+      },
+      "nfl_team": "NE",
+      "player_id": "9501",
+      "player_name": "DeMario Douglas",
+      "position": "WR",
+      "published": 1794101710000,
+      "source": "rotoballer",
+      "source_key": "226960",
+      "story_id": "nfl|9501|rotoballer|226960|1794101710000",
+      "title": "DeMario Douglas a Savvy Late-Week Add Amid Injuries",
+      "url": "https://www.rotoballer.com/player-news/demario-douglas-a-savvy-late-week-add-amid-injuries/1987233"
+    },
     {
       "analysis": "Claiborne didn't practice Friday or Saturday after suffering a knee injury in practice Wednesday. Head coach Kevin O'Connell said he doesn't think Claiborne will need surgery but added that the team is still evaluating the injury. The running back has played sparingly this season, logging 18 offensive snaps through four games and tallying 13 yards on six carries along with eight yards on two receptions.",
       "description": "Claiborne (knee) has been ruled out for Monday's battle against Buffalo, Craig Peters of the Vikings' official site reports.",
@@ -39,6 +190,146 @@
       "story_id": "nfl|13347|rotowire|646447|1794092219000",
       "title": "Demond Claiborne - Won't suit up Week 9",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts kicker Spencer Shrader is hopeful for more action after not making much of an impact last weekend. Shrader made his lone extra point attempt and didn't attempt a field goal during the Week 8 loss to the Jacksonville Jaguars. In Week 7, Shrader missed two field goals in the defeat to the Minnesota Vikings. Fantasy managers can be hopeful for a rebound performance against the Dallas Cowboys in Week 9. The Cowboys rank 29th in the league when it comes to kicker points allowed. The Colts offense has been a disaster, which is holding Shrader back at times. They should be able to rebound this weekend and give Shrader plenty of chances. Fantasy managers should feel comfortable plugging in Shrader as their kicker this weekend.",
+      "metadata": {
+        "description": "Indianapolis Colts kicker Spencer Shrader is hopeful for more action after not making much of an impact last weekend. Shrader made his lone extra point attempt and didn't attempt a field goal during the Week 8 loss to the Jacksonville Jaguars. In Week 7, Shrader missed two field goals in the defeat to the Minnesota Vikings. Fantasy managers can be hopeful for a rebound performance against the Dallas Cowboys in Week 9. The Cowboys rank 29th in the league when it comes to kicker points allowed. The Colts offense has been a disaster, which is holding Shrader back at times. They should be able to rebound this weekend and give Shrader plenty of chances. Fantasy managers should feel comfortable plugging in Shrader as their kicker this weekend.",
+        "title": "Spencer Shrader Should Bounce Back in Week 9",
+        "topic_id": "1425005997512028160",
+        "url": "https://www.rotoballer.com/player-news/spencer-shrader-should-bounce-back-in-week-9/1987200"
+      },
+      "nfl_team": "IND",
+      "player_id": "12185",
+      "player_name": "Spencer Shrader",
+      "position": "K",
+      "published": 1794092048000,
+      "source": "rotoballer",
+      "source_key": "226958",
+      "story_id": "nfl|12185|rotoballer|226958|1794092048000",
+      "title": "Spencer Shrader Should Bounce Back in Week 9",
+      "url": "https://www.rotoballer.com/player-news/spencer-shrader-should-bounce-back-in-week-9/1987200"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts tight end Tyler Warren is hopeful for a bounce-back outing after posting a dud against the Jacksonville Jaguars last week. Warren made his return to the field in Week 8 after missing two games due to a groin injury. Warren was quiet as he hauled in four of his 10 targets for 18 yards in the loss. The double-digit targets are great to see, but it doesn't mean anything when the performance is terrible. Warren should rebound against the struggling Dallas Cowboys defense in Week 9. A unit that currently ranks 23rd in passing yards allowed coming into this game. Warren is ranked as Rotoballer's TE9 for Week 9 and should be considered a low-end TE1 for this game.",
+      "metadata": {
+        "description": "Indianapolis Colts tight end Tyler Warren is hopeful for a bounce-back outing after posting a dud against the Jacksonville Jaguars last week. Warren made his return to the field in Week 8 after missing two games due to a groin injury. Warren was quiet as he hauled in four of his 10 targets for 18 yards in the loss. The double-digit targets are great to see, but it doesn't mean anything when the performance is terrible. Warren should rebound against the struggling Dallas Cowboys defense in Week 9. A unit that currently ranks 23rd in passing yards allowed coming into this game. Warren is ranked as Rotoballer's TE9 for Week 9 and should be considered a low-end TE1 for this game.",
+        "title": "Tyler Warren is Low-End TE1 for Week 9",
+        "topic_id": "1425002222642528256",
+        "url": "https://www.rotoballer.com/player-news/tyler-warren-is-low-end-te1-for-week-9/1987185"
+      },
+      "nfl_team": "IND",
+      "player_id": "12518",
+      "player_name": "Tyler Warren",
+      "position": "TE",
+      "published": 1794091269000,
+      "source": "rotoballer",
+      "source_key": "226957",
+      "story_id": "nfl|12518|rotoballer|226957|1794091269000",
+      "title": "Tyler Warren is Low-End TE1 for Week 9",
+      "url": "https://www.rotoballer.com/player-news/tyler-warren-is-low-end-te1-for-week-9/1987185"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts running back Seth McGowan remains a top stash target ahead of the trade deadline. It sounds likely that the Colts will keep Jonathan Taylor, but fantasy managers should stash McGowan just in case. Last week, McGowan carried the ball five times for 29 yards during the blowout loss to the Jacksonville Jaguars. With Taylor possibly leaving, McGowan could see an expanded role during the Week 9 matchup against the Dallas Cowboys. It's a favorable matchup with the Cowboys having the worst run defense in the league. Despite it being a great matchup, McGowan is too risky to start in fantasy formats with Taylor still on the team. The 25-year-old is worth stashing, but he isn't an ideal streaming option for Week 9.",
+      "metadata": {
+        "description": "Indianapolis Colts running back Seth McGowan remains a top stash target ahead of the trade deadline. It sounds likely that the Colts will keep Jonathan Taylor, but fantasy managers should stash McGowan just in case. Last week, McGowan carried the ball five times for 29 yards during the blowout loss to the Jacksonville Jaguars. With Taylor possibly leaving, McGowan could see an expanded role during the Week 9 matchup against the Dallas Cowboys. It's a favorable matchup with the Cowboys having the worst run defense in the league. Despite it being a great matchup, McGowan is too risky to start in fantasy formats with Taylor still on the team. The 25-year-old is worth stashing, but he isn't an ideal streaming option for Week 9.",
+        "title": "Seth McGowan is Too Risky To Start",
+        "topic_id": "1425000963764199424",
+        "url": "https://www.rotoballer.com/player-news/seth-mcgowan-is-too-risky-to-start/1987178"
+      },
+      "nfl_team": "IND",
+      "player_id": "13424",
+      "player_name": "Seth McGowan",
+      "position": "RB",
+      "published": 1794090790000,
+      "source": "rotoballer",
+      "source_key": "226956",
+      "story_id": "nfl|13424|rotoballer|226956|1794090790000",
+      "title": "Seth McGowan is Too Risky To Start",
+      "url": "https://www.rotoballer.com/player-news/seth-mcgowan-is-too-risky-to-start/1987178"
+    },
+    {
+      "analysis": null,
+      "description": "Indianapolis Colts running back Jonathan Taylor is set to play in Week 9 despite all the trade rumors surrounding him. It sounds increasingly likely that Taylor remains with the team. It doesn't sound like any organizations are offering premium capital for Taylor, so the Colts will likely keep him. That should mean that Taylor has a normal workload against the Dallas Cowboys in Week 9. Taylor saw a season-low eight rushing attempts during last week's loss to the Jacksonville Jaguars. Taylor should bounce back against the Cowboys, who have the worst run defense in the league. The stud back ranks as Rotoballer's RB10 and should be considered a strong RB1 against the horrendous Cowboys rush defense.",
+      "metadata": {
+        "description": "Indianapolis Colts running back Jonathan Taylor is set to play in Week 9 despite all the trade rumors surrounding him. It sounds increasingly likely that Taylor remains with the team. It doesn't sound like any organizations are offering premium capital for Taylor, so the Colts will likely keep him. That should mean that Taylor has a normal workload against the Dallas Cowboys in Week 9. Taylor saw a season-low eight rushing attempts during last week's loss to the Jacksonville Jaguars. Taylor should bounce back against the Cowboys, who have the worst run defense in the league. The stud back ranks as Rotoballer's RB10 and should be considered a strong RB1 against the horrendous Cowboys rush defense.",
+        "title": "Jonathan Taylor is Strong RB1 for Week 9",
+        "topic_id": "1424997188232048640",
+        "url": "https://www.rotoballer.com/player-news/jonathan-taylor-is-strong-rb1-for-week-9/1987172"
+      },
+      "nfl_team": "IND",
+      "player_id": "6813",
+      "player_name": "Jonathan Taylor",
+      "position": "RB",
+      "published": 1794090069000,
+      "source": "rotoballer",
+      "source_key": "226955",
+      "story_id": "nfl|6813|rotoballer|226955|1794090069000",
+      "title": "Jonathan Taylor is Strong RB1 for Week 9",
+      "url": "https://www.rotoballer.com/player-news/jonathan-taylor-is-strong-rb1-for-week-9/1987172"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys kicker Brandon Aubrey is looking to bounce back after missing a crucial kick during last week's loss to the Arizona Cardinals. Aubrey was mostly on point until he missed a 61-yard field goal ahead of halftime. Those three points ended up biting the Cowboys in their three-point loss. Through eight games this season, Aubrey has made 15-of-19 field goal attempts and 20-of-21 extra point attempts. He'll draw a favorable matchup in Week 9 against the Indianapolis Colts defense. A unit that ranks 22nd in total defense with 343.5 yards allowed per game. They've also allowed 78 points to opposing kickers, which makes this an appealing matchup for Aubrey. He ranks as one of the top kicking options for Week 9.",
+      "metadata": {
+        "description": "Dallas Cowboys kicker Brandon Aubrey is looking to bounce back after missing a crucial kick during last week's loss to the Arizona Cardinals. Aubrey was mostly on point until he missed a 61-yard field goal ahead of halftime. Those three points ended up biting the Cowboys in their three-point loss. Through eight games this season, Aubrey has made 15-of-19 field goal attempts and 20-of-21 extra point attempts. He'll draw a favorable matchup in Week 9 against the Indianapolis Colts defense. A unit that ranks 22nd in total defense with 343.5 yards allowed per game. They've also allowed 78 points to opposing kickers, which makes this an appealing matchup for Aubrey. He ranks as one of the top kicking options for Week 9.",
+        "title": "Brandon Aubrey has Favorable Matchup in Week 9",
+        "topic_id": "1424995930406400000",
+        "url": "https://www.rotoballer.com/player-news/brandon-aubrey-has-favorable-matchup-in-week-9/1987170"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11533",
+      "player_name": "Brandon Aubrey",
+      "position": "K",
+      "published": 1794089591000,
+      "source": "rotoballer",
+      "source_key": "226954",
+      "story_id": "nfl|11533|rotoballer|226954|1794089591000",
+      "title": "Brandon Aubrey has Favorable Matchup in Week 9",
+      "url": "https://www.rotoballer.com/player-news/brandon-aubrey-has-favorable-matchup-in-week-9/1987170"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys tight end Jake Ferguson (ankle) is currently listed as questionable ahead of the Week 9 matchup against the Indianapolis Colts. Ferguson suffered a low-ankle sprain during last week's loss to the Arizona Cardinals. He returned to practice in a limited fashion on Friday, but he remains uncertain for Week 9. Ferguson hasn't been much of a fantasy option lately anyway, with five receptions for 32 yards over his last four games. He'll draw a matchup against the Colts defense that ranks 12th in passing yards allowed this season. Ferguson currently ranks as Rotoballer's TE29 heading into Week 9. He's banged up and should be considered a low-end TE2 for this weekend.",
+      "metadata": {
+        "description": "Dallas Cowboys tight end Jake Ferguson (ankle) is currently listed as questionable ahead of the Week 9 matchup against the Indianapolis Colts. Ferguson suffered a low-ankle sprain during last week's loss to the Arizona Cardinals. He returned to practice in a limited fashion on Friday, but he remains uncertain for Week 9. Ferguson hasn't been much of a fantasy option lately anyway, with five receptions for 32 yards over his last four games. He'll draw a matchup against the Colts defense that ranks 12th in passing yards allowed this season. Ferguson currently ranks as Rotoballer's TE29 heading into Week 9. He's banged up and should be considered a low-end TE2 for this weekend.",
+        "title": "Jake Ferguson is Shaky Starting Option",
+        "topic_id": "1424992155092471808",
+        "url": "https://www.rotoballer.com/player-news/jake-ferguson-is-shaky-starting-option/1987161"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8110",
+      "player_name": "Jake Ferguson",
+      "position": "TE",
+      "published": 1794088510000,
+      "source": "rotoballer",
+      "source_key": "226953",
+      "story_id": "nfl|8110|rotoballer|226953|1794088510000",
+      "title": "Jake Ferguson is Shaky Starting Option",
+      "url": "https://www.rotoballer.com/player-news/jake-ferguson-is-shaky-starting-option/1987161"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys wide receiver Ryan Flournoy could be looking at an expanded role this weekend. Fellow wideout George Pickens (hamstring) is currently listed as questionable ahead of the Week 9 matchup against the Indianapolis Colts. If he's inactive, Flournoy would likely see more targets in the passing game. The 27-year-old has hauled in three or more receptions in five straight games coming into this contest. He has also scored a touchdown in two of the last three contests. The availability of Pickens will go a long way to determining his value, but Flournoy could be a deep league option for Week 9.",
+      "metadata": {
+        "description": "Dallas Cowboys wide receiver Ryan Flournoy could be looking at an expanded role this weekend. Fellow wideout George Pickens (hamstring) is currently listed as questionable ahead of the Week 9 matchup against the Indianapolis Colts. If he's inactive, Flournoy would likely see more targets in the passing game. The 27-year-old has hauled in three or more receptions in five straight games coming into this contest. He has also scored a touchdown in two of the last three contests. The availability of Pickens will go a long way to determining his value, but Flournoy could be a deep league option for Week 9.",
+        "title": "Ryan Flournoy Could Offer Deep League Value in Week 9",
+        "topic_id": "1424988380470444032",
+        "url": "https://www.rotoballer.com/player-news/ryan-flournoy-could-offer-deep-league-value-in-week-9/1987154"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11783",
+      "player_name": "Ryan Flournoy",
+      "position": "WR",
+      "published": 1794087970000,
+      "source": "rotoballer",
+      "source_key": "226952",
+      "story_id": "nfl|11783|rotoballer|226952|1794087970000",
+      "title": "Ryan Flournoy Could Offer Deep League Value in Week 9",
+      "url": "https://www.rotoballer.com/player-news/ryan-flournoy-could-offer-deep-league-value-in-week-9/1987154"
     },
     {
       "analysis": "Robinson has missed the last several games with a hamstring injury, and apparently hasn't made enough progress for the team to keep him off of IR. He will miss at least the next four games. The Falcons will need to elevate someone to back up Bijan Robinson.",
@@ -62,10 +353,10 @@
       "url": "https://www.fantasypros.com/nfl/news/618394/brian-robinson-jr-hamstring-placed-on-injured-reserve.php"
     },
     {
-      "analysis": "Robinson was carted off the field during the 49ers' Week 2 win against the Dolphins and was diagnosed with a high-ankle sprain, receiving a corresponding prognosis of 3-to-6 weeks on the sideline. After his placement on IR on Sept. 26, he missed the next five contests, but following a Week 8 bye, he was designated for return Wednesday and logged three straight limited sessions before being tagged as questionable. With his designation now a thing of the past, Robinson may immediately step into a prominent role in San Francisco's passing game Sunday with fellow WRs Mike Evans (Achilles) and Deebo Samuel (hamstring) out and Christian Kirk (knee) getting moved to IR.",
+      "analysis": "Robinson was carted off the field during the 49ers' Week 2 win against the Dolphins and was diagnosed with a high-ankle sprain, receiving a corresponding prognosis of 3-to-6 weeks on the sideline. After his placement on IR on Sept. 26, he missed the next five contests, but following a Week 8 bye, he was designated for return Wednesday and logged three straight limited sessions before being tagged as questionable. With his designation now a thing of the past, Robinson may immediately step into a prominent role in San Francisco's passing game Sunday due to fellow WRs Mike Evans (Achilles) and Deebo Samuel (hamstring) being out and Christian Kirk (knee) getting moved to IR.",
       "description": "Robinson (ankle) was activated from injured reserve Saturday, per Matt Maiocco of NBC Sports Bay Area, and the 49ers removed his questionable designation for Sunday's game versus the Raiders.",
       "metadata": {
-        "analysis": "Robinson was carted off the field during the 49ers' Week 2 win against the Dolphins and was diagnosed with a high-ankle sprain, receiving a corresponding prognosis of 3-to-6 weeks on the sideline. After his placement on IR on Sept. 26, he missed the next five contests, but following a Week 8 bye, he was designated for return Wednesday and logged three straight limited sessions before being tagged as questionable. With his designation now a thing of the past, Robinson may immediately step into a prominent role in San Francisco's passing game Sunday with fellow WRs Mike Evans (Achilles) and Deebo Samuel (hamstring) out and Christian Kirk (knee) getting moved to IR.",
+        "analysis": "Robinson was carted off the field during the 49ers' Week 2 win against the Dolphins and was diagnosed with a high-ankle sprain, receiving a corresponding prognosis of 3-to-6 weeks on the sideline. After his placement on IR on Sept. 26, he missed the next five contests, but following a Week 8 bye, he was designated for return Wednesday and logged three straight limited sessions before being tagged as questionable. With his designation now a thing of the past, Robinson may immediately step into a prominent role in San Francisco's passing game Sunday due to fellow WRs Mike Evans (Achilles) and Deebo Samuel (hamstring) being out and Christian Kirk (knee) getting moved to IR.",
         "description": "Robinson (ankle) was activated from injured reserve Saturday, per Matt Maiocco of NBC Sports Bay Area, and the 49ers removed his questionable designation for Sunday's game versus the Raiders.",
         "title": "Demarcus Robinson - Off IR, clear for Sunday",
         "topic_id": "1424911618294194176"
@@ -121,6 +412,46 @@
       "story_id": "nfl|12492|fantasy_pros|618389|1794087313643",
       "title": "Pat Bryant (ankle) activated off of IR",
       "url": "https://www.fantasypros.com/nfl/news/618389/pat-bryant-ankle-activated-off-ir.php"
+    },
+    {
+      "analysis": null,
+      "description": "Dallas Cowboys running back Javonte Williams will look to bounce back after giving fantasy managers a dud last week. Williams carried the ball 24 times for 56 yards during last week's loss to the Arizona Cardinals. The 24 carries were the second-most for Williams this season, but the 2.33 yards per carry won't get the job done. He also saw his touchdown streak come to an end after he scored in five straight games coming into last week's game. Fantasy managers should expect a bounce-back performance from Williams in Week 9. He'll face an Indianapolis Colts defense, which ranks 27th in the league in rushing yards allowed. Williams is ranked as Rotoballer's RB5 and is a must-start against the Colts defense this weekend.",
+      "metadata": {
+        "description": "Dallas Cowboys running back Javonte Williams will look to bounce back after giving fantasy managers a dud last week. Williams carried the ball 24 times for 56 yards during last week's loss to the Arizona Cardinals. The 24 carries were the second-most for Williams this season, but the 2.33 yards per carry won't get the job done. He also saw his touchdown streak come to an end after he scored in five straight games coming into last week's game. Fantasy managers should expect a bounce-back performance from Williams in Week 9. He'll face an Indianapolis Colts defense, which ranks 27th in the league in rushing yards allowed. Williams is ranked as Rotoballer's RB5 and is a must-start against the Colts defense this weekend.",
+        "title": "Javonte Williams Should Bounce Back in Week 9",
+        "topic_id": "1424985862923456512",
+        "url": "https://www.rotoballer.com/player-news/javonte-williams-should-bounce-back-in-week-9/1987147"
+      },
+      "nfl_team": "DAL",
+      "player_id": "7588",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "published": 1794087241000,
+      "source": "rotoballer",
+      "source_key": "226951",
+      "story_id": "nfl|7588|rotoballer|226951|1794087241000",
+      "title": "Javonte Williams Should Bounce Back in Week 9",
+      "url": "https://www.rotoballer.com/player-news/javonte-williams-should-bounce-back-in-week-9/1987147"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Brandon Aiyuk (knee) recently met with the organization to discuss being reinstated. Aiyuk submitted the paperwork to be reinstated in late October, but there has yet to be a resolution. The biggest obstacle is the fact that Aiyuk owes the 49ers $13 million in bonus forfeitures. The expectation is that Aiyuk won't be reinstated until he pays back the money to the 49ers. The 28-year-old wideout hasn't played since suffering a torn ACL mid-season during the 2024 campaign. He claims to be fully healthy and ready to play again. It's unlikely that Aiyuk ever takes another snap for the 49ers, but he probably won't be able to continue his career until he pays back the $13 million.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Brandon Aiyuk (knee) recently met with the organization to discuss being reinstated. Aiyuk submitted the paperwork to be reinstated in late October, but there has yet to be a resolution. The biggest obstacle is the fact that Aiyuk owes the 49ers $13 million in bonus forfeitures. The expectation is that Aiyuk won't be reinstated until he pays back the money to the 49ers. The 28-year-old wideout hasn't played since suffering a torn ACL mid-season during the 2024 campaign. He claims to be fully healthy and ready to play again. It's unlikely that Aiyuk ever takes another snap for the 49ers, but he probably won't be able to continue his career until he pays back the $13 million.",
+        "title": "Brandon Aiyuk Reinstatment Being Delayed Over Bonus Dispute",
+        "topic_id": "1424982087638777856",
+        "url": "https://www.rotoballer.com/player-news/nfl-seems-to-be-delaying-brandon-aiyuks-reinstatement-over-bonus-dispute/1987068"
+      },
+      "nfl_team": "SF",
+      "player_id": "6803",
+      "player_name": "Brandon Aiyuk",
+      "position": "WR",
+      "published": 1794086411000,
+      "source": "rotoballer",
+      "source_key": "226950",
+      "story_id": "nfl|6803|rotoballer|226950|1794086411000",
+      "title": "Brandon Aiyuk Reinstatment Being Delayed Over Bonus Dispute",
+      "url": "https://www.rotoballer.com/player-news/nfl-seems-to-be-delaying-brandon-aiyuks-reinstatement-over-bonus-dispute/1987068"
     },
     {
       "analysis": "Robinson already has missed two games due to a lingering hamstring injury and now must miss at least the next four outings, meaning his next chance for game action is Sunday, Dec. 13 at Cleveland. In a corresponding move, the Falcons are signing Khalil Herbert from the practice squad to the active roster to continue serving as the No. 2 RB behind workhorse Bijan Robinson.",
@@ -204,10 +535,10 @@
       "url": null
     },
     {
-      "analysis": "Murray emerged from last Sunday's loss to the Lions with a sore hamstring, and O'Connell told Alec Lewis of The Athletic on Thursday that the quarterback was unlikely to play in Week 9 but also wasn't an IR consideration. Tom Pelissero of Netflix reported Saturday morning that Murray is in recovery mode from a Grade 2 hamstring strain that will sidelined him Monday and potentially beyond that point. Now that Murray officially is out for his second contest of the campaign, Carson Wentz is set to see his first game action since Week 2.",
+      "analysis": "Murray emerged from last Sunday's loss to the Lions with a sore hamstring, and O'Connell told Alec Lewis of The Athletic on Thursday that the quarterback was unlikely to play in Week 9 but also wasn't an IR consideration. Tom Pelissero of Netflix reported Saturday morning that Murray is in recovery mode from a Grade 2 hamstring strain that will sideline him Monday and potentially beyond that point. Now that Murray officially is out for his second contest of the campaign, Carson Wentz is set to see his first game action since Week 2.",
       "description": "Head coach Kevin O'Connell said Saturday that Murray (hamstring) has been ruled out for Monday's game versus the Bills.",
       "metadata": {
-        "analysis": "Murray emerged from last Sunday's loss to the Lions with a sore hamstring, and O'Connell told Alec Lewis of The Athletic on Thursday that the quarterback was unlikely to play in Week 9 but also wasn't an IR consideration. Tom Pelissero of Netflix reported Saturday morning that Murray is in recovery mode from a Grade 2 hamstring strain that will sidelined him Monday and potentially beyond that point. Now that Murray officially is out for his second contest of the campaign, Carson Wentz is set to see his first game action since Week 2.",
+        "analysis": "Murray emerged from last Sunday's loss to the Lions with a sore hamstring, and O'Connell told Alec Lewis of The Athletic on Thursday that the quarterback was unlikely to play in Week 9 but also wasn't an IR consideration. Tom Pelissero of Netflix reported Saturday morning that Murray is in recovery mode from a Grade 2 hamstring strain that will sideline him Monday and potentially beyond that point. Now that Murray officially is out for his second contest of the campaign, Carson Wentz is set to see his first game action since Week 2.",
         "description": "Head coach Kevin O'Connell said Saturday that Murray (hamstring) has been ruled out for Monday's game versus the Bills.",
         "title": "Kyler Murray - Out for Monday's game",
         "topic_id": "1424876382214737920"
@@ -324,10 +655,10 @@
       "url": "https://www.rotoballer.com/player-news/pat-bryant-activated-off-ir-will-play-sunday/1986953"
     },
     {
-      "analysis": "Miller has a 20-carry outing in Week 6 at the Giants on his resume this season, but he otherwise has 46 touches in his five other appearances and overall is averaging a miserable 2.8 yards per rush. The Saints thus will be rolling with Alvin Kamara, Audric Estime and potentially practice-squad members Jarquez Hunter and Zamir White out of the backfield Sunday against the Browns with CJ Donaldson (shoulder/concussion) sidelined.",
+      "analysis": "Miller has a 20-carry outing in Week 6 at the Giants on his resume this season, but he otherwise has 46 touches in his five other appearances and overall is averaging a miserable 2.8 yards per rush. The Saints thus will be rolling with Alvin Kamara, Audric Estime and potentially practice-squad members Jarquez Hunter and Zamir White out of the backfield Sunday against the Browns. CJ Donaldson (shoulder/concussion) is sidelined.",
       "description": "The Saints waived Miller on Saturday, Nick Underhill of NewOrleans.Football reports.",
       "metadata": {
-        "analysis": "Miller has a 20-carry outing in Week 6 at the Giants on his resume this season, but he otherwise has 46 touches in his five other appearances and overall is averaging a miserable 2.8 yards per rush. The Saints thus will be rolling with Alvin Kamara, Audric Estime and potentially practice-squad members Jarquez Hunter and Zamir White out of the backfield Sunday against the Browns with CJ Donaldson (shoulder/concussion) sidelined.",
+        "analysis": "Miller has a 20-carry outing in Week 6 at the Giants on his resume this season, but he otherwise has 46 touches in his five other appearances and overall is averaging a miserable 2.8 yards per rush. The Saints thus will be rolling with Alvin Kamara, Audric Estime and potentially practice-squad members Jarquez Hunter and Zamir White out of the backfield Sunday against the Browns. CJ Donaldson (shoulder/concussion) is sidelined.",
         "description": "The Saints waived Miller on Saturday, Nick Underhill of NewOrleans.Football reports.",
         "title": "Kendre Miller - Cut loose by Saints",
         "topic_id": "1424865057153552384"
@@ -128468,728 +128799,6 @@
       "story_id": "nfl|6786|rotoballer|223634|1791536829000",
       "title": "CeeDee Lamb Suffers Quad Bruise on Thursday Night",
       "url": "https://www.rotoballer.com/player-news/ceedee-lamb-suffered-quad-bruise-in-week-5/1961801"
-    },
-    {
-      "analysis": "Gainwell logged his highest carry total since Week 1 and parlayed it into a new season high in rushing yards. The veteran change-of-pace back also tied his season best in receptions and recorded multiple catches for the fourth straight game, but over his first five contests in Tampa Bay, Gainwell's overall role is markedly less robust than the one he filled during his lone Steelers season in 2025. As such, his fantasy value is undeniably capped heading into a Week 5 home matchup against Pittsburgh on Sunday, Oct. 18.",
-      "description": "Gainwell rushed four times for 18 yards and brought in three of four targets for 10 yards in the Buccaneers' 24-16 win over the Cowboys on Thursday night.",
-      "metadata": {
-        "analysis": "Gainwell logged his highest carry total since Week 1 and parlayed it into a new season high in rushing yards. The veteran change-of-pace back also tied his season best in receptions and recorded multiple catches for the fourth straight game, but over his first five contests in Tampa Bay, Gainwell's overall role is markedly less robust than the one he filled during his lone Steelers season in 2025. As such, his fantasy value is undeniably capped heading into a Week 5 home matchup against Pittsburgh on Sunday, Oct. 18.",
-        "description": "Gainwell rushed four times for 18 yards and brought in three of four targets for 10 yards in the Buccaneers' 24-16 win over the Cowboys on Thursday night.",
-        "title": "Kenny Gainwell - Seven total touches in Week 5 win",
-        "topic_id": "1414150864431529984"
-      },
-      "nfl_team": "TB",
-      "player_id": "7567",
-      "player_name": "Kenny Gainwell",
-      "position": "RB",
-      "published": 1791521949000,
-      "source": "rotowire",
-      "source_key": "641502",
-      "story_id": "nfl|7567|rotowire|641502|1791521949000",
-      "title": "Kenny Gainwell - Seven total touches in Week 5 win",
-      "url": null
-    },
-    {
-      "analysis": "Ferguson was a distant second in targets to George Pickens' 13, but the veteran tight end failed to eclipse 25 receiving yards for the fourth time in the first five games. Ferguson's night -- and by extension, that of the Cowboys -- ended on a very sour note when he had a late fourth-quarter pass from Dak Prescott bounce off his hands and result in an Alex Anzalone interception that helped seal the victory for Tampa Bay. Ferguson has mustered a modest 15-102-3 line on 21 targets heading into a Week 6 road matchup against the Packers on Sunday night, Oct. 18.",
-      "description": "Ferguson brought in three of six targets for 19 yards in the Cowboys' 24-16 loss to the Buccaneers on Thursday night.",
-      "metadata": {
-        "analysis": "Ferguson was a distant second in targets to George Pickens' 13, but the veteran tight end failed to eclipse 25 receiving yards for the fourth time in the first five games. Ferguson's night -- and by extension, that of the Cowboys -- ended on a very sour note when he had a late fourth-quarter pass from Dak Prescott bounce off his hands and result in an Alex Anzalone interception that helped seal the victory for Tampa Bay. Ferguson has mustered a modest 15-102-3 line on 21 targets heading into a Week 6 road matchup against the Packers on Sunday night, Oct. 18.",
-        "description": "Ferguson brought in three of six targets for 19 yards in the Cowboys' 24-16 loss to the Buccaneers on Thursday night.",
-        "title": "Jake Ferguson - Inadvertently causes crucial turnover",
-        "topic_id": "1414148348218191872"
-      },
-      "nfl_team": "DAL",
-      "player_id": "8110",
-      "player_name": "Jake Ferguson",
-      "position": "TE",
-      "published": 1791521702000,
-      "source": "rotowire",
-      "source_key": "641501",
-      "story_id": "nfl|8110|rotowire|641501|1791521702000",
-      "title": "Jake Ferguson - Inadvertently causes crucial turnover",
-      "url": null
-    },
-    {
-      "analysis": "Finished tied for distant runner-up slotting in receptions, but he was also a comfortable second in receiving yards thanks in large part to a team-high 48-yard catch. Flournoy's yardage tally was also his highest since Week 14 of last season, and it was first above 37 receiving yards in the current campaign. Despite the breakout Thursday, Flournoy remains a volatile week-to-week option unless CeeDee Lamb (quadriceps) or George Pickens are unavailable.",
-      "description": "Flournoy brought in three of four targets for 90 yards in the Cowboys' 24-16 loss to the Buccaneers on Thursday night.",
-      "metadata": {
-        "analysis": "Finished tied for distant runner-up slotting in receptions, but he was also a comfortable second in receiving yards thanks in large part to a team-high 48-yard catch. Flournoy's yardage tally was also his highest since Week 14 of last season, and it was first above 37 receiving yards in the current campaign. Despite the breakout Thursday, Flournoy remains a volatile week-to-week option unless CeeDee Lamb (quadriceps) or George Pickens are unavailable.",
-        "description": "Flournoy brought in three of four targets for 90 yards in the Cowboys' 24-16 loss to the Buccaneers on Thursday night.",
-        "title": "Ryan Flournoy - Big yards on three catches",
-        "topic_id": "1414148348213997568"
-      },
-      "nfl_team": "DAL",
-      "player_id": "11783",
-      "player_name": "Ryan Flournoy",
-      "position": "WR",
-      "published": 1791521360000,
-      "source": "rotowire",
-      "source_key": "641500",
-      "story_id": "nfl|11783|rotowire|641500|1791521360000",
-      "title": "Ryan Flournoy - Big yards on three catches",
-      "url": null
-    },
-    {
-      "analysis": "Bryant was sidelined for a second-straight practice on Thursday after recently suffering an ankle injury. He is unlikely to play in Week 5, which will open the door for Troy Franklin to see more work than usual against the Chargers on Sunday.",
-      "description": "Pat Bryant (ankle) did not take part in Denver's practice again on Thursday.",
-      "metadata": {
-        "analysis": "Bryant was sidelined for a second-straight practice on Thursday after recently suffering an ankle injury. He is unlikely to play in Week 5, which will open the door for Troy Franklin to see more work than usual against the Chargers on Sunday.",
-        "description": "Pat Bryant (ankle) did not take part in Denver's practice again on Thursday.",
-        "title": "Pat Bryant (ankle) doesn't practice again Thursday",
-        "topic_id": "1414145834425090048",
-        "url": "https://www.fantasypros.com/nfl/news/612969/pat-bryant-ankle-doesnt-practice-again-thursday.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "12492",
-      "player_name": "Pat Bryant",
-      "position": "WR",
-      "published": 1791521149794,
-      "source": "fantasy_pros",
-      "source_key": "612969",
-      "story_id": "nfl|12492|fantasy_pros|612969|1791521149794",
-      "title": "Pat Bryant (ankle) doesn't practice again Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612969/pat-bryant-ankle-doesnt-practice-again-thursday.php"
-    },
-    {
-      "analysis": "A chest injury has left Johnston limited at two-straight practices to start the week. He may very well be left with an injury designation heading into the weekend, and Tre' Harris will be primed for more work if Johnston is unable to play this week.",
-      "description": "Quentin Johnston (chest) was a limited participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "A chest injury has left Johnston limited at two-straight practices to start the week. He may very well be left with an injury designation heading into the weekend, and Tre' Harris will be primed for more work if Johnston is unable to play this week.",
-        "description": "Quentin Johnston (chest) was a limited participant at practice on Thursday.",
-        "title": "Quentin Johnston (chest) limited participant Thursday",
-        "topic_id": "1414142065041825792",
-        "url": "https://www.fantasypros.com/nfl/news/612960/quentin-johnston-chest-limited-participant-thursday.php"
-      },
-      "nfl_team": "LAC",
-      "player_id": "9754",
-      "player_name": "Quentin Johnston",
-      "position": "WR",
-      "published": 1791520251101,
-      "source": "fantasy_pros",
-      "source_key": "612960",
-      "story_id": "nfl|9754|fantasy_pros|612960|1791520251101",
-      "title": "Quentin Johnston (chest) limited participant Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612960/quentin-johnston-chest-limited-participant-thursday.php"
-    },
-    {
-      "analysis": "McConkey was not able to practice for a second-straight day on Thursday. He's still dealing with a foot injury, and it may very well leave him sidelined this week. Look for Tre' Harris and Quentin Johnston (chest) to see more work if that's the case.",
-      "description": "Ladd McConkey (foot) did not take part in Los Angeles' practice on Thursday.",
-      "metadata": {
-        "analysis": "McConkey was not able to practice for a second-straight day on Thursday. He's still dealing with a foot injury, and it may very well leave him sidelined this week. Look for Tre' Harris and Quentin Johnston (chest) to see more work if that's the case.",
-        "description": "Ladd McConkey (foot) did not take part in Los Angeles' practice on Thursday.",
-        "title": "Ladd McConkey (foot) doesn't practice Thursday",
-        "topic_id": "1414142064890830848",
-        "url": "https://www.fantasypros.com/nfl/news/612962/ladd-mcconkey-foot-doesnt-practice-thursday.php"
-      },
-      "nfl_team": "LAC",
-      "player_id": "11635",
-      "player_name": "Ladd McConkey",
-      "position": "WR",
-      "published": 1791520251070,
-      "source": "fantasy_pros",
-      "source_key": "612962",
-      "story_id": "nfl|11635|fantasy_pros|612962|1791520251070",
-      "title": "Ladd McConkey (foot) doesn't practice Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612962/ladd-mcconkey-foot-doesnt-practice-thursday.php"
-    },
-    {
-      "analysis": "McLaughlin made all three of his PAT tries before nailing a 41-yard field goal late in the third quarter. He could have had an additional chip-shot FG midway through the fourth, but the Buccaneers somewhat surprisingly tried (and failed) to get into the end zone on a fourth-and-goal play from the 1-yard line when a field goal would have given them a three-score lead. Regardless, McLaughlin looked fine after missing practice Tuesday with a right groin/hip issue, and he's now a perfect 10-for-10 on field-goal attempts this season.",
-      "description": "McLaughlin made his only field-goal attempt and all three extra-point tries Thursday in a 24-16 win against Dallas.",
-      "metadata": {
-        "analysis": "McLaughlin made all three of his PAT tries before nailing a 41-yard field goal late in the third quarter. He could have had an additional chip-shot FG midway through the fourth, but the Buccaneers somewhat surprisingly tried (and failed) to get into the end zone on a fourth-and-goal play from the 1-yard line when a field goal would have given them a three-score lead. Regardless, McLaughlin looked fine after missing practice Tuesday with a right groin/hip issue, and he's now a perfect 10-for-10 on field-goal attempts this season.",
-        "description": "McLaughlin made his only field-goal attempt and all three extra-point tries Thursday in a 24-16 win against Dallas.",
-        "title": "Chase McLaughlin - Perfect on four kicks Thursday",
-        "topic_id": "1414142055659126784"
-      },
-      "nfl_team": "TB",
-      "player_id": "6650",
-      "player_name": "Chase McLaughlin",
-      "position": "K",
-      "published": 1791519925000,
-      "source": "rotowire",
-      "source_key": "641499",
-      "story_id": "nfl|6650|rotowire|641499|1791519925000",
-      "title": "Chase McLaughlin - Perfect on four kicks Thursday",
-      "url": null
-    },
-    {
-      "analysis": "Evans was downgraded to a non-participant at practice on Thursday after being limited on Wednesday. He was able to play through the injury last week, however, so he still projects to do the same again in Week 5.",
-      "description": "Mike Evans (ribs) missed San Francisco's practice on Thursday.",
-      "metadata": {
-        "analysis": "Evans was downgraded to a non-participant at practice on Thursday after being limited on Wednesday. He was able to play through the injury last week, however, so he still projects to do the same again in Week 5.",
-        "description": "Mike Evans (ribs) missed San Francisco's practice on Thursday.",
-        "title": "Mike Evans (ribs) misses practice Thursday",
-        "topic_id": "1414139543073955840",
-        "url": "https://www.fantasypros.com/nfl/news/612952/mike-evans-ribs-misses-practice-thursday.php"
-      },
-      "nfl_team": "SF",
-      "player_id": "2216",
-      "player_name": "Mike Evans",
-      "position": "WR",
-      "published": 1791519649819,
-      "source": "fantasy_pros",
-      "source_key": "612952",
-      "story_id": "nfl|2216|fantasy_pros|612952|1791519649819",
-      "title": "Mike Evans (ribs) misses practice Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612952/mike-evans-ribs-misses-practice-thursday.php"
-    },
-    {
-      "analysis": "Charbonnet continues to draw closer to a return to the lineup, as he was able to practice in a limited fashion again on Thursday. We should get more clarity on his status for Week 5 after practice on Friday.",
-      "description": "Zach Charbonnet (knee) was limited at practice again on Thursday.",
-      "metadata": {
-        "analysis": "Charbonnet continues to draw closer to a return to the lineup, as he was able to practice in a limited fashion again on Thursday. We should get more clarity on his status for Week 5 after practice on Friday.",
-        "description": "Zach Charbonnet (knee) was limited at practice again on Thursday.",
-        "title": "Zach Charbonnet (knee) limited again Thursday",
-        "topic_id": "1414139542969098240",
-        "url": "https://www.fantasypros.com/nfl/news/612954/zach-charbonnet-knee-limited-again-thursday.php"
-      },
-      "nfl_team": "SEA",
-      "player_id": "9753",
-      "player_name": "Zach Charbonnet",
-      "position": "RB",
-      "published": 1791519649793,
-      "source": "fantasy_pros",
-      "source_key": "612954",
-      "story_id": "nfl|9753|fantasy_pros|612954|1791519649793",
-      "title": "Zach Charbonnet (knee) limited again Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612954/zach-charbonnet-knee-limited-again-thursday.php"
-    },
-    {
-      "analysis": "To no surprise, Holani was limited again on Thursday as he continues to nurse a nagging issue with his ribs. It looks like he'll play in Week 5, however, and he will continue to serve as a depth option for the Seahawks moving forward.",
-      "description": "George Holani (ribs) was listed as a limited participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "To no surprise, Holani was limited again on Thursday as he continues to nurse a nagging issue with his ribs. It looks like he'll play in Week 5, however, and he will continue to serve as a depth option for the Seahawks moving forward.",
-        "description": "George Holani (ribs) was listed as a limited participant at practice on Thursday.",
-        "title": "George Holani (ribs) listed as limited Thursday",
-        "topic_id": "1414139542910377984",
-        "url": "https://www.fantasypros.com/nfl/news/612955/george-holani-ribs-listed-limited-thursday.php"
-      },
-      "nfl_team": "SEA",
-      "player_id": "12048",
-      "player_name": "George Holani",
-      "position": "RB",
-      "published": 1791519649778,
-      "source": "fantasy_pros",
-      "source_key": "612955",
-      "story_id": "nfl|12048|fantasy_pros|612955|1791519649778",
-      "title": "George Holani (ribs) listed as limited Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612955/george-holani-ribs-listed-limited-thursday.php"
-    },
-    {
-      "analysis": "Smith-Njigba returned to practice on Thursday after getting Wednesday off as a rest day. He should be good to go for Week 5 and projects to continue to be a dominant fantasy option for the foreseeable future.",
-      "description": "Jaxon Smith-Njigba (rest) practiced in a full capacity on Thursday.",
-      "metadata": {
-        "analysis": "Smith-Njigba returned to practice on Thursday after getting Wednesday off as a rest day. He should be good to go for Week 5 and projects to continue to be a dominant fantasy option for the foreseeable future.",
-        "description": "Jaxon Smith-Njigba (rest) practiced in a full capacity on Thursday.",
-        "title": "Jaxon Smith-Njigba (rest) practices in full Thursday",
-        "topic_id": "1414139542847463424",
-        "url": "https://www.fantasypros.com/nfl/news/612956/jaxon-smith-njigba-rest-practices-full-thursday.php"
-      },
-      "nfl_team": "SEA",
-      "player_id": "9488",
-      "player_name": "Jaxon Smith-Njigba",
-      "position": "WR",
-      "published": 1791519649765,
-      "source": "fantasy_pros",
-      "source_key": "612956",
-      "story_id": "nfl|9488|fantasy_pros|612956|1791519649765",
-      "title": "Jaxon Smith-Njigba (rest) practices in full Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612956/jaxon-smith-njigba-rest-practices-full-thursday.php"
-    },
-    {
-      "analysis": "Daniels didn't have the luxury of a normal practice week after making his starting debut in a Week 4 home loss to the Packers, but the undrafted rookie from Kansas looked like a significantly improved player just four days later on the road. Daniels commanded the Buccaneers offense with poise throughout the night, spreading the ball around to seven different targets and remaining free of turnovers after throwing a pair of interceptions against Green Bay. Daniels also connected with Bucky Irving for a five-yard touchdown pass to open the second quarter, his second career scoring toss. With some valuable experience now under his belt, Daniels will have some additional time to prepare for a Week 6 home matchup against the Steelers on Sunday, Oct. 18.",
-      "description": "Daniels completed 19 of 25 passes for 189 yards with one touchdown and no interceptions while rushing seven times for 23 yards in the Buccaneers' 24-16 win over the Cowboys on Thursday night.",
-      "metadata": {
-        "analysis": "Daniels didn't have the luxury of a normal practice week after making his starting debut in a Week 4 home loss to the Packers, but the undrafted rookie from Kansas looked like a significantly improved player just four days later on the road. Daniels commanded the Buccaneers offense with poise throughout the night, spreading the ball around to seven different targets and remaining free of turnovers after throwing a pair of interceptions against Green Bay. Daniels also connected with Bucky Irving for a five-yard touchdown pass to open the second quarter, his second career scoring toss. With some valuable experience now under his belt, Daniels will have some additional time to prepare for a Week 6 home matchup against the Steelers on Sunday, Oct. 18.",
-        "description": "Daniels completed 19 of 25 passes for 189 yards with one touchdown and no interceptions while rushing seven times for 23 yards in the Buccaneers' 24-16 win over the Cowboys on Thursday night.",
-        "title": "Jalon Daniels - Notable improvement in second start",
-        "topic_id": "1414138279577591808"
-      },
-      "nfl_team": "TB",
-      "player_id": "13425",
-      "player_name": "Jalon Daniels",
-      "position": "QB",
-      "published": 1791519131000,
-      "source": "rotowire",
-      "source_key": "641497",
-      "story_id": "nfl|13425|rotowire|641497|1791519131000",
-      "title": "Jalon Daniels - Notable improvement in second start",
-      "url": null
-    },
-    {
-      "analysis": "Otton had two of his three catches on the first drive, and wasn't heard from much afterwards. The passing offense under Jaylon Daniels is still effective, just not explosive. Things get done, but maybe not in a fantasy-friendly manner. That's going to hurt Otton's fantasy value until something changes.",
-      "description": "Cade Otton caught three of four targets for 25 yards in the Bucs' 24-16 win over the Cowboys on Thursday.",
-      "metadata": {
-        "analysis": "Otton had two of his three catches on the first drive, and wasn't heard from much afterwards. The passing offense under Jaylon Daniels is still effective, just not explosive. Things get done, but maybe not in a fantasy-friendly manner. That's going to hurt Otton's fantasy value until something changes.",
-        "description": "Cade Otton caught three of four targets for 25 yards in the Bucs' 24-16 win over the Cowboys on Thursday.",
-        "title": "Cade Otton catches three passes in win",
-        "topic_id": "1414137025447165952",
-        "url": "https://www.fantasypros.com/nfl/news/612944/cade-otton-catches-three-passes-win.php"
-      },
-      "nfl_team": "TB",
-      "player_id": "8111",
-      "player_name": "Cade Otton",
-      "position": "TE",
-      "published": 1791519049568,
-      "source": "fantasy_pros",
-      "source_key": "612944",
-      "story_id": "nfl|8111|fantasy_pros|612944|1791519049568",
-      "title": "Cade Otton catches three passes in win",
-      "url": "https://www.fantasypros.com/nfl/news/612944/cade-otton-catches-three-passes-win.php"
-    },
-    {
-      "analysis": "The Rams gave Adams the day off as a veteran rest day on Thursday. He should be back at practice on Friday and should be a full go for Monday night, looking to bounce back after an underwhelming performance in Week 4.",
-      "description": "Davante Adams (rest) did not take part in practice on Thursday.",
-      "metadata": {
-        "analysis": "The Rams gave Adams the day off as a veteran rest day on Thursday. He should be back at practice on Friday and should be a full go for Monday night, looking to bounce back after an underwhelming performance in Week 4.",
-        "description": "Davante Adams (rest) did not take part in practice on Thursday.",
-        "title": "Davante Adams (rest) doesn't practice Thursday",
-        "topic_id": "1414137025371668480",
-        "url": "https://www.fantasypros.com/nfl/news/612946/davante-adams-rest-doesnt-practice-thursday.php"
-      },
-      "nfl_team": "LAR",
-      "player_id": "2133",
-      "player_name": "Davante Adams",
-      "position": "WR",
-      "published": 1791519049550,
-      "source": "fantasy_pros",
-      "source_key": "612946",
-      "story_id": "nfl|2133|fantasy_pros|612946|1791519049550",
-      "title": "Davante Adams (rest) doesn't practice Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612946/davante-adams-rest-doesnt-practice-thursday.php"
-    },
-    {
-      "analysis": "Nacua was able to make his return to the lineup last week and is now off of the injury report entirely heading into Week 5. Fantasy managers should have no hesitations starting him as a top-tier fantasy option moving forward.",
-      "description": "Puka Nacua (groin) is off of the injury report heading into Week 5.",
-      "metadata": {
-        "analysis": "Nacua was able to make his return to the lineup last week and is now off of the injury report entirely heading into Week 5. Fantasy managers should have no hesitations starting him as a top-tier fantasy option moving forward.",
-        "description": "Puka Nacua (groin) is off of the injury report heading into Week 5.",
-        "title": "Puka Nacua (groin) off injury report for Week 5",
-        "topic_id": "1414137025241645056",
-        "url": "https://www.fantasypros.com/nfl/news/612949/puka-nacua-groin-off-injury-report-week-5.php"
-      },
-      "nfl_team": "LAR",
-      "player_id": "9493",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "published": 1791519049518,
-      "source": "fantasy_pros",
-      "source_key": "612949",
-      "story_id": "nfl|9493|fantasy_pros|612949|1791519049518",
-      "title": "Puka Nacua (groin) off injury report for Week 5",
-      "url": "https://www.fantasypros.com/nfl/news/612949/puka-nacua-groin-off-injury-report-week-5.php"
-    },
-    {
-      "analysis": "Black was limited by an illness on Wednesday, but he's over it at this point and was able to practice in full on Thursday. He should be good to go for Week 5 and will continue to be San Francisco's RB2 for as long as he remains healthy and on the field.",
-      "description": "Kaelon Black (illness) was upgraded to a full participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "Black was limited by an illness on Wednesday, but he's over it at this point and was able to practice in full on Thursday. He should be good to go for Week 5 and will continue to be San Francisco's RB2 for as long as he remains healthy and on the field.",
-        "description": "Kaelon Black (illness) was upgraded to a full participant at practice on Thursday.",
-        "title": "Kaelon Black (illness) upgraded to full participant Thursday",
-        "topic_id": "1414137025199702016",
-        "url": "https://www.fantasypros.com/nfl/news/612950/kaelon-black-illness-upgraded-to-full-participant-thursday.php"
-      },
-      "nfl_team": "SF",
-      "player_id": "13414",
-      "player_name": "Kaelon Black",
-      "position": "RB",
-      "published": 1791519049509,
-      "source": "fantasy_pros",
-      "source_key": "612950",
-      "story_id": "nfl|13414|fantasy_pros|612950|1791519049509",
-      "title": "Kaelon Black (illness) upgraded to full participant Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612950/kaelon-black-illness-upgraded-to-full-participant-thursday.php"
-    },
-    {
-      "analysis": "Aubrey didn't get many opportunities to kick, but he did nail a 41-yard FG just before halftime. The All-Pro kicker is now 9-for-12 on field-goal tries this season, with all of his misses (including two that were blocked) coming from at least 59 yards out. Aubrey is still one of the league's elite kickers, and he figures to continue getting opportunities from very deep considering the strength of his leg.",
-      "description": "Aubrey made his only field-goal attempt and his lone extra-point try in a Week 5 loss to Tampa Bay on Thursday.",
-      "metadata": {
-        "analysis": "Aubrey didn't get many opportunities to kick, but he did nail a 41-yard FG just before halftime. The All-Pro kicker is now 9-for-12 on field-goal tries this season, with all of his misses (including two that were blocked) coming from at least 59 yards out. Aubrey is still one of the league's elite kickers, and he figures to continue getting opportunities from very deep considering the strength of his leg.",
-        "description": "Aubrey made his only field-goal attempt and his lone extra-point try in a Week 5 loss to Tampa Bay on Thursday.",
-        "title": "Brandon Aubrey - Makes lone FG try Thursday",
-        "topic_id": "1414137022246846465"
-      },
-      "nfl_team": "DAL",
-      "player_id": "11533",
-      "player_name": "Brandon Aubrey",
-      "position": "K",
-      "published": 1791518941000,
-      "source": "rotowire",
-      "source_key": "641496",
-      "story_id": "nfl|11533|rotowire|641496|1791518941000",
-      "title": "Brandon Aubrey - Makes lone FG try Thursday",
-      "url": null
-    },
-    {
-      "analysis": "Godwin continued to fill a complementary role in the air attack on a night when Jalon Daniels threw for a modest 189 yards. The veteran wideout has been confined to a short-area role for the most part whether it's been Baker Mayfield (thumb) or Daniels under center, as Godwin has just a 19-179-0 line on the season and two receptions of 20-plus yards heading into a Week 6 home matchup against the Steelers on Sunday, Oct. 18.",
-      "description": "Godwin secured all three targets for 37 yards and rushed once for three yards in the Buccaneers' 24-16 win over the Cowboys on Thursday night.",
-      "metadata": {
-        "analysis": "Godwin continued to fill a complementary role in the air attack on a night when Jalon Daniels threw for a modest 189 yards. The veteran wideout has been confined to a short-area role for the most part whether it's been Baker Mayfield (thumb) or Daniels under center, as Godwin has just a 19-179-0 line on the season and two receptions of 20-plus yards heading into a Week 6 home matchup against the Steelers on Sunday, Oct. 18.",
-        "description": "Godwin secured all three targets for 37 yards and rushed once for three yards in the Buccaneers' 24-16 win over the Cowboys on Thursday night.",
-        "title": "Chris Godwin - Four touches in Week 5 win",
-        "topic_id": "1414137022246846464"
-      },
-      "nfl_team": "TB",
-      "player_id": "4037",
-      "player_name": "Chris Godwin",
-      "position": "WR",
-      "published": 1791518782000,
-      "source": "rotowire",
-      "source_key": "641495",
-      "story_id": "nfl|4037|rotowire|641495|1791518782000",
-      "title": "Chris Godwin - Four touches in Week 5 win",
-      "url": null
-    },
-    {
-      "analysis": "Egbuka comfortably led the Buccaneers in receptions and targets, but his receiving yardage figure was a distant second to Tez Johnson. Egbuka did round out his fantasy night nicely with the first rushing touchdown of his career, which came on a jet sweep from 14 yards out to cap off the first drive of the second half. The increase in chemistry between Egbuka and Jalon Daniels in the latter's second start was encouraging from a fantasy perspective, and they'll have additional time to continue building rapport before a Week 6 home matchup against the Steelers on Sunday, Oct. 18.",
-      "description": "Egbuka secured six of nine targets for 38 yards and rushed once for a 14-yard touchdown in the Buccaneers' 24-16 win over the Cowboys on Thursday night.",
-      "metadata": {
-        "analysis": "Egbuka comfortably led the Buccaneers in receptions and targets, but his receiving yardage figure was a distant second to Tez Johnson. Egbuka did round out his fantasy night nicely with the first rushing touchdown of his career, which came on a jet sweep from 14 yards out to cap off the first drive of the second half. The increase in chemistry between Egbuka and Jalon Daniels in the latter's second start was encouraging from a fantasy perspective, and they'll have additional time to continue building rapport before a Week 6 home matchup against the Steelers on Sunday, Oct. 18.",
-        "description": "Egbuka secured six of nine targets for 38 yards and rushed once for a 14-yard touchdown in the Buccaneers' 24-16 win over the Cowboys on Thursday night.",
-        "title": "Emeka Egbuka - Seven touches, one TD in win",
-        "topic_id": "1414135763221622784"
-      },
-      "nfl_team": "TB",
-      "player_id": "12514",
-      "player_name": "Emeka Egbuka",
-      "position": "WR",
-      "published": 1791518538000,
-      "source": "rotowire",
-      "source_key": "641494",
-      "story_id": "nfl|12514|rotowire|641494|1791518538000",
-      "title": "Emeka Egbuka - Seven touches, one TD in win",
-      "url": null
-    },
-    {
-      "analysis": "Godwin started off hot with two catches on the first drive, but fizzled out quickly with only a single catch the rest of the way. Emeka Egbuka was the favorite target of rookie QB Jaylon Daniels, with Godwin sitting tied for third on the team in targets behind Cade Otton and Kenny Gainwell. Godwin is a risky start at this point, and his value is more closely tied to real life than to fantasy.",
-      "description": "Chris Godwin Jr. caught all three of his targets for 37 yards in the Bucs' 24-16 win over the Cowboys on Thursday. He also ran once for three yards.",
-      "metadata": {
-        "analysis": "Godwin started off hot with two catches on the first drive, but fizzled out quickly with only a single catch the rest of the way. Emeka Egbuka was the favorite target of rookie QB Jaylon Daniels, with Godwin sitting tied for third on the team in targets behind Cade Otton and Kenny Gainwell. Godwin is a risky start at this point, and his value is more closely tied to real life than to fantasy.",
-        "description": "Chris Godwin Jr. caught all three of his targets for 37 yards in the Bucs' 24-16 win over the Cowboys on Thursday. He also ran once for three yards.",
-        "title": "Chris Godwin Jr. snags three passes in win",
-        "topic_id": "1414134509632253952",
-        "url": "https://www.fantasypros.com/nfl/news/612942/chris-godwin-jr-snags-three-passes-win.php"
-      },
-      "nfl_team": "TB",
-      "player_id": "4037",
-      "player_name": "Chris Godwin",
-      "position": "WR",
-      "published": 1791518449752,
-      "source": "fantasy_pros",
-      "source_key": "612942",
-      "story_id": "nfl|4037|fantasy_pros|612942|1791518449752",
-      "title": "Chris Godwin Jr. snags three passes in win",
-      "url": "https://www.fantasypros.com/nfl/news/612942/chris-godwin-jr-snags-three-passes-win.php"
-    },
-    {
-      "analysis": "Gainwell was fine on his rushing touches, but his receiving was a little lackluster. True, a play did get blown up on one of his receptions, but that's little comfort for his fantasy production. He is firmly the RB2 of the offense and should be treated as such.",
-      "description": "Kenny Gainwell ran four times for 18 yards and caught three of four targets for 10 yards in the Bucs' 24-16 win over the Cowboys on Thursday.",
-      "metadata": {
-        "analysis": "Gainwell was fine on his rushing touches, but his receiving was a little lackluster. True, a play did get blown up on one of his receptions, but that's little comfort for his fantasy production. He is firmly the RB2 of the offense and should be treated as such.",
-        "description": "Kenny Gainwell ran four times for 18 yards and caught three of four targets for 10 yards in the Bucs' 24-16 win over the Cowboys on Thursday.",
-        "title": "Kenny Gainwell sees limited work on Thursday night",
-        "topic_id": "1414134509544173568",
-        "url": "https://www.fantasypros.com/nfl/news/612943/kenny-gainwell-sees-limited-work-on-thursday-night.php"
-      },
-      "nfl_team": "TB",
-      "player_id": "7567",
-      "player_name": "Kenny Gainwell",
-      "position": "RB",
-      "published": 1791518449733,
-      "source": "fantasy_pros",
-      "source_key": "612943",
-      "story_id": "nfl|7567|fantasy_pros|612943|1791518449733",
-      "title": "Kenny Gainwell sees limited work on Thursday night",
-      "url": "https://www.fantasypros.com/nfl/news/612943/kenny-gainwell-sees-limited-work-on-thursday-night.php"
-    },
-    {
-      "analysis": "Prescott's final yardage number was sure to please fantasy managers, but there was a pretty sizable gulf between that figure and the veteran signal-caller's actual play-to-play performance most of the night. Prescott and the air attack struggled through more than a half against an aggressive Buccaneers defense, including on a third-quarter interception that led to a Tampa Bay touchdown. However, he came alive on a mid-fourth-quarter drive where the Cowboys sped up the pace, capping that 10-play, 99-yard possession off with an 18-yard touchdown pass to George Pickens. Prescott had Dallas moving again the next time he had the ball, but a pass that went off Jake Ferguson's hands over the middle was secured by Alex Anzalone for what turned out to be a game-sealing interception. Prescott completed a season-low 57.1 percent of his throws and failed to throw multiple touchdown passes for the third straight game, but he'll still take an impressive 9:3 TD:INT into a Week 6 road showdown against the Packers on Sunday night, Oct. 18.",
-      "description": "Prescott completed 24 of 42 passes for 316 yards with a touchdown and two interceptions in the Cowboys' 24-16 loss to the Buccaneers on Thursday night.",
-      "metadata": {
-        "analysis": "Prescott's final yardage number was sure to please fantasy managers, but there was a pretty sizable gulf between that figure and the veteran signal-caller's actual play-to-play performance most of the night. Prescott and the air attack struggled through more than a half against an aggressive Buccaneers defense, including on a third-quarter interception that led to a Tampa Bay touchdown. However, he came alive on a mid-fourth-quarter drive where the Cowboys sped up the pace, capping that 10-play, 99-yard possession off with an 18-yard touchdown pass to George Pickens. Prescott had Dallas moving again the next time he had the ball, but a pass that went off Jake Ferguson's hands over the middle was secured by Alex Anzalone for what turned out to be a game-sealing interception. Prescott completed a season-low 57.1 percent of his throws and failed to throw multiple touchdown passes for the third straight game, but he'll still take an impressive 9:3 TD:INT into a Week 6 road showdown against the Packers on Sunday night, Oct. 18.",
-        "description": "Prescott completed 24 of 42 passes for 316 yards with a touchdown and two interceptions in the Cowboys' 24-16 loss to the Buccaneers on Thursday night.",
-        "title": "Dak Prescott - Piles up yards late in Week 5 loss",
-        "topic_id": "1414134505492455424"
-      },
-      "nfl_team": "DAL",
-      "player_id": "3294",
-      "player_name": "Dak Prescott",
-      "position": "QB",
-      "published": 1791518195000,
-      "source": "rotowire",
-      "source_key": "641493",
-      "story_id": "nfl|3294|rotowire|641493|1791518195000",
-      "title": "Dak Prescott - Piles up yards late in Week 5 loss",
-      "url": null
-    },
-    {
-      "analysis": "Irving struggled to get going in this game, but finished off the Bucs' first drive with a touchdown catch. He then started to see holes open up in the defensive line as the game went on and made Dallas pay for it. He did cede a goal-line touch to Sean Tucker, but Tucker was ruled short of the plane on his attempt to punch in a score. Bucky has been a bit up and down so far this year, but in the right matchup, he's certainly a strong start.",
-      "description": "Bucky Irving ran 21 times for 165 yards and a touchdown, as well as catching two passes for 10 additional yards and a score in the Bucs' 24-16 win over the Dallas Cowboys.",
-      "metadata": {
-        "analysis": "Irving struggled to get going in this game, but finished off the Bucs' first drive with a touchdown catch. He then started to see holes open up in the defensive line as the game went on and made Dallas pay for it. He did cede a goal-line touch to Sean Tucker, but Tucker was ruled short of the plane on his attempt to punch in a score. Bucky has been a bit up and down so far this year, but in the right matchup, he's certainly a strong start.",
-        "description": "Bucky Irving ran 21 times for 165 yards and a touchdown, as well as catching two passes for 10 additional yards and a score in the Bucs' 24-16 win over the Dallas Cowboys.",
-        "title": "Bucky Irving rumbles for 165 yards in win over Dallas",
-        "topic_id": "1414131993058283520",
-        "url": "https://www.fantasypros.com/nfl/news/612937/bucky-irving-rumbles-165-yards-win-over-dallas.php"
-      },
-      "nfl_team": "TB",
-      "player_id": "11584",
-      "player_name": "Bucky Irving",
-      "position": "RB",
-      "published": 1791517849754,
-      "source": "fantasy_pros",
-      "source_key": "612937",
-      "story_id": "nfl|11584|fantasy_pros|612937|1791517849754",
-      "title": "Bucky Irving rumbles for 165 yards in win over Dallas",
-      "url": "https://www.fantasypros.com/nfl/news/612937/bucky-irving-rumbles-165-yards-win-over-dallas.php"
-    },
-    {
-      "analysis": "Egbuka had a long of 21 yards, meaning his five other receptions amounted to just 17 total yards. He was still the highest-targeted Bucs receiver on the night, with no other Tampa player garnering more than four targets. He doesn't have quite the same appeal he might have if a veteran were tossing him the ball, but Daniels has shown competence so far in his two starts while QB Baker Mayfield recovers from injury, and should only get better.",
-      "description": "Emeka Egbuka caught six of nine targets for 38 yards, also running once for a 14-yard score in Tampa Bay's 24-16 win over the Cowboys.",
-      "metadata": {
-        "analysis": "Egbuka had a long of 21 yards, meaning his five other receptions amounted to just 17 total yards. He was still the highest-targeted Bucs receiver on the night, with no other Tampa player garnering more than four targets. He doesn't have quite the same appeal he might have if a veteran were tossing him the ball, but Daniels has shown competence so far in his two starts while QB Baker Mayfield recovers from injury, and should only get better.",
-        "description": "Emeka Egbuka caught six of nine targets for 38 yards, also running once for a 14-yard score in Tampa Bay's 24-16 win over the Cowboys.",
-        "title": "Emeka Egbuka runs in touchdown in win",
-        "topic_id": "1414131992877928448",
-        "url": "https://www.fantasypros.com/nfl/news/612940/emeka-egbuka-runs-touchdown-win.php"
-      },
-      "nfl_team": "TB",
-      "player_id": "12514",
-      "player_name": "Emeka Egbuka",
-      "position": "WR",
-      "published": 1791517849711,
-      "source": "fantasy_pros",
-      "source_key": "612940",
-      "story_id": "nfl|12514|fantasy_pros|612940|1791517849711",
-      "title": "Emeka Egbuka runs in touchdown in win",
-      "url": "https://www.fantasypros.com/nfl/news/612940/emeka-egbuka-runs-touchdown-win.php"
-    },
-    {
-      "analysis": "It looks like Mumpfield's shoulder injury is nothing serious, as he was able to log a full practice session to start the week on Thursday. He should be a full go for Week 5.",
-      "description": "Konata Mumpfield (shoulder) logged a full practice session on Thursday.",
-      "metadata": {
-        "analysis": "It looks like Mumpfield's shoulder injury is nothing serious, as he was able to log a full practice session to start the week on Thursday. He should be a full go for Week 5.",
-        "description": "Konata Mumpfield (shoulder) logged a full practice session on Thursday.",
-        "title": "Konata Mumpfield (shoulder) logs full practice Thursday",
-        "topic_id": "1414131992831791104",
-        "url": "https://www.fantasypros.com/nfl/news/612941/konata-mumpfield-shoulder-logs-full-practice-thursday.php"
-      },
-      "nfl_team": "LAR",
-      "player_id": "12718",
-      "player_name": "Konata Mumpfield",
-      "position": "WR",
-      "published": 1791517849699,
-      "source": "fantasy_pros",
-      "source_key": "612941",
-      "story_id": "nfl|12718|fantasy_pros|612941|1791517849699",
-      "title": "Konata Mumpfield (shoulder) logs full practice Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612941/konata-mumpfield-shoulder-logs-full-practice-thursday.php"
-    },
-    {
-      "analysis": "Williams' rushing opportunities were somewhat capped by a surprising second-half game script that included a 17-0 third-quarter advantage for Tampa Bay. However, the veteran running back had gotten Dallas started off on the right foot in the first quarter, when he capped off a nine-play opening drive with a one-yard touchdown run. Williams did a respectable job throughout the night grinding out yards against a tough Buccaneers run defense, but he's now averaged less than 3.8 yards per carry in four of the first five games, including two straight. Nevertheless, Williams does have six rushing touchdowns in the same span, and he should have a good chance at a heftier workload on the ground in a Week 6 road matchup against the Packers on Sunday, Oct. 18.",
-      "description": "Williams rushed 12 times for 45 yards and a touchdown and brought in two of three targets for 17 yards in the Cowboys' 24-16 loss to the Buccaneers on Thursday night.",
-      "metadata": {
-        "analysis": "Williams' rushing opportunities were somewhat capped by a surprising second-half game script that included a 17-0 third-quarter advantage for Tampa Bay. However, the veteran running back had gotten Dallas started off on the right foot in the first quarter, when he capped off a nine-play opening drive with a one-yard touchdown run. Williams did a respectable job throughout the night grinding out yards against a tough Buccaneers run defense, but he's now averaged less than 3.8 yards per carry in four of the first five games, including two straight. Nevertheless, Williams does have six rushing touchdowns in the same span, and he should have a good chance at a heftier workload on the ground in a Week 6 road matchup against the Packers on Sunday, Oct. 18.",
-        "description": "Williams rushed 12 times for 45 yards and a touchdown and brought in two of three targets for 17 yards in the Cowboys' 24-16 loss to the Buccaneers on Thursday night.",
-        "title": "Javonte Williams - Another TD in Week 5 loss",
-        "topic_id": "1414131988280901632"
-      },
-      "nfl_team": "DAL",
-      "player_id": "7588",
-      "player_name": "Javonte Williams",
-      "position": "RB",
-      "published": 1791517795000,
-      "source": "rotowire",
-      "source_key": "641492",
-      "story_id": "nfl|7588|rotowire|641492|1791517795000",
-      "title": "Javonte Williams - Another TD in Week 5 loss",
-      "url": null
-    },
-    {
-      "analysis": "Pickens was a bit player in the air attack during a Week 4 comeback win against the Texans in which CeeDee Lamb (quadriceps) recorded a massive 17-189-1 line on 21 targets, but it was the former's turn to shine Thursday. The fact Lamb was in and out of the game during the latter stages of the fourth quarter did have some impact on Pickens' involvement, but the latter was already having a big night that included his first receiving touchdown of the season on an 18-yard grab in the fourth quarter. Pickens ultimately finished with new season-high figures across his receiving line, and he'll be in line for a similarly busy night in a Week 6 road matchup against the Packers on Sunday night, Oct. 18 if Lamb is limited or misses that contest altogether.",
-      "description": "Pickens secured nine of 13 targets for 130 yards and a touchdown in the Cowboys' 24-16 loss to the Buccaneers on Thursday night.",
-      "metadata": {
-        "analysis": "Pickens was a bit player in the air attack during a Week 4 comeback win against the Texans in which CeeDee Lamb (quadriceps) recorded a massive 17-189-1 line on 21 targets, but it was the former's turn to shine Thursday. The fact Lamb was in and out of the game during the latter stages of the fourth quarter did have some impact on Pickens' involvement, but the latter was already having a big night that included his first receiving touchdown of the season on an 18-yard grab in the fourth quarter. Pickens ultimately finished with new season-high figures across his receiving line, and he'll be in line for a similarly busy night in a Week 6 road matchup against the Packers on Sunday night, Oct. 18 if Lamb is limited or misses that contest altogether.",
-        "description": "Pickens secured nine of 13 targets for 130 yards and a touchdown in the Cowboys' 24-16 loss to the Buccaneers on Thursday night.",
-        "title": "George Pickens - Takes turn as workhorse Thursday",
-        "topic_id": "1414131988272513024"
-      },
-      "nfl_team": "DAL",
-      "player_id": "8137",
-      "player_name": "George Pickens",
-      "position": "WR",
-      "published": 1791517500000,
-      "source": "rotowire",
-      "source_key": "641491",
-      "story_id": "nfl|8137|rotowire|641491|1791517500000",
-      "title": "George Pickens - Takes turn as workhorse Thursday",
-      "url": null
-    },
-    {
-      "analysis": "Helm seems to have suffered a knee injury of some kind, as he was downgraded to a limited participant on Thursday because of it. Daniel Bellinger will see more work if Helm is unable to suit up against the Texans this week.",
-      "description": "Gunnar Helm (knee) was downgraded to a limited participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "Helm seems to have suffered a knee injury of some kind, as he was downgraded to a limited participant on Thursday because of it. Daniel Bellinger will see more work if Helm is unable to suit up against the Texans this week.",
-        "description": "Gunnar Helm (knee) was downgraded to a limited participant at practice on Thursday.",
-        "title": "Gunnar Helm (knee) downgraded to limited Thursday",
-        "topic_id": "1414129476039610368",
-        "url": "https://www.fantasypros.com/nfl/news/612930/gunnar-helm-knee-downgraded-to-limited-thursday.php"
-      },
-      "nfl_team": "TEN",
-      "player_id": "12502",
-      "player_name": "Gunnar Helm",
-      "position": "TE",
-      "published": 1791517249649,
-      "source": "fantasy_pros",
-      "source_key": "612930",
-      "story_id": "nfl|12502|fantasy_pros|612930|1791517249649",
-      "title": "Gunnar Helm (knee) downgraded to limited Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612930/gunnar-helm-knee-downgraded-to-limited-thursday.php"
-    },
-    {
-      "analysis": "The rookie is a new addition to the team's injury report, being listed with a knee injury of some kind that left him limited at practice on Thursday. He had a good game in Week 4 and seems to be finding his groove right now, but an untimely injury could mess up that momentum. Look for Wan'Dale Robinson to see more work if Tate is out this week.",
-      "description": "Carnell Tate (knee) was limited at Tennessee's practice on Thursday.",
-      "metadata": {
-        "analysis": "The rookie is a new addition to the team's injury report, being listed with a knee injury of some kind that left him limited at practice on Thursday. He had a good game in Week 4 and seems to be finding his groove right now, but an untimely injury could mess up that momentum. Look for Wan'Dale Robinson to see more work if Tate is out this week.",
-        "description": "Carnell Tate (knee) was limited at Tennessee's practice on Thursday.",
-        "title": "Carnell Tate (knee) limited at practice Thursday",
-        "topic_id": "1414129475964112896",
-        "url": "https://www.fantasypros.com/nfl/news/612931/carnell-tate-knee-limited-practice-thursday.php"
-      },
-      "nfl_team": "TEN",
-      "player_id": "13279",
-      "player_name": "Carnell Tate",
-      "position": "WR",
-      "published": 1791517249633,
-      "source": "fantasy_pros",
-      "source_key": "612931",
-      "story_id": "nfl|13279|fantasy_pros|612931|1791517249633",
-      "title": "Carnell Tate (knee) limited at practice Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612931/carnell-tate-knee-limited-practice-thursday.php"
-    },
-    {
-      "analysis": "Pollard was held out of Wednesday's practice as part of the injury management for his foot, but he was able to return to practice in a full capacity on Thursday. He should be good to go for Week 5 and will see his usual workload in a matchup against the Texans.",
-      "description": "Tony Pollard (foot) returned to practice in a full capacity on Thursday.",
-      "metadata": {
-        "analysis": "Pollard was held out of Wednesday's practice as part of the injury management for his foot, but he was able to return to practice in a full capacity on Thursday. He should be good to go for Week 5 and will see his usual workload in a matchup against the Texans.",
-        "description": "Tony Pollard (foot) returned to practice in a full capacity on Thursday.",
-        "title": "Tony Pollard (foot) returns to practice in full Thursday",
-        "topic_id": "1414129475884421120",
-        "url": "https://www.fantasypros.com/nfl/news/612932/tony-pollard-foot-returns-to-practice-full-thursday.php"
-      },
-      "nfl_team": "TEN",
-      "player_id": "5967",
-      "player_name": "Tony Pollard",
-      "position": "RB",
-      "published": 1791517249614,
-      "source": "fantasy_pros",
-      "source_key": "612932",
-      "story_id": "nfl|5967|fantasy_pros|612932|1791517249614",
-      "title": "Tony Pollard (foot) returns to practice in full Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612932/tony-pollard-foot-returns-to-practice-full-thursday.php"
-    },
-    {
-      "analysis": "Daniels may not have put up big passing game numbers, but he didn't need to. He led the offense effectively throughout; the team nearly put the game away on a Sean Tucker rush that was ruled short of the goal line, giving Dallas a last gasp. Daniels has impressed so far, despite his ups and downs as a rookie. He's looking like a solid backup for Baker Mayfield once he returns. In the meantime, he's a low-end QB2 start in the right matchup.",
-      "description": "Jalon Daniels completed 19 of 25 passes for 189 yards and a touchdown, as well as carrying the ball seven times for 23 yards in the Bucs' 24-16 win over the Cowboys.",
-      "metadata": {
-        "analysis": "Daniels may not have put up big passing game numbers, but he didn't need to. He led the offense effectively throughout; the team nearly put the game away on a Sean Tucker rush that was ruled short of the goal line, giving Dallas a last gasp. Daniels has impressed so far, despite his ups and downs as a rookie. He's looking like a solid backup for Baker Mayfield once he returns. In the meantime, he's a low-end QB2 start in the right matchup.",
-        "description": "Jalon Daniels completed 19 of 25 passes for 189 yards and a touchdown, as well as carrying the ball seven times for 23 yards in the Bucs' 24-16 win over the Cowboys.",
-        "title": "Jalon Daniels leads Tampa to first win of the season on TNF",
-        "topic_id": "1414129475813117952",
-        "url": "https://www.fantasypros.com/nfl/news/612934/jalon-daniels-leads-tampa-to-first-win-season-on-tnf.php"
-      },
-      "nfl_team": "TB",
-      "player_id": "13425",
-      "player_name": "Jalon Daniels",
-      "position": "QB",
-      "published": 1791517249598,
-      "source": "fantasy_pros",
-      "source_key": "612934",
-      "story_id": "nfl|13425|fantasy_pros|612934|1791517249598",
-      "title": "Jalon Daniels leads Tampa to first win of the season on TNF",
-      "url": "https://www.fantasypros.com/nfl/news/612934/jalon-daniels-leads-tampa-to-first-win-season-on-tnf.php"
-    },
-    {
-      "analysis": "The early portion of Irving's night offered no hint the third-year back would finish with a new career high in rushing yards, as he repeatedly scuffled for running room throughout most of the first half. However, he did put the Buccaneers' first points on the board with a five-yard touchdown catch on the second play of the second quarter, and he subsequently ripped off a nifty 72-yard scamper that saw him change direction several times within the first 10 yards on the first play of the second half. Irving would go on to cap off the next possession with a one-yard touchdown run, and he sealed Tampa Bay's victory with a 22-yard rush on the final drive of the night that set up a pair of Jalon Daniels' kneel downs. Irving's carry total was also a season-high figure, and he's now averaging 5.3 yards per carry heading into a Week 6 home matchup against the Steelers on Sunday, Oct. 18.",
-      "description": "Irving rushed 21 times for 165 yards and a touchdown and brought in two of three targets for 10 yards and another score in the Buccaneers' 24-16 win over the Cowboys on Thursday.",
-      "metadata": {
-        "analysis": "The early portion of Irving's night offered no hint the third-year back would finish with a new career high in rushing yards, as he repeatedly scuffled for running room throughout most of the first half. However, he did put the Buccaneers' first points on the board with a five-yard touchdown catch on the second play of the second quarter, and he subsequently ripped off a nifty 72-yard scamper that saw him change direction several times within the first 10 yards on the first play of the second half. Irving would go on to cap off the next possession with a one-yard touchdown run, and he sealed Tampa Bay's victory with a 22-yard rush on the final drive of the night that set up a pair of Jalon Daniels' kneel downs. Irving's carry total was also a season-high figure, and he's now averaging 5.3 yards per carry heading into a Week 6 home matchup against the Steelers on Sunday, Oct. 18.",
-        "description": "Irving rushed 21 times for 165 yards and a touchdown and brought in two of three targets for 10 yards and another score in the Buccaneers' 24-16 win over the Cowboys on Thursday.",
-        "title": "Bucky Irving - Career-best rushing yardage in win",
-        "topic_id": "1414129471530807296"
-      },
-      "nfl_team": "TB",
-      "player_id": "11584",
-      "player_name": "Bucky Irving",
-      "position": "RB",
-      "published": 1791517093000,
-      "source": "rotowire",
-      "source_key": "641490",
-      "story_id": "nfl|11584|rotowire|641490|1791517093000",
-      "title": "Bucky Irving - Career-best rushing yardage in win",
-      "url": null
-    },
-    {
-      "analysis": "Dell was limited for a second-straight practice on Thursday. That's a good sign that he will be back on the field sooner rather than later, but we won't know his official status for Week 5 until sometime after practice on Friday.",
-      "description": "Tank Dell (knee) was limited at practice again on Thursday.",
-      "metadata": {
-        "analysis": "Dell was limited for a second-straight practice on Thursday. That's a good sign that he will be back on the field sooner rather than later, but we won't know his official status for Week 5 until sometime after practice on Friday.",
-        "description": "Tank Dell (knee) was limited at practice again on Thursday.",
-        "title": "Tank Dell (knee) limited again Thursday",
-        "topic_id": "1414126959130124288",
-        "url": "https://www.fantasypros.com/nfl/news/612924/tank-dell-knee-limited-again-thursday.php"
-      },
-      "nfl_team": "HOU",
-      "player_id": "9502",
-      "player_name": "Tank Dell",
-      "position": "WR",
-      "published": 1791516649571,
-      "source": "fantasy_pros",
-      "source_key": "612924",
-      "story_id": "nfl|9502|fantasy_pros|612924|1791516649571",
-      "title": "Tank Dell (knee) limited again Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/612924/tank-dell-knee-limited-again-thursday.php"
-    },
-    {
-      "analysis": "Lamb was standing on the sideline with his helmet on in the fourth quarter, suggesting the injury isn't serious, but he watched as the offense marched down the field and put it in the end zone. Ryan Flournoy, Jonathan Mingo and KaVontae Turpin will soak up additional snaps at wideout, while George Pickens handles clear WR1 duties with Lamb sidelined. Prior to his injury, Lamb caught two of five targets for nine yards.",
-      "description": "Lamb (quadriceps) is questionable to return to Thursday night's game against Tampa Bay, Todd Archer of ESPN.com reports.",
-      "metadata": {
-        "analysis": "Lamb was standing on the sideline with his helmet on in the fourth quarter, suggesting the injury isn't serious, but he watched as the offense marched down the field and put it in the end zone. Ryan Flournoy, Jonathan Mingo and KaVontae Turpin will soak up additional snaps at wideout, while George Pickens handles clear WR1 duties with Lamb sidelined. Prior to his injury, Lamb caught two of five targets for nine yards.",
-        "description": "Lamb (quadriceps) is questionable to return to Thursday night's game against Tampa Bay, Todd Archer of ESPN.com reports.",
-        "title": "CeeDee Lamb - Nursing quad injury",
-        "topic_id": "1414120662573854720"
-      },
-      "nfl_team": "DAL",
-      "player_id": "6786",
-      "player_name": "CeeDee Lamb",
-      "position": "WR",
-      "published": 1791514868000,
-      "source": "rotowire",
-      "source_key": "641488",
-      "story_id": "nfl|6786|rotowire|641488|1791514868000",
-      "title": "CeeDee Lamb - Nursing quad injury",
-      "url": null
-    },
-    {
-      "analysis": "Davis was able to log a full practice session to start the week on Thursday. He played through this hamstring injury in Week 4, and it looks like it's not an issue for him at all anymore. He should play and be a full go in Week 5, though he will continue to be relegated to a depth role in this backfield.",
-      "description": "Ray Davis (hamstring) logged a full practice session on Thursday.",
-      "metadata": {
-        "analysis": "Davis was able to log a full practice session to start the week on Thursday. He played through this hamstring injury in Week 4, and it looks like it's not an issue for him at all anymore. He should play and be a full go in Week 5, though he will continue to be relegated to a depth role in this backfield.",
-        "description": "Ray Davis (hamstring) logged a full practice session on Thursday.",
-        "title": "Ray Davis (hamstring) logs full practice Thursday.",
-        "topic_id": "1414104307287994368",
-        "url": "https://www.fantasypros.com/nfl/news/612923/ray-davis-hamstring-logs-full-practice-thursday.php"
-      },
-      "nfl_team": "BUF",
-      "player_id": "11575",
-      "player_name": "Ray Davis",
-      "position": "RB",
-      "published": 1791511248952,
-      "source": "fantasy_pros",
-      "source_key": "612923",
-      "story_id": "nfl|11575|fantasy_pros|612923|1791511248952",
-      "title": "Ray Davis (hamstring) logs full practice Thursday.",
-      "url": "https://www.fantasypros.com/nfl/news/612923/ray-davis-hamstring-logs-full-practice-thursday.php"
     }
   ]
 }
