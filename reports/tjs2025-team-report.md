@@ -5,7 +5,7 @@
 - Roster ID: **5**
 - Players: **25**
 - Taxi: **1**
-- Reserve/IR: **3**
+- Reserve/IR: **2**
 
 ## Current roster
 
@@ -27,12 +27,12 @@
 - Noah Fant — TE — NO
 - Travis Kelce — TE — KC
 - Davante Adams — WR — LAR
-- Deebo Samuel Sr. — WR — SF
-- Demarcus Robinson — WR — SF — reserve/IR
+- Deebo Samuel Sr. — WR — SF — reserve/IR
+- Demarcus Robinson — WR — SF
 - Elic Ayomanor — WR — TEN
 - Jahan Dotson — WR — ATL
 - Jalen Nailor — WR — LV
-- Pat Bryant — WR — DEN — reserve/IR
+- Pat Bryant — WR — DEN
 - Xavier Hutchinson — WR — HOU
 
 ## Acquired future picks
