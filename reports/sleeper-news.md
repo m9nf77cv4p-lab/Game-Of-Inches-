@@ -2,50 +2,181 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6579**
-- Newly captured: **29**
+- Stored stories: **6531**
+- Newly captured: **54**
 
 ## Latest news
 
-- **NEW — Jordan Addison** — Jordan Addison - Solid yardage on two catches (2026-11-10T06:10:22Z)
+- **NEW — Cam Skattebo** — Cam Skattebo (hamstring) practices Tuesday  (2026-11-10T18:45:52.572000Z)
+  - Skattebo remains on track to return for Thursday's game against the Commanders. He is expected to be a full-go. 
+  - Source: https://www.fantasypros.com/nfl/news/619064/cam-skattebo-hamstring-practices-tuesday.php
+- **NEW — Keenan Allen** — Keenan Allen traded to 49ers (2026-11-10T18:45:52.554000Z)
+  - With Mike Evans still sidelined and Deebo Samuel working his way back to practice this week, San Francisco adds depth to its wide receiver room with a veteran in Allen. He is likely to remain off the fantasy radar unless both Evans and Samuel continue to miss time. 
+  - Source: https://www.fantasypros.com/nfl/news/619065/keenan-allen-traded-to-49ers.php
+- **NEW — Keenan Allen** — Keenan Allen - Shipped to San Francisco (2026-11-10T18:43:04Z)
+  - A beat-up 49ers receiving corps will get some much-needed reinforcement in the form of Allen, who has still displayed the ability to move the chains during his age-34 season. Through eight games with the Colts, Allen produced a 40-351-1 receiving line on 58 targets. While Mike Evans (Achilles) and Deebo Samuel (hamstring) may be prioritized ahead of him in the passing game once fully healthy, Allen could have the opportunity to see steady target volume right out of the gate Sunday in Dallas.
+- **NEW — J.J. McCarthy** — J.J. McCarthy - Taking part in practice Tuesday (2026-11-10T18:38:36Z)
+  - Listed as a limited participant on Monday's practice estimate when the Giants merely held a walkthrough, McCarthy looks poised to take more on-field reps Tuesday. Whether that translates into a "full" listing won't be known until the Giants release their second injury report of the week once Tuesday's practice concludes, but McCarthy's presence on the field is nonetheless a positive sign ahead of Thursday's game against the Commanders. McCarthy dealt with a hip pointer during the Giants' Week 9 win over the Eagles, but he was able to finish out the game after briefly checking out in the third quarter.
+- **NEW — Kirk Cousins** — Kirk Cousins identified as prime trade candidate for Vikings (2026-11-10T18:35:52.467000Z)
+  - Minnesota is expected to make a move for a quarterback ahead of the deadline. This will remain a situation to monitor. 
+  - Source: https://www.fantasypros.com/nfl/news/619062/kirk-cousins-identified-prime-trade-candidate-vikings.php
+- **NEW — J.J. McCarthy** — J.J. McCarthy (hip) practices Tuesday  (2026-11-10T18:35:52.454000Z)
+  - McCarthy remains on track to be good to go for Thursday's game against the Commanders. 
+  - Source: https://www.fantasypros.com/nfl/news/619063/jj-mccarthy-hip-practices-tuesday.php
+- **NEW — Cam Skattebo** — Cam Skattebo - Practicing again Tuesday (2026-11-10T18:34:39Z)
+  - The Giants listed Skattebo as a limited participant Monday on their first Week 10 injury report, but the team merely held a walkthrough session. Tuesday will mark the Giants' most rigorous practice of the week prior to Thursday's game against the Washington, so what Skattebo is able to do should help determine his status for that contest. Skattebo was sidelined for the first time all season in this past Sunday's victory over the Eagles after tweaking his hamstring in overtime of the Giants' Week 7 win over the Texans.
+- **NEW — Tyreek Hill** — Tyreek Hill - Still awaiting medical clearance (2026-11-10T18:19:54Z)
+  - Though his outlook hasn't changed much since Rosenhaus last provided an update in mid-October, Hill is seemingly getting closer to being ready to take the field. It's unclear what type of interest Hill has garnered around the league, but he's a free agent and could hold some appeal for teams once doctors give him the green light to play.
+- **NEW — Tyreek Hill** — Tyreek Hill (knee) expected to be medically cleared in a few weeks (2026-11-10T18:15:51.951000Z)
+  - Hill will be an option for a team that doesn't land a wide receiver ahead of Tuesday's trade deadline.
+  - Source: https://www.fantasypros.com/nfl/news/619061/tyreek-hill-knee-expected-to-be-medically-cleared-few-weeks.php
+- **NEW — Kendre Miller** — Kendre Miller - Will visit with Cowboys (2026-11-10T18:12:11Z)
+  - Miller was released over the Saints by the weekend and went unclaimed on waivers, so he is free to sign with any team, and he could link up with a Cowboys team that is thin in the backfield with Tyler Goodson (knee) sidelined for several weeks.
+- **NEW — Kendre Miller** — Kendre Miller visiting Cowboys  (2026-11-10T18:00:52.638000Z)
+  - Miller was recently released by the Saints. The Cowboys backfield is banged up behind Javonte Williams. 
+  - Source: https://www.fantasypros.com/nfl/news/619056/kendre-miller-visiting-cowboys.php
+- **NEW — Brandon Aiyuk** — Brandon Aiyuk officially reinstated  (2026-11-10T17:40:51.752000Z)
+  - The next step for Aiyuk is hoping for a release from San Francisco. Schultz notes that at least one NFC team has internally discussed the possibility of adding Aiyuk to its practice squad when he is released. 
+  - Source: https://www.fantasypros.com/nfl/news/619043/brandon-aiyuk-officially-reinstated.php
+- **NEW — Kaleb Johnson** — Kaleb Johnson - Could lead backfield again Week 10 (2026-11-10T16:24:09Z)
+  - After being a healthy inactive for the Packers' previous two games, Johnson suited up for Sunday's tilt with the Patriots while Lloyd was inactive. With Jacobs leaving the contest late in the first quarter after fracturing his right ring finger, Johnson was thrust into action and delivered the Packers' best rushing performance of the season, finishing with 14 carries for 68 yards and a touchdown in the 45-27 win. Head coach Matt LaFleur relayed Monday that Jacobs will need surgery and could land on injured reserve, and while Lloyd could have a chance at returning to action Week 10, the Packers likely came away encouraged enough by Johnson's showing in Foxborough to give him another turn as their lead option on the ground. Johnson isn't likely to earn much passing-down work, however, as Lloyd, Pierre Strong and Chris Brooks (ankle) -- who could return from IR this week -- are all more capable options in that phase.
+- **NEW — Mike Evans** — Mike Evans - Not trending toward Week 10 return (2026-11-10T16:10:29Z)
+  - Per Nick Wagoner of ESPN.com, head coach Kyle Shanahan acknowledged Monday that Evans was unlikely to take part in the 49ers' first practice of the week Wednesday. The veteran wideout appears unlikely to be anything more than a limited participant Thursday or Friday either, so barring dramatic improvement in his recovery from right Achilles tendinitis, he'll miss a third straight game this weekend.
+- **NEW — Sam LaPorta** — Sam LaPorta - Not viewed as trade candidate (2026-11-10T16:05:15Z)
+  - Earlier in the season, LaPorta expressed his frustration with the Lions for the organization's inability to come to terms on an extension with him, but both sides still appear to be on good terms and willing to re-engage in discussions on a new deal before he becomes a free agent in 2027. The fourth-year tight end has likely helped his case for earning a lucrative contract by having thus far stayed healthy throughout the season while putting together a 35-399-3 receiving line on 49 targets over the Lions' first eight games.
+- **NEW — Justin Herbert** — Justin Herbert - Likely to play through finger injury (2026-11-10T16:00:52Z)
+  - Herbert may still have to manage some discomfort in the finger during Monday's contest, but since the injury to his non-throwing hand, he shouldn't be too affected while throwing or handing the ball off. That being said, Herbert has become increasingly difficult to justify including in fantasy lineups even when he's been in more optimal health entering games. Heading into the matchup with the Ravens, Herbert has completed a career-low 61.3 percent of his passes for 6.8 yards per attempt and just six touchdowns in eight games. He's tied with New England's Drake Maye for the league lead in interceptions thrown (11) and ranks second behind Cleveland's Deshaun Watson in sacks taken (31).
+- **NEW — Brian Thomas Jr.** — Brian Thomas Jr. not expected to be traded (2026-11-10T16:00:51.099000Z)
+  - Jacksonville plans to keep its roster intact after making some big trades on Monday. Fowler notes the Jaguars have told teams they plan to keep Thomas. 
+  - Source: https://www.fantasypros.com/nfl/news/619017/brian-thomas-jr-not-expected-to-be-traded.php
+- **NEW — Rhamondre Stevenson** — Rhamondre Stevenson - Likely to miss multiple weeks (2026-11-10T15:46:24Z)
+  - Stevenson won't require surgery, but he looks likely to miss at least the Patriots' Week 10 game against the Lions in Munich due to a plantaris tendon issue on the back of his knee. The Patriots will be on bye Week 11 following the contest in Germany, and that extra time off could be enough for Stevenson to avoid a stint on injured reserve, which would require him to miss a minimum of four games. With the status of TreVeyon Henderson (illness) uncertain heading into the matchup with the Lions, the Patriots could be down to their third and fourth options in the backfield -- Corey Kiner and Lan Larison, respectively -- in Week 10.
+- **NEW — Brian Thomas Jr.** — Brian Thomas - Staying put in Jacksonville (2026-11-10T15:38:48Z)
+  - After sending out a first-round pick, two second-round picks, a fifth-round pick and a sixth-round pick Monday in separate deals to bring in defenders Jordan Davis, Jessie Bates and Davon Godchaux, the Jaguars likely could have recouped some of that draft capital if they had opted to move Thomas. Instead, Fowler indicates that the Jaguars plan to keep the rest of their roster intact ahead of the deadline, which will result in Thomas sticking around. Rather than operating as the high-volume target earner he was during his banner 2024 rookie campaign, Thomas looks like he'll continue to serve mainly as a vertical threat who frees up opportunities in the short and intermediate areas for other pass catchers. Thomas has drawn three or fewer targets in six straight games, producing a weak 4-37-2 receiving line during that stretch.
+- **NEW — Terrance Ferguson** — Terrance Ferguson - Return from IR not guaranteed (2026-11-10T15:34:58Z)
+  - After missing five consecutive games while recovering from an ankle sprain, Ferguson appeared poised to return from IR ahead of this past Sunday's game against the Commanders, but his activation was delayed after he pulled his hamstring while running a route during Friday's practice. McVay said after the practice that the setback would likely keep Ferguson out for "a couple more weeks." Ferguson's 21-day window will come to a close Nov. 25, so even if he doesn't resume practicing before then, he'll likely need to show the Rams that he's made at least some progress in his recovery from the hamstring injury to get activated. McVay said that he would be open to adding Ferguson back to the 53-man roster before he's ready to play, but the Rams may not be keen on essentially playing a man down for more than a game or two.
+- **NEW — Carson Wentz** — Carson Wentz absolutely awful in Monday night loss (2026-11-10T15:25:50.957000Z)
+  - Earlier this season, Wentz had some bright moments at the helm of the Vikings' offense. That's a distant memory now, as the veteran QB couldn't even finish Monday's contest without being benched in favor of third-stringer Max Brosmer. Wentz may have very well played his final snaps for the Vikings. 
+  - Source: https://www.fantasypros.com/nfl/news/619015/carson-wentz-absolutely-awful-monday-night-loss.php
+- **NEW — Puka Nacua** — Puka Nacua - Likely to miss at least one month (2026-11-10T15:19:18Z)
+  - Though head coach Sean McVay wasn't willing to commit to a timeline for Nacua's recovery when he addressed the matter Monday, the wideout looks as though he'll get the next four games off, at a minimum, while he contends with an MCL and PCL sprain in his right knee as well as turf toe. Los Angeles will likely make Nacua's move to IR official at some point prior to Sunday's game in Arizona, leaving the Rams without their top two wideouts for at least one contest since Davante Adams (hamstring) isn't projected to be activated from IR until at least Week 11. Given the lack of healthy dependable options in the receiver room, the Rams could be actively looking to acquire an established wideout prior to Tuesday's trade deadline.
+- **NEW — Aaron Jones Sr.** — Aaron Jones Sr. gets just six touches on Monday night (2026-11-10T15:15:50.859000Z)
+  - Jones' paltry production in this one wasn't the result of backfield mate Jordan Mason seeing a surge in touches, as the latter finished with just seven of his own. The Vikings' offense is all out of sorts at the moment, and their RB tandem is suffering as a result. Jones looked like he might have found the Fountain of Youth earlier this season, but over the last three weeks, the veteran has given fantasy managers next to nothing. 
+  - Source: https://www.fantasypros.com/nfl/news/619014/aaron-jones-sr-gets-just-six-touches-on-monday-night.php
+- **NEW — Justin Jefferson** — Justin Jefferson catches three passes in Week 9 loss (2026-11-10T15:15:50.495000Z)
+  - Jefferson is one of the league's top talents at wide receiver. Still, the Vikings' inept quarterback play so far this season has turned the All-Pro into an inconsistent, boom-or-bust asset for fantasy managers. Jefferson is in the low-end WR2 discussion at present, but if the Vikings can figure things out at QB, he would fly back up the rankings. 
+  - Source: https://www.fantasypros.com/nfl/news/619012/justin-jefferson-catches-three-passes-week-9-loss.php
+- **NEW — Jordan Mason** — Jordan Mason totals 42 yards on Monday night (2026-11-10T15:15:50.480000Z)
+  - Mason missed a large chunk of the season early on. Then, he returned to gain 68 yards on 15 carries in a win over the Colts in Week 7. Any encouragement that resulted from that performance is gone now, as the Vikings just cannot get things together on offense. Mason has gained 55 yards on just 14 carries combined over the last two games. He's a bench stash for fantasy purposes right now. 
+  - Source: https://www.fantasypros.com/nfl/news/619013/jordan-mason-totals-42-yards-on-monday-night.php
+- **NEW — T.J. Hockenson** — T.J. Hockenson hauls in four passes Monday night (2026-11-10T15:05:50.594000Z)
+  - Hockenson actually led the Vikings in receptions Monday night, but the offense was pretty much shut down on the whole. The veteran TE has had a decent season to this point despite lacking QB play for the Vikings. Hockenson had scored in two straight games going into Monday night, and he's now caught four passes in three consecutive weeks. 
+  - Source: https://www.fantasypros.com/nfl/news/619010/tj-hockenson-hauls-four-passes-monday-night.php
+- **NEW — Jordan Addison** — Jordan Addison finishes with 28 yards Monday night (2026-11-10T15:05:50.580000Z)
+  - Addison has now finished with two or fewer receptions four times in seven games this season, as the inconsistent quarterback play in Minnesota this season has really limited his production. The speedy receiver possesses big-play ability, but if the Vikings don't figure things out at QB, Addison will remain a highly volatile fantasy option. 
+  - Source: https://www.fantasypros.com/nfl/news/619011/jordan-addison-finishes-with-28-yards-monday-night.php
+- **NEW — Carson Beck** — Carson Beck set to start Week 10 (2026-11-10T14:55:50.897000Z)
+  - With Jacoby Brissett now in Baltimore and Gardner Minshew (elbow) out of action, Beck will get his opportunity to lead the Arizona offense beginning in Week 10. The Cardinals are also beaten up at wide receiver, and the Rams present one of the more difficult matchups in the league for any quarterback. Beck will indeed have his work cut out for him in order to make a positive impression. The third-round rookie has yet to take a snap in a regular-season game. 
+  - Source: https://www.fantasypros.com/nfl/news/619009/carson-beck-set-to-start-week-10.php
+- **NEW — Josh Allen** — Josh Allen turns in decent performance Monday night (2026-11-10T14:55:50.610000Z)
+  - This performance was certainly below the norm for Allen, but considering it came against arguably the league's top defense, it was serviceable. Allen eclipsed 2,000 yards passing for the season in this one, and he's now up to a dozen touchdown passes along with a whopping nine rushing scores. Allen remains one of the top fantasy assets in the league regardless of position. He should be set for a larger output against the Jets in Week 10. 
+  - Source: https://www.fantasypros.com/nfl/news/619008/josh-allen-turns-decent-performance-monday-night.php
+- **NEW — James Cook III** — James Cook II goes over 100 yards, finds end zone in Week 9 (2026-11-10T14:45:50.735000Z)
+  - This was a true workhorse effort from Cook. The last time he got 30-plus carries was Week 13 of last season. Cook is one of only three backs in the league currently averaging over 100 rushing yards per game, and Jahmyr Gibbs is the only player carrying the ball more times per game than Cook. 
+  - Source: https://www.fantasypros.com/nfl/news/619006/james-cook-ii-goes-over-100-yards-finds-end-zone-week-9.php
+- **NEW — DJ Moore** — DJ Moore totals 36 yards in Monday's win (2026-11-10T14:05:50.189000Z)
+  - Moore had a big game in his return to action against the Ravens in Week 8. He couldn't replicate the effort in Week 9, but he is healthy and stronger fantasy performances should be on the way. Moore is best viewed as a low-end WR2 or high-end WR3. 
+  - Source: https://www.fantasypros.com/nfl/news/619005/dj-moore-totals-36-yards-mondays-win.php
+- **NEW — Khalil Shakir** — Khalil Shakir leads Bills in receiving Monday night (2026-11-10T14:00:50.716000Z)
+  - Shakir tied for the team lead in catches and topped the Bills in receiving yards Monday night. Shakir has now caught four or more passes in four of the last five games, averaging 4.6 receptions and 63.6 yards per game in that span. 
+  - Source: https://www.fantasypros.com/nfl/news/619004/khalil-shakir-leads-bills-receiving-monday-night.php
+- **NEW — Keon Coleman** — Keon Coleman finishes with three receptions Monday night (2026-11-10T13:55:49.982000Z)
+  - Coleman has had a few strong games this season. He even had a stretch of three straight weeks with a touchdown. Since then, Coleman has managed only four receptions for 21 yards over the last two games. The third-year receiver is just unreliable from a fantasy standpoint. 
+  - Source: https://www.fantasypros.com/nfl/news/619003/keon-coleman-finishes-with-three-receptions-monday-night.php
+- **NEW — Dalton Kincaid** — Dalton Kincaid catches three passes in Week 9 win (2026-11-10T13:45:50.458000Z)
+  - Kincaid's up-and-down campaign continued Monday night. The fourth-year TE has pretty much become a feast-or-famine fantasy option at this point. Proceed accordingly. 
+  - Source: https://www.fantasypros.com/nfl/news/619001/dalton-kincaid-catches-three-passes-week-9-win.php
+- **NEW — Tyreek Hill** — Tyreek Hill Nearing Medical Clearance, Agent Working the Phones (2026-11-10T13:37:56Z)
+  - Source: https://www.rotoballer.com/player-news/tyreek-hill-is-expected-to-be-medically-cleared-in-a-few-weeks/1989586
+- **NEW — Kendre Miller** — Kendre Miller to Visit Cowboys (2026-11-10T13:25:15Z)
+  - Source: https://www.rotoballer.com/player-news/kendre-miller-to-visit-cowboys/1989578
+- **NEW — Tyler Bass** — Tyler Bass puts 11 points on the board in Week 9 (2026-11-10T13:20:50.434000Z)
+  - Bass made good on all of his opportunities in Monday's win, remaining an impressive 19-of-19 on FG attempts this season. The veteran kicker is an excellent fantasy option given the Bills' offensive prowess. 
+  - Source: https://www.fantasypros.com/nfl/news/618997/tyler-bass-puts-11-points-on-board-week-9.php
+- **NEW — Will Reichard** — Will Reichard makes a pair of field goals in Week 9 loss (2026-11-10T13:20:50.422000Z)
+  - The Vikings' offense was almost completely stifled Monday night, leaving Reichard as the only Minnesota player to put up any points. The third-year kicker is 1-of-5 in the NFL with as many as 20 field goals made so far this season, and he's missed just two in the process.
+  - Source: https://www.fantasypros.com/nfl/news/618998/will-reichard-makes-pair-field-goals-week-9-loss.php
+- **NEW — Efton Chism III** — Efton Chism III a Week 10 Waiver Option with Conditional Upside (2026-11-10T13:15:13Z)
+  - Source: https://www.rotoballer.com/player-news/efton-chism-iii-a-week-10-waiver-option-with-conditional-upside/1989595
+- **NEW — Brandon Aiyuk** — 49ers Likely to Cut Brandon Aiyuk on Tuesday (2026-11-10T13:05:15Z)
+  - Source: https://www.rotoballer.com/player-news/49ers-likely-to-cut-brandon-aiyuk-by-4-p-m-et-tuesday/1989529
+- **NEW — Breece Hall** — Breece Hall Doesn't Seem to be Going Anywhere at the Trade Deadline (2026-11-10T12:27:11Z)
+  - Source: https://www.rotoballer.com/player-news/breece-hall-doesnt-seem-to-be-going-anywhere-at-the-deadline/1989482
+- **NEW — Jacoby Brissett** — Jacoby Brissett Offers Week 10 Superflex Appeal After Trade to Ravens (2026-11-10T11:59:12Z)
+  - Source: https://www.rotoballer.com/player-news/jacoby-brissett-offers-week-10-superflex-appeal-after-trade-to-ravens/1989503
+- **NEW — J.J. McCarthy** — J.J. McCarthy Emerging as Strong Week 10 Waiver-Wire Option (2026-11-10T11:44:00Z)
+  - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-emerging-as-strong-week-10-waiver-wire-option/1989480
+- **NEW — Drew Lock** — Drew Lock Offers Strong Superflex Value in Week 10 Against Raiders (2026-11-10T11:32:12Z)
+  - Source: https://www.rotoballer.com/player-news/drew-lock-offers-strong-superflex-value-in-week-10-against-raiders/1989475
+- **NEW — Justin Herbert** — Justin Herbert's Struggles Continue With the Winless Chargers (2026-11-10T11:23:12Z)
+  - Source: https://www.rotoballer.com/player-news/justin-herbert-struggles-continue-with-the-winless-chargers/1989470
+- **NEW — Michael Penix Jr.** — Michael Penix Jr. Continues to Struggle Despite Favorable Matchup (2026-11-10T11:14:12Z)
+  - Source: https://www.rotoballer.com/player-news/michael-penix-jr-continues-to-struggle-despite-favorable-matchup/1989468
+- **NEW — Travis Hunter** — Travis Hunter Only Worth Deep-League Holds After Week 9 (2026-11-10T10:49:55Z)
+  - Source: https://www.rotoballer.com/player-news/travis-hunter-only-worth-deep-league-holds-after-week-9/1989420
+- **NEW — Brian Thomas Jr.** — Jacksonville Plans to Hold Brian Thomas Jr. Through Trade Deadline (2026-11-10T10:44:48Z)
+  - Source: https://www.rotoballer.com/player-news/jaguars-will-hold-brian-thomas-jr-through-trade-deadline/1989394
+- **NEW — Malachi Fields** — Malachi Fields Offers Deep-League Value Heading into Week 10 (2026-11-10T10:39:12Z)
+  - Source: https://www.rotoballer.com/player-news/malachi-fields-offers-deep-league-value-heading-into-week-10/1989409
+- **NEW — Justice Hill** — Justice Hill Worth Deep-League Pickups Before Week 10 (2026-11-10T10:33:12Z)
+  - Source: https://www.rotoballer.com/player-news/justice-hill-worth-deep-league-pickups-before-week-10/1989402
+- **NEW — Dak Prescott** — Jerry Jones Says Teams Haven't Called About Trading for Dak Prescott (2026-11-10T10:17:11Z)
+  - Source: https://www.rotoballer.com/player-news/jerry-jones-says-teams-have-not-called-about-trading-dak-prescott/1989360
+- **NEW — Demarcus Robinson** — Demarcus Robinson Is a Good Stash for WR Depth (2026-11-10T09:50:22Z)
+  - Source: https://www.rotoballer.com/player-news/demarcus-robinson-is-a-good-stash-for-wr-depth/1989345
+- **NEW — Kaleb Johnson** — Kaleb Johnson Could Lead Green Bay's Backfield in the Short Term (2026-11-10T09:23:13Z)
+  - Source: https://www.rotoballer.com/player-news/kaleb-johnson-could-lead-green-bays-backfield-with-josh-jacobs-out/1989291
+- **NEW — Carson Wentz** — Vikings in QB Market after Carson Wentz Struggles (2026-11-10T09:12:13Z)
+  - Source: https://www.rotoballer.com/player-news/vikings-in-qb-market-after-carson-wentzs-poor-performance/1989272
+- **Jordan Addison** — Jordan Addison - Solid yardage on two catches (2026-11-10T06:10:22Z)
   - Addison finished third in receptions and receiving yards on the night for a low-volume Vikings passing game, and his final catch, which went for 16 yards, came on Minnesota's last drive from the arm of Max Brosmer. Carson Wentz's game-long ineffectiveness depressed the production of the air attack as a whole, but Addison would be in better position to boost his numbers if Kyler Murray (hamstring) is able to return for Sunday's Week 10 road matchup against the Packers.
-- **NEW — Keon Coleman** — Keon Coleman - Posts three receptions in Week 9 victory (2026-11-10T05:41:47Z)
+- **Keon Coleman** — Keon Coleman - Posts three receptions in Week 9 victory (2026-11-10T05:41:47Z)
   - Going up against a tough Minnesota defense, Bills QB Josh Allen posted a modest 234 passing yards with one touchdown and one interception. He spread the ball around to eight different pass catchers, with none of them hauling in more than four receptions. Coleman actually led Buffalo with six targets, but he finished seventh with just 17 receiving yards. The third-year wideout has been very up-and-down this season, registering 59 or more receiving yards three times but logging 17 or fewer receiving yards on four occasions. That makes his output quite difficult to predict for fantasy purposes.
-- **NEW — Aaron Jones Sr.** — Aaron Jones - Quiet night in Week 9 win (2026-11-10T05:28:22Z)
+- **Aaron Jones Sr.** — Aaron Jones - Quiet night in Week 9 win (2026-11-10T05:28:22Z)
   - Jones and backfield mate Jordan Mason combined for just 11 carries on an abysmal night for the Vikings' offense, and the latter was much more efficient than Jones by averaging 5.8 yards per carry on his six totes. Jones has now seen his rushing yardage totals drop in three straight games, and Mason's return from injured reserve has played a role in the former seeing just 18 total carries in the last three contests. Jones retains a very modest outlook for a Week 10 road matchup against his old Packers teammates on Sunday.
-- **NEW — Khalil Shakir** — Khalil Shakir - Paces team in receiving yards (2026-11-10T05:22:02Z)
+- **Khalil Shakir** — Khalil Shakir - Paces team in receiving yards (2026-11-10T05:22:02Z)
   - Shakir tied for the team lead in receptions while setting the pace in receiving yards on a night when Josh Allen spread the ball around to eight different targets. The veteran receiver continues to maintain his trademark steady presence in Buffalo's air attack, now having recorded at least Monday night's catch and yardage tallies in four of the last five games. Shakir carries a bright outlook into a Week 10 road matchup against a vulnerable Jets defense on Sunday.
-- **NEW — Ray Davis** — Ray Davis - Minimal production in Monday night win (2026-11-10T05:21:55Z)
+- **Ray Davis** — Ray Davis - Minimal production in Monday night win (2026-11-10T05:21:55Z)
   - Davis continues to be sparsely utilized on offense -- he has two or fewer touches in six of eight contests so far this season. He's pretty solidly stuck in the Buffalo's No. 3 RB role, behind James Cook (who logged a Herculean 31 totes Monday) and Ty Johnson (who notched just three touches). That will make Davis a poor fantasy play in Week 10 despite going up against a Jets defense that has struggled against the run this season.
-- **NEW — Jordan Mason** — Jordan Mason - Garners 42 scrimmage yards in loss (2026-11-10T05:17:53Z)
+- **Jordan Mason** — Jordan Mason - Garners 42 scrimmage yards in loss (2026-11-10T05:17:53Z)
   - Mason was markedly more efficient than backfield mate Aaron Jones with his opportunities, averaging 5.8 yards per carry compared to the latter's 3.2. Both backs' touches were limited due to game script, however, but Mason's 5.8 yards per carry was an encouraging figure. The veteran back next takes aim at the Packers defense in a Week 10 road matchup on Sunday.
-- **NEW — T.J. Hockenson** — T.J. Hockenson - Leads team in receptions Monday (2026-11-10T05:14:18Z)
+- **T.J. Hockenson** — T.J. Hockenson - Leads team in receptions Monday (2026-11-10T05:14:18Z)
   - In addition to leading the Vikings in receptions, Hockenson finished second in receiving yardage and targets in a rough performance by Minnesota's offense. The veteran wideout has hauled in exactly four catches in four straight games, though he snapped a two-game TD streak Monday. It remains to be seen who will be throwing passes for Minnesota next Sunday in Green Bay, as Carson Wentz struggled enormously Monday and Kyler Murray is currently dealing with a Grade 2 hamstring strain.
-- **NEW — Carson Wentz** — Carson Wentz - Forgettable performance in spot start (2026-11-10T05:12:27Z)
+- **Carson Wentz** — Carson Wentz - Forgettable performance in spot start (2026-11-10T05:12:27Z)
   - Wentz had typically put together competent performances in his opportunities to lead head coach Kevin O'Connell's offense in the past, but Monday night was a clear exception. Wentz only took one sack, but he banged up his right hand on a first-half pass attempt, then had his foot stepped on by offensive lineman Joe Huber in the second half, the latter which required a visit to the medical tent. Wentz also repeatedly failed to master what had been a vulnerable Bills pass defense, averaging a minuscule 3.2 yards per attempt. Wentz tossed interceptions on back-to-back drives to open the second half as well, and although they only led to one field goal for Buffalo, they were indicative of the kind of night it was for the veteran signal-caller. Wentz was ultimately pulled for Max Brosmer for the Vikings' final drive, and if Murray can't suit up for a Week 10 road showdown with the Packers on Sunday, it remains to be seen if Wentz will get another crack at a starting assignment.
-- **NEW — Dalton Kincaid** — Dalton Kincaid - Three-catch effort in win (2026-11-10T05:05:01Z)
+- **Dalton Kincaid** — Dalton Kincaid - Three-catch effort in win (2026-11-10T05:05:01Z)
   - Kincaid, like the rest of the members of the Bills' air attack, put up modest numbers on a night when Josh Allen had to navigate four sacks from a highly aggressive Vikings defense. The talented tight end still finished tied for second in receptions on the Bills, but Kincaid finished with his second-lowest yardage total of the campaign. Kincaid should have a good opportunity to boost his numbers in a favorable Week 10 road matchup against the Jets on Sunday.
-- **NEW — DJ Moore** — DJ Moore - Three catches in tough matchup (2026-11-10T04:59:58Z)
+- **DJ Moore** — DJ Moore - Three catches in tough matchup (2026-11-10T04:59:58Z)
   - The veteran receiver came into the game without an injury designation related to the shoulder issue he's managing, but Moore still put together a modest performance against a tough Vikings defense that kept pressure on Josh Allen throughout the night. Moore has a combined 7-107-1 line on on 12 targets in the two contests he's suited up for since returning from a two-game absence, and he should have a much better chance of downfield success in a Week 10 road matchup against the Jets' vulnerable defense on Sunday.
-- **NEW — Justin Jefferson** — Justin Jefferson - Highly inefficient sans Murray (2026-11-10T04:53:11Z)
+- **Justin Jefferson** — Justin Jefferson - Highly inefficient sans Murray (2026-11-10T04:53:11Z)
   - Jefferson led the Vikings in receiving yards and targets, but the insertion of Carson Wentz at quarterback in place of Kyler Murray (hamstring) led to a very inefficient night for the star receiver. Jefferson's final catch of the night, which went for a 19-yard gain, came on a pass from Max Brosmer, so Jefferson secured just two of the 10 targets that an ineffective Wentz sent his way. Jefferson has been having a generally quiet season even when working with Murray -- he doesn't have any 100-yard games and has posted Monday night's yardage total or less in five of seven games -- but his outlook would be brighter if Murray can return for Sunday's Week 10 road showdown against the Packers.
-- **NEW — Josh Allen** — Josh Allen - Survives Vikes D in win (2026-11-10T04:48:05Z)
+- **Josh Allen** — Josh Allen - Survives Vikes D in win (2026-11-10T04:48:05Z)
   - Allen came into the night undoubtedly expecting to have to work for everything he got, and Brian Flores' aggressive defensive unit helped validate that prognosis by sacking the star signal-caller on four occasions. However, Allen was able to navigate the dangers pretty effectively, spreading the ball around to eight different targets overall. He connected with Keleki Latu from 25 yards out late in the first half for his one touchdown pass, and Allen's lone turnover, a first-quarter interception on a deep shot in the Vikings' end zone, didn't lead to any Minnesota points. Allen hasn't eclipsed the 300-yard threshold since Week 1, but he'll take 2,027 passing yards and a 12:6 TD:INT alongside 285 rushing yards into a Week 10 road divisional clash against the Jets on Sunday.
-- **NEW — James Cook III** — James Cook - Thrives again in workhorse role (2026-11-10T04:39:41Z)
+- **James Cook III** — James Cook - Thrives again in workhorse role (2026-11-10T04:39:41Z)
   - Cook was repeatedly stonewalled through three quarters by a Vikings run defense that had been fairly beatable, but the star running back continued to get opportunities to test Minnesota's defensive front. That approach finally began paying off on an early fourth-quarter marathon scoring drive, one where Cook recorded runs of nine, six and 11 yards before capping off the march with a five-yard scoring rush to extend Buffalo's 13-6 lead. Cook ultimately fell just a carry short of tying his career high, and he eclipsed the century mark on the ground for the fourth time this season. The fifth-year pro's trip to the end zone extended his touchdown streak to seven games as well, and Cook will head into a favorable Week 10 road matchup against the Jets just 186 rushing yards short of his fourth straight 1,000-yard campaign.
-- **NEW — Noah Fant** — Noah Fant - One catch in Week 9 win (2026-11-10T04:36:09Z)
+- **Noah Fant** — Noah Fant - One catch in Week 9 win (2026-11-10T04:36:09Z)
   - The veteran tight end logged 47 percent of the offensive snaps but is mainly a blocker at tight end, while Juwan Johnson handles most of the pass-catching duties. Fant has four catches for 30 yards over his last four games and is not even remotely on the fantasy radar.
-- **NEW — Antonio Williams** — Antonio Williams - Three grabs in loss (2026-11-10T04:32:10Z)
+- **Antonio Williams** — Antonio Williams - Three grabs in loss (2026-11-10T04:32:10Z)
   - With Terry McLaurin (knee) out for the year, Williams led the team's wide receivers and tight ends in snaps and routes against Los Angeles, but it was a tough matchup against a top-tier pass defense. Williams should have better games moving forward in one of the league's pass-happiest offenses. The rookie wideout should be a full-time player down the stretch in the second half of the season.
-- **NEW — Colby Parkinson** — Colby Parkinson - Grabs all four targets Week 9 (2026-11-10T04:29:46Z)
+- **Colby Parkinson** — Colby Parkinson - Grabs all four targets Week 9 (2026-11-10T04:29:46Z)
   - Parkinson ranked second on Los Angeles in receptions, though he didn't turn them into many yards. Still, it was his third straight contest with at least four catches, so Parkinson looks to be developing into a favorite target of QB Matthew Stafford. That could come in handy in Week 10 and beyond, as Stafford is going to need to turn to other pass catchers to help make up for the massive production being lost in the absence of Puka Nacua, who is expected to land on IR due to a knee injury.
-- **NEW — Cyrus Allen** — Cyrus Allen - One target in Week 9 win (2026-11-10T04:23:24Z)
+- **Cyrus Allen** — Cyrus Allen - One target in Week 9 win (2026-11-10T04:23:24Z)
   - Allen made the start at wide receiver but ran just 13 routes on Patrick Mahomes' 36 dropbacks against New York. With Xavier Worthy (hamstring) now injured, Allen could have a path to more playing time moving forward, but all three of Rashee Rice, Kenneth Walker and Travis Kelce are well ahead of the rookie wideout for targets.
-- **NEW — Malachi Fields** — Malachi Fields - Three catches in Week 9 win (2026-11-10T04:13:29Z)
+- **Malachi Fields** — Malachi Fields - Three catches in Week 9 win (2026-11-10T04:13:29Z)
   - The rookie wideout is a distant third in pecking order for targets behind Malik Nabers and Isaiah Likely in the New York offense. For the season, Fields has 19 catches for 288 yards and one touchdown on 35 targets, averaging 36.0 yards per game across eight contests.
-- **NEW — Kaytron Allen** — Kaytron Allen - Long catch on fake punt (2026-11-10T03:56:41Z)
+- **Kaytron Allen** — Kaytron Allen - Long catch on fake punt (2026-11-10T03:56:41Z)
   - Allen's catch came on a fake punt, so it was obviously extremely fluky. He played just six offensive snaps behind clear RB1 Ollie Gordon. Since joining Miami via waivers last month, Allen has logged 31 snaps on special teams and six on offense. He has no fantasy appeal.
-- **NEW — Devaughn Vele** — Devaughn Vele - Two catches against Cleveland (2026-11-10T03:51:47Z)
+- **Devaughn Vele** — Devaughn Vele - Two catches against Cleveland (2026-11-10T03:51:47Z)
   - With Jordyn Tyson (hamstring) making his regular-season debut against Cleveland, Vele's role remained steady, running 44 routes on Tyler Slough's 46 dropbacks. Bryce Lance and Noah Fant appeared to be the bigger losers in terms of playing time and routes. Still, Tyson figures to have an effect on Vele's target potential moving forward, as he's setting in as more of a low-floor WR4/5 in fantasy.
 - **Tory Horton** — Tory Horton - Two catches in win (2026-11-10T03:33:58Z)
   - Horton has just seven catches for 67 yards across six games since Week 3. The Seahawks' No. 3 receiver is well off the fantasy radar, even with Rashid Shaheed (knee) injured.
@@ -68,21 +199,21 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Perine logged two more carries than Chase Brown in the game, but Brown out produced him with 57 rushing yards. Perine has continued to operate in a prominent role as the Bengals' No. 2 option in the backfield, and he would stand to be a rather valuable fantasy asset in the case that Brown is forced to miss any action down the road this season.
 - **Rhamondre Stevenson** — Rhamondre Stevenson - Could miss time with knee tendon issue (2026-11-10T02:32:46Z)
   - Stevenson appears to have avoided a worst-case outcome, as surgery is reportedly off the table. However, the issue could cost the Patriots' tailback some time, further depleting an RB room that has been without TreVeyon Henderson (illness) the past two weeks. In the very realistic scenario that both Stevenson and Henderson are out this Sunday against Detroit in Munich, Germany, the Patriots backfield likely will be led by Corey Kiner, with Lan Larison serving as his backup.
-- **NEW — Carson Wentz** — Carson Wentz Implodes in Plus Matchup (2026-11-10T02:19:12Z)
+- **Carson Wentz** — Carson Wentz Implodes in Plus Matchup (2026-11-10T02:19:12Z)
   - Source: https://www.rotoballer.com/player-news/carson-wentz-implodes-in-plus-matchup/1989155
 - **Cade Otton** — Cade Otton - Eight targets in SNF loss (2026-11-10T02:15:51Z)
   - The tight end saw a team-high eight targets, drawing a 26.7 percent target share from Baker Mayfield. It still didn't translate into much in the box score, as Otton remains without a touchdown through nine games. He's turned 38 targets into 23 catches for 211 yards this season and is a low-floor fantasy option most weeks.
 - **Ryan Flournoy** — Ryan Flournoy - Two catches in Week 9 (2026-11-10T02:15:14Z)
   - Flournoy had a chance to operate in a more prominent role on offense with George Pickens (hamstring) inactive, but Flournoy ultimately finished with his fewest catches since Week 3. The wide receiver helped set up Dallas for the game-winning score late in the fourth quarter, reeling in a deep ball from quarterback Dak Prescott for a 46-yard gain. Flournoy has now reeled in 32 of 47 targets for 395 yards and two touchdowns over nine contests so far during the 2026 campaign.
-- **NEW — Jordan Mason** — Jordan Mason Boasts Minimal Work in Ugly Loss (2026-11-10T02:04:12Z)
+- **Jordan Mason** — Jordan Mason Boasts Minimal Work in Ugly Loss (2026-11-10T02:04:12Z)
   - Source: https://www.rotoballer.com/player-news/jordan-mason-boasts-minimal-work-in-ugly-loss/1989152
-- **NEW — Justin Jefferson** — Justin Jefferson Disappoints Again Despite Huge Volume (2026-11-10T01:48:11Z)
+- **Justin Jefferson** — Justin Jefferson Disappoints Again Despite Huge Volume (2026-11-10T01:48:11Z)
   - Source: https://www.rotoballer.com/player-news/justin-jefferson-disappoints-again-despite-huge-volume/1989150
 - **Keenan Allen** — Keenan Allen - Four catches in loss (2026-11-10T01:36:20Z)
   - Allen led the team in targets, but he was only able to compile 26 yards, his lowest output since Week 2. The wide receiver hasn't reached the end zone in his last five games, and the Colts' offense as a whole has struggled mightily recently. On the year, Allen has reeled in 40 of 58 targets for 351 yards and one score over eight contests, and his next chance to reach paydirt will come in Week 10 versus the Dolphins.
-- **NEW — Josh Allen** — Josh Allen Weathers Vikings' Defense, Posts Season-Low Output (2026-11-10T01:32:12Z)
+- **Josh Allen** — Josh Allen Weathers Vikings' Defense, Posts Season-Low Output (2026-11-10T01:32:12Z)
   - Source: https://www.rotoballer.com/player-news/josh-allen-weathers-vikings-defense-posts-season-low-output/1989147
-- **NEW — James Cook III** — James Cook III Shines in MNF Win (2026-11-10T01:14:12Z)
+- **James Cook III** — James Cook III Shines in MNF Win (2026-11-10T01:14:12Z)
   - Source: https://www.rotoballer.com/player-news/james-cook-shines-in-mnf-win/1989144
 - **Chig Okonkwo** — Chig Okonkwo - Dealing with hip issue (2026-11-10T00:36:02Z)
   - Okonkwo appears to have gotten hurt in Sunday's loss to the Rams, though he logged his usual offensive snap share (74 percent) and finished with s solid 6-57-0 receiving line on seven targets. The Commanders didn't actually practice Monday, so the tight end's level of activity -- if any -- Tuesday should provide more clarity about whether he's at risk of missing Thursday's clash against the Giants. Washington has been hurt by injuries to its wideout corps, and Okonkwo has stepped up with 57 or more receiving yards in three of the team's past four games.
@@ -100,125 +231,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - McCarthy exited Sunday's win at Philadelphia for a spell in the third quarter due to a hip injury but returned to action. Head coach John Harbaugh told Pat Leonard of the New York Daily News on Monday that McCarthy has a hip pointer but is expected to play Thursday versus the Commanders. McCarthy likely will need to be listed as full Tuesday and/or Wednesday to head into Week 10 action without a designation.
 - **Ladd McConkey** — Ladd McConkey - Deemed day-to-day by Harbaugh (2026-11-10T00:00:20Z)
   - McConkey was not among the Chargers' Week 9 inactives, but he didn't play any snaps in Sunday's loss to the Texans after experiencing back spasms during pregame workouts. Harbaugh's assessment that the wideout is 'day-to-day' offers hope that McConkey will be in the clear ahead of next Monday's game against the Ravens, and a big step toward that outcome would be his full participation in practice no later than Saturday.
-- **Cam Skattebo** — Cam Skattebo - Limited at Monday's walkthrough (2026-11-09T23:59:26Z)
-  - Skattebo missed his first game of the season Sunday in Philadelphia due to a hamstring injury that he sustained in the Giants' previous game back in Week 7. Prior to Skattebo being inactive, though, Adam Schefter of ESPN reported that the running back was pushing to play, and head coach John Harbaugh told Pat Leonard of the New York Daily News on Monday that he should be "full go" for Thursday's game against the Commanders. Skattebo still has some work to do to prove his health, but he appears to be trending in the right direction for a Week 10 appearance.
-- **Justin Herbert** — Justin Herbert - Avoids fractured finger, per coach (2026-11-09T23:49:46Z)
-  - Herbert sustained the injury in Sunday's 44-22 loss to the Texans, but the QB's imaging came back "negative," per Harbaugh. That said, Herbert's status is nonetheless worth monitoring as next Monday's contest against the Ravens approaches. If Herbert's practice participation ends up being impacted in the coming days, DJ Uiagalelei would be be next in line for added QB reps.
-- **NEW — Pat Bryant** — Pat Bryant an Immediate Fantasy Weapon with Teammate Injured? (2026-11-09T23:42:12Z)
-  - Source: https://www.rotoballer.com/player-news/pat-bryant-an-immediate-fantasy-weapon-with-teammate-injured/1989120
-- **NEW — Kayshon Boutte** — Kayshon Boutte Worth Adding After Explosive Outing? (2026-11-09T23:14:12Z)
-  - Source: https://www.rotoballer.com/player-news/kayshon-boutte-worth-adding-after-explosive-outing/1989104
-- **Deebo Samuel Sr.** — Deebo Samuel - Trending toward practicing Wednesday (2026-11-09T23:07:08Z)
-  - That's a positive development for Samuel, who logged a trio of 'DNPs' last week. His potential return this weekend against the Cowboys would be a welcome one for the 49ers' depleted WR corps. With that in mind, Mike Evans (Achilles) is viewed as iffy for the contest, so a key role in the team's passing attack could await Samuel if he is able to return for his first game action since Week 5.
-- **Mike Evans** — Mike Evans (Achilles) not expected to practice this week (2026-11-09T23:05:49.247000Z)
-  - Evans is likely to remain sidelined in Week 10 against the Cowboys. He remains week-to-week. 
-  - Source: https://www.fantasypros.com/nfl/news/618931/mike-evans-achilles-not-expected-to-practice-this-week.php
-- **Deebo Samuel Sr.** — Deebo Samuel Sr. (hamstring) expected to practice this week (2026-11-09T23:05:49.234000Z)
-  - Samuel will have a chance to return in Week 10 against the Cowboys. Mike Evans is expected to remain sidelined. 
-  - Source: https://www.fantasypros.com/nfl/news/618932/deebo-samuel-sr-hamstring-expected-to-practice-this-week.php
-- **Gardner Minshew II** — Gardner Minshew II (elbow) potentially out for the season with torn-UCL (2026-11-09T23:00:49.676000Z)
-  - It's a tough blow for the Cardinals, who just elevated Minshew to the starting role after making a miracle comeback against the Cowboys. With Minshew out at least in the short term, if not the whole season, Carson Beck will now take the reigns as the Arizona QB1. He won't have many options to throw to aside from Trey McBride, as the team also lost Michael Wilson today as well.
-  - Source: https://www.fantasypros.com/nfl/news/618928/gardner-minshew-ii-elbow-potentially-out-season-with-torn-ucl.php
-- **Sam LaPorta** — Sam LaPorta receiving trade interest, not expected to be moved (2026-11-09T23:00:49.666000Z)
-  - Fowler notes that teams have gotten the impression that Detroit "would like to keep him and try to work out a long-terms deal eventually." It appears LaPorta is likely to remain in Detroit long-term. 
-  - Source: https://www.fantasypros.com/nfl/news/618930/sam-laporta-receiving-trade-interest-not-expected-to-be-moved.php
-- **Mike Evans** — Mike Evans - Iffy for Wednesday's practice (2026-11-09T22:58:35Z)
-  - That's not a particularly surprising development, with Mike Garafolo of NFL Network having previously suggested that Evans -- who last played in Week 6 -- appears to be "questionable at best" for this Sunday's game against the Cowboys. On the plus side from the 49ers' perspective is that the team hopes to have fellow WR Deebo Samuel (hamstring) at practice Wednesday.
-- **NEW — Tyler Higbee** — Tyler Higbee Should Handle High Snap Share for a Little While Longer (2026-11-09T22:58:12Z)
-  - Source: https://www.rotoballer.com/player-news/tyler-higbee-should-handle-high-snap-share-for-a-little-while-longer/1989100
-- **Gardner Minshew II** — Gardner Minshew - Could face season-ending elbow surgery (2026-11-09T22:51:50Z)
-  - Minshew's stint as the Cardinals' starting QB thus is shaping up to be a brief one. Assuming Schefter's report is confirmed, Carson Beck is slated to take over as Arizona's QB1, beginning with this Sunday's game against the Rams.
-- **Brandon Aiyuk** — Brandon Aiyuk reinstated by NFL (2026-11-09T22:50:49.474000Z)
-  - Pelissero notes that the NFL has granted the 49ers a two-week roster exemption for Aiyuk as the two sides continue to negotiate his impending release. San Francisco will have until November 23rd to make a roster move. At that point, Aiyuk will be free to sign with any team. 
-  - Source: https://www.fantasypros.com/nfl/news/618927/brandon-aiyuk-reinstated-by-nfl.php
-- **NEW — Darren Waller** — Darren Waller Turning Heads After 10-Target Performance (2026-11-09T22:40:11Z)
-  - Source: https://www.rotoballer.com/player-news/darren-waller-turning-heads-after-10-target-performance/1989094
-- **Brandon Aiyuk** — Brandon Aiyuk - Reinstated, 49ers granted two-week exemption (2026-11-09T22:31:40Z)
-  - In what amounted to a procedural transaction after Aiyuk met with team officials Friday upon filing his paperwork for reinstatement, the 49ers now have until Nov. 23 to either add him to the 53-man roster, release him or trade him. Given that Aiyuk owes the 49ers roughly $13 million in bonus forfeiture, securing a release from the team could prove difficult, though it's possible that the two sides work out a repayment plan that would allow him to become a free agent. In addition to the financial complications potentially delaying Aiyuk's return to the field, it's unclear if the 49ers or any other team have interest in rostering the 28-year-old wideout, who hasn't played an NFL snap since tearing the ACL and MCL in his right knee Oct. 20, 2024 and undergoing surgery.
-- **Puka Nacua** — Puka Nacua - IR stint appears likely (2026-11-09T22:17:43Z)
-  - With Davante Adams (hamstring) already on IR, Nacua's injury situation represents another huge blow to the Rams offense. Tutu Atwell, Konata Mumpfield, Jordan Whittington and CJ Daniels are the team's remaining healthy WRs, but a trade to bolster the position seems imperative ahead of Tuesday's deadline.
-- **Puka Nacua** — Puka Nacua (knee, toe) expected to go on IR with litany of injuries (2026-11-09T22:15:50.135000Z)
-  - While it was known Puka was battling through some injuries, it wasn't clear that it was this bad. With Davante Adams already out and on IR, and Puka likely to follow, the Rams' season is going downhill fast. Expect them to make some moves at WR before the trade deadline.
-  - Source: https://www.fantasypros.com/nfl/news/618919/puka-nacua-knee-toe-expected-to-go-on-ir-with-litany-injuries.php
-- **Jake Ferguson** — Jake Ferguson - In line to miss multiple weeks, per coach (2026-11-09T22:03:24Z)
-  - At a minimum, Ferguson is on track to miss at least this coming weekend's game against the 49ers, but a 'multiple week' timetable hints at a possible IR stint for the tight end. Next up for the Cowboy's reps at the position are Brevyn Spann-Ford, Luke Schoonmaker (groin) -- when healthy -- and James Mitchell. With the NFL trade deadline arriving Tuesday, it's also not difficult to imagine Dallas looking into gaining additional help in Ferguson's looming absence.
-- **Pat Freiermuth** — Pat Freiermuth is Intriguing Waiver Pickup for Week 10 (2026-11-09T21:58:12Z)
-  - Source: https://www.rotoballer.com/player-news/pat-freiermuth-is-intriguing-waiver-add-for-week-10/1989081
-- **Gardner Minshew II** — Gardner Minshew - Set to undergo testing on arm/elbow (2026-11-09T21:53:19Z)
-  - Minshew took over as the team's starting QB in advance of Week 9 action, and now his status for this weekend's game against the Rams is unclear. In the event that Minshew's issue ends up being long term, which could be a possibility, per Josh Weinfuss of ESPN.com, Carson Beck is next in line for Arizona's signal-caller reps.
-- **Rhamondre Stevenson** — Rhamondre Stevenson Won't Require Surgery, Likely to Miss Time (2026-11-09T21:45:14Z)
-  - Source: https://www.rotoballer.com/player-news/rhamondre-stevenson-is-dealing-with-a-knee-tendon-issue-that-wont-require-surgery-but/1989058
-- **Michael Wilson** — Michael Wilson - Out for season with neck injury (2026-11-09T21:39:26Z)
-  - With the Cardinals' top WR now sidelined and presumably headed to season-ending IR, Reggie Virgil, Simi Fehoko, Harrison Wallace and Devin Duvernay currently are the wide receivers on the team's active roster. Additionally, Shedrick Jackson, Zay Jones and James Proche are on Arizona's practice squad, but look for further reinforcements to be considered by the Cardinals in the coming days.
-- **Michael Wilson** — Michael Wilson (neck) out for the season with neck injury (2026-11-09T21:35:49.063000Z)
-  - This injury was a surprise to everyone, as Wilson played throughout the Cardinals loss to the Seahawks. With Wilson out for the season, Trey McBride is basically the last man standing. The Cardinals will need to bring in some names to bolster their reciever room, as there is no one left of note after the Wilson and Bourne injuries and the Marvin Harrison trade. Reggie Virgil and Similar Fehoko at WR give off preseason-starter vibes.
-  - Source: https://www.fantasypros.com/nfl/news/618910/michael-wilson-neck-out-season-with-neck-injury.php
-- **Carson Beck** — Carson Beck Becomes Deep-League Stash Option (2026-11-09T21:25:14Z)
-  - Source: https://www.rotoballer.com/player-news/carson-beck-becomes-deep-league-stash-option/1989055
-- **Josh Jacobs** — Josh Jacobs - Finger surgery on tap, IR possible (2026-11-09T21:21:36Z)
-  - Per Tom Pelissero of Netflix, LaFleur confirmed Monday that Jacobs will undergo surgery on his fractured ring finger. As a result of the looming procedure, Pelissero adds that that the running back is out indefinitely, which supports the notion that an IR stint for Jacobs could be on the table. Given that MarShawn Lloyd is dealing with a knee injury that sidelined him Sunday, Kaleb Johnson is Green Bay's top healthy back at the moment, with Pierre Strong also on hand. However, it's possible help is on the way, and outside reinforcements may not be needed, according to Rob Demovsky of ESPN.com, as Chris Brooks (ankle) could be nearing a return from IR.
-- **Justin Jefferson** — Justin Jefferson Returns to Monday's Game After Injury Scare (2026-11-09T21:15:16Z)
-  - Source: https://www.rotoballer.com/player-news/justin-jefferson-has-returned-to-the-game/1989037
-- **David Montgomery** — David Montgomery - Could return to practice soon (2026-11-09T20:45:44Z)
-  - Montgomery last saw game action in Week 5, but at this stage he appears to be inching closer to a return, with Ryans adding Monday that he's pleased with the veteran back's progress. In Montgomery's absence, Woody Marks has served as the Texans' clear-cut RB1, but once Montgomery is back, Houston's backfield timeshare figures to be restored.
-- **Jacoby Brissett** — Jacoby Brissett - In line to start next Monday (2026-11-09T20:30:20Z)
-  - Brissett officially landed with the Ravens in a trade with the Cardinals this past Friday, and he's now on track to assume his new team's starting QB role for the foreseeable future. As a result, Joe Fagnano -- who had a spot start in Week 9 -- will revert to backup status. With regard to franchise signal-caller Lamar Jackson (thumb), who currently is on IR, he's indicated that he plans to return later this season. However, he's out for at least three more games, and 4-5 Baltimore's record as the season progresses figures to factor into Jackson's approach to a potential return to action.
-- **Deebo Samuel Sr.** — 49ers Hopeful that Deebo Samuel Sr. Will Practice on Wednesday (2026-11-09T20:27:16Z)
-  - Source: https://www.rotoballer.com/player-news/49ers-hopeful-that-deebo-samuel-sr-will-practice-on-wednesday/1989002
-- **Josh Jacobs** — Josh Jacobs (finger) to undergo surgery (2026-11-09T20:20:47.697000Z)
-  - Jacobs could miss a maximum of three weeks after suffering the injury in Sunday's win over the Patriots according to Zenitz. Kaleb Johnson and Pierre Strong Jr. are in line for increased touches out of the Green Bay backfield unless another running back is added ahead of a Week 10 divisional matchup against the Minnesota Vikings.
-  - Source: https://www.fantasypros.com/nfl/news/618906/josh-jacobs-finger-to-undergo-surgery.php
-- **Josh Jacobs** — Josh Jacobs - Reportedly set for finger surgery (2026-11-09T20:15:34Z)
-  - The Packers may provide further clarification, but it looks like the team will be without its top running back this weekend against the Vikings, at a minimum. With MarShawn Lloyd dealing with a knee injury that sidelined him in Week 9, Kaleb Johnson profiles as Green Bay's top healthy back, with Pierre Strong also in the mix.
-- **Mike Evans** — Mike Evans Unlikely to Practice on Wednesday (2026-11-09T20:15:15Z)
-  - Source: https://www.rotoballer.com/player-news/deebo-samuel-hopeful-to-practice-wednesday-mike-evans-remains-unlikely-to-participate/1988890
-- **Malik Nabers** — Malik Nabers a Full Participant in Monday's Walkthrough (2026-11-09T20:06:16Z)
-  - Source: https://www.rotoballer.com/player-news/malik-nabers-a-full-participant-in-mondays-walkthrough/1988979
-- **Treylon Burks** — Treylon Burks - Could be back for Week 10 (2026-11-09T19:55:40Z)
-  - Quinn expects to have better feel for Burks' status Tuesday, when the team will hold the most intense of its light practices leading up to Thursday's game. Burks was unable to play in this past Sunday's 20-13 loss to the Rams due to the foot injury, but once healthy, he'll likely be in line for a regular top-three role at receiver while Terry McLaurin (knee) is lost for the season.
-- **Cam Skattebo** — Cam Skattebo Limited in Monday's Walkthrough (2026-11-09T19:55:14Z)
-  - Source: https://www.rotoballer.com/player-news/malik-nabers-knee-full-participant-cam-skattebo-hamstring-limited-in-monday-walkthrough/1988931
-- **Bucky Irving** — Bucky Irving - May have workload managed after bye (2026-11-09T19:49:32Z)
-  - Though he hasn't shown any signs of wearing down while he's averaged a healthy 4.9 yards per tote through the Buccaneers' first nine games, Irving has already amassed 167 carries -- fourth-most in the NFL -- and would be on pace for a career-high 315 over the course of a 17-game schedule. Given the success they've found on the ground in recent weeks, the Buccaneers could continue to embrace a run-first attack, but expect Irving to cede a bit more work to backups Kenny Gainwell and Sean Tucker as Tampa Bay aims to keep their top back healthy for the long haul.
-- **Ladd McConkey** — Ladd McConkey Considered Day-to-Day (2026-11-09T19:47:10Z)
-  - Source: https://www.rotoballer.com/player-news/ladd-mcconkey-back-considered-day-to-day/1988927
-- **Sam LaPorta** — Lions Prefer to Keep Sam LaPorta at the Trade Deadline (2026-11-09T19:37:14Z)
-  - Source: https://www.rotoballer.com/player-news/lions-received-calls-on-sam-laporta-but-prefer-to-keep-him/1988918
-- **Treylon Burks** — Treylon Burks (foot) 'optimistic' to be ready for Thursday's game (2026-11-09T19:35:47.419000Z)
-  - Burks sat out in Sunday's loss to the Rams due to a foot injury after not practicing all week. He will need be monitored in practice on Tuesday and Wednesday on a short week. 
-  - Source: https://www.fantasypros.com/nfl/news/618896/treylon-burks-foot-optimistic-to-be-ready-thursdays-game.php
-- **Sam Darnold** — Sam Darnold Expected Back in Week 12 Against 49ers (2026-11-09T19:25:15Z)
-  - Source: https://www.rotoballer.com/player-news/sam-darnold-quad-expected-back-nov-29-vs-49ers/1988921
-- **Jalen McMillan** — Jalen McMillan - Unlikely to be ready after Week 10 bye (2026-11-09T19:19:44Z)
-  - While Bowles indicated that linebacker Yaya Diaby (knee) has decent odds of playing in the Buccaneers' next game Nov. 22 versus the Lions, the coach was less optimistic about McMillan's chances of being ready to play in Week 11. The Buccaneers have yet to open McMillan's 21-day practice window, after he was placed on injured reserve Sept. 30 due to a PCL sprain in his left knee, which was an aggravation of a previous injury. Bowles noted that McMillan underwent a medical procedure on the knee shortly after landing on IR and is still dealing with some discomfort.
-- **Justin Herbert** — Justin Herbert Avoids a Fractured Finger (2026-11-09T19:05:16Z)
-  - Source: https://www.rotoballer.com/player-news/justin-herbert-avoided-fracture-on-left-middle-finger/1988924
-- **J.J. McCarthy** — J.J. McCarthy (hip) expected to be ready for Thursday's game (2026-11-09T18:55:47.414000Z)
-  - McCarthy left Sunday's game with the injury before he later returned to the field. It is a short week for the Giants, but he is still expected to be ready to go for another divisional matchup. 
-  - Source: https://www.fantasypros.com/nfl/news/618887/jj-mccarthy-hip-expected-to-be-ready-thursdays-game.php
-- **Patrick Mahomes** — Patrick Mahomes II (elbow) considered day-to-day (2026-11-09T18:55:47.400000Z)
-  - Reid said the news "was more positive than negative" on Mahomes and his elbow injury. He will need to be monitored in practice throughout the week. 
-  - Source: https://www.fantasypros.com/nfl/news/618888/patrick-mahomes-ii-elbow-considered-day-to-day.php
-- **Xavier Worthy** — Xavier Worthy (hamstring) considered day-to-day (2026-11-09T18:55:47.387000Z)
-  - Worthy suffered a hamstring injury in Sunday's win over the Jets. His status will need to be monitored in practice throughout the week. 
-  - Source: https://www.fantasypros.com/nfl/news/618889/xavier-worthy-hamstring-considered-day-to-day.php
-- **Jonathon Brooks** — Jonathon Brooks - Awaits update on status ahead of Week 10 (2026-11-09T18:46:03Z)
-  - Brooks, who remains on IR, was seen working off to the side during the Panthers' unofficial practice last Tuesday, per Joe Person of The Athletic, perhaps signaling some progress for the oft-injured RB, who last saw game action in Week 2. In Brooks' absence, Chuba Hubbard has dominated Carolina's backfield touches.
-- **Brandon Aiyuk** — 49ers Expect More Resolution in Brandon Aiyuk Situation This Week (2026-11-09T18:22:22Z)
-  - Source: https://www.rotoballer.com/player-news/49ers-expect-more-resolution-in-brandon-aiyuk-situation-this-week/1988874
-- **Xavier Worthy** — Xavier Worthy - Considered day-to-day, per Reid (2026-11-09T18:20:40Z)
-  - The same applies to QB Patrick Mahomes (elbow), with the status of both key Kansas City skill players worth monitoring closely in the coming days. If Worthy is limited or out this weekend, added reps behind top WR Rashee Rice will be available for some combination of Cyrus Allen, Jalen Royals and Andrew Armstrong.
-- **Patrick Mahomes** — Patrick Mahomes - Deemed day-to-day by Reid (2026-11-09T18:13:45Z)
-  - Mahomes emerged from Week 9 action with what Ian Rapoport of NFL Network described earlier Monday as an elbow "strain/sprain" to his throwing arm following an MRI on Sunday. For his part, Reid also noted with regard to the star QB's exam results that "it was more positive news than negative news. It looks like it's just a matter of rehabbing and getting rid of some of the soreness." As a result, look for Mahomes' practice participation to be managed this week, which could lead to his top backup Justin Fields logging some added reps in the coming days.
-- **Puka Nacua** — Rams Will "Explore All Avenues" to Improve WR Room (2026-11-09T18:10:16Z)
-  - Source: https://www.rotoballer.com/player-news/rams-will-explore-all-avenues-to-improve-wr-room-following-major-injuries/1988868
-- **Drew Lock** — Drew Lock - Encouraging results regarding oblique injury (2026-11-09T18:00:39Z)
-  - As a result, it seems likely that Lock's practice reps will be managed this week in order to prepare him for another starting assignment, with fellow signal caller Sam Darnold -- who was inactive in Week 9 -- not ready to return to the lineup this weekend. The Seahawks have a bye in Week 11, which may afford Darnold enough time to return to action Nov. 29 against the 49ers, but barring any setbacks it looks like Lock is bound to fill in again, backed up by Jalen Milroe.
-- **Drew Lock** — Drew Lock (oblique) has minor oblique injury, expected to play vs Vegas (2026-11-09T18:00:30.633000Z)
-  - Lock suffered the injury later on in the Seahawks win over the Cardinals, and with Darnold already ruled out, if Lock cannot go, responsibility would fall on Jalen Milroe to keep the offense going.
-  - Source: https://www.fantasypros.com/nfl/news/618876/drew-lock-oblique-has-minor-oblique-injury-expected-to-play-vs-vegas.php
-- **Sam Darnold** — Sam Darnold (quad) ruled out for Week 10 against Raiders (2026-11-09T18:00:30.618000Z)
-  - Head coach Mike McDonald told the press that Darnold was already been ruled out for Week 10 against Vegas on Monday, which makes sense with the Seahawks on bye during Week 11. He will look to make his return against the Niners in Week 12.
-  - Source: https://www.fantasypros.com/nfl/news/618880/sam-darnold-quad-ruled-out-week-10-against-raiders.php
-- **Sam Darnold** — Sam Darnold - Not ready to return in Week 10 (2026-11-09T17:46:24Z)
-  - Meanwhile, Macdonald noted that the Seahawks got a "good exam" for Drew Lock, who is nursing an oblique injury but is expected to be able to play through the issue and make a second straight start in Week 10. With a bye on tap for the Seahawks in Week 11, Darnold will benefit from some extended time to recover from his injuries and will turn his focus toward returning to action Nov. 29 versus the 49ers.
