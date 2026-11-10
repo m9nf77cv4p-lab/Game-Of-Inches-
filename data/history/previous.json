@@ -23877,7 +23877,7 @@
       ],
       "first_name": "Malik",
       "full_name": "Malik Willis",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Willis",
       "nfl_team": "MIA",
       "player_id": "8161",
@@ -24703,8 +24703,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-09T10:56:37Z",
-    "source_fingerprint": "405004926cc14ddb0798a86ecb3ca2f99305810877103259cfd35e60a1a6278d"
+    "last_changed_at": "2026-11-09T21:19:55Z",
+    "source_fingerprint": "c727896e5954f91fa82b48947d4bd05218e0591e70905a858ecab74eae6328a7"
   },
   "teams": [
     {
