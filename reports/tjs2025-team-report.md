@@ -3,9 +3,9 @@
 - Team: **It Hurts So Good**
 - Manager: **TJS2025**
 - Roster ID: **5**
-- Players: **25**
+- Players: **24**
 - Taxi: **1**
-- Reserve/IR: **2**
+- Reserve/IR: **3**
 
 ## Current roster
 
@@ -14,9 +14,8 @@
 - Jake Bates — K — DET
 - Brock Purdy — QB — SF
 - Jalen Hurts — QB — PHI — reserve/IR
-- Joe Fagnano — QB — BAL
 - Shedeur Sanders — QB — CLE — taxi
-- Brian Robinson Jr. — RB — ATL
+- Brian Robinson Jr. — RB — ATL — reserve/IR
 - Chris Rodriguez Jr. — RB — JAX
 - Christian McCaffrey — RB — SF
 - Derrick Henry — RB — BAL
@@ -26,8 +25,8 @@
 - Hunter Henry — TE — NE
 - Noah Fant — TE — NO
 - Travis Kelce — TE — KC
-- Davante Adams — WR — LAR
-- Deebo Samuel Sr. — WR — SF — reserve/IR
+- Davante Adams — WR — LAR — reserve/IR
+- Deebo Samuel Sr. — WR — SF
 - Demarcus Robinson — WR — SF
 - Elic Ayomanor — WR — TEN
 - Jahan Dotson — WR — ATL
