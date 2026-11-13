@@ -21597,7 +21597,7 @@
       ],
       "first_name": "Omar",
       "full_name": "Omar Cooper Jr.",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Cooper Jr.",
       "nfl_team": "NYJ",
       "player_id": "13276",
@@ -21627,7 +21627,7 @@
       ],
       "first_name": "Carnell",
       "full_name": "Carnell Tate",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Tate",
       "nfl_team": "TEN",
       "player_id": "13279",
@@ -21852,7 +21852,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Bell",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "Bell",
       "nfl_team": "MIA",
       "player_id": "13311",
@@ -22317,7 +22317,7 @@
       ],
       "first_name": "Hunter",
       "full_name": "Hunter Henry",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Henry",
       "nfl_team": "NE",
       "player_id": "3214",
@@ -24718,8 +24718,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-13T10:09:24Z",
-    "source_fingerprint": "18e7a11df4bcc5a88c4f9fa6976e110dbea5a9af8144c35cea5d603365a931a9"
+    "last_changed_at": "2026-11-13T17:43:16Z",
+    "source_fingerprint": "145d627e2c812be9beb8bc6fb6b7090c6b2713181c4810ecef94237ecd43ad69"
   },
   "teams": [
     {
