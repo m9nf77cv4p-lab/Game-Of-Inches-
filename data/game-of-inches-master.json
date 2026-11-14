@@ -21191,7 +21191,7 @@
       ],
       "first_name": "Tre'",
       "full_name": "Tre' Harris",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Harris",
       "nfl_team": "LAC",
       "player_id": "12509",
@@ -22941,7 +22941,7 @@
       "years_exp": 7
     },
     "5995": {
-      "age": 28,
+      "age": 29,
       "fantasy_positions": [
         "RB"
       ],
@@ -23286,7 +23286,7 @@
       "years_exp": 5
     },
     "7525": {
-      "age": 27,
+      "age": 28,
       "fantasy_positions": [
         "WR"
       ],
@@ -23442,7 +23442,7 @@
       ],
       "first_name": "Rashod",
       "full_name": "Rashod Bateman",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Bateman",
       "nfl_team": "BAL",
       "player_id": "7571",
@@ -24718,8 +24718,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-13T22:54:26Z",
-    "source_fingerprint": "b38bfcf4374b7dcdad9b92046d0d1a52660fd224fa7226d5248632d88c0163a9"
+    "last_changed_at": "2026-11-14T02:53:23Z",
+    "source_fingerprint": "a17424d47c07c61d8cfb6936e59f9e49040dd66e61c5ff8d16d92f9c72f72e85"
   },
   "teams": [
     {
