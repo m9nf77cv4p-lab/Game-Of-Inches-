@@ -1,76 +1,31 @@
 {
-  "last_checked_at": "2026-11-14T02:53:24Z",
+  "last_checked_at": "2026-11-14T09:43:19Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 301,
   "new_story_ids": [
-    "nfl|10213|rotoballer|227589|1794593608000",
-    "nfl|10219|rotoballer|227596|1794597729000",
-    "nfl|11604|rotoballer|227586|1794593232000",
-    "nfl|11625|rotoballer|227595|1794597249000",
-    "nfl|11635|fantasy_pros|619942|1794615320407",
-    "nfl|11635|rotoballer|227634|1794605898000",
-    "nfl|11635|rotowire|647582|1794611120000",
-    "nfl|11643|rotoballer|227626|1794604216000",
-    "nfl|12487|rotoballer|227616|1794601509000",
-    "nfl|12490|rotoballer|227592|1794594672000",
-    "nfl|12499|rotoballer|227638|1794604532000",
-    "nfl|12502|rotoballer|227621|1794603231000",
-    "nfl|12509|fantasy_pros|619943|1794615320397",
-    "nfl|12509|rotowire|647586|1794611805000",
-    "nfl|12522|rotoballer|227611|1794600933000",
-    "nfl|12526|rotoballer|227637|1794604588000",
-    "nfl|12527|rotoballer|227577|1794592576000",
-    "nfl|13269|rotoballer|227579|1794592455000",
-    "nfl|13269|rotoballer|227605|1794600073000",
-    "nfl|13272|rotoballer|227635|1794606132000",
-    "nfl|13274|rotoballer|227619|1794602530000",
-    "nfl|13276|rotoballer|227593|1794595629000",
-    "nfl|13286|rotoballer|227608|1794600376000",
-    "nfl|13297|rotoballer|227629|1794604813000",
-    "nfl|13305|rotoballer|227581|1794592938000",
-    "nfl|13311|rotoballer|227630|1794604749000",
-    "nfl|13833|rotowire|647643|1794619632000",
-    "nfl|1945|rotoballer|227627|1794604405000",
-    "nfl|2216|fantasy_pros|619923|1794612020341",
-    "nfl|2216|rotoballer|227575|1794592154000",
-    "nfl|2505|rotoballer|227612|1794600805000",
-    "nfl|2747|rotoballer|227601|1794599949000",
-    "nfl|3271|rotoballer|227597|1794598271000",
-    "nfl|4147|rotoballer|227582|1794592877000",
-    "nfl|4943|rotoballer|227632|1794605051000",
-    "nfl|4993|rotoballer|227587|1794593136000",
-    "nfl|5846|rotoballer|227615|1794601216000",
-    "nfl|5854|rotoballer|227599|1794598931000",
-    "nfl|5854|rotoballer|227606|1794600552000",
-    "nfl|5872|fantasy_pros|619931|1794612620333",
-    "nfl|5872|rotoballer|227585|1794593351000",
-    "nfl|5947|rotoballer|227594|1794596421000",
-    "nfl|5967|rotoballer|227618|1794601816000",
-    "nfl|6770|rotoballer|227580|1794592449000",
-    "nfl|6801|rotoballer|227584|1794592699000",
-    "nfl|7021|rotoballer|227609|1794600311000",
-    "nfl|7564|rotoballer|227578|1794592539000",
-    "nfl|7571|rotowire|647590|1794612171000",
-    "nfl|7594|rotoballer|227614|1794600674000",
-    "nfl|7600|rotoballer|227620|1794603252000",
-    "nfl|7839|rotoballer|227591|1794593469000",
-    "nfl|8122|rotoballer|227631|1794605170000",
-    "nfl|8126|rotoballer|227622|1794602829000",
-    "nfl|8130|rotoballer|227610|1794600991000",
-    "nfl|8132|rotoballer|227636|1794606069000",
-    "nfl|8135|rotowire|647613|1794615944000",
-    "nfl|8228|rotoballer|227600|1794599296000",
-    "nfl|8676|rotoballer|227602|1794599830000",
-    "nfl|9224|rotoballer|227583|1794592812000",
-    "nfl|9228|rotoballer|227617|1794600309000",
-    "nfl|9482|rotoballer|227590|1794593474000",
-    "nfl|9488|rotoballer|227603|1794600130000",
-    "nfl|9502|rotowire|647578|1794610417000",
-    "nfl|9508|rotoballer|227624|1794602409000",
-    "nfl|9511|fantasy_pros|619945|1794615320375",
-    "nfl|9511|rotowire|647583|1794611222000",
-    "nfl|96|rotoballer|227598|1794598571000",
-    "nfl|9753|rotoballer|227607|1794600497000"
+    "nfl|11579|rotoballer|227650|1794613696000",
+    "nfl|11646|rotoballer|227643|1794606831000",
+    "nfl|11834|rotoballer|227658|1794616929000",
+    "nfl|12493|rotoballer|227656|1794615549000",
+    "nfl|12509|rotoballer|227640|1794606733000",
+    "nfl|12545|rotoballer|227648|1794612073000",
+    "nfl|13270|rotoballer|227192|1794256820000",
+    "nfl|13270|rotowire|647554|1794607433000",
+    "nfl|13281|rotoballer|227655|1794615833000",
+    "nfl|13414|rotoballer|227653|1794615429000",
+    "nfl|1479|rotoballer|227664|1794618729000",
+    "nfl|4034|rotoballer|227652|1794614666000",
+    "nfl|4035|rotoballer|227651|1794614289000",
+    "nfl|4039|rotoballer|227647|1794611532000",
+    "nfl|4217|rotoballer|227668|1794620230000",
+    "nfl|5872|rotoballer|227662|1794617949000",
+    "nfl|7002|rotoballer|227661|1794617635000",
+    "nfl|7571|fantasy_pros|619951|1794625521487",
+    "nfl|7571|rotoballer|227644|1794609669000",
+    "nfl|8144|rotoballer|227654|1794615314000",
+    "nfl|8180|rotoballer|227657|1794616698000",
+    "nfl|8183|rotoballer|227649|1794613814000",
+    "nfl|9511|rotoballer|227666|1794618801000"
   ],
   "schema_version": 1,
   "source": {
@@ -81,11 +36,52 @@
   },
   "stories": [
     {
-      "analysis": "Zvada's miss was a chip-shot 33-yarder in the first quarter that sailed wide left. That proved to be a critical mistake, as the Commanders won by just three points. Zvada appeared to shore up his job security a bit by going 4-for-4 on FG tries in Week 9 against Philadelphia, but it's hard to ignore the fact that he's gone just 17-for-23 on field-goal attempts overall and has missed three kicks from under 50 yards. The rookie does have a perfect 16-for-16 mark on extra-point attempts, and head coach John Harbaugh expressed support for the inconsistent kicker Friday, saying, of Zvada, \"I'm confident that he's going to become a good kicker. If at some point and time it doesn't happen, it doesn't happen. But I'm not going to panic halfway through the season with a guy who has made a bunch of kicks,\" Dan Duggan of The Athleticreports.",
-      "description": "Zvada missed his only field-goal try and made all three of his PAT attempts Thursday in a loss to Washington.",
+      "analysis": "Bateman should be good to go for Monday's game against the Chargers. He will remain a volatile WR4 for fantasy managers. ",
+      "description": "Rashod Bateman was a full participant in practice on Friday. ",
       "metadata": {
-        "analysis": "Zvada's miss was a chip-shot 33-yarder in the first quarter that sailed wide left. That proved to be a critical mistake, as the Commanders won by just three points. Zvada appeared to shore up his job security a bit by going 4-for-4 on FG tries in Week 9 against Philadelphia, but it's hard to ignore the fact that he's gone just 17-for-23 on field-goal attempts overall and has missed three kicks from under 50 yards. The rookie does have a perfect 16-for-16 mark on extra-point attempts, and head coach John Harbaugh expressed support for the inconsistent kicker Friday, saying, of Zvada, \"I'm confident that he's going to become a good kicker. If at some point and time it doesn't happen, it doesn't happen. But I'm not going to panic halfway through the season with a guy who has made a bunch of kicks,\" Dan Duggan of The Athleticreports.",
-        "description": "Zvada missed his only field-goal try and made all three of his PAT attempts Thursday in a loss to Washington.",
+        "analysis": "Bateman should be good to go for Monday's game against the Chargers. He will remain a volatile WR4 for fantasy managers. ",
+        "description": "Rashod Bateman was a full participant in practice on Friday. ",
+        "title": "Rashod Bateman (calf) logs full practice Friday ",
+        "topic_id": "1427166513042841600",
+        "url": "https://www.fantasypros.com/nfl/news/619951/rashod-bateman-calf-logs-full-practice-friday.php"
+      },
+      "nfl_team": "BAL",
+      "player_id": "7571",
+      "player_name": "Rashod Bateman",
+      "position": "WR",
+      "published": 1794625521487,
+      "source": "fantasy_pros",
+      "source_key": "619951",
+      "story_id": "nfl|7571|fantasy_pros|619951|1794625521487",
+      "title": "Rashod Bateman (calf) logs full practice Friday ",
+      "url": "https://www.fantasypros.com/nfl/news/619951/rashod-bateman-calf-logs-full-practice-friday.php"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers tight end George Kittle led the team with seven targets in last week's win over the Raiders. With injuries to Mike Evans (Achilles) and Deebo Samuel Sr. (hamstring) overlapping in the 49ers' last three games, Kittle's target share has climbed to 28% in that period. Kittle translated those opportunities into 17 receptions for 215 yards and one touchdown, pushing his season-long production to 38-483-5. Evans remains out for Week 10, but Samuel is cleared to play, and the team will welcome the recently acquired Keenan Allen, which may cut into the volume that Kittle has seen over the last few weeks. Kittle will remain a priority target for Brock Purdy, and the tight end should be in store for a lucrative week against the Cowboys. In three career games against Dallas, Kittle has 211 receiving yards and four touchdowns. Kittle is a must-start in Week 10 and is projected as a RotoBaller's overall TE1.",
+      "metadata": {
+        "description": "San Francisco 49ers tight end George Kittle led the team with seven targets in last week's win over the Raiders. With injuries to Mike Evans (Achilles) and Deebo Samuel Sr. (hamstring) overlapping in the 49ers' last three games, Kittle's target share has climbed to 28% in that period. Kittle translated those opportunities into 17 receptions for 215 yards and one touchdown, pushing his season-long production to 38-483-5. Evans remains out for Week 10, but Samuel is cleared to play, and the team will welcome the recently acquired Keenan Allen, which may cut into the volume that Kittle has seen over the last few weeks. Kittle will remain a priority target for Brock Purdy, and the tight end should be in store for a lucrative week against the Cowboys. In three career games against Dallas, Kittle has 211 receiving yards and four touchdowns. Kittle is a must-start in Week 10 and is projected as a RotoBaller's overall TE1.",
+        "title": "George Kittle Ready To Romp On Cowboys",
+        "topic_id": "1427221877658484749",
+        "url": "https://www.rotoballer.com/player-news/george-kittle-ready-to-romp-on-cowboys/1993314"
+      },
+      "nfl_team": "SF",
+      "player_id": "4217",
+      "player_name": "George Kittle",
+      "position": "TE",
+      "published": 1794620230000,
+      "source": "rotoballer",
+      "source_key": "227668",
+      "story_id": "nfl|4217|rotoballer|227668|1794620230000",
+      "title": "George Kittle Ready To Romp On Cowboys",
+      "url": "https://www.rotoballer.com/player-news/george-kittle-ready-to-romp-on-cowboys/1993314"
+    },
+    {
+      "analysis": "Zvada's miss was a chip-shot 33-yarder in the first quarter that sailed wide left. That proved to be a critical mistake, as the Commanders won by just three points. Zvada appeared to shore up his job security a bit by going 4-for-4 on FG tries in Week 9 against Philadelphia, but it's hard to ignore the fact that he's gone just 17-for-23 on field-goal attempts overall and has missed three kicks from under 50 yards. The rookie does have a perfect 16-for-16 mark on extra-point attempts, and head coach John Harbaugh expressed support for the inconsistent kicker Friday, saying of Zvada, \"I'm confident that he's going to become a good kicker. If at some point and time it doesn't happen, it doesn't happen. But I'm not going to panic halfway through the season with a guy who has made a bunch of kicks,\" Dan Duggan of The Athletic reports.",
+      "description": "Zvada missed his only field-goal try and made all three of his PATs on Thursday in a loss to Washington.",
+      "metadata": {
+        "analysis": "Zvada's miss was a chip-shot 33-yarder in the first quarter that sailed wide left. That proved to be a critical mistake, as the Commanders won by just three points. Zvada appeared to shore up his job security a bit by going 4-for-4 on FG tries in Week 9 against Philadelphia, but it's hard to ignore the fact that he's gone just 17-for-23 on field-goal attempts overall and has missed three kicks from under 50 yards. The rookie does have a perfect 16-for-16 mark on extra-point attempts, and head coach John Harbaugh expressed support for the inconsistent kicker Friday, saying of Zvada, \"I'm confident that he's going to become a good kicker. If at some point and time it doesn't happen, it doesn't happen. But I'm not going to panic halfway through the season with a guy who has made a bunch of kicks,\" Dan Duggan of The Athletic reports.",
+        "description": "Zvada missed his only field-goal try and made all three of his PATs on Thursday in a loss to Washington.",
         "title": "Dominic Zvada - Misses another kick in Week 10 loss",
         "topic_id": "1427142598400671744"
       },
@@ -99,6 +95,126 @@
       "story_id": "nfl|13833|rotowire|647643|1794619632000",
       "title": "Dominic Zvada - Misses another kick in Week 10 loss",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers running back Keaton Mitchell (hip) is too risky a play for fantasy managers while entrenched in a three-way committee on one of the league's worst offenses. 2026 has been a tough season for LA's attack. Many thought the hiring of offensive coordinator Mike McDaniel would lift the team to new heights. However, injuries and poor play overall have spelled disaster for the team as a whole. As for Mitchell's prospects, he's beginning to fall behind his committee mates in carries. Over their last four games, the 24-year-old's 19 totes trail both second-year pro Omarion Hampton (43) and Kimani Vidal (30). Mitchell still has a decent role in the passing game, notching at least three receptions in half of his eight outings. Still, LA appears to be shifting more of the backfield touches to Hampton and Vidal, and the team isn't scoring enough points to support multiple offensive weapons.",
+      "metadata": {
+        "description": "Los Angeles Chargers running back Keaton Mitchell (hip) is too risky a play for fantasy managers while entrenched in a three-way committee on one of the league's worst offenses. 2026 has been a tough season for LA's attack. Many thought the hiring of offensive coordinator Mike McDaniel would lift the team to new heights. However, injuries and poor play overall have spelled disaster for the team as a whole. As for Mitchell's prospects, he's beginning to fall behind his committee mates in carries. Over their last four games, the 24-year-old's 19 totes trail both second-year pro Omarion Hampton (43) and Kimani Vidal (30). Mitchell still has a decent role in the passing game, notching at least three receptions in half of his eight outings. Still, LA appears to be shifting more of the backfield touches to Hampton and Vidal, and the team isn't scoring enough points to support multiple offensive weapons.",
+        "title": "Keaton Mitchell Can't Be Trusted for Fantasy in Current Role",
+        "topic_id": "1427216843285729280",
+        "url": "https://www.rotoballer.com/player-news/keaton-mitchell-cant-be-trusted-for-fantasy-in-current-role/1993306"
+      },
+      "nfl_team": "LAC",
+      "player_id": "9511",
+      "player_name": "Keaton Mitchell",
+      "position": "RB",
+      "published": 1794618801000,
+      "source": "rotoballer",
+      "source_key": "227666",
+      "story_id": "nfl|9511|rotoballer|227666|1794618801000",
+      "title": "Keaton Mitchell Can't Be Trusted for Fantasy in Current Role",
+      "url": "https://www.rotoballer.com/player-news/keaton-mitchell-cant-be-trusted-for-fantasy-in-current-role/1993306"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Keenan Allen will make his team debut on Sunday against the Cowboys after being acquired from the Colts at the trade deadline. The veteran's arrival in San Francisco bolsters a wide receiver room that has been hit hard with injuries. On Sunday, Deebo Samuel Sr. (hamstring) will take the field for the first time since Week 5, but Mike Evans (Achilles) remains on the shelf. In comments to NBC Bay Area's Matt Maiocco, head coach Kyle Shanahan reined in expectations for Allen, indicating that the vet would need time to learn the 49ers' offense before he is turned loose. Even on a stunted snap count, Allen should fare better against Dallas' leaky defense in San Francisco's dynamic offense than he did last week with Indy. Last week, he faced Dallas in his final game with Indianapolis and caught four of his eight targets for 26 yards. Allen projects as a WR3/4 in Week 10.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Keenan Allen will make his team debut on Sunday against the Cowboys after being acquired from the Colts at the trade deadline. The veteran's arrival in San Francisco bolsters a wide receiver room that has been hit hard with injuries. On Sunday, Deebo Samuel Sr. (hamstring) will take the field for the first time since Week 5, but Mike Evans (Achilles) remains on the shelf. In comments to NBC Bay Area's Matt Maiocco, head coach Kyle Shanahan reined in expectations for Allen, indicating that the vet would need time to learn the 49ers' offense before he is turned loose. Even on a stunted snap count, Allen should fare better against Dallas' leaky defense in San Francisco's dynamic offense than he did last week with Indy. Last week, he faced Dallas in his final game with Indianapolis and caught four of his eight targets for 26 yards. Allen projects as a WR3/4 in Week 10.",
+        "title": "Temper Expectations For Keenan Allen In 49ers Debut",
+        "topic_id": "1427214327055675392",
+        "url": "https://www.rotoballer.com/player-news/temper-expectations-for-keenan-allen-in-49ers-debut/1993304"
+      },
+      "nfl_team": "SF",
+      "player_id": "1479",
+      "player_name": "Keenan Allen",
+      "position": "WR",
+      "published": 1794618729000,
+      "source": "rotoballer",
+      "source_key": "227664",
+      "story_id": "nfl|1479|rotoballer|227664|1794618729000",
+      "title": "Temper Expectations For Keenan Allen In 49ers Debut",
+      "url": "https://www.rotoballer.com/player-news/temper-expectations-for-keenan-allen-in-49ers-debut/1993304"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. (hamstring) was a full participant in practice to end the week and has no designation for Week 10 against the Cowboys. This will be Samuel's first game action since he strained his hamstring in Week 5. In his four healthy games this year, he averaged just 3.5 receptions and 46.3 receiving yards per game but also scored three touchdowns, elevating his fantasy production to 14.5 PPR points per game. Dallas has allowed a touchdown to an opposing wide receiver in each of their last four games, and has given up the seventh-most receiving yards and fantasy points per game to the position this season. Samuel's touchdown-heavy production makes him a gamble in fantasy, but with the highest projected point total on the Week 10 slate, another trip to the end zone wouldn't come as a surprise. He is a WR2/3 in Week 10 and is safe to start in most leagues.",
+      "metadata": {
+        "description": "San Francisco 49ers wide receiver Deebo Samuel Sr. (hamstring) was a full participant in practice to end the week and has no designation for Week 10 against the Cowboys. This will be Samuel's first game action since he strained his hamstring in Week 5. In his four healthy games this year, he averaged just 3.5 receptions and 46.3 receiving yards per game but also scored three touchdowns, elevating his fantasy production to 14.5 PPR points per game. Dallas has allowed a touchdown to an opposing wide receiver in each of their last four games, and has given up the seventh-most receiving yards and fantasy points per game to the position this season. Samuel's touchdown-heavy production makes him a gamble in fantasy, but with the highest projected point total on the Week 10 slate, another trip to the end zone wouldn't come as a surprise. He is a WR2/3 in Week 10 and is safe to start in most leagues.",
+        "title": "Deebo Samuel Sr. Returning In Time For Favorable Matchup",
+        "topic_id": "1427211809475039232",
+        "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-returning-in-time-for-favorable-matchup/1993300"
+      },
+      "nfl_team": "SF",
+      "player_id": "5872",
+      "player_name": "Deebo Samuel Sr.",
+      "position": "WR",
+      "published": 1794617949000,
+      "source": "rotoballer",
+      "source_key": "227662",
+      "story_id": "nfl|5872|rotoballer|227662|1794617949000",
+      "title": "Deebo Samuel Sr. Returning In Time For Favorable Matchup",
+      "url": "https://www.rotoballer.com/player-news/deebo-samuel-sr-returning-in-time-for-favorable-matchup/1993300"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints tight end Juwan Johnson recorded two catches on two targets for 34 yards and a touchdown in Week 9's victory over the Browns. His 15-yard touchdown reception in overtime won the game for the Saints, marking his first trip to the end zone since Week 3. However, this was also the fourth straight game in which Johnson was held under 50 receiving yards, as he continues to split snaps with fellow tight ends Noah Fant and Oscar Delp. The Saints offense continues to get healthier, with rookie receiver Jordyn Tyson making his debut last week and running back Travis Etienne Jr. potentially returning from IR soon. Opportunities continue to diminish for Johnson, and despite all three of the Saints' tight ends seeing solid playing time, none are worth starting in fantasy at this point. Johnson comes in at TE18 in RotoBaller's rankings this week.",
+      "metadata": {
+        "description": "New Orleans Saints tight end Juwan Johnson recorded two catches on two targets for 34 yards and a touchdown in Week 9's victory over the Browns. His 15-yard touchdown reception in overtime won the game for the Saints, marking his first trip to the end zone since Week 3. However, this was also the fourth straight game in which Johnson was held under 50 receiving yards, as he continues to split snaps with fellow tight ends Noah Fant and Oscar Delp. The Saints offense continues to get healthier, with rookie receiver Jordyn Tyson making his debut last week and running back Travis Etienne Jr. potentially returning from IR soon. Opportunities continue to diminish for Johnson, and despite all three of the Saints' tight ends seeing solid playing time, none are worth starting in fantasy at this point. Johnson comes in at TE18 in RotoBaller's rankings this week.",
+        "title": "Juwan Johnson Becoming an Afterthought in Saints' Passing Game",
+        "topic_id": "1427210556598685697",
+        "url": "https://www.rotoballer.com/player-news/juwan-johnson-becoming-an-afterthought-in-saints-passing-game/1993295"
+      },
+      "nfl_team": "NO",
+      "player_id": "7002",
+      "player_name": "Juwan Johnson",
+      "position": "TE",
+      "published": 1794617635000,
+      "source": "rotoballer",
+      "source_key": "227661",
+      "story_id": "nfl|7002|rotoballer|227661|1794617635000",
+      "title": "Juwan Johnson Becoming an Afterthought in Saints' Passing Game",
+      "url": "https://www.rotoballer.com/player-news/juwan-johnson-becoming-an-afterthought-in-saints-passing-game/1993295"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Devaughn Vele reeled in two receptions on four targets for 17 yards in Week 9's victory over the Browns. It was season lows across the board for Vele, who had previously recorded at least three receptions and five targets in every game this season. The drop in production coincided with the debut of rookie receiver Jordyn Tyson, who saw just 18 snaps, but out-targeted Vele 5-4 and outgained him 30-17. Despite this, Vele continued to lead the receiving group in snap percentage, playing 93% of the team's offensive snaps. With Tyson's role set to increase as he gets fully healthy, Vele will likely continue to see his opportunities decrease. He profiles as a low-end WR5/6 and comes in at WR54 in RotoBaller's rankings this week.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Devaughn Vele reeled in two receptions on four targets for 17 yards in Week 9's victory over the Browns. It was season lows across the board for Vele, who had previously recorded at least three receptions and five targets in every game this season. The drop in production coincided with the debut of rookie receiver Jordyn Tyson, who saw just 18 snaps, but out-targeted Vele 5-4 and outgained him 30-17. Despite this, Vele continued to lead the receiving group in snap percentage, playing 93% of the team's offensive snaps. With Tyson's role set to increase as he gets fully healthy, Vele will likely continue to see his opportunities decrease. He profiles as a low-end WR5/6 and comes in at WR54 in RotoBaller's rankings this week.",
+        "title": "Devaughn Vele's Role Diminishing in Saints' Passing Attack",
+        "topic_id": "1427208034110701568",
+        "url": "https://www.rotoballer.com/player-news/devaughn-veles-role-diminishing-in-saints-passing-attack/1993288"
+      },
+      "nfl_team": "NO",
+      "player_id": "11834",
+      "player_name": "Devaughn Vele",
+      "position": "WR",
+      "published": 1794616929000,
+      "source": "rotoballer",
+      "source_key": "227658",
+      "story_id": "nfl|11834|rotoballer|227658|1794616929000",
+      "title": "Devaughn Vele's Role Diminishing in Saints' Passing Attack",
+      "url": "https://www.rotoballer.com/player-news/devaughn-veles-role-diminishing-in-saints-passing-attack/1993288"
+    },
+    {
+      "analysis": null,
+      "description": "Las Vegas Raiders wide receiver Jalen Nailor has not been a factor for fantasy thus far in 2026, and his immediate outlook becomes more challenging with a rookie quarterback set to man the helm. The Raiders announced that signal-caller Fernando Mendoza will handle first-string duties moving forward, as the team traded veteran Kirk Cousins back to the Vikings earlier this week. It's possible Nailor sees a bump in production with Mendoza in control, since the first-year pro's preferences and tendencies are still unknown. However, the 27-year-old hasn't commanded more than five targets, or recorded more than 38 receiving yards in a single contest despite operating as Las Vegas' clear-cut No. 2 wideout. It just so happened that a significant portion of Cousins' pass attempts (59%) went to the running backs and tight ends, leaving little meat on the bone for WRs not named Tre Tucker. With that game plan still a threat, owners can safely avoid Nailor's services for fantasy unless a considerable change is made in the coming weeks.",
+      "metadata": {
+        "description": "Las Vegas Raiders wide receiver Jalen Nailor has not been a factor for fantasy thus far in 2026, and his immediate outlook becomes more challenging with a rookie quarterback set to man the helm. The Raiders announced that signal-caller Fernando Mendoza will handle first-string duties moving forward, as the team traded veteran Kirk Cousins back to the Vikings earlier this week. It's possible Nailor sees a bump in production with Mendoza in control, since the first-year pro's preferences and tendencies are still unknown. However, the 27-year-old hasn't commanded more than five targets, or recorded more than 38 receiving yards in a single contest despite operating as Las Vegas' clear-cut No. 2 wideout. It just so happened that a significant portion of Cousins' pass attempts (59%) went to the running backs and tight ends, leaving little meat on the bone for WRs not named Tre Tucker. With that game plan still a threat, owners can safely avoid Nailor's services for fantasy unless a considerable change is made in the coming weeks.",
+        "title": "Jalen Nailor Falling Behind in Raiders' Receiving Hierarchy",
+        "topic_id": "1427206775504924672",
+        "url": "https://www.rotoballer.com/player-news/jalen-nailor-falling-behind-in-raiders-receiving-hierarchy/1993286"
+      },
+      "nfl_team": "LV",
+      "player_id": "8180",
+      "player_name": "Jalen Nailor",
+      "position": "WR",
+      "published": 1794616698000,
+      "source": "rotoballer",
+      "source_key": "227657",
+      "story_id": "nfl|8180|rotoballer|227657|1794616698000",
+      "title": "Jalen Nailor Falling Behind in Raiders' Receiving Hierarchy",
+      "url": "https://www.rotoballer.com/player-news/jalen-nailor-falling-behind-in-raiders-receiving-hierarchy/1993286"
     },
     {
       "analysis": "Burks missed Week 9 due to a foot injury but was able to limit his absence to one game. The veteran wideout logged a 60 percent offensive snap share, third among Washington wideouts behind Stefon Diggs and Antonio Williams. Burks has a chance to take on a larger role in the Commanders' passing game with Terry McLaurin (knee) lost for the season, though Diggs and Williams may be better bets for weekly production given their higher spots in the pecking order.",
@@ -119,6 +235,66 @@
       "story_id": "nfl|8135|rotowire|647613|1794615944000",
       "title": "Treylon Burks - Logs two catches in return from foot injury",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Jordyn Tyson recorded four receptions for 30 yards on five targets in Week 9's victory over the Browns. The rookie first-round pick was limited to just 18 snaps, as the Saints elected to ease him into game action following a hamstring injury that sidelined him to start the season. Head coach Kellen Moore said that Tyson should get \"a healthy dose more\" of snaps, which is encouraging news for both fantasy managers and Saints fans alike. His 27.7% target rate was an impressive mark, and he should become an increasingly viable fantasy option as he continues to see his workload increase. Tyson did not appear on the injury report at all this week and comes in at WR39 in RotoBaller's rankings against a Panthers defense that ranks around the middle of the pack against opposing wide receivers.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Jordyn Tyson recorded four receptions for 30 yards on five targets in Week 9's victory over the Browns. The rookie first-round pick was limited to just 18 snaps, as the Saints elected to ease him into game action following a hamstring injury that sidelined him to start the season. Head coach Kellen Moore said that Tyson should get \"a healthy dose more\" of snaps, which is encouraging news for both fantasy managers and Saints fans alike. His 27.7% target rate was an impressive mark, and he should become an increasingly viable fantasy option as he continues to see his workload increase. Tyson did not appear on the injury report at all this week and comes in at WR39 in RotoBaller's rankings against a Panthers defense that ranks around the middle of the pack against opposing wide receivers.",
+        "title": "Jordyn Tyson's Workload to Increase in Week 10",
+        "topic_id": "1427203001688289280",
+        "url": "https://www.rotoballer.com/player-news/jordyn-tysons-workload-to-increase-in-week-10/1993274"
+      },
+      "nfl_team": "NO",
+      "player_id": "13281",
+      "player_name": "Jordyn Tyson",
+      "position": "WR",
+      "published": 1794615833000,
+      "source": "rotoballer",
+      "source_key": "227655",
+      "story_id": "nfl|13281|rotoballer|227655|1794615833000",
+      "title": "Jordyn Tyson's Workload to Increase in Week 10",
+      "url": "https://www.rotoballer.com/player-news/jordyn-tysons-workload-to-increase-in-week-10/1993274"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers tight end Oronde Gadsden once looked like a promising fantasy asset, but he isn't seeing enough consistent work to be a reliable option for managers. Gadsden burst onto the scene in the middle of the 2025 season, ripping off an impressive four-game stretch in which he amassed a 24/377/2 line with an outlandish 89% catch rate. Unfortunately, the 23-year-old's production fell off following an injury, and he hasn't been able to regain that form even in 2026. Granted, a host of other issues in the Chargers' team environment contribute to a lack of production in the passing game. Still, Gadsden isn't even the weekly snap leader at his position - an honor that goes to teammate Charlie Kolar. The former has been the more effective receiver of the duo by far, but it doesn't change the fact that he's been too spotty for fantasy. There's likely a point in which quarterback Justin Herbert and the offense turn it around. Until then, Gadsden can be left out of lineups, as an average of 2.4 receptions and 21.5 receiving yards per game won't get it done for fantasy.",
+      "metadata": {
+        "description": "Los Angeles Chargers tight end Oronde Gadsden once looked like a promising fantasy asset, but he isn't seeing enough consistent work to be a reliable option for managers. Gadsden burst onto the scene in the middle of the 2025 season, ripping off an impressive four-game stretch in which he amassed a 24/377/2 line with an outlandish 89% catch rate. Unfortunately, the 23-year-old's production fell off following an injury, and he hasn't been able to regain that form even in 2026. Granted, a host of other issues in the Chargers' team environment contribute to a lack of production in the passing game. Still, Gadsden isn't even the weekly snap leader at his position - an honor that goes to teammate Charlie Kolar. The former has been the more effective receiver of the duo by far, but it doesn't change the fact that he's been too spotty for fantasy. There's likely a point in which quarterback Justin Herbert and the offense turn it around. Until then, Gadsden can be left out of lineups, as an average of 2.4 receptions and 21.5 receiving yards per game won't get it done for fantasy.",
+        "title": "Oronde Gadsden a Fading Asset in LA's Pass Attack",
+        "topic_id": "1427203001692483584",
+        "url": "https://www.rotoballer.com/player-news/oronde-gadsden-a-fading-asset-in-las-pass-attack/1993272"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12493",
+      "player_name": "Oronde Gadsden",
+      "position": "TE",
+      "published": 1794615549000,
+      "source": "rotoballer",
+      "source_key": "227656",
+      "story_id": "nfl|12493|rotoballer|227656|1794615549000",
+      "title": "Oronde Gadsden a Fading Asset in LA's Pass Attack",
+      "url": "https://www.rotoballer.com/player-news/oronde-gadsden-a-fading-asset-in-las-pass-attack/1993272"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers running back Kaelon Black handled 11 carries for a season-high 70 yards last week against the Raiders, outgaining starter Christian McCaffrey on the ground. It was the second time in as many games that the rookie outgained CMC on the ground, and the fourth time overall. Black's 29.1% rush share in the 49ers' backfield is among the highest in the NFL among non-starting running backs, and he is making good use of his opportunities, averaging 4.5 yards per carry. San Francisco's offense should be in a high gear again in the Week 10 matchup with the Cowboys. Dallas has given up 129.7 rushing yards and four rushing touchdowns to running backs over the last three weeks and has allowed the fourth-most explosive runs this season. Black is projected as a back-end RB3 in Week 10 and can be started in deeper leagues.",
+      "metadata": {
+        "description": "San Francisco 49ers running back Kaelon Black handled 11 carries for a season-high 70 yards last week against the Raiders, outgaining starter Christian McCaffrey on the ground. It was the second time in as many games that the rookie outgained CMC on the ground, and the fourth time overall. Black's 29.1% rush share in the 49ers' backfield is among the highest in the NFL among non-starting running backs, and he is making good use of his opportunities, averaging 4.5 yards per carry. San Francisco's offense should be in a high gear again in the Week 10 matchup with the Cowboys. Dallas has given up 129.7 rushing yards and four rushing touchdowns to running backs over the last three weeks and has allowed the fourth-most explosive runs this season. Black is projected as a back-end RB3 in Week 10 and can be started in deeper leagues.",
+        "title": "Kaelon Black A Deep-League Flex Candidate In Potential Shootout",
+        "topic_id": "1427200483017129984",
+        "url": "https://www.rotoballer.com/player-news/kaelon-black-a-deep-league-flex-candidate-in-potential-shootout/1993269"
+      },
+      "nfl_team": "SF",
+      "player_id": "13414",
+      "player_name": "Kaelon Black",
+      "position": "RB",
+      "published": 1794615429000,
+      "source": "rotoballer",
+      "source_key": "227653",
+      "story_id": "nfl|13414|rotoballer|227653|1794615429000",
+      "title": "Kaelon Black A Deep-League Flex Candidate In Potential Shootout",
+      "url": "https://www.rotoballer.com/player-news/kaelon-black-a-deep-league-flex-candidate-in-potential-shootout/1993269"
     },
     {
       "analysis": "McConkey misses a second straight practice. He will need to be monitored on Saturday ahead of Monday's game. ",
@@ -184,6 +360,106 @@
       "url": "https://www.fantasypros.com/nfl/news/619945/keaton-mitchell-hip-limited-practice-friday.php"
     },
     {
+      "analysis": null,
+      "description": "New Orleans Saints wide receiver Chris Olave led the team with seven receptions on 12 targets for 98 yards in Week 9's victory over the Browns. It was the sixth time this season that the star wideout has drawn double-digit targets, and he currently ranks fifth among receivers in targets per game (10.4) and sixth in yards per game (91.8). Rookie receiver Jordyn Tyson made his debut, albeit on a snap count, but had no impact on Olave's role in the offense. The volume should continue to be there, though Olave has scored just twice this season, limiting his overall fantasy ceiling. Despite the lack of touchdowns, he remains locked in as an every-week WR1 and comes in at WR8 in RotoBaller's rankings against a Panthers defense that ranks middle of the pack against opposing wide receivers.",
+      "metadata": {
+        "description": "New Orleans Saints wide receiver Chris Olave led the team with seven receptions on 12 targets for 98 yards in Week 9's victory over the Browns. It was the sixth time this season that the star wideout has drawn double-digit targets, and he currently ranks fifth among receivers in targets per game (10.4) and sixth in yards per game (91.8). Rookie receiver Jordyn Tyson made his debut, albeit on a snap count, but had no impact on Olave's role in the offense. The volume should continue to be there, though Olave has scored just twice this season, limiting his overall fantasy ceiling. Despite the lack of touchdowns, he remains locked in as an every-week WR1 and comes in at WR8 in RotoBaller's rankings against a Panthers defense that ranks middle of the pack against opposing wide receivers.",
+        "title": "Chris Olave Remains a Reliable Fantasy Option Ahead of Week 10",
+        "topic_id": "1427200483012935680",
+        "url": "https://www.rotoballer.com/player-news/chris-olave-remains-a-reliable-fantasy-option-ahead-of-week-10/1993267"
+      },
+      "nfl_team": "NO",
+      "player_id": "8144",
+      "player_name": "Chris Olave",
+      "position": "WR",
+      "published": 1794615314000,
+      "source": "rotoballer",
+      "source_key": "227654",
+      "story_id": "nfl|8144|rotoballer|227654|1794615314000",
+      "title": "Chris Olave Remains a Reliable Fantasy Option Ahead of Week 10",
+      "url": "https://www.rotoballer.com/player-news/chris-olave-remains-a-reliable-fantasy-option-ahead-of-week-10/1993267"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers running back Christian McCaffrey gained 87 scrimmage yards on 20 touches last week and had two touchdowns. McCaffrey ran in one score and walked a reception into the end zone for the other, making it his seventh consecutive game with at least one touchdown. Through Week 9, McCaffrey is averaging 20.8 PPR points per game and has looked rejuvenated as a runner, averaging 4.5 yards per carry. He should have another solid showing in Week 10 against the Cowboys. Dallas is allowing the fourth-most rushing yards per game (112.8) to running backs and the fifth-most PPR points (26.5) to the position group. The matchup has the highest projected point total on this week's slate, and McCaffrey should play a prominent role in what should be a high-scoring affair. As usual, McCaffrey is projected as a top-5 option at running back and should be locked into lineups for Week 10.",
+      "metadata": {
+        "description": "San Francisco 49ers running back Christian McCaffrey gained 87 scrimmage yards on 20 touches last week and had two touchdowns. McCaffrey ran in one score and walked a reception into the end zone for the other, making it his seventh consecutive game with at least one touchdown. Through Week 9, McCaffrey is averaging 20.8 PPR points per game and has looked rejuvenated as a runner, averaging 4.5 yards per carry. He should have another solid showing in Week 10 against the Cowboys. Dallas is allowing the fourth-most rushing yards per game (112.8) to running backs and the fifth-most PPR points (26.5) to the position group. The matchup has the highest projected point total on this week's slate, and McCaffrey should play a prominent role in what should be a high-scoring affair. As usual, McCaffrey is projected as a top-5 option at running back and should be locked into lineups for Week 10.",
+        "title": "Christian McCaffrey Could Extend TD Streak To Eighth Game",
+        "topic_id": "1427197966644420608",
+        "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-could-extend-td-streak-to-eighth-game/1993264"
+      },
+      "nfl_team": "SF",
+      "player_id": "4034",
+      "player_name": "Christian McCaffrey",
+      "position": "RB",
+      "published": 1794614666000,
+      "source": "rotoballer",
+      "source_key": "227652",
+      "story_id": "nfl|4034|rotoballer|227652|1794614666000",
+      "title": "Christian McCaffrey Could Extend TD Streak To Eighth Game",
+      "url": "https://www.rotoballer.com/player-news/christian-mccaffrey-could-extend-td-streak-to-eighth-game/1993264"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints running back Alvin Kamara rushed just six times for 32 yards and added three catches for another 17 yards in Week 9's victory over the Browns. Kamara out-snapped fellow running back Audric Estime 37-35, though it was Estime who out-gained him 77-49 in total yards. Kamara's inefficient season continues, as he is averaging just 3.3 yards per carry on 6.7 attempts per game, both career lows. There may be additional mouths to feed in the backfield as well, as fellow running back Travis Etienne Jr. (hamstring) logged a full practice on Friday and is listed as questionable to return from IR. With added competition, Kamara's fantasy value takes a significant hit. However, if Etienne Jr. does not suit up, Kamara would be a viable FLEX option against a Panthers defense allowing the second-most fantasy points to running backs this season.",
+      "metadata": {
+        "description": "New Orleans Saints running back Alvin Kamara rushed just six times for 32 yards and added three catches for another 17 yards in Week 9's victory over the Browns. Kamara out-snapped fellow running back Audric Estime 37-35, though it was Estime who out-gained him 77-49 in total yards. Kamara's inefficient season continues, as he is averaging just 3.3 yards per carry on 6.7 attempts per game, both career lows. There may be additional mouths to feed in the backfield as well, as fellow running back Travis Etienne Jr. (hamstring) logged a full practice on Friday and is listed as questionable to return from IR. With added competition, Kamara's fantasy value takes a significant hit. However, if Etienne Jr. does not suit up, Kamara would be a viable FLEX option against a Panthers defense allowing the second-most fantasy points to running backs this season.",
+        "title": "Alvin Kamara's Role in New Orleans Backfield Remains Uncertain",
+        "topic_id": "1427196708911058944",
+        "url": "https://www.rotoballer.com/player-news/alvin-kamaras-role-in-new-orleans-backfield-remains-uncertain/1993260"
+      },
+      "nfl_team": "NO",
+      "player_id": "4035",
+      "player_name": "Alvin Kamara",
+      "position": "RB",
+      "published": 1794614289000,
+      "source": "rotoballer",
+      "source_key": "227651",
+      "story_id": "nfl|4035|rotoballer|227651|1794614289000",
+      "title": "Alvin Kamara's Role in New Orleans Backfield Remains Uncertain",
+      "url": "https://www.rotoballer.com/player-news/alvin-kamaras-role-in-new-orleans-backfield-remains-uncertain/1993260"
+    },
+    {
+      "analysis": null,
+      "description": "San Francisco 49ers quarterback Brock Purdy had another productive game last weekend against the Raiders. Purdy threw for just 232 yards, but added 40 rushing yards and had three total touchdowns. Purdy finished Week 9 as the overall QB4, and it was his sixth top-12 finish in nine games. Purdy has been among the best quarterbacks in fantasy despite injuries to his receiving corps. Mike Evans (Achilles) will be out again in Week 10, but Deebo Samuel Sr. (hamstring) will return for his first action since Week 5. San Francisco bolstered their wide receiver depth at the trade deadline, adding veteran Keenan Allen from the Colts. Purdy should have another field day against the Cowboys on Sunday. Dallas is averaging 22.3 fantasy points allowed per game to quarterbacks and has given up 16 passing touchdowns to four interceptions so far. Purdy is projected for another QB1 finish and should be started everywhere.",
+      "metadata": {
+        "description": "San Francisco 49ers quarterback Brock Purdy had another productive game last weekend against the Raiders. Purdy threw for just 232 yards, but added 40 rushing yards and had three total touchdowns. Purdy finished Week 9 as the overall QB4, and it was his sixth top-12 finish in nine games. Purdy has been among the best quarterbacks in fantasy despite injuries to his receiving corps. Mike Evans (Achilles) will be out again in Week 10, but Deebo Samuel Sr. (hamstring) will return for his first action since Week 5. San Francisco bolstered their wide receiver depth at the trade deadline, adding veteran Keenan Allen from the Colts. Purdy should have another field day against the Cowboys on Sunday. Dallas is averaging 22.3 fantasy points allowed per game to quarterbacks and has given up 16 passing touchdowns to four interceptions so far. Purdy is projected for another QB1 finish and should be started everywhere.",
+        "title": "Brock Purdy's Outlook Improving With Added Receivers",
+        "topic_id": "1427194191431086080",
+        "url": "https://www.rotoballer.com/player-news/brock-purdys-outlook-improving-with-added-receivers/1993258"
+      },
+      "nfl_team": "SF",
+      "player_id": "8183",
+      "player_name": "Brock Purdy",
+      "position": "QB",
+      "published": 1794613814000,
+      "source": "rotoballer",
+      "source_key": "227649",
+      "story_id": "nfl|8183|rotoballer|227649|1794613814000",
+      "title": "Brock Purdy's Outlook Improving With Added Receivers",
+      "url": "https://www.rotoballer.com/player-news/brock-purdys-outlook-improving-with-added-receivers/1993258"
+    },
+    {
+      "analysis": null,
+      "description": "New Orleans Saints running back Audric Estime rushed 15 times for 72 yards and a touchdown in Week 9's win over the Browns. He added one catch on his lone target for another five yards. After being waived by Cleveland on Monday and claimed by New Orleans on Tuesday, Estime immediately stepped into the lead rushing role over fellow running back Alvin Kamara. He played 35 snaps, and his 46% touch rate easily led the team, ranking sixth among running backs who saw at least 30 snaps in Week 9. However, his large workload may be short-lived, as teammate Travis Etienne Jr. logged a full practice Friday and is officially questionable to return from IR this week. Estime was impressive enough to earn a role in the offense, but once Etienne returns, the backfield could become too crowded for him to remain fantasy-relevant. He ranks RB41 in RotoBaller's rankings against a Panthers defense allowing the second-most fantasy points per game to opposing running backs, with significant upside if Etienne Jr. cannot suit up.",
+      "metadata": {
+        "description": "New Orleans Saints running back Audric Estime rushed 15 times for 72 yards and a touchdown in Week 9's win over the Browns. He added one catch on his lone target for another five yards. After being waived by Cleveland on Monday and claimed by New Orleans on Tuesday, Estime immediately stepped into the lead rushing role over fellow running back Alvin Kamara. He played 35 snaps, and his 46% touch rate easily led the team, ranking sixth among running backs who saw at least 30 snaps in Week 9. However, his large workload may be short-lived, as teammate Travis Etienne Jr. logged a full practice Friday and is officially questionable to return from IR this week. Estime was impressive enough to earn a role in the offense, but once Etienne returns, the backfield could become too crowded for him to remain fantasy-relevant. He ranks RB41 in RotoBaller's rankings against a Panthers defense allowing the second-most fantasy points per game to opposing running backs, with significant upside if Etienne Jr. cannot suit up.",
+        "title": "Audric Estime Looking to Maintain Role in Saints Backfield",
+        "topic_id": "1427194191435280384",
+        "url": "https://www.rotoballer.com/player-news/audric-estime-looking-to-maintain-role-in-saints-backfield/1993256"
+      },
+      "nfl_team": "NO",
+      "player_id": "11579",
+      "player_name": "Audric Estime",
+      "position": "RB",
+      "published": 1794613696000,
+      "source": "rotoballer",
+      "source_key": "227650",
+      "story_id": "nfl|11579|rotoballer|227650|1794613696000",
+      "title": "Audric Estime Looking to Maintain Role in Saints Backfield",
+      "url": "https://www.rotoballer.com/player-news/audric-estime-looking-to-maintain-role-in-saints-backfield/1993256"
+    },
+    {
       "analysis": "Samuel is officially good to go. He will be an upside WR2 for fantasy managers. ",
       "description": "Deebo Samuel Sr. is off the injury report for Sunday's game against the Cowboys. ",
       "metadata": {
@@ -225,6 +501,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "New Orleans Saints quarterback Tyler Shough completed 21-of-35 passes for 265 yards and one touchdown while adding 50 rushing yards on 10 attempts in Week 9's win over the Browns. Shough's passing volume was relatively low through the first three quarters, as he attempted just 15 passes during that span. However, the Browns began moving the ball more effectively as the game progressed, forcing Shough and the Saints' offense to increase their pace and throw more often. He eventually connected with tight end Juwan Johnson for a 15-yard game-winning touchdown in overtime. Shough has now surpassed 250 passing yards in six of eight games this season, though he has thrown multiple passing touchdowns just three times. He should see plenty of volume again in Week 10 against the Panthers and ranks at QB7 in RotoBaller's rankings this week.",
+      "metadata": {
+        "description": "New Orleans Saints quarterback Tyler Shough completed 21-of-35 passes for 265 yards and one touchdown while adding 50 rushing yards on 10 attempts in Week 9's win over the Browns. Shough's passing volume was relatively low through the first three quarters, as he attempted just 15 passes during that span. However, the Browns began moving the ball more effectively as the game progressed, forcing Shough and the Saints' offense to increase their pace and throw more often. He eventually connected with tight end Juwan Johnson for a 15-yard game-winning touchdown in overtime. Shough has now surpassed 250 passing yards in six of eight games this season, though he has thrown multiple passing touchdowns just three times. He should see plenty of volume again in Week 10 against the Panthers and ranks at QB7 in RotoBaller's rankings this week.",
+        "title": "Tyler Shough Set for Another High-Volume Outing Against Panthers",
+        "topic_id": "1427186640442376192",
+        "url": "https://www.rotoballer.com/player-news/tyler-shough-set-for-another-high-volume-outing-against-panthers/1993246"
+      },
+      "nfl_team": "NO",
+      "player_id": "12545",
+      "player_name": "Tyler Shough",
+      "position": "QB",
+      "published": 1794612073000,
+      "source": "rotoballer",
+      "source_key": "227648",
+      "story_id": "nfl|12545|rotoballer|227648|1794612073000",
+      "title": "Tyler Shough Set for Another High-Volume Outing Against Panthers",
+      "url": "https://www.rotoballer.com/player-news/tyler-shough-set-for-another-high-volume-outing-against-panthers/1993246"
+    },
+    {
       "analysis": "Evans will remain sidelined as expected. He remains week-to-week. ",
       "description": "Mike Evans has been ruled out for Sunday's game against the Cowboys. ",
       "metadata": {
@@ -264,6 +560,26 @@
       "story_id": "nfl|12509|rotowire|647586|1794611805000",
       "title": "Tre' Harris - Full practice participant",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Seattle Seahawks wide receiver Cooper Kupp can be left on the bench in fantasy leagues with 14 or fewer teams heading into Week 10 against the Las Vegas Raiders. His volume has been inconsistent lately, and he's headed for an even smaller role this week now that Rashid Shaheed is returning from injury. Kupp is expected to operate as the team's No. 3 receiver behind Jaxon Smith-Njigba and Shaheed, and his target volume could also be scaled back with Drew Lock starting in place of Sam Darnold (elbow) for the second week in a row. So far, the 33-year-old is having the worst fantasy season of his career, despite not missing any games. He is the overall WR63 in PPR scoring with just 22 catches, 238 yards, and two touchdowns. There's some merit to leaving him on the bench in leagues with at least 12-14 teams in case Smith-Njigba gets hurt, but it does not justify actually inserting him into lineups for Week 10. He ranks as the overall WR62 in RotoBaller's Week 10 fantasy football rankings.",
+      "metadata": {
+        "description": "Seattle Seahawks wide receiver Cooper Kupp can be left on the bench in fantasy leagues with 14 or fewer teams heading into Week 10 against the Las Vegas Raiders. His volume has been inconsistent lately, and he's headed for an even smaller role this week now that Rashid Shaheed is returning from injury. Kupp is expected to operate as the team's No. 3 receiver behind Jaxon Smith-Njigba and Shaheed, and his target volume could also be scaled back with Drew Lock starting in place of Sam Darnold (elbow) for the second week in a row. So far, the 33-year-old is having the worst fantasy season of his career, despite not missing any games. He is the overall WR63 in PPR scoring with just 22 catches, 238 yards, and two touchdowns. There's some merit to leaving him on the bench in leagues with at least 12-14 teams in case Smith-Njigba gets hurt, but it does not justify actually inserting him into lineups for Week 10. He ranks as the overall WR62 in RotoBaller's Week 10 fantasy football rankings.",
+        "title": "Cooper Kupp Can be Avoided in Most Leagues for Week 10",
+        "topic_id": "1427185382465744896",
+        "url": "https://www.rotoballer.com/player-news/cooper-kupp-can-be-avoided-in-most-leagues-for-week-10/1993242"
+      },
+      "nfl_team": "SEA",
+      "player_id": "4039",
+      "player_name": "Cooper Kupp",
+      "position": "WR",
+      "published": 1794611532000,
+      "source": "rotoballer",
+      "source_key": "227647",
+      "story_id": "nfl|4039|rotoballer|227647|1794611532000",
+      "title": "Cooper Kupp Can be Avoided in Most Leagues for Week 10",
+      "url": "https://www.rotoballer.com/player-news/cooper-kupp-can-be-avoided-in-most-leagues-for-week-10/1993242"
     },
     {
       "analysis": "It's a new injury for Mitchell, who also was limited Thursday when the Chargers filed their first practice report for the upcoming Monday night game at Baltimore. He'll have some extra motivation, facing his former team in primetime as his current team seeks its first win of the season.",
@@ -344,6 +660,26 @@
       "story_id": "nfl|4046|rotowire|647575|1794610096000",
       "title": "Patrick Mahomes - No injury designation",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Baltimore Ravens wide receiver Rashod Bateman (calf) was upgraded to a full participant on Friday, according to the team's official injury report. Bateman had been limited on Thursday, so his upgraded status on Friday should be seen as a very encouraging sign. With that being said, the Ravens held a walkthrough on Friday, so this latest practice report is merely an estimate. Nevertheless, we would expect Bateman to be able to play against the Los Angeles Chargers on Monday Night Football in Week 10, barring a setback. The bad news for Bateman is that the Ravens' offense is currently on its fourth quarterback, and we have yet to see if Jacoby Brissett can support any additional fantasy-relevant receivers beyond Zay Flowers. For now, Bateman can be avoided in fantasy football, despite his favorable matchup against the 0-8 Chargers.",
+      "metadata": {
+        "description": "Baltimore Ravens wide receiver Rashod Bateman (calf) was upgraded to a full participant on Friday, according to the team's official injury report. Bateman had been limited on Thursday, so his upgraded status on Friday should be seen as a very encouraging sign. With that being said, the Ravens held a walkthrough on Friday, so this latest practice report is merely an estimate. Nevertheless, we would expect Bateman to be able to play against the Los Angeles Chargers on Monday Night Football in Week 10, barring a setback. The bad news for Bateman is that the Ravens' offense is currently on its fourth quarterback, and we have yet to see if Jacoby Brissett can support any additional fantasy-relevant receivers beyond Zay Flowers. For now, Bateman can be avoided in fantasy football, despite his favorable matchup against the 0-8 Chargers.",
+        "title": "Rashod Bateman Upgrades to Full in Friday's Practice Estimation",
+        "topic_id": "1427177832517226496",
+        "url": "https://www.rotoballer.com/player-news/rashod-bateman-upgrades-to-full-in-fridays-practice-estimation/1993226"
+      },
+      "nfl_team": "BAL",
+      "player_id": "7571",
+      "player_name": "Rashod Bateman",
+      "position": "WR",
+      "published": 1794609669000,
+      "source": "rotoballer",
+      "source_key": "227644",
+      "story_id": "nfl|7571|rotoballer|227644|1794609669000",
+      "title": "Rashod Bateman Upgrades to Full in Friday's Practice Estimation",
+      "url": "https://www.rotoballer.com/player-news/rashod-bateman-upgrades-to-full-in-fridays-practice-estimation/1993226"
     },
     {
       "analysis": "Wright is going to be good to go for Sunday's game. He was able to practice in full all week, so his quad issue is nothing serious at this point. He isn't expected to be fantasy relevant moving forward, however.",
@@ -508,6 +844,26 @@
       "url": null
     },
     {
+      "analysis": "Daniels has seen minimal playing time this season, but he'll be thrust into a more prominent role offensively due to both Puka Nacua (knee/toe) and Davante Adams (hamstring) being on injured reserve. As such, Daniels -- a sixth-round selection of the Rams in the 2026 NFL Draft -- is slated to serve as the team's WR3 behind Konata Mumpfield and Tutu Atwell for Sunday's game against the Cardinals, with Xavier Smith and Brennan Presley also in the mix for snaps on offense. During his final college season in Miami, Daniels recorded 50 catches for 557 yards and seven touchdowns across 13 games.",
+      "description": "Head coach Sean McVay said Friday that Daniels \"will get an opportunity to play more snaps moving forward,\" Stu Jackson of the Rams' official site reports.",
+      "metadata": {
+        "analysis": "Daniels has seen minimal playing time this season, but he'll be thrust into a more prominent role offensively due to both Puka Nacua (knee/toe) and Davante Adams (hamstring) being on injured reserve. As such, Daniels -- a sixth-round selection of the Rams in the 2026 NFL Draft -- is slated to serve as the team's WR3 behind Konata Mumpfield and Tutu Atwell for Sunday's game against the Cardinals, with Xavier Smith and Brennan Presley also in the mix for snaps on offense. During his final college season in Miami, Daniels recorded 50 catches for 557 yards and seven touchdowns across 13 games.",
+        "description": "Head coach Sean McVay said Friday that Daniels \"will get an opportunity to play more snaps moving forward,\" Stu Jackson of the Rams' official site reports.",
+        "title": "CJ Daniels - More playing time on tap",
+        "topic_id": "1427091003638050816"
+      },
+      "nfl_team": "LAR",
+      "player_id": "13270",
+      "player_name": "CJ Daniels",
+      "position": "WR",
+      "published": 1794607433000,
+      "source": "rotowire",
+      "source_key": "647554",
+      "story_id": "nfl|13270|rotowire|647554|1794607433000",
+      "title": "CJ Daniels - More playing time on tap",
+      "url": null
+    },
+    {
       "analysis": "Higbee has recovered from the illness that was bothering him earlier in the week and will be good to go for Sunday's game. He hasn't been productive lately but will have a chance to step up and see more work on an injury-riddled Rams' offense in Week 10.",
       "description": "Tyler Higbee (illness) is good to go for Sunday's game against the Arizona Cardinals.",
       "metadata": {
@@ -569,6 +925,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Carolina Panthers wide receiver Jalen Coker has been on a disappointing run the past three weeks, only drawing 14 combined targets and catching seven of them for 74 yards and one touchdown; this after exciting production and a strong target share to begin the season. With tight end Darren Waller's 10-target showing in Week 9, and the potential return of fellow wide receiver Xavier Legette (knee) in Week 10, Coker could see some more target competition, but a substantial increase in targets for him is not outside the realm of possibilities. This Week 10 bout has the makings of a shootout, with both teams towards the top of the league in most points allowed per game. Additionally, QBs Bryce Young and Tyler Shough are tied for first in pass attempts per game. The Saints' defense is middle of the pack in fantasy points per game allowed to wide receivers this season. Coker no doubt remains the number two option in this Panthers' passing game and has a good chance to capitalize in this matchup. Fantasy managers can plug Coker into their lineups as a low-end WR2, WR20 in RotoBaller's Week 10 rankings.",
+      "metadata": {
+        "description": "Carolina Panthers wide receiver Jalen Coker has been on a disappointing run the past three weeks, only drawing 14 combined targets and catching seven of them for 74 yards and one touchdown; this after exciting production and a strong target share to begin the season. With tight end Darren Waller's 10-target showing in Week 9, and the potential return of fellow wide receiver Xavier Legette (knee) in Week 10, Coker could see some more target competition, but a substantial increase in targets for him is not outside the realm of possibilities. This Week 10 bout has the makings of a shootout, with both teams towards the top of the league in most points allowed per game. Additionally, QBs Bryce Young and Tyler Shough are tied for first in pass attempts per game. The Saints' defense is middle of the pack in fantasy points per game allowed to wide receivers this season. Coker no doubt remains the number two option in this Panthers' passing game and has a good chance to capitalize in this matchup. Fantasy managers can plug Coker into their lineups as a low-end WR2, WR20 in RotoBaller's Week 10 rankings.",
+        "title": "Jalen Coker Has Potential for Get-Right Game Against the Saints",
+        "topic_id": "1427174056418902016",
+        "url": "https://www.rotoballer.com/player-news/jalen-coker-has-potential-for-get-right-game-against-the-saints/1993212"
+      },
+      "nfl_team": "CAR",
+      "player_id": "11646",
+      "player_name": "Jalen Coker",
+      "position": "WR",
+      "published": 1794606831000,
+      "source": "rotoballer",
+      "source_key": "227643",
+      "story_id": "nfl|11646|rotoballer|227643|1794606831000",
+      "title": "Jalen Coker Has Potential for Get-Right Game Against the Saints",
+      "url": "https://www.rotoballer.com/player-news/jalen-coker-has-potential-for-get-right-game-against-the-saints/1993212"
+    },
+    {
       "analysis": "Rodriguez was listed as a limited practice participant all week,  but his hand issue is something he'll play through, while working alongside Bhayshul Tuten (ankle/foot), who returned to a limited session Friday and was also cleared for Week 10 action. Rodriguez has 55 carries in eight games to date, while Tuten has logged 122 rushes in that span, but Rodriguez has at least helped out his fantasy managers of late by scoring in each of his last two contests.",
       "description": "Rodriguez (hand) doesn't carry an injury designation for Sunday's game against the Titans, Michael DiRocco of ESPN.com reports.",
       "metadata": {
@@ -587,6 +963,26 @@
       "story_id": "nfl|10219|rotowire|647549|1794606830000",
       "title": "Chris Rodriguez - Cleared to face Titans on Sunday",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Chargers wide receiver Tre' Harris (calf) was upgraded to a full participant during Friday's practice. Harris was limited in practice to begin the week, but he appears to be making good progress. The 24-year-old appears to be on track to suit up against the Baltimore Ravens on Monday Night. If active, Harris will likely play a bigger role than normal with fellow wideout Ladd McConkey (back) trending in the wrong direction. Harris saw seven targets during last week's loss to the Houston Texans. The expectation is that he'll see a similar volume this week. He could be a possible deep league flex option, assuming he doesn't get downgraded during Saturday's practice. Fantasy managers should check back on Saturday, just in case, ahead of Monday's game.",
+      "metadata": {
+        "description": "Los Angeles Chargers wide receiver Tre' Harris (calf) was upgraded to a full participant during Friday's practice. Harris was limited in practice to begin the week, but he appears to be making good progress. The 24-year-old appears to be on track to suit up against the Baltimore Ravens on Monday Night. If active, Harris will likely play a bigger role than normal with fellow wideout Ladd McConkey (back) trending in the wrong direction. Harris saw seven targets during last week's loss to the Houston Texans. The expectation is that he'll see a similar volume this week. He could be a possible deep league flex option, assuming he doesn't get downgraded during Saturday's practice. Fantasy managers should check back on Saturday, just in case, ahead of Monday's game.",
+        "title": "Tre' Harris Practices in Full on Friday",
+        "topic_id": "1427165252692213760",
+        "url": "https://www.rotoballer.com/player-news/tre-harris-practices-in-full-on-friday/1993210"
+      },
+      "nfl_team": "LAC",
+      "player_id": "12509",
+      "player_name": "Tre' Harris",
+      "position": "WR",
+      "published": 1794606733000,
+      "source": "rotoballer",
+      "source_key": "227640",
+      "story_id": "nfl|12509|rotoballer|227640|1794606733000",
+      "title": "Tre' Harris Practices in Full on Friday",
+      "url": "https://www.rotoballer.com/player-news/tre-harris-practices-in-full-on-friday/1993210"
     },
     {
       "analysis": "Mumpfield and Tutu Atwell have taken most of the WR snaps alongside Nacua since Adams landed on injured reserve. It now sounds like Adams may return in a few weeks, while Nacua is out for at least a month and uncertain beyond that. There's a big opportunity ahead, but Mumpfield has been targeted on just 23 of 168 routes (13.7 percent), which is a low rate even for someone sharing the field with Nacua/Adams. Atwell has an even lower target rate (11.6 percent), so the Rams likely need their RBs and TEs to take on more offensive burden in Nacua's absence. While targets aren't assured, Mumpfield does seem like the safest bet to log a lot of WR snaps over the next few weeks.",
@@ -16500,6 +16896,26 @@
       "story_id": "nfl|5892|rotowire|646835|1794257144000",
       "title": "David Montgomery - Could return to practice soon",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams head coach Sean McVay said on Monday that there is \"no doubt about it\" that rookie wide receiver CJ Daniels will be someone who will get more opportunities to see more snaps/field time going forward, according to Stu Jackson of the team's official website. Star wideout Puka Nacua (knee, toe) is expected to join Davante Adams (hamstring) on Injured Reserve, so if the Rams do not pull off a trade for a new receiver before Tuesday's deadline, Daniels, Konata Mumpfield, Tutu Atwell, and Jordan Whittington will all be competing for quarterback Matthew Stafford's attention in elevated offensive roles. The 24-year-old Daniels, who went undrafted, has appeared in only three games so far as a rookie and has played six offensive snaps without a single target. He will have a better chance to put numbers up in the box score this weekend against the division-rival Arizona Cardinals and will be worth a look as a deep-league flier for fantasy managers who are hurting at the position. Daniels is not currently rostered in any Yahoo leagues.",
+      "metadata": {
+        "description": "Los Angeles Rams head coach Sean McVay said on Monday that there is \"no doubt about it\" that rookie wide receiver CJ Daniels will be someone who will get more opportunities to see more snaps/field time going forward, according to Stu Jackson of the team's official website. Star wideout Puka Nacua (knee, toe) is expected to join Davante Adams (hamstring) on Injured Reserve, so if the Rams do not pull off a trade for a new receiver before Tuesday's deadline, Daniels, Konata Mumpfield, Tutu Atwell, and Jordan Whittington will all be competing for quarterback Matthew Stafford's attention in elevated offensive roles. The 24-year-old Daniels, who went undrafted, has appeared in only three games so far as a rookie and has played six offensive snaps without a single target. He will have a better chance to put numbers up in the box score this weekend against the division-rival Arizona Cardinals and will be worth a look as a deep-league flier for fantasy managers who are hurting at the position. Daniels is not currently rostered in any Yahoo leagues.",
+        "title": "Rookie Receiver CJ Daniels Will See More Snaps in Rams Offense",
+        "topic_id": "1425696923439874048",
+        "url": "https://www.rotoballer.com/player-news/no-doubt-about-it-that-rams-rookie-wr-cj-daniels-will-see-more-snaps/1988937"
+      },
+      "nfl_team": "LAR",
+      "player_id": "13270",
+      "player_name": "CJ Daniels",
+      "position": "WR",
+      "published": 1794256820000,
+      "source": "rotoballer",
+      "source_key": "227192",
+      "story_id": "nfl|13270|rotoballer|227192|1794256820000",
+      "title": "Rookie Receiver CJ Daniels Will See More Snaps in Rams Offense",
+      "url": "https://www.rotoballer.com/player-news/no-doubt-about-it-that-rams-rookie-wr-cj-daniels-will-see-more-snaps/1988937"
     },
     {
       "analysis": "Brissett officially landed with the Ravens in a trade with the Cardinals this past Friday, and he's now on track to assume his new team's starting QB role for the foreseeable future. As a result, Joe Fagnano -- who had a spot start in Week 9 -- will revert to backup status. With regard to franchise signal-caller Lamar Jackson (thumb), who currently is on IR, he's indicated that he plans to return later this season. However, he's out for at least three more games, and 4-5 Baltimore's record as the season progresses figures to factor into Jackson's approach to a potential return to action.",
@@ -129350,237 +129766,6 @@
       "story_id": "nfl|11581|rotoballer|224308|1792057474000",
       "title": "MarShawn Lloyd Regains Top Spot in Green Bay's Backfield",
       "url": "https://www.rotoballer.com/player-news/marshawn-lloyd-regains-top-spot-in-green-bays-backfield/1966850"
-    },
-    {
-      "analysis": "Harris is considered week-to-week with a hamstring injury right now, so it's no surprise that he was sidelined at practice on Wednesday. Fantasy managers should look for Quentin Johnston (chest) to see a bit more work if the young wideout is sidelined this week.",
-      "description": "Tre' Harris (hamstring) officially did not take part in Los Angeles' practice on Wednesday.",
-      "metadata": {
-        "analysis": "Harris is considered week-to-week with a hamstring injury right now, so it's no surprise that he was sidelined at practice on Wednesday. Fantasy managers should look for Quentin Johnston (chest) to see a bit more work if the young wideout is sidelined this week.",
-        "description": "Tre' Harris (hamstring) officially did not take part in Los Angeles' practice on Wednesday.",
-        "title": "Tre' Harris (hamstring) officially doesn't practice Wednesday",
-        "topic_id": "1416320005636653056",
-        "url": "https://www.fantasypros.com/nfl/news/613967/tre-harris-hamstring-officially-doesnt-practice-wednesday.php"
-      },
-      "nfl_team": "LAC",
-      "player_id": "12509",
-      "player_name": "Tre' Harris",
-      "position": "WR",
-      "published": 1792039512605,
-      "source": "fantasy_pros",
-      "source_key": "613967",
-      "story_id": "nfl|12509|fantasy_pros|613967|1792039512605",
-      "title": "Tre' Harris (hamstring) officially doesn't practice Wednesday",
-      "url": "https://www.fantasypros.com/nfl/news/613967/tre-harris-hamstring-officially-doesnt-practice-wednesday.php"
-    },
-    {
-      "analysis": "Johnston was not able to play last week due to a chest injury that he's dealing with. He was able to practice on Wednesday, however, which is a good sign that he will be back for Week 6. If he's active, he may see more work than usual if Tre' Harris (hamstring) or Ladd McConkey (foot) are ruled out for Sunday's game.",
-      "description": "Quentin Johnston (chest) was limited at practice on Wednesday.",
-      "metadata": {
-        "analysis": "Johnston was not able to play last week due to a chest injury that he's dealing with. He was able to practice on Wednesday, however, which is a good sign that he will be back for Week 6. If he's active, he may see more work than usual if Tre' Harris (hamstring) or Ladd McConkey (foot) are ruled out for Sunday's game.",
-        "description": "Quentin Johnston (chest) was limited at practice on Wednesday.",
-        "title": "Quentin Johnston (chest) limited at practice Wednesday",
-        "topic_id": "1416320005594710016",
-        "url": "https://www.fantasypros.com/nfl/news/613968/quentin-johnston-chest-limited-practice-wednesday.php"
-      },
-      "nfl_team": "LAC",
-      "player_id": "9754",
-      "player_name": "Quentin Johnston",
-      "position": "WR",
-      "published": 1792039512594,
-      "source": "fantasy_pros",
-      "source_key": "613968",
-      "story_id": "nfl|9754|fantasy_pros|613968|1792039512594",
-      "title": "Quentin Johnston (chest) limited at practice Wednesday",
-      "url": "https://www.fantasypros.com/nfl/news/613968/quentin-johnston-chest-limited-practice-wednesday.php"
-    },
-    {
-      "analysis": "McConkey was unable to see any real action last week due to his foot issue. He was able to practice on Wednesday to start the week this week, but he remained limited due to the same injury. He may play through it in Week 6, but it's hard for fantasy managers to trust starting him at this point in the season, even if his health is improving.",
-      "description": "Ladd McConkey (foot) was officially limited at practice on Wednesday.",
-      "metadata": {
-        "analysis": "McConkey was unable to see any real action last week due to his foot issue. He was able to practice on Wednesday to start the week this week, but he remained limited due to the same injury. He may play through it in Week 6, but it's hard for fantasy managers to trust starting him at this point in the season, even if his health is improving.",
-        "description": "Ladd McConkey (foot) was officially limited at practice on Wednesday.",
-        "title": "Ladd McConkey (foot) officially limited Wednesday",
-        "topic_id": "1416320005481463808",
-        "url": "https://www.fantasypros.com/nfl/news/613972/ladd-mcconkey-foot-officially-limited-wednesday.php"
-      },
-      "nfl_team": "LAC",
-      "player_id": "11635",
-      "player_name": "Ladd McConkey",
-      "position": "WR",
-      "published": 1792039512567,
-      "source": "fantasy_pros",
-      "source_key": "613972",
-      "story_id": "nfl|11635|fantasy_pros|613972|1792039512567",
-      "title": "Ladd McConkey (foot) officially limited Wednesday",
-      "url": "https://www.fantasypros.com/nfl/news/613972/ladd-mcconkey-foot-officially-limited-wednesday.php"
-    },
-    {
-      "analysis": "The veteran is still dealing with his shoulder issue and was limited on Wednesday as a result. He seems likely to play through it in Week 6, however, and will see more work than usual with Terrance Ferguson (ankle) out and Davis Allen (foot) trending towards being sidelined for the Rams.",
-      "description": "Colby Parkinson (shoulder) was limited at practice on Wednesday.",
-      "metadata": {
-        "analysis": "The veteran is still dealing with his shoulder issue and was limited on Wednesday as a result. He seems likely to play through it in Week 6, however, and will see more work than usual with Terrance Ferguson (ankle) out and Davis Allen (foot) trending towards being sidelined for the Rams.",
-        "description": "Colby Parkinson (shoulder) was limited at practice on Wednesday.",
-        "title": "Colby Parkinson (shoulder) limited at practice Wednesday",
-        "topic_id": "1416312454966710272",
-        "url": "https://www.fantasypros.com/nfl/news/613958/colby-parkinson-shoulder-limited-practice-wednesday.php"
-      },
-      "nfl_team": "LAR",
-      "player_id": "6865",
-      "player_name": "Colby Parkinson",
-      "position": "TE",
-      "published": 1792037712384,
-      "source": "fantasy_pros",
-      "source_key": "613958",
-      "story_id": "nfl|6865|fantasy_pros|613958|1792037712384",
-      "title": "Colby Parkinson (shoulder) limited at practice Wednesday",
-      "url": "https://www.fantasypros.com/nfl/news/613958/colby-parkinson-shoulder-limited-practice-wednesday.php"
-    },
-    {
-      "analysis": "Montgomery recently suffered a groin injury and wasn't able to practice on Wednesday, which isn't surprising since he is considered week-to-week at this point. Woody Marks is expected to be Houston's top running back this week and will likely be a viable fantasy option in a matchup against the Jaguars.",
-      "description": "David Montgomery (groin) did not take part in Houston's practice on Wednesday.",
-      "metadata": {
-        "analysis": "Montgomery recently suffered a groin injury and wasn't able to practice on Wednesday, which isn't surprising since he is considered week-to-week at this point. Woody Marks is expected to be Houston's top running back this week and will likely be a viable fantasy option in a matchup against the Jaguars.",
-        "description": "David Montgomery (groin) did not take part in Houston's practice on Wednesday.",
-        "title": "David Montgomery (groin) doesn't practice Wednesday",
-        "topic_id": "1416302387232063488",
-        "url": "https://www.fantasypros.com/nfl/news/613949/david-montgomery-groin-doesnt-practice-wednesday.php"
-      },
-      "nfl_team": "HOU",
-      "player_id": "5892",
-      "player_name": "David Montgomery",
-      "position": "RB",
-      "published": 1792035312051,
-      "source": "fantasy_pros",
-      "source_key": "613949",
-      "story_id": "nfl|5892|fantasy_pros|613949|1792035312051",
-      "title": "David Montgomery (groin) doesn't practice Wednesday",
-      "url": "https://www.fantasypros.com/nfl/news/613949/david-montgomery-groin-doesnt-practice-wednesday.php"
-    },
-    {
-      "analysis": "Penix injured his ribs last week, but it doesn't seem to be a serious issue, as he was able to practice in full on Wednesday and told reporters that he will be 'good to play' this week. He should be available to start for the Falcons, which is great news for the fantasy value of Drake London, Bijan Robinson, and all of Atlanta's skill-position players this week.",
-      "description": "Michael Penix Jr. (ribs) logged a full practice session on Wednesday.",
-      "metadata": {
-        "analysis": "Penix injured his ribs last week, but it doesn't seem to be a serious issue, as he was able to practice in full on Wednesday and told reporters that he will be 'good to play' this week. He should be available to start for the Falcons, which is great news for the fantasy value of Drake London, Bijan Robinson, and all of Atlanta's skill-position players this week.",
-        "description": "Michael Penix Jr. (ribs) logged a full practice session on Wednesday.",
-        "title": "Michael Penix Jr. (ribs) logs full practice Wednesday",
-        "topic_id": "1416302387114622983",
-        "url": "https://www.fantasypros.com/nfl/news/613952/michael-penix-jr-ribs-logs-full-practice-wednesday.php"
-      },
-      "nfl_team": "ATL",
-      "player_id": "11559",
-      "player_name": "Michael Penix",
-      "position": "QB",
-      "published": 1792035312020,
-      "source": "fantasy_pros",
-      "source_key": "613952",
-      "story_id": "nfl|11559|fantasy_pros|613952|1792035312020",
-      "title": "Michael Penix Jr. (ribs) logs full practice Wednesday",
-      "url": "https://www.fantasypros.com/nfl/news/613952/michael-penix-jr-ribs-logs-full-practice-wednesday.php"
-    },
-    {
-      "analysis": "Dell was able to practice in a full capacity on Wednesday and continues to draw closer and closer to a return from a knee injury that has left him sidelined for a significant amount of time. He could play this week, but that isn't likely to be determined until sometime after practice on Friday.",
-      "description": "Tank Dell (knee) practiced in a full capacity on Wednesday.",
-      "metadata": {
-        "analysis": "Dell was able to practice in a full capacity on Wednesday and continues to draw closer and closer to a return from a knee injury that has left him sidelined for a significant amount of time. He could play this week, but that isn't likely to be determined until sometime after practice on Friday.",
-        "description": "Tank Dell (knee) practiced in a full capacity on Wednesday.",
-        "title": "Tank Dell (knee) practices in full Wednesday",
-        "topic_id": "1416299869634646016",
-        "url": "https://www.fantasypros.com/nfl/news/613948/tank-dell-knee-practices-full-wednesday.php"
-      },
-      "nfl_team": "HOU",
-      "player_id": "9502",
-      "player_name": "Tank Dell",
-      "position": "WR",
-      "published": 1792034711808,
-      "source": "fantasy_pros",
-      "source_key": "613948",
-      "story_id": "nfl|9502|fantasy_pros|613948|1792034711808",
-      "title": "Tank Dell (knee) practices in full Wednesday",
-      "url": "https://www.fantasypros.com/nfl/news/613948/tank-dell-knee-practices-full-wednesday.php"
-    },
-    {
-      "analysis": "Nailor is still going through the NFL's concussion protocols and was left sidelined at practice on Wednesday as a result. He is expected to return to practice at some point this week, but it is unclear when that will be exactly or in what capacity. Tre Tucker will see more work if the veteran is sidelined again in Week 6.",
-      "description": "Jalen Nailor (concussion) missed Las Vegas' practice on Wednesday.",
-      "metadata": {
-        "analysis": "Nailor is still going through the NFL's concussion protocols and was left sidelined at practice on Wednesday as a result. He is expected to return to practice at some point this week, but it is unclear when that will be exactly or in what capacity. Tre Tucker will see more work if the veteran is sidelined again in Week 6.",
-        "description": "Jalen Nailor (concussion) missed Las Vegas' practice on Wednesday.",
-        "title": "Jalen Nailor (concussion) misses practice Wednesday",
-        "topic_id": "1416297351538044928",
-        "url": "https://www.fantasypros.com/nfl/news/613941/jalen-nailor-concussion-misses-practice-wednesday.php"
-      },
-      "nfl_team": "LV",
-      "player_id": "8180",
-      "player_name": "Jalen Nailor",
-      "position": "WR",
-      "published": 1792034111445,
-      "source": "fantasy_pros",
-      "source_key": "613941",
-      "story_id": "nfl|8180|fantasy_pros|613941|1792034111445",
-      "title": "Jalen Nailor (concussion) misses practice Wednesday",
-      "url": "https://www.fantasypros.com/nfl/news/613941/jalen-nailor-concussion-misses-practice-wednesday.php"
-    },
-    {
-      "analysis": "There has been some recent speculation that Jeanty is not at full health, but while he is listed on Las Vegas' injury report, he was able to practice in full on Wednesday and should be good to go for Week 6. Fantasy managers should continue to start him, but after a slow start to the season, they should have tempered expectations for his efficiency for the foreseeable future.",
-      "description": "Ashton Jeanty (foot) logged a full practice session on Wednesday.",
-      "metadata": {
-        "analysis": "There has been some recent speculation that Jeanty is not at full health, but while he is listed on Las Vegas' injury report, he was able to practice in full on Wednesday and should be good to go for Week 6. Fantasy managers should continue to start him, but after a slow start to the season, they should have tempered expectations for his efficiency for the foreseeable future.",
-        "description": "Ashton Jeanty (foot) logged a full practice session on Wednesday.",
-        "title": "Ashton Jeanty (foot) logs full practice Wednesday",
-        "topic_id": "1416297351500296192",
-        "url": "https://www.fantasypros.com/nfl/news/613942/ashton-jeanty-foot-logs-full-practice-wednesday.php"
-      },
-      "nfl_team": "LV",
-      "player_id": "12527",
-      "player_name": "Ashton Jeanty",
-      "position": "RB",
-      "published": 1792034111435,
-      "source": "fantasy_pros",
-      "source_key": "613942",
-      "story_id": "nfl|12527|fantasy_pros|613942|1792034111435",
-      "title": "Ashton Jeanty (foot) logs full practice Wednesday",
-      "url": "https://www.fantasypros.com/nfl/news/613942/ashton-jeanty-foot-logs-full-practice-wednesday.php"
-    },
-    {
-      "analysis": "Moore was sidelined at practice on Wednesday. The team held him out due to a shoulder injury that has been bothering him for a while, but it seems likely that he will return to practice on Thursday and play through it in Week 6, assuming he doesn't suffer any setbacks throughout the week.",
-      "description": "DJ Moore (shoulder) did not take part in Buffalo's practice on Wednesday.",
-      "metadata": {
-        "analysis": "Moore was sidelined at practice on Wednesday. The team held him out due to a shoulder injury that has been bothering him for a while, but it seems likely that he will return to practice on Thursday and play through it in Week 6, assuming he doesn't suffer any setbacks throughout the week.",
-        "description": "DJ Moore (shoulder) did not take part in Buffalo's practice on Wednesday.",
-        "title": "DJ Moore (shoulder) doesn't practice Wednesday",
-        "topic_id": "1416297351428993024",
-        "url": "https://www.fantasypros.com/nfl/news/613944/dj-moore-shoulder-doesnt-practice-wednesday.php"
-      },
-      "nfl_team": "BUF",
-      "player_id": "4983",
-      "player_name": "DJ Moore",
-      "position": "WR",
-      "published": 1792034111419,
-      "source": "fantasy_pros",
-      "source_key": "613944",
-      "story_id": "nfl|4983|fantasy_pros|613944|1792034111419",
-      "title": "DJ Moore (shoulder) doesn't practice Wednesday",
-      "url": "https://www.fantasypros.com/nfl/news/613944/dj-moore-shoulder-doesnt-practice-wednesday.php"
-    },
-    {
-      "analysis": "Bowers was limited at Wednesday's practice, which doesn't come as a surprise, as the team has made a habit out of limiting his workload early in the week. He should be available to play in Week 6 and will remain a top-tier fantasy option moving forward.",
-      "description": "Brock Bowers (knee) was limited at practice on Wednesday.",
-      "metadata": {
-        "analysis": "Bowers was limited at Wednesday's practice, which doesn't come as a surprise, as the team has made a habit out of limiting his workload early in the week. He should be available to play in Week 6 and will remain a top-tier fantasy option moving forward.",
-        "description": "Brock Bowers (knee) was limited at practice on Wednesday.",
-        "title": "Brock Bowers (knee) limited at practice Wednesday",
-        "topic_id": "1416294836968890368",
-        "url": "https://www.fantasypros.com/nfl/news/613939/brock-bowers-knee-limited-practice-wednesday.php"
-      },
-      "nfl_team": "LV",
-      "player_id": "11604",
-      "player_name": "Brock Bowers",
-      "position": "TE",
-      "published": 1792033511924,
-      "source": "fantasy_pros",
-      "source_key": "613939",
-      "story_id": "nfl|11604|fantasy_pros|613939|1792033511924",
-      "title": "Brock Bowers (knee) limited at practice Wednesday",
-      "url": "https://www.fantasypros.com/nfl/news/613939/brock-bowers-knee-limited-practice-wednesday.php"
     }
   ]
 }
