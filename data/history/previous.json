@@ -22887,7 +22887,7 @@
       ],
       "first_name": "David",
       "full_name": "David Montgomery",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Montgomery",
       "nfl_team": "HOU",
       "player_id": "5892",
@@ -23342,7 +23342,7 @@
       "nfl_team": "NO",
       "player_id": "7543",
       "position": "RB",
-      "status": "Inactive",
+      "status": "Active",
       "years_exp": 5
     },
     "7547": {
@@ -23487,7 +23487,7 @@
       ],
       "first_name": "Pat",
       "full_name": "Pat Freiermuth",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Freiermuth",
       "nfl_team": "PIT",
       "player_id": "7600",
@@ -23847,7 +23847,7 @@
       ],
       "first_name": "Kenneth",
       "full_name": "Kenneth Walker III",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Walker III",
       "nfl_team": "KC",
       "player_id": "8151",
@@ -24718,8 +24718,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-14T09:43:17Z",
-    "source_fingerprint": "b83d4529022508a60f7e97cd735d700a3e571790aa27d9503b77f400498a08fc"
+    "last_changed_at": "2026-11-14T20:41:21Z",
+    "source_fingerprint": "907c39f4ccdad7ddbe22ad3312694997862ec08a7ea1168e4e397f2c311364ba"
   },
   "teams": [
     {
