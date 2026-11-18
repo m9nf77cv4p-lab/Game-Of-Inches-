@@ -2,57 +2,88 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6320**
-- Newly captured: **31**
+- Stored stories: **6212**
+- Newly captured: **25**
 
 ## Latest news
 
-- **NEW — Demarcus Robinson** — Demarcus Robinson - Catchless in Week 10 win (2026-11-18T02:45:18Z)
+- **Demarcus Robinson** — Demarcus Robinson - Catchless in Week 10 win (2026-11-18T02:45:18Z)
   - Robinson's snap count was fourth-most among San Francisco's wide receivers, but his role in the offense shrunk due to the return of Deebo Samuel and the acquisition of Keenan Allen at the Nov. 10 trade deadline. Brandin Cooks (coach's decision) was a healthy scratch for Week 10, and Robinson could join the former on the sidelines for Week 11 against the Vikings on Nov. 22, if veteran wide receiver Mike Evans (Achilles) is cleared to return for that contest.
-- **NEW — Kyle Williams** — Kyle Williams - Zero catches in Munich (2026-11-18T02:08:14Z)
+- **Kyle Williams** — Kyle Williams - Zero catches in Munich (2026-11-18T02:08:14Z)
   - Williams did have a 21-yard carry late in the third quarter, although the play was nullified by offsetting penalties. It was the second straight game that the second-year wide receiver did not record a catch and the fifth time in 10 regular-season contests. New England is on a bye for Week 11, but the offense's outlook looks grim given that franchise quarterback Drake Maye is expected to miss time due to an ankle injury that he sustained in the first quarter of Sunday's game. The Patriots' next game takes place in Week 12 against the Chargers on Sunday, Nov. 29.
-- **NEW — Efton Chism III** — Efton Chism - Held catchless against Lions (2026-11-18T02:02:45Z)
+- **Efton Chism III** — Efton Chism - Held catchless against Lions (2026-11-18T02:02:45Z)
   - A.J. Brown (hamstring) returned from a two-game absence caused by ankle and knee injuries in Week 10, and as a result, Chism saw his lowest snap count this season (8) since he was a healthy scratch in Week 1. His role coming out of the Patriots' bye in Week 11 will probably depend heavily on the availability of Brown, who picked up a hamstring issue against the Lions.
-- **NEW — Jack Bech** — Jack Bech - Does little with season-high seven targets (2026-11-18T01:46:42Z)
+- **Jack Bech** — Jack Bech - Does little with season-high seven targets (2026-11-18T01:46:42Z)
   - Bech was the favorite target of rookie first-overall pick Fernando Mendoza, who was making his first career start Sunday after the Raiders shipped Kirk Cousins to the Vikings at the Nov. 10 trade deadline. Bech's seven targets were a season high, but he mustered only two catches for his efforts, and he failed to connect on each of the last four passes he saw from Mendoza in the fourth quarter. The volume appears to be there for Bech, and he could take on a larger role offensively in Week 11 against the Broncos on Nov. 22 if star tight end Brock Bowers (ankle) is unable to play.
-- **NEW — Reggie Virgil** — Reggie Virgil - Zero targets in Week 10 loss (2026-11-18T01:28:13Z)
+- **Reggie Virgil** — Reggie Virgil - Zero targets in Week 10 loss (2026-11-18T01:28:13Z)
   - The Cardinals' offense struggled in its first game this season with rookie third-round quarterback Carson Beck under center, and Arizona finished with a 17:37 time of possession. That meant less opportunities for Virgil and the rest of the Cardinals pass catchers, and even star tight end Trey McBride finished with only five catches on as many targets for 37 yards. It's hard to put much trust into Virgil and the rest of the Cardinals skill-position players (other than McBride), especially with the team heading into a tough Week 11 road tilt against the Chiefs.
-- **NEW — Zonovan Knight** — Bam Knight - Logs five carries in return (2026-11-18T01:10:22Z)
+- **NEW — Jake Ferguson** — Jake Ferguson Has Been Incredibly Disappointing in 2026 (2026-11-18T01:15:16Z)
+  - Source: https://www.rotoballer.com/player-news/jake-ferguson-has-been-incredibly-disappointing-in-2026/1996900
+- **Zonovan Knight** — Bam Knight - Logs five carries in return (2026-11-18T01:10:22Z)
   - Knight was cleared to return for Week 10 from a one-game absence while in the league's concussion protocol. His 19 snaps were actually ahead of fellow running back Tyler Allgeier (16), with the duo each logging five carries, although the Cardinals logged only 35 offensive snaps for the entire game and finished with a measly 17:37 time of possession. It was Arizona's first game with rookie third-rounder Carson Beck under center, and Knight and the offense will have its hands full in Week 11 against Kansas City, whose defense ranks eighth in the NFL in yards allowed per game (314.8).
-- **NEW — Ashton Dulin** — Ashton Dulin - Hauls in 30-yard catch vs. Miami (2026-11-18T00:51:41Z)
+- **Ashton Dulin** — Ashton Dulin - Hauls in 30-yard catch vs. Miami (2026-11-18T00:51:41Z)
   - Even with Josh Downs and Keenan Allen being sent out at the Nov. 10 trade deadline, Dulin's 13 offensive snaps were fourth-most among Colts wide receivers behind Laquon Treadwell (52), Deion Burks (34) and Anthony Gould (32). Dulin did connect on a 30-yard pass from Daniel Jones on a 30-yard pass late in the second quarter, which was a pivotal part of the Colts' nine-play, 92-yard drive that ended with a seven-yard touchdown catch by Treadwell. Dulin has logged catches of 55 and 30 yards in each of his last two outings, and he could be the Colts' WR3 for Thursday's AFC South tilt against the Texans if Gould is not cleared to play due to a toe injury.
-- **NEW — Justice Hill** — Justice Hill - Churns out 37 yards in Week 10 loss (2026-11-18T00:33:34Z)
+- **NEW — Dontayvion Wicks** — Dontayvion Wicks Slipping Out of the Eagles' Plans After Injury? (2026-11-18T00:47:14Z)
+  - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-slipping-out-of-the-eagles-plans-after-injury/1996897
+- **NEW — Jalon Daniels** — Jalon Daniels could start in Week 11 for Buccaneers  (2026-11-18T00:35:48.582000Z)
+  - The status of Baker Mayfield is unclear as he deals with a foot strain. He'll need to be monitored in practice the rest of the week. 
+  - Source: https://www.fantasypros.com/nfl/news/620877/jalon-daniels-could-start-week-11-buccaneers.php
+- **Justice Hill** — Justice Hill - Churns out 37 yards in Week 10 loss (2026-11-18T00:33:34Z)
   - Hill also had a 14-yard carry midway through the first quarter, but the play was nullified by an offensive holding call. The veteran running back connected on a 17-yard catch with Jacoby Brissett late in the third, which set up a 36-yard field goal by Riley Patterson four plays later. Hill's five catches were a season high, and even with the Ravens' quarterback carousel over the last three weeks, the 2019 fourth-rounder has hauled in at least three passes in each of his last five outings. Losers of five straight games, the Ravens will look to turn their fortunes around in a Week 11 road tilt against the Panthers on Sunday.
-- **NEW — Baker Mayfield** — Baker Mayfield (foot) uncertain for Week 11 (2026-11-18T00:25:48.923000Z)
+- **NEW — Saquon Barkley** — Saquon Barkley Trending Down as Eagles' Offense Struggles (2026-11-18T00:33:17Z)
+  - Source: https://www.rotoballer.com/player-news/saquon-barkley-trending-down-as-eagles-offense-struggles/1996892
+- **Baker Mayfield** — Baker Mayfield (foot) uncertain for Week 11 (2026-11-18T00:25:48.923000Z)
   - Mayfield will need to be monitored in practice this week. If he sits, Jalon Daniels would start on Sunday against the Lions. 
   - Source: https://www.fantasypros.com/nfl/news/620876/baker-mayfield-foot-uncertain-week-11.php
-- **NEW — Kenneth Walker III** — Kenneth Walker III (groin) could sit Week 11 (2026-11-18T00:25:48.722000Z)
+- **Kenneth Walker III** — Kenneth Walker III (groin) could sit Week 11 (2026-11-18T00:25:48.722000Z)
   - The Chiefs enter this week as huge favorites against the Cardinals. Emmett Johnson could get another week to be in the workhorse role in the Chiefs backfield. 
   - Source: https://www.fantasypros.com/nfl/news/620875/kenneth-walker-iii-groin-could-sit-week-11.php
-- **NEW — Oronde Gadsden** — Oronde Gadsden - Only one catch in Week 10 win (2026-11-18T00:24:07Z)
+- **Oronde Gadsden** — Oronde Gadsden - Only one catch in Week 10 win (2026-11-18T00:24:07Z)
   - Gadsden went to the locker room during the first half of Monday's game after being poked in the ye, but the second-year tight end was cleared to return for the second quarter. However, his 12 offensive snaps were his lowest since Week 1 against the Cardinals (10), and that lack of playing time coincided with the return of veteran tight end David Njoku, who missed the Chargers' six prior games while on IR due to a fibula injury. Njoku and Charlie Kolar appear to be the Chargers' top options at tight end, and the return of the latter has squeezed Gadsden out of the gameplan ahead of Week 11 against the Jets on Sunday.
-- **NEW — Keaton Mitchell** — Keaton Mitchell - Minimal impact in Week 10 win (2026-11-18T00:06:20Z)
+- **Keaton Mitchell** — Keaton Mitchell - Minimal impact in Week 10 win (2026-11-18T00:06:20Z)
   - One of Mitchell's carries went for 11 yards, but his other two rushes went for minus-five and minus-two yards, and all of those touches came on the same drive in the second quarter. His 13 offensive snaps were third-most among Chargers running backs behind Kimani Vidal (15) and Omarion Hampton (36), and it was Hampton that commanded the majority of backfield touches, finishing with 22 carries for 105 yards and a touchdown. Mitchell has logged four carries or fewer in three of his last four outings, and he'll continue to operate in a rotational role on offense heading into the Chargers' Week 11 home tilt against the Jets on Sunday.
-- **NEW — Baker Mayfield** — Baker Mayfield - 'Trending' toward sitting Week 11 (2026-11-17T22:48:21Z)
+- **NEW — C.J. Stroud** — C.J. Stroud Continues to Put Together a Strong 2026 Campaign (2026-11-17T23:14:14Z)
+  - Source: https://www.rotoballer.com/player-news/c-j-stroud-continues-to-put-together-strong-2026-campaign/1996848
+- **NEW — Stefon Diggs** — Stefon Diggs Continues to Lead Washington's Wide Receiver Corps (2026-11-17T22:59:14Z)
+  - Source: https://www.rotoballer.com/player-news/stefon-diggs-continues-to-lead-washingtons-wide-receiver-corps/1996843
+- **Baker Mayfield** — Baker Mayfield - 'Trending' toward sitting Week 11 (2026-11-17T22:48:21Z)
   - Coming out of a Week 10 bye, the Buccaneers have yet to provide official word on the status of Mayfield, whom Rapoport relays sustained a foot strain late in a Nov. 8 loss to the Bears that had relegated him to a walking boot over the past week. Given that Mayfield has shown a willingness to playing through injuries in the past, the Buccaneers will likely wait and see how he progresses as the week rolls along before making a decision on his status for Sunday, but Daniels looks like the early favorite to direct the Tampa Bay offense in Detroit. Daniels previously made starts from Weeks 4 through 6 while Mayfield was sidelined for all three games due to a dislocated right thumb.
-- **NEW — Marvin Harrison Jr.** — Marvin Harrison - Sits out practice again (2026-11-17T22:01:04Z)
+- **NEW — Dallas Goedert** — Dallas Goedert Remains Productive for Eagles Despite Revolving Door of QBs (2026-11-17T22:48:11Z)
+  - Source: https://www.rotoballer.com/player-news/dallas-goedert-remains-productive-for-eagles-despite-revolving-door-of-qbs/1996837
+- **NEW — Jalon Daniels** — Jalon Daniels - Could be headed for Week 11 start (2026-11-17T22:42:50Z)
+  - Mayfield injured his foot late in a Week 9 loss to the Bears, and after he was in and out of a walking boot during the Buccaneers' Week 10 bye, his status is firmly up in the air for Week 11. Since Mayfield has shown a willingness to play at well below 100 percent in the past, the Buccaneers will likely wait until the end of the week to see where he stands on the health front before naming a starter for Sunday, but Daniels at least appears poised to take some reps with the first-team offense when the team returns to practice Wednesday. When Mayfield was previously sidelined from Weeks 4 through 6 due to a dislocated thumb, Daniels stepped in as the starter and guided Tampa Bay to a 1-2 record while completing 60 of 95 passes (63.2 percent) for 501 yards, three touchdowns and four interceptions to go with 117 yards on 19 carries.
+- **NEW — Isaiah Likely** — Isaiah Likely Has Become One of the Best Tight Ends in Fantasy Football (2026-11-17T22:33:11Z)
+  - Source: https://www.rotoballer.com/player-news/isaiah-likely-has-become-one-of-the-best-tight-ends-in-fantasy-football/1996835
+- **NEW — Brian Thomas Jr.** — Brian Thomas Jr.'s Low Production Makes Him a Cut Candidate (2026-11-17T22:20:18Z)
+  - Source: https://www.rotoballer.com/player-news/brian-thomas-jr-s-low-production-makes-him-a-cut-candidate-in-most-leagues/1996825
+- **NEW — TreVeyon Henderson** — TreVeyon Henderson an Obvious Cut Candidate After Landing on IR (2026-11-17T22:10:14Z)
+  - Source: https://www.rotoballer.com/player-news/treveyon-henderson-an-obvious-cut-candidate-after-landing-on-ir/1996816
+- **NEW — Tre Tucker** — Tre Tucker Needs to Develop Chemistry With New QB (2026-11-17T22:02:14Z)
+  - Source: https://www.rotoballer.com/player-news/tre-tucker-needs-to-develop-chemistry-with-new-qb/1996809
+- **NEW — Chris Godwin Jr.** — Chris Godwin Jr. is Becoming a Drop Candidate (2026-11-17T22:01:15Z)
+  - Source: https://www.rotoballer.com/player-news/chris-godwin-jr-is-becoming-drop-candidate/1996807
+- **Marvin Harrison Jr.** — Marvin Harrison - Sits out practice again (2026-11-17T22:01:04Z)
   - While the Texans haven't provided a definitive word on Harrison's status for Thursday's game against the Colts, Aaron Wilson of KPRC 2 Houston relays that the 24-year-old wideout is trending toward missing a second straight contest now that he's yet to practice in any fashion this week. Since being acquired from the Cardinals in October, Harrison has suited up in three games for Houston and has recorded six catches for 60 yards and a touchdown on 11 targets.
-- **NEW — Woody Marks** — Woody Marks - Sits out another practice (2026-11-17T21:59:34Z)
+- **Woody Marks** — Woody Marks - Sits out another practice (2026-11-17T21:59:34Z)
   - Marks' continued absence at practice comes as little surprise after he entered concussion protocol upon sustaining a head injury in Sunday's 27-24 loss to the Browns. Head coach DeMeco Ryans has already indicated that Marks is unlikely to clear the five-step protocol ahead of Thursday's game against the Colts, so expect the second-year back to get formally ruled out for the Week 11 contest following Wednesday's practice.
-- **NEW — Devaughn Vele** — Devaughn Vele Fading to WR3 Role After Rookie's Return (2026-11-17T21:41:12Z)
+- **NEW — Germie Bernard** — Germie Bernard's Slump Continues With Reinforcements Coming (2026-11-17T21:53:48Z)
+  - Source: https://www.rotoballer.com/player-news/germie-bernard-is-falling-with-teammate-returning-soon/1996801
+- **NEW — J.K. Dobbins** — J.K. Dobbins No Longer the Lead Back in Denver (2026-11-17T21:52:12Z)
+  - Source: https://www.rotoballer.com/player-news/j-k-dobbins-no-longer-the-lead-back-in-denver/1996799
+- **Devaughn Vele** — Devaughn Vele Fading to WR3 Role After Rookie's Return (2026-11-17T21:41:12Z)
   - Source: https://www.rotoballer.com/player-news/devaughn-vele-fading-to-wr3-role-after-rookies-return/1996792
-- **NEW — Xavier Worthy** — Xavier Worthy a Drop Candidate Following Zero-Catch Performance (2026-11-17T21:39:14Z)
+- **Xavier Worthy** — Xavier Worthy a Drop Candidate Following Zero-Catch Performance (2026-11-17T21:39:14Z)
   - Source: https://www.rotoballer.com/player-news/xavier-worthy-is-drop-candidate-following-zero-catch-performance/1996790
-- **NEW — Jordan Addison** — Jordan Addison a Cut Candidate if he Lands on IR (2026-11-17T21:32:14Z)
+- **Jordan Addison** — Jordan Addison a Cut Candidate if he Lands on IR (2026-11-17T21:32:14Z)
   - Source: https://www.rotoballer.com/player-news/jordan-addison-a-cut-candidate-if-he-lands-on-ir/1996787
-- **NEW — Audric Estime** — Audric Estime is Safe to Drop with Teammate Returning (2026-11-17T21:28:16Z)
+- **Audric Estime** — Audric Estime is Safe to Drop with Teammate Returning (2026-11-17T21:28:16Z)
   - Source: https://www.rotoballer.com/player-news/audric-estime-is-safe-to-drop-with-teammate-returning/1996784
-- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson - Heads to IR with ankle injury (2026-11-17T21:26:27Z)
+- **Wan'Dale Robinson** — Wan'Dale Robinson - Heads to IR with ankle injury (2026-11-17T21:26:27Z)
   - Tennessee hasn't provided word on the severity of the ankle injury that Robinson sustained in the second half of this past Sunday's 40-23 loss to the Jaguars, but his move to IR ensures that he'll be sidelined for at least the next four games. While Robinson is out, Elic Ayomanor and Chimere Dike should be locked into top-three roles at receiver alongside rookie first-round pick Carnell Tate (shoulder), who has missed the past two contests but is expected back for a Week 11 matchup with Dallas. The Titans signed Xavier Restrepo off the practice squad to replace Robinson on the 53-man roster and bolster their depth at receiver.
-- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson (ankle) placed on Injured Reserve (2026-11-17T21:20:47.821000Z)
+- **Wan'Dale Robinson** — Wan'Dale Robinson (ankle) placed on Injured Reserve (2026-11-17T21:20:47.821000Z)
   - With Robinson out, the Titans promoted Xavier Restrepo to the active roster. Robinson will miss a minimum of four games. Restrepo on the other hand, could see some PPR viability as a primary slot receiver.
   - Source: https://www.fantasypros.com/nfl/news/620826/wandale-robinson-ankle-placed-on-injured-reserve.php
-- **NEW — DeMario Douglas** — DeMario Douglas a Cut Candidate Following QB Injury (2026-11-17T21:19:14Z)
+- **DeMario Douglas** — DeMario Douglas a Cut Candidate Following QB Injury (2026-11-17T21:19:14Z)
   - Source: https://www.rotoballer.com/player-news/demario-douglas-is-cut-candidate-following-quarterback-injury/1996774
 - **Kyle Monangai** — Kyle Monangai (thumb/toe) practices Tuesday  (2026-11-17T21:10:47.451000Z)
   - Monangai continues to trend towards returning on Sunday against the Bucs. 
@@ -78,21 +109,21 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Luther Burden III** — Luther Burden III clears concussion protocol  (2026-11-17T18:25:46.721000Z)
   - Burden suffered the injury two weeks ago before the Bears bye week. He'll be good to go for Sunday's game against the Saints. 
   - Source: https://www.fantasypros.com/nfl/news/620803/luther-burden-iii-clears-concussion-protocol.php
-- **NEW — Drake Maye** — It Would be "Surprising" if Drake Maye Returns This Season (2026-11-17T18:23:55Z)
+- **Drake Maye** — It Would be "Surprising" if Drake Maye Returns This Season (2026-11-17T18:23:55Z)
   - Source: https://www.rotoballer.com/player-news/it-would-be-surprising-if-drake-maye-returns-this-season/1996635
 - **Luther Burden III** — Luther Burden - Clears concussion protocol (2026-11-17T18:22:37Z)
   - Burden's status was up in the air for a bit with the Bears going on bye immediately after he sustained a concussion in a Week 9 win over the  Buccaneers, but he was spotted working out on the field with teammates Monday and has apparently cleared all five phases of the protocol. The second-year wideout looks like he'll be a full practice participant throughout Week 11, and he shouldn't face any playing-time limitations in Sunday's game versus the Saints.
-- **NEW — Baker Mayfield** — Baker Mayfield "Seems" to be Trending Towards Sitting in Week 11 (2026-11-17T17:55:32Z)
+- **Baker Mayfield** — Baker Mayfield "Seems" to be Trending Towards Sitting in Week 11 (2026-11-17T17:55:32Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-seems-to-be-trending-towards-sitting-out-in-week-11/1996616
-- **NEW — Sam Darnold** — Seahawks Will Stick With Sam Darnold as Starting QB (2026-11-17T17:46:18Z)
+- **Sam Darnold** — Seahawks Will Stick With Sam Darnold as Starting QB (2026-11-17T17:46:18Z)
   - Source: https://www.rotoballer.com/player-news/seahawks-will-stick-with-sam-darnold-as-starting-qb-out-of-bye-week/1996613
 - **David Montgomery** — David Montgomery - Taking part in practice Tuesday (2026-11-17T17:39:26Z)
   - Listed as a full participant Monday for a walk-through session, Montgomery will take part in a proper practice Tuesday. According to Wilson, Montgomery is "feeling and moving a lot better" compared to previous weeks, so assuming he emerges from Tuesday's session no worse for the wear, the 29-year-old will likely lead the Houston backfield Thursday against the Colts in his first appearance since Week 5. Before missing time with the groin injury, Montgomery had fallen into a timeshare with Woody Marks after averaging just 2.7 yards per carry through the Texans' first five contests. Montgomery may not face much competition for reps in Week 11 with Marks tracking toward sitting out after sustaining a concussion in Sunday's 27-24 loss to the Browns.
-- **NEW — Kenneth Walker III** — Kenneth Walker May Sit Another Week (2026-11-17T17:37:12Z)
+- **Kenneth Walker III** — Kenneth Walker May Sit Another Week (2026-11-17T17:37:12Z)
   - Source: https://www.rotoballer.com/player-news/kenneth-walker-may-sit-another-week/1996603
-- **NEW — Marvin Harrison Jr.** — Marvin Harrison Jr. Misses Another Practice on Tuesday (2026-11-17T17:28:16Z)
+- **Marvin Harrison Jr.** — Marvin Harrison Jr. Misses Another Practice on Tuesday (2026-11-17T17:28:16Z)
   - Source: https://www.rotoballer.com/player-news/marvin-harrison-jr-misses-another-practice-on-tuesday/1996606
-- **NEW — Woody Marks** — Woody Marks Remains Out on Tuesday (2026-11-17T17:19:15Z)
+- **Woody Marks** — Woody Marks Remains Out on Tuesday (2026-11-17T17:19:15Z)
   - Source: https://www.rotoballer.com/player-news/woody-marks-remains-out-on-tuesday/1996600
 - **Woody Marks** — Woody Marks (concussion) ruled out for Week 11 (2026-11-17T16:50:46.755000Z)
   - Marks left this past week's game with a concussion. He will be sidelined on a short week for the Texans. 
@@ -100,11 +131,11 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Marvin Harrison Jr.** — Marvin Harrison Jr. (hamstring) not practicing Tuesday  (2026-11-17T16:50:46.724000Z)
   - Harrison is continuing to trend towards remaining sidelined on a short week for the Texans. 
   - Source: https://www.fantasypros.com/nfl/news/620780/marvin-harrison-jr-hamstring-not-practicing-tuesday.php
-- **NEW — Wan'Dale Robinson** — Wan'Dale Robinson Placed on Injured Reserve (2026-11-17T16:27:16Z)
+- **Wan'Dale Robinson** — Wan'Dale Robinson Placed on Injured Reserve (2026-11-17T16:27:16Z)
   - Source: https://www.rotoballer.com/player-news/wandale-robinson-placed-on-injured-reserve/1996551
-- **NEW — Jayden Daniels** — Jayden Daniels Could Be Poised for a Big Close to the 2026 Season (2026-11-17T16:18:27Z)
+- **Jayden Daniels** — Jayden Daniels Could Be Poised for a Big Close to the 2026 Season (2026-11-17T16:18:27Z)
   - Source: https://www.rotoballer.com/player-news/jayden-daniels-could-be-poised-for-a-big-close-to-the-2026-season/1996560
-- **NEW — Kyle Monangai** — Kyle Monangai Practices for Second Straight Day Tuesday (2026-11-17T16:16:34Z)
+- **Kyle Monangai** — Kyle Monangai Practices for Second Straight Day Tuesday (2026-11-17T16:16:34Z)
   - Source: https://www.rotoballer.com/player-news/kyle-monangai-toe-thumb-at-practice-again-thursday/1996532
 - **Cam Skattebo** — Cam Skattebo Re-Emerging as a Must-Start Running Back (2026-11-17T16:09:14Z)
   - Source: https://www.rotoballer.com/player-news/cam-skattebo-re-emerging-as-a-must-start-running-back/1996546
@@ -187,8 +218,12 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/620703/quentin-johnston-quiet-win-monday.php
 - **Jonah Coleman** — Jonah Coleman Primed for Big Second Half of Rookie Season (2026-11-17T12:42:15Z)
   - Source: https://www.rotoballer.com/player-news/jonah-coleman-primed-for-big-second-half-of-rookie-season/1996327
+- **NEW — Jalon Daniels** — Jalon Daniels Trending Toward Starting in Week 11 (2026-11-17T12:25:32Z)
+  - Source: https://www.rotoballer.com/player-news/jalon-daniels-trending-toward-starting-in-week-11/1996300
 - **Baker Mayfield** — Baker Mayfield's Foot Injury Limits His Week 11 Waiver Appeal (2026-11-17T12:18:23Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfields-foot-injury-limits-his-week-11-waiver-appeal/1996293
+- **NEW — Emari Demercado** — Emari Demercado Could See Workhorse Role in Week 11 (2026-11-17T12:11:15Z)
+  - Source: https://www.rotoballer.com/player-news/emari-demercado-could-see-workhorse-role-in-week-11/1996291
 - **Jaylen Waddle** — Jaylen Waddle's Fantasy Value Continues to Plummet (2026-11-17T11:59:13Z)
   - Source: https://www.rotoballer.com/player-news/jaylen-waddles-fantasy-value-continues-to-plummet-amid-limited-opportunities/1996284
 - **Emeka Egbuka** — Emeka Egbuka's Underwhelming Season Continues (2026-11-17T11:50:11Z)
@@ -199,38 +234,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/justice-hill-offers-ppr-depth-and-backfield-insurance/1996270
 - **DeVonta Smith** — DeVonta Smith's Rest-of-Season Fantasy Outlook Remains Uncertain (2026-11-17T11:25:54Z)
   - Source: https://www.rotoballer.com/player-news/devonta-smiths-rest-of-season-fantasy-outlook-remains-uncertain-amid-injury-and-quarterback-concerns/1996261
-- **Cam Ward** — Cam Ward Takes His Passing Surge to Dallas in Week 11 (2026-11-17T11:23:48Z)
-  - Source: https://www.rotoballer.com/player-news/cam-ward-takes-his-passing-surge-to-dallas-in-week-11/1996259
-- **Fernando Mendoza** — Fernando Mendoza Emerges as a Must-Add in Superflex Formats (2026-11-17T11:16:31Z)
-  - Source: https://www.rotoballer.com/player-news/fernando-mendoza-emerges-as-a-must-add-in-superflex-formats-following-encouraging-nfl-debut/1996256
-- **Joe Milton** — Joe Milton III's Rushing Gives Him Week 11 Superflex Appeal (2026-11-17T11:11:17Z)
-  - Source: https://www.rotoballer.com/player-news/joe-milton-iiis-rushing-gives-him-week-11-superflex-appeal/1996250
-- **Aaron Rodgers** — Aaron Rodgers Retains Streaming Value Despite Some Week 10 Struggles (2026-11-17T10:56:11Z)
-  - Source: https://www.rotoballer.com/player-news/aaron-rodgers-retains-streaming-value-despite-some-week-10-struggles/1996243
-- **Ashton Dulin** — Ashton Dulin Carries Deep-League Value After Week 10 (2026-11-17T10:41:11Z)
-  - Source: https://www.rotoballer.com/player-news/ashton-dulin-carries-deep-league-value-after-week-10/1996235
-- **Travis Hunter** — Travis Hunter Offers Some Deep-League Appeal Going into Week 11 (2026-11-17T10:27:14Z)
-  - Source: https://www.rotoballer.com/player-news/travis-hunter-offers-some-deep-league-appeal-going-into-week-11/1996227
-- **CJ Daniels** — CJ Daniels a Deep-League Possibility Until LA is Healthier (2026-11-17T10:21:16Z)
-  - Source: https://www.rotoballer.com/player-news/cj-daniels-a-deep-league-possibility-until-la-is-healthier/1996222
-- **Josh Cameron** — Josh Cameron Gaining Fantasy Traction After Week 10 (2026-11-17T10:11:19Z)
-  - Source: https://www.rotoballer.com/player-news/josh-cameron-gaining-fantasy-traction-after-week-10/1996216
-- **Reggie Virgil** — Reggie Virgil Worth Watching in Deeper Leagues (2026-11-17T10:07:15Z)
-  - Source: https://www.rotoballer.com/player-news/reggie-virgil-worth-watching-in-deeper-leagues/1996210
-- **Cyrus Allen** — Cyrus Allen a Speculative Pickup in Deep Leagues (2026-11-17T09:39:12Z)
-  - Source: https://www.rotoballer.com/player-news/cyrus-allen-a-speculative-pickup-in-deep-leagues/1996175
-- **Tutu Atwell** — Tutu Atwell Can Be a Deep-League Option After Bye Week (2026-11-17T09:28:18Z)
-  - Source: https://www.rotoballer.com/player-news/tutu-atwell-can-be-a-deep-league-option-after-bye-week/1996163
-- **Baker Mayfield** — Buccaneers Not Confident Baker Mayfield Will Play in Week 11 (2026-11-17T09:14:17Z)
-  - Source: https://www.rotoballer.com/player-news/bucs-not-confident-baker-mayfield-plays-in-week-11/1996029
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) uncertain on practicing this week (2026-11-17T07:20:43.481000Z)
-  - Croskey-Merritt is eligible to have his practice window opened this week. 
-  - Source: https://www.fantasypros.com/nfl/news/620696/jacory-croskey-merritt-groin-uncertain-on-practicing-this-week.php
-- **Rashod Bateman** — Rashod Bateman - Solid production with three catches (2026-11-17T06:09:39Z)
-  - Bateman put together a solid performance during his first opportunity to work with Jacoby Brissett, posting his best receiving yardage total since Week 5. The veteran wideout also recorded multiple receptions for the first time in three games, and two of his three catches went for first downs. Bateman seemed to lay a solid foundation with his new signal-caller, and he'll look to continue building on it in a Week 11 road matchup against the Panthers.
-- **Ja'Kobi Lane** — Ja'Kobi Lane - Career-high yardage total in loss (2026-11-17T06:03:07Z)
-  - Lane was far from efficient during his first opportunity to work with new quarterback Jacoby Brissett, but he parlayed his career-high target total into a career-best yardage tally. The fact the rookie third-round pick garnered so much of Brissett's attention was certainly encouraging, and Lane could emerge as a much more consistent No. 3 option in the offense in coming weeks.
-- **Quentin Johnston** — Quentin Johnston - One reception in Week 10 win (2026-11-17T05:58:48Z)
-  - The speedster was poised to see some added involvement with Ladd McConkey (back) sidelined, but that never materialized on a  night when 86 of Justin Herbert's 129 passing yards went to Tre' Harris. Johnston's yardage total was a season-low figure, and he's now been limited to one reception in four of the last five games. Johnston's often been able to offset the modest catch totals with big plays, but that clearly wasn't the case Monday night. Johnston will remain a hit-or-miss fantasy option in a Week 11 home matchup against the Jets on Sunday, irrespective of McConkey's availability.
-- **Tre' Harris** — Tre' Harris - Career-best yardage total in win (2026-11-17T05:53:43Z)
-  - With Ladd McConkey (back) sidelined, Harris functioned as a de facto top target for Justin Herbert, and he was responsible for all but 43 of his quarterback's passing yards. The yardage tally was also a career-high figure for Harris, who generated team-high totals with all three components of his receiving line. Harris is up to a career-high 348 receiving yards on 26 catches heading into a favorable Week 11 home matchup against the Jets on Sunday.
