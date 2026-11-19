@@ -3,7 +3,7 @@
 - Team: **It Hurts So Good**
 - Manager: **TJS2025**
 - Roster ID: **5**
-- Players: **24**
+- Players: **25**
 - Taxi: **1**
 - Reserve/IR: **3**
 
@@ -31,6 +31,7 @@
 - Elic Ayomanor — WR — TEN
 - Jahan Dotson — WR — ATL
 - Jalen Nailor — WR — LV
+- Kalif Raymond — WR — CHI
 - Pat Bryant — WR — DEN
 - Xavier Hutchinson — WR — HOU
 
