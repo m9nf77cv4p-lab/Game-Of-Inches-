@@ -5,7 +5,7 @@
 - Roster ID: **5**
 - Players: **25**
 - Taxi: **1**
-- Reserve/IR: **3**
+- Reserve/IR: **2**
 
 ## Current roster
 
@@ -13,7 +13,7 @@
 - HOU — DEF — HOU
 - Jake Bates — K — DET
 - Brock Purdy — QB — SF
-- Jalen Hurts — QB — PHI — reserve/IR
+- Deshaun Watson — QB — CLE
 - Shedeur Sanders — QB — CLE — taxi
 - Brian Robinson Jr. — RB — ATL — reserve/IR
 - Chris Rodriguez Jr. — RB — JAX
