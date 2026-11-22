@@ -1,16 +1,24 @@
 {
-  "last_checked_at": "2026-11-22T03:18:39Z",
+  "last_checked_at": "2026-11-22T11:41:09Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 299,
   "new_story_ids": [
-    "nfl|11563|rotoballer|228577|1795288817000",
-    "nfl|12481|rotoballer|228580|1795297393000",
-    "nfl|12533|rotoballer|228575|1795287017000",
-    "nfl|12533|rotowire|648990|1795304109000",
-    "nfl|6770|rotoballer|228579|1795297575000",
-    "nfl|8136|rotoballer|228576|1795287913000",
-    "nfl|9493|rotoballer|228578|1795296245000",
-    "nfl|9493|rotowire|649027|1795310756000"
+    "nfl|12492|rotoballer|228583|1795300511000",
+    "nfl|12522|rotoballer|228596|1795310417000",
+    "nfl|12533|fantasy_pros|621811|1795334104198",
+    "nfl|13285|rotoballer|228590|1795306700000",
+    "nfl|13294|rotoballer|228594|1795309577000",
+    "nfl|13301|rotoballer|228592|1795308735000",
+    "nfl|13345|rotoballer|228581|1795299222000",
+    "nfl|4147|rotoballer|228589|1795306405000",
+    "nfl|4993|rotoballer|228593|1795309635000",
+    "nfl|5045|rotoballer|228585|1795301355000",
+    "nfl|6801|rotoballer|228587|1795304711000",
+    "nfl|6806|rotoballer|228582|1795299666000",
+    "nfl|7526|rotoballer|228584|1795300936000",
+    "nfl|8135|fantasy_pros|621813|1795334104165",
+    "nfl|8136|fantasy_pros|621812|1795334104180",
+    "nfl|9224|rotoballer|228588|1795305851000"
   ],
   "schema_version": 1,
   "source": {
@@ -20,6 +28,69 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Croskey-Merritt was a full participant in practice all week. He is trending in the right direction to be activated from IR. ",
+      "description": "Jacory Croskey-Merritt is listed as questionable for Monday's game against the Bengals. ",
+      "metadata": {
+        "analysis": "Croskey-Merritt was a full participant in practice all week. He is trending in the right direction to be activated from IR. ",
+        "description": "Jacory Croskey-Merritt is listed as questionable for Monday's game against the Bengals. ",
+        "title": "Jacory Croskey-Merritt (groin) listed questionable Monday ",
+        "topic_id": "1430138524325122048",
+        "url": "https://www.fantasypros.com/nfl/news/621811/jacory-croskey-merritt-groin-listed-questionable-monday.php"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1795334104198,
+      "source": "fantasy_pros",
+      "source_key": "621811",
+      "story_id": "nfl|12533|fantasy_pros|621811|1795334104198",
+      "title": "Jacory Croskey-Merritt (groin) listed questionable Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/621811/jacory-croskey-merritt-groin-listed-questionable-monday.php"
+    },
+    {
+      "analysis": "White was added to the injury report on Friday before missing practice on Saturday. His status is uncertain heading into Monday. ",
+      "description": "Rachaad White is listed as questionable for Monday's game against the Bengals. ",
+      "metadata": {
+        "analysis": "White was added to the injury report on Friday before missing practice on Saturday. His status is uncertain heading into Monday. ",
+        "description": "Rachaad White is listed as questionable for Monday's game against the Bengals. ",
+        "title": "Rachaad White (heel) listed questionable Monday ",
+        "topic_id": "1430138524262207488",
+        "url": "https://www.fantasypros.com/nfl/news/621812/rachaad-white-heel-listed-questionable-monday.php"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1795334104180,
+      "source": "fantasy_pros",
+      "source_key": "621812",
+      "story_id": "nfl|8136|fantasy_pros|621812|1795334104180",
+      "title": "Rachaad White (heel) listed questionable Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/621812/rachaad-white-heel-listed-questionable-monday.php"
+    },
+    {
+      "analysis": "Burks returned to practice on Saturday after he was absent on Friday. He'll be a borderline WR3/WR4 for fantasy managers. ",
+      "description": "Treylon Burks is off the injury report for Monday's game against the Bengals. ",
+      "metadata": {
+        "analysis": "Burks returned to practice on Saturday after he was absent on Friday. He'll be a borderline WR3/WR4 for fantasy managers. ",
+        "description": "Treylon Burks is off the injury report for Monday's game against the Bengals. ",
+        "title": "Treylon Burks (foot) off injury report Monday ",
+        "topic_id": "1430138524199292928",
+        "url": "https://www.fantasypros.com/nfl/news/621813/treylon-burks-foot-off-injury-report-monday.php"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8135",
+      "player_name": "Treylon Burks",
+      "position": "WR",
+      "published": 1795334104165,
+      "source": "fantasy_pros",
+      "source_key": "621813",
+      "story_id": "nfl|8135|fantasy_pros|621813|1795334104165",
+      "title": "Treylon Burks (foot) off injury report Monday ",
+      "url": "https://www.fantasypros.com/nfl/news/621813/treylon-burks-foot-off-injury-report-monday.php"
+    },
     {
       "analysis": "This update provides a firmer timeline than prior reports and confirms Nacua won't be available for the remainder of the regular season or the playoffs. The Rams have already placed him on injured reserve and will look to others to help fill the massive void in the WR corps left by Nacua's injury. Davante Adams (hamstring) should eventually take on a heavy target share, but he's also on IR and isn't expected to return until at least Week 13. That leaves Konata Mumpfield, CJ Daniels, Tutu Atwell and Xavier Smith as the current healthy wideouts on the team's 53-man roster ahead of next Wednesday's tilt versus the Packers.",
       "description": "Nacua (knee) is expected to be sidelined 4-to-5 months after undergoing MCL surgery, which means he likely won't be able to return to action even if the Rams advance to the Super Bowl, Adam Schefter of ESPN reports.",
@@ -39,6 +110,166 @@
       "story_id": "nfl|9493|rotowire|649027|1795310756000",
       "title": "Puka Nacua - Out even for playoffs",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "Tennessee Titans quarterback Cam Ward has begun heating up over the past few weeks and offers excellent streaming potential in his matchup with a struggling Dallas Cowboys defense. Ward had been pretty pedestrian for most of the season, but has come alive since going toe-to-toe with quarterback Joe Burrow and the Bengals in Week 8. The recent surge lines up with Tennessee tailoring the offense more toward the former first-overall pick's play style, and it's hard to argue with the results. While this may not be the new norm for Ward, it's the most dynamic Tennessee's offense has looked since he took over the reins. Moreover, he's got a favorable spot on tap in Dallas. The Cowboys' defense is reeling and has allowed the second-most points (28.2) and most total yards per game (393.8) thus far. Ward and the Titans' attack are building confidence and stand a good chance of putting together another productive outing as their game with Dallas presents Week 11's highest over/under (54.5).",
+      "metadata": {
+        "description": "Tennessee Titans quarterback Cam Ward has begun heating up over the past few weeks and offers excellent streaming potential in his matchup with a struggling Dallas Cowboys defense. Ward had been pretty pedestrian for most of the season, but has come alive since going toe-to-toe with quarterback Joe Burrow and the Bengals in Week 8. The recent surge lines up with Tennessee tailoring the offense more toward the former first-overall pick's play style, and it's hard to argue with the results. While this may not be the new norm for Ward, it's the most dynamic Tennessee's offense has looked since he took over the reins. Moreover, he's got a favorable spot on tap in Dallas. The Cowboys' defense is reeling and has allowed the second-most points (28.2) and most total yards per game (393.8) thus far. Ward and the Titans' attack are building confidence and stand a good chance of putting together another productive outing as their game with Dallas presents Week 11's highest over/under (54.5).",
+        "title": "Cam Ward a Sneaky Week 11 Waiver Add",
+        "topic_id": "1430117124663181312",
+        "url": "https://www.rotoballer.com/player-news/cam-ward-a-sneaky-week-11-waiver-add/2000674"
+      },
+      "nfl_team": "TEN",
+      "player_id": "12522",
+      "player_name": "Cam Ward",
+      "position": "QB",
+      "published": 1795310417000,
+      "source": "rotoballer",
+      "source_key": "228596",
+      "story_id": "nfl|12522|rotoballer|228596|1795310417000",
+      "title": "Cam Ward a Sneaky Week 11 Waiver Add",
+      "url": "https://www.rotoballer.com/player-news/cam-ward-a-sneaky-week-11-waiver-add/2000674"
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals tight end Mike Gesicki will take on the Washington Commanders on the road this Monday night. Despite the Bengals blowing out the Pittsburgh Steelers in Week 10, Gesicki only had one catch for nine yards in the win. The veteran tight end has the misfortune of playing behind arguably the best wide receiver duo and one of the better pass-catching running backs in the league. Due to his position in the pecking order, Gesicki is almost guaranteed limited volume every week. Since he is a talented big-bodied pass-catcher, Gesicki has been able to capitalize on his few opportunities with touchdowns. In a game with the highest over/under of the week, Gesicki could find his way into the end zone again. The Commanders' defense is not a unit to fear for opposing pass catchers, making this a favorable matchup for Gesicki. Gesicki is ranked TE15 in our RotoBaller Week 11 PPR rankings, making him a mid-range TE2 this week. Fantasy managers dealing with bye weeks could use Gesicki as a fill-in option due to his nose for pay dirt.",
+      "metadata": {
+        "description": "Cincinnati Bengals tight end Mike Gesicki will take on the Washington Commanders on the road this Monday night. Despite the Bengals blowing out the Pittsburgh Steelers in Week 10, Gesicki only had one catch for nine yards in the win. The veteran tight end has the misfortune of playing behind arguably the best wide receiver duo and one of the better pass-catching running backs in the league. Due to his position in the pecking order, Gesicki is almost guaranteed limited volume every week. Since he is a talented big-bodied pass-catcher, Gesicki has been able to capitalize on his few opportunities with touchdowns. In a game with the highest over/under of the week, Gesicki could find his way into the end zone again. The Commanders' defense is not a unit to fear for opposing pass catchers, making this a favorable matchup for Gesicki. Gesicki is ranked TE15 in our RotoBaller Week 11 PPR rankings, making him a mid-range TE2 this week. Fantasy managers dealing with bye weeks could use Gesicki as a fill-in option due to his nose for pay dirt.",
+        "title": "Mike Gesicki Is A Boom-Or-Bust TE In Week 11",
+        "topic_id": "1430113349202362368",
+        "url": "https://www.rotoballer.com/player-news/mike-gesicki-is-a-boom-or-bust-te-in-week-11/2000670"
+      },
+      "nfl_team": "CIN",
+      "player_id": "4993",
+      "player_name": "Mike Gesicki",
+      "position": "TE",
+      "published": 1795309635000,
+      "source": "rotoballer",
+      "source_key": "228593",
+      "story_id": "nfl|4993|rotoballer|228593|1795309635000",
+      "title": "Mike Gesicki Is A Boom-Or-Bust TE In Week 11",
+      "url": "https://www.rotoballer.com/player-news/mike-gesicki-is-a-boom-or-bust-te-in-week-11/2000670"
+    },
+    {
+      "analysis": null,
+      "description": "Philadelphia Eagles wide receiver Makai Lemon has shown well recently with an elevated workload, and may still hold fantasy value in Week 11's game with the visiting Pittsburgh Steelers. With fellow wideouts DeVonta Smith and Dontayvion Wicks (ankle/foot) both out for the last three games with their respective injuries, the rookie strung together a few nice outings, averaging 6.3 receptions and 61.7 yards on a team-high 26 targets. His production will likely dip with Smith slated to return, though Wicks' continued absence will give Lemon another chance to solidify a larger role. Furthermore, Smith suiting up should help Lemon, as the latter shouldn't have to line up on the perimeter as often. Admittedly, the matchup with Pittsburgh isn't great, and Joe Milton III is still trying to find his footing, which lowers the offense's floor. All that said, the 22-year-old has shown enough over his last few appearances to at least garner interest as a bench stash.",
+      "metadata": {
+        "description": "Philadelphia Eagles wide receiver Makai Lemon has shown well recently with an elevated workload, and may still hold fantasy value in Week 11's game with the visiting Pittsburgh Steelers. With fellow wideouts DeVonta Smith and Dontayvion Wicks (ankle/foot) both out for the last three games with their respective injuries, the rookie strung together a few nice outings, averaging 6.3 receptions and 61.7 yards on a team-high 26 targets. His production will likely dip with Smith slated to return, though Wicks' continued absence will give Lemon another chance to solidify a larger role. Furthermore, Smith suiting up should help Lemon, as the latter shouldn't have to line up on the perimeter as often. Admittedly, the matchup with Pittsburgh isn't great, and Joe Milton III is still trying to find his footing, which lowers the offense's floor. All that said, the 22-year-old has shown enough over his last few appearances to at least garner interest as a bench stash.",
+        "title": "Makai Lemon an Intriguing Add Despite Volatile Environment",
+        "topic_id": "1430113349198168064",
+        "url": "https://www.rotoballer.com/player-news/makai-lemon-an-intriguing-add-despite-volatile-environment/2000668"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1795309577000,
+      "source": "rotoballer",
+      "source_key": "228594",
+      "story_id": "nfl|13294|rotoballer|228594|1795309577000",
+      "title": "Makai Lemon an Intriguing Add Despite Volatile Environment",
+      "url": "https://www.rotoballer.com/player-news/makai-lemon-an-intriguing-add-despite-volatile-environment/2000668"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders wide receiver Antonio Williams is steadily emerging as a player to be rostered in most formats ahead of Monday night's primetime meeting with the Cincinnati Bengals. Since Week 8, following the team's bye and the loss of wideout Terry McLaurin (knee), Williams' snap share has ticked up considerably, averaging a healthy 84.3% and leading the WR corps in the process. Teammate Stefon Diggs and tight end Chig Okonkwo have each commanded more targets over that frame, although the rookie has been solid. While Diggs likely has the best chance to lead the team in receptions for the rest of the campaign, Williams is emerging with some flex intrigue. He can be used that way in Week 11, as Washington's clash with the Bengals features the second-highest over-under on the slate (53.5). Quarterback Jayden Daniels has played well, and the team should be forced to keep up with a red-hot Bengals offense. Owners can't expect the world from the Clemson product, but he's more than viable as a low-end WR3/flex for the matchup ahead.",
+      "metadata": {
+        "description": "Washington Commanders wide receiver Antonio Williams is steadily emerging as a player to be rostered in most formats ahead of Monday night's primetime meeting with the Cincinnati Bengals. Since Week 8, following the team's bye and the loss of wideout Terry McLaurin (knee), Williams' snap share has ticked up considerably, averaging a healthy 84.3% and leading the WR corps in the process. Teammate Stefon Diggs and tight end Chig Okonkwo have each commanded more targets over that frame, although the rookie has been solid. While Diggs likely has the best chance to lead the team in receptions for the rest of the campaign, Williams is emerging with some flex intrigue. He can be used that way in Week 11, as Washington's clash with the Bengals features the second-highest over-under on the slate (53.5). Quarterback Jayden Daniels has played well, and the team should be forced to keep up with a red-hot Bengals offense. Owners can't expect the world from the Clemson product, but he's more than viable as a low-end WR3/flex for the matchup ahead.",
+        "title": "Antonio Williams a Startable Waiver Stash",
+        "topic_id": "1430109573351473152",
+        "url": "https://www.rotoballer.com/player-news/antonio-williams-a-startable-waiver-stash/2000665"
+      },
+      "nfl_team": "WAS",
+      "player_id": "13301",
+      "player_name": "Antonio Williams",
+      "position": "WR",
+      "published": 1795308735000,
+      "source": "rotoballer",
+      "source_key": "228592",
+      "story_id": "nfl|13301|rotoballer|228592|1795308735000",
+      "title": "Antonio Williams a Startable Waiver Stash",
+      "url": "https://www.rotoballer.com/player-news/antonio-williams-a-startable-waiver-stash/2000665"
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants wide receiver Malachi Fields is difficult to recommend outside of deep leagues for Sunday's outing with the visiting Jacksonville Jaguars. Fields has seen a nice uptick in production over the past few weeks, coinciding with the team's change at quarterback. Across the four-game sample, the rookie's reception totals have only increased marginally, though he's averaging two more targets per game (5.5) than in his first five appearances (3.4). It's an encouraging development, but he'd posted double-digit fantasy output only once over the span, and he won't have it easy this weekend against one of the league's stoutest defenses. If there's one spot the Jags can be beaten, it's through the air, but Jacksonville is allowing the second-fewest points per game (16) and averages the third-best EPA per play on defense (-0.16). Fields is a young, promising wideout and a strong asset in dynasty leagues. That said, he shares the field with two legitimate target threats in teammate Malik Nabers and tight end Isaiah Likely, and takes a hit this week with stiff opposition on tap. The 23-year-old is RotoBaller's PPR WR53 for the weekend's slate.",
+      "metadata": {
+        "description": "New York Giants wide receiver Malachi Fields is difficult to recommend outside of deep leagues for Sunday's outing with the visiting Jacksonville Jaguars. Fields has seen a nice uptick in production over the past few weeks, coinciding with the team's change at quarterback. Across the four-game sample, the rookie's reception totals have only increased marginally, though he's averaging two more targets per game (5.5) than in his first five appearances (3.4). It's an encouraging development, but he'd posted double-digit fantasy output only once over the span, and he won't have it easy this weekend against one of the league's stoutest defenses. If there's one spot the Jags can be beaten, it's through the air, but Jacksonville is allowing the second-fewest points per game (16) and averages the third-best EPA per play on defense (-0.16). Fields is a young, promising wideout and a strong asset in dynasty leagues. That said, he shares the field with two legitimate target threats in teammate Malik Nabers and tight end Isaiah Likely, and takes a hit this week with stiff opposition on tap. The 23-year-old is RotoBaller's PPR WR53 for the weekend's slate.",
+        "title": "Malachi Fields a Shaky Start Against Jaguars",
+        "topic_id": "1430100764138688512",
+        "url": "https://www.rotoballer.com/player-news/malachi-fields-a-shaky-start-against-jaguars/2000657"
+      },
+      "nfl_team": "NYG",
+      "player_id": "13285",
+      "player_name": "Malachi Fields",
+      "position": "WR",
+      "published": 1795306700000,
+      "source": "rotoballer",
+      "source_key": "228590",
+      "story_id": "nfl|13285|rotoballer|228590|1795306700000",
+      "title": "Malachi Fields a Shaky Start Against Jaguars",
+      "url": "https://www.rotoballer.com/player-news/malachi-fields-a-shaky-start-against-jaguars/2000657"
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals running back Samaje Perine has taken a back seat to Chase Brown in recent weeks, but has still been able to find value in the RB2 role. Perine rushed six times for 14 yards and a touchdown while catching four passes for 25 yards in last week's win. The veteran back was the only Bengals rusher to find the end zone in Week 10. Perine has now scored three times in the last five games and could find pay dirt again as the team takes on the Washington Commanders on the road this week. In a game with the highest over/under of the week, the Bengals should put up plenty of points and some of those may come from Perine. Perine is ranked RB32 in our RotoBaller Week 11 PPR rankings, making him a low-end RB3 option with multiple teams on bye this week.",
+      "metadata": {
+        "description": "Cincinnati Bengals running back Samaje Perine has taken a back seat to Chase Brown in recent weeks, but has still been able to find value in the RB2 role. Perine rushed six times for 14 yards and a touchdown while catching four passes for 25 yards in last week's win. The veteran back was the only Bengals rusher to find the end zone in Week 10. Perine has now scored three times in the last five games and could find pay dirt again as the team takes on the Washington Commanders on the road this week. In a game with the highest over/under of the week, the Bengals should put up plenty of points and some of those may come from Perine. Perine is ranked RB32 in our RotoBaller Week 11 PPR rankings, making him a low-end RB3 option with multiple teams on bye this week.",
+        "title": "Samaje Perine Could Score At Washington",
+        "topic_id": "1430099506107523072",
+        "url": "https://www.rotoballer.com/player-news/samaje-perine-could-score-at-washington/2000655"
+      },
+      "nfl_team": "CIN",
+      "player_id": "4147",
+      "player_name": "Samaje Perine",
+      "position": "RB",
+      "published": 1795306405000,
+      "source": "rotoballer",
+      "source_key": "228589",
+      "story_id": "nfl|4147|rotoballer|228589|1795306405000",
+      "title": "Samaje Perine Could Score At Washington",
+      "url": "https://www.rotoballer.com/player-news/samaje-perine-could-score-at-washington/2000655"
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals running back Chase Brown continued to cement himself at the team's clear RB1 in last week's 38-18 victory over the Pittsburgh Steelers. Brown rushed 10 times for 44 yards and caught eight passes for 39 yards and two touchdowns in Week 10. While Samaje Perine was able to find the end zone on the ground, Brown found it twice through the air. The Bengals back continues to show that the majority of his fantasy value comes from his role as a pass catcher in the high-flying Cincinnati offense. While receivers Ja'Marr Chase and Tee Higgins take the tops of defenses, Brown thrives in the short game, swallowing up targets and racking up yards after the catch. Brown will get the chance to prove his value against the Washington Commanders this Monday night. The Commanders defense likely won't be able to stop the Bengals offense on the ground or through the air which bodes well for Brown's odds of success. Brown is ranked RB12 in our RotoBaller Week 11 PPR rankings, making him a low-end RB1 option this week. Fantasy managers may be disappointed with his production so far, but Brown's fantasy value is on the rise.",
+      "metadata": {
+        "description": "Cincinnati Bengals running back Chase Brown continued to cement himself at the team's clear RB1 in last week's 38-18 victory over the Pittsburgh Steelers. Brown rushed 10 times for 44 yards and caught eight passes for 39 yards and two touchdowns in Week 10. While Samaje Perine was able to find the end zone on the ground, Brown found it twice through the air. The Bengals back continues to show that the majority of his fantasy value comes from his role as a pass catcher in the high-flying Cincinnati offense. While receivers Ja'Marr Chase and Tee Higgins take the tops of defenses, Brown thrives in the short game, swallowing up targets and racking up yards after the catch. Brown will get the chance to prove his value against the Washington Commanders this Monday night. The Commanders defense likely won't be able to stop the Bengals offense on the ground or through the air which bodes well for Brown's odds of success. Brown is ranked RB12 in our RotoBaller Week 11 PPR rankings, making him a low-end RB1 option this week. Fantasy managers may be disappointed with his production so far, but Brown's fantasy value is on the rise.",
+        "title": "Chase Brown Should Be A Low-End RB1 Against Commanders",
+        "topic_id": "1430096988392685568",
+        "url": "https://www.rotoballer.com/player-news/chase-brown-should-be-a-low-end-rb1-against-commanders/2000653"
+      },
+      "nfl_team": "CIN",
+      "player_id": "9224",
+      "player_name": "Chase Brown",
+      "position": "RB",
+      "published": 1795305851000,
+      "source": "rotoballer",
+      "source_key": "228588",
+      "story_id": "nfl|9224|rotoballer|228588|1795305851000",
+      "title": "Chase Brown Should Be A Low-End RB1 Against Commanders",
+      "url": "https://www.rotoballer.com/player-news/chase-brown-should-be-a-low-end-rb1-against-commanders/2000653"
+    },
+    {
+      "analysis": null,
+      "description": "Cincinnati Bengals wide receiver Tee Higgins caught five passes for 66 yards in last week's win over the Pittsburgh Steelers. Despite the Bengals putting up 38 points, Higgins had a relatively pedestrian stat line by his standards. Fellow receiver Ja'Marr Chase took most of the receiving workload as he caught 11 passes for 231 yards in Week 10. Higgins should be able to bounce back this week as the team takes on the Washington Commanders on the road this Monday night. The Commanders defense has been one of the most generous units against opposing wide receivers, allowing tons of production this season. This week's matchup is also tied for the highest over/under of the week, meaning there's a good chance Higgins gets involved in the scoring on Monday. Higgins is ranked WR5 in our RotoBaller Week 11 PPR rankings, making him a strong WR1 option along with Chase this week. The Bengals receivers are expected to go off this week and Higgins should be more involved than he was last week.",
+      "metadata": {
+        "description": "Cincinnati Bengals wide receiver Tee Higgins caught five passes for 66 yards in last week's win over the Pittsburgh Steelers. Despite the Bengals putting up 38 points, Higgins had a relatively pedestrian stat line by his standards. Fellow receiver Ja'Marr Chase took most of the receiving workload as he caught 11 passes for 231 yards in Week 10. Higgins should be able to bounce back this week as the team takes on the Washington Commanders on the road this Monday night. The Commanders defense has been one of the most generous units against opposing wide receivers, allowing tons of production this season. This week's matchup is also tied for the highest over/under of the week, meaning there's a good chance Higgins gets involved in the scoring on Monday. Higgins is ranked WR5 in our RotoBaller Week 11 PPR rankings, making him a strong WR1 option along with Chase this week. The Bengals receivers are expected to go off this week and Higgins should be more involved than he was last week.",
+        "title": "Tee Higgins Ready For Bounce Back Performance At Washington",
+        "topic_id": "1430091955265630208",
+        "url": "https://www.rotoballer.com/player-news/tee-higgins-ready-for-bounce-back-performance-at-washington/2000646"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6801",
+      "player_name": "Tee Higgins",
+      "position": "WR",
+      "published": 1795304711000,
+      "source": "rotoballer",
+      "source_key": "228587",
+      "story_id": "nfl|6801|rotoballer|228587|1795304711000",
+      "title": "Tee Higgins Ready For Bounce Back Performance At Washington",
+      "url": "https://www.rotoballer.com/player-news/tee-higgins-ready-for-bounce-back-performance-at-washington/2000646"
     },
     {
       "analysis": "Croskey-Merritt has missed the Commanders' last four games while on injured reserve due to a groin injury. He logged a trio of full practices this week and is officially questionable to play Monday, but it sounds like he'll be activated from IR ahead of the contest and make his return against the Bengals. During Croskey-Merritt's absence, Rachaad White has taken on a larger role in the backfield, but White is currently dealing with a heel injury and is also questionable to suit up Monday.",
@@ -80,6 +311,106 @@
       "story_id": "nfl|8150|fantasy_pros|621746|1795301760414",
       "title": "Kyren Williams (toe) expected to be good to go in Week 12",
       "url": "https://www.fantasypros.com/nfl/news/621746/kyren-williams-toe-expected-to-be-good-to-go-week-12.php"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Courtland Sutton has been a more consistent fantasy option in recent weeks. Over the last three games, Sutton has finished with 45 receiving yards or more in all those contests. In Week 9, Sutton saw a season-high nine targets, hauling in five of them for 45 yards in the win. The hope is that his consistent play will continue against the Las Vegas Raiders in Week 11. The Raiders come into this game ranked 24th in pass defense. It's worth noting that Jaylen Waddle (concussion) is returning this weekend after exiting early in Week 9. It's unlikely that Sutton sees another nine-target game with Waddle back in the mix. Regardless, Sutton should be able to offer flex appeal for this weekend.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Courtland Sutton has been a more consistent fantasy option in recent weeks. Over the last three games, Sutton has finished with 45 receiving yards or more in all those contests. In Week 9, Sutton saw a season-high nine targets, hauling in five of them for 45 yards in the win. The hope is that his consistent play will continue against the Las Vegas Raiders in Week 11. The Raiders come into this game ranked 24th in pass defense. It's worth noting that Jaylen Waddle (concussion) is returning this weekend after exiting early in Week 9. It's unlikely that Sutton sees another nine-target game with Waddle back in the mix. Regardless, Sutton should be able to offer flex appeal for this weekend.",
+        "title": "Courtland Sutton is a Flex Play for Week 11",
+        "topic_id": "1430078114645430272",
+        "url": "https://www.rotoballer.com/player-news/courtland-sutton-is-a-flex-play-for-week-11/2000632"
+      },
+      "nfl_team": "DEN",
+      "player_id": "5045",
+      "player_name": "Courtland Sutton",
+      "position": "WR",
+      "published": 1795301355000,
+      "source": "rotoballer",
+      "source_key": "228585",
+      "story_id": "nfl|5045|rotoballer|228585|1795301355000",
+      "title": "Courtland Sutton is a Flex Play for Week 11",
+      "url": "https://www.rotoballer.com/player-news/courtland-sutton-is-a-flex-play-for-week-11/2000632"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Jaylen Waddle (concussion) doesn't carry an injury designation into Sunday's Week 11 matchup against the Las Vegas Raiders. Waddle was limited to 14 snaps and one catch for 22 yards during the Week 9 win over the Carolina Panthers. Waddle has since progressed through the league's concussion protocol and is cleared to play against the Las Vegas Raiders this weekend. Waddle hasn't been a trustworthy fantasy option this season, but he does have a plus-matchup against the Raiders defense. The Raiders come into this game ranked 24th in pass defense. It's a great matchup for Waddle, but he remains a WR3 due to his inconsistent play lately.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Jaylen Waddle (concussion) doesn't carry an injury designation into Sunday's Week 11 matchup against the Las Vegas Raiders. Waddle was limited to 14 snaps and one catch for 22 yards during the Week 9 win over the Carolina Panthers. Waddle has since progressed through the league's concussion protocol and is cleared to play against the Las Vegas Raiders this weekend. Waddle hasn't been a trustworthy fantasy option this season, but he does have a plus-matchup against the Raiders defense. The Raiders come into this game ranked 24th in pass defense. It's a great matchup for Waddle, but he remains a WR3 due to his inconsistent play lately.",
+        "title": "Jaylen Waddle in the Mix as WR3 for Week 11",
+        "topic_id": "1430075598557941760",
+        "url": "https://www.rotoballer.com/player-news/jaylen-waddle-in-the-mix-as-wr3-for-week-11/2000628"
+      },
+      "nfl_team": "DEN",
+      "player_id": "7526",
+      "player_name": "Jaylen Waddle",
+      "position": "WR",
+      "published": 1795300936000,
+      "source": "rotoballer",
+      "source_key": "228584",
+      "story_id": "nfl|7526|rotoballer|228584|1795300936000",
+      "title": "Jaylen Waddle in the Mix as WR3 for Week 11",
+      "url": "https://www.rotoballer.com/player-news/jaylen-waddle-in-the-mix-as-wr3-for-week-11/2000628"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos wide receiver Pat Bryant is an intriguing fantasy option heading into the Week 11 matchup against the Las Vegas Raiders. He looked solid during his return to the field during the Week 9 matchup against the Carolina Panthers. Bryant hauled in four of his five targets for 56 yards and a touchdown. He remains the third option in the pecking order, but could be an interesting option in a plus-matchup against the Raiders secondary. The Raiders currently rank 24th in the league in pass defense. They've allowed 234.0 passing yards per game and 22 passing touchdowns. Bryant could be worth a look as a deep league flex option in this plus-matchup.",
+      "metadata": {
+        "description": "Denver Broncos wide receiver Pat Bryant is an intriguing fantasy option heading into the Week 11 matchup against the Las Vegas Raiders. He looked solid during his return to the field during the Week 9 matchup against the Carolina Panthers. Bryant hauled in four of his five targets for 56 yards and a touchdown. He remains the third option in the pecking order, but could be an interesting option in a plus-matchup against the Raiders secondary. The Raiders currently rank 24th in the league in pass defense. They've allowed 234.0 passing yards per game and 22 passing touchdowns. Bryant could be worth a look as a deep league flex option in this plus-matchup.",
+        "title": "Pat Bryant Could be Flex Option in Week 11",
+        "topic_id": "1430074337322369024",
+        "url": "https://www.rotoballer.com/player-news/pat-bryant-could-be-flex-option-in-week-11/2000624"
+      },
+      "nfl_team": "DEN",
+      "player_id": "12492",
+      "player_name": "Pat Bryant",
+      "position": "WR",
+      "published": 1795300511000,
+      "source": "rotoballer",
+      "source_key": "228583",
+      "story_id": "nfl|12492|rotoballer|228583|1795300511000",
+      "title": "Pat Bryant Could be Flex Option in Week 11",
+      "url": "https://www.rotoballer.com/player-news/pat-bryant-could-be-flex-option-in-week-11/2000624"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos running back J.K. Dobbins has seen his role take a significant hit over the last few weeks. The return of rookie Jonah Coleman has taken a major cut out of Dobbins playing time. Over the last three games, Dobbins has seen seven carries or fewer and 23 rushing yards or fewer in all of those contests. Coleman has become the lead back in Denver, and Dobbins is taking a backseat now. The only positive for Dobbins is that he'll head into a favorable matchup against the Las Vegas Raiders in Week 11. The Raiders currently have the 31st ranked rush defense in the league. Despite a great matchup, Dobbins remains a risky starting option in most fantasy formats. He could offer RB3 value depending on the format.",
+      "metadata": {
+        "description": "Denver Broncos running back J.K. Dobbins has seen his role take a significant hit over the last few weeks. The return of rookie Jonah Coleman has taken a major cut out of Dobbins playing time. Over the last three games, Dobbins has seen seven carries or fewer and 23 rushing yards or fewer in all of those contests. Coleman has become the lead back in Denver, and Dobbins is taking a backseat now. The only positive for Dobbins is that he'll head into a favorable matchup against the Las Vegas Raiders in Week 11. The Raiders currently have the 31st ranked rush defense in the league. Despite a great matchup, Dobbins remains a risky starting option in most fantasy formats. He could offer RB3 value depending on the format.",
+        "title": "J.K. Dobbins Falls into RB3 Conversation",
+        "topic_id": "1430071820718977024",
+        "url": "https://www.rotoballer.com/player-news/j-k-dobbins-falls-into-rb3-conversation/2000620"
+      },
+      "nfl_team": "DEN",
+      "player_id": "6806",
+      "player_name": "J.K. Dobbins",
+      "position": "RB",
+      "published": 1795299666000,
+      "source": "rotoballer",
+      "source_key": "228582",
+      "story_id": "nfl|6806|rotoballer|228582|1795299666000",
+      "title": "J.K. Dobbins Falls into RB3 Conversation",
+      "url": "https://www.rotoballer.com/player-news/j-k-dobbins-falls-into-rb3-conversation/2000620"
+    },
+    {
+      "analysis": null,
+      "description": "Denver Broncos running back Jonah Coleman has quickly become the clear-cut RB1 on this roster. He has posted back-to-back strong performances with a touchdown in each contest. He has also been a reliable option through the air with four receptions for 30-plus yards in each of the last two games. The assumption is that the good times are going to continue for Coleman against the Las Vegas Raiders defense in Week 11. The Raiders currently rank 31st in the league in rush defense coming into this game. They've allowed 151.1 rushing yards per game and 13 touchdowns on the ground. RotoBaller has Coleman ranked as the RB8 heading into this game. He has a juicy matchup and has been playing above expectations lately. Fantasy managers consider Coleman a high-end RB2 with RB1 upside for Week 11.",
+      "metadata": {
+        "description": "Denver Broncos running back Jonah Coleman has quickly become the clear-cut RB1 on this roster. He has posted back-to-back strong performances with a touchdown in each contest. He has also been a reliable option through the air with four receptions for 30-plus yards in each of the last two games. The assumption is that the good times are going to continue for Coleman against the Las Vegas Raiders defense in Week 11. The Raiders currently rank 31st in the league in rush defense coming into this game. They've allowed 151.1 rushing yards per game and 13 touchdowns on the ground. RotoBaller has Coleman ranked as the RB8 heading into this game. He has a juicy matchup and has been playing above expectations lately. Fantasy managers consider Coleman a high-end RB2 with RB1 upside for Week 11.",
+        "title": "Jonah Coleman Offers RB1 Upside for Week 11",
+        "topic_id": "1430069303339683840",
+        "url": "https://www.rotoballer.com/player-news/jonah-coleman-offers-rb1-upside-for-week-11/2000604"
+      },
+      "nfl_team": "DEN",
+      "player_id": "13345",
+      "player_name": "Jonah Coleman",
+      "position": "RB",
+      "published": 1795299222000,
+      "source": "rotoballer",
+      "source_key": "228581",
+      "story_id": "nfl|13345|rotoballer|228581|1795299222000",
+      "title": "Jonah Coleman Offers RB1 Upside for Week 11",
+      "url": "https://www.rotoballer.com/player-news/jonah-coleman-offers-rb1-upside-for-week-11/2000604"
     },
     {
       "analysis": "The Rams are in the midst of their Week 11 bye, but with a Wednesday game on tap in Week 12, the team is getting back on the practice field this weekend. He'll have three more days to work through the new health concern, but considering McVay's comments, Williams should be fine to continue to work in tandem with fellow RB Blake Corum.",
@@ -935,10 +1266,10 @@
     },
     {
       "analysis": "Mayfield missed three games earlier in the season due to a dislocated right thumb, and he injured his foot during the Buccaneers' Week 9 loss to the Bears. He was in a walking boot during Tampa Bay's bye and received treatment on his foot during Week 11 prep, although head coach Todd Bowles told reporters Friday that Mayfield is \"trending in the right direction\" to play against Detroit, per Pelissero. As it stands, Mayfield will be under center for the Buccaneers on Sunday, with undrafted rookie Jalon Daniels serving as the backup and Easton Stick operating as the emergency third quarterback.",
-      "description": "Mayfield (thumb) is dealing with a plantar fascia injury in his foot, and he would wear a special orthotic and new cleats to stabilize his foot if he's cleared to play against the Lions on Sunday, Tom Pelissero of The Ringer and Netflix reports.",
+      "description": "Mayfield (thumb) is dealing with a plantar fascia injury in his foot, and he will wear a special orthotic and new cleats to stabilize his foot if he's cleared to play against the Lions on Sunday, Tom Pelissero of The Ringer and Netflix reports.",
       "metadata": {
         "analysis": "Mayfield missed three games earlier in the season due to a dislocated right thumb, and he injured his foot during the Buccaneers' Week 9 loss to the Bears. He was in a walking boot during Tampa Bay's bye and received treatment on his foot during Week 11 prep, although head coach Todd Bowles told reporters Friday that Mayfield is \"trending in the right direction\" to play against Detroit, per Pelissero. As it stands, Mayfield will be under center for the Buccaneers on Sunday, with undrafted rookie Jalon Daniels serving as the backup and Easton Stick operating as the emergency third quarterback.",
-        "description": "Mayfield (thumb) is dealing with a plantar fascia injury in his foot, and he would wear a special orthotic and new cleats to stabilize his foot if he's cleared to play against the Lions on Sunday, Tom Pelissero of The Ringer and Netflix reports.",
+        "description": "Mayfield (thumb) is dealing with a plantar fascia injury in his foot, and he will wear a special orthotic and new cleats to stabilize his foot if he's cleared to play against the Lions on Sunday, Tom Pelissero of The Ringer and Netflix reports.",
         "title": "Baker Mayfield - Working through plantar fascia injury",
         "topic_id": "1429892117584412672"
       },
@@ -127368,426 +127699,6 @@
       "story_id": "nfl|5892|rotoballer|225115|1792756812000",
       "title": "David Montgomery Ruled Out for Week 7 Against Giants",
       "url": "https://www.rotoballer.com/player-news/david-montgomery-reportedly-ruled-out-for-week-7-against-giants/1973548"
-    },
-    {
-      "analysis": null,
-      "description": "Pittsburgh Steelers running back Jaylen Warren's snap share dropped to 75% against the Tampa Bay Buccaneers in Week 6 after reaching at least 87% in each of the previous three games. Rico Dowdle returned from his toe injury and handled 10 touches, rushing seven times for 40 yards and catching three passes for nine yards. Warren logged 14 carries for 50 yards and two receptions for 28 yards, with both backs drawing four targets. Pittsburgh still leaned on Warren when the game tightened: he played all 13 third-down snaps and outcarried Dowdle 7-2 over the final 20 minutes. That usage keeps him firmly in the RB2 range, even after the return of a teammate who was absent for his 188-yard, two-touchdown performance against Indianapolis in Week 5. Dowdle (knee) is questionable for Sunday's matchup with the New Orleans Saints after being listed as limited on Pittsburgh's injury reports, giving Warren a chance to regain a larger share of the work if Dowdle sits.",
-      "metadata": {
-        "description": "Pittsburgh Steelers running back Jaylen Warren's snap share dropped to 75% against the Tampa Bay Buccaneers in Week 6 after reaching at least 87% in each of the previous three games. Rico Dowdle returned from his toe injury and handled 10 touches, rushing seven times for 40 yards and catching three passes for nine yards. Warren logged 14 carries for 50 yards and two receptions for 28 yards, with both backs drawing four targets. Pittsburgh still leaned on Warren when the game tightened: he played all 13 third-down snaps and outcarried Dowdle 7-2 over the final 20 minutes. That usage keeps him firmly in the RB2 range, even after the return of a teammate who was absent for his 188-yard, two-touchdown performance against Indianapolis in Week 5. Dowdle (knee) is questionable for Sunday's matchup with the New Orleans Saints after being listed as limited on Pittsburgh's injury reports, giving Warren a chance to regain a larger share of the work if Dowdle sits.",
-        "title": "Jaylen Warren's Workhorse Usage Takes a Hit",
-        "topic_id": "1419381466516705280",
-        "url": "https://www.rotoballer.com/player-news/jaylen-warrens-workhorse-usage-takes-a-hit/1973525"
-      },
-      "nfl_team": "PIT",
-      "player_id": "8228",
-      "player_name": "Jaylen Warren",
-      "position": "RB",
-      "published": 1792754649000,
-      "source": "rotoballer",
-      "source_key": "225112",
-      "story_id": "nfl|8228|rotoballer|225112|1792754649000",
-      "title": "Jaylen Warren's Workhorse Usage Takes a Hit",
-      "url": "https://www.rotoballer.com/player-news/jaylen-warrens-workhorse-usage-takes-a-hit/1973525"
-    },
-    {
-      "analysis": null,
-      "description": "New York Jets wide receiver Adonai Mitchell (finger) will play Sunday against the Miami Dolphins after missing four consecutive games, according to head coach Aaron Glenn, as reported by Rich Cimini of ESPN. Mitchell is expected to practice in full Friday after being limited Wednesday and Thursday, completing his recovery from a finger injury that required a procedure on his hand. He caught nine passes for 123 yards on 15 targets across New York's first two games before getting hurt. Rookie Omar Cooper Jr. returned from his own injury last week and caught six passes for 103 yards and a touchdown against New England. With Garrett Wilson also commanding targets, Mitchell faces a more crowded receiving group than he did earlier this season and is best viewed as a deep-league bench option for his first game back.",
-      "metadata": {
-        "description": "New York Jets wide receiver Adonai Mitchell (finger) will play Sunday against the Miami Dolphins after missing four consecutive games, according to head coach Aaron Glenn, as reported by Rich Cimini of ESPN. Mitchell is expected to practice in full Friday after being limited Wednesday and Thursday, completing his recovery from a finger injury that required a procedure on his hand. He caught nine passes for 123 yards on 15 targets across New York's first two games before getting hurt. Rookie Omar Cooper Jr. returned from his own injury last week and caught six passes for 103 yards and a touchdown against New England. With Garrett Wilson also commanding targets, Mitchell faces a more crowded receiving group than he did earlier this season and is best viewed as a deep-league bench option for his first game back.",
-        "title": "Adonai Mitchell Set to Return Against Dolphins in Week 7",
-        "topic_id": "1419378949670105088",
-        "url": "https://www.rotoballer.com/player-news/adonai-mitchell-set-to-return-against-dolphins-in-week-7/1973516"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "11625",
-      "player_name": "Adonai Mitchell",
-      "position": "WR",
-      "published": 1792753872000,
-      "source": "rotoballer",
-      "source_key": "225111",
-      "story_id": "nfl|11625|rotoballer|225111|1792753872000",
-      "title": "Adonai Mitchell Set to Return Against Dolphins in Week 7",
-      "url": "https://www.rotoballer.com/player-news/adonai-mitchell-set-to-return-against-dolphins-in-week-7/1973516"
-    },
-    {
-      "analysis": null,
-      "description": "New York Jets running back Breece Hall (quadriceps) will be limited in Friday's practice and listed as questionable for Sunday's Week 7 matchup against the Miami Dolphins, according to Rich Cimini of ESPN. Hall missed Wednesday's practice before returning in a limited capacity Thursday, his first participation since suffering the injury in Week 3. He has missed three consecutive games, with Braelon Allen handling the starting workload in his absence. Allen rushed for 116 yards and a touchdown against Cleveland in Week 5 before producing 104 scrimmage yards against New England last Sunday. Hall's three-game absence and Allen's recent production make his potential Week 7 workload difficult to project, leaving him a risky fantasy starter even if cleared to play.",
-      "metadata": {
-        "description": "New York Jets running back Breece Hall (quadriceps) will be limited in Friday's practice and listed as questionable for Sunday's Week 7 matchup against the Miami Dolphins, according to Rich Cimini of ESPN. Hall missed Wednesday's practice before returning in a limited capacity Thursday, his first participation since suffering the injury in Week 3. He has missed three consecutive games, with Braelon Allen handling the starting workload in his absence. Allen rushed for 116 yards and a touchdown against Cleveland in Week 5 before producing 104 scrimmage yards against New England last Sunday. Hall's three-game absence and Allen's recent production make his potential Week 7 workload difficult to project, leaving him a risky fantasy starter even if cleared to play.",
-        "title": "Breece Hall Questionable for Week 7 Against Dolphins",
-        "topic_id": "1419376432487886848",
-        "url": "https://www.rotoballer.com/player-news/breece-hall-questionable-for-week-7-against-dolphins/1973509"
-      },
-      "nfl_team": "NYJ",
-      "player_id": "8155",
-      "player_name": "Breece Hall",
-      "position": "RB",
-      "published": 1792753392000,
-      "source": "rotoballer",
-      "source_key": "225110",
-      "story_id": "nfl|8155|rotoballer|225110|1792753392000",
-      "title": "Breece Hall Questionable for Week 7 Against Dolphins",
-      "url": "https://www.rotoballer.com/player-news/breece-hall-questionable-for-week-7-against-dolphins/1973509"
-    },
-    {
-      "analysis": null,
-      "description": "Cincinnati Bengals running back Chase Brown has a scheme-driven threat to his early-down workload after Samaje Perine outcarried him 14-13 in Week 5. Brown had 58 rushing attempts across the first four games compared with just 13 for Perine, who then gained 68 yards on 14 carries and caught a touchdown in the 31-24 win over Miami. Brown managed 39 rushing yards, caught three passes for 21 yards, and lost a fumble. His 3.5 yards per carry this season adds to the concern, with 24 receptions keeping him in low-end RB2 territory for Week 7 at Baltimore. Offensive coordinator Dan Pitcher said the downhill running approach used against Miami played to Perine's strengths and that the Bengals' weekly game plan would influence how the two share carries.",
-      "metadata": {
-        "description": "Cincinnati Bengals running back Chase Brown has a scheme-driven threat to his early-down workload after Samaje Perine outcarried him 14-13 in Week 5. Brown had 58 rushing attempts across the first four games compared with just 13 for Perine, who then gained 68 yards on 14 carries and caught a touchdown in the 31-24 win over Miami. Brown managed 39 rushing yards, caught three passes for 21 yards, and lost a fumble. His 3.5 yards per carry this season adds to the concern, with 24 receptions keeping him in low-end RB2 territory for Week 7 at Baltimore. Offensive coordinator Dan Pitcher said the downhill running approach used against Miami played to Perine's strengths and that the Bengals' weekly game plan would influence how the two share carries.",
-        "title": "Chase Brown's Rushing Role Under Pressure After Week 5 Split",
-        "topic_id": "1419372657106812928",
-        "url": "https://www.rotoballer.com/player-news/chase-browns-rushing-role-under-pressure-after-week-5-split/1973500"
-      },
-      "nfl_team": "CIN",
-      "player_id": "9224",
-      "player_name": "Chase Brown",
-      "position": "RB",
-      "published": 1792752790000,
-      "source": "rotoballer",
-      "source_key": "225109",
-      "story_id": "nfl|9224|rotoballer|225109|1792752790000",
-      "title": "Chase Brown's Rushing Role Under Pressure After Week 5 Split",
-      "url": "https://www.rotoballer.com/player-news/chase-browns-rushing-role-under-pressure-after-week-5-split/1973500"
-    },
-    {
-      "analysis": null,
-      "description": "Minnesota Vikings running back Aaron Jones Sr. has averaged more than 21 carries over his last four games, a workload born out of Jordan Mason's (thumb) absence. Minnesota originally planned to rotate the two, and their Week 1 split reflected that approach: Mason carried 15 times for 59 yards and a touchdown against Green Bay, while Jones rushed 12 times for 40 yards and a score. Jones then logged 23, 17, 20, and 25 attempts from Weeks 2-5, closing that stretch with 113 yards and a touchdown at New Orleans. Mason practiced fully Wednesday and Thursday ahead of Sunday's game against Indianapolis, with his return from injured reserve still awaiting activation. Jones also revealed this week that he has played through a sprained MCL in his left knee since Week 2. He recorded 34 receiving yards in both Weeks 3 and 4, giving him a continuing role in the passing game. A restored rotation would leave Jones closer to flex territory in PPR formats after four games as Minnesota's featured back.",
-      "metadata": {
-        "description": "Minnesota Vikings running back Aaron Jones Sr. has averaged more than 21 carries over his last four games, a workload born out of Jordan Mason's (thumb) absence. Minnesota originally planned to rotate the two, and their Week 1 split reflected that approach: Mason carried 15 times for 59 yards and a touchdown against Green Bay, while Jones rushed 12 times for 40 yards and a score. Jones then logged 23, 17, 20, and 25 attempts from Weeks 2-5, closing that stretch with 113 yards and a touchdown at New Orleans. Mason practiced fully Wednesday and Thursday ahead of Sunday's game against Indianapolis, with his return from injured reserve still awaiting activation. Jones also revealed this week that he has played through a sprained MCL in his left knee since Week 2. He recorded 34 receiving yards in both Weeks 3 and 4, giving him a continuing role in the passing game. A restored rotation would leave Jones closer to flex territory in PPR formats after four games as Minnesota's featured back.",
-        "title": "Aaron Jones Sr. Set to Lose Carries With Teammate Returning",
-        "topic_id": "1419370140293681152",
-        "url": "https://www.rotoballer.com/player-news/aaron-jones-sr-s-heavy-carry-volume-under-threat/1973493"
-      },
-      "nfl_team": "MIN",
-      "player_id": "4199",
-      "player_name": "Aaron Jones Sr.",
-      "position": "RB",
-      "published": 1792752130000,
-      "source": "rotoballer",
-      "source_key": "225108",
-      "story_id": "nfl|4199|rotoballer|225108|1792752130000",
-      "title": "Aaron Jones Sr. Set to Lose Carries With Teammate Returning",
-      "url": "https://www.rotoballer.com/player-news/aaron-jones-sr-s-heavy-carry-volume-under-threat/1973493"
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots wide receiver DeMario Douglas caught three of four targets for 23 yards in Thursday's 30-24 loss to the Chicago Bears, giving him 5.3 PPR fantasy points after consecutive productive outings. He had totaled 11 receptions for 151 yards and three touchdowns against the Las Vegas Raiders and New York Jets, drawing eight targets against New York in Week 6. That total fell to four on Thursday, despite New England being without Romeo Doubs (shoulder) and Mack Hollins (calf). Drake Maye threw for 321 yards, with Hunter Henry drawing seven targets, A.J. Brown six, and Rhamondre Stevenson five. Douglas's receiving yardage was his lowest since Week 4, and his sudden drop in opportunities is the bigger concern for fantasy managers who started him on the strength of his recent production.",
-      "metadata": {
-        "description": "New England Patriots wide receiver DeMario Douglas caught three of four targets for 23 yards in Thursday's 30-24 loss to the Chicago Bears, giving him 5.3 PPR fantasy points after consecutive productive outings. He had totaled 11 receptions for 151 yards and three touchdowns against the Las Vegas Raiders and New York Jets, drawing eight targets against New York in Week 6. That total fell to four on Thursday, despite New England being without Romeo Doubs (shoulder) and Mack Hollins (calf). Drake Maye threw for 321 yards, with Hunter Henry drawing seven targets, A.J. Brown six, and Rhamondre Stevenson five. Douglas's receiving yardage was his lowest since Week 4, and his sudden drop in opportunities is the bigger concern for fantasy managers who started him on the strength of his recent production.",
-        "title": "DeMario Douglas Disappoints After Two-Game Scoring Surge",
-        "topic_id": "1419367623895814144",
-        "url": "https://www.rotoballer.com/player-news/demario-douglas-disappoints-after-two-game-scoring-surge/1973478"
-      },
-      "nfl_team": "NE",
-      "player_id": "9501",
-      "player_name": "DeMario Douglas",
-      "position": "WR",
-      "published": 1792751294000,
-      "source": "rotoballer",
-      "source_key": "225107",
-      "story_id": "nfl|9501|rotoballer|225107|1792751294000",
-      "title": "DeMario Douglas Disappoints After Two-Game Scoring Surge",
-      "url": "https://www.rotoballer.com/player-news/demario-douglas-disappoints-after-two-game-scoring-surge/1973478"
-    },
-    {
-      "analysis": null,
-      "description": "Indianapolis Colts quarterback Anthony Richardson Sr. faces a misdemeanor marijuana possession charge following an October 12 traffic stop in Carmel, Indiana, according to Tyler Haughn of FOX59 News. The charge was filed October 19 after police reportedly discovered a small jar containing suspected marijuana and an open bag of THC-infused gummies in Richardson's vehicle. Both substances subsequently tested positive for THC, according to the report. The Colts had not responded to a request for comment when the story was published. Richardson remains listed behind Daniel Jones and ahead of Riley Leonard on Indianapolis' unofficial Week 7 depth chart, with no reported change to his availability.",
-      "metadata": {
-        "description": "Indianapolis Colts quarterback Anthony Richardson Sr. faces a misdemeanor marijuana possession charge following an October 12 traffic stop in Carmel, Indiana, according to Tyler Haughn of FOX59 News. The charge was filed October 19 after police reportedly discovered a small jar containing suspected marijuana and an open bag of THC-infused gummies in Richardson's vehicle. Both substances subsequently tested positive for THC, according to the report. The Colts had not responded to a request for comment when the story was published. Richardson remains listed behind Daniel Jones and ahead of Riley Leonard on Indianapolis' unofficial Week 7 depth chart, with no reported change to his availability.",
-        "title": "Anthony Richardson Sr. Charged With Misdemeanor Marijuana Possession",
-        "topic_id": "1419365105899958272",
-        "url": "https://www.rotoballer.com/player-news/anthony-richardson-sr-charged-with-misdemeanor-marijuana-possession/1973472"
-      },
-      "nfl_team": "IND",
-      "player_id": "9229",
-      "player_name": "Anthony Richardson Sr.",
-      "position": "QB",
-      "published": 1792750749000,
-      "source": "rotoballer",
-      "source_key": "225106",
-      "story_id": "nfl|9229|rotoballer|225106|1792750749000",
-      "title": "Anthony Richardson Sr. Charged With Misdemeanor Marijuana Possession",
-      "url": "https://www.rotoballer.com/player-news/anthony-richardson-sr-charged-with-misdemeanor-marijuana-possession/1973472"
-    },
-    {
-      "analysis": null,
-      "description": "Tampa Bay Buccaneers quarterback Baker Mayfield (right thumb) expects to return Sunday against the Carolina Panthers after missing three games with a dislocated thumb. According to Rick Stroud of the Tampa Bay Times, Tampa Bay Rays clubhouse attendant Nick Bond helped create a protective glove designed to prevent the joint from bending backward. Mayfield practiced in full Wednesday and Thursday, saying the glove feels comfortable despite requiring adjustments to his grip and release points. Head coach Todd Bowles plans to decide Friday whether Mayfield or rookie Jalon Daniels will start. Mayfield threw for 615 yards, two touchdowns, and two interceptions in his first three games this season. That production leaves him as a QB2 option in Superflex leagues if he starts, with limited appeal in standard single-quarterback formats.",
-      "metadata": {
-        "description": "Tampa Bay Buccaneers quarterback Baker Mayfield (right thumb) expects to return Sunday against the Carolina Panthers after missing three games with a dislocated thumb. According to Rick Stroud of the Tampa Bay Times, Tampa Bay Rays clubhouse attendant Nick Bond helped create a protective glove designed to prevent the joint from bending backward. Mayfield practiced in full Wednesday and Thursday, saying the glove feels comfortable despite requiring adjustments to his grip and release points. Head coach Todd Bowles plans to decide Friday whether Mayfield or rookie Jalon Daniels will start. Mayfield threw for 615 yards, two touchdowns, and two interceptions in his first three games this season. That production leaves him as a QB2 option in Superflex leagues if he starts, with limited appeal in standard single-quarterback formats.",
-        "title": "Baker Mayfield Expects to Return With Protective Glove in Week 7",
-        "topic_id": "1419363847948566528",
-        "url": "https://www.rotoballer.com/player-news/baker-mayfield-expects-to-return-with-protective-glove-in-week-7/1973466"
-      },
-      "nfl_team": "TB",
-      "player_id": "4892",
-      "player_name": "Baker Mayfield",
-      "position": "QB",
-      "published": 1792750211000,
-      "source": "rotoballer",
-      "source_key": "225105",
-      "story_id": "nfl|4892|rotoballer|225105|1792750211000",
-      "title": "Baker Mayfield Expects to Return With Protective Glove in Week 7",
-      "url": "https://www.rotoballer.com/player-news/baker-mayfield-expects-to-return-with-protective-glove-in-week-7/1973466"
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots running back TreVeyon Henderson had three carries for nine yards and two receptions for 14 yards in the 30-24 loss to the Chicago Bears. After a productive rookie season with several explosive plays, Henderson has been phased out of the rushing attack, with Rhamondre Stevenson taking over the starting role. On Thursday night, Stevenson played 69% of snaps, while Henderson played just 24%. Over the last three games, the split has been similar. Henderson reportedly suffered a high ankle sprain in Week 5 but has played through the injury, which may be limiting his role and efficiency. Fantasy managers should not drop Henderson yet, given his high draft capital and explosiveness, but he is not a starting option at this point, as Stevenson handles the bulk of the work.",
-      "metadata": {
-        "description": "New England Patriots running back TreVeyon Henderson had three carries for nine yards and two receptions for 14 yards in the 30-24 loss to the Chicago Bears. After a productive rookie season with several explosive plays, Henderson has been phased out of the rushing attack, with Rhamondre Stevenson taking over the starting role. On Thursday night, Stevenson played 69% of snaps, while Henderson played just 24%. Over the last three games, the split has been similar. Henderson reportedly suffered a high ankle sprain in Week 5 but has played through the injury, which may be limiting his role and efficiency. Fantasy managers should not drop Henderson yet, given his high draft capital and explosiveness, but he is not a starting option at this point, as Stevenson handles the bulk of the work.",
-        "title": "TreVeyon Henderson has Another Disappointing Performance",
-        "topic_id": "1419357555406184448",
-        "url": "https://www.rotoballer.com/player-news/treveyon-henderson-posts-another-disappointing-performance-against-bears/1973447"
-      },
-      "nfl_team": "NE",
-      "player_id": "12529",
-      "player_name": "TreVeyon Henderson",
-      "position": "RB",
-      "published": 1792749029000,
-      "source": "rotoballer",
-      "source_key": "225103",
-      "story_id": "nfl|12529|rotoballer|225103|1792749029000",
-      "title": "TreVeyon Henderson has Another Disappointing Performance",
-      "url": "https://www.rotoballer.com/player-news/treveyon-henderson-posts-another-disappointing-performance-against-bears/1973447"
-    },
-    {
-      "analysis": null,
-      "description": "Pittsburgh Steelers running back Rico Dowdle (knee) is listed as questionable to play in Week 7's matchup against the New Orleans Saints. Dowdle was limited in all three days of practice this week due to an apparent knee injury, despite not appearing to be injured in the 26-19 win over the Tampa Bay Buccaneers in Week 6. Last week, Dowdle returned from a toe injury that cost him three games, had seven carries for 40 yards, and added three receptions for nine yards. While Jaylen Warren has firmly cemented himself as the lead back in this offense, Dowdle, if healthy, will still have a role, even after Warren's elite production in Dowdle's absence. Fantasy managers should monitor the team's Saturday elevations and Dowdle's status on Sunday morning, especially in a weaker matchup against the struggling Saints run defense.",
-      "metadata": {
-        "description": "Pittsburgh Steelers running back Rico Dowdle (knee) is listed as questionable to play in Week 7's matchup against the New Orleans Saints. Dowdle was limited in all three days of practice this week due to an apparent knee injury, despite not appearing to be injured in the 26-19 win over the Tampa Bay Buccaneers in Week 6. Last week, Dowdle returned from a toe injury that cost him three games, had seven carries for 40 yards, and added three receptions for nine yards. While Jaylen Warren has firmly cemented himself as the lead back in this offense, Dowdle, if healthy, will still have a role, even after Warren's elite production in Dowdle's absence. Fantasy managers should monitor the team's Saturday elevations and Dowdle's status on Sunday morning, especially in a weaker matchup against the struggling Saints run defense.",
-        "title": "Rico Dowdle Listed as Questionable to Play in Week 7",
-        "topic_id": "1419350004685930496",
-        "url": "https://www.rotoballer.com/player-news/rico-dowdle-listed-as-questionable-to-play-in-week-7/1973412"
-      },
-      "nfl_team": "PIT",
-      "player_id": "7021",
-      "player_name": "Rico Dowdle",
-      "position": "RB",
-      "published": 1792746911000,
-      "source": "rotoballer",
-      "source_key": "225100",
-      "story_id": "nfl|7021|rotoballer|225100|1792746911000",
-      "title": "Rico Dowdle Listed as Questionable to Play in Week 7",
-      "url": "https://www.rotoballer.com/player-news/rico-dowdle-listed-as-questionable-to-play-in-week-7/1973412"
-    },
-    {
-      "analysis": null,
-      "description": "Los Angeles Rams star wide receiver Puka Nacua (calf) is believed to have suffered a minor injury during Thursday's practice ahead of their Week 7 matchup against the Las Vegas Raiders. NFL Network's Ian Rapoport said that Nacua's calf injury was \"minor compared to anything else, but not precautionary, and it's not nothing.\" Nacua has dealt with a hip/groin injury throughout the early part of the season, but it has not hindered his production, with the fourth-year receiver totaling 428 yards and two touchdowns in four games. With Davante Adams (hamstring) expected to miss more than six weeks, the Rams are thin at the position. Fantasy managers will need to check the Friday practice report to determine whether Nacua will miss Week 7 with this calf injury. If Nacua is out, Konata Mumpfield, Jordan Whittington, and the tight ends will be the main beneficiaries.",
-      "metadata": {
-        "description": "Los Angeles Rams star wide receiver Puka Nacua (calf) is believed to have suffered a minor injury during Thursday's practice ahead of their Week 7 matchup against the Las Vegas Raiders. NFL Network's Ian Rapoport said that Nacua's calf injury was \"minor compared to anything else, but not precautionary, and it's not nothing.\" Nacua has dealt with a hip/groin injury throughout the early part of the season, but it has not hindered his production, with the fourth-year receiver totaling 428 yards and two touchdowns in four games. With Davante Adams (hamstring) expected to miss more than six weeks, the Rams are thin at the position. Fantasy managers will need to check the Friday practice report to determine whether Nacua will miss Week 7 with this calf injury. If Nacua is out, Konata Mumpfield, Jordan Whittington, and the tight ends will be the main beneficiaries.",
-        "title": "Puka Nacua Believed to Have Suffered Minor Calf Injury",
-        "topic_id": "1419348746533117952",
-        "url": "https://www.rotoballer.com/player-news/puka-nacua-believed-to-have-suffered-minor-calf-injury/1973408"
-      },
-      "nfl_team": "LAR",
-      "player_id": "9493",
-      "player_name": "Puka Nacua",
-      "position": "WR",
-      "published": 1792746549000,
-      "source": "rotoballer",
-      "source_key": "225099",
-      "story_id": "nfl|9493|rotoballer|225099|1792746549000",
-      "title": "Puka Nacua Believed to Have Suffered Minor Calf Injury",
-      "url": "https://www.rotoballer.com/player-news/puka-nacua-believed-to-have-suffered-minor-calf-injury/1973408"
-    },
-    {
-      "analysis": "Henderson's modest numbers underscore how modest a role he filled in the high-scoring loss. Rhamondre Stevenson had just six carries in his own right, but he also recorded a team-high 93 receiving yards on five catches. Henderson's rush attempts and rushing yards were both season lows, and the second-year back will look to bounce back in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
-      "description": "Henderson rushed three times for nine yards and secured both targets for 14 yards in the Patriots' 30-24 loss to the Bears on Thursday.",
-      "metadata": {
-        "analysis": "Henderson's modest numbers underscore how modest a role he filled in the high-scoring loss. Rhamondre Stevenson had just six carries in his own right, but he also recorded a team-high 93 receiving yards on five catches. Henderson's rush attempts and rushing yards were both season lows, and the second-year back will look to bounce back in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
-        "description": "Henderson rushed three times for nine yards and secured both targets for 14 yards in the Patriots' 30-24 loss to the Bears on Thursday.",
-        "title": "TreVeyon Henderson - Minimal role in Week 7 loss",
-        "topic_id": "1419224162135797760"
-      },
-      "nfl_team": "NE",
-      "player_id": "12529",
-      "player_name": "TreVeyon Henderson",
-      "position": "RB",
-      "published": 1792731575000,
-      "source": "rotowire",
-      "source_key": "643901",
-      "story_id": "nfl|12529|rotowire|643901|1792731575000",
-      "title": "TreVeyon Henderson - Minimal role in Week 7 loss",
-      "url": null
-    },
-    {
-      "analysis": "The veteran tight end was a key contributor throughout the night, finishing with team-high figures in receptions and targets while ending second in receiving yards. All three components of Henry's receiving line also were season-high figures, and he now has between 44 and 71 receiving yards in four consecutive games. Henry will take a 26-296-2 line on 31 targets into a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
-      "description": "Henry secured all seven targets for 71 yards in the Patriots' 30-24 loss to the Bears on Thursday.",
-      "metadata": {
-        "analysis": "The veteran tight end was a key contributor throughout the night, finishing with team-high figures in receptions and targets while ending second in receiving yards. All three components of Henry's receiving line also were season-high figures, and he now has between 44 and 71 receiving yards in four consecutive games. Henry will take a 26-296-2 line on 31 targets into a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
-        "description": "Henry secured all seven targets for 71 yards in the Patriots' 30-24 loss to the Bears on Thursday.",
-        "title": "Hunter Henry - Busy night in Week 7 loss",
-        "topic_id": "1419221645641428992"
-      },
-      "nfl_team": "NE",
-      "player_id": "3214",
-      "player_name": "Hunter Henry",
-      "position": "TE",
-      "published": 1792731229000,
-      "source": "rotowire",
-      "source_key": "643900",
-      "story_id": "nfl|3214|rotowire|643900|1792731229000",
-      "title": "Hunter Henry - Busy night in Week 7 loss",
-      "url": null
-    },
-    {
-      "analysis": "Odunze was encouragingly efficient in the high-scoring win, but he once again saw fellow wideout Luther Burden be more productive. Burden's 130 receiving yards led the Bears on the night, and Odunze appears to have fallen into more of a de facto No. 2 role at this point in the season. Odunze still carries solid fantasy value, however, and he'll carry a 24-381-0 line on 38 targets into a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.",
-      "description": "Odunze brought in four of five targets for 69 yards in the Bears' 30-24 win over the Patriots on Thursday.",
-      "metadata": {
-        "analysis": "Odunze was encouragingly efficient in the high-scoring win, but he once again saw fellow wideout Luther Burden be more productive. Burden's 130 receiving yards led the Bears on the night, and Odunze appears to have fallen into more of a de facto No. 2 role at this point in the season. Odunze still carries solid fantasy value, however, and he'll carry a 24-381-0 line on 38 targets into a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.",
-        "description": "Odunze brought in four of five targets for 69 yards in the Bears' 30-24 win over the Patriots on Thursday.",
-        "title": "Rome Odunze - Outproduced by Burden again",
-        "topic_id": "1419216611117666304"
-      },
-      "nfl_team": "CHI",
-      "player_id": "11620",
-      "player_name": "Rome Odunze",
-      "position": "WR",
-      "published": 1792729913000,
-      "source": "rotowire",
-      "source_key": "643898",
-      "story_id": "nfl|11620|rotowire|643898|1792729913000",
-      "title": "Rome Odunze - Outproduced by Burden again",
-      "url": null
-    },
-    {
-      "analysis": "The second-year tight end continued to shake out of his early-season slump, putting together his second fantasy-friendly performance in a five-day span. Loveland led the Bears in receptions and targets on the night with figures that also qualified as season highs, and he added his second touchdown in five days on a 12-yard grab early in the third quarter. He has a 13-134-2 line in the last two games alone and should continue playing a key role in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2, and he could be in line for even heavier involvement if Cole Kmet (knee) is unable to suit up.",
-      "description": "Loveland secured seven of 12 targets for 69 yards and a touchdown during the Bears' 30-24 win over the Patriots on Thursday.",
-      "metadata": {
-        "analysis": "The second-year tight end continued to shake out of his early-season slump, putting together his second fantasy-friendly performance in a five-day span. Loveland led the Bears in receptions and targets on the night with figures that also qualified as season highs, and he added his second touchdown in five days on a 12-yard grab early in the third quarter. He has a 13-134-2 line in the last two games alone and should continue playing a key role in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2, and he could be in line for even heavier involvement if Cole Kmet (knee) is unable to suit up.",
-        "description": "Loveland secured seven of 12 targets for 69 yards and a touchdown during the Bears' 30-24 win over the Patriots on Thursday.",
-        "title": "Colston Loveland - Continues producing in Week 7 win",
-        "topic_id": "1419215352700665856"
-      },
-      "nfl_team": "CHI",
-      "player_id": "12517",
-      "player_name": "Colston Loveland",
-      "position": "TE",
-      "published": 1792729602000,
-      "source": "rotowire",
-      "source_key": "643897",
-      "story_id": "nfl|12517|rotowire|643897|1792729602000",
-      "title": "Colston Loveland - Continues producing in Week 7 win",
-      "url": null
-    },
-    {
-      "analysis": "Brown entered the night looking to put a fairly forgettable Week 6 return from injury behind him, but the veteran wideout could only slightly improve his numbers in the high-scoring loss. He was fairly quiet until the second half, when he had 16- and 14-yard grabs. Brown did finish second in targets on the night for New England, but Drake Maye focused most on tight end Hunter Henry and running back Rhamondre Stevenson, who saw a combined 12 targets. With Romeo Doubs (IR, shoulder) out for at least three more games, Brown will have a chance to see elevated volume in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
-      "description": "Brown brought in three of six targets for 48 yards in the Patriots' 30-24 loss to the Bears on Thursday.",
-      "metadata": {
-        "analysis": "Brown entered the night looking to put a fairly forgettable Week 6 return from injury behind him, but the veteran wideout could only slightly improve his numbers in the high-scoring loss. He was fairly quiet until the second half, when he had 16- and 14-yard grabs. Brown did finish second in targets on the night for New England, but Drake Maye focused most on tight end Hunter Henry and running back Rhamondre Stevenson, who saw a combined 12 targets. With Romeo Doubs (IR, shoulder) out for at least three more games, Brown will have a chance to see elevated volume in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
-        "description": "Brown brought in three of six targets for 48 yards in the Patriots' 30-24 loss to the Bears on Thursday.",
-        "title": "A.J. Brown - Slight improvement in Week 7 loss",
-        "topic_id": "1419214093960679424"
-      },
-      "nfl_team": "NE",
-      "player_id": "5859",
-      "player_name": "A.J. Brown",
-      "position": "WR",
-      "published": 1792729162000,
-      "source": "rotowire",
-      "source_key": "643895",
-      "story_id": "nfl|5859|rotowire|643895|1792729162000",
-      "title": "A.J. Brown - Slight improvement in Week 7 loss",
-      "url": null
-    },
-    {
-      "analysis": "With Kyle Monangai (toe/thumb) out for a third straight game, Swift once again handled a workhorse role and parlayed it into some solid production. Swift's rushing yardage total was his third highest of the season, and the veteran back got into the end zone for the third straight game on a four-yard run late in the first quarter. He's up to seven rushing touchdowns on the season, but his touches will take a hit if Monangai is able to get healthy enough over the extended time between Thursday's game and a Week 8 road matchup against the Seahawks on Monday night, Nov. 2 to suit up for that contest.",
-      "description": "Swift rushed 22 times for 78 yards and a touchdown and brought in all four targets for 12 yards in the Bears' 30-24 win over the Patriots on Thursday.",
-      "metadata": {
-        "analysis": "With Kyle Monangai (toe/thumb) out for a third straight game, Swift once again handled a workhorse role and parlayed it into some solid production. Swift's rushing yardage total was his third highest of the season, and the veteran back got into the end zone for the third straight game on a four-yard run late in the first quarter. He's up to seven rushing touchdowns on the season, but his touches will take a hit if Monangai is able to get healthy enough over the extended time between Thursday's game and a Week 8 road matchup against the Seahawks on Monday night, Nov. 2 to suit up for that contest.",
-        "description": "Swift rushed 22 times for 78 yards and a touchdown and brought in all four targets for 12 yards in the Bears' 30-24 win over the Patriots on Thursday.",
-        "title": "D'Andre Swift - Grinds out yards, TD in win",
-        "topic_id": "1419211577881640960"
-      },
-      "nfl_team": "CHI",
-      "player_id": "6790",
-      "player_name": "D'Andre Swift",
-      "position": "RB",
-      "published": 1792728688000,
-      "source": "rotowire",
-      "source_key": "643894",
-      "story_id": "nfl|6790|rotowire|643894|1792728688000",
-      "title": "D'Andre Swift - Grinds out yards, TD in win",
-      "url": null
-    },
-    {
-      "analysis": "Stevenson had another tough day on the ground, especially considering he gained 13 of his 22 yards on one carry. However, the veteran back had a standout performance as a receiver, leading the Patriots in receiving yards on the night with a big hand from a weaving 48-yard touchdown catch off an end-of-half screen play. Stevenson is now averaging just 3.7 yards per carry across the first seven games of the campaign, but he's up to a 20-204-1 receiving line on 24 targets heading into a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
-      "description": "Stevenson rushed six times for 22 yards and brought in all five targets for 93 yards and a touchdown in the Patriots' 30-24 loss to the Bears on Thursday.",
-      "metadata": {
-        "analysis": "Stevenson had another tough day on the ground, especially considering he gained 13 of his 22 yards on one carry. However, the veteran back had a standout performance as a receiver, leading the Patriots in receiving yards on the night with a big hand from a weaving 48-yard touchdown catch off an end-of-half screen play. Stevenson is now averaging just 3.7 yards per carry across the first seven games of the campaign, but he's up to a 20-204-1 receiving line on 24 targets heading into a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
-        "description": "Stevenson rushed six times for 22 yards and brought in all five targets for 93 yards and a touchdown in the Patriots' 30-24 loss to the Bears on Thursday.",
-        "title": "Rhamondre Stevenson - Long touchdown reception in loss",
-        "topic_id": "1419209059990511616"
-      },
-      "nfl_team": "NE",
-      "player_id": "7611",
-      "player_name": "Rhamondre Stevenson",
-      "position": "RB",
-      "published": 1792728255000,
-      "source": "rotowire",
-      "source_key": "643893",
-      "story_id": "nfl|7611|rotowire|643893|1792728255000",
-      "title": "Rhamondre Stevenson - Long touchdown reception in loss",
-      "url": null
-    },
-    {
-      "analysis": "Burden comfortably led the Bears in receiving yards with the second-highest total of his career, and he added his second touchdown catch of the season on a 24-yard grab just before halftime. He also had a game-long 58-yard catch late in the first quarter to set up a D'Andre Swift four-yard touchdown one play later, and the fleet-footed receiver has accumulated 225 of his 491 receiving yards on the season in the last two games alone. Burden has arguably overtaken Rome Odunze as Chicago's most explosive pass-catching weapon, and he should play a critical role again in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.",
-      "description": "Burden brought in all four targets for 130 yards and a touchdown and rushed once for seven yards in the Bears' 30-24 win over the Patriots on Thursday.",
-      "metadata": {
-        "analysis": "Burden comfortably led the Bears in receiving yards with the second-highest total of his career, and he added his second touchdown catch of the season on a 24-yard grab just before halftime. He also had a game-long 58-yard catch late in the first quarter to set up a D'Andre Swift four-yard touchdown one play later, and the fleet-footed receiver has accumulated 225 of his 491 receiving yards on the season in the last two games alone. Burden has arguably overtaken Rome Odunze as Chicago's most explosive pass-catching weapon, and he should play a critical role again in a Week 8 road showdown against the Seahawks on Monday night, Nov. 2.",
-        "description": "Burden brought in all four targets for 130 yards and a touchdown and rushed once for seven yards in the Bears' 30-24 win over the Patriots on Thursday.",
-        "title": "Luther Burden - Season-best effort in win",
-        "topic_id": "1419209059986317312"
-      },
-      "nfl_team": "CHI",
-      "player_id": "12519",
-      "player_name": "Luther Burden III",
-      "position": "WR",
-      "published": 1792727951000,
-      "source": "rotowire",
-      "source_key": "643892",
-      "story_id": "nfl|12519|rotowire|643892|1792727951000",
-      "title": "Luther Burden - Season-best effort in win",
-      "url": null
-    },
-    {
-      "analysis": "Williams spearheaded another prolific performance for the Bears offense, leading his squad to another 30-point tally while eclipsing the 300-yard mark for the second time in five days. He tied his season high with 9.3 yards per attempt, and he accomplished his stellar numbers while focusing on a tight pool of five targets. The 2024 first overall pick's two touchdown passes went to Luther Burden (24 yards) and Colston Loveland (12 yards), marking Williams' first multi-TD tally since Week 1. Williams appears to be clicking on all cylinders in his second season in head coach Ben Johnson's aggressive offense, now having completed 71.0 percent of his passes for 1,020 yards through four games heading into a Week 8 road showdown with the defending champion Seahawks on Monday night, Nov. 2.",
-      "description": "Williams completed 22 of 33 passes for 308 yards with two touchdowns and no interceptions while rushing five times for 18 yards in the Bears' 30-24 win over the Patriots on Thursday.",
-      "metadata": {
-        "analysis": "Williams spearheaded another prolific performance for the Bears offense, leading his squad to another 30-point tally while eclipsing the 300-yard mark for the second time in five days. He tied his season high with 9.3 yards per attempt, and he accomplished his stellar numbers while focusing on a tight pool of five targets. The 2024 first overall pick's two touchdown passes went to Luther Burden (24 yards) and Colston Loveland (12 yards), marking Williams' first multi-TD tally since Week 1. Williams appears to be clicking on all cylinders in his second season in head coach Ben Johnson's aggressive offense, now having completed 71.0 percent of his passes for 1,020 yards through four games heading into a Week 8 road showdown with the defending champion Seahawks on Monday night, Nov. 2.",
-        "description": "Williams completed 22 of 33 passes for 308 yards with two touchdowns and no interceptions while rushing five times for 18 yards in the Bears' 30-24 win over the Patriots on Thursday.",
-        "title": "Caleb Williams - Over 300 yards again in win",
-        "topic_id": "1419206543974412288"
-      },
-      "nfl_team": "CHI",
-      "player_id": "11560",
-      "player_name": "Caleb Williams",
-      "position": "QB",
-      "published": 1792727429000,
-      "source": "rotowire",
-      "source_key": "643891",
-      "story_id": "nfl|11560|rotowire|643891|1792727429000",
-      "title": "Caleb Williams - Over 300 yards again in win",
-      "url": null
-    },
-    {
-      "analysis": "Maye's final line was one that could have easily been generated in victory, but the 2024 first-round pick couldn't quite help the Patriots keep pace with the high-powered Bears offense. Nevertheless, he was able to post his second 300-yard effort in the last three games, while also tossing multiple touchdowns for the fourth straight contest. Maye connected with Rhamondre Stevenson and Eli Raridon from 48 and 30 yards, respectively, for those two scoring strikes, the former coming off a screen pass on the last snap of the first half. Those big plays were preceded by Maye's seven-yard scoring run early in the second quarter, and he also pulled his season completion rate up to 65.9 percent with Thursday's highly efficient effort. The third-year signal-caller should have a good opportunity to stay hot in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
-      "description": "Maye completed 24 of 31 passes for 321 yards with two touchdowns and one interception while adding four rushes for 26 yards and another score in the Patriots' 30-24 loss to the Bears on Thursday.",
-      "metadata": {
-        "analysis": "Maye's final line was one that could have easily been generated in victory, but the 2024 first-round pick couldn't quite help the Patriots keep pace with the high-powered Bears offense. Nevertheless, he was able to post his second 300-yard effort in the last three games, while also tossing multiple touchdowns for the fourth straight contest. Maye connected with Rhamondre Stevenson and Eli Raridon from 48 and 30 yards, respectively, for those two scoring strikes, the former coming off a screen pass on the last snap of the first half. Those big plays were preceded by Maye's seven-yard scoring run early in the second quarter, and he also pulled his season completion rate up to 65.9 percent with Thursday's highly efficient effort. The third-year signal-caller should have a good opportunity to stay hot in a Week 8 road matchup against the Dolphins on Sunday, Nov. 1.",
-        "description": "Maye completed 24 of 31 passes for 321 yards with two touchdowns and one interception while adding four rushes for 26 yards and another score in the Patriots' 30-24 loss to the Bears on Thursday.",
-        "title": "Drake Maye - Highly efficient in close loss",
-        "topic_id": "1419204026439942144"
-      },
-      "nfl_team": "NE",
-      "player_id": "11564",
-      "player_name": "Drake Maye",
-      "position": "QB",
-      "published": 1792726979000,
-      "source": "rotowire",
-      "source_key": "643890",
-      "story_id": "nfl|11564|rotowire|643890|1792726979000",
-      "title": "Drake Maye - Highly efficient in close loss",
-      "url": null
     }
   ]
 }
