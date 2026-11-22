@@ -2,61 +2,77 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6324**
-- Newly captured: **48**
+- Stored stories: **6310**
+- Newly captured: **8**
 
 ## Latest news
 
-- **NEW — Kyren Williams** — Kyren Williams (toe) expected to be good to go in Week 12 (2026-11-21T22:56:00.414000Z)
+- **NEW — Puka Nacua** — Puka Nacua - Out even for playoffs (2026-11-22T01:25:56Z)
+  - This update provides a firmer timeline than prior reports and confirms Nacua won't be available for the remainder of the regular season or the playoffs. The Rams have already placed him on injured reserve and will look to others to help fill the massive void in the WR corps left by Nacua's injury. Davante Adams (hamstring) should eventually take on a heavy target share, but he's also on IR and isn't expected to return until at least Week 13. That leaves Konata Mumpfield, CJ Daniels, Tutu Atwell and Xavier Smith as the current healthy wideouts on the team's 53-man roster ahead of next Wednesday's tilt versus the Packers.
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Expected to return for MNF (2026-11-21T23:35:09Z)
+  - Croskey-Merritt has missed the Commanders' last four games while on injured reserve due to a groin injury. He logged a trio of full practices this week and is officially questionable to play Monday, but it sounds like he'll be activated from IR ahead of the contest and make his return against the Bengals. During Croskey-Merritt's absence, Rachaad White has taken on a larger role in the backfield, but White is currently dealing with a heel injury and is also questionable to suit up Monday.
+- **Kyren Williams** — Kyren Williams (toe) expected to be good to go in Week 12 (2026-11-21T22:56:00.414000Z)
   - Williams has the bye week to get fully healthy heading into Week 12. 
   - Source: https://www.fantasypros.com/nfl/news/621746/kyren-williams-toe-expected-to-be-good-to-go-week-12.php
-- **NEW — Kyren Williams** — Kyren Williams - Dealing with sore toe (2026-11-21T21:55:50Z)
+- **Kyren Williams** — Kyren Williams - Dealing with sore toe (2026-11-21T21:55:50Z)
   - The Rams are in the midst of their Week 11 bye, but with a Wednesday game on tap in Week 12, the team is getting back on the practice field this weekend. He'll have three more days to work through the new health concern, but considering McVay's comments, Williams should be fine to continue to work in tandem with fellow RB Blake Corum.
-- **NEW — Treylon Burks** — Treylon Burks - Good to go against Cincinnati (2026-11-21T21:46:04Z)
+- **NEW — Joe Burrow** — Joe Burrow Poised For Another Huge Game In Week 11 (2026-11-21T21:46:15Z)
+  - Source: https://www.rotoballer.com/player-news/joe-burrow-poised-for-another-huge-game-in-week-11/2000567
+- **Treylon Burks** — Treylon Burks - Good to go against Cincinnati (2026-11-21T21:46:04Z)
   - Burks was held out of Friday's practice while managing a foot injury, but he returned Saturday as a full participant, which was enough for him to shed an injury tag for Monday's contest. Over his last six outings, Burks has caught 14 passes on 24 targets for 260 yards and two touchdowns, and he has operated as operated as the Commanders' WR3 since Terry McLaurin suffered a season-ending knee injury in Week 6 against the 49ers.
-- **NEW — Jonathon Brooks** — Jonathon Brooks (groin) ruled out Sunday  (2026-11-21T21:40:59.893000Z)
+- **NEW — Cam Skattebo** — Cam Skattebo to Continue Handling a Heavy Workload (2026-11-21T21:43:13Z)
+  - Source: https://www.rotoballer.com/player-news/cam-skattebo-will-continue-to-handle-heavy-workload-until-tracy-returns-from-ir/2000535
+- **Jonathon Brooks** — Jonathon Brooks (groin) ruled out Sunday  (2026-11-21T21:40:59.893000Z)
   - Brooks will remain on IR for at least one more week. 
   - Source: https://www.fantasypros.com/nfl/news/621727/jonathon-brooks-groin-ruled-out-sunday.php
-- **NEW — Joe Burrow** — Joe Burrow - Officially cleared for Monday Night Football (2026-11-21T21:30:32Z)
+- **Joe Burrow** — Joe Burrow - Officially cleared for Monday Night Football (2026-11-21T21:30:32Z)
   - Burrow dealt with an illness during Week 11 prep, but with no injury tag the 2020 first overall pick has been officially cleared to play Monday night -- and per ESPN.com he is confident he will do so at "full strength." He's thrown at least three touchdowns in each of his last five outings, and over that span he has completed 77.6 percent of his passes for 1,624 yards, 20 touchdowns and three interceptions while turning 13 carries into 47 yards and two scores. The Bengals will face a Commanders defense that ranks 31st in the NFL in passing yards allowed per game (244.8) and 30th in red-zone touchdown rate (71.9 percent).
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks (ankle/foot) placed on IR (2026-11-21T21:26:00.104000Z)
+- **Dontayvion Wicks** — Dontayvion Wicks (ankle/foot) placed on IR (2026-11-21T21:26:00.104000Z)
   - Wicks will miss at least the next four games for Philadelphia. 
   - Source: https://www.fantasypros.com/nfl/news/621722/dontayvion-wicks-anklefoot-placed-on-ir.php
-- **NEW — Rachaad White** — Rachaad White - Questionable for Monday (2026-11-21T21:21:57Z)
+- **NEW — Puka Nacua** — Puka Nacua has Four-to-Five Month Recovery Window (2026-11-21T21:24:05Z)
+  - Source: https://www.rotoballer.com/player-news/puka-nacua-faces-four-to-five-month-recovery/2000522
+- **Rachaad White** — Rachaad White - Questionable for Monday (2026-11-21T21:21:57Z)
   - White was added to the Commanders' Week 11 injury report Friday as limited due to a heel issue, and he followed it up with a DNP one day later before getting tagged ahead of Monday's matchup. At the same time, current IR member Jacory Croskey-Merritt (groin) completed a full week of drills and also is listed as questionable. If he's activated by Monday afternoon, he'll vie with Austin Ekeler and White for touches, assuming the latter avoids inactive status about 90 minutes before an 8:15 p.m. ET kickoff.
-- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Questionable for Week 11 (2026-11-21T21:15:49Z)
+- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Questionable for Week 11 (2026-11-21T21:15:49Z)
   - Croskey-Merritt logged a full week of practice since the Commanders designated him for return from injured reserve Tuesday, which generally is a good sign he'll return to action Monday. Meanwhile, fellow RB Rachaad White was limited Friday and didn't practice Saturday due to a heel issue, also leaving him questionable for Week 11 action. The team will need to activate Croskey-Merritt from IR by Monday afternoon for him to have a chance to suit up, and if that comes to pass, he may have to contend with only Austin Ekeler for touches if White is inhibited or sidelined.
-- **NEW — Jonathon Brooks** — Jonathon Brooks - Staying on IR for Week 11 (2026-11-21T21:13:01Z)
+- **Jonathon Brooks** — Jonathon Brooks - Staying on IR for Week 11 (2026-11-21T21:13:01Z)
   - Brooks was a full practice participant in all three sessions during Week 11 prep. However, the third-year running back is not quite ready to be activated from injured reserve, and he's slated to miss his eighth consecutive game while recovering from a groin injury. Trevor Etienne, Anthony Tyus and AJ Dillon will continue to operate as the Panthers' backfield depth options behind Chuba Hubbard in the absence of Brooks, whose next opportunity to play is Week 12 against the Buccaneers on Monday, Nov. 30.
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks - Placed on injured reserve (2026-11-21T21:09:47Z)
+- **Dontayvion Wicks** — Dontayvion Wicks - Placed on injured reserve (2026-11-21T21:09:47Z)
   - Wicks missed the three games before the Eagles' Week 10 bye due to an ankle injury, and he was limited during Week 11 prep before the team tacked on a foot issue on Friday's practice report, after which he was ruled out for Sunday's contest against the Steelers. Per Tim McManus of ESPN.com, Wicks sustained the foot injury Friday, and it presumably led to his placement on IR. Wicks will be sidelined until at least Philadelphia's Week 15 matchup with Seattle on Saturday, Dec. 19.
-- **NEW — Roman Wilson** — Roman Wilson (finger) activated from IR (2026-11-21T20:25:59.528000Z)
+- **Roman Wilson** — Roman Wilson (finger) activated from IR (2026-11-21T20:25:59.528000Z)
   - Wilson will officially return for Sunday's game against the Eagles. 
   - Source: https://www.fantasypros.com/nfl/news/621715/roman-wilson-finger-activated-from-ir.php
-- **NEW — Michael Pittman Jr.** — Michael Pittman Jr. (foot) not activated from IR (2026-11-21T20:20:59.110000Z)
+- **Michael Pittman Jr.** — Michael Pittman Jr. (foot) not activated from IR (2026-11-21T20:20:59.110000Z)
   - Pittman had been listed as questionable. He will miss at least one more game. 
   - Source: https://www.fantasypros.com/nfl/news/621711/michael-pittman-jr-foot-not-activated-from-ir.php
-- **NEW — Michael Pittman Jr.** — Michael Pittman - Will not return this week (2026-11-21T20:06:51Z)
+- **Michael Pittman Jr.** — Michael Pittman - Will not return this week (2026-11-21T20:06:51Z)
   - Pittman was able to practice fully both Thursday and Friday, but he is not ready to rejoin the mix just yet -- which Pittsburgh confirmed by omitting Pittman from the list of roster moves it made Saturday. Barring an unannounced setback, Pittman figures to continue practicing, and his next chance to take the field will arrive Black Friday, when the Steelers square off against the Broncos.
-- **NEW — Roman Wilson** — Roman Wilson (finger) expected to play Sunday  (2026-11-21T20:00:59.307000Z)
+- **Roman Wilson** — Roman Wilson (finger) expected to play Sunday  (2026-11-21T20:00:59.307000Z)
   - Wilson remains listed as questionable and on injured reserve. He'll return to being a WR3/WR4 for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/621703/roman-wilson-finger-expected-to-play-sunday.php
-- **NEW — Michael Pittman Jr.** — Michael Pittman Jr. (foot) expected to play Sunday  (2026-11-21T20:00:59.296000Z)
+- **Michael Pittman Jr.** — Michael Pittman Jr. (foot) expected to play Sunday  (2026-11-21T20:00:59.296000Z)
   - Pittman remains listed as questionable and on injured reserve. He'll return to being a WR3/WR4 for fantasy managers. 
   - Source: https://www.fantasypros.com/nfl/news/621704/michael-pittman-jr-foot-expected-to-play-sunday.php
-- **NEW — Carson Beck** — Carson Beck (back) ruled out Sunday  (2026-11-21T19:40:59.022000Z)
+- **Carson Beck** — Carson Beck (back) ruled out Sunday  (2026-11-21T19:40:59.022000Z)
   - Beck was added to the injury report late in the week. Josh Johnson will start for Arizona. 
   - Source: https://www.fantasypros.com/nfl/news/621697/carson-beck-back-ruled-out-sunday.php
-- **NEW — Roman Wilson** — Roman Wilson - Activated from IR (2026-11-21T19:38:53Z)
+- **Roman Wilson** — Roman Wilson - Activated from IR (2026-11-21T19:38:53Z)
   - Wilson has missed the Steelers' last four games while on injured reserve due to a left hand injury. He's still listed as questionable for Sunday's game against the Eagles, but his activation from IR indicates that the third-year wide receiver will suit up for the Steelers. Michael Pittman (foot) is staying on IR for at least one more week, so as it stands, Wilson slots in as the team's WR3 behind DK Metcalf and Germie Bernard.
-- **NEW — Carson Beck** — Carson Beck - Officially ruled out (2026-11-21T19:25:31Z)
+- **Carson Beck** — Carson Beck - Officially ruled out (2026-11-21T19:25:31Z)
   - The Cardinals were already preparing for Josh Johnson to operate as the starting quarterback Sunday, as Beck entered the weekend with the questionable tag due to back spasms. Joey Aguilar will operate as Johnson's backup, and Beck's next opportunity to play is Week 12 against the Commanders on Sunday, Nov. 29.
-- **NEW — Tyjae Spears** — Tyjae Spears (knee) placed on IR (2026-11-21T19:05:59.282000Z)
+- **NEW — Bo Nix** — Bo Nix an Attractive Streamer in Plus Matchup (2026-11-21T19:20:17Z)
+  - Source: https://www.rotoballer.com/player-news/bo-nix-an-attractive-stream-in-plus-outing/2000501
+- **Tyjae Spears** — Tyjae Spears (knee) placed on IR (2026-11-21T19:05:59.282000Z)
   - Spears will miss at least the next four games for Tennessee. 
   - Source: https://www.fantasypros.com/nfl/news/621687/tyjae-spears-knee-placed-on-ir.php
-- **NEW — Tyjae Spears** — Tyjae Spears - Lands on injured reserve (2026-11-21T18:44:48Z)
+- **NEW — Rachaad White** — Rachaad White Uncertain for Week 11 (2026-11-21T19:05:13Z)
+  - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-rachaad-white-listed-as-questionable-for-mnf/2000422
+- **NEW — Jacory Croskey-Merritt** — Jacory Croskey-Merritt Expected to Return on Monday (2026-11-21T18:50:17Z)
+  - Source: https://www.rotoballer.com/player-news/jacory-croskey-merritt-expected-to-return-vs-bengals/2000470
+- **Tyjae Spears** — Tyjae Spears - Lands on injured reserve (2026-11-21T18:44:48Z)
   - Spears was sidelined for Weeks 7 and 8 due to a knee injury but was cleared to play against the Jaguars in Week 10, when he turned four carries into 28 yards and failed to haul in his lone target. He was initially listed as questionable for Sunday's game against the Cowboys after logging a full practice Friday, but the Titans have determined that a stint on injured reserve is warranted for the fourth-year running back. Spears will be required to miss at least the next four games, so his next chance to play is Week 15 against the Colts on Sunday, Dec. 20. Tony Pollard will continue to be the workhorse running back for the Titans while Julius Chestnut and rookie fifth-rounder Nicholas Singleton provide depth out of the backfield.
-- **NEW — Josh Jacobs** — Josh Jacobs - Practicing Saturday (2026-11-21T18:29:42Z)
+- **Josh Jacobs** — Josh Jacobs - Practicing Saturday (2026-11-21T18:29:42Z)
   - Head coach Matt LaFleur didn't sound optimistic about Jacobs' chances of playing against the Rams on Wednesday, but the veteran running back will "have a chance to prove" that he can suit up for that contest over the next few days at practice, per Matt Schneidman of The Athletic. Weston Hodkiewicz of the Packers' official site relayed that Jacobs was spotted at Saturday's practice with a "claw-like cast" on his fingers. In the event that Jacobs doesn't play Wednesday, the Packers would enter the game with a backfield of Kaleb Johnson, MarShawn Lloyd and Chris Brooks.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt (groin) trending in right direction for Monday (2026-11-21T18:10:58.481000Z)
   - Commanders coach Dan Quinn said Croskey-Merritt had a "great week" of practice. He'll have a chance to be activated from injured reserve. 
@@ -65,18 +81,18 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - White has been working through a heel injury, but head coach Dan Quinn told reporters Saturday that the fifth-year running back should be available to play. White has operated as the Commanders' RB1 over the team's last four games, but his role will likely shrink for Week 11 given that Jacory Croskey-Merritt (groin) is expected to be activated off injured reserve ahead of Monday night's game.
 - **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Trending toward playing Monday (2026-11-21T17:50:23Z)
   - Head coach Dan Quinn told reporters Saturday that Croskey-Merritt had a "great week" of practice. The second-year running back has missed the Commanders' last four games while on injured reserve due to a groin injury, but it appears as though he'll be activated from IR ahead of Monday's contest. If he's cleared to return, then Croskey-Merritt could split backfield reps with Rachaad White (heel), the latter of whom is also expected to play in Week 11, while Austin Ekeler operates as the change-of-pace back.
-- **NEW — Kyren Williams** — Kyren Williams Dealing With Toe Soreness, Expected to Play in Week 12 (2026-11-21T17:37:13Z)
+- **Kyren Williams** — Kyren Williams Dealing With Toe Soreness, Expected to Play in Week 12 (2026-11-21T17:37:13Z)
   - Source: https://www.rotoballer.com/player-news/kyren-williams-dealing-with-toe-soreness-expected-to-play-vs-packers/2000432
 - **Josh Jacobs** — Josh Jacobs - Unlikely to play Wednesday (2026-11-21T17:17:46Z)
   - Head coach Matt LaFleur did tell reporters Saturday that Jacobs will "have a chance to prove" that he can suit up Wednesday depending on his practice participation over the coming days. However, it appears Jacobs will be sidelined for a second consecutive game while recovering from a procedure to repair a broken right ring finger, which was an injury that he sustained in Week 9 against the Patriots. If he's ruled out for Week 12, then Kaleb Johnson would be in line to lead a Packers backfield that also includes MarShawn Lloyd and Chris Brooks.
-- **NEW — Zay Flowers** — Zay Flowers' Work After the Catch Keeps Him in Week 11 Lineups (2026-11-21T17:15:35Z)
+- **Zay Flowers** — Zay Flowers' Work After the Catch Keeps Him in Week 11 Lineups (2026-11-21T17:15:35Z)
   - Source: https://www.rotoballer.com/player-news/zay-flowers-work-after-the-catch-keeps-him-in-week-11-lineups/2000439
-- **NEW — Joe Burrow** — Joe Burrow Carries No Injury Designation for Monday Night (2026-11-21T17:04:13Z)
+- **Joe Burrow** — Joe Burrow Carries No Injury Designation for Monday Night (2026-11-21T17:04:13Z)
   - Source: https://www.rotoballer.com/player-news/joe-burrow-not-on-injury-report-for-monday-night-football/2000425
 - **Treylon Burks** — Treylon Burks (foot) returns to practice Saturday  (2026-11-21T16:50:58.446000Z)
   - Burks missed practice on Friday. He is trending towards being good to go for Monday's game against the Bengals. 
   - Source: https://www.fantasypros.com/nfl/news/621674/treylon-burks-foot-returns-to-practice-saturday.php
-- **NEW — Jonathon Brooks** — Jonathon Brooks Downgraded to Out Against Ravens (2026-11-21T16:48:19Z)
+- **Jonathon Brooks** — Jonathon Brooks Downgraded to Out Against Ravens (2026-11-21T16:48:19Z)
   - Source: https://www.rotoballer.com/player-news/jonathon-brooks-out-vs-ravens/2000407
 - **Baker Mayfield** — Baker Mayfield (foot) to play Sunday barring setback (2026-11-21T16:45:57.981000Z)
   - Pelissero notes that Mayfield is expected to wear a special orthotic and new cleats to help with the injury he is managing. He will be a mid-to-low-end QB2. 
@@ -86,57 +102,57 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/621673/rachaad-white-heel-not-practice-saturday.php
 - **Carnell Tate** — Carnell Tate - Expected to play Sunday (2026-11-21T16:43:26Z)
   - Tate drew the questionable tag for Week 11 after a full practice Friday, and all signs point toward the rookie fourth-overall pick returning from a two-game absence due to a shoulder injury. With Wan'Dale Robinson (ankle, IR) out for the rest of the year, Tate will lead a Titans wideout group that also includes Elic Ayomanor, Chimere Dike, Xavier Restrepo and Calvin Ridley. Tennessee faces a Dallas defense Sunday that ranks 26th in the NFL in passing yards allowed per game (239.7) and 30th in points allowed per game (28.2).
-- **NEW — Dontayvion Wicks** — Dontayvion Wicks Placed on Injured Reserve (2026-11-21T16:36:11Z)
+- **Dontayvion Wicks** — Dontayvion Wicks Placed on Injured Reserve (2026-11-21T16:36:11Z)
   - Source: https://www.rotoballer.com/player-news/dontayvion-wicks-placed-on-injured-reserve/2000428
 - **Rachaad White** — Rachaad White - Not spotted at Saturday's practice (2026-11-21T16:32:10Z)
   - White was limited in Friday's practice due to a heel injury, but he was not on the field for the portion of Saturday's session open to the media. That puts his availability for Monday's game against the Bengals in jeopardy, although the Commanders could welcome back Jacory Croskey-Merritt (groin) if the latter is cleared to be activated from injured reserve. Austin Ekeler and Robert Henry represent Washington's other options out of the backfield in the event that both White and Croskey-Merritt don't play.
-- **NEW — Chris Rodriguez Jr.** — Chris Rodriguez Jr. Is a Touchdown-Dependent Option in Week 11 (2026-11-21T15:40:11Z)
+- **Chris Rodriguez Jr.** — Chris Rodriguez Jr. Is a Touchdown-Dependent Option in Week 11 (2026-11-21T15:40:11Z)
   - Source: https://www.rotoballer.com/player-news/chris-rodriguez-jr-is-a-touchdown-dependent-option-in-week-11/2000399
-- **NEW — Chimere Dike** — Chimere Dike's Growing Role Makes Him an Intriguing Deep-League Option (2026-11-21T15:32:11Z)
+- **Chimere Dike** — Chimere Dike's Growing Role Makes Him an Intriguing Deep-League Option (2026-11-21T15:32:11Z)
   - Source: https://www.rotoballer.com/player-news/chimere-dikes-growing-role-makes-him-an-intriguing-deep-league-option/2000391
 - **Baker Mayfield** — Baker Mayfield - Working through plantar fascia injury (2026-11-21T15:31:12Z)
   - Mayfield missed three games earlier in the season due to a dislocated right thumb, and he injured his foot during the Buccaneers' Week 9 loss to the Bears. He was in a walking boot during Tampa Bay's bye and received treatment on his foot during Week 11 prep, although head coach Todd Bowles told reporters Friday that Mayfield is "trending in the right direction" to play against Detroit, per Pelissero. As it stands, Mayfield will be under center for the Buccaneers on Sunday, with undrafted rookie Jalon Daniels serving as the backup and Easton Stick operating as the emergency third quarterback.
-- **NEW — Tyjae Spears** — Tyjae Spears Lands on Injured Reserve (2026-11-21T15:27:17Z)
+- **Tyjae Spears** — Tyjae Spears Lands on Injured Reserve (2026-11-21T15:27:17Z)
   - Source: https://www.rotoballer.com/player-news/tyjae-spears-placed-on-injured-reserve-out-at-least-four-weeks/2000283
-- **NEW — Gunnar Helm** — Gunnar Helm Offers Sneaky Streaming Appeal in Favorable Week 11 Matchup (2026-11-21T15:26:16Z)
+- **Gunnar Helm** — Gunnar Helm Offers Sneaky Streaming Appeal in Favorable Week 11 Matchup (2026-11-21T15:26:16Z)
   - Source: https://www.rotoballer.com/player-news/gunnar-helm-offers-sneaky-streaming-appeal-in-favorable-week-11-matchup/2000387
-- **NEW — Carson Beck** — Cardinals Officially Downgrade Carson Beck to Out (2026-11-21T15:24:06Z)
+- **Carson Beck** — Cardinals Officially Downgrade Carson Beck to Out (2026-11-21T15:24:06Z)
   - Source: https://www.rotoballer.com/player-news/cardinals-officially-downgrade-qb-carson-beck-to-out-josh-johnson-will-start/2000309
-- **NEW — Elic Ayomanor** — Elic Ayomanor Has Flex Appeal After Encouraging Week 10 Performance (2026-11-21T15:16:28Z)
+- **Elic Ayomanor** — Elic Ayomanor Has Flex Appeal After Encouraging Week 10 Performance (2026-11-21T15:16:28Z)
   - Source: https://www.rotoballer.com/player-news/elic-ayomanor-has-flex-appeal-after-encouraging-week-10-performance/2000383
-- **NEW — Josh Jacobs** — Josh Jacobs Back at Practice, Unlikely to Play Wednesday (2026-11-21T15:15:32Z)
+- **Josh Jacobs** — Josh Jacobs Back at Practice, Unlikely to Play Wednesday (2026-11-21T15:15:32Z)
   - Source: https://www.rotoballer.com/player-news/josh-jacobs-back-at-practice-saturday/2000275
-- **NEW — Mike Evans** — Mike Evans Set to Return on Sunday (2026-11-21T15:14:16Z)
+- **Mike Evans** — Mike Evans Set to Return on Sunday (2026-11-21T15:14:16Z)
   - Source: https://www.rotoballer.com/player-news/mike-evans-set-to-return-sunday/2000296
-- **NEW — Carnell Tate** — Carnell Tate Offers High-End WR2 Upside if He Returns Against Dallas (2026-11-21T15:12:23Z)
+- **Carnell Tate** — Carnell Tate Offers High-End WR2 Upside if He Returns Against Dallas (2026-11-21T15:12:23Z)
   - Source: https://www.rotoballer.com/player-news/carnell-tate-offers-high-end-wr2-upside-if-he-returns-against-dallas/2000378
 - **Breece Hall** — Breece Hall - Still viewed as Jets' top backfield option (2026-11-21T15:12:20Z)
   - "Obviously, [Hall] and Garrett Wilson are guys that we really try to target for the most part...Hall will end up getting a tick more [touches] because, again, he's our starting running back," Glenn said Friday. In his two outings since returning from a five-game absence due to a quad injury, Hall has turned 26 carries into 102 yards (3.9 YPC) while catching seven of eight passes for 93 yards, and he topped 100 scrimmage yards against the Bills in Week 10. Braelon Allen has reverted to RB2 duties in Hall's return, but the former has still been efficient with his touches and is still firmly in the mix for touches despite the return of Hall. The duo will face a Chargers defense Sunday that ranks 15th in the NFL in rushing yards allowed per game (110.2) and limited Derrick Henry to 10 yards on 10 carries (albeit with two touchdowns) in a 23-20 win over the Ravens in Week 10.
-- **NEW — Tony Pollard** — Tony Pollard Poised for Another RB1 Performance Against Former Team (2026-11-21T14:56:18Z)
+- **Tony Pollard** — Tony Pollard Poised for Another RB1 Performance Against Former Team (2026-11-21T14:56:18Z)
   - Source: https://www.rotoballer.com/player-news/tony-pollard-poised-for-another-rb1-performance-against-former-team/2000346
-- **NEW — Brandon Aubrey** — Brandon Aubrey A Top-10 Starting Kicker Option For Week 11 (2026-11-21T14:52:11Z)
+- **Brandon Aubrey** — Brandon Aubrey A Top-10 Starting Kicker Option For Week 11 (2026-11-21T14:52:11Z)
   - Source: https://www.rotoballer.com/player-news/brandon-aubrey-a-top-10-kicker-starting-option-for-week-11/2000338
-- **NEW — Cam Ward** — Cam Ward Firmly in the QB1 Conversation in Week 11 vs. Dallas (2026-11-21T14:49:17Z)
+- **Cam Ward** — Cam Ward Firmly in the QB1 Conversation in Week 11 vs. Dallas (2026-11-21T14:49:17Z)
   - Source: https://www.rotoballer.com/player-news/cam-ward-firmly-in-the-qb1-conversation-in-week-11-vs-dallas/2000332
-- **NEW — Cam Skattebo** — Cam Skattebo Re-Enters Top-12 RB Conversation For Week 11 (2026-11-21T14:47:15Z)
+- **Cam Skattebo** — Cam Skattebo Re-Enters Top-12 RB Conversation For Week 11 (2026-11-21T14:47:15Z)
   - Source: https://www.rotoballer.com/player-news/cam-skattebo-re-enters-top-12-rb-conversation-for-week-11/2000328
-- **NEW — Isaiah Likely** — Isaiah Likely An Easy TE1 Despite Tougher Week 11 Matchup (2026-11-21T14:42:11Z)
+- **Isaiah Likely** — Isaiah Likely An Easy TE1 Despite Tougher Week 11 Matchup (2026-11-21T14:42:11Z)
   - Source: https://www.rotoballer.com/player-news/isaiah-likely-an-easy-te1-despite-tougher-week-11-matchup/2000325
-- **NEW — Malik Nabers** — Malik Nabers' Fantasy Ceiling In Question For Week 11 (2026-11-21T14:37:11Z)
+- **Malik Nabers** — Malik Nabers' Fantasy Ceiling In Question For Week 11 (2026-11-21T14:37:11Z)
   - Source: https://www.rotoballer.com/player-news/malik-nabers-fantasy-ceiling-in-question-for-week-11/2000322
-- **NEW — J.J. McCarthy** — J.J. McCarthy Faces Tough Week 11 Test As Giants Starting QB (2026-11-21T14:31:11Z)
+- **J.J. McCarthy** — J.J. McCarthy Faces Tough Week 11 Test As Giants Starting QB (2026-11-21T14:31:11Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-faces-tough-week-11-test-as-giants-starting-qb/2000319
-- **NEW — Puka Nacua** — Puka Nacua's Future With Rams is "Very Uncertain" (2026-11-21T14:28:19Z)
+- **Puka Nacua** — Puka Nacua's Future With Rams is "Very Uncertain" (2026-11-21T14:28:19Z)
   - Source: https://www.rotoballer.com/player-news/puka-nacuas-future-with-the-rams-is-very-uncertain/2000265
-- **NEW — Javonte Williams** — Javonte Williams Should Rebound With Better Production Vs Titans (2026-11-21T14:20:18Z)
+- **Javonte Williams** — Javonte Williams Should Rebound With Better Production Vs Titans (2026-11-21T14:20:18Z)
   - Source: https://www.rotoballer.com/player-news/javonte-williams-should-rebound-with-better-production-vs-titans/2000306
-- **NEW — Ryan Flournoy** — Ryan Flournoy A Viable Fantasy Starter For Week 11 (2026-11-21T14:01:12Z)
+- **Ryan Flournoy** — Ryan Flournoy A Viable Fantasy Starter For Week 11 (2026-11-21T14:01:12Z)
   - Source: https://www.rotoballer.com/player-news/ryan-flournoy-a-viable-fantasy-starter-for-week-11/2000299
-- **NEW — Dak Prescott** — Dak Prescott Poised For Easy QB1 Production Vs Titans (2026-11-21T13:55:47Z)
+- **Dak Prescott** — Dak Prescott Poised For Easy QB1 Production Vs Titans (2026-11-21T13:55:47Z)
   - Source: https://www.rotoballer.com/player-news/dak-prescott-poised-for-easy-qb1-production-vs-titans/2000294
-- **NEW — George Pickens** — George Pickens' Fantasy Upside Improved For Week 11 (2026-11-21T13:50:15Z)
+- **George Pickens** — George Pickens' Fantasy Upside Improved For Week 11 (2026-11-21T13:50:15Z)
   - Source: https://www.rotoballer.com/player-news/george-pickens-fantasy-upside-improved-for-week-11/2000291
-- **NEW — CeeDee Lamb** — CeeDee Lamb Slated For Another Big Game Against Titans (2026-11-21T13:45:34Z)
+- **CeeDee Lamb** — CeeDee Lamb Slated For Another Big Game Against Titans (2026-11-21T13:45:34Z)
   - Source: https://www.rotoballer.com/player-news/ceedee-lamb-slated-for-another-big-game-against-titans/2000288
 - **Oronde Gadsden** — Oronde Gadsden Not a Streamable Tight End in Week 11 (2026-11-21T12:34:11Z)
   - Source: https://www.rotoballer.com/player-news/oronde-gadsden-ii-not-a-streamable-tight-end-in-week-11/2000245
@@ -204,19 +220,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.rotoballer.com/player-news/kalif-raymond-sports-decent-upside-in-favorable-spot/2000092
 - **Jameson Williams** — Jameson Williams a Volatile WR2 Option in Week 11 (2026-11-21T10:35:11Z)
   - Source: https://www.rotoballer.com/player-news/jameson-williams-a-volatile-wr2-option-in-week-11/2000089
-- **DJ Moore** — DJ Moore Trying to Find Rhythm (2026-11-21T10:33:28Z)
-  - Source: https://www.rotoballer.com/player-news/dj-moore-trying-to-find-rhythm/2000085
-- **Kyle Monangai** — Kyle Monangai an RB3 in Return to Lineup (2026-11-21T10:30:18Z)
-  - Source: https://www.rotoballer.com/player-news/kyle-monangai-an-rb3-in-return-to-lineup/2000078
-- **Amon-Ra St. Brown** — Amon-Ra St. Brown a High-End WR1 Option in Week 11 (2026-11-21T10:28:16Z)
-  - Source: https://www.rotoballer.com/player-news/amon-ra-st-brown-a-high-end-wr1-option-in-week-11/2000075
-- **James Cook III** — James Cook III Could Have Another Big Day (2026-11-21T10:24:04Z)
-  - Source: https://www.rotoballer.com/player-news/james-cook-could-have-another-big-day/2000062
-- **Rome Odunze** — Rome Odunze a Solid Week 11 Play (2026-11-21T10:21:17Z)
-  - Source: https://www.rotoballer.com/player-news/rome-odunze-a-solid-week-11-play/2000060
-- **Josh Allen** — Josh Allen Keeping it Rolling (2026-11-21T10:20:18Z)
-  - Source: https://www.rotoballer.com/player-news/josh-allen-keeping-it-rolling/2000058
-- **Jahmyr Gibbs** — Jahmyr Gibbs Remains a High-End RB1 Option Despite Brutal Matchup (2026-11-21T10:17:18Z)
-  - Source: https://www.rotoballer.com/player-news/jahmyr-gibbs-remains-a-high-end-rb1-option-despite-brutal-week-11-matchup/2000056
-- **Colston Loveland** — Colston Loveland a Locked-In Top Option Vs. Saints (2026-11-21T10:15:33Z)
-  - Source: https://www.rotoballer.com/player-news/colston-loveland-a-locked-in-top-option-vs-saints/2000050

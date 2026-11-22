@@ -3415,7 +3415,7 @@
         "starters": [
           "3163",
           "8228",
-          "0",
+          "8116",
           "9487",
           "5947",
           "7569",
@@ -20619,12 +20619,12 @@
       ],
       "first_name": "Roman",
       "full_name": "Roman Wilson",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "last_name": "Wilson",
       "nfl_team": "PIT",
       "player_id": "11630",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "years_exp": 2
     },
     "11631": {
@@ -21565,7 +21565,7 @@
       ],
       "first_name": "Carson",
       "full_name": "Carson Beck",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Beck",
       "nfl_team": "ARI",
       "player_id": "13272",
@@ -23650,7 +23650,7 @@
       ],
       "first_name": "Treylon",
       "full_name": "Treylon Burks",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Burks",
       "nfl_team": "WAS",
       "player_id": "8135",
@@ -23770,7 +23770,7 @@
       ],
       "first_name": "Kyren",
       "full_name": "Kyren Williams",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Williams",
       "nfl_team": "LAR",
       "player_id": "8150",
@@ -24115,12 +24115,12 @@
       ],
       "first_name": "Dontayvion",
       "full_name": "Dontayvion Wicks",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Wicks",
       "nfl_team": "PHI",
       "player_id": "9486",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 3
     },
     "9487": {
@@ -24235,12 +24235,12 @@
       ],
       "first_name": "Tyjae",
       "full_name": "Tyjae Spears",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Spears",
       "nfl_team": "TEN",
       "player_id": "9508",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 3
     },
     "9509": {
@@ -24656,8 +24656,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-21T18:13:09Z",
-    "source_fingerprint": "5e0081c8bcdc437dffed7ac29767cf11874b3a52b62191c73c67a46cc8b93a6d"
+    "last_changed_at": "2026-11-21T23:22:16Z",
+    "source_fingerprint": "92f91c09ce405dcd7f5f10894f66c6e1216fe17ced8d9006a359d53a967221a9"
   },
   "teams": [
     {

@@ -1,56 +1,16 @@
 {
-  "last_checked_at": "2026-11-21T23:22:17Z",
+  "last_checked_at": "2026-11-22T03:18:39Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 299,
   "new_story_ids": [
-    "nfl|10219|rotoballer|228563|1795275611000",
-    "nfl|11533|rotoballer|228548|1795272731000",
-    "nfl|11565|rotoballer|228541|1795271471000",
-    "nfl|11583|fantasy_pros|621727|1795297259893",
-    "nfl|11583|rotoballer|228569|1795279699000",
-    "nfl|11583|rotowire|648981|1795295581000",
-    "nfl|11630|fantasy_pros|621703|1795291259307",
-    "nfl|11630|fantasy_pros|621715|1795292759528",
-    "nfl|11630|rotowire|648974|1795289933000",
-    "nfl|11632|rotoballer|228543|1795271831000",
-    "nfl|11783|rotoballer|228537|1795269672000",
-    "nfl|12481|rotoballer|228547|1795272435000",
-    "nfl|12499|rotoballer|228554|1795274188000",
-    "nfl|12502|rotoballer|228558|1795274776000",
-    "nfl|12522|rotoballer|228546|1795272557000",
-    "nfl|12533|rotowire|648982|1795295749000",
-    "nfl|12540|rotoballer|228560|1795275131000",
-    "nfl|13272|fantasy_pros|621697|1795290059022",
-    "nfl|13272|rotoballer|228559|1795274646000",
-    "nfl|13272|rotowire|648971|1795289131000",
-    "nfl|13279|rotoballer|228557|1795273943000",
-    "nfl|2216|rotoballer|228556|1795274056000",
-    "nfl|3294|rotoballer|228536|1795269347000",
-    "nfl|5850|rotoballer|228555|1795274132000",
-    "nfl|5850|rotowire|648967|1795285782000",
-    "nfl|5967|rotoballer|228551|1795272978000",
-    "nfl|6770|rotoballer|228570|1795280653000",
-    "nfl|6770|rotowire|648986|1795296632000",
-    "nfl|6786|rotoballer|228534|1795268734000",
-    "nfl|6819|fantasy_pros|621704|1795291259296",
-    "nfl|6819|fantasy_pros|621711|1795292459110",
-    "nfl|6819|rotowire|648977|1795291611000",
-    "nfl|7588|rotoballer|228539|1795270818000",
-    "nfl|8131|rotoballer|228544|1795272131000",
-    "nfl|8135|rotowire|648987|1795297564000",
-    "nfl|8136|rotowire|648983|1795296117000",
-    "nfl|8137|rotoballer|228535|1795269015000",
-    "nfl|8150|fantasy_pros|621746|1795301760414",
-    "nfl|8150|rotoballer|228572|1795282633000",
-    "nfl|8150|rotowire|648989|1795298150000",
-    "nfl|9486|fantasy_pros|621722|1795296360104",
-    "nfl|9486|rotoballer|228568|1795278971000",
-    "nfl|9486|rotowire|648980|1795295387000",
-    "nfl|9493|rotoballer|228542|1795271299000",
-    "nfl|9508|fantasy_pros|621687|1795287959282",
-    "nfl|9508|rotoballer|228561|1795274837000",
-    "nfl|9508|rotowire|648968|1795286688000",
-    "nfl|9997|rotoballer|228571|1795281335000"
+    "nfl|11563|rotoballer|228577|1795288817000",
+    "nfl|12481|rotoballer|228580|1795297393000",
+    "nfl|12533|rotoballer|228575|1795287017000",
+    "nfl|12533|rotowire|648990|1795304109000",
+    "nfl|6770|rotoballer|228579|1795297575000",
+    "nfl|8136|rotoballer|228576|1795287913000",
+    "nfl|9493|rotoballer|228578|1795296245000",
+    "nfl|9493|rotowire|649027|1795310756000"
   ],
   "schema_version": 1,
   "source": {
@@ -60,6 +20,46 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "This update provides a firmer timeline than prior reports and confirms Nacua won't be available for the remainder of the regular season or the playoffs. The Rams have already placed him on injured reserve and will look to others to help fill the massive void in the WR corps left by Nacua's injury. Davante Adams (hamstring) should eventually take on a heavy target share, but he's also on IR and isn't expected to return until at least Week 13. That leaves Konata Mumpfield, CJ Daniels, Tutu Atwell and Xavier Smith as the current healthy wideouts on the team's 53-man roster ahead of next Wednesday's tilt versus the Packers.",
+      "description": "Nacua (knee) is expected to be sidelined 4-to-5 months after undergoing MCL surgery, which means he likely won't be able to return to action even if the Rams advance to the Super Bowl, Adam Schefter of ESPN reports.",
+      "metadata": {
+        "analysis": "This update provides a firmer timeline than prior reports and confirms Nacua won't be available for the remainder of the regular season or the playoffs. The Rams have already placed him on injured reserve and will look to others to help fill the massive void in the WR corps left by Nacua's injury. Davante Adams (hamstring) should eventually take on a heavy target share, but he's also on IR and isn't expected to return until at least Week 13. That leaves Konata Mumpfield, CJ Daniels, Tutu Atwell and Xavier Smith as the current healthy wideouts on the team's 53-man roster ahead of next Wednesday's tilt versus the Packers.",
+        "description": "Nacua (knee) is expected to be sidelined 4-to-5 months after undergoing MCL surgery, which means he likely won't be able to return to action even if the Rams advance to the Super Bowl, Adam Schefter of ESPN reports.",
+        "title": "Puka Nacua - Out even for playoffs",
+        "topic_id": "1430041870506921984"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1795310756000,
+      "source": "rotowire",
+      "source_key": "649027",
+      "story_id": "nfl|9493|rotowire|649027|1795310756000",
+      "title": "Puka Nacua - Out even for playoffs",
+      "url": null
+    },
+    {
+      "analysis": "Croskey-Merritt has missed the Commanders' last four games while on injured reserve due to a groin injury. He logged a trio of full practices this week and is officially questionable to play Monday, but it sounds like he'll be activated from IR ahead of the contest and make his return against the Bengals. During Croskey-Merritt's absence, Rachaad White has taken on a larger role in the backfield, but White is currently dealing with a heel injury and is also questionable to suit up Monday.",
+      "description": "Croskey-Merritt (groin) is slated to be activated from IR in time to play in Monday's game against the Bengals, Matt Zenitz of CBS Sports reports.",
+      "metadata": {
+        "analysis": "Croskey-Merritt has missed the Commanders' last four games while on injured reserve due to a groin injury. He logged a trio of full practices this week and is officially questionable to play Monday, but it sounds like he'll be activated from IR ahead of the contest and make his return against the Bengals. During Croskey-Merritt's absence, Rachaad White has taken on a larger role in the backfield, but White is currently dealing with a heel injury and is also questionable to suit up Monday.",
+        "description": "Croskey-Merritt (groin) is slated to be activated from IR in time to play in Monday's game against the Bengals, Matt Zenitz of CBS Sports reports.",
+        "title": "Jacory Croskey-Merritt - Expected to return for MNF",
+        "topic_id": "1430014185261010944"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1795304109000,
+      "source": "rotowire",
+      "source_key": "648990",
+      "story_id": "nfl|12533|rotowire|648990|1795304109000",
+      "title": "Jacory Croskey-Merritt - Expected to return for MNF",
+      "url": null
+    },
     {
       "analysis": "Williams has the bye week to get fully healthy heading into Week 12. ",
       "description": "Kyren Williams has soreness in his toe but he is expected to play against the Packers in Week 12. ",
@@ -102,6 +102,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Cincinnati Bengals quarterback Joe Burrow continued his red hot streak in last week's 38-18 victory over the Pittsburgh Steelers. Burrow completed 35 of 44 pass attempts (80%) for 409 yards and four touchdowns in the blowout win. The Bengals QB has easily been the most valuable quarterback in fantasy over this recent stretch and he will get the opportunity to continue lighting up the box score this Monday night. Burrow and the Bengals will head to Washington to take on the Commanders in prime time. The Commanders defense has not been especially tough on quarterbacks this season and Burrow is playing as well as anyone right now so the matchup should not hold him back. This contest is also tied for the highest over/under of the week, meaning there should be a lot of points on the board when the game ends. Burrow is ranked QB1 in our RotoBaller Week 11 rankings, making him an easy start at the position. Burrow has been playing incredible football lately and he should continue being productive this Monday night.",
+      "metadata": {
+        "description": "Cincinnati Bengals quarterback Joe Burrow continued his red hot streak in last week's 38-18 victory over the Pittsburgh Steelers. Burrow completed 35 of 44 pass attempts (80%) for 409 yards and four touchdowns in the blowout win. The Bengals QB has easily been the most valuable quarterback in fantasy over this recent stretch and he will get the opportunity to continue lighting up the box score this Monday night. Burrow and the Bengals will head to Washington to take on the Commanders in prime time. The Commanders defense has not been especially tough on quarterbacks this season and Burrow is playing as well as anyone right now so the matchup should not hold him back. This contest is also tied for the highest over/under of the week, meaning there should be a lot of points on the board when the game ends. Burrow is ranked QB1 in our RotoBaller Week 11 rankings, making him an easy start at the position. Burrow has been playing incredible football lately and he should continue being productive this Monday night.",
+        "title": "Joe Burrow Poised For Another Huge Game In Week 11",
+        "topic_id": "1430062003879161856",
+        "url": "https://www.rotoballer.com/player-news/joe-burrow-poised-for-another-huge-game-in-week-11/2000567"
+      },
+      "nfl_team": "CIN",
+      "player_id": "6770",
+      "player_name": "Joe Burrow",
+      "position": "QB",
+      "published": 1795297575000,
+      "source": "rotoballer",
+      "source_key": "228579",
+      "story_id": "nfl|6770|rotoballer|228579|1795297575000",
+      "title": "Joe Burrow Poised For Another Huge Game In Week 11",
+      "url": "https://www.rotoballer.com/player-news/joe-burrow-poised-for-another-huge-game-in-week-11/2000567"
+    },
+    {
       "analysis": "Burks was held out of Friday's practice while managing a foot injury, but he returned Saturday as a full participant, which was enough for him to shed an injury tag for Monday's contest. Over his last six outings, Burks has caught 14 passes on 24 targets for 260 yards and two touchdowns, and he has operated as operated as the Commanders' WR3 since Terry McLaurin suffered a season-ending knee injury in Week 6 against the 49ers.",
       "description": "Burks (foot) does not carry an injury designation into Monday's game against the Bengals.",
       "metadata": {
@@ -120,6 +140,26 @@
       "story_id": "nfl|8135|rotowire|648987|1795297564000",
       "title": "Treylon Burks - Good to go against Cincinnati",
       "url": null
+    },
+    {
+      "analysis": null,
+      "description": "New York Giants running back Cam Skattebo has seen a heavier workload in recent weeks, and that's likely to continue going forward. According to Dan Duggan, Skattebo is expected to remain with a heavy workload until Tyrone Tracy Jr. (hamstring) returns from the Injured Reserve. Last week, Skattebo played a season-high 89 percent of the offensive snaps. He carried the ball 18 times for 78 yards with two touchdowns in the loss to the Washington Commanders. It sounds like Skattebo will once again be getting a ton of action in the backfield against the Jacksonville Jaguars in Week 11. The 24-year-old offers RB1 upside for this weekend.",
+      "metadata": {
+        "description": "New York Giants running back Cam Skattebo has seen a heavier workload in recent weeks, and that's likely to continue going forward. According to Dan Duggan, Skattebo is expected to remain with a heavy workload until Tyrone Tracy Jr. (hamstring) returns from the Injured Reserve. Last week, Skattebo played a season-high 89 percent of the offensive snaps. He carried the ball 18 times for 78 yards with two touchdowns in the loss to the Washington Commanders. It sounds like Skattebo will once again be getting a ton of action in the backfield against the Jacksonville Jaguars in Week 11. The 24-year-old offers RB1 upside for this weekend.",
+        "title": "Cam Skattebo to Continue Handling a Heavy Workload",
+        "topic_id": "1430062003874967552",
+        "url": "https://www.rotoballer.com/player-news/cam-skattebo-will-continue-to-handle-heavy-workload-until-tracy-returns-from-ir/2000535"
+      },
+      "nfl_team": "NYG",
+      "player_id": "12481",
+      "player_name": "Cam Skattebo",
+      "position": "RB",
+      "published": 1795297393000,
+      "source": "rotoballer",
+      "source_key": "228580",
+      "story_id": "nfl|12481|rotoballer|228580|1795297393000",
+      "title": "Cam Skattebo to Continue Handling a Heavy Workload",
+      "url": "https://www.rotoballer.com/player-news/cam-skattebo-will-continue-to-handle-heavy-workload-until-tracy-returns-from-ir/2000535"
     },
     {
       "analysis": "Brooks will remain on IR for at least one more week. ",
@@ -182,6 +222,26 @@
       "story_id": "nfl|9486|fantasy_pros|621722|1795296360104",
       "title": "Dontayvion Wicks (ankle/foot) placed on IR",
       "url": "https://www.fantasypros.com/nfl/news/621722/dontayvion-wicks-anklefoot-placed-on-ir.php"
+    },
+    {
+      "analysis": null,
+      "description": "Los Angeles Rams wide receiver Puka Nacua (knee) is expected to miss 4-to-5 months of action after undergoing MCL surgery, Adam Schefter reports. Nacua is out for the rest of the season and is unlikely to return during the playoffs. Nacua may have taken his last snap with the team. He is in the final year of his rookie contract and is scheduled to be an unrestricted free agent in 2027. He'll finish this season with 70 receptions, 715 receiving yards and four touchdowns in seven games. The Rams will need to lean on Konata Mumpfield, CJ Daniels, and Tutu Atwell, with Nacua and Davante Adams (hamstring) both sidelined right now. Fantasy managers in redraft formats are safe to drop Nacua.",
+      "metadata": {
+        "description": "Los Angeles Rams wide receiver Puka Nacua (knee) is expected to miss 4-to-5 months of action after undergoing MCL surgery, Adam Schefter reports. Nacua is out for the rest of the season and is unlikely to return during the playoffs. Nacua may have taken his last snap with the team. He is in the final year of his rookie contract and is scheduled to be an unrestricted free agent in 2027. He'll finish this season with 70 receptions, 715 receiving yards and four touchdowns in seven games. The Rams will need to lean on Konata Mumpfield, CJ Daniels, and Tutu Atwell, with Nacua and Davante Adams (hamstring) both sidelined right now. Fantasy managers in redraft formats are safe to drop Nacua.",
+        "title": "Puka Nacua has Four-to-Five Month Recovery Window",
+        "topic_id": "1430056970227834880",
+        "url": "https://www.rotoballer.com/player-news/puka-nacua-faces-four-to-five-month-recovery/2000522"
+      },
+      "nfl_team": "LAR",
+      "player_id": "9493",
+      "player_name": "Puka Nacua",
+      "position": "WR",
+      "published": 1795296245000,
+      "source": "rotoballer",
+      "source_key": "228578",
+      "story_id": "nfl|9493|rotoballer|228578|1795296245000",
+      "title": "Puka Nacua has Four-to-Five Month Recovery Window",
+      "url": "https://www.rotoballer.com/player-news/puka-nacua-faces-four-to-five-month-recovery/2000522"
     },
     {
       "analysis": "White was added to the Commanders' Week 11 injury report Friday as limited due to a heel issue, and he followed it up with a DNP one day later before getting tagged ahead of Monday's matchup. At the same time, current IR member Jacory Croskey-Merritt (groin) completed a full week of drills and also is listed as questionable. If he's activated by Monday afternoon, he'll vie with Austin Ekeler and White for touches, assuming the latter avoids inactive status about 90 minutes before an 8:15 p.m. ET kickoff.",
@@ -429,6 +489,26 @@
       "url": null
     },
     {
+      "analysis": null,
+      "description": "Denver Broncos quarterback Bo Nix is deserving of streaming consideration when his team takes on the visiting Las Vegas Raiders this Sunday. Nix and the Broncos offense had a dismal stretch earlier in the campaign, though he's looked considerably better over the previous few weeks. It's unclear whether the switch to head coach Sean Payton calling plays has had any effect on the former Oregon Duck. Either way, fantasy managers likely have no qualms about the boost in production. There's hope he can keep it rolling in Week 11, too, when Denver lines up with the division-rival Raiders. Through 10 weeks, Las Vegas has allowed the most points per game (28.9) and has been one of the most favorable matchups for fantasy QBs, yielding the second-most points to the position. With his full cast of receiving weapons healthy, a revamped run game behind him, and a vulnerable matchup on tap, Nix sits favorably as RotoBaller's QB13 for the matchup ahead.",
+      "metadata": {
+        "description": "Denver Broncos quarterback Bo Nix is deserving of streaming consideration when his team takes on the visiting Las Vegas Raiders this Sunday. Nix and the Broncos offense had a dismal stretch earlier in the campaign, though he's looked considerably better over the previous few weeks. It's unclear whether the switch to head coach Sean Payton calling plays has had any effect on the former Oregon Duck. Either way, fantasy managers likely have no qualms about the boost in production. There's hope he can keep it rolling in Week 11, too, when Denver lines up with the division-rival Raiders. Through 10 weeks, Las Vegas has allowed the most points per game (28.9) and has been one of the most favorable matchups for fantasy QBs, yielding the second-most points to the position. With his full cast of receiving weapons healthy, a revamped run game behind him, and a vulnerable matchup on tap, Nix sits favorably as RotoBaller's QB13 for the matchup ahead.",
+        "title": "Bo Nix an Attractive Streamer in Plus Matchup",
+        "topic_id": "1430026767808094208",
+        "url": "https://www.rotoballer.com/player-news/bo-nix-an-attractive-stream-in-plus-outing/2000501"
+      },
+      "nfl_team": "DEN",
+      "player_id": "11563",
+      "player_name": "Bo Nix",
+      "position": "QB",
+      "published": 1795288817000,
+      "source": "rotoballer",
+      "source_key": "228577",
+      "story_id": "nfl|11563|rotoballer|228577|1795288817000",
+      "title": "Bo Nix an Attractive Streamer in Plus Matchup",
+      "url": "https://www.rotoballer.com/player-news/bo-nix-an-attractive-stream-in-plus-outing/2000501"
+    },
+    {
       "analysis": "Spears will miss at least the next four games for Tennessee. ",
       "description": "The Titans placed RB Tyjae Spears on injured reserve. ",
       "metadata": {
@@ -448,6 +528,46 @@
       "story_id": "nfl|9508|fantasy_pros|621687|1795287959282",
       "title": "Tyjae Spears (knee) placed on IR",
       "url": "https://www.fantasypros.com/nfl/news/621687/tyjae-spears-knee-placed-on-ir.php"
+    },
+    {
+      "analysis": null,
+      "description": "Washington Commanders running back Rachaad White (heel) is questionable for this week's home clash with the Cincinnati Bengals. White was a late addition to the Commanders' practice report, logging a limited session on Friday, and a DNP to follow as the team preps for a Monday night bout with the Bengals. Earlier on Saturday, head coach Dan Quinn told reporters that White is expected to be available and was held out of practice due to heel soreness. It's a positive sentiment, though he's not guaranteed to suit up. Teammate Jacory Croskey-Merritt (groin), who also has a questionable tag, received the same vote of confidence. Croskey-Merritt practiced in full this week, so he figures to have a better chance of being available. When the duo is healthy, owners can expect White to retain his role in the passing game, while Croskey-Merritt handles most of the early-down work. Veteran backfield mate Austin Ekeler will stay in the mix if either or both are inactive, but would see a steep drop in touches if both are active.",
+      "metadata": {
+        "description": "Washington Commanders running back Rachaad White (heel) is questionable for this week's home clash with the Cincinnati Bengals. White was a late addition to the Commanders' practice report, logging a limited session on Friday, and a DNP to follow as the team preps for a Monday night bout with the Bengals. Earlier on Saturday, head coach Dan Quinn told reporters that White is expected to be available and was held out of practice due to heel soreness. It's a positive sentiment, though he's not guaranteed to suit up. Teammate Jacory Croskey-Merritt (groin), who also has a questionable tag, received the same vote of confidence. Croskey-Merritt practiced in full this week, so he figures to have a better chance of being available. When the duo is healthy, owners can expect White to retain his role in the passing game, while Croskey-Merritt handles most of the early-down work. Veteran backfield mate Austin Ekeler will stay in the mix if either or both are inactive, but would see a steep drop in touches if both are active.",
+        "title": "Rachaad White Uncertain for Week 11",
+        "topic_id": "1430021734592954368",
+        "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-rachaad-white-listed-as-questionable-for-mnf/2000422"
+      },
+      "nfl_team": "WAS",
+      "player_id": "8136",
+      "player_name": "Rachaad White",
+      "position": "RB",
+      "published": 1795287913000,
+      "source": "rotoballer",
+      "source_key": "228576",
+      "story_id": "nfl|8136|rotoballer|228576|1795287913000",
+      "title": "Rachaad White Uncertain for Week 11",
+      "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-rachaad-white-listed-as-questionable-for-mnf/2000422"
+    },
+    {
+      "analysis": null,
+      "description": "Per the team, Washington Commanders running back Jacory Croskey-Merritt (groin) has been deemed questionable for Week 11's Monday night meeting with the Cincinnati Bengals. Croskey-Merritt was placed on injured reserve following Washington's Week 5 tie with the New York Giants. The timing was unfortunate for the second-year pro, as he was coming off his best outing of the season. While Croskey-Merritt has officially drawn a questionable tag for the home matchup, he appears to be tracking to play, following a week of full practice sessions. Furthermore, it's possible he's thrust into a considerable role, as backfield mate Rachaad White's (heel) status is also uncertain after a late-week DNP due to a heel injury. Head coach Dan Quinn said earlier that White would be able to suit up, but there's no telling whether the soreness will linger. For now, fantasy managers should keep a close eye on the situation, as Croskey-Merritt would get a significant boost if White misses, and vice versa. Austin Ekeler is expected to stay in the mix regardless of the outcome, at least this week.",
+      "metadata": {
+        "description": "Per the team, Washington Commanders running back Jacory Croskey-Merritt (groin) has been deemed questionable for Week 11's Monday night meeting with the Cincinnati Bengals. Croskey-Merritt was placed on injured reserve following Washington's Week 5 tie with the New York Giants. The timing was unfortunate for the second-year pro, as he was coming off his best outing of the season. While Croskey-Merritt has officially drawn a questionable tag for the home matchup, he appears to be tracking to play, following a week of full practice sessions. Furthermore, it's possible he's thrust into a considerable role, as backfield mate Rachaad White's (heel) status is also uncertain after a late-week DNP due to a heel injury. Head coach Dan Quinn said earlier that White would be able to suit up, but there's no telling whether the soreness will linger. For now, fantasy managers should keep a close eye on the situation, as Croskey-Merritt would get a significant boost if White misses, and vice versa. Austin Ekeler is expected to stay in the mix regardless of the outcome, at least this week.",
+        "title": "Jacory Croskey-Merritt Expected to Return on Monday",
+        "topic_id": "1430019217440141312",
+        "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-expected-to-return-vs-bengals/2000470"
+      },
+      "nfl_team": "WAS",
+      "player_id": "12533",
+      "player_name": "Jacory Croskey-Merritt",
+      "position": "RB",
+      "published": 1795287017000,
+      "source": "rotoballer",
+      "source_key": "228575",
+      "story_id": "nfl|12533|rotoballer|228575|1795287017000",
+      "title": "Jacory Croskey-Merritt Expected to Return on Monday",
+      "url": "https://www.rotoballer.com/player-news/jacory-croskey-merritt-expected-to-return-vs-bengals/2000470"
     },
     {
       "analysis": "Spears was sidelined for Weeks 7 and 8 due to a knee injury but was cleared to play against the Jaguars in Week 10, when he turned four carries into 28 yards and failed to haul in his lone target. He was initially listed as questionable for Sunday's game against the Cowboys after logging a full practice Friday, but the Titans have determined that a stint on injured reserve is warranted for the fourth-year running back. Spears will be required to miss at least the next four games, so his next chance to play is Week 15 against the Colts on Sunday, Dec. 20. Tony Pollard will continue to be the workhorse running back for the Titans while Julius Chestnut and rookie fifth-rounder Nicholas Singleton provide depth out of the backfield.",
@@ -127667,453 +127787,6 @@
       "source_key": "643890",
       "story_id": "nfl|11564|rotowire|643890|1792726979000",
       "title": "Drake Maye - Highly efficient in close loss",
-      "url": null
-    },
-    {
-      "analysis": "Stowers has been on injured reserve since Sept. 12 while recovering from a pair of hamstring and quadriceps injuries. The tight end had his 21-day practice window opened Oct. 14, and his ability to open the week with a full practice is a good sign for his chances to return to action Monday night against Dallas.",
-      "description": "Stowers (quadriceps) was a full participant at the Eagles' practice Thursday.",
-      "metadata": {
-        "analysis": "Stowers has been on injured reserve since Sept. 12 while recovering from a pair of hamstring and quadriceps injuries. The tight end had his 21-day practice window opened Oct. 14, and his ability to open the week with a full practice is a good sign for his chances to return to action Monday night against Dallas.",
-        "description": "Stowers (quadriceps) was a full participant at the Eagles' practice Thursday.",
-        "title": "Eli Stowers - Full practice Thursday",
-        "topic_id": "1419167532127879168"
-      },
-      "nfl_team": "PHI",
-      "player_id": "13349",
-      "player_name": "Eli Stowers",
-      "position": "TE",
-      "published": 1792718145000,
-      "source": "rotowire",
-      "source_key": "643874",
-      "story_id": "nfl|13349|rotowire|643874|1792718145000",
-      "title": "Eli Stowers - Full practice Thursday",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots running back Rhamondre Stevenson rushed six times for 22 yards and caught five passes for 93 yards and a touchdown (five targets) in a 30-24 loss to the Chicago Bears on Thursday Night Football. Stevenson led New England's backfield in carries and was the most efficient RB on Thursday, but he made most of his hay in the receiving game, posting a career-high in yards. The sixth-year pro's new personal best was aided in large part by a spectacular catch-and-run in the waning seconds of the first half. Stevenson caught a dump-off on the right side on a play that looked like he was supposed to pitch it back. However, he scampered up the sideline and cut back against the grain, untouched for a 48-yard touchdown. While New England's backfield may be a mess right now, Stevenson is getting most of the snaps and has the most stable role in the receiving game. He'll look to keep this momentum in a divisional clash with the Miami Dolphins in Week 8.",
-      "metadata": {
-        "description": "New England Patriots running back Rhamondre Stevenson rushed six times for 22 yards and caught five passes for 93 yards and a touchdown (five targets) in a 30-24 loss to the Chicago Bears on Thursday Night Football. Stevenson led New England's backfield in carries and was the most efficient RB on Thursday, but he made most of his hay in the receiving game, posting a career-high in yards. The sixth-year pro's new personal best was aided in large part by a spectacular catch-and-run in the waning seconds of the first half. Stevenson caught a dump-off on the right side on a play that looked like he was supposed to pitch it back. However, he scampered up the sideline and cut back against the grain, untouched for a 48-yard touchdown. While New England's backfield may be a mess right now, Stevenson is getting most of the snaps and has the most stable role in the receiving game. He'll look to keep this momentum in a divisional clash with the Miami Dolphins in Week 8.",
-        "title": "Rhamondre Stevenson Rumbles for Long TD in Loss",
-        "topic_id": "1419227935121907712",
-        "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-rumbles-for-long-td-in-loss/1973279"
-      },
-      "nfl_team": "NE",
-      "player_id": "7611",
-      "player_name": "Rhamondre Stevenson",
-      "position": "RB",
-      "published": 1792718110000,
-      "source": "rotoballer",
-      "source_key": "225098",
-      "story_id": "nfl|7611|rotoballer|225098|1792718110000",
-      "title": "Rhamondre Stevenson Rumbles for Long TD in Loss",
-      "url": "https://www.rotoballer.com/player-news/rhamondre-stevenson-rumbles-for-long-td-in-loss/1973279"
-    },
-    {
-      "analysis": "Lock has now been limited in each of Seattle's past five practice sessions, though he was able to suit up last Thursday against Denver. It seems likely that he'll be active again for this Sunday's matchup against Kansas City, though Seattle's practice report Friday should provide more clarity in that regard. If Lock does indeed suit up Sunday, he'll again work as Sam Darnold's backup.",
-      "description": "Lock (elbow) was a limited practice participant Thursday, John Boyle of the Seahawks' official site reports.",
-      "metadata": {
-        "analysis": "Lock has now been limited in each of Seattle's past five practice sessions, though he was able to suit up last Thursday against Denver. It seems likely that he'll be active again for this Sunday's matchup against Kansas City, though Seattle's practice report Friday should provide more clarity in that regard. If Lock does indeed suit up Sunday, he'll again work as Sam Darnold's backup.",
-        "description": "Lock (elbow) was a limited practice participant Thursday, John Boyle of the Seahawks' official site reports.",
-        "title": "Drew Lock - Still limited in practice",
-        "topic_id": "1419163756696473600"
-      },
-      "nfl_team": "SEA",
-      "player_id": "5854",
-      "player_name": "Drew Lock",
-      "position": "QB",
-      "published": 1792717439000,
-      "source": "rotowire",
-      "source_key": "643869",
-      "story_id": "nfl|5854|rotowire|643869|1792717439000",
-      "title": "Drew Lock - Still limited in practice",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Chicago Bears tight end Colston Loveland caught seven passes for 69 yards and a touchdown on a game-high 12 targets in Thursday's 30-24 win over the visiting New England Patriots. Now that's more like it. Loveland built on a strong performance from a week ago in quarterback Caleb Williams' return from a three-game absence and was again a featured part of the game plan. It's the former first-round pick's second straight game with at least six catches, 65 yards, and a touchdown, as Chicago's offense is rounding into form under Williams' direction. Wide receivers Rome Odunze and Luther Burden III will undoubtedly get more involved at times, but things are looking up for Loveland after a string of solid production. Chicago's offense will be put to the test their next time out when they line up against a stingy Seattle Seahawks defense on the road.",
-      "metadata": {
-        "description": "Chicago Bears tight end Colston Loveland caught seven passes for 69 yards and a touchdown on a game-high 12 targets in Thursday's 30-24 win over the visiting New England Patriots. Now that's more like it. Loveland built on a strong performance from a week ago in quarterback Caleb Williams' return from a three-game absence and was again a featured part of the game plan. It's the former first-round pick's second straight game with at least six catches, 65 yards, and a touchdown, as Chicago's offense is rounding into form under Williams' direction. Wide receivers Rome Odunze and Luther Burden III will undoubtedly get more involved at times, but things are looking up for Loveland after a string of solid production. Chicago's offense will be put to the test their next time out when they line up against a stingy Seattle Seahawks defense on the road.",
-        "title": "Colston Loveland Leads Bears in Targets Thursday",
-        "topic_id": "1419225417847443456",
-        "url": "https://www.rotoballer.com/player-news/colston-loveland-leads-bears-in-targets-thursday/1973277"
-      },
-      "nfl_team": "CHI",
-      "player_id": "12517",
-      "player_name": "Colston Loveland",
-      "position": "TE",
-      "published": 1792717214000,
-      "source": "rotoballer",
-      "source_key": "225097",
-      "story_id": "nfl|12517|rotoballer|225097|1792717214000",
-      "title": "Colston Loveland Leads Bears in Targets Thursday",
-      "url": "https://www.rotoballer.com/player-news/colston-loveland-leads-bears-in-targets-thursday/1973277"
-    },
-    {
-      "analysis": "Beck popped up on the Cardinals' injury report with a back issue Wednesday, and he's now trending in the wrong direction ahead of a Week 7 matchup versus the Broncos. If he can't get back on the practice field Friday, it's unlikely he'll be available in any capacity come Sunday.",
-      "description": "Beck (back) did not participate at practice Thursday, Darren Urban of the Cardinals' official site reports.",
-      "metadata": {
-        "analysis": "Beck popped up on the Cardinals' injury report with a back issue Wednesday, and he's now trending in the wrong direction ahead of a Week 7 matchup versus the Broncos. If he can't get back on the practice field Friday, it's unlikely he'll be available in any capacity come Sunday.",
-        "description": "Beck (back) did not participate at practice Thursday, Darren Urban of the Cardinals' official site reports.",
-        "title": "Carson Beck - Unable to practice Thursday",
-        "topic_id": "1419163756608393216"
-      },
-      "nfl_team": "ARI",
-      "player_id": "13272",
-      "player_name": "Carson Beck",
-      "position": "QB",
-      "published": 1792717204000,
-      "source": "rotowire",
-      "source_key": "643868",
-      "story_id": "nfl|13272|rotowire|643868|1792717204000",
-      "title": "Carson Beck - Unable to practice Thursday",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Chicago Bears running back D'Andre Swift totaled 78 yards and a touchdown on 22 carries in Thursday's 30-24 home win over the New England Patriots. He added 12 yards on four receptions. Swift had another inefficient day on the ground, but he scored for the fourth time in three appearances and still got a decent target share (four). Stats aside, Swift looked spry and is a nice fit in Chicago's outside zone scheme. It doesn't seem likely the 27-year-old will see many more 20-plus-carry games, especially with backfield mate Kyle Monangai (toe, thumb) due back eventually. However, the former doesn't need workhorse volume to remain effective for fantasy when he's an ever-present threat to cash in on a touchdown. Swift and the Bears will face stiffer competition on the road their next time out against the Seattle Seahawks.",
-      "metadata": {
-        "description": "Chicago Bears running back D'Andre Swift totaled 78 yards and a touchdown on 22 carries in Thursday's 30-24 home win over the New England Patriots. He added 12 yards on four receptions. Swift had another inefficient day on the ground, but he scored for the fourth time in three appearances and still got a decent target share (four). Stats aside, Swift looked spry and is a nice fit in Chicago's outside zone scheme. It doesn't seem likely the 27-year-old will see many more 20-plus-carry games, especially with backfield mate Kyle Monangai (toe, thumb) due back eventually. However, the former doesn't need workhorse volume to remain effective for fantasy when he's an ever-present threat to cash in on a touchdown. Swift and the Bears will face stiffer competition on the road their next time out against the Seattle Seahawks.",
-        "title": "D'Andre Swift Cruises to Another Strong Performance",
-        "topic_id": "1419220383780909056",
-        "url": "https://www.rotoballer.com/player-news/dandre-swift-cruises-to-another-strong-performance/1973275"
-      },
-      "nfl_team": "CHI",
-      "player_id": "6790",
-      "player_name": "D'Andre Swift",
-      "position": "RB",
-      "published": 1792716249000,
-      "source": "rotoballer",
-      "source_key": "225096",
-      "story_id": "nfl|6790|rotoballer|225096|1792716249000",
-      "title": "D'Andre Swift Cruises to Another Strong Performance",
-      "url": "https://www.rotoballer.com/player-news/dandre-swift-cruises-to-another-strong-performance/1973275"
-    },
-    {
-      "analysis": "Bowers was limited on Wednesday due to a pair of minor injuries that he's managing, but he was upgraded to a full participant on Thursday and will be good to go for Week 7. He will continue to be a top-tier fantasy option at the position for as long as he remains healthy and on the field moving forward.",
-      "description": "Brock Bowers (hamstring/calf) was upgraded to a full participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "Bowers was limited on Wednesday due to a pair of minor injuries that he's managing, but he was upgraded to a full participant on Thursday and will be good to go for Week 7. He will continue to be a top-tier fantasy option at the position for as long as he remains healthy and on the field moving forward.",
-        "description": "Brock Bowers (hamstring/calf) was upgraded to a full participant at practice on Thursday.",
-        "title": "Brock Bowers (hamstring/calf) upgraded to full participant Thursday",
-        "topic_id": "1419156209314938880",
-        "url": "https://www.fantasypros.com/nfl/news/615427/brock-bowers-hamstringcalf-upgraded-to-full-participant-thursday.php"
-      },
-      "nfl_team": "LV",
-      "player_id": "11604",
-      "player_name": "Brock Bowers",
-      "position": "TE",
-      "published": 1792715716255,
-      "source": "fantasy_pros",
-      "source_key": "615427",
-      "story_id": "nfl|11604|fantasy_pros|615427|1792715716255",
-      "title": "Brock Bowers (hamstring/calf) upgraded to full participant Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/615427/brock-bowers-hamstringcalf-upgraded-to-full-participant-thursday.php"
-    },
-    {
-      "analysis": null,
-      "description": "Chicago Bears quarterback Caleb Williams completed 22 of 33 pass attempts for 308 yards and two touchdowns in his team's 30-24 win against the New England Patriots in Week 7. Williams and the Bears' offense were on the attack from their very first drive, and they might have scored another TD had the signal-caller not missed wide receiver Kalif Raymond on third down before settling for a field goal. Regardless, it was another strong effort for the 24-year-old, as he threw for 300-plus yards in consecutive games for the first time in his career. It'd be nice to see Williams use his legs a bit more, but fantasy managers won't have qualms about his output when he looks this comfortable from the pocket. Additionally, that part of his game could return as he's further removed from a hamstring injury. Chicago will face another formidable opponent, the Seattle Seahawks, in Week 8. Williams will again be a solid fantasy play, even with the unfavorable draw.",
-      "metadata": {
-        "description": "Chicago Bears quarterback Caleb Williams completed 22 of 33 pass attempts for 308 yards and two touchdowns in his team's 30-24 win against the New England Patriots in Week 7. Williams and the Bears' offense were on the attack from their very first drive, and they might have scored another TD had the signal-caller not missed wide receiver Kalif Raymond on third down before settling for a field goal. Regardless, it was another strong effort for the 24-year-old, as he threw for 300-plus yards in consecutive games for the first time in his career. It'd be nice to see Williams use his legs a bit more, but fantasy managers won't have qualms about his output when he looks this comfortable from the pocket. Additionally, that part of his game could return as he's further removed from a hamstring injury. Chicago will face another formidable opponent, the Seattle Seahawks, in Week 8. Williams will again be a solid fantasy play, even with the unfavorable draw.",
-        "title": "Caleb Williams Keeps Rolling in Bears' Win",
-        "topic_id": "1419216608760455168",
-        "url": "https://www.rotoballer.com/player-news/caleb-williams-keeps-rolling-in-bears-win/1973273"
-      },
-      "nfl_team": "CHI",
-      "player_id": "11560",
-      "player_name": "Caleb Williams",
-      "position": "QB",
-      "published": 1792715349000,
-      "source": "rotoballer",
-      "source_key": "225095",
-      "story_id": "nfl|11560|rotoballer|225095|1792715349000",
-      "title": "Caleb Williams Keeps Rolling in Bears' Win",
-      "url": "https://www.rotoballer.com/player-news/caleb-williams-keeps-rolling-in-bears-win/1973273"
-    },
-    {
-      "analysis": "The young wideout wasn't able to practice on Thursday, as he's managing an ankle issue of some kind right now. It could threaten his availability for Week 7, but only if he's not able to practice on Friday either.",
-      "description": "Dontayvion Wicks (ankle) was sidelined at practice on Thursday.",
-      "metadata": {
-        "analysis": "The young wideout wasn't able to practice on Thursday, as he's managing an ankle issue of some kind right now. It could threaten his availability for Week 7, but only if he's not able to practice on Friday either.",
-        "description": "Dontayvion Wicks (ankle) was sidelined at practice on Thursday.",
-        "title": "Dontayvion Wicks (ankle) sidelined at practice Thursday",
-        "topic_id": "1419152435179524096",
-        "url": "https://www.fantasypros.com/nfl/news/615424/dontayvion-wicks-ankle-sidelined-practice-thursday.php"
-      },
-      "nfl_team": "PHI",
-      "player_id": "9486",
-      "player_name": "Dontayvion Wicks",
-      "position": "WR",
-      "published": 1792714816430,
-      "source": "fantasy_pros",
-      "source_key": "615424",
-      "story_id": "nfl|9486|fantasy_pros|615424|1792714816430",
-      "title": "Dontayvion Wicks (ankle) sidelined at practice Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/615424/dontayvion-wicks-ankle-sidelined-practice-thursday.php"
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots quarterback Drake Maye tossed for 321 yards and two touchdowns while throwing one interception in Thursday night's 30-24 loss to the Chicago Bears. He added 26 yards and an additional score on four rushes. It was another impressive, efficient (77% completion rate) outing for the former North Carolina Tarheel, as he's scored at least three total touchdowns in four straight games following a less-than-savory start to the campaign. Over the stretch, Maye has posted a stellar 12:1 TD:INT ratio while averaging 299.5 passing yards per clip. Moreover, he's done well to stay on his feet, taking just four total sacks during his hot streak. Up next for New England is a divisional bout with the Dolphins at Hard Rock Stadium. He'll be among the top fantasy options at his position once again.",
-      "metadata": {
-        "description": "New England Patriots quarterback Drake Maye tossed for 321 yards and two touchdowns while throwing one interception in Thursday night's 30-24 loss to the Chicago Bears. He added 26 yards and an additional score on four rushes. It was another impressive, efficient (77% completion rate) outing for the former North Carolina Tarheel, as he's scored at least three total touchdowns in four straight games following a less-than-savory start to the campaign. Over the stretch, Maye has posted a stellar 12:1 TD:INT ratio while averaging 299.5 passing yards per clip. Moreover, he's done well to stay on his feet, taking just four total sacks during his hot streak. Up next for New England is a divisional bout with the Dolphins at Hard Rock Stadium. He'll be among the top fantasy options at his position once again.",
-        "title": "Drake Maye has Another Superb Effort in TNF Defeat",
-        "topic_id": "1419214091574067200",
-        "url": "https://www.rotoballer.com/player-news/drake-maye-posts-another-superb-effort-in-tnf-defeat/1973271"
-      },
-      "nfl_team": "NE",
-      "player_id": "11564",
-      "player_name": "Drake Maye",
-      "position": "QB",
-      "published": 1792714509000,
-      "source": "rotoballer",
-      "source_key": "225094",
-      "story_id": "nfl|11564|rotoballer|225094|1792714509000",
-      "title": "Drake Maye has Another Superb Effort in TNF Defeat",
-      "url": "https://www.rotoballer.com/player-news/drake-maye-posts-another-superb-effort-in-tnf-defeat/1973271"
-    },
-    {
-      "analysis": "Smith is still dealing with a lingering hamstring issue, but he played through it last week, so it seems his absence at practice was more of injury management on the part of the team. He should play on Monday night, but he may be a risky starter with QB Tanner McKee set to be the starter for the Eagles moving forward.",
-      "description": "DeVonta Smith (hamstring) missed Philadelphia's practice on Thursday.",
-      "metadata": {
-        "analysis": "Smith is still dealing with a lingering hamstring issue, but he played through it last week, so it seems his absence at practice was more of injury management on the part of the team. He should play on Monday night, but he may be a risky starter with QB Tanner McKee set to be the starter for the Eagles moving forward.",
-        "description": "DeVonta Smith (hamstring) missed Philadelphia's practice on Thursday.",
-        "title": "DeVonta Smith (hamstring) misses practice Thursday",
-        "topic_id": "1419149918668374016",
-        "url": "https://www.fantasypros.com/nfl/news/615422/devonta-smith-hamstring-misses-practice-wednesday.php"
-      },
-      "nfl_team": "PHI",
-      "player_id": "7525",
-      "player_name": "DeVonta Smith",
-      "position": "WR",
-      "published": 1792714216446,
-      "source": "fantasy_pros",
-      "source_key": "615422",
-      "story_id": "nfl|7525|fantasy_pros|615422|1792714216446",
-      "title": "DeVonta Smith (hamstring) misses practice Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/615422/devonta-smith-hamstring-misses-practice-wednesday.php"
-    },
-    {
-      "analysis": "The rookie seems to be geared up to play in Week 7, as he has logged two-straight full practices to start the week. He isn't likely to be a strong fantasy option in his first few games, but he should be involved enough to hurt the fantasy value of RJ Harvey for the foreseeable future.",
-      "description": "Jonah Coleman (ankle) logged another full practice session on Thursday.",
-      "metadata": {
-        "analysis": "The rookie seems to be geared up to play in Week 7, as he has logged two-straight full practices to start the week. He isn't likely to be a strong fantasy option in his first few games, but he should be involved enough to hurt the fantasy value of RJ Harvey for the foreseeable future.",
-        "description": "Jonah Coleman (ankle) logged another full practice session on Thursday.",
-        "title": "Jonah Coleman (ankle) logs another full practice Thursday",
-        "topic_id": "1419149917498163200",
-        "url": "https://www.fantasypros.com/nfl/news/615418/jonah-coleman-ankle-logs-another-full-practice-thursday.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "13345",
-      "player_name": "Jonah Coleman",
-      "position": "RB",
-      "published": 1792714216168,
-      "source": "fantasy_pros",
-      "source_key": "615418",
-      "story_id": "nfl|13345|fantasy_pros|615418|1792714216168",
-      "title": "Jonah Coleman (ankle) logs another full practice Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/615418/jonah-coleman-ankle-logs-another-full-practice-thursday.php"
-    },
-    {
-      "analysis": "The Eagles let Goedert sit out of their first practice of the week on Thursday. It seems to be just for injury management purposes, but fantasy managers should continue to keep tabs on his status throughout the week to ensure that he will be available to play on Monday night. His fantasy value will be questionable this week even if he's healthy, however, with QB Tanner McKee set to be the starter for the Eagles moving forward.",
-      "description": "Dallas Goedert (knee) did not take part in Philadelphia's practice on Thursday.",
-      "metadata": {
-        "analysis": "The Eagles let Goedert sit out of their first practice of the week on Thursday. It seems to be just for injury management purposes, but fantasy managers should continue to keep tabs on his status throughout the week to ensure that he will be available to play on Monday night. His fantasy value will be questionable this week even if he's healthy, however, with QB Tanner McKee set to be the starter for the Eagles moving forward.",
-        "description": "Dallas Goedert (knee) did not take part in Philadelphia's practice on Thursday.",
-        "title": "Dallas Goedert (knee) doesn't practice Thursday",
-        "topic_id": "1419149917401694208",
-        "url": "https://www.fantasypros.com/nfl/news/615420/dallas-goedert-knee-doesnt-practice-thursday.php"
-      },
-      "nfl_team": "PHI",
-      "player_id": "5022",
-      "player_name": "Dallas Goedert",
-      "position": "TE",
-      "published": 1792714216145,
-      "source": "fantasy_pros",
-      "source_key": "615420",
-      "story_id": "nfl|5022|fantasy_pros|615420|1792714216145",
-      "title": "Dallas Goedert (knee) doesn't practice Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/615420/dallas-goedert-knee-doesnt-practice-thursday.php"
-    },
-    {
-      "analysis": "Barkley was able to make his return to practice on Thursday. He was still a limited participant, but it's a good sign that he was able to participate at all and bodes well for his availability for Week 7. He will re-assume the RB1 job if he's active for Monday night's game against the Cowboys.",
-      "description": "Saquon Barkley (hamstring) was officially a limited participant at practice on Thursday.",
-      "metadata": {
-        "analysis": "Barkley was able to make his return to practice on Thursday. He was still a limited participant, but it's a good sign that he was able to participate at all and bodes well for his availability for Week 7. He will re-assume the RB1 job if he's active for Monday night's game against the Cowboys.",
-        "description": "Saquon Barkley (hamstring) was officially a limited participant at practice on Thursday.",
-        "title": "Saquon Barkley (hamstring) officially limited Thursday",
-        "topic_id": "1419149917342973952",
-        "url": "https://www.fantasypros.com/nfl/news/615421/saquon-barkley-hamstring-officially-limited-thursday.php"
-      },
-      "nfl_team": "PHI",
-      "player_id": "4866",
-      "player_name": "Saquon Barkley",
-      "position": "RB",
-      "published": 1792714216133,
-      "source": "fantasy_pros",
-      "source_key": "615421",
-      "story_id": "nfl|4866|fantasy_pros|615421|1792714216133",
-      "title": "Saquon Barkley (hamstring) officially limited Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/615421/saquon-barkley-hamstring-officially-limited-thursday.php"
-    },
-    {
-      "analysis": "Waddle was limited for a second-straight practice on Thursday. He's dealing with a chest issue right now, and it remains to be seen if it will leave him with an injury designation heading into the weekend. Courtland Sutton will see more work in the off-chance that Waddle is unable to play in Week 7.",
-      "description": "Jaylen Waddle (chest) was limited at practice again on Thursday.",
-      "metadata": {
-        "analysis": "Waddle was limited for a second-straight practice on Thursday. He's dealing with a chest issue right now, and it remains to be seen if it will leave him with an injury designation heading into the weekend. Courtland Sutton will see more work in the off-chance that Waddle is unable to play in Week 7.",
-        "description": "Jaylen Waddle (chest) was limited at practice again on Thursday.",
-        "title": "Jaylen Waddle (chest) limited again Thursday",
-        "topic_id": "1419147398956986368",
-        "url": "https://www.fantasypros.com/nfl/news/615417/jaylen-waddle-chest-limited-again-thursday.php"
-      },
-      "nfl_team": "DEN",
-      "player_id": "7526",
-      "player_name": "Jaylen Waddle",
-      "position": "WR",
-      "published": 1792713615702,
-      "source": "fantasy_pros",
-      "source_key": "615417",
-      "story_id": "nfl|7526|fantasy_pros|615417|1792713615702",
-      "title": "Jaylen Waddle (chest) limited again Thursday",
-      "url": "https://www.fantasypros.com/nfl/news/615417/jaylen-waddle-chest-limited-again-thursday.php"
-    },
-    {
-      "analysis": "Coleman has been full each of the first two days of the practice week but remains on injured reserve. He's eligible to be activated ahead of Sunday's game against the Cardinals. In an offense looking for a jolt, Coleman could immediately have a significant role out of the backfield when he returns. The rookie running back should be rostered in all fantasy formats.",
-      "description": "Coleman (ankle) was a full participant in Thursday's practice.",
-      "metadata": {
-        "analysis": "Coleman has been full each of the first two days of the practice week but remains on injured reserve. He's eligible to be activated ahead of Sunday's game against the Cardinals. In an offense looking for a jolt, Coleman could immediately have a significant role out of the backfield when he returns. The rookie running back should be rostered in all fantasy formats.",
-        "description": "Coleman (ankle) was a full participant in Thursday's practice.",
-        "title": "Jonah Coleman - Remains full participant",
-        "topic_id": "1419144879627403264"
-      },
-      "nfl_team": "DEN",
-      "player_id": "13345",
-      "player_name": "Jonah Coleman",
-      "position": "RB",
-      "published": 1792712763000,
-      "source": "rotowire",
-      "source_key": "643842",
-      "story_id": "nfl|13345|rotowire|643842|1792712763000",
-      "title": "Jonah Coleman - Remains full participant",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "New England Patriots wide receiver A.J. Brown was looking for a bounce-back game on Thursday night on the road against the Chicago Bears, but it did not come. Brown came off Injured Reserve last weekend for Sunday's 26-19 victory over the division-rival New York Jets, but he battled drops and finished with only three catches on 10 targets for 27 yards. The 29-year-old three-time Pro Bowler was held in check again in Thursday's loss to the Bears, as he caught only three of his six targets on the night for 48 yards and no touchdowns. Brown's 48 receiving yards were fourth on the team, and his six targets were only one fewer than tight end Hunter Henry. He has not looked all that comfortable in two games since returning from a high-ankle sprain that he suffered in the Week 1 loss to the Seattle Seahawks. With more time to rest before the team's Week 8 game on the road against the division-rival Miami Dolphins, fantasy managers will be hoping that Brown can finally make some noise in 2026. He has been one of the biggest fantasy busts at the receiver position through the first seven games of the year.",
-      "metadata": {
-        "description": "New England Patriots wide receiver A.J. Brown was looking for a bounce-back game on Thursday night on the road against the Chicago Bears, but it did not come. Brown came off Injured Reserve last weekend for Sunday's 26-19 victory over the division-rival New York Jets, but he battled drops and finished with only three catches on 10 targets for 27 yards. The 29-year-old three-time Pro Bowler was held in check again in Thursday's loss to the Bears, as he caught only three of his six targets on the night for 48 yards and no touchdowns. Brown's 48 receiving yards were fourth on the team, and his six targets were only one fewer than tight end Hunter Henry. He has not looked all that comfortable in two games since returning from a high-ankle sprain that he suffered in the Week 1 loss to the Seattle Seahawks. With more time to rest before the team's Week 8 game on the road against the division-rival Miami Dolphins, fantasy managers will be hoping that Brown can finally make some noise in 2026. He has been one of the biggest fantasy busts at the receiver position through the first seven games of the year.",
-        "title": "A.J. Brown has Another Dud in Thursday's Loss in Chicago",
-        "topic_id": "1419205282852007936",
-        "url": "https://www.rotoballer.com/player-news/a-j-brown-has-another-dud-in-thursdays-loss-in-chicago/1973268"
-      },
-      "nfl_team": "NE",
-      "player_id": "5859",
-      "player_name": "A.J. Brown",
-      "position": "WR",
-      "published": 1792712651000,
-      "source": "rotoballer",
-      "source_key": "225093",
-      "story_id": "nfl|5859|rotoballer|225093|1792712651000",
-      "title": "A.J. Brown has Another Dud in Thursday's Loss in Chicago",
-      "url": "https://www.rotoballer.com/player-news/a-j-brown-has-another-dud-in-thursdays-loss-in-chicago/1973268"
-    },
-    {
-      "analysis": "Shaheed was limited Wednesday but appears to be on track for his normal role Sunday against the Chiefs. Playing behind Jaxon Smith-Njigba and Cooper Kupp in an offense that likes to use multiple tight ends, Shaheed has yet to get going in the receiving department this season, as he has just 14 catches for 162 yards through six contests.",
-      "description": "Shaheed (hip) was a full participant in Thursday's practice, John Boyle of the Seahawks' official site reports.",
-      "metadata": {
-        "analysis": "Shaheed was limited Wednesday but appears to be on track for his normal role Sunday against the Chiefs. Playing behind Jaxon Smith-Njigba and Cooper Kupp in an offense that likes to use multiple tight ends, Shaheed has yet to get going in the receiving department this season, as he has just 14 catches for 162 yards through six contests.",
-        "description": "Shaheed (hip) was a full participant in Thursday's practice, John Boyle of the Seahawks' official site reports.",
-        "title": "Rashid Shaheed - Upgrades to full practice Thursday",
-        "topic_id": "1419143621269045249"
-      },
-      "nfl_team": "SEA",
-      "player_id": "8676",
-      "player_name": "Rashid Shaheed",
-      "position": "WR",
-      "published": 1792712561000,
-      "source": "rotowire",
-      "source_key": "643839",
-      "story_id": "nfl|8676|rotowire|643839|1792712561000",
-      "title": "Rashid Shaheed - Upgrades to full practice Thursday",
-      "url": null
-    },
-    {
-      "analysis": null,
-      "description": "Chicago Bears second-year wide receiver Luther Burden III looked like the second-year breakout player that many fantasy managers envisioned coming into this season in the team's 30-24 victory on Thursday night over the visiting New England Patriots. Burden had a strong connection with quarterback Caleb Williams and caught all four of his targets for a season-high 130 yards and his second touchdown of the 2026 season. His four targets were tied with running back D'Andre Swift for third on the team behind tight end Colston Loveland's 12 and Rome Odunze's five, but he struck for chunk gains and averaged a strong 32.5 yards per reception on the night. Burden also carried the ball once for a gain of seven yards on the ground. It is a second straight strong game for the 22-year-old wideout after he caught all eight of his targets for 95 yards in last week's win over the Atlanta Falcons. The former second-rounder from Missouri is one of Williams' favorite targets and should be considered a must-start after a slow start going into the Monday night matchup in Week 8 on the road against the Seattle Seahawks.",
-      "metadata": {
-        "description": "Chicago Bears second-year wide receiver Luther Burden III looked like the second-year breakout player that many fantasy managers envisioned coming into this season in the team's 30-24 victory on Thursday night over the visiting New England Patriots. Burden had a strong connection with quarterback Caleb Williams and caught all four of his targets for a season-high 130 yards and his second touchdown of the 2026 season. His four targets were tied with running back D'Andre Swift for third on the team behind tight end Colston Loveland's 12 and Rome Odunze's five, but he struck for chunk gains and averaged a strong 32.5 yards per reception on the night. Burden also carried the ball once for a gain of seven yards on the ground. It is a second straight strong game for the 22-year-old wideout after he caught all eight of his targets for 95 yards in last week's win over the Atlanta Falcons. The former second-rounder from Missouri is one of Williams' favorite targets and should be considered a must-start after a slow start going into the Monday night matchup in Week 8 on the road against the Seattle Seahawks.",
-        "title": "Luther Burden III Goes Over Century Mark, Scores in Thursday's Win",
-        "topic_id": "1419204024237924352",
-        "url": "https://www.rotoballer.com/player-news/luther-burden-iii-goes-over-century-mark-scores-in-thursdays-win/1973266"
-      },
-      "nfl_team": "CHI",
-      "player_id": "12519",
-      "player_name": "Luther Burden III",
-      "position": "WR",
-      "published": 1792712296000,
-      "source": "rotoballer",
-      "source_key": "225092",
-      "story_id": "nfl|12519|rotoballer|225092|1792712296000",
-      "title": "Luther Burden III Goes Over Century Mark, Scores in Thursday's Win",
-      "url": "https://www.rotoballer.com/player-news/luther-burden-iii-goes-over-century-mark-scores-in-thursdays-win/1973266"
-    },
-    {
-      "analysis": "In the midst of Seattle activating Charbonnet from the reserve/PUP list Thursday, Charbonnet now has strung together back-to-back uncapped sessions as he aims for his first game action since suffering a torn ACL in his left knee Jan. 17. In addition to head coach Mike Macdonald forecasting Charbonnet's \"full week's worth of reps\" Monday, he told Boyle that \"you could see him on Sunday in some capacity.\" Even if Charbonnet is able to suit up this weekend against the Chiefs, he may enter a timeshare with Emanuel Wilson and George Holani off the bat instead of taking on a leading role.",
-      "description": "Charbonnet (knee) practiced fully Thursday, John Boyle of the Seahawks' official site reports.",
-      "metadata": {
-        "analysis": "In the midst of Seattle activating Charbonnet from the reserve/PUP list Thursday, Charbonnet now has strung together back-to-back uncapped sessions as he aims for his first game action since suffering a torn ACL in his left knee Jan. 17. In addition to head coach Mike Macdonald forecasting Charbonnet's \"full week's worth of reps\" Monday, he told Boyle that \"you could see him on Sunday in some capacity.\" Even if Charbonnet is able to suit up this weekend against the Chiefs, he may enter a timeshare with Emanuel Wilson and George Holani off the bat instead of taking on a leading role.",
-        "description": "Charbonnet (knee) practiced fully Thursday, John Boyle of the Seahawks' official site reports.",
-        "title": "Zach Charbonnet - Another full practice",
-        "topic_id": "1419141104162402304"
-      },
-      "nfl_team": "SEA",
-      "player_id": "9753",
-      "player_name": "Zach Charbonnet",
-      "position": "RB",
-      "published": 1792711985000,
-      "source": "rotowire",
-      "source_key": "643834",
-      "story_id": "nfl|9753|rotowire|643834|1792711985000",
-      "title": "Zach Charbonnet - Another full practice",
-      "url": null
-    },
-    {
-      "analysis": "Love has logged back-to-back DNPs to begin the practice week and appears well on his way to missing a second straight contest Sunday against the Broncos. With Love sidelined for Week 6 against the Rams, Tyler Allgeier narrowly out-snapped Bam Knight 40 to 32, but it was Knight who was far more effective in the box score. While Allgeier out-carried him 15 to 13, Knight picked up 80 rushing yards to Allgeier's 38. Knight added two catches for 18 yards on two targets and would be a worthwhile RB2/flex option in fantasy if Love does miss Sunday's game.",
-      "description": "Love (ankle) remained sidelined at Thursday's practice, Darren Urban of the Cardinals' official site reports.",
-      "metadata": {
-        "analysis": "Love has logged back-to-back DNPs to begin the practice week and appears well on his way to missing a second straight contest Sunday against the Broncos. With Love sidelined for Week 6 against the Rams, Tyler Allgeier narrowly out-snapped Bam Knight 40 to 32, but it was Knight who was far more effective in the box score. While Allgeier out-carried him 15 to 13, Knight picked up 80 rushing yards to Allgeier's 38. Knight added two catches for 18 yards on two targets and would be a worthwhile RB2/flex option in fantasy if Love does miss Sunday's game.",
-        "description": "Love (ankle) remained sidelined at Thursday's practice, Darren Urban of the Cardinals' official site reports.",
-        "title": "Jeremiyah Love - Remains DNP on Thursday",
-        "topic_id": "1419141104158208000"
-      },
-      "nfl_team": "ARI",
-      "player_id": "13287",
-      "player_name": "Jeremiyah Love",
-      "position": "RB",
-      "published": 1792711691000,
-      "source": "rotowire",
-      "source_key": "643833",
-      "story_id": "nfl|13287|rotowire|643833|1792711691000",
-      "title": "Jeremiyah Love - Remains DNP on Thursday",
-      "url": null
-    },
-    {
-      "analysis": "With back-to-back limited practices Wednesday and Thursday, Waddle appears to at least have a good chance to play through the issue Sunday against Arizona. Waddle has been one of the more disappointing early-round fantasy picks through six weeks, collecting just 22 catches for 228 yards and one touchdown on 38 targets across six games.",
-      "description": "Waddle (chest) remained a limited participant in Thursday's practice.",
-      "metadata": {
-        "analysis": "With back-to-back limited practices Wednesday and Thursday, Waddle appears to at least have a good chance to play through the issue Sunday against Arizona. Waddle has been one of the more disappointing early-round fantasy picks through six weeks, collecting just 22 catches for 228 yards and one touchdown on 38 targets across six games.",
-        "description": "Waddle (chest) remained a limited participant in Thursday's practice.",
-        "title": "Jaylen Waddle - Logs limited practice Thursday",
-        "topic_id": "1419138587638661120"
-      },
-      "nfl_team": "DEN",
-      "player_id": "7526",
-      "player_name": "Jaylen Waddle",
-      "position": "WR",
-      "published": 1792711463000,
-      "source": "rotowire",
-      "source_key": "643829",
-      "story_id": "nfl|7526|rotowire|643829|1792711463000",
-      "title": "Jaylen Waddle - Logs limited practice Thursday",
       "url": null
     }
   ]
