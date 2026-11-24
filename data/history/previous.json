@@ -3751,7 +3751,7 @@
           "5012": 3.4,
           "6801": 0.0,
           "6804": 0.0,
-          "7527": 0.35,
+          "7527": 0.15,
           "9226": 0.0,
           "9509": 0.0,
           "9754": 2.0,
@@ -3844,7 +3844,7 @@
           "9482": 1.4,
           "9486": 0.0,
           "KC": 10.0,
-          "SF": 18.0
+          "SF": 17.0
         },
         "points": 94.25,
         "roster_id": 4,
@@ -3928,11 +3928,11 @@
           "8119": 0.0,
           "8154": 0.0,
           "8180": 2.6,
-          "8183": 24.4,
+          "8183": 24.75,
           "DEN": 15.0,
           "HOU": 18.0
         },
-        "points": 140.0,
+        "points": 140.35,
         "roster_id": 5,
         "starters": [
           "8183",
@@ -3948,7 +3948,7 @@
           "HOU"
         ],
         "starters_points": [
-          24.4,
+          24.75,
           14.2,
           19.1,
           6.2,
@@ -4527,10 +4527,10 @@
           "7523": 17.75,
           "7526": 9.1,
           "8122": 5.5,
-          "8408": 3.4,
+          "8408": 4.7,
           "MIN": 1.0
         },
-        "points": 66.55,
+        "points": 67.85,
         "roster_id": 12,
         "starters": [
           "7523",
@@ -4553,7 +4553,7 @@
           9.1,
           0.0,
           11.5,
-          3.4,
+          4.7,
           5.0,
           3.0,
           1.0
@@ -5220,16 +5220,16 @@
         "roster_id": 8,
         "starters": [
           "4046",
-          "4866",
+          "8151",
           "9221",
           "11632",
           "7547",
-          "11783",
-          "8210",
-          "4147",
-          "260",
+          "13346",
+          "12506",
+          "4866",
+          "11559",
           "11533",
-          "LAC"
+          "CLE"
         ],
         "starters_points": [
           0.0,
@@ -20799,7 +20799,7 @@
       ],
       "first_name": "Cam",
       "full_name": "Cam Little",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Little",
       "nfl_team": "JAX",
       "player_id": "11786",
@@ -20979,7 +20979,7 @@
       ],
       "first_name": "Bhayshul",
       "full_name": "Bhayshul Tuten",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Tuten",
       "nfl_team": "JAX",
       "player_id": "12490",
@@ -24656,8 +24656,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-23T04:14:31Z",
-    "source_fingerprint": "5be37a9ec3daef60e140a7896df34f0372cd6c6203204265321e81292e09ce48"
+    "last_changed_at": "2026-11-23T14:48:54Z",
+    "source_fingerprint": "129c1faaede6f67a86a7fa94ac991e0f043c72ed17aa856a9bb348b24ce3c7c0"
   },
   "teams": [
     {
