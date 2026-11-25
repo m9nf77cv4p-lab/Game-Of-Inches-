@@ -2,75 +2,128 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6150**
-- Newly captured: **27**
+- Stored stories: **6100**
+- Newly captured: **26**
 
 ## Latest news
 
-- **NEW — Aaron Rodgers** — Aaron Rodgers to be benched in Week 12 (2026-11-25T04:35:05.735000Z)
+- **NEW — Aaron Rodgers** — Aaron Rodgers - Absent from team facility Wednesday (2026-11-25T14:20:39Z)
+  - The Steelers announced late Tuesday that Mason Rudolph would start Friday's game against the Broncos and that Rodgers would be inactive for the same contest, and Rodgers is seemingly none too pleased with the decision. Per Gerry Dulac of the Pittsburgh Post-Gazette, the situation been "brewing for a while" and "reached the point of no return" following the late-night announcement, leaving Rodgers' future with the Steelers uncertain. According to Adam Schefter of ESPN, Rodgers' absence Wednesday was excused, as the Steelers are giving the veteran signal-caller some time to process his benching.
+- **NEW — Dallas Goedert** — Dallas Goedert (shin) logs full practice Tuesday  (2026-11-25T07:35:06.845000Z)
+  - Goedert will be a low-end TE1 play for fantasy managers in a favorable matchup against the Cowboys on Thursday. 
+  - Source: https://www.fantasypros.com/nfl/news/622433/dallas-goedert-shin-logs-full-practice-tuesday.php
+- **NEW — Saquon Barkley** — Saquon Barkley (neck/illness) logs full practice Tuesday  (2026-11-25T07:35:06.813000Z)
+  - Barkley is on track to be a full-go for Thursday's game against the Cowboys. He'll be an RB2 play for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/622435/saquon-barkley-neckillness-logs-full-practice-tuesday.php
+- **NEW — Pat Bryant** — Pat Bryant (ankle) logs full practice Tuesday  (2026-11-25T07:35:06.803000Z)
+  - Bryant will be a full-go for Friday's game against the Steelers. 
+  - Source: https://www.fantasypros.com/nfl/news/622436/pat-bryant-ankle-logs-full-practice-tuesday.php
+- **NEW — Sam LaPorta** — Sam LaPorta (ankle) logs full practice Tuesday  (2026-11-25T07:25:06.627000Z)
+  - LaPorta should be a TE1 play heading into Thursday's game against the Bears. 
+  - Source: https://www.fantasypros.com/nfl/news/622428/sam-laporta-ankle-logs-full-practice-tuesday.php
+- **NEW — Dalton Kincaid** — Dalton Kincaid (thumb/ankle) limited in practice Tuesday  (2026-11-25T07:25:06.599000Z)
+  - Kincaid told reporters he expects to return on Thursday against the Chiefs after he was sidelined last week. 
+  - Source: https://www.fantasypros.com/nfl/news/622430/dalton-kincaid-thumbankle-limited-practice-tuesday.php
+- **NEW — Jake Ferguson** — Jake Ferguson (ankle/knee) misses practice Tuesday  (2026-11-25T07:20:06.779000Z)
+  - Ferguson is trending in the wrong direction ahead of Thursday's game against the Eagles. 
+  - Source: https://www.fantasypros.com/nfl/news/622420/jake-ferguson-ankleknee-misses-practice-tuesday.php
+- **NEW — Michael Pittman Jr.** — Michael Pittman Jr. (foot) logs full practice Tuesday  (2026-11-25T07:20:06.758000Z)
+  - Pittman is trending towards being activated from injured reserve ahead of Friday's game against the Broncos. He will be a very risky WR3/flex play with Mason Rudolph behind center. 
+  - Source: https://www.fantasypros.com/nfl/news/622422/michael-pittman-jr-foot-logs-full-practice-tuesday.php
+- **NEW — Kyren Williams** — Kyren Williams (toe) off injury report Wednesday  (2026-11-25T07:15:06.945000Z)
+  - Williams will be good to go in his usual role. He remains an RB2 play for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/622417/kyren-williams-toe-off-injury-report-wednesday.php
+- **NEW — Konata Mumpfield** — Konata Mumpfield a Solid Streamer with Potential for Significant Volume (2026-11-25T05:40:11Z)
+  - Source: https://www.rotoballer.com/player-news/konata-mumpfield-a-solid-streamer-with-potential-for-significant-volume/2003758
+- **NEW — Blake Corum** — Blake Corum Set for a Substantial Workload Once Again (2026-11-25T05:31:24Z)
+  - Source: https://www.rotoballer.com/player-news/blake-corum-set-for-a-substantial-workload-once-again/2003754
+- **NEW — Kyren Williams** — Kyren Williams a Glaring Touchdown Candidate for Week 12 (2026-11-25T05:26:16Z)
+  - Source: https://www.rotoballer.com/player-news/kyren-williams-a-glaring-touchdown-candidate-for-week-12/2003743
+- **NEW — Matthew Stafford** — Matthew Stafford Still a Risky Play with Top Targets Out (2026-11-25T05:15:38Z)
+  - Source: https://www.rotoballer.com/player-news/matthew-stafford-still-a-risky-play-with-top-targets-out/2003733
+- **NEW — Zach Charbonnet** — Zach Charbonnet Shouldering a Heavy Workload (2026-11-25T05:06:17Z)
+  - Source: https://www.rotoballer.com/player-news/zach-charbonnet-shouldering-a-heavy-workload/2003724
+- **NEW — Mason Rudolph** — Mason Rudolph to start for Steelers in Week 12 (2026-11-25T04:35:05.941000Z)
+  - The Steelers have made the decision to bench Aaron Rodgers. Rudolph will attempt to revamp the Steelers offense. 
+  - Source: https://www.fantasypros.com/nfl/news/622413/mason-rudolph-to-start-steelers-week-12.php
+- **Aaron Rodgers** — Aaron Rodgers to be benched in Week 12 (2026-11-25T04:35:05.735000Z)
   - Pelissero notes that this was a coaches decision. Mason Rudolph will start for Pittsburgh on Friday. 
   - Source: https://www.fantasypros.com/nfl/news/622412/aaron-rodgers-to-be-benched-week-12.php
-- **NEW — Aaron Rodgers** — Aaron Rodgers - Benched by Pittsburgh (2026-11-25T04:21:02Z)
+- **NEW — Mason Rudolph** — Mason Rudolph - Will start Friday against Denver (2026-11-25T04:25:26Z)
+  - In a stunning move late Tuesday night, the Steelers benched Aaron Rodgers following two straight losses to the Bengals and Eagles, where the offense didn't play well at all, as Rodgers averaged a paltry 5.1 yards per attempt. The Steelers will see if Rudolph can provide a spark for 6-4 Pittsburgh. Rudolph has made 19 career regular-season starts and has averaged 6.6 yards per attempt with a 30:22 TD:INT on 742 pass attempts.
+- **Aaron Rodgers** — Aaron Rodgers - Benched by Pittsburgh (2026-11-25T04:21:02Z)
   - Additionally, Rodgers will be inactive against Denver. It's a stunning late Tuesday night announcement, but the Steelers' playoff chances have taken a hit following back-to-back losses to the Bengals and Eagles, dropping Pittsburgh to 6-4 on the season. Rodgers has been particularly dreadful in both games, completing 45 of 73 passes for 370 yards (5.1 YPA) and three touchdowns. Losing to an Eagles team that was starting Joe Milton proved to be the final straw for coach Mike McCarthy, who will turn things over to Rudolph. Rodgers has already stated that 2026 is his final NFL season. If he's unable to get the job back from Rudolph, there's a chance Rodgers has made his final start.
-- **NEW — J.K. Dobbins** — J.K. Dobbins suspended one game (2026-11-25T03:55:05.506000Z)
+- **J.K. Dobbins** — J.K. Dobbins suspended one game (2026-11-25T03:55:05.506000Z)
   - Dobbins played just one snap last week. Jonah Coleman will remain in his workhorse role in the Broncos backfield. 
   - Source: https://www.fantasypros.com/nfl/news/622411/jk-dobbins-suspended-one-game.php
-- **NEW — Treylon Burks** — Treylon Burks - Hauls in two passes vs. Cincinnati (2026-11-25T00:24:00Z)
+- **NEW — Michael Penix Jr.** — Michael Penix Jr. Lacks Waiver Wire Appeal Ahead of Tough Stretch (2026-11-25T01:05:22Z)
+  - Source: https://www.rotoballer.com/player-news/michael-penix-jr-lacks-waiver-wire-appeal-ahead-of-tough-stretch/2003625
+- **NEW — Tommy DeVito** — Tommy DeVito a Risky Streamer Despite Soft Matchup (2026-11-25T00:48:26Z)
+  - Source: https://www.rotoballer.com/player-news/tommy-devito-a-risky-streamer-despite-soft-matchup/2003588
+- **NEW — Geno Smith** — Geno Smith Surging After Big Win on the Road (2026-11-25T00:32:16Z)
+  - Source: https://www.rotoballer.com/player-news/geno-smith-surging-after-big-win-on-the-road/2003569
+- **NEW — Justin Herbert** — Justin Herbert Still Worth Targeting Amid Injury Concern (2026-11-25T00:25:36Z)
+  - Source: https://www.rotoballer.com/player-news/justin-herbert-still-worth-targeting-amid-injury-concern/2003567
+- **Treylon Burks** — Treylon Burks - Hauls in two passes vs. Cincinnati (2026-11-25T00:24:00Z)
   - Burks' practice reps were limited while managing a foot injury, but the fifth-year wide receiver was cleared by medical staff to play Monday. He brought in passes of 17 and 13 yards in the second and third quarters, respectively, and he finished fourth on the Commanders in receiving yards. Burks has posted three targets or fewer in five of eight regular-season games, but the scoring potential of Washington's offense will be elevated for Week 12 against Arizona, whose defense has given up a league-high 25 passing touchdowns this season.
-- **NEW — Austin Ekeler** — Austin Ekeler - Efficient with carries in Week 11 win (2026-11-25T00:18:38Z)
+- **Austin Ekeler** — Austin Ekeler - Efficient with carries in Week 11 win (2026-11-25T00:18:38Z)
   - Jacory Croskey-Merritt returned from a four-game absence due to a groin injury and finished Monday's game with 13 carries for 54 yards. Despite his return, Ekeler ended up with the second-most carries on the Commanders while Rachaad White -- who led Washington's backfield in Croskey-Merritt's absence -- didn't get a single touch on offense. It appears as though Ekeler is the preferred change-of-pace back in Washington's offense heading into Week 12 against Arizona.
-- **NEW — Rachaad White** — Rachaad White - Limited to return duties in Week 11 (2026-11-25T00:13:06Z)
+- **Rachaad White** — Rachaad White - Limited to return duties in Week 11 (2026-11-25T00:13:06Z)
   - With Jacory Croskey-Merritt back from a four-game absence due to a groin injury, White saw a season-low 15 snaps on offense, and the latter's lone carry early in the fourth quarter was nullified by a defensive offside penalty. Croskey-Merritt and Austin Ekeler were responsible for 20 of the Commanders' 26 rushing attempts Monday, and it looks like the return of the former has squeezed White out of the offensive gameplan. The Commanders will hit the road for each of their next two games, starting with Sunday against the Cardinals.
-- **NEW — Samaje Perine** — Samaje Perine - Totals 97 yards on Monday Night Football (2026-11-25T00:08:35Z)
+- **Samaje Perine** — Samaje Perine - Totals 97 yards on Monday Night Football (2026-11-25T00:08:35Z)
   - The Commanders' defense focused its attention toward slowing down both Ja'Marr Chase and Tee Higgins. That opened up the field for Perine, with most of his production coming on a 44-yard catch late in the second quarter, and the drive ended two plays later with a 31-yard touchdown pass from Joe Burrow to Higgins. Perine finished second on the Bengals in both catches and receiving yards behind tight end Mike Gesicki, and the former's 26 rushing yards were well ahead of Chase Brown's six. Perine has at least 10 touches in each of his last three games, but Cincinnati's offense is mustering only 79.4 rushing yards per game, which is third-worst in the NFL. Given Brown's struggles this season, Perine could take on a larger role in the backfield for Week 12 against the Saints on Sunday.
-- **NEW — Aaron Rodgers** — Aaron Rodgers Benched by Steelers, Will be Inactive on Friday (2026-11-24T23:27:16Z)
+- **NEW — Mason Rudolph** — Mason Rudolph to Start on Friday vs. Broncos (2026-11-24T23:39:15Z)
+  - Source: https://www.rotoballer.com/player-news/mason-rudolph-to-start-on-friday-vs-broncos/2003555
+- **Aaron Rodgers** — Aaron Rodgers Benched by Steelers, Will be Inactive on Friday (2026-11-24T23:27:16Z)
   - Source: https://www.rotoballer.com/player-news/aaron-rodgers-benched-mason-rudolph-to-start-vs-broncos/2003551
-- **NEW — Dallas Goedert** — Dallas Goedert - In clear for Week 12 (2026-11-24T23:12:43Z)
+- **NEW — Zachariah Branch** — Zachariah Branch - Present for unofficial practice (2026-11-24T23:21:51Z)
+  - It's unclear how much work Branch was able to get in Monday, but his presence alone opens the door for a Week 12 return. The Falcons will provide an official update on his status when they release their first injury report of the week Wednesday.
+- **Dallas Goedert** — Dallas Goedert - In clear for Week 12 (2026-11-24T23:12:43Z)
   - Philadelphia deemed Goedert a limited participant on Monday's estimated injury report, but had the team held a traditional practice Tuesday, the veteran tight end would have been able to increase his activity. Goedert thus looks on track to play Thursday, when he'll face off against a Cowboys defense that he burned for five receptions for 48 yards on seven targets back in Week 7.
-- **NEW — Saquon Barkley** — Saquon Barkley - Upgrades to full participation (2026-11-24T23:11:10Z)
+- **Saquon Barkley** — Saquon Barkley - Upgrades to full participation (2026-11-24T23:11:10Z)
   - Though Tuesday's injury report was merely an estimate, Barkley would have been able to take every rep had the Eagles held a traditional practice session. Barkley emerged from this past Sunday's 19-16 win over the Steelers with a neck injury and an illness, but neither health concern looks like it will prevent him from playing Thursday in Dallas.
-- **NEW — Anthony Richardson Sr.** — Anthony Richardson Sr. is Not on the Streaming Radar for Week 12 (2026-11-24T23:09:15Z)
+- **Anthony Richardson Sr.** — Anthony Richardson Sr. is Not on the Streaming Radar for Week 12 (2026-11-24T23:09:15Z)
   - Source: https://www.rotoballer.com/player-news/anthony-richardson-sr-is-not-on-the-streaming-radar-for-week-12/2003548
-- **NEW — Deshaun Watson** — Deshaun Watson is a Risky Streaming Play in Week 12 (2026-11-24T22:53:46Z)
+- **Deshaun Watson** — Deshaun Watson is a Risky Streaming Play in Week 12 (2026-11-24T22:53:46Z)
   - Source: https://www.rotoballer.com/player-news/deshaun-watson-is-a-risky-streaming-play-in-week-12/2003546
-- **NEW — Brandon Aiyuk** — Brandon Aiyuk - Set to visit Commanders (2026-11-24T22:39:39Z)
+- **Brandon Aiyuk** — Brandon Aiyuk - Set to visit Commanders (2026-11-24T22:39:39Z)
   - Aiyuk cleared waivers earlier Tuesday, and he will discuss a potential partnership with Washington a day later. There are still plenty of things to shake out on both sides, but Aiyuk did play with Commanders quarterback Jayden Daniels in college at Arizona State, so there is at least one connection already in place.
-- **NEW — Sam LaPorta** — Sam LaPorta - Ready for Thanksgiving Day (2026-11-24T22:39:17Z)
+- **Sam LaPorta** — Sam LaPorta - Ready for Thanksgiving Day (2026-11-24T22:39:17Z)
   - Now that he's gotten a full practice under his belt this week, LaPorta should be in the clear for Thursday's game against the Bears. The fourth-year tight end is coming off a three-catch, 62-yard performance on six targets in a 31-21 win over the Buccaneers this past Sunday, with the yardage and target totals both representing his highest marks since the Lions' Week 6 bye.
-- **NEW — J.J. McCarthy** — J.J. McCarthy is a Desperation Streaming Play for Week 12 (2026-11-24T22:27:14Z)
+- **J.J. McCarthy** — J.J. McCarthy is a Desperation Streaming Play for Week 12 (2026-11-24T22:27:14Z)
   - Source: https://www.rotoballer.com/player-news/j-j-mccarthy-is-a-desperation-streaming-play-for-week-12/2003540
-- **NEW — Dalton Kincaid** — Dalton Kincaid - Limited Tuesday, plans to play Thursday (2026-11-24T22:25:41Z)
+- **Dalton Kincaid** — Dalton Kincaid - Limited Tuesday, plans to play Thursday (2026-11-24T22:25:41Z)
   - After failing to practice in any fashion in Week 11 before sitting out Sunday's 26-9 win over the Dolphins, Kincaid has been upgraded to a limited participant on both of the Bills' first two injury reports of Week 12. He looks to be in a good spot on the health front as Thursday's game against the Chiefs approaches, with Kincaid telling Matt Parrino of The Syracuse Post-Standard after Tuesday's practice that he'll "most likely" be playing in that contest. The Bills will release their final injury report of the week Wednesday and decide whether Kincaid carries a designation into Thursday.
-- **NEW — Bryce Young** — Panthers Haven't had Many Extension Talks With Bryce Young (2026-11-24T22:24:15Z)
+- **Bryce Young** — Panthers Haven't had Many Extension Talks With Bryce Young (2026-11-24T22:24:15Z)
   - Source: https://www.rotoballer.com/player-news/panthers-havent-had-many-extension-talks-with-bryce-young/2003537
-- **NEW — Brandon Aiyuk** — Brandon Aiyuk - Goes unclaimed, reaches free agency (2026-11-24T22:20:49Z)
+- **Brandon Aiyuk** — Brandon Aiyuk - Goes unclaimed, reaches free agency (2026-11-24T22:20:49Z)
   - After Aiyuk was cut by the 49ers on Monday when his two-week roster exemption expired, none of the league's other 31 teams were willing to cover the prorated salary of $472,500 he was due for the remainder of the season and the hefty non-guaranteed salaries he held for 2027 and 2028. Now that he's able to test the open market, Aiyuk is expected to draw interest from multiple teams. According to Ian Rapoport of NFL Network, Washington is viewed as a potential landing spot for Aiyuk, with the Commanders likely looking to add the 28-year-old wideout to their practice squad.
 - **Sam LaPorta** — Sam LaPorta (ankle) practicing Tuesday  (2026-11-24T22:15:03.775000Z)
   - LaPorta is progressing in the right direction on a short week, as the tight end looks to clear through any tests to suit up against the Chicago Bears on Thanksgiving Day. The tight end remains an impactful intermediate pass-catching option as part of a dynamic Lions offense when healthy.
   - Source: https://www.fantasypros.com/nfl/news/622385/sam-laporta-ankle-practicing-tuesday.php
-- **NEW — Jacoby Brissett** — Jacoby Brissett is Interesting Streaming Choice for Week 12 (2026-11-24T22:06:16Z)
+- **Jacoby Brissett** — Jacoby Brissett is Interesting Streaming Choice for Week 12 (2026-11-24T22:06:16Z)
   - Source: https://www.rotoballer.com/player-news/jacoby-brissett-is-interesting-streaming-choice-for-week-12/2003531
 - **J.K. Dobbins** — J.K. Dobbins - Handed team-imposed one-game ban (2026-11-24T21:57:41Z)
   - Payton didn't go into details regarding what contributed to the Broncos' decision to suspend Dobbins, but the ban comes after the veteran running back played a season-low one snap in Sunday's 38-24 win over the Raiders. Dobbins wasn't present for Wednesday's practice, and Payton confirmed that the 27-year-old will remain away from the team throughout Week 12 prep, per Zac Stevens of TheDNVR.com. With Dobbins out of the picture for Friday's matchup with the Steelers, rookie Jonah Coleman should be in store for another hefty workload out of the backfield after breaking out for 129 yards from scrimmage and three touchdowns on 28 touches in Week 11. Tyler Badie (thumb) was designated for return from injured reserve Tuesday and could be activated to serve as Coleman's top backup.
-- **NEW — Joe Milton** — Joe Milton III is on Streaming Radar for Week 12 (2026-11-24T21:55:15Z)
+- **Joe Milton** — Joe Milton III is on Streaming Radar for Week 12 (2026-11-24T21:55:15Z)
   - Source: https://www.rotoballer.com/player-news/joe-milton-iii-is-on-streaming-radar-for-week-12/2003522
 - **Kenneth Walker III** — Kenneth Walker - Turns in limited practice Tuesday (2026-11-24T21:49:40Z)
   - After he had been listed as a non-participant on five straight injury reports and missed two games along the way, Walker was able to take a step forward Tuesday as he works his way back from a sore groin. Per Nate Taylor of ESPN.com, head coach Andy Reid said prior to the session that Walker was "feeling pretty good," while noting that Tuesday's practice would be important in deciding whether the running back suits up Thursday versus the Bills. Though Walker will reclaim a starting role if he ultimately gets cleared to play Thanksgiving Day, he could wind up ceding more snaps and touches to rookie Emmett Johnson, who shined as the Chiefs' lead back over the past two weeks.
-- **NEW — Baker Mayfield** — Baker Mayfield Offers Superflex Value for Week 12 (2026-11-24T21:44:15Z)
+- **Baker Mayfield** — Baker Mayfield Offers Superflex Value for Week 12 (2026-11-24T21:44:15Z)
   - Source: https://www.rotoballer.com/player-news/baker-mayfield-offers-superflex-value-for-week-12/2003518
 - **Michael Pittman Jr.** — Michael Pittman - Logs another full practice Tuesday (2026-11-24T21:36:36Z)
   - The Steelers haven't yet brought Pittman back from injured reserve, but he stands a good chance at being activated for Friday's game against the Broncos. Pittman was listed as a full participant Tuesday on a third consecutive practice report as he works to regain conditioning after missing the Steelers' last six games.
-- **NEW — Fernando Mendoza** — Fernando Mendoza is on Streaming Radar After Three-Touchdown Game (2026-11-24T21:26:16Z)
+- **Fernando Mendoza** — Fernando Mendoza is on Streaming Radar After Three-Touchdown Game (2026-11-24T21:26:16Z)
   - Source: https://www.rotoballer.com/player-news/fernando-mendoza-is-on-streaming-radar-after-three-touchdown-game/2003513
 - **Jake Ferguson** — Jake Ferguson - Sits out Tuesday's practice (2026-11-24T21:23:39Z)
   - Ferguson hasn't practiced in any fashion since exiting the Cowboys' Week 9 win over the Colts. Unless he's able to mix into drills Wednesday, Ferguson will likely be sidelined for a third straight game Thursday, when the Cowboys host the Eagles in a Thanksgiving Day contest.
-- **NEW — Sam Darnold** — Sam Darnold is an Intriguing Add with Return Looming (2026-11-24T21:16:26Z)
+- **Sam Darnold** — Sam Darnold is an Intriguing Add with Return Looming (2026-11-24T21:16:26Z)
   - Source: https://www.rotoballer.com/player-news/sam-darnold-is-an-intriguing-add-with-return-looming/2003510
-- **NEW — Brandon Aiyuk** — Brandon Aiyuk Trending Towards Joining Commanders' Practice Squad (2026-11-24T20:08:25Z)
+- **Brandon Aiyuk** — Brandon Aiyuk Trending Towards Joining Commanders' Practice Squad (2026-11-24T20:08:25Z)
   - Source: https://www.rotoballer.com/player-news/brandon-aiyuk-trending-towards-joining-commanders-practice-squad-after-speaking-with/2003457
 - **A.J. Brown** — A.J. Brown - Remains absent from practice (2026-11-24T19:46:42Z)
   - New England won't publish its next injury report until Wednesday, but Brown seems unlikely to practice in any capacity this week after head coach Mike Vrabel said Monday that he didn't anticipate the wideout playing this Sunday against the Chargers. Assuming Brown ends up being ruled out for the Week 12 contest, the Patriots will be left with Mack Hollins, DeMario Douglas, Efton Chism and Kyle Williams as their main options at receiver.
-- **NEW — Saquon Barkley** — Saquon Barkley a Full Participant in Eagles Practice on Tuesday (2026-11-24T18:50:13Z)
+- **Saquon Barkley** — Saquon Barkley a Full Participant in Eagles Practice on Tuesday (2026-11-24T18:50:13Z)
   - Source: https://www.rotoballer.com/player-news/saquon-barkley-a-full-participant-in-eagles-practice-tuesday/2003186
 - **Denzel Boston** — Denzel Boston (toe) not practicing Tuesday (2026-11-24T18:20:49.937000Z)
   - The Browns are coming off a bye week and have until Sunday night to get ready for the Raiders. That will hopefully leave enough time for Boston to be ready, but this is not an encouraging start to the practice week for the rookie wideout. If Boston cannot go, Jerry Jeudy would likely see his snaps go up. 
@@ -87,9 +140,9 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/622379/kenneth-walker-iii-groin-practicing-tuesday.php
 - **Kenneth Walker III** — Kenneth Walker - Returning to practice Tuesday (2026-11-24T18:03:50Z)
   - Walker has been sidelined for the Chiefs' last two games due to a sore groin and was listed as a non-participant in Monday's practice. Though the running back appears poised to take a step forward in terms of activity Tuesday, Reid's comments suggest that Walker will likely be a limited participant. The Chiefs will wait and see how Walker responds to practice Tuesday before having a better feel for his status for Thursday's game against the Bills.
-- **NEW — Sam LaPorta** — Sam LaPorta Upgrades to Full Practice on Tuesday (2026-11-24T17:39:13Z)
+- **Sam LaPorta** — Sam LaPorta Upgrades to Full Practice on Tuesday (2026-11-24T17:39:13Z)
   - Source: https://www.rotoballer.com/player-news/sam-laporta-upgrades-to-full-practice-tuesday/2003100
-- **NEW — Dalton Kincaid** — Dalton Kincaid Says he's "Most Likely Playing" on Thursday (2026-11-24T17:32:13Z)
+- **Dalton Kincaid** — Dalton Kincaid Says he's "Most Likely Playing" on Thursday (2026-11-24T17:32:13Z)
   - Source: https://www.rotoballer.com/player-news/ill-be-there-thursday-im-most-likely-playing-dalton-kincaid-on-his-status-for-week-12/2003090
 - **J.K. Dobbins** — J.K. Dobbins Suspended for Conduct Detrimental to the Team (2026-11-24T16:51:19Z)
   - Source: https://www.rotoballer.com/player-news/broncos-have-suspended-rb-j-k-dobbins-for-fridays-game-for-conduct-detrimental-to-the-team/2003047
@@ -112,7 +165,7 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
 - **Michael Pittman Jr.** — Michael Pittman Jr. Continues Practicing Ahead of Week 12 (2026-11-24T15:36:23Z)
   - Source: https://www.rotoballer.com/player-news/michael-pittman-jr-seen-at-practice-tuesday/2002934
 - **Sam Darnold** — Sam Darnold - Still tracking toward Week 12 start (2026-11-24T15:31:45Z)
-  - Darnold has been sidelined for the Seahawks' last two games due to a quad issue and a cracked rib, but he was back on the field Monday for a bonus practice coming out of the bye week. While Macdonald relayed that Darnold "looked great"  and took "a ton of reps" during what the coach referred to as more of a walk-through session, the Seahawks want to see how the veteran quarterback responds to a full-speed practice Wednesday before giving him the green light to start Week 12. After leading the Seahawks to their second Super Bowl championship in 2025, Darnold has endured a rough start to 2026, completing 60.2 percent of his passes and posting a 10:9 TD:INT while missing nearly four full games due to injury.
+  - Darnold has been sidelined for the Seahawks' last two games due to a quad issue and a cracked rib, but he was back on the field Monday for a bonus practice coming out of the bye week. While Macdonald relayed that Darnold "looked great"  and took "a ton of reps" during what the coach referred to as more of a walk-through session, the Seahawks want to see how the veteran quarterback responds to a full-speed practice Wednesday before giving him the green light to start in Week 12. After leading the Seahawks to their second Super Bowl championship in 2025, Darnold has endured a rough start to 2026, completing 60.2 percent of his passes and posting a 10:9 TD:INT while missing nearly four full games due to injury.
 - **Jordan Love** — Jordan Love Remains a QB1 Despite Tough Wednesday Matchup (2026-11-24T15:25:35Z)
   - Source: https://www.rotoballer.com/player-news/jordan-love-remains-a-qb1-despite-tough-wednesday-matchup/2002955
 - **Oronde Gadsden** — Oronde Gadsden - Held without catch in Week 11 (2026-11-24T15:18:14Z)
@@ -183,47 +236,3 @@ Undocumented Sleeper GraphQL feed for players rostered in this league.
   - Source: https://www.fantasypros.com/nfl/news/622317/chase-brown-held-to-six-rushing-yards-week-11.php
 - **Kayshon Boutte** — Kayshon Boutte Worth Considering in Deeper Leagues After Another TD (2026-11-24T10:19:43Z)
   - Source: https://www.rotoballer.com/player-news/kayshon-boutte-worth-considering-in-deeper-leagues-after-another-touchdown-grab/2002687
-- **Mike Gesicki** — Mike Gesicki Catches Five Passes on Monday (2026-11-24T10:12:16Z)
-  - Source: https://www.rotoballer.com/player-news/mike-gesicki-catches-five-passes-on-monday/2002662
-- **Joe Burrow** — Joe Burrow Throws Two Touchdowns in Bengals' Loss (2026-11-24T09:58:20Z)
-  - Source: https://www.rotoballer.com/player-news/joe-burrow-throws-two-touchdowns-in-bengals-loss/2002652
-- **Chase Brown** — Chase Brown Unable to Get Going on Monday (2026-11-24T09:50:15Z)
-  - Source: https://www.rotoballer.com/player-news/chase-brown-unable-to-get-going-on-monday/2002642
-- **Ja'Marr Chase** — Ja'Marr Chase has Disappointing Night in Washington (2026-11-24T09:35:11Z)
-  - Source: https://www.rotoballer.com/player-news/jamarr-chase-posts-disappointing-night-in-washington/2002626
-- **Antonio Williams** — Antonio Williams Converts Critical Catches on Career Night (2026-11-24T09:23:58Z)
-  - Source: https://www.rotoballer.com/player-news/antonio-williams-converts-critical-catches-on-career-night/2002621
-- **Jayden Daniels** — Jayden Daniels Leads Commanders to a Win Despite Wrist Issue (2026-11-24T09:16:33Z)
-  - Source: https://www.rotoballer.com/player-news/jayden-daniels-left-wrist-wrapped-after-game/2002482
-- **Chig Okonkwo** — Chig Okonkwo - Productive with four catches in win (2026-11-24T05:14:30Z)
-  - Okonkwo contributed his game-long 32-yard grab on his first catch of the night, and the veteran tight end went on to finish second in receiving yards for the Commanders. Okonkwo also contributed a key 13-yard grab on Washington's penultimate drive that culminated in a key field goal, and in all, three of his four receptions resulted in first downs. Okonkwo has at least four catches in three straight games but is still looking for his first touchdown of the season heading into a Week 12 road matchup against the Cardinals on Sunday.
-- **Antonio Williams** — Antonio Williams - Career-best totals in win (2026-11-24T05:10:14Z)
-  - The rookie third-round pick managed new career highs across all three components of his receiving line, which also all served as team-best totals Monday. Williams' last two catches of the night were his most critical, as he recorded 22- and 42-yard grabs to on Washington's final drive to position Drew Stevens for a game-winning 26-yard field goal. Williams hadn't topped 54 receiving yards in any game after a 64-yard effort in his pro debut in Week 1, but Monday night's breakout could serve as a launchpad to a strong stretch run as the Commanders make a playoff push.
-- **Jacory Croskey-Merritt** — Jacory Croskey-Merritt - Scores TD in return from injury (2026-11-24T05:06:27Z)
-  - Making his return from a four-game absence due to a groin injury, Croskey-Merritt outpaced Austin Ekeler, the only other Commanders back to log a carry, by six rush attempts. The second-year back also recorded his third rushing touchdown of the season on a one-yard run with 12 seconds remaining in the first half. Croskey-Merritt averaged over 4.0 yards per carry for the second straight game after failing to eclipse that mark in each of the first four games of the season, and he should be in store for an even busier day in a favorable Week 12 road matchup against the Cardinals on Sunday.
-- **Mike Gesicki** — Mike Gesicki - Team-high yardage total in loss (2026-11-24T05:00:34Z)
-  - The veteran tight end finished with a team-high yardage total while coming just a yard short of equaling his best tally of the season as well. Gesicki's biggest catch came late in the fourth quarter on the Bengals' final drive, when he hauled in a 32-yard pass from Joe Burrow over the middle to get the Bengals down to  the Commanders' 33-yard line. Gesicki's production continues to have some game-to-game volatility, but he'll draw another favorable matchup in a Week 12 home clash with the Saints on Sunday.
-- **Chase Brown** — Chase Brown - Forgettable rushing night in loss (2026-11-24T04:56:17Z)
-  - As his final line indicates, Brown was completely stonewalled by a talented Commanders run defense, although backfield mate Samaje Perine, who equaled Brown's carry total, was able to average 4.3 yards per tote with his opportunities and  added 71 receiving yards. Brown did find a way to make his usual impact as a receiver, tying for the team lead in receptions and finishing second in targets to Ja'Marr Chase. Brown's carry and rushing yardage totals were both season lows, but he should have appreciably better conditions for production on the ground in a Week 12 home matchup against the Saints on Sunday.
-- **Stefon Diggs** — Stefon Diggs - Four catches in Week 11 win (2026-11-24T04:52:43Z)
-  - Diggs finished tied for second on the Commanders in receptions and as the runner-up in targets, although he produced modest yardage with his opportunities. The veteran wideout has at least four catches in seven of the first nine games of his tenure in Washington, and he'll carry a 40-431-6 line into a Week 12 road matchup against the Cardinals on Sunday.
-- **Tee Higgins** — Tee Higgins - Gets into end zone in loss (2026-11-24T04:49:24Z)
-  - Although Joe Burrow threw for 300 yards, both Higgins and Ja'Marr Chase found tough sledding against a Commanders secondary geared up to stop them. Higgins did salvage his fantasy night with his seventh touchdown catch of the season on a picturesque over-the-shoulder 31-yard grab down the left sideline on the first play after the two-minute warning in the first half. Higgins has six of his scoring receptions in the last five games heading into a favorable Week 12 home matchup against the Saints on Sunday.
-- **Jayden Daniels** — Jayden Daniels - Leads Commanders to comeback win (2026-11-24T04:45:16Z)
-  - Daniels looked like he was on his way to a middling night during a first half in which he led the Commanders to just seven points, but the 2024 first-round pick flipped a switch in the second half, particularly in the fourth quarter. Daniels led field-goal drives of 13, 11 and five plays that netted a total of 193 yards during the final period, the last one featuring strikes of 22 and 42 yards to Antonio Williams to position Drew Stevens for a game-winning field goal. Daniels finished with his second-highest passing yardage total of the season, and he also mustered his seventh interception-free effort of the campaign. Having helped Washington to a critical victory, Daniels will look to carry the momentum over into a favorable Week 12 road matchup against the Cardinals on Sunday.
-- **Ja'Marr Chase** — Ja'Marr Chase - Held in check by Commanders (2026-11-24T04:39:12Z)
-  - The Commanders focused on keeping Chase in check after his 231-yard outburst against the Steelers in Week 10, and they executed that plan to near perfection. The superstar wideout finished with his third-lowest yardage total of the season, and his sparsest since Week 4. Chase still extended his streak of five-plus-catch efforts to six games, and he'll look to bounce back to his usual level of production in a Week 12 home matchup against a vulnerable Saints defense Sunday.
-- **Joe Burrow** — Joe Burrow - Another 300-yard effort in loss (2026-11-24T04:33:47Z)
-  - The Bengals' offense started slowly and was shut out altogether in the first quarter, but Burrow was able to lead his team to 10 second-quarter points partly via a 31-yard touchdown pass to Tee Higgins. The prolific signal-caller added a four-yard scoring toss to Colbie Young in the third quarter, and Burrow then helped lead Cincinnati downfield for a go-ahead Evan McPherson 56-yard field goal with 46 seconds remaining, albeit after narrowly avoiding an interception and then taking a third-down sack. Nevertheless, the Bengals came up short when Jayden Daniels led the Commanders on a five-play, 64-yard game-winning march, but Burrow finished with his fourth tally of at least 300 passing yards this season. He'll look to put his team back in the win column in a favorable Week 12 home matchup against the Saints on Sunday.
-- **Jaylen Wright** — Jaylen Wright - Logs five carries in loss (2026-11-24T03:12:01Z)
-  - Wright continues to struggle rushing the ball this season, averaging just 1.6 yards per carry across 30 rush attempts. The 23-year-old will look to improve upon his performance during the Week 12 matchup versus the Jets.
-- **Troy Franklin** — Troy Franklin - Doesn't record a catch in win (2026-11-24T03:08:39Z)
-  - The wide receiver did see two targets, but he wasn't able to haul them in. Franklin has just 17 targets across 10 games this year, making nine catches for 100 yards and no scores.
-- **Reggie Virgil** — Reggie Virgil - Plays two offensive snaps in Week 11 (2026-11-24T03:07:42Z)
-  - The 22-year-old wide receiver played just two offensive snaps, the same amount as Devin Duvernay, as the duo played behind all three of Simi Fehoko (52 snaps), Harrison Wallace (36) and Zay Jones (32) in the Cardinals' injury-ravaged wideout depth chart. Virgil has three catches for 54 yards on 11 targets across seven games this season. He's never been relevant in fantasy.
-- **Kaytron Allen** — Kaytron Allen - Returns kicks in loss (2026-11-24T03:02:47Z)
-  - Allen played 16 special-teams snaps in the contest. The running back did not log an offensive snap, leaving all the rushing work to Ollie Gordon and Jaylen Wright.
-- **Chris Bell** — Chris Bell - Four targets in loss (2026-11-24T02:56:37Z)
-  - Bell saw 34 offensive snaps in Sunday's contest. The wide receiver played in 62 percent of the Dolphins' offensive plays but only caught one pass. The team continues to try to involve the third-round rookie, but for one reason or another, he remains out of sync with quarterbacks Malik Willis (abdomen) and Kyle McCord.
-- **Eli Stowers** — Eli Stowers - Plays zero offensive snaps in Week 11 (2026-11-24T02:56:22Z)
-  - Dallas Goedert (47 snaps), Johnny Mundt (eight) and Zach Ertz (six) handled tight-end duties for Philly, while Stowers played 20 snaps on special teams. The rookie tight end is miles from fantasy relevance this season.
