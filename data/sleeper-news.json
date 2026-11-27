@@ -1,92 +1,55 @@
 {
-  "last_checked_at": "2026-11-26T23:59:50Z",
+  "last_checked_at": "2026-11-27T08:05:25Z",
   "league_id": "1312075409780649984",
   "monitored_player_count": 298,
   "new_story_ids": [
-    "nfl|10859|rotowire|650006|1795735042000",
-    "nfl|11560|fantasy_pros|622738|1795735220976",
-    "nfl|11560|rotowire|649967|1795730054000",
-    "nfl|11560|rotowire|649989|1795732904000",
-    "nfl|11583|fantasy_pros|622747|1795735820827",
-    "nfl|11583|rotowire|649977|1795731366000",
-    "nfl|11604|fantasy_pros|622743|1795735221154",
-    "nfl|11604|rotowire|649941|1795721542000",
-    "nfl|11604|rotowire|649980|1795731792000",
-    "nfl|11618|rotowire|649982|1795732054000",
-    "nfl|11620|rotowire|650016|1795737165000",
-    "nfl|11628|rotowire|649974|1795731008000",
-    "nfl|12490|fantasy_pros|622753|1795736421129",
-    "nfl|12490|rotowire|649953|1795725352000",
-    "nfl|12506|rotowire|649981|1795731853000",
-    "nfl|12517|fantasy_pros|622706|1795719019509",
-    "nfl|12517|rotowire|649930|1795717988000",
-    "nfl|12517|rotowire|649932|1795718703000",
-    "nfl|12519|rotowire|650014|1795736532000",
-    "nfl|12526|fantasy_pros|622748|1795735820817",
-    "nfl|12526|rotowire|649962|1795728389000",
-    "nfl|12534|rotowire|650013|1795736008000",
-    "nfl|13075|rotowire|649996|1795733810000",
-    "nfl|13270|rotowire|649926|1795713956000",
-    "nfl|13272|fantasy_pros|622751|1795736421160",
-    "nfl|13272|rotowire|649928|1795717217000",
-    "nfl|13272|rotowire|649947|1795723881000",
-    "nfl|13276|fantasy_pros|622749|1795735820807",
-    "nfl|13276|rotowire|649955|1795725803000",
-    "nfl|13346|fantasy_pros|622739|1795735220964",
-    "nfl|13346|rotowire|649984|1795732297000",
-    "nfl|2216|fantasy_pros|622708|1795732220575",
-    "nfl|2216|rotowire|649973|1795730906000",
-    "nfl|2449|rotowire|649954|1795725728000",
-    "nfl|2505|fantasy_pros|622746|1795735820840",
-    "nfl|2505|rotowire|649965|1795729438000",
-    "nfl|3163|rotowire|650002|1795734530000",
-    "nfl|3198|fantasy_pros|622741|1795735220939",
-    "nfl|3198|rotowire|649966|1795729809000",
-    "nfl|421|fantasy_pros|622698|1795707618061",
-    "nfl|4866|rotowire|649993|1795733351000",
-    "nfl|4943|fantasy_pros|622712|1795732820927",
-    "nfl|5001|rotowire|649975|1795731037000",
-    "nfl|5022|fantasy_pros|622737|1795734621013",
-    "nfl|5022|rotowire|649986|1795732392000",
-    "nfl|5022|rotowire|650000|1795734193000",
-    "nfl|5849|rotowire|649944|1795722466000",
-    "nfl|5854|rotowire|649985|1795732374000",
-    "nfl|5859|rotowire|649957|1795726371000",
-    "nfl|5947|fantasy_pros|622755|1795736421096",
-    "nfl|6790|rotowire|650011|1795735668000",
-    "nfl|6797|fantasy_pros|622758|1795737020967",
-    "nfl|6797|rotowire|649937|1795719554000",
-    "nfl|6797|rotowire|649959|1795726858000",
-    "nfl|6819|fantasy_pros|622761|1795737020933",
-    "nfl|6819|rotowire|649940|1795720951000",
-    "nfl|6819|rotowire|649945|1795722806000",
-    "nfl|7002|rotowire|649946|1795723551000",
-    "nfl|7547|rotowire|649998|1795734098000",
-    "nfl|7571|fantasy_pros|622742|1795735220927",
-    "nfl|7571|rotowire|649970|1795730624000",
-    "nfl|7611|rotowire|649929|1795717881000",
-    "nfl|8119|fantasy_pros|622757|1795737020978",
-    "nfl|8119|rotowire|649931|1795718143000",
-    "nfl|8121|fantasy_pros|622752|1795736421143",
-    "nfl|8121|rotowire|649988|1795732884000",
-    "nfl|8131|rotowire|649960|1795727355000",
-    "nfl|8135|rotowire|649952|1795725331000",
-    "nfl|8148|rotowire|650004|1795734747000",
-    "nfl|8183|fantasy_pros|622707|1795732220588",
-    "nfl|8183|rotowire|649969|1795730513000",
-    "nfl|9221|rotowire|649995|1795733664000",
-    "nfl|9487|fantasy_pros|622754|1795736421111",
-    "nfl|9487|rotowire|649951|1795724965000",
-    "nfl|9488|fantasy_pros|622717|1795732820886",
-    "nfl|9488|rotowire|649976|1795731268000",
-    "nfl|9504|rotowire|649971|1795730766000",
-    "nfl|9511|fantasy_pros|622760|1795737020944",
-    "nfl|96|fantasy_pros|622745|1795735820850",
-    "nfl|96|rotowire|650008|1795735208000",
-    "nfl|9756|fantasy_pros|622756|1795736421082",
-    "nfl|9756|rotowire|649942|1795721803000",
-    "nfl|9997|fantasy_pros|622740|1795735220953",
-    "nfl|9997|rotowire|649968|1795730348000"
+    "nfl|10229|rotowire|650073|1795756975000",
+    "nfl|10236|fantasy_pros|622766|1795737621049",
+    "nfl|10236|rotowire|650018|1795737339000",
+    "nfl|10236|rotowire|650074|1795757260000",
+    "nfl|10859|fantasy_pros|622797|1795745121869",
+    "nfl|11533|rotowire|650060|1795747199000",
+    "nfl|11539|fantasy_pros|622791|1795743922145",
+    "nfl|11539|rotowire|650034|1795741959000",
+    "nfl|11557|rotowire|650041|1795744114000",
+    "nfl|11560|fantasy_pros|622790|1795743321813",
+    "nfl|11618|fantasy_pros|622822|1795764323716",
+    "nfl|11620|fantasy_pros|622787|1795742721505",
+    "nfl|11624|rotowire|650075|1795757370000",
+    "nfl|12519|fantasy_pros|622788|1795742721494",
+    "nfl|12534|fantasy_pros|622786|1795742121744",
+    "nfl|12535|fantasy_pros|622795|1795744821962",
+    "nfl|13150|rotowire|650062|1795747694000",
+    "nfl|13294|rotowire|650046|1795744671000",
+    "nfl|13337|rotowire|650068|1795755877000",
+    "nfl|1466|rotowire|650069|1795756367000",
+    "nfl|2020|fantasy_pros|622768|1795740321361",
+    "nfl|2020|rotowire|650036|1795742846000",
+    "nfl|3163|fantasy_pros|622800|1795747222718",
+    "nfl|3294|rotowire|650048|1795745109000",
+    "nfl|3634|fantasy_pros|622785|1795742121756",
+    "nfl|3634|rotowire|650037|1795743300000",
+    "nfl|4046|rotowire|650071|1795756707000",
+    "nfl|4866|fantasy_pros|622767|1795737921453",
+    "nfl|4892|fantasy_pros|622821|1795764323727",
+    "nfl|4983|rotowire|650076|1795757540000",
+    "nfl|4984|rotowire|650067|1795755493000",
+    "nfl|5022|rotowire|650057|1795746657000",
+    "nfl|6786|rotowire|650053|1795745765000",
+    "nfl|6790|fantasy_pros|622789|1795742721479",
+    "nfl|7525|fantasy_pros|622802|1795747222941",
+    "nfl|7525|rotowire|650039|1795743759000",
+    "nfl|7525|rotowire|650059|1795747151000",
+    "nfl|7547|fantasy_pros|622799|1795745422147",
+    "nfl|7588|rotowire|650051|1795745582000",
+    "nfl|8111|fantasy_pros|622824|1795764323696",
+    "nfl|8134|rotowire|650078|1795758200000",
+    "nfl|8137|rotowire|650054|1795746027000",
+    "nfl|8138|rotowire|650066|1795754957000",
+    "nfl|8148|fantasy_pros|622798|1795745121851",
+    "nfl|9221|fantasy_pros|622801|1795747222705",
+    "nfl|9228|fantasy_pros|622832|1795764923938",
+    "nfl|9500|rotowire|650077|1795757721000"
   ],
   "schema_version": 1,
   "source": {
@@ -96,6 +59,967 @@
     "provider": "Sleeper"
   },
   "stories": [
+    {
+      "analysis": "Young was also on the injury report last week. He should still be good to go for Monday's game against the Buccaneers. ",
+      "description": "Bryce Young was a full participant in practice on Thursday. ",
+      "metadata": {
+        "analysis": "Young was also on the injury report last week. He should still be good to go for Monday's game against the Buccaneers. ",
+        "description": "Bryce Young was a full participant in practice on Thursday. ",
+        "title": "Bryce Young (foot) logs full practice Thursday ",
+        "topic_id": "1431945513296461824",
+        "url": "https://www.fantasypros.com/nfl/news/622832/bryce-young-foot-logs-full-practice-thursday.php"
+      },
+      "nfl_team": "CAR",
+      "player_id": "9228",
+      "player_name": "Bryce Young",
+      "position": "QB",
+      "published": 1795764923938,
+      "source": "fantasy_pros",
+      "source_key": "622832",
+      "story_id": "nfl|9228|fantasy_pros|622832|1795764923938",
+      "title": "Bryce Young (foot) logs full practice Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/622832/bryce-young-foot-logs-full-practice-thursday.php"
+    },
+    {
+      "analysis": "Mayfield is dealing with multiple injuries. He remains on track to be good to go for Monday's game against the Panthers. ",
+      "description": "Baker Mayfield was a full participant in practice on Thursday. ",
+      "metadata": {
+        "analysis": "Mayfield is dealing with multiple injuries. He remains on track to be good to go for Monday's game against the Panthers. ",
+        "description": "Baker Mayfield was a full participant in practice on Thursday. ",
+        "title": "Baker Mayfield (foot/thumb) logs full practice Thursday ",
+        "topic_id": "1431942995833257984",
+        "url": "https://www.fantasypros.com/nfl/news/622821/baker-mayfield-footthumb-logs-full-practice-thursday.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "4892",
+      "player_name": "Baker Mayfield",
+      "position": "QB",
+      "published": 1795764323727,
+      "source": "fantasy_pros",
+      "source_key": "622821",
+      "story_id": "nfl|4892|fantasy_pros|622821|1795764323727",
+      "title": "Baker Mayfield (foot/thumb) logs full practice Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/622821/baker-mayfield-footthumb-logs-full-practice-thursday.php"
+    },
+    {
+      "analysis": "McMillan had his practice window opened this week. He will have a chance to be activated for Monday's game against the Panthers. ",
+      "description": "Jalen McMillan was a full participant in practice on Thursday. ",
+      "metadata": {
+        "analysis": "McMillan had his practice window opened this week. He will have a chance to be activated for Monday's game against the Panthers. ",
+        "description": "Jalen McMillan was a full participant in practice on Thursday. ",
+        "title": "Jalen McMillan (knee) logs full practice Thursday ",
+        "topic_id": "1431942995791314944",
+        "url": "https://www.fantasypros.com/nfl/news/622822/jalen-mcmillan-knee-logs-full-practice-thursday.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "11618",
+      "player_name": "Jalen McMillan",
+      "position": "WR",
+      "published": 1795764323716,
+      "source": "fantasy_pros",
+      "source_key": "622822",
+      "story_id": "nfl|11618|fantasy_pros|622822|1795764323716",
+      "title": "Jalen McMillan (knee) logs full practice Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/622822/jalen-mcmillan-knee-logs-full-practice-thursday.php"
+    },
+    {
+      "analysis": "Otton remains a TE2 for fantasy managers. ",
+      "description": "Cade Otton was a full participant in practice on Thursday. ",
+      "metadata": {
+        "analysis": "Otton remains a TE2 for fantasy managers. ",
+        "description": "Cade Otton was a full participant in practice on Thursday. ",
+        "title": "Cade Otton (thumb) logs full practice Thursday ",
+        "topic_id": "1431942995703234560",
+        "url": "https://www.fantasypros.com/nfl/news/622824/cade-otton-thumb-logs-full-practice-thursday.php"
+      },
+      "nfl_team": "TB",
+      "player_id": "8111",
+      "player_name": "Cade Otton",
+      "position": "TE",
+      "published": 1795764323696,
+      "source": "fantasy_pros",
+      "source_key": "622824",
+      "story_id": "nfl|8111|fantasy_pros|622824|1795764323696",
+      "title": "Cade Otton (thumb) logs full practice Thursday ",
+      "url": "https://www.fantasypros.com/nfl/news/622824/cade-otton-thumb-logs-full-practice-thursday.php"
+    },
+    {
+      "analysis": "Shakir's reception and yardage totals led the Bills on a night when Josh Allen threw for just 81 yards with a pair of picks. The veteran slot receiver was coming off a Week 11 showing against the Dolphins in which he accrued a season-high 101 receiving yards, and Thursday's downturn was largely explainable by Allen's struggles and less-than-ideal weather conditions. Shakir should remain a key target for Allen during a Week 13 road matchup Sunday, Dec. 6 with a Patriots squad that the wideout posted a 7-82-0 line against back in Week 4.",
+      "description": "Shakir brought in three of six targets for 33 yards in the Bills' 13-10 in over the Chiefs on Thursday.",
+      "metadata": {
+        "analysis": "Shakir's reception and yardage totals led the Bills on a night when Josh Allen threw for just 81 yards with a pair of picks. The veteran slot receiver was coming off a Week 11 showing against the Dolphins in which he accrued a season-high 101 receiving yards, and Thursday's downturn was largely explainable by Allen's struggles and less-than-ideal weather conditions. Shakir should remain a key target for Allen during a Week 13 road matchup Sunday, Dec. 6 with a Patriots squad that the wideout posted a 7-82-0 line against back in Week 4.",
+        "description": "Shakir brought in three of six targets for 33 yards in the Bills' 13-10 in over the Chiefs on Thursday.",
+        "title": "Khalil Shakir - Team-high yardage in Week 12 win",
+        "topic_id": "1431919081744785408"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8134",
+      "player_name": "Khalil Shakir",
+      "position": "WR",
+      "published": 1795758200000,
+      "source": "rotowire",
+      "source_key": "650078",
+      "story_id": "nfl|8134|rotowire|650078|1795758200000",
+      "title": "Khalil Shakir - Team-high yardage in Week 12 win",
+      "url": null
+    },
+    {
+      "analysis": "After recording consecutive four-catch tallies following his trade from the Colts, Downs' production saw a downturn Thursday in a game where both air attacks performed below their usual levels. The talented receiver did make good use of his one reception, and Downs should be busier in a Week 13 road matchup against the Rams next Thursday night where weather shouldn't be a factor.",
+      "description": "Downs secured one of four targets for 13 yards in the Chiefs' 13-10 loss to the Bills on Thursday.",
+      "metadata": {
+        "analysis": "After recording consecutive four-catch tallies following his trade from the Colts, Downs' production saw a downturn Thursday in a game where both air attacks performed below their usual levels. The talented receiver did make good use of his one reception, and Downs should be busier in a Week 13 road matchup against the Rams next Thursday night where weather shouldn't be a factor.",
+        "description": "Downs secured one of four targets for 13 yards in the Chiefs' 13-10 loss to the Bills on Thursday.",
+        "title": "Josh Downs - Limited to one catch Thursday",
+        "topic_id": "1431916565103673344"
+      },
+      "nfl_team": "KC",
+      "player_id": "9500",
+      "player_name": "Josh Downs",
+      "position": "WR",
+      "published": 1795757721000,
+      "source": "rotowire",
+      "source_key": "650077",
+      "story_id": "nfl|9500|rotowire|650077|1795757721000",
+      "title": "Josh Downs - Limited to one catch Thursday",
+      "url": null
+    },
+    {
+      "analysis": "Moore's production, like that of the rest of his fellow skill-position players, was very modest on a night when Josh Allen threw for only 81 yards and a pair of interceptions. The talented wideout's catch and yardage totals were both his third-lowest tallies of the season, but Moore is still averaging a formidable 14.6 yards per reception heading into a Week 13 road matchup against the Patriots on Sunday, Dec. 6.",
+      "description": "Moore hauled in two of six targets for 15 yards in the Bills' 13-10 win over the Chiefs on Thursday.",
+      "metadata": {
+        "analysis": "Moore's production, like that of the rest of his fellow skill-position players, was very modest on a night when Josh Allen threw for only 81 yards and a pair of interceptions. The talented wideout's catch and yardage totals were both his third-lowest tallies of the season, but Moore is still averaging a formidable 14.6 yards per reception heading into a Week 13 road matchup against the Patriots on Sunday, Dec. 6.",
+        "description": "Moore hauled in two of six targets for 15 yards in the Bills' 13-10 win over the Chiefs on Thursday.",
+        "title": "DJ Moore - Pair of grabs in Week 12 win",
+        "topic_id": "1431915306527232000"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4983",
+      "player_name": "DJ Moore",
+      "position": "WR",
+      "published": 1795757540000,
+      "source": "rotowire",
+      "source_key": "650076",
+      "story_id": "nfl|4983|rotowire|650076|1795757540000",
+      "title": "DJ Moore - Pair of grabs in Week 12 win",
+      "url": null
+    },
+    {
+      "analysis": "Since Josh Downs arrived via trade from Indianapolis at the deadline, Rashee Rice is leading all Chiefs wide receivers in targets with 17 over the last three contests, followed by Downs' 14, Worthy's 10, Cyrus Allen's nine, Jalen Royals' (ankle) two and Andrew Armstrong's two. Worthy's average number of targets has reduced from 5.9 per game pre-Downs to 3.3 since the addition to the position group, and the former has just a 2-38-1 line during that span. As a result, Worthy is difficult to trust as Kansas City prepares to face the Rams on the road next Thursday.",
+      "description": "Worthy didn't corral any of his three targets during Thursday's 13-10 loss at Buffalo.",
+      "metadata": {
+        "analysis": "Since Josh Downs arrived via trade from Indianapolis at the deadline, Rashee Rice is leading all Chiefs wide receivers in targets with 17 over the last three contests, followed by Downs' 14, Worthy's 10, Cyrus Allen's nine, Jalen Royals' (ankle) two and Andrew Armstrong's two. Worthy's average number of targets has reduced from 5.9 per game pre-Downs to 3.3 since the addition to the position group, and the former has just a 2-38-1 line during that span. As a result, Worthy is difficult to trust as Kansas City prepares to face the Rams on the road next Thursday.",
+        "description": "Worthy didn't corral any of his three targets during Thursday's 13-10 loss at Buffalo.",
+        "title": "Xavier Worthy - Blanked again in Week 12",
+        "topic_id": "1431914048152178688"
+      },
+      "nfl_team": "KC",
+      "player_id": "11624",
+      "player_name": "Xavier Worthy",
+      "position": "WR",
+      "published": 1795757370000,
+      "source": "rotowire",
+      "source_key": "650075",
+      "story_id": "nfl|11624|rotowire|650075|1795757370000",
+      "title": "Xavier Worthy - Blanked again in Week 12",
+      "url": null
+    },
+    {
+      "analysis": "Making his return from a one-game absence due to thumb and ankle injuries, Kincaid's numbers weren't quite as poor within the context of a night where Josh Allen threw for only 81 yards and completed less than 50.0 percent of his passes. Kincaid tied for runner-up slotting on the Bills in receptions, and he was third in receiving yards as well. Kincaid now has multiple catches in five straight games heading into a Week 13 road divisional matchup against the Patriots on Sunday, Dec. 6.",
+      "description": "Kincaid brought in both targets for 13 yards in the Bills' 13-10 loss to the Chiefs on Thursday.",
+      "metadata": {
+        "analysis": "Making his return from a one-game absence due to thumb and ankle injuries, Kincaid's numbers weren't quite as poor within the context of a night where Josh Allen threw for only 81 yards and completed less than 50.0 percent of his passes. Kincaid tied for runner-up slotting on the Bills in receptions, and he was third in receiving yards as well. Kincaid now has multiple catches in five straight games heading into a Week 13 road divisional matchup against the Patriots on Sunday, Dec. 6.",
+        "description": "Kincaid brought in both targets for 13 yards in the Bills' 13-10 loss to the Chiefs on Thursday.",
+        "title": "Dalton Kincaid - Two catches in return",
+        "topic_id": "1431914048143790080"
+      },
+      "nfl_team": "BUF",
+      "player_id": "10236",
+      "player_name": "Dalton Kincaid",
+      "position": "TE",
+      "published": 1795757260000,
+      "source": "rotowire",
+      "source_key": "650074",
+      "story_id": "nfl|10236|rotowire|650074|1795757260000",
+      "title": "Dalton Kincaid - Two catches in return",
+      "url": null
+    },
+    {
+      "analysis": "Rice's production was part of the collateral damage of a night that was unconducive for offense, as the veteran receiver tied his lowest reception and receiving yardage totals of the season for a non-injury-shortened game. Rice came in riding a solid four-game stretch where he'd generated a 23-237-1 line on 27 targets, and he'll look to return to that level of production during a Week 13 road matchup against the Rams next Thursday.",
+      "description": "Rice brought in two of five targets for 19 yards in the Chiefs' 13-10 loss to the Bills on Thursday.",
+      "metadata": {
+        "analysis": "Rice's production was part of the collateral damage of a night that was unconducive for offense, as the veteran receiver tied his lowest reception and receiving yardage totals of the season for a non-injury-shortened game. Rice came in riding a solid four-game stretch where he'd generated a 23-237-1 line on 27 targets, and he'll look to return to that level of production during a Week 13 road matchup against the Rams next Thursday.",
+        "description": "Rice brought in two of five targets for 19 yards in the Chiefs' 13-10 loss to the Bills on Thursday.",
+        "title": "Rashee Rice - Forgettable numbers in loss",
+        "topic_id": "1431912789512826880"
+      },
+      "nfl_team": "KC",
+      "player_id": "10229",
+      "player_name": "Rashee Rice",
+      "position": "WR",
+      "published": 1795756975000,
+      "source": "rotowire",
+      "source_key": "650073",
+      "story_id": "nfl|10229|rotowire|650073|1795756975000",
+      "title": "Rashee Rice - Forgettable numbers in loss",
+      "url": null
+    },
+    {
+      "analysis": "Like Josh Allen, Mahomes didn't come close to putting up his typical caliber of production in the poor weather conditions Thursday, although the latter was at least relatively efficient compared to his opposite number. However, Mahomes failed to throw at least one touchdown pass for the first time in five games, and his yardage total was his second-lowest of the campaign. Mahomes will look to bounce back in what will be an appreciably better environment for offense during a Week 13 road matchup against the Rams next Thursday night.",
+      "description": "Mahomes completed 16 of 29 passes for 174 yards with no touchdowns or interceptions and rushed three times for two yards in the Chiefs' 13-10 loss to the Bills on Thursday. He also fumbled twice but recovered on each occasion.",
+      "metadata": {
+        "analysis": "Like Josh Allen, Mahomes didn't come close to putting up his typical caliber of production in the poor weather conditions Thursday, although the latter was at least relatively efficient compared to his opposite number. However, Mahomes failed to throw at least one touchdown pass for the first time in five games, and his yardage total was his second-lowest of the campaign. Mahomes will look to bounce back in what will be an appreciably better environment for offense during a Week 13 road matchup against the Rams next Thursday night.",
+        "description": "Mahomes completed 16 of 29 passes for 174 yards with no touchdowns or interceptions and rushed three times for two yards in the Chiefs' 13-10 loss to the Bills on Thursday. He also fumbled twice but recovered on each occasion.",
+        "title": "Patrick Mahomes - Unremarkable numbers in loss",
+        "topic_id": "1431912789454106624"
+      },
+      "nfl_team": "KC",
+      "player_id": "4046",
+      "player_name": "Patrick Mahomes",
+      "position": "QB",
+      "published": 1795756707000,
+      "source": "rotowire",
+      "source_key": "650071",
+      "story_id": "nfl|4046|rotowire|650071|1795756707000",
+      "title": "Patrick Mahomes - Unremarkable numbers in loss",
+      "url": null
+    },
+    {
+      "analysis": "Kelce posted a game-high receiving yardage total with the help of a game-long 24-yard grab that he made late in the first half, and he also tied for the team lead in receptions. The star tight end did have a couple of missed connections with Patrick Mahomes on fourth-quarter drives, however, plays that could have had an impact on the outcome of such a close game. Kelce has exceeded 65 receiving yards in four of the last five games heading into a Week 13 road showdown against the Rams next Thursday night.",
+      "description": "Kelce brought in four of seven targets for 71 yards in the Chiefs' 13-10 loss to the Bills on Thursday.",
+      "metadata": {
+        "analysis": "Kelce posted a game-high receiving yardage total with the help of a game-long 24-yard grab that he made late in the first half, and he also tied for the team lead in receptions. The star tight end did have a couple of missed connections with Patrick Mahomes on fourth-quarter drives, however, plays that could have had an impact on the outcome of such a close game. Kelce has exceeded 65 receiving yards in four of the last five games heading into a Week 13 road showdown against the Rams next Thursday night.",
+        "description": "Kelce brought in four of seven targets for 71 yards in the Chiefs' 13-10 loss to the Bills on Thursday.",
+        "title": "Travis Kelce - Paces pass catchers in loss",
+        "topic_id": "1431910273089802240"
+      },
+      "nfl_team": "KC",
+      "player_id": "1466",
+      "player_name": "Travis Kelce",
+      "position": "TE",
+      "published": 1795756367000,
+      "source": "rotowire",
+      "source_key": "650069",
+      "story_id": "nfl|1466|rotowire|650069|1795756367000",
+      "title": "Travis Kelce - Paces pass catchers in loss",
+      "url": null
+    },
+    {
+      "analysis": "Making a third straight start in place of Kenneth Walker (groin), Johnson put together another useful all-around performance that included his third rushing touchdown of the season on a one-yard run early in the third quarter. Johnson also recorded at least four catches for the third consecutive game, and he's now accumulated 410 scrimmage yards and four total TDs over his three starts. Walker is likely to be back for next Thursday's Week 13 road showdown against the Rams, but Johnson is likely to retain a solid complementary role even when his star teammate is back on the field.",
+      "description": "Johnson rushed 17 times for 72 yards and a touchdown and brought in all four targets for 24 yards in the Chiefs' 13-10 loss to the Bills on Thursday.",
+      "metadata": {
+        "analysis": "Making a third straight start in place of Kenneth Walker (groin), Johnson put together another useful all-around performance that included his third rushing touchdown of the season on a one-yard run early in the third quarter. Johnson also recorded at least four catches for the third consecutive game, and he's now accumulated 410 scrimmage yards and four total TDs over his three starts. Walker is likely to be back for next Thursday's Week 13 road showdown against the Rams, but Johnson is likely to retain a solid complementary role even when his star teammate is back on the field.",
+        "description": "Johnson rushed 17 times for 72 yards and a touchdown and brought in all four targets for 24 yards in the Chiefs' 13-10 loss to the Bills on Thursday.",
+        "title": "Emmett Johnson - Another TD in Week 12 loss",
+        "topic_id": "1431909013934579712"
+      },
+      "nfl_team": "KC",
+      "player_id": "13337",
+      "player_name": "Emmett Johnson",
+      "position": "RB",
+      "published": 1795755877000,
+      "source": "rotowire",
+      "source_key": "650068",
+      "story_id": "nfl|13337|rotowire|650068|1795755877000",
+      "title": "Emmett Johnson - Another TD in Week 12 loss",
+      "url": null
+    },
+    {
+      "analysis": "Allen's abysmal numbers tell the tale of how difficult a night it was for the star signal-caller under less-than-ideal weather conditions and while facing a talented veteran defense. Allen's passing yardage total was a season low, and the two-interception  tally was his second straight. Allen also took a pair of sacks and completed a season-worst 47.6 percent of his passes, but he helped bring Buffalo back from a 10-7 fourth-quarter deficit. Allen's lackluster showing aside, he'll remain an elite option in all formats for a Week 13 road divisional clash against the Patriots on Sunday, Dec. 6.",
+      "description": "Allen completed 10 of 21 passes for 81 yards with no touchdowns and two interceptions and added seven carries for 43 yards in the Bills' 13-10 win over the Chiefs on Thursday.",
+      "metadata": {
+        "analysis": "Allen's abysmal numbers tell the tale of how difficult a night it was for the star signal-caller under less-than-ideal weather conditions and while facing a talented veteran defense. Allen's passing yardage total was a season low, and the two-interception  tally was his second straight. Allen also took a pair of sacks and completed a season-worst 47.6 percent of his passes, but he helped bring Buffalo back from a 10-7 fourth-quarter deficit. Allen's lackluster showing aside, he'll remain an elite option in all formats for a Week 13 road divisional clash against the Patriots on Sunday, Dec. 6.",
+        "description": "Allen completed 10 of 21 passes for 81 yards with no touchdowns and two interceptions and added seven carries for 43 yards in the Bills' 13-10 win over the Chiefs on Thursday.",
+        "title": "Josh Allen - Stymied by Chiefs in win",
+        "topic_id": "1431906498811809792"
+      },
+      "nfl_team": "BUF",
+      "player_id": "4984",
+      "player_name": "Josh Allen",
+      "position": "QB",
+      "published": 1795755493000,
+      "source": "rotowire",
+      "source_key": "650067",
+      "story_id": "nfl|4984|rotowire|650067|1795755493000",
+      "title": "Josh Allen - Stymied by Chiefs in win",
+      "url": null
+    },
+    {
+      "analysis": "Cook logged a season high in rush attempts while eclipsing the century mark for the third time in the last four games. Cook's longest gain went for only 10 yards, so he worked hard for everything he got against a tough Chiefs front. Cook added his 11th rushing touchdown of the season on a five-yard run early in the second quarter, and he'll have some extra recovery time before he takes aim at the Patriots defense in a Week 13 road matchup on Sunday, Dec. 6.",
+      "description": "Cook rushed 32 times for 117 yards and a touchdown and brought in his only target for eight yards in the Bills' 13-10 win over the Chiefs on Thursday.",
+      "metadata": {
+        "analysis": "Cook logged a season high in rush attempts while eclipsing the century mark for the third time in the last four games. Cook's longest gain went for only 10 yards, so he worked hard for everything he got against a tough Chiefs front. Cook added his 11th rushing touchdown of the season on a five-yard run early in the second quarter, and he'll have some extra recovery time before he takes aim at the Patriots defense in a Week 13 road matchup on Sunday, Dec. 6.",
+        "description": "Cook rushed 32 times for 117 yards and a touchdown and brought in his only target for eight yards in the Bills' 13-10 win over the Chiefs on Thursday.",
+        "title": "James Cook - Thrives in workhorse role",
+        "topic_id": "1431903981143085056"
+      },
+      "nfl_team": "BUF",
+      "player_id": "8138",
+      "player_name": "James Cook III",
+      "position": "RB",
+      "published": 1795754957000,
+      "source": "rotowire",
+      "source_key": "650066",
+      "story_id": "nfl|8138|rotowire|650066|1795754957000",
+      "title": "James Cook - Thrives in workhorse role",
+      "url": null
+    },
+    {
+      "analysis": "Cooper had a quiet outing despite the win as he finished fourth on the team in both receiving yards and receptions. Across 10 games this season, the 25-year-old has caught 17 passes for 259 yards and four touchdowns, all of which serve as new career highs.",
+      "description": "Cooper caught one of his two targets for 14 yards during the Eagles' win over the Cowboys on Thursday.",
+      "metadata": {
+        "analysis": "Cooper had a quiet outing despite the win as he finished fourth on the team in both receiving yards and receptions. Across 10 games this season, the 25-year-old has caught 17 passes for 259 yards and four touchdowns, all of which serve as new career highs.",
+        "description": "Cooper caught one of his two targets for 14 yards during the Eagles' win over the Cowboys on Thursday.",
+        "title": "Darius Cooper - Catches one pass in win",
+        "topic_id": "1431875037077450752"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13150",
+      "player_name": "Darius Cooper",
+      "position": "WR",
+      "published": 1795747694000,
+      "source": "rotowire",
+      "source_key": "650062",
+      "story_id": "nfl|13150|rotowire|650062|1795747694000",
+      "title": "Darius Cooper - Catches one pass in win",
+      "url": null
+    },
+    {
+      "analysis": "Smith has been dynamic in the Philadelphia offense while battling injuries to this point, recording at least 75 receiving yards and one touchdown in three of his last five games. The wideout offers head coach Nick Sirianni an explosive pass-catching option as part of an inconsistent Philadelphia offense to this point, with a Week 13 matchup against the Arizona Cardinals up next.",
+      "description": "DeVonta Smith hauled in 11 of his team-leading 14 targets for 200 yards and two touchdowns in the Eagles' 39-38 Week 12 win over the cowboys.",
+      "metadata": {
+        "analysis": "Smith has been dynamic in the Philadelphia offense while battling injuries to this point, recording at least 75 receiving yards and one touchdown in three of his last five games. The wideout offers head coach Nick Sirianni an explosive pass-catching option as part of an inconsistent Philadelphia offense to this point, with a Week 13 matchup against the Arizona Cardinals up next.",
+        "description": "DeVonta Smith hauled in 11 of his team-leading 14 targets for 200 yards and two touchdowns in the Eagles' 39-38 Week 12 win over the cowboys.",
+        "title": "DeVonta Smith explodes in Week 12 win over Cowboys",
+        "topic_id": "1431871269929750528",
+        "url": "https://www.fantasypros.com/nfl/news/622802/devonta-smith-explodes-week-12-win-over-cowboys.php"
+      },
+      "nfl_team": "PHI",
+      "player_id": "7525",
+      "player_name": "DeVonta Smith",
+      "position": "WR",
+      "published": 1795747222941,
+      "source": "fantasy_pros",
+      "source_key": "622802",
+      "story_id": "nfl|7525|fantasy_pros|622802|1795747222941",
+      "title": "DeVonta Smith explodes in Week 12 win over Cowboys",
+      "url": "https://www.fantasypros.com/nfl/news/622802/devonta-smith-explodes-week-12-win-over-cowboys.php"
+    },
+    {
+      "analysis": "Goff fell slightly back to earth Thursday, tossing less than two touchdowns for the first time in his last three contests. The signal-caller remains one of the more stable quarterback options while guiding a high-octane Detroit offense for fantasy managers, with a Week 13 matchup against the Atlanta Falcons up next.",
+      "description": "Jared Goff completed 25-of-36 pass attempts for 313 yards, one touchdown, and one interception while also rushing three times for 10 yards in the Lions' 39-35 Week 12 loss to the Bears.",
+      "metadata": {
+        "analysis": "Goff fell slightly back to earth Thursday, tossing less than two touchdowns for the first time in his last three contests. The signal-caller remains one of the more stable quarterback options while guiding a high-octane Detroit offense for fantasy managers, with a Week 13 matchup against the Atlanta Falcons up next.",
+        "description": "Jared Goff completed 25-of-36 pass attempts for 313 yards, one touchdown, and one interception while also rushing three times for 10 yards in the Lions' 39-35 Week 12 loss to the Bears.",
+        "title": "Jared Goff surpasses 300 yards in Week 12 loss to Bears",
+        "topic_id": "1431871268998615040",
+        "url": "https://www.fantasypros.com/nfl/news/622800/jared-goff-surpasses-300-yards-week-12-loss-to-bears.php"
+      },
+      "nfl_team": "DET",
+      "player_id": "3163",
+      "player_name": "Jared Goff",
+      "position": "QB",
+      "published": 1795747222718,
+      "source": "fantasy_pros",
+      "source_key": "622800",
+      "story_id": "nfl|3163|fantasy_pros|622800|1795747222718",
+      "title": "Jared Goff surpasses 300 yards in Week 12 loss to Bears",
+      "url": "https://www.fantasypros.com/nfl/news/622800/jared-goff-surpasses-300-yards-week-12-loss-to-bears.php"
+    },
+    {
+      "analysis": "Gibbs continues an explosive stretch out of the Detroit backfield, recording over 115 offensive yards and two or more touchdowns in each of his last three games. The running back remains an elite RB1 option in all formats entering a Week 13 matchup against the Atlanta Falcons.",
+      "description": "Jahmyr Gibbs carried the ball 21 times for 205 yards and three touchdowns while also hauling in each of his five targets for 47 yards in the Lions' 39-35 Week 12 loss to the Bears.",
+      "metadata": {
+        "analysis": "Gibbs continues an explosive stretch out of the Detroit backfield, recording over 115 offensive yards and two or more touchdowns in each of his last three games. The running back remains an elite RB1 option in all formats entering a Week 13 matchup against the Atlanta Falcons.",
+        "description": "Jahmyr Gibbs carried the ball 21 times for 205 yards and three touchdowns while also hauling in each of his five targets for 47 yards in the Lions' 39-35 Week 12 loss to the Bears.",
+        "title": "Jahmyr Gibbs explodes out of backfield in Week 12 loss to Bears",
+        "topic_id": "1431871268944089088",
+        "url": "https://www.fantasypros.com/nfl/news/622801/jahmyr-gibbs-explodes-out-backfield-week-12-loss-to-bears.php"
+      },
+      "nfl_team": "DET",
+      "player_id": "9221",
+      "player_name": "Jahmyr Gibbs",
+      "position": "RB",
+      "published": 1795747222705,
+      "source": "fantasy_pros",
+      "source_key": "622801",
+      "story_id": "nfl|9221|fantasy_pros|622801|1795747222705",
+      "title": "Jahmyr Gibbs explodes out of backfield in Week 12 loss to Bears",
+      "url": "https://www.fantasypros.com/nfl/news/622801/jahmyr-gibbs-explodes-out-backfield-week-12-loss-to-bears.php"
+    },
+    {
+      "analysis": "Aubrey missed a kick from 40 yards out in the fourth quarter, which ended up being the difference in the game. The 31-year-old has now converted 21 of his 26 field-goal attempts and 36 of his 38 extra-point tries across 12 games this season and will look to bounce back during next week's matchup against the Seahawks.",
+      "description": "Aubrey converted one of his two field-goal attempts and all five of his extra-point tries during Dallas' loss to the Eagles on Thursday.",
+      "metadata": {
+        "analysis": "Aubrey missed a kick from 40 yards out in the fourth quarter, which ended up being the difference in the game. The 31-year-old has now converted 21 of his 26 field-goal attempts and 36 of his 38 extra-point tries across 12 games this season and will look to bounce back during next week's matchup against the Seahawks.",
+        "description": "Aubrey converted one of his two field-goal attempts and all five of his extra-point tries during Dallas' loss to the Eagles on Thursday.",
+        "title": "Brandon Aubrey - Misses crucial field goal in loss",
+        "topic_id": "1431872520146923520"
+      },
+      "nfl_team": "DAL",
+      "player_id": "11533",
+      "player_name": "Brandon Aubrey",
+      "position": "K",
+      "published": 1795747199000,
+      "source": "rotowire",
+      "source_key": "650060",
+      "story_id": "nfl|11533|rotowire|650060|1795747199000",
+      "title": "Brandon Aubrey - Misses crucial field goal in loss",
+      "url": null
+    },
+    {
+      "analysis": "Smith put together a career stat line during the Eagles' Thanksgiving Day win, with the veteran wide receiver hauling in 11 of 14 targets for 200 yards and two touchdowns. He was in and out of the game after landing hard on his tailbone on one of his targets in the fourth quarter and was in noticeable pain when on the field. Smith will have additional time to rest courtesy of the Thursday game, but his status over the coming days will be worth monitoring ahead of the Eagles' Week 13 road tilt against the Cardinals on Sunday, Dec. 6.",
+      "description": "Smith (back) was seen limping badly in the locker room after Thursday's 39-38 win over the Cowboys, Martin Frank of the Delaware News Journal reports.",
+      "metadata": {
+        "analysis": "Smith put together a career stat line during the Eagles' Thanksgiving Day win, with the veteran wide receiver hauling in 11 of 14 targets for 200 yards and two touchdowns. He was in and out of the game after landing hard on his tailbone on one of his targets in the fourth quarter and was in noticeable pain when on the field. Smith will have additional time to rest courtesy of the Thursday game, but his status over the coming days will be worth monitoring ahead of the Eagles' Week 13 road tilt against the Cardinals on Sunday, Dec. 6.",
+        "description": "Smith (back) was seen limping badly in the locker room after Thursday's 39-38 win over the Cowboys, Martin Frank of the Delaware News Journal reports.",
+        "title": "DeVonta Smith - Limping after Thursday's game",
+        "topic_id": "1431872520151117824"
+      },
+      "nfl_team": "PHI",
+      "player_id": "7525",
+      "player_name": "DeVonta Smith",
+      "position": "WR",
+      "published": 1795747151000,
+      "source": "rotowire",
+      "source_key": "650059",
+      "story_id": "nfl|7525|rotowire|650059|1795747151000",
+      "title": "DeVonta Smith - Limping after Thursday's game",
+      "url": null
+    },
+    {
+      "analysis": "Goedert injured his right shoulder during the first half of Thursday's game and was not cleared to return. He'll undergo further tests to determine the severity of the injury, but the veteran tight end is certainly in jeopardy of not being available for the Eagles' Week 13 road tilt against the Cardinals on Sunday, Dec. 6. Johnny Mundt, Zach Ertz and rookie second-rounder Eli Stowers would all be in line for larger roles on offense if Goedert were to miss time.",
+      "description": "Goedert (shoulder) had his right arm in a sling following Thursday's 39-38 victory over the Cowboys, Jimmy Kempski of PhillyVoice.com reports.",
+      "metadata": {
+        "analysis": "Goedert injured his right shoulder during the first half of Thursday's game and was not cleared to return. He'll undergo further tests to determine the severity of the injury, but the veteran tight end is certainly in jeopardy of not being available for the Eagles' Week 13 road tilt against the Cardinals on Sunday, Dec. 6. Johnny Mundt, Zach Ertz and rookie second-rounder Eli Stowers would all be in line for larger roles on offense if Goedert were to miss time.",
+        "description": "Goedert (shoulder) had his right arm in a sling following Thursday's 39-38 victory over the Cowboys, Jimmy Kempski of PhillyVoice.com reports.",
+        "title": "Dallas Goedert - Seen with right arm in sling",
+        "topic_id": "1431870003115728896"
+      },
+      "nfl_team": "PHI",
+      "player_id": "5022",
+      "player_name": "Dallas Goedert",
+      "position": "TE",
+      "published": 1795746657000,
+      "source": "rotowire",
+      "source_key": "650057",
+      "story_id": "nfl|5022|rotowire|650057|1795746657000",
+      "title": "Dallas Goedert - Seen with right arm in sling",
+      "url": null
+    },
+    {
+      "analysis": "It was a step back for Pickens after he hauled in 18 of 28 targets for 247 yards and four TDs over the prior two games. The 25-year-old wideout is the clear No. 2 option in the Dallas passing attack behind CeeDee Lamb, but the team's woeful defense and limited depth behind the duo ensures that Pickens will see big volume from Dak Prescott more often than not. Pickens will take a 62-847-6 line on 99 targets into a Week 13 clash with the Seahawks.",
+      "description": "Pickens caught five of nine targets for 67 yards in Thursday's 39-38 loss to the Eagles.",
+      "metadata": {
+        "analysis": "It was a step back for Pickens after he hauled in 18 of 28 targets for 247 yards and four TDs over the prior two games. The 25-year-old wideout is the clear No. 2 option in the Dallas passing attack behind CeeDee Lamb, but the team's woeful defense and limited depth behind the duo ensures that Pickens will see big volume from Dak Prescott more often than not. Pickens will take a 62-847-6 line on 99 targets into a Week 13 clash with the Seahawks.",
+        "description": "Pickens caught five of nine targets for 67 yards in Thursday's 39-38 loss to the Eagles.",
+        "title": "George Pickens - Five grabs in loss to Philly",
+        "topic_id": "1431867487053451264"
+      },
+      "nfl_team": "DAL",
+      "player_id": "8137",
+      "player_name": "George Pickens",
+      "position": "WR",
+      "published": 1795746027000,
+      "source": "rotowire",
+      "source_key": "650054",
+      "story_id": "nfl|8137|rotowire|650054|1795746027000",
+      "title": "George Pickens - Five grabs in loss to Philly",
+      "url": null
+    },
+    {
+      "analysis": "He was once again Dak Prescott's top downfield option, leading the Cowboys in targets, catches and receiving yards, but KaVontae Turpin and Javonte Williams were on the other end of the QB's touchdown passes. Lamb has topped 100 yards in six of 12 games this season, including three of the last four, and he'll carry a 95-1,242-9 line on 144 targets into a tough Week 13 battle against the Seahawks.",
+      "description": "Lamb caught seven of 11 targets for 134 yards in Thursday's 39-38 loss to the Eagles.",
+      "metadata": {
+        "analysis": "He was once again Dak Prescott's top downfield option, leading the Cowboys in targets, catches and receiving yards, but KaVontae Turpin and Javonte Williams were on the other end of the QB's touchdown passes. Lamb has topped 100 yards in six of 12 games this season, including three of the last four, and he'll carry a 95-1,242-9 line on 144 targets into a tough Week 13 battle against the Seahawks.",
+        "description": "Lamb caught seven of 11 targets for 134 yards in Thursday's 39-38 loss to the Eagles.",
+        "title": "CeeDee Lamb - Big yardage in Thanksgiving loss",
+        "topic_id": "1431866227986268160"
+      },
+      "nfl_team": "DAL",
+      "player_id": "6786",
+      "player_name": "CeeDee Lamb",
+      "position": "WR",
+      "published": 1795745765000,
+      "source": "rotowire",
+      "source_key": "650053",
+      "story_id": "nfl|6786|rotowire|650053|1795745765000",
+      "title": "CeeDee Lamb - Big yardage in Thanksgiving loss",
+      "url": null
+    },
+    {
+      "analysis": "All three scores came in the first half as the Cowboys raced out to a 28-10 lead, making Williams the first player with three TDs in a half on Thanksgiving since Brian Westbrook accomplished the feat with Philly in 2008. Williams is also the second RB in Cowboys history to have multiple games in a season with three or more scores, something Emmitt Smith pulled off in four separate campaigns. He's also reached 100 rushing yards in three of the last six games, and he's topped 1,000 yards from scrimmage for the second straight year in Dallas. Williams will look to keep rolling in Week 13 against the Seahawks.",
+      "description": "Williams carried the ball 29 times for 101 yards and two touchdowns while catching all three of his targets for 22 yards and a third TD in Thursday's 39-38 loss to the Eagles.",
+      "metadata": {
+        "analysis": "All three scores came in the first half as the Cowboys raced out to a 28-10 lead, making Williams the first player with three TDs in a half on Thanksgiving since Brian Westbrook accomplished the feat with Philly in 2008. Williams is also the second RB in Cowboys history to have multiple games in a season with three or more scores, something Emmitt Smith pulled off in four separate campaigns. He's also reached 100 rushing yards in three of the last six games, and he's topped 1,000 yards from scrimmage for the second straight year in Dallas. Williams will look to keep rolling in Week 13 against the Seahawks.",
+        "description": "Williams carried the ball 29 times for 101 yards and two touchdowns while catching all three of his targets for 22 yards and a third TD in Thursday's 39-38 loss to the Eagles.",
+        "title": "Javonte Williams - Finds end zone three times in loss",
+        "topic_id": "1431866227982073856"
+      },
+      "nfl_team": "DAL",
+      "player_id": "7588",
+      "player_name": "Javonte Williams",
+      "position": "RB",
+      "published": 1795745582000,
+      "source": "rotowire",
+      "source_key": "650051",
+      "story_id": "nfl|7588|rotowire|650051|1795745582000",
+      "title": "Javonte Williams - Finds end zone three times in loss",
+      "url": null
+    },
+    {
+      "analysis": "St. Brown continues an impactful stretch of late, recording five or more receptions in seven of his last eight games. The wideout remains a reliable WR1 option in all formats ahead of a Week 13 matchup against the Atlanta Falcons.",
+      "description": "Amon-Ra St. Brown hauled in seven of his team-leading 10 targets for 146 yards in the Lions' 39-35 Week 12 loss to the Bears.",
+      "metadata": {
+        "analysis": "St. Brown continues an impactful stretch of late, recording five or more receptions in seven of his last eight games. The wideout remains a reliable WR1 option in all formats ahead of a Week 13 matchup against the Atlanta Falcons.",
+        "description": "Amon-Ra St. Brown hauled in seven of his team-leading 10 targets for 146 yards in the Lions' 39-35 Week 12 loss to the Bears.",
+        "title": "Amon-Ra St. Brown leads pass-catches in Week 12 loss to Bears",
+        "topic_id": "1431863716860678144",
+        "url": "https://www.fantasypros.com/nfl/news/622799/amon-ra-st-brown-leads-pass-catches-week-12-loss-to-bears.php"
+      },
+      "nfl_team": "DET",
+      "player_id": "7547",
+      "player_name": "Amon-Ra St. Brown",
+      "position": "WR",
+      "published": 1795745422147,
+      "source": "fantasy_pros",
+      "source_key": "622799",
+      "story_id": "nfl|7547|fantasy_pros|622799|1795745422147",
+      "title": "Amon-Ra St. Brown leads pass-catches in Week 12 loss to Bears",
+      "url": "https://www.fantasypros.com/nfl/news/622799/amon-ra-st-brown-leads-pass-catches-week-12-loss-to-bears.php"
+    },
+    {
+      "analysis": "LaPorta has offered modest results in the Detroit offense of late, recording over 40 receiving yards in each of his last two contests. The tight end has frustrated fantasy managers to this point as a risky TE1 option, with a Week 13 contest against the Atlanta Falcons up next.",
+      "description": "Sam LaPorta hauled in four of his five targets for 44 yards and one touchdown in the Lions' 39-35 Week 12 loss to the Bears.",
+      "metadata": {
+        "analysis": "LaPorta has offered modest results in the Detroit offense of late, recording over 40 receiving yards in each of his last two contests. The tight end has frustrated fantasy managers to this point as a risky TE1 option, with a Week 13 contest against the Atlanta Falcons up next.",
+        "description": "Sam LaPorta hauled in four of his five targets for 44 yards and one touchdown in the Lions' 39-35 Week 12 loss to the Bears.",
+        "title": "Sam LaPorta finds end zone in Week 12 loss to Bears",
+        "topic_id": "1431862457390882816",
+        "url": "https://www.fantasypros.com/nfl/news/622797/sam-laporta-finds-end-zone-week-12-loss-to-bears.php"
+      },
+      "nfl_team": "DET",
+      "player_id": "10859",
+      "player_name": "Sam LaPorta",
+      "position": "TE",
+      "published": 1795745121869,
+      "source": "fantasy_pros",
+      "source_key": "622797",
+      "story_id": "nfl|10859|fantasy_pros|622797|1795745121869",
+      "title": "Sam LaPorta finds end zone in Week 12 loss to Bears",
+      "url": "https://www.fantasypros.com/nfl/news/622797/sam-laporta-finds-end-zone-week-12-loss-to-bears.php"
+    },
+    {
+      "analysis": "Williams has been impactful in the Detroit passing attack of late, recording 50 or more receiving yards in six of his last eight games. The wideout continues to flash explosive potential as one of the more dynamic pass-catching options for head coach Dan Campbell ahead of a Week 13 matchup against the Atlanta Falcons.",
+      "description": "Jameson Williams hauled in six of nine targets for 68 yards while also rushing once for 12 yards in the Lions' 39-35 Week 12 loss to the Bears.",
+      "metadata": {
+        "analysis": "Williams has been impactful in the Detroit passing attack of late, recording 50 or more receiving yards in six of his last eight games. The wideout continues to flash explosive potential as one of the more dynamic pass-catching options for head coach Dan Campbell ahead of a Week 13 matchup against the Atlanta Falcons.",
+        "description": "Jameson Williams hauled in six of nine targets for 68 yards while also rushing once for 12 yards in the Lions' 39-35 Week 12 loss to the Bears.",
+        "title": "Jameson Williams hauls in six passes in Week 12 loss to Bears",
+        "topic_id": "1431862457315385344",
+        "url": "https://www.fantasypros.com/nfl/news/622798/jameson-williams-hauls-six-passes-week-12-loss-to-bears.php"
+      },
+      "nfl_team": "DET",
+      "player_id": "8148",
+      "player_name": "Jameson Williams",
+      "position": "WR",
+      "published": 1795745121851,
+      "source": "fantasy_pros",
+      "source_key": "622798",
+      "story_id": "nfl|8148|fantasy_pros|622798|1795745121851",
+      "title": "Jameson Williams hauls in six passes in Week 12 loss to Bears",
+      "url": "https://www.fantasypros.com/nfl/news/622798/jameson-williams-hauls-six-passes-week-12-loss-to-bears.php"
+    },
+    {
+      "analysis": "The Cowboys held a 28-10 lead at the half and were up 38-24 early in the fourth quarter, but abysmal efforts by the defense and special teams squandered Prescott's third straight game producing at least three touchdowns. It was the first time since Week 8 that he failed to reach 300 passing yards, but the 33-year-old QB is still on course for a career-best campaign. He'll take a 27:7 TD:INT, along with three rushing scores, into a much tougher Week 13 tilt against the Seahawks.",
+      "description": "Prescott completed 19 of 28 passes for 291 yards and two touchdowns with one interception in Thursday's 39-38 loss to the Eagles. He added 19 yards and a TD on two carries.",
+      "metadata": {
+        "analysis": "The Cowboys held a 28-10 lead at the half and were up 38-24 early in the fourth quarter, but abysmal efforts by the defense and special teams squandered Prescott's third straight game producing at least three touchdowns. It was the first time since Week 8 that he failed to reach 300 passing yards, but the 33-year-old QB is still on course for a career-best campaign. He'll take a 27:7 TD:INT, along with three rushing scores, into a much tougher Week 13 tilt against the Seahawks.",
+        "description": "Prescott completed 19 of 28 passes for 291 yards and two touchdowns with one interception in Thursday's 39-38 loss to the Eagles. He added 19 yards and a TD on two carries.",
+        "title": "Dak Prescott - Can't make up for dreadful defense",
+        "topic_id": "1431863711043158016"
+      },
+      "nfl_team": "DAL",
+      "player_id": "3294",
+      "player_name": "Dak Prescott",
+      "position": "QB",
+      "published": 1795745109000,
+      "source": "rotowire",
+      "source_key": "650048",
+      "story_id": "nfl|3294|rotowire|650048|1795745109000",
+      "title": "Dak Prescott - Can't make up for dreadful defense",
+      "url": null
+    },
+    {
+      "analysis": "TeSlaa has struggled to make an impact in the Detroit offense of late, registering less than 20 receiving yards in each of his last seven contests. The wideout can remain off rosters in all formats ahead of a Week 13 contest against the Atlanta Falcons.",
+      "description": "Isaac TeSlaa failed to catch his lone target in the Lions' 39-35 loss to the Bears in Week 12.",
+      "metadata": {
+        "analysis": "TeSlaa has struggled to make an impact in the Detroit offense of late, registering less than 20 receiving yards in each of his last seven contests. The wideout can remain off rosters in all formats ahead of a Week 13 contest against the Atlanta Falcons.",
+        "description": "Isaac TeSlaa failed to catch his lone target in the Lions' 39-35 loss to the Bears in Week 12.",
+        "title": "Isaac TeSlaa sees one target in Week 12",
+        "topic_id": "1431861199506542592",
+        "url": "https://www.fantasypros.com/nfl/news/622795/isaac-teslaa-sees-one-target-week-12.php"
+      },
+      "nfl_team": "DET",
+      "player_id": "12535",
+      "player_name": "Isaac TeSlaa",
+      "position": "WR",
+      "published": 1795744821962,
+      "source": "fantasy_pros",
+      "source_key": "622795",
+      "story_id": "nfl|12535|fantasy_pros|622795|1795744821962",
+      "title": "Isaac TeSlaa sees one target in Week 12",
+      "url": "https://www.fantasypros.com/nfl/news/622795/isaac-teslaa-sees-one-target-week-12.php"
+    },
+    {
+      "analysis": "The Eagles were down 28-10 at the half and watched Saquon Barkley (neck) and Dallas Goedert (shoulder) exit early, leaving Joe Milton with limited tools at his disposal to put together a comeback. DeVonta Smith saw most of the target volume, but Lemon came up big when it counted, connecting with Milton on a 24-yard TD that brought Philly to within two points with about two minutes left. While a two-point conversion attempt to tie the game failed, the stage was set for a game-winning 59-yard field goal by Jake Elliott in the dying seconds. Lemon has topped 50 yards in four of the last five games, producing a 25-249-2 line on 35 targets over that stretch, and the rookie's role could continue to grow in Week 13 against the Cardinals.",
+      "description": "Lemon caught five of six targets for 51 yards and a touchdown in Thursday's 39-38 win over the Cowboys.",
+      "metadata": {
+        "analysis": "The Eagles were down 28-10 at the half and watched Saquon Barkley (neck) and Dallas Goedert (shoulder) exit early, leaving Joe Milton with limited tools at his disposal to put together a comeback. DeVonta Smith saw most of the target volume, but Lemon came up big when it counted, connecting with Milton on a 24-yard TD that brought Philly to within two points with about two minutes left. While a two-point conversion attempt to tie the game failed, the stage was set for a game-winning 59-yard field goal by Jake Elliott in the dying seconds. Lemon has topped 50 yards in four of the last five games, producing a 25-249-2 line on 35 targets over that stretch, and the rookie's role could continue to grow in Week 13 against the Cardinals.",
+        "description": "Lemon caught five of six targets for 51 yards and a touchdown in Thursday's 39-38 win over the Cowboys.",
+        "title": "Makai Lemon - Hauls in key TD in comeback win",
+        "topic_id": "1431861194779549696"
+      },
+      "nfl_team": "PHI",
+      "player_id": "13294",
+      "player_name": "Makai Lemon",
+      "position": "WR",
+      "published": 1795744671000,
+      "source": "rotowire",
+      "source_key": "650046",
+      "story_id": "nfl|13294|rotowire|650046|1795744671000",
+      "title": "Makai Lemon - Hauls in key TD in comeback win",
+      "url": null
+    },
+    {
+      "analysis": "Facing the team who put him on the practice squad to begin the season before he got signed by the Eagles, Milton used his mobility to keep plays alive and find receivers deep against an inept Cowboys secondary. The 26-year-old QB connected with DeVonta Smith for TDs of 50 yards in the second quarter and 45 yards in the third, before a big fourth quarter in which Milton ran in a 15-yard score of his own and then found Makai Lemon for a 15-yard strike as Philly erased a 38-24 deficit. Milton's 331 passing yards weren't just a career high, they were more than he produced in his first two starts this season combined. He'll remain under center against another struggling defense as he faces the Cardinals in Week 13.",
+      "description": "Milton completed 21 of 31 passes for 331 yards and three touchdowns with one interception in Thursday's 39-38 win over the Cowboys. He added 15 yards and a TD on three carries.",
+      "metadata": {
+        "analysis": "Facing the team who put him on the practice squad to begin the season before he got signed by the Eagles, Milton used his mobility to keep plays alive and find receivers deep against an inept Cowboys secondary. The 26-year-old QB connected with DeVonta Smith for TDs of 50 yards in the second quarter and 45 yards in the third, before a big fourth quarter in which Milton ran in a 15-yard score of his own and then found Makai Lemon for a 15-yard strike as Philly erased a 38-24 deficit. Milton's 331 passing yards weren't just a career high, they were more than he produced in his first two starts this season combined. He'll remain under center against another struggling defense as he faces the Cardinals in Week 13.",
+        "description": "Milton completed 21 of 31 passes for 331 yards and three touchdowns with one interception in Thursday's 39-38 win over the Cowboys. He added 15 yards and a TD on three carries.",
+        "title": "Joe Milton - Produces four TDs against former club",
+        "topic_id": "1431859936974901248"
+      },
+      "nfl_team": "PHI",
+      "player_id": "11557",
+      "player_name": "Joe Milton",
+      "position": "QB",
+      "published": 1795744114000,
+      "source": "rotowire",
+      "source_key": "650041",
+      "story_id": "nfl|11557|rotowire|650041|1795744114000",
+      "title": "Joe Milton - Produces four TDs against former club",
+      "url": null
+    },
+    {
+      "analysis": "Bates has been dynamic behind a high-powered offense to this point, recording seven or more points in 10 of 11 contests. The kicker will look to offer another prolific performance in a favorable Week 13 contest against the Atlanta Falcons.",
+      "description": "Jake Bates converted both of his field goal attempts as well as three of his four extra point attempts to finish with nine points in the Lions' 39-35 loss to the Bears in Week 12.",
+      "metadata": {
+        "analysis": "Bates has been dynamic behind a high-powered offense to this point, recording seven or more points in 10 of 11 contests. The kicker will look to offer another prolific performance in a favorable Week 13 contest against the Atlanta Falcons.",
+        "description": "Jake Bates converted both of his field goal attempts as well as three of his four extra point attempts to finish with nine points in the Lions' 39-35 loss to the Bears in Week 12.",
+        "title": "Jake Bates misses extra point in Week 12",
+        "topic_id": "1431857425400467459",
+        "url": "https://www.fantasypros.com/nfl/news/622791/jake-bates-misses-extra-point-week-12.php"
+      },
+      "nfl_team": "DET",
+      "player_id": "11539",
+      "player_name": "Jake Bates",
+      "position": "K",
+      "published": 1795743922145,
+      "source": "fantasy_pros",
+      "source_key": "622791",
+      "story_id": "nfl|11539|fantasy_pros|622791|1795743922145",
+      "title": "Jake Bates misses extra point in Week 12",
+      "url": "https://www.fantasypros.com/nfl/news/622791/jake-bates-misses-extra-point-week-12.php"
+    },
+    {
+      "analysis": "Injuries keep piling up for the Eagles, with both Saquon Barkley (neck) and Dallas Goedert (shoulder) exiting the Thanksgiving contest early, and even Smith was checked for a back injury late in the game after an awkward landing along the sideline. The wideout stayed in the game, however, and he put together a career-best performance while acting as Joe Milton's top downfield option. Both of Smith's TDs came on breakdowns in the Dallas secondary, as he hauled in scores of 50 and 45 yards on plays in which Milton just chucked the ball up and let his No. 1 guy go get it. Smith will take a 42-551-4 line on 67 targets into a Week 13 contest against the Cardinals.",
+      "description": "Smith caught 11 of 14 targets for 200 yards and two touchdowns in Thursday's 39-38 win over the Cowboys.",
+      "metadata": {
+        "analysis": "Injuries keep piling up for the Eagles, with both Saquon Barkley (neck) and Dallas Goedert (shoulder) exiting the Thanksgiving contest early, and even Smith was checked for a back injury late in the game after an awkward landing along the sideline. The wideout stayed in the game, however, and he put together a career-best performance while acting as Joe Milton's top downfield option. Both of Smith's TDs came on breakdowns in the Dallas secondary, as he hauled in scores of 50 and 45 yards on plays in which Milton just chucked the ball up and let his No. 1 guy go get it. Smith will take a 42-551-4 line on 67 targets into a Week 13 contest against the Cardinals.",
+        "description": "Smith caught 11 of 14 targets for 200 yards and two touchdowns in Thursday's 39-38 win over the Cowboys.",
+        "title": "DeVonta Smith - Huge day in Thanksgiving upset",
+        "topic_id": "1431857419847233536"
+      },
+      "nfl_team": "PHI",
+      "player_id": "7525",
+      "player_name": "DeVonta Smith",
+      "position": "WR",
+      "published": 1795743759000,
+      "source": "rotowire",
+      "source_key": "650039",
+      "story_id": "nfl|7525|rotowire|650039|1795743759000",
+      "title": "DeVonta Smith - Huge day in Thanksgiving upset",
+      "url": null
+    },
+    {
+      "analysis": "Williams has been impactful behind center of late, passing for two touchdowns in four of his last five games. The quarterback offers fantasy managers a dynamic QB1 option ahead of a Week 13 matchup against the Jacksonville Jaguars.",
+      "description": "Caleb Williams completed 30-of-44 pass attempts for 345 yards and two touchdowns while also rushing three times for 15 yards in the Bears' 39-35 Week 12 win over the Lions.",
+      "metadata": {
+        "analysis": "Williams has been impactful behind center of late, passing for two touchdowns in four of his last five games. The quarterback offers fantasy managers a dynamic QB1 option ahead of a Week 13 matchup against the Jacksonville Jaguars.",
+        "description": "Caleb Williams completed 30-of-44 pass attempts for 345 yards and two touchdowns while also rushing three times for 15 yards in the Bears' 39-35 Week 12 win over the Lions.",
+        "title": "Caleb Williams comes up clutch in Week 12 win over Lions",
+        "topic_id": "1431854907413000193",
+        "url": "https://www.fantasypros.com/nfl/news/622790/caleb-williams-comes-up-clutch-week-12-win-over-lions.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11560",
+      "player_name": "Caleb Williams",
+      "position": "QB",
+      "published": 1795743321813,
+      "source": "fantasy_pros",
+      "source_key": "622790",
+      "story_id": "nfl|11560|fantasy_pros|622790|1795743321813",
+      "title": "Caleb Williams comes up clutch in Week 12 win over Lions",
+      "url": "https://www.fantasypros.com/nfl/news/622790/caleb-williams-comes-up-clutch-week-12-win-over-lions.php"
+    },
+    {
+      "analysis": "Raymond had a solid outing against his former team, as he finished tied for fourth on the Bears in receptions. The 32-year-old has now caught 36 passes for 324 yards and a touchdown, in addition to racking up 209 punt-return yards across 11 games this season.",
+      "description": "Raymond caught three of his five targets for 20 yards during Chicago's win over the Lions on Thursday.",
+      "metadata": {
+        "analysis": "Raymond had a solid outing against his former team, as he finished tied for fourth on the Bears in receptions. The 32-year-old has now caught 36 passes for 324 yards and a touchdown, in addition to racking up 209 punt-return yards across 11 games this season.",
+        "description": "Raymond caught three of his five targets for 20 yards during Chicago's win over the Lions on Thursday.",
+        "title": "Kalif Raymond - Catches three passes in win",
+        "topic_id": "1431856160759103488"
+      },
+      "nfl_team": "CHI",
+      "player_id": "3634",
+      "player_name": "Kalif Raymond",
+      "position": "WR",
+      "published": 1795743300000,
+      "source": "rotowire",
+      "source_key": "650037",
+      "story_id": "nfl|3634|rotowire|650037|1795743300000",
+      "title": "Kalif Raymond - Catches three passes in win",
+      "url": null
+    },
+    {
+      "analysis": "Santos' lone field goal came from 40 yards out during the victory. The 35-year-old has converted 18 of his 22 field-goal attempts and 33 of his 34 extra-point tries across 11 games this season.",
+      "description": "Santos converted his only field-goal attempt and all four of his extra-point tries during Chicago's win over the Detroit on Thursday.",
+      "metadata": {
+        "analysis": "Santos' lone field goal came from 40 yards out during the victory. The 35-year-old has converted 18 of his 22 field-goal attempts and 33 of his 34 extra-point tries across 11 games this season.",
+        "description": "Santos converted his only field-goal attempt and all four of his extra-point tries during Chicago's win over the Detroit on Thursday.",
+        "title": "Cairo Santos - Makes lone field-goal attempt in win",
+        "topic_id": "1431853644285775872"
+      },
+      "nfl_team": "CHI",
+      "player_id": "2020",
+      "player_name": "Cairo Santos",
+      "position": "K",
+      "published": 1795742846000,
+      "source": "rotowire",
+      "source_key": "650036",
+      "story_id": "nfl|2020|rotowire|650036|1795742846000",
+      "title": "Cairo Santos - Makes lone field-goal attempt in win",
+      "url": null
+    },
+    {
+      "analysis": "Odunze has been impactful in the Chicago passing attack of late, registering 60 or more receiving yards in four of his last five games. The wideout remains one of the more reliable pass-catching options for head coach Ben Johnson entering a Week 13 matchup against the Jacksonville Jaguars.",
+      "description": "Rome Odunze hauled in six of his team-leading nine targets for 87 yards and two touchdowns in the Bears' 39-35 Week 12 win over Lions.",
+      "metadata": {
+        "analysis": "Odunze has been impactful in the Chicago passing attack of late, registering 60 or more receiving yards in four of his last five games. The wideout remains one of the more reliable pass-catching options for head coach Ben Johnson entering a Week 13 matchup against the Jacksonville Jaguars.",
+        "description": "Rome Odunze hauled in six of his team-leading nine targets for 87 yards and two touchdowns in the Bears' 39-35 Week 12 win over Lions.",
+        "title": "Rome Odunze hauls in two touchdowns in Week 12 win over Lions",
+        "topic_id": "1431852389547130880",
+        "url": "https://www.fantasypros.com/nfl/news/622787/rome-odunze-hauls-two-touchdowns-week-12-win-over-lions.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "11620",
+      "player_name": "Rome Odunze",
+      "position": "WR",
+      "published": 1795742721505,
+      "source": "fantasy_pros",
+      "source_key": "622787",
+      "story_id": "nfl|11620|fantasy_pros|622787|1795742721505",
+      "title": "Rome Odunze hauls in two touchdowns in Week 12 win over Lions",
+      "url": "https://www.fantasypros.com/nfl/news/622787/rome-odunze-hauls-two-touchdowns-week-12-win-over-lions.php"
+    },
+    {
+      "analysis": "Burden III has offered mixed results in the Chicago offense of late, recording less than 90 receiving yards in three of his last six contests. The wideout continues to flash explosive potential in the Chicago offense ahead of a Week 13 matchup against the Jacksonville Jaguars.",
+      "description": "Luther Burden III hauled in three of his seven targets for 44 yards while also rushing once for one yard in the Bears' 39-35 win over the Lions in Week 12.",
+      "metadata": {
+        "analysis": "Burden III has offered mixed results in the Chicago offense of late, recording less than 90 receiving yards in three of his last six contests. The wideout continues to flash explosive potential in the Chicago offense ahead of a Week 13 matchup against the Jacksonville Jaguars.",
+        "description": "Luther Burden III hauled in three of his seven targets for 44 yards while also rushing once for one yard in the Bears' 39-35 win over the Lions in Week 12.",
+        "title": "Luther Burden III sees four touches in Week 12 win",
+        "topic_id": "1431852389484216320",
+        "url": "https://www.fantasypros.com/nfl/news/622788/luther-burden-iii-sees-four-touches-week-12-win.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12519",
+      "player_name": "Luther Burden III",
+      "position": "WR",
+      "published": 1795742721494,
+      "source": "fantasy_pros",
+      "source_key": "622788",
+      "story_id": "nfl|12519|fantasy_pros|622788|1795742721494",
+      "title": "Luther Burden III sees four touches in Week 12 win",
+      "url": "https://www.fantasypros.com/nfl/news/622788/luther-burden-iii-sees-four-touches-week-12-win.php"
+    },
+    {
+      "analysis": "Swift continues an impactful stretch out of the backfield, recording one or more touchdowns in six of his last seven games. The running back remains an impactful RB1 option for head coach Ben Johnson ahead of a Week 13 matchup against the Jacksonville Jaguars.",
+      "description": "D'Andre Swift carried the ball nine times for 65 yards and one touchdown while also hauling in seven of his eight targets for a team-high 97 yards in the Bears' 39-35 Week 12 win over the Lions.",
+      "metadata": {
+        "analysis": "Swift continues an impactful stretch out of the backfield, recording one or more touchdowns in six of his last seven games. The running back remains an impactful RB1 option for head coach Ben Johnson ahead of a Week 13 matchup against the Jacksonville Jaguars.",
+        "description": "D'Andre Swift carried the ball nine times for 65 yards and one touchdown while also hauling in seven of his eight targets for a team-high 97 yards in the Bears' 39-35 Week 12 win over the Lions.",
+        "title": "D'Andre Swift dynamic in Week 12 win over Lions",
+        "topic_id": "1431852389442273280",
+        "url": "https://www.fantasypros.com/nfl/news/622789/dandre-swift-dynamic-week-12-win-over-lions.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "6790",
+      "player_name": "D'Andre Swift",
+      "position": "RB",
+      "published": 1795742721479,
+      "source": "fantasy_pros",
+      "source_key": "622789",
+      "story_id": "nfl|6790|fantasy_pros|622789|1795742721479",
+      "title": "D'Andre Swift dynamic in Week 12 win over Lions",
+      "url": "https://www.fantasypros.com/nfl/news/622789/dandre-swift-dynamic-week-12-win-over-lions.php"
+    },
+    {
+      "analysis": "Raymond has underwhelmed in the Chicago passing attack, finishing with under 35 receiving yards in each of his last eight games. The speedy wideout cannot be trusted as a reliable pass-catching option at this point ahead of a Week 13 contest against the Jacksonville Jaguars.",
+      "description": "Kalif Raymond caught three of his five targets for 20 yards in the Bears' 39-35 win over the Lions in Week 12.",
+      "metadata": {
+        "analysis": "Raymond has underwhelmed in the Chicago passing attack, finishing with under 35 receiving yards in each of his last eight games. The speedy wideout cannot be trusted as a reliable pass-catching option at this point ahead of a Week 13 contest against the Jacksonville Jaguars.",
+        "description": "Kalif Raymond caught three of his five targets for 20 yards in the Bears' 39-35 win over the Lions in Week 12.",
+        "title": "Kalif Raymond catches three passes in Week 12",
+        "topic_id": "1431849874013298688",
+        "url": "https://www.fantasypros.com/nfl/news/622785/kalif-raymond-catches-three-passes-week-12.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "3634",
+      "player_name": "Kalif Raymond",
+      "position": "WR",
+      "published": 1795742121756,
+      "source": "fantasy_pros",
+      "source_key": "622785",
+      "story_id": "nfl|3634|fantasy_pros|622785|1795742121756",
+      "title": "Kalif Raymond catches three passes in Week 12",
+      "url": "https://www.fantasypros.com/nfl/news/622785/kalif-raymond-catches-three-passes-week-12.php"
+    },
+    {
+      "analysis": "Monangai has had a nose for the end zone in limited action out of the backfield of late, rushing for two touchdowns in two of his last three contests. The running back remains a touchdown dependent option behind RB1 D'Andre Swift ahead of a Week 13 matchup against the Jacksonville Jaguars.",
+      "description": "Kyle Monangai rushed eight times for 15 yards and two touchdowns while also catching one of his two targets for 14 yards in the Bears' 39-35 Week 12 win over the Lions.",
+      "metadata": {
+        "analysis": "Monangai has had a nose for the end zone in limited action out of the backfield of late, rushing for two touchdowns in two of his last three contests. The running back remains a touchdown dependent option behind RB1 D'Andre Swift ahead of a Week 13 matchup against the Jacksonville Jaguars.",
+        "description": "Kyle Monangai rushed eight times for 15 yards and two touchdowns while also catching one of his two targets for 14 yards in the Bears' 39-35 Week 12 win over the Lions.",
+        "title": "Kyle Monangai rushes for two touchdowns in Week 12 win over Lions",
+        "topic_id": "1431849873958772736",
+        "url": "https://www.fantasypros.com/nfl/news/622786/kyle-monangai-rushes-two-touchdowns-week-12-win-over-lions.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "12534",
+      "player_name": "Kyle Monangai",
+      "position": "RB",
+      "published": 1795742121744,
+      "source": "fantasy_pros",
+      "source_key": "622786",
+      "story_id": "nfl|12534|fantasy_pros|622786|1795742121744",
+      "title": "Kyle Monangai rushes for two touchdowns in Week 12 win over Lions",
+      "url": "https://www.fantasypros.com/nfl/news/622786/kyle-monangai-rushes-two-touchdowns-week-12-win-over-lions.php"
+    },
+    {
+      "analysis": "Bates' missed extra point came from 48 yards out due to a 15-yard taunting penalty. The 27-year-old has now converted 19 of his 21 field-goal attempts and 36 of his 37 extra-point tries across 11 games this season.",
+      "description": "Bates made both of his field-goal attempts and three of his four extra-point tries during Detroit's loss to the Bears on Thursday.",
+      "metadata": {
+        "analysis": "Bates' missed extra point came from 48 yards out due to a 15-yard taunting penalty. The 27-year-old has now converted 19 of his 21 field-goal attempts and 36 of his 37 extra-point tries across 11 games this season.",
+        "description": "Bates made both of his field-goal attempts and three of his four extra-point tries during Detroit's loss to the Bears on Thursday.",
+        "title": "Jake Bates - Misses extra point in loss",
+        "topic_id": "1431849869051441152"
+      },
+      "nfl_team": "DET",
+      "player_id": "11539",
+      "player_name": "Jake Bates",
+      "position": "K",
+      "published": 1795741959000,
+      "source": "rotowire",
+      "source_key": "650034",
+      "story_id": "nfl|11539|rotowire|650034|1795741959000",
+      "title": "Jake Bates - Misses extra point in loss",
+      "url": null
+    },
+    {
+      "analysis": "Santos has benefited from kicking behind a high-powered Chicago offense of late, registering six or more points in each of his last six contests. The kicker will look for more success in a Week 13 contest against the Jacksonville Jaguars.",
+      "description": "Cairo Santos converted his only field goal attempt as well as all four of his extra point attempts to finish with six points in the Bears' 39-35 win over the Lions in Week 12.",
+      "metadata": {
+        "analysis": "Santos has benefited from kicking behind a high-powered Chicago offense of late, registering six or more points in each of his last six contests. The kicker will look for more success in a Week 13 contest against the Jacksonville Jaguars.",
+        "description": "Cairo Santos converted his only field goal attempt as well as all four of his extra point attempts to finish with six points in the Bears' 39-35 win over the Lions in Week 12.",
+        "title": "Cairo Santos perfect in Week 12",
+        "topic_id": "1431842322584186880",
+        "url": "https://www.fantasypros.com/nfl/news/622768/cairo-santos-perfect-week-12.php"
+      },
+      "nfl_team": "CHI",
+      "player_id": "2020",
+      "player_name": "Cairo Santos",
+      "position": "K",
+      "published": 1795740321361,
+      "source": "fantasy_pros",
+      "source_key": "622768",
+      "story_id": "nfl|2020|fantasy_pros|622768|1795740321361",
+      "title": "Cairo Santos perfect in Week 12",
+      "url": "https://www.fantasypros.com/nfl/news/622768/cairo-santos-perfect-week-12.php"
+    },
+    {
+      "analysis": "Barkley argued with the coaching staff in an attempt to return to the field unsuccessfully, rushing five times for seven yards prior to exiting. Will Shipley takes over in the backfield for head coach Nick Sirianni.",
+      "description": "Saquon Barkley (stinger) is questionable to return for the Philadelphia Eagles Thursday.",
+      "metadata": {
+        "analysis": "Barkley argued with the coaching staff in an attempt to return to the field unsuccessfully, rushing five times for seven yards prior to exiting. Will Shipley takes over in the backfield for head coach Nick Sirianni.",
+        "description": "Saquon Barkley (stinger) is questionable to return for the Philadelphia Eagles Thursday.",
+        "title": "Saquon Barkley (stinger) questionable to return",
+        "topic_id": "1431832256674017280",
+        "url": "https://www.fantasypros.com/nfl/news/622767/saquon-barkley-stinger-questionable-to-return.php"
+      },
+      "nfl_team": "PHI",
+      "player_id": "4866",
+      "player_name": "Saquon Barkley",
+      "position": "RB",
+      "published": 1795737921453,
+      "source": "fantasy_pros",
+      "source_key": "622767",
+      "story_id": "nfl|4866|fantasy_pros|622767|1795737921453",
+      "title": "Saquon Barkley (stinger) questionable to return",
+      "url": "https://www.fantasypros.com/nfl/news/622767/saquon-barkley-stinger-questionable-to-return.php"
+    },
+    {
+      "analysis": "Kincaid will take the field after logging limited practice activity on a short week, offering quarterback Josh Allen another impactful pass-catching option against the Chiefs Thanksgiving night.",
+      "description": "Dalton Kincaid (thumb/ankle) is active for Week 12 for the Buffalo Bills against the Kansas City Chiefs according to Adam Schefter.",
+      "metadata": {
+        "analysis": "Kincaid will take the field after logging limited practice activity on a short week, offering quarterback Josh Allen another impactful pass-catching option against the Chiefs Thanksgiving night.",
+        "description": "Dalton Kincaid (thumb/ankle) is active for Week 12 for the Buffalo Bills against the Kansas City Chiefs according to Adam Schefter.",
+        "title": "Dalton Kincaid (thumb/ankle) active for Week 12",
+        "topic_id": "1431830996688306176",
+        "url": "https://www.fantasypros.com/nfl/news/622766/dalton-kincaid-thumbankle-active-week-12.php"
+      },
+      "nfl_team": "BUF",
+      "player_id": "10236",
+      "player_name": "Dalton Kincaid",
+      "position": "TE",
+      "published": 1795737621049,
+      "source": "fantasy_pros",
+      "source_key": "622766",
+      "story_id": "nfl|10236|fantasy_pros|622766|1795737621049",
+      "title": "Dalton Kincaid (thumb/ankle) active for Week 12",
+      "url": "https://www.fantasypros.com/nfl/news/622766/dalton-kincaid-thumbankle-active-week-12.php"
+    },
+    {
+      "analysis": "Kincaid, who was unavailable for this past Sunday's 26-9 victory over Miami, drew limited listings on Buffalo's injury reports Monday through Wednesday before approaching Thursday's contest with an official questionable designation. With the tight end's Week 12 status confirmed, Kincaid represents a viable fantasy lineup option at his position, having averaged 3.6 catches on 4.6 targets for 54.1 receiving yards with two TDs through nine games played.",
+      "description": "Kincaid (thumb/ankle) is listed as active for Thursday night's game against the Chiefs.",
+      "metadata": {
+        "analysis": "Kincaid, who was unavailable for this past Sunday's 26-9 victory over Miami, drew limited listings on Buffalo's injury reports Monday through Wednesday before approaching Thursday's contest with an official questionable designation. With the tight end's Week 12 status confirmed, Kincaid represents a viable fantasy lineup option at his position, having averaged 3.6 catches on 4.6 targets for 54.1 receiving yards with two TDs through nine games played.",
+        "description": "Kincaid (thumb/ankle) is listed as active for Thursday night's game against the Chiefs.",
+        "title": "Dalton Kincaid - Active for Thursday night's game",
+        "topic_id": "1431830992217178112"
+      },
+      "nfl_team": "BUF",
+      "player_id": "10236",
+      "player_name": "Dalton Kincaid",
+      "position": "TE",
+      "published": 1795737339000,
+      "source": "rotowire",
+      "source_key": "650018",
+      "story_id": "nfl|10236|rotowire|650018|1795737339000",
+      "title": "Dalton Kincaid - Active for Thursday night's game",
+      "url": null
+    },
     {
       "analysis": "The third-year wideout played hero in the fourth quarter on Thanksgiving. With the Bears down 35-24, Odunze hauled in a 41-yard strike from Caleb Williams (abdomen)  and then went up for a six-yard score in the back corner of the end zone with just three seconds left on the clock. Odunze sports a 42-660-3 line on 64 targets through 11 games, and if Colston Loveland (knee) ends up missing more time after exiting Thursday's game early, there could be more looks available for him in a Week 13 tilt against the Jaguars.",
       "description": "Odunze caught six of nine targets for 87 yards and two touchdowns in Thursday's 39-35 win over the Lions.",
@@ -941,10 +1865,10 @@
       "url": null
     },
     {
-      "analysis": "The Browns didn't actually practice Thursday, but Boston's estimated 'DNP' on the heels of Wednesday's missed session puts the focus on what the starting wideout is able to Friday, ahead of the team posting its final injury report in advance of Sunday night's 8:20 pm ET game against the Raiders. If Boston isn't cleared for the contest prior to the weekend, his fantasy managers will be put in a tricky spot, considering Cleveland's late Week 12 kickoff.",
+      "analysis": "The Browns didn't actually practice Thursday, but Boston's estimated 'DNP' on the heels of Wednesday's missed session puts the focus on what the starting wideout is able to Friday ahead of the team posting its final injury report for Sunday night's 8:20 p.m. ET game against the Raiders. If Boston isn't cleared for the contest prior to the weekend, his fantasy managers will be put in a tricky spot, considering Cleveland's late Week 12 kickoff.",
       "description": "Boston (quadriceps) was listed as a non-participant on Thursday's practice estimate, Sam Warren of The Athleticreports.",
       "metadata": {
-        "analysis": "The Browns didn't actually practice Thursday, but Boston's estimated 'DNP' on the heels of Wednesday's missed session puts the focus on what the starting wideout is able to Friday, ahead of the team posting its final injury report in advance of Sunday night's 8:20 pm ET game against the Raiders. If Boston isn't cleared for the contest prior to the weekend, his fantasy managers will be put in a tricky spot, considering Cleveland's late Week 12 kickoff.",
+        "analysis": "The Browns didn't actually practice Thursday, but Boston's estimated 'DNP' on the heels of Wednesday's missed session puts the focus on what the starting wideout is able to Friday ahead of the team posting its final injury report for Sunday night's 8:20 p.m. ET game against the Raiders. If Boston isn't cleared for the contest prior to the weekend, his fantasy managers will be put in a tricky spot, considering Cleveland's late Week 12 kickoff.",
         "description": "Boston (quadriceps) was listed as a non-participant on Thursday's practice estimate, Sam Warren of The Athleticreports.",
         "title": "Denzel Boston - Logs another 'DNP' listing Thursday",
         "topic_id": "1431809599173844992"
@@ -1043,10 +1967,10 @@
       "url": null
     },
     {
-      "analysis": "The star tight end, who was inactive this past Sunday against the Broncos, has now strung together four straight limited practices, which bodes well for his chances of being back for this weekend's game against the Browns. Friday's final injury report will determine whether Bowers carries an injury designation for the contest or is fully cleared for Week 12 action.",
+      "analysis": "The star tight end, who was inactive this past Sunday against the Broncos, now has strung together four straight limited practices, which bodes well for his chances of being back for this weekend's game against the Browns. Friday's final injury report will determine whether Bowers carries an injury designation for the contest or is fully cleared for Week 12 action.",
       "description": "Bowers (ankle) remained a limited participant in Thursday's practice, Sam Warren of The Athletic reports.",
       "metadata": {
-        "analysis": "The star tight end, who was inactive this past Sunday against the Broncos, has now strung together four straight limited practices, which bodes well for his chances of being back for this weekend's game against the Browns. Friday's final injury report will determine whether Bowers carries an injury designation for the contest or is fully cleared for Week 12 action.",
+        "analysis": "The star tight end, who was inactive this past Sunday against the Broncos, now has strung together four straight limited practices, which bodes well for his chances of being back for this weekend's game against the Browns. Friday's final injury report will determine whether Bowers carries an injury designation for the contest or is fully cleared for Week 12 action.",
         "description": "Bowers (ankle) remained a limited participant in Thursday's practice, Sam Warren of The Athletic reports.",
         "title": "Brock Bowers - Another limited listing Thursday",
         "topic_id": "1431808341008470016"
@@ -1123,10 +2047,10 @@
       "url": null
     },
     {
-      "analysis": "Harrison has missed the Texans' last two contests, but after a limited practice Wednesday, the wideout's full participation Thursday sets the stage for him to return to action Sunday against the Ravens. Given Harrison's modest production over three outings since arriving in a trade with the Cardinals, he profiles as a speculative fantasy lineup option in Week 12, with Nico Collins, Xavier Hutchinson, Tank Dell and possibly Kayshon Boutte (hip,'DNP' Thursday) also in Houston's WR mix.",
+      "analysis": "Harrison has missed the Texans' last two contests, but after a limited practice Wednesday, the wideout's full participation Thursday sets the stage for him to return to action Sunday against the Ravens. Given Harrison's modest production over three outings since arriving in a trade with the Cardinals, he profiles as a speculative fantasy lineup option in Week 12, with Nico Collins, Xavier Hutchinson, Tank Dell and possibly Kayshon Boutte (hip, 'DNP' Thursday) also in Houston's WR mix.",
       "description": "Harrison (hamstring) was a full participant in Thursday's practice.",
       "metadata": {
-        "analysis": "Harrison has missed the Texans' last two contests, but after a limited practice Wednesday, the wideout's full participation Thursday sets the stage for him to return to action Sunday against the Ravens. Given Harrison's modest production over three outings since arriving in a trade with the Cardinals, he profiles as a speculative fantasy lineup option in Week 12, with Nico Collins, Xavier Hutchinson, Tank Dell and possibly Kayshon Boutte (hip,'DNP' Thursday) also in Houston's WR mix.",
+        "analysis": "Harrison has missed the Texans' last two contests, but after a limited practice Wednesday, the wideout's full participation Thursday sets the stage for him to return to action Sunday against the Ravens. Given Harrison's modest production over three outings since arriving in a trade with the Cardinals, he profiles as a speculative fantasy lineup option in Week 12, with Nico Collins, Xavier Hutchinson, Tank Dell and possibly Kayshon Boutte (hip, 'DNP' Thursday) also in Houston's WR mix.",
         "description": "Harrison (hamstring) was a full participant in Thursday's practice.",
         "title": "Marvin Harrison - Turns in full practice Thursday",
         "topic_id": "1431804565107253248"
@@ -1223,10 +2147,10 @@
       "url": null
     },
     {
-      "analysis": "Flowers was limited at practice Wednesday, but the wide receiver's quick return to full participation one day later clears the way for him to suit up Sunday against the Texans. In his last outing, Flowers (who has recorded a fantasy-friendly 57/785/3 receiving line on 82 targets through 10 games), was on the field for 88 percent of his team's snaps on offense in a 35-33 loss to the Panthers in Week 11, en route to catching eight of his game-high 11 targets for 97 yards.",
+      "analysis": "Flowers was limited at practice Wednesday, but the wide receiver's quick return to all activity one day later clears the way for him to suit up Sunday against the Texans. In his last outing, Flowers (who has recorded a fantasy-friendly 57-785-3 line on 82 targets through 10 games), was on the field for 88 percent of his team's snaps on offense in a 35-33 loss to the Panthers in Week 11 en route to catching eight of his game-high 11 targets for 97 yards.",
       "description": "Flowers (ankle) was listed as a full participant in Thursday's practice.",
       "metadata": {
-        "analysis": "Flowers was limited at practice Wednesday, but the wide receiver's quick return to full participation one day later clears the way for him to suit up Sunday against the Texans. In his last outing, Flowers (who has recorded a fantasy-friendly 57/785/3 receiving line on 82 targets through 10 games), was on the field for 88 percent of his team's snaps on offense in a 35-33 loss to the Panthers in Week 11, en route to catching eight of his game-high 11 targets for 97 yards.",
+        "analysis": "Flowers was limited at practice Wednesday, but the wide receiver's quick return to all activity one day later clears the way for him to suit up Sunday against the Texans. In his last outing, Flowers (who has recorded a fantasy-friendly 57-785-3 line on 82 targets through 10 games), was on the field for 88 percent of his team's snaps on offense in a 35-33 loss to the Panthers in Week 11 en route to catching eight of his game-high 11 targets for 97 yards.",
         "description": "Flowers (ankle) was listed as a full participant in Thursday's practice.",
         "title": "Zay Flowers - Logs full practice Thursday",
         "topic_id": "1431800789856165888"
@@ -1263,10 +2187,10 @@
       "url": null
     },
     {
-      "analysis": "After logging a limited listing Wednesday, Henry's upgrade to 'full' Thursday has  him trending in the right direction as Sunday's game against the Texans approaches. Either way, Friday's final injury report will dictate whether or not the Ravens' lead back carries an injury designation heading into the weekend.",
+      "analysis": "After logging a limited listing Wednesday, Henry's upgrade to 'full' Thursday has him trending in the right direction as Sunday's game against the Texans approaches. Either way, Friday's final injury report will dictate whether or not the Ravens' lead back carries an injury designation heading into the weekend.",
       "description": "Henry (concussion) was listed as a full participant in Thursday's practice.",
       "metadata": {
-        "analysis": "After logging a limited listing Wednesday, Henry's upgrade to 'full' Thursday has  him trending in the right direction as Sunday's game against the Texans approaches. Either way, Friday's final injury report will dictate whether or not the Ravens' lead back carries an injury designation heading into the weekend.",
+        "analysis": "After logging a limited listing Wednesday, Henry's upgrade to 'full' Thursday has him trending in the right direction as Sunday's game against the Texans approaches. Either way, Friday's final injury report will dictate whether or not the Ravens' lead back carries an injury designation heading into the weekend.",
         "description": "Henry (concussion) was listed as a full participant in Thursday's practice.",
         "title": "Derrick Henry - Upgrades to full practice Thursday",
         "topic_id": "1431799531221041152"
@@ -1343,11 +2267,11 @@
       "url": null
     },
     {
-      "analysis": "Herbert, who landed in the NFL's concussion protocol in the wake of this past Sunday's 27-24 loss to the Jets, didn't practice Wednesday either. He is thus looking iffy, at best, for this weekend's game against the Patriots, especially given the Chargers' 1-9 record. If Herbert is inactive versus New England, DJ Uiagalelei would be in line to start at QB in his place, with Jake Browning available to back him up.",
-      "description": "Herbert (concussion) was officially deemed a non-participant  in Thursday's practice.",
+      "analysis": "Herbert, who landed in the NFL's concussion protocol in the wake of this past Sunday's 27-24 loss to the Jets, didn't practice Wednesday, either. He thus is looking iffy, at best, for this weekend's game against the Patriots, especially given the Chargers' 1-9 record. If Herbert is inactive versus New England, DJ Uiagalelei would be in line to start at QB in his place, with Jake Browning available to back him up.",
+      "description": "Herbert (concussion) was officially deemed a non-participant in Thursday's practice.",
       "metadata": {
-        "analysis": "Herbert, who landed in the NFL's concussion protocol in the wake of this past Sunday's 27-24 loss to the Jets, didn't practice Wednesday either. He is thus looking iffy, at best, for this weekend's game against the Patriots, especially given the Chargers' 1-9 record. If Herbert is inactive versus New England, DJ Uiagalelei would be in line to start at QB in his place, with Jake Browning available to back him up.",
-        "description": "Herbert (concussion) was officially deemed a non-participant  in Thursday's practice.",
+        "analysis": "Herbert, who landed in the NFL's concussion protocol in the wake of this past Sunday's 27-24 loss to the Jets, didn't practice Wednesday, either. He thus is looking iffy, at best, for this weekend's game against the Patriots, especially given the Chargers' 1-9 record. If Herbert is inactive versus New England, DJ Uiagalelei would be in line to start at QB in his place, with Jake Browning available to back him up.",
+        "description": "Herbert (concussion) was officially deemed a non-participant in Thursday's practice.",
         "title": "Justin Herbert - Misses another practice Thursday",
         "topic_id": "1431786947218513920"
       },
@@ -1363,10 +2287,10 @@
       "url": null
     },
     {
-      "analysis": "Mike Reiss of ESPN.com relayed earlier this week that Patriots head coach Mike Vrabel didn't anticipate Brown playing Sunday against the Chargers, and the wideout's consecutive 'DNP' listings Wednesday and Thursday haven't changed that narrative. Friday's final injury report will clarify whether Brown has any chance of playing this weekend, but on the plus side for the Patriots, it's possible that fellow WR Romeo Doubs (shoulder) could be activated off IR ahead of Week 12 action.",
+      "analysis": "Mike Reiss of ESPN.com relayed earlier this week that Patriots head coach Mike Vrabel doesn't anticipate Brown playing Sunday against the Chargers, and the wideout's consecutive 'DNP' listings Wednesday and Thursday haven't changed that narrative. Friday's final injury report will clarify whether Brown has any chance of playing this weekend, but on the plus side for the Patriots, it's possible that fellow WR Romeo Doubs (shoulder) is activated off IR ahead of Week 12 action.",
       "description": "Brown (hamstring) was listed as a non-participant on Thursday's practice estimate.",
       "metadata": {
-        "analysis": "Mike Reiss of ESPN.com relayed earlier this week that Patriots head coach Mike Vrabel didn't anticipate Brown playing Sunday against the Chargers, and the wideout's consecutive 'DNP' listings Wednesday and Thursday haven't changed that narrative. Friday's final injury report will clarify whether Brown has any chance of playing this weekend, but on the plus side for the Patriots, it's possible that fellow WR Romeo Doubs (shoulder) could be activated off IR ahead of Week 12 action.",
+        "analysis": "Mike Reiss of ESPN.com relayed earlier this week that Patriots head coach Mike Vrabel doesn't anticipate Brown playing Sunday against the Chargers, and the wideout's consecutive 'DNP' listings Wednesday and Thursday haven't changed that narrative. Friday's final injury report will clarify whether Brown has any chance of playing this weekend, but on the plus side for the Patriots, it's possible that fellow WR Romeo Doubs (shoulder) is activated off IR ahead of Week 12 action.",
         "description": "Brown (hamstring) was listed as a non-participant on Thursday's practice estimate.",
         "title": "A.J. Brown - Estimated as 'DNP' on Thursday",
         "topic_id": "1431784430560620544"
@@ -1383,11 +2307,11 @@
       "url": null
     },
     {
-      "analysis": "Cooper also logged a 'DNP' on Wednesday's practice estimate, so what -- if anything -- he's able to do Friday will be pivotal with regard to his status for Sunday's game against the Dolphins. If Cooper is sidelined for a second straight time this weekend, Adonai Mitchell and Isaiah Williams, in that order, would be next up for added opportunities at WR for the Jets versus Miami.",
-      "description": "Cooper (ankle/groin) was listed as a  non-participant in practice Thursday.",
+      "analysis": "Cooper also logged a 'DNP' on Wednesday's practice estimate, so what -- if anything -- he's able to do Friday will be pivotal with regard to his status for Sunday's game against the Dolphins. If Cooper is sidelined for a second straight time this weekend, Adonai Mitchell and Isaiah Williams, in that order, will be next up for added opportunities at WR for the Jets.",
+      "description": "Cooper (ankle/groin) was listed as a non-participant in practice Thursday.",
       "metadata": {
-        "analysis": "Cooper also logged a 'DNP' on Wednesday's practice estimate, so what -- if anything -- he's able to do Friday will be pivotal with regard to his status for Sunday's game against the Dolphins. If Cooper is sidelined for a second straight time this weekend, Adonai Mitchell and Isaiah Williams, in that order, would be next up for added opportunities at WR for the Jets versus Miami.",
-        "description": "Cooper (ankle/groin) was listed as a  non-participant in practice Thursday.",
+        "analysis": "Cooper also logged a 'DNP' on Wednesday's practice estimate, so what -- if anything -- he's able to do Friday will be pivotal with regard to his status for Sunday's game against the Dolphins. If Cooper is sidelined for a second straight time this weekend, Adonai Mitchell and Isaiah Williams, in that order, will be next up for added opportunities at WR for the Jets.",
+        "description": "Cooper (ankle/groin) was listed as a non-participant in practice Thursday.",
         "title": "Omar Cooper - Another 'DNP' on Thursday",
         "topic_id": "1431781913391005697"
       },
@@ -1423,10 +2347,10 @@
       "url": null
     },
     {
-      "analysis": "Back-to-back 'DNPs' Wednesday and Thursday cloud Tuten's status for Sunday's game against the Titans, with the running back's Friday practice participation level looming large in terms of his Week 12 availability. If Tuten isn't active versus Tennessee, Chris Rodriguez would see an increased workload in the Jacksonville backfield, with LeQuint Allen and Ameer Abdullah also in the mix.",
+      "analysis": "Back-to-back 'DNPs' Wednesday and Thursday cloud Tuten's status for Sunday's game against the Titans, with the running back's Friday practice participation level looming large in terms of his Week 12 availability. If Tuten isn't active versus Tennessee, Chris Rodriguez will be in line for an increased workload in the Jacksonville backfield, with LeQuint Allen and Ameer Abdullah also in the mix.",
       "description": "Tuten (ankle/foot) didn't practice Thursday, Ryan O'Halloran of The Florida Times-Union reports.",
       "metadata": {
-        "analysis": "Back-to-back 'DNPs' Wednesday and Thursday cloud Tuten's status for Sunday's game against the Titans, with the running back's Friday practice participation level looming large in terms of his Week 12 availability. If Tuten isn't active versus Tennessee, Chris Rodriguez would see an increased workload in the Jacksonville backfield, with LeQuint Allen and Ameer Abdullah also in the mix.",
+        "analysis": "Back-to-back 'DNPs' Wednesday and Thursday cloud Tuten's status for Sunday's game against the Titans, with the running back's Friday practice participation level looming large in terms of his Week 12 availability. If Tuten isn't active versus Tennessee, Chris Rodriguez will be in line for an increased workload in the Jacksonville backfield, with LeQuint Allen and Ameer Abdullah also in the mix.",
         "description": "Tuten (ankle/foot) didn't practice Thursday, Ryan O'Halloran of The Florida Times-Union reports.",
         "title": "Bhayshul Tuten - Logs another 'DNP' on Thursday",
         "topic_id": "1431780655452139520"
@@ -1463,10 +2387,10 @@
       "url": null
     },
     {
-      "analysis": "Washington wasn't on Wednesday's injury report, so his addition to it a day later is certainly of note. It remains to be seen if the WR, who is coming off consecutive big games for the Jaguars, is managing a shoulder issue stemming from Week 11 action, or was hurt in Thursday's practice. Friday's injury report will reveal both Washington's participation level to close the week, as well as his game status for a 1:00 pm ET matchup versus the Titans on Sunday.",
+      "analysis": "Washington wasn't on Wednesday's injury report, so his addition to it a day later is certainly of note. It remains to be seen if the WR, who is coming off consecutive big games for the Jaguars, is managing a shoulder issue stemming from Week 11 action or was hurt in Thursday's practice. Friday's report will reveal both Washington's participation level to close the week, as well as his game status for a 1:00 p.m. ET matchup versus the Titans on Sunday.",
       "description": "Washington (shoulder) was listed as a limited participant in Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports.",
       "metadata": {
-        "analysis": "Washington wasn't on Wednesday's injury report, so his addition to it a day later is certainly of note. It remains to be seen if the WR, who is coming off consecutive big games for the Jaguars, is managing a shoulder issue stemming from Week 11 action, or was hurt in Thursday's practice. Friday's injury report will reveal both Washington's participation level to close the week, as well as his game status for a 1:00 pm ET matchup versus the Titans on Sunday.",
+        "analysis": "Washington wasn't on Wednesday's injury report, so his addition to it a day later is certainly of note. It remains to be seen if the WR, who is coming off consecutive big games for the Jaguars, is managing a shoulder issue stemming from Week 11 action or was hurt in Thursday's practice. Friday's report will reveal both Washington's participation level to close the week, as well as his game status for a 1:00 p.m. ET matchup versus the Titans on Sunday.",
         "description": "Washington (shoulder) was listed as a limited participant in Thursday's practice, Ryan O'Halloran of The Florida Times-Union reports.",
         "title": "Parker Washington - Added to Week 12 injury report",
         "topic_id": "1431778138374828032"
@@ -1503,11 +2427,11 @@
       "url": null
     },
     {
-      "analysis": "Per Ross Jackson of WWL-TV, Johnson -- who logged a 'DNP' on Wednesday's practice estimate -- wasn't spotted at Thursday's session. The tight end thus has one more chance to practice before the Saints' Week 12 injury designations are assigned. If Johnson ends up limited or out this weekend, Noah Fant and Oscar Delp would be in line for added snaps in the team's offense versus Cincinnati.",
-      "description": "Coach Kellen Moore said Thursday that Johnson (hamstring/wrist) is considered day-to-day ahead of Sunday's game against the Bengals, Katherine Terrell of ESPN reports.",
+      "analysis": "Per Ross Jackson of WWL-TV, Johnson -- who logged a 'DNP' on Wednesday's practice estimate -- wasn't spotted at Thursday's session. The tight end thus has one more chance to practice before the Saints' Week 12 injury designations are assigned. If Johnson ends up limited or out this weekend, Noah Fant and Oscar Delp would be in line for added snaps in the team's offense this weekendi.",
+      "description": "Coach Kellen Moore said Thursday that Johnson (hamstring/wrist) is considered day-to-day ahead of Sunday's game against the Bengals, Katherine Terrell of ESPN.com reports.",
       "metadata": {
-        "analysis": "Per Ross Jackson of WWL-TV, Johnson -- who logged a 'DNP' on Wednesday's practice estimate -- wasn't spotted at Thursday's session. The tight end thus has one more chance to practice before the Saints' Week 12 injury designations are assigned. If Johnson ends up limited or out this weekend, Noah Fant and Oscar Delp would be in line for added snaps in the team's offense versus Cincinnati.",
-        "description": "Coach Kellen Moore said Thursday that Johnson (hamstring/wrist) is considered day-to-day ahead of Sunday's game against the Bengals, Katherine Terrell of ESPN reports.",
+        "analysis": "Per Ross Jackson of WWL-TV, Johnson -- who logged a 'DNP' on Wednesday's practice estimate -- wasn't spotted at Thursday's session. The tight end thus has one more chance to practice before the Saints' Week 12 injury designations are assigned. If Johnson ends up limited or out this weekend, Noah Fant and Oscar Delp would be in line for added snaps in the team's offense this weekendi.",
+        "description": "Coach Kellen Moore said Thursday that Johnson (hamstring/wrist) is considered day-to-day ahead of Sunday's game against the Bengals, Katherine Terrell of ESPN.com reports.",
         "title": "Juwan Johnson - Day-to-day ahead of Sunday's contest",
         "topic_id": "1431773105281323008"
       },
@@ -1523,10 +2447,10 @@
       "url": null
     },
     {
-      "analysis": "Pittman last saw game action in Week 4, but is slated to be back in the lineup versus Denver after logging 'full' practice listings Tuesday through Thursday. In his return, Pittman will bolster a Pittsburgh WR corps that also features DK Metcalf, Germie Bernard and Roman Wilson, with the veteran pass-catcher's Week 12 fantasy upside hinging on how well he connects with newly-installed starting QB Mason Rudolph. Prior to his absence, Pittman recorded a 7/89/0 receiving line on 12 targets through three contests.",
+      "analysis": "Pittman last played in Week 4 but is slated to be back in the lineup versus Denver after logging 'full' practice listings Tuesday through Thursday. In his return, Pittman will bolster a Pittsburgh WR corps that also features DK Metcalf, Germie Bernard and Roman Wilson, with the veteran pass catcher's Week 12 fantasy upside hinging on how well he connects with newly-installed starting QB Mason Rudolph. Prior to his absence, Pittman recorded a 7-89-0 line on 12 targets through three contests.",
       "description": "Pittman (foot), who was activated from IR on Thursday, doesn't carry an injury designation for Friday's game against the Broncos, Mike DeFabo of The Athletic reports.",
       "metadata": {
-        "analysis": "Pittman last saw game action in Week 4, but is slated to be back in the lineup versus Denver after logging 'full' practice listings Tuesday through Thursday. In his return, Pittman will bolster a Pittsburgh WR corps that also features DK Metcalf, Germie Bernard and Roman Wilson, with the veteran pass-catcher's Week 12 fantasy upside hinging on how well he connects with newly-installed starting QB Mason Rudolph. Prior to his absence, Pittman recorded a 7/89/0 receiving line on 12 targets through three contests.",
+        "analysis": "Pittman last played in Week 4 but is slated to be back in the lineup versus Denver after logging 'full' practice listings Tuesday through Thursday. In his return, Pittman will bolster a Pittsburgh WR corps that also features DK Metcalf, Germie Bernard and Roman Wilson, with the veteran pass catcher's Week 12 fantasy upside hinging on how well he connects with newly-installed starting QB Mason Rudolph. Prior to his absence, Pittman recorded a 7-89-0 line on 12 targets through three contests.",
         "description": "Pittman (foot), who was activated from IR on Thursday, doesn't carry an injury designation for Friday's game against the Broncos, Mike DeFabo of The Athletic reports.",
         "title": "Michael Pittman - Cleared for Friday's game",
         "topic_id": "1431770587482591232"
@@ -123744,129 +124668,6 @@
       "story_id": "nfl|11631|rotoballer|225697|1793179152000",
       "title": "Brian Thomas Jr. to Be Traded by Jaguars?",
       "url": "https://www.rotoballer.com/player-news/brian-thomas-jr-s-days-with-jaguars-could-be-numbered/1977650"
-    },
-    {
-      "analysis": null,
-      "description": "Baltimore Ravens running back Justice Hill has emerged as an intriguing handcuff option with some existing low-end standalone value in PPR leagues. Hill has played at least 42% of the snaps in each of his last three games, and he has 10 catches over his last four contests. None of his fantasy outputs have been truly explosive, but he has been relatively steady week over week. In fact, he has managed to rank as the overall RB46 in PPR scoring so far, which gets him closer to RB3/flex consideration. With that being said, regardless of the standalone fantasy value, Hill is an intriguing handcuff. While he is historically more of a pass-catching back, he has also shown that he is capable of handling a medium-sized rushing role, which would be necessary if Derrick Henry were to ever get hurt. A presumptive dual-threat role would immediately vault Hill to fringe top-24 running back territory if this hypothetical scenario were to happen. As a result, he's an intriguing handcuff to stash in 12+ team leagues, especially for managers who already have Henry on their roster.",
-      "metadata": {
-        "description": "Baltimore Ravens running back Justice Hill has emerged as an intriguing handcuff option with some existing low-end standalone value in PPR leagues. Hill has played at least 42% of the snaps in each of his last three games, and he has 10 catches over his last four contests. None of his fantasy outputs have been truly explosive, but he has been relatively steady week over week. In fact, he has managed to rank as the overall RB46 in PPR scoring so far, which gets him closer to RB3/flex consideration. With that being said, regardless of the standalone fantasy value, Hill is an intriguing handcuff. While he is historically more of a pass-catching back, he has also shown that he is capable of handling a medium-sized rushing role, which would be necessary if Derrick Henry were to ever get hurt. A presumptive dual-threat role would immediately vault Hill to fringe top-24 running back territory if this hypothetical scenario were to happen. As a result, he's an intriguing handcuff to stash in 12+ team leagues, especially for managers who already have Henry on their roster.",
-        "title": "Justice Hill an Intriguing Handcuff Despite Pass-Catching Profile",
-        "topic_id": "1421075111452200960",
-        "url": "https://www.rotoballer.com/player-news/justice-hill-an-intriguing-handcuff-despite-pass-catching-profile/1977562"
-      },
-      "nfl_team": "BAL",
-      "player_id": "5995",
-      "player_name": "Justice Hill",
-      "position": "RB",
-      "published": 1793158272000,
-      "source": "rotoballer",
-      "source_key": "225695",
-      "story_id": "nfl|5995|rotoballer|225695|1793158272000",
-      "title": "Justice Hill an Intriguing Handcuff Despite Pass-Catching Profile",
-      "url": "https://www.rotoballer.com/player-news/justice-hill-an-intriguing-handcuff-despite-pass-catching-profile/1977562"
-    },
-    {
-      "analysis": null,
-      "description": "San Francisco 49ers wide receiver De'Zhaun Stribling (ankle) is an intriguing player to stash ahead of his projected return from injured reserve in December. Stribling, who has been sidelined since after Week 1, will have WR3/flex potential when he gets back on the field, so it would make sense for fantasy managers to add him before his activation, rather than get involved in the mad waiver wire scramble once he gets activated. Projecting an exact role and volume for Stribling is a bit difficult because he has yet to catch a pass at the NFL level, but his involvement back in Week 1 before he got hurt was encouraging. The 23-year-old won't pass Mike Evans or Deebo Samuel Sr. on the depth chart, but it seemed like he was perfectly capable of coexisting alongside those two receivers in the 49ers' volume-heavy offense. Stribling should be stashed on the IR in 14+ team leagues for now, and managers in 12-team formats should get in on the action relatively soon, too.",
-      "metadata": {
-        "description": "San Francisco 49ers wide receiver De'Zhaun Stribling (ankle) is an intriguing player to stash ahead of his projected return from injured reserve in December. Stribling, who has been sidelined since after Week 1, will have WR3/flex potential when he gets back on the field, so it would make sense for fantasy managers to add him before his activation, rather than get involved in the mad waiver wire scramble once he gets activated. Projecting an exact role and volume for Stribling is a bit difficult because he has yet to catch a pass at the NFL level, but his involvement back in Week 1 before he got hurt was encouraging. The 23-year-old won't pass Mike Evans or Deebo Samuel Sr. on the depth chart, but it seemed like he was perfectly capable of coexisting alongside those two receivers in the 49ers' volume-heavy offense. Stribling should be stashed on the IR in 14+ team leagues for now, and managers in 12-team formats should get in on the action relatively soon, too.",
-        "title": "Time to Consider Stashing De'Zhaun Stribling in Redraft Leagues",
-        "topic_id": "1421073852930244608",
-        "url": "https://www.rotoballer.com/player-news/time-to-consider-stashing-dezhaun-stribling-in-redraft-leagues/1977560"
-      },
-      "nfl_team": "SF",
-      "player_id": "13417",
-      "player_name": "De'Zhaun Stribling",
-      "position": "WR",
-      "published": 1793158036000,
-      "source": "rotoballer",
-      "source_key": "225694",
-      "story_id": "nfl|13417|rotoballer|225694|1793158036000",
-      "title": "Time to Consider Stashing De'Zhaun Stribling in Redraft Leagues",
-      "url": "https://www.rotoballer.com/player-news/time-to-consider-stashing-dezhaun-stribling-in-redraft-leagues/1977560"
-    },
-    {
-      "analysis": null,
-      "description": "Indianapolis Colts wide receiver Alec Pierce (heel) should be a priority stash in all fantasy football leagues ahead of the midway mark in the season. Pierce tried to play through injury for the first two weeks of the season before being placed on injured reserve, and he is now eligible to be activated whenever the Colts feel he is ready. Given that this move could happen at any time, Pierce is a strong stash option in redraft leagues. After all, there will be a mad scramble to add him when he's activated, so savvy managers should beat the rush and add him off waivers now. Plus, there's the potential for Pierce to carve out an even bigger role if teammate Josh Downs gets traded, as recent rumors have suggested. A Downs trade would strengthen Pierce's position atop the wide receiver depth chart, putting him in the WR2 range on a more consistent basis. The 26-year-old should be stashed on the bench in most 10+ team leagues ahead of his eventual return and potential increase in volume with Downs in trade rumors.",
-      "metadata": {
-        "description": "Indianapolis Colts wide receiver Alec Pierce (heel) should be a priority stash in all fantasy football leagues ahead of the midway mark in the season. Pierce tried to play through injury for the first two weeks of the season before being placed on injured reserve, and he is now eligible to be activated whenever the Colts feel he is ready. Given that this move could happen at any time, Pierce is a strong stash option in redraft leagues. After all, there will be a mad scramble to add him when he's activated, so savvy managers should beat the rush and add him off waivers now. Plus, there's the potential for Pierce to carve out an even bigger role if teammate Josh Downs gets traded, as recent rumors have suggested. A Downs trade would strengthen Pierce's position atop the wide receiver depth chart, putting him in the WR2 range on a more consistent basis. The 26-year-old should be stashed on the bench in most 10+ team leagues ahead of his eventual return and potential increase in volume with Downs in trade rumors.",
-        "title": "Alec Pierce a Glaring Stash Ahead of Return, Teammate's Potential Trade",
-        "topic_id": "1421072594852913152",
-        "url": "https://www.rotoballer.com/player-news/alec-pierce-a-glaring-stash-ahead-of-return-teammates-potential-trade/1977558"
-      },
-      "nfl_team": "IND",
-      "player_id": "8142",
-      "player_name": "Alec Pierce",
-      "position": "WR",
-      "published": 1793157732000,
-      "source": "rotoballer",
-      "source_key": "225693",
-      "story_id": "nfl|8142|rotoballer|225693|1793157732000",
-      "title": "Alec Pierce a Glaring Stash Ahead of Return, Teammate's Potential Trade",
-      "url": "https://www.rotoballer.com/player-news/alec-pierce-a-glaring-stash-ahead-of-return-teammates-potential-trade/1977558"
-    },
-    {
-      "analysis": "Cooks had another quiet week despite a season-high snap rate, appearing on 68% of the offensive plays. The 49ers are desperate for healthy wide receivers, but that doesn't mean they're going to make an impact. Quarterback Brock Purdy completed 27 passes - seven were caught by a wide receiver, a trend that could continue.",
-      "description": "San Francisco 49ers wide receiver Brandin Cooks caught one pass for 13 yards for the second week in a row in a Week 7 loss to the Atlanta Falcons",
-      "metadata": {
-        "analysis": "Cooks had another quiet week despite a season-high snap rate, appearing on 68% of the offensive plays. The 49ers are desperate for healthy wide receivers, but that doesn't mean they're going to make an impact. Quarterback Brock Purdy completed 27 passes - seven were caught by a wide receiver, a trend that could continue.",
-        "description": "San Francisco 49ers wide receiver Brandin Cooks caught one pass for 13 yards for the second week in a row in a Week 7 loss to the Atlanta Falcons",
-        "title": "Brandin Cooks snags one pass in Week 7",
-        "topic_id": "1421009680477519872",
-        "url": "https://www.fantasypros.com/nfl/news/616159/brandin-cooks-snags-one-pass-week-7.php"
-      },
-      "nfl_team": "SF",
-      "player_id": "2197",
-      "player_name": "Brandin Cooks",
-      "position": "WR",
-      "published": 1793157618216,
-      "source": "fantasy_pros",
-      "source_key": "616159",
-      "story_id": "nfl|2197|fantasy_pros|616159|1793157618216",
-      "title": "Brandin Cooks snags one pass in Week 7",
-      "url": "https://www.fantasypros.com/nfl/news/616159/brandin-cooks-snags-one-pass-week-7.php"
-    },
-    {
-      "analysis": "Boutte recorded a season-low offensive snap rate in Week 7: 31%. This is notable given Xavier Hutchinson's involvement and Marvin Harrison's expected role growth. Jaylin Noel did suffer an injury, but Boutte has yet to surpass 40 receiving yards in a game and has seen a decrease in snap rate in each of the last two weeks.",
-      "description": "Houston Texans wide receiver Kayshon Boutte caught one pass for 25 yards on two targets in the team's Week 7 loss to the New York Giants.",
-      "metadata": {
-        "analysis": "Boutte recorded a season-low offensive snap rate in Week 7: 31%. This is notable given Xavier Hutchinson's involvement and Marvin Harrison's expected role growth. Jaylin Noel did suffer an injury, but Boutte has yet to surpass 40 receiving yards in a game and has seen a decrease in snap rate in each of the last two weeks.",
-        "description": "Houston Texans wide receiver Kayshon Boutte caught one pass for 25 yards on two targets in the team's Week 7 loss to the New York Giants.",
-        "title": "Kayshon Boutte takes backseat in Week 7 loss",
-        "topic_id": "1421007162825564160",
-        "url": "https://www.fantasypros.com/nfl/news/616157/kayshon-boutte-takes-backseat-week-7-loss.php"
-      },
-      "nfl_team": "HOU",
-      "player_id": "9504",
-      "player_name": "Kayshon Boutte",
-      "position": "WR",
-      "published": 1793157017961,
-      "source": "fantasy_pros",
-      "source_key": "616157",
-      "story_id": "nfl|9504|fantasy_pros|616157|1793157017961",
-      "title": "Kayshon Boutte takes backseat in Week 7 loss",
-      "url": "https://www.fantasypros.com/nfl/news/616157/kayshon-boutte-takes-backseat-week-7-loss.php"
-    },
-    {
-      "analysis": "Tracy suffered an injury during the Giants' win over the Houston Texans, a game in which he carried the ball six times for 15 yards and a score. The third-year running back had seen an uptick in snaps after playing 3% or fewer in the opening three weeks, scoring three touchdowns in the last two weeks. Cam Skattebo and Devin Singletary will lead the way for a New York running back room that bounced back in Week 7. Tracy is eligible to return in Week 13, given New York's Week 8 bye.",
-      "description": "The New York Giants have placed running back Tyrone Tracy Jr. on injured reserve after suffering a hamstring injury in Week 7's win.",
-      "metadata": {
-        "analysis": "Tracy suffered an injury during the Giants' win over the Houston Texans, a game in which he carried the ball six times for 15 yards and a score. The third-year running back had seen an uptick in snaps after playing 3% or fewer in the opening three weeks, scoring three touchdowns in the last two weeks. Cam Skattebo and Devin Singletary will lead the way for a New York running back room that bounced back in Week 7. Tracy is eligible to return in Week 13, given New York's Week 8 bye.",
-        "description": "The New York Giants have placed running back Tyrone Tracy Jr. on injured reserve after suffering a hamstring injury in Week 7's win.",
-        "title": "Tyrone Tracy Jr. (hamstring) placed on IR",
-        "topic_id": "1421004646062780416",
-        "url": "https://www.fantasypros.com/nfl/news/616156/tyrone-tracy-jr-hamstring-placed-on-ir.php"
-      },
-      "nfl_team": "NYG",
-      "player_id": "11655",
-      "player_name": "Tyrone Tracy Jr.",
-      "position": "RB",
-      "published": 1793156417917,
-      "source": "fantasy_pros",
-      "source_key": "616156",
-      "story_id": "nfl|11655|fantasy_pros|616156|1793156417917",
-      "title": "Tyrone Tracy Jr. (hamstring) placed on IR",
-      "url": "https://www.fantasypros.com/nfl/news/616156/tyrone-tracy-jr-hamstring-placed-on-ir.php"
     }
   ]
 }
