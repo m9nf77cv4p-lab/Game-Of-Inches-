@@ -5227,7 +5227,7 @@
           "13346",
           "12506",
           "9753",
-          "11559",
+          "11292",
           "11533",
           "CLE"
         ],
@@ -6257,7 +6257,7 @@
           "13346",
           "12506",
           "9753",
-          "11559",
+          "11292",
           "11533",
           "CLE"
         ],
@@ -7287,7 +7287,7 @@
           "13346",
           "12506",
           "9753",
-          "11559",
+          "11292",
           "11533",
           "CLE"
         ],
@@ -8317,7 +8317,7 @@
           "13346",
           "12506",
           "9753",
-          "11559",
+          "11292",
           "11533",
           "CLE"
         ],
@@ -9347,7 +9347,7 @@
           "13346",
           "12506",
           "9753",
-          "11559",
+          "11292",
           "11533",
           "CLE"
         ],
@@ -10377,7 +10377,7 @@
           "13346",
           "12506",
           "9753",
-          "11559",
+          "11292",
           "11533",
           "CLE"
         ],
@@ -11407,7 +11407,7 @@
           "13346",
           "12506",
           "9753",
-          "11559",
+          "11292",
           "11533",
           "CLE"
         ],
@@ -21212,7 +21212,7 @@
       "nfl_team": "CHI",
       "player_id": "12517",
       "position": "TE",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 1
     },
     "12518": {
@@ -21523,7 +21523,7 @@
       ],
       "first_name": "Carson",
       "full_name": "Carson Beck",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Beck",
       "nfl_team": "ARI",
       "player_id": "13272",
@@ -21568,7 +21568,7 @@
       ],
       "first_name": "Omar",
       "full_name": "Omar Cooper Jr.",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Cooper Jr.",
       "nfl_team": "NYJ",
       "player_id": "13276",
@@ -24088,7 +24088,7 @@
       ],
       "first_name": "Parker",
       "full_name": "Parker Washington",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Washington",
       "nfl_team": "JAX",
       "player_id": "9487",
@@ -24614,8 +24614,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-27T08:05:24Z",
-    "source_fingerprint": "958dbfefb9ab44e1a60a345d4858ff449daf8d19f68c91c6bb7691f378d40934"
+    "last_changed_at": "2026-11-27T18:07:50Z",
+    "source_fingerprint": "550c3f7133654e77a65fd04725727aebcfa4e645bdee210018a3b33db08c5cd3"
   },
   "teams": [
     {
@@ -25191,7 +25191,7 @@
         "13346",
         "12506",
         "9753",
-        "11559",
+        "11292",
         "11533",
         "CLE"
       ],

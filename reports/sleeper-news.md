@@ -2,260 +2,244 @@
 
 Undocumented Sleeper GraphQL feed for players rostered in this league.
 
-- Stored stories: **6113**
-- Newly captured: **34**
+- Stored stories: **6100**
+- Newly captured: **92**
 
 ## Latest news
 
-- **NEW — Colston Loveland** — Colston Loveland - Week-to-week with second opinion pending (2026-11-27T18:04:45Z)
-  - Schefter reported earlier that the Bears planned to place Loveland on injured reserve due to the knee injury the TE sustained in Thursday's 39-35 win over the Lions, which would rule Loveland out for at least four weeks. Chicago wants to gather more information before a determination is made on Loveland's status, and the door is still open for a shorter absence, though it would be surprising at this point if he's able to play Dec. 6 against the Jaguars.
-- **NEW — Jahan Dotson** — Jahan Dotson - Appears to be absent again Friday (2026-11-27T17:51:59Z)
-  - Dotson hasn't practiced all week, so it wouldn't be surprising if he's ultimately ruled out for Sunday's game against the Vikings once the Falcons release game designations Friday. Zachariah Branch (hamstring) also remained sidelined at Friday's practice, so Olamide Zaccheaus, Beaux Collins and Chris Blair may be Atlanta's only healthy available wide receivers behind Drake London against Minnesota.
-- **NEW — Kayshon Boutte** — Kayshon Boutte - Absent again Friday, likely to sit Sunday (2026-11-27T17:47:39Z)
-  - Wilson adds that Boutte isn't expected to play Sunday against the Ravens, and while things are certainly trending that way based on Boutte's inability to practice all week, that notion has yet to be confirmed by an official team source. Xavier Hutchinson, Tank Dell and Marvin Harrison will compete for playing time and targets alongside Nico Collins if Boutte is ruled out.
-- **NEW — Carson Beck** — Carson Beck (back) ruled out for Week 12 (2026-11-27T17:40:27.575000Z)
+- **NEW — Michael Pittman Jr.** — Michael Pittman - Just one catch in return to lineup (2026-11-28T00:54:12Z)
+  - Seeing his first action since Week 4 after recovering from a left foot injury, Pittman played just 18 snaps on offense and didn't see many looks from new Steelers starting quarterback Mason Rudolph, but neither did anyone else -- DK Metcalf led the team with three catches on four targets, as Rudolph attempted just 15 passes in total. If Pittsburgh sticks with a ground-heavy game plan under Rudolph, it will limit the ceilings of all the team's pass catchers, but Pittman should at least see a bigger snap count in Week 13 against the Texans as he gets back up to game speed.
+- **NEW — DK Metcalf** — DK Metcalf - Finds end zone against Broncos (2026-11-28T00:26:51Z)
+  - The targets and catches actually led the Steelers on the afternoon, and Metcalf was on the other end of Mason Rudolph's only TD, a 22-yard strike in the first quarter. Rudolph completed just nine passes in total, and if the offense continues to be ground-heavy following the switch at QB from Aaron Rodgers, it could be tough for Metcalf or any of the team's pass catchers to produce consistent numbers. Metcalf will look to take advantage of what volume he gets in Week 13 against the Texans.
+- **NEW — Rico Dowdle** — Rico Dowdle - Leading rusher in Week 12 win (2026-11-28T00:21:44Z)
+  - Jaylen Warren led the Steelers backfield with 21 touches, but he turned that volume into just 46 yards while Dowdle led the team in rushing. The 71 rushing yards also were a season high for Dowdle, and if Pittsburgh continues to deploy a ground-heavy game plan with Mason Rudolph under center in place of the exiled Aaron Rodgers, there could be plenty of work for both RBs. Dowdle will try to keep making a case for more of a timeshare with Warren in Week 13 against the Texans.
+- **NEW — Jaylen Warren** — Jaylen Warren - Held in check against Denver (2026-11-28T00:18:08Z)
+  - There wasn't much offense happening in this one -- two of Pittsburgh's three touchdowns came on defense, while the Denver defense chipped in a safety -- but Warren had an especially tough day, as his longest gain went for just six yards, and Rico Dowdle wound up leading the Steelers with 71 rushing yards on just 11 carries. The workload split was still encouraging for Warren, as was the ground-heavy game plan with Mason Rudolph taking over at quarterback for the exiled Aaron Rodgers, but the backfield could be drifting back toward a timeshare. Warren will look to bounce back in Week 13 against the Texans.
+- **NEW — Mason Rudolph** — Mason Rudolph - Avoids mistakes in Friday's win (2026-11-28T00:12:10Z)
+  - Making his first start of the season after Aaron Rodgers' abrupt departure from the Steelers, Rudolph avoided committing any turnovers and connected with DK Metcalf on a 22-yard TD in the first quarter. The QB didn't do much else aside from getting sacked for a safety, however, as the defense did most of the scoring for Pittsburgh. Rudolph's 15 pass attempts were less than half of the 31 carries that Jaylen Warren and Rico Dowdle handled between them, and that could be a strong hint as to how the offense will operate the rest of the way. Rudolph is expected to remain under center in Week 13 against the Texans.
+- **NEW — Pat Bryant** — Pat Bryant - Four catches in Friday's loss (2026-11-27T23:39:05Z)
+  - Bryant finished third on the team in receiving yards behind Jaylen Waddle (53) and Jonah Coleman (46). Heading into a Week 13 home game against the Dolphins, Bryant continues to be Denver's most efficient wide receiver. The 2025 third-round pick is averaging 9.4 yards per target compared to Waddle's 6.8 YPT and Courtland Sutton's abhorrent 4.8 YPT following the latter's four-yard, eight-target performance Friday.
+- **NEW — Courtland Sutton** — Courtland Sutton - Four yards on eight targets (2026-11-27T23:31:30Z)
+  - Denver's entire offense struggled mightily, generating just three points while allowing Pittsburgh's defense to score two touchdowns off turnovers by Bo Nix. Sutton was right down there with Nix among Friday's worst performers in an outing reminiscent of Week 4 at San Francisco, when Sutton caught one of six targets for four yards. The 31-year-old WR has caught just one of 10 targets over the past two games, and Sutton has secured less than half of his targets (26 of 56) heading into a Week 13 home game against the Dolphins.
+- **NEW — Bo Nix** — Bo Nix - Awful showing in Friday's loss (2026-11-27T23:31:02Z)
+  - Nix was directly responsible for two first-half Pittsburgh touchdowns, as T.J. Watt recovered a Nix fumble in the end zone to open the scoring and Jalen Ramsey scored on a pick-six to extend Pittsburgh's lead to 24-5. Neither offense did much after halftime as Nix continued to struggle. Friday's dud drops Nix's season average to just 193 passing yards per game to go with a 12:7 TD:INT through 11 starts, but the Broncos still boast an excellent 8-3 record heading into a Week 13 home game against the Dolphins.
+- **NEW — Jaylen Waddle** — Jaylen Waddle - Team-high 53 receiving yards in loss (2026-11-27T23:30:13Z)
+  - Waddle has exceeded 50 yards in consecutive games for the first time in his Broncos tenure, but his eight catches for 114 yards over the past two games still aren't anything to write home about. With QB Bo Nix struggling, Waddle has substantially underperformed the lofty expectations that accompanied the speedy wideout from Miami to Denver when the Broncos sent a first-round pick the other way in an offseason trade. Waddle will face his former team in Week 13, having caught 38 of 66 targets for 451 yards and two touchdowns through 11 games with his new club.
+- **NEW — Jonah Coleman** — Jonah Coleman - Eight catches in lopsided loss (2026-11-27T23:29:14Z)
+  - Coleman easily led Denver's backfield with 23 touches while Cody Shrader had seven carries and Tyler Badie had one in the latter's return from an IR stint due to a thumb injury. J.K. Dobbins will be eligible to return from a team-imposed one-game suspension in Week 13 against the Dolphins, while RJ Harvey (knee) could come off IR by then as well, but Coleman has established himself as the top option in Denver's crowded backfield. Over the past four games, Coleman has turned 67 carries and 20 catches into 393 yards from scrimmage and five touchdowns.
+- **NEW — Mike Evans** — Mike Evans (Achilles) listed questionable for Week 12 (2026-11-27T23:10:29.034000Z)
+  - Evans returned to a limited practice on Thursday. He'll be a WR2 play for fantasy managers if he is cleared. 
+  - Source: https://www.fantasypros.com/nfl/news/623016/mike-evans-achilles-listed-questionable-week-12.php
+- **NEW — Drew Lock** — Drew Lock - Cleared for Week 12 (2026-11-27T22:57:56Z)
+  - Lock started in each of the Seahawks' two games prior to the Week 11 bye in the absence of Sam Darnold (quadriceps/ribs), and the former has been working through a right elbow injury over the past month. However, Lock's lack of an injury tag for Week 12 means he'll be available to serve as the Seahawks' backup to Darnold on Sunday while Jalen Milroe (illness) serves as the emergency third quarterback.
+- **NEW — Cyrus Allen** — Cyrus Allen - Snags late catch in Thanksgiving loss (2026-11-27T22:41:58Z)
+  - Allen's 23 offensive snaps were third most on the Chiefs behind Xavier Worthy (42) and Rashee Rice (38) and ahead of Josh Downs (15). However, Allen didn't see a pass from Patrick Mahomes until midway through the fourth quarter, when the duo connected for a 19-yard gain. Allen, a fifth-round selection of the Chiefs in the 2026 NFL Draft, has accumulated 10 catches on 17 targets for 169 yards and a touchdown over his last seven outings, and he could operate as the WR4 for Week 13 against the Rams on Dec. 3 if Jalen Royals (ankle) cannot play in that contest.
+- **NEW — Mac Jones** — Mac Jones - Getting spot start in Week 12 (2026-11-27T22:40:54Z)
+  - Purdy didn't practice this week and was ruled out for Week 12 on Friday, setting Jones up for his first start of the campaign. In eight starts for an injured Purdy in 2025, Jones went 5-3, completed 201 of 289 passes (69.6 percent) for 2,151 yards, 13 touchdowns and six interceptions, rushed 28 times for 64 yards and fumbled four times (two lost).
+- **NEW — Justin Herbert** — Justin Herbert (concussion) ruled out for Week 12 (2026-11-27T22:40:29.043000Z)
+  - Herbert was unable to clear concussion protocol. DJ Uiagalelei is expected to start in his place for the Chargers. 
+  - Source: https://www.fantasypros.com/nfl/news/623001/justin-herbert-concussion-ruled-out-week-12.php
+- **NEW — Keaton Mitchell** — Keaton Mitchell (knee) ruled out for Week 12 (2026-11-27T22:40:29.031000Z)
+  - Mitchell was unable to practice with a knee injury. Kimani Vidal could see some more run behind Omarion Hampton. 
+  - Source: https://www.fantasypros.com/nfl/news/623003/keaton-mitchell-knee-ruled-out-week-12.php
+- **NEW — Mike Evans** — Mike Evans - Questionable for Week 12 (2026-11-27T22:32:22Z)
+  - Evans didn't practice Wednesday before he was listed as limited on Thursday's injury report as he continues to deal with the right Achilles tendinitis that forced him out of a Week 6 matchup with the Commanders. He returned to action this past Sunday versus the Vikings in Mexico City and gathered in six of seven targets for 109 yards and one touchdown on a 43 percent snap share. Evans' status will be clarified about 90 minutes before Sunday's 4:25 p.m. ET kickoff.
+- **NEW — Brock Purdy** — Brock Purdy (ankle) ruled out for Week 12 (2026-11-27T22:30:28.526000Z)
+  - Purdy was unable to practice all week after suffering an ankle injury last Sunday. It will be Mac Jones behind center for the 49ers. 
+  - Source: https://www.fantasypros.com/nfl/news/622998/brock-purdy-ankle-ruled-out-week-12.php
+- **NEW — Mac Jones** — Mac Jones to start for 49ers in Week 12 (2026-11-27T22:30:28.515000Z)
+  - Brock Purdy was ruled out after not practicing all week. Jones will be a mid-to-low-end QB2 for fantasy managers in 2-QB and superflex leagues. 
+  - Source: https://www.fantasypros.com/nfl/news/622999/mac-jones-to-start-49ers-week-12.php
+- **NEW — DJ Uiagalelei** — DJ Uiagalelei - First career start on tap for Week 12 (2026-11-27T22:29:06Z)
+  - Uiagalelei got his first taste of NFL regular-season action in Week 11 against the Jets after Herbert suffered a concussion, with the former completing two of seven passes for 27 yards and a touchdown. With Herbert in the league's protocol for head injuries, Uiagalelei will make his first career start Sunday against a New England defense that ranks 27th in the NFL in passing yards allowed per game (239.0). Jake Browning also is available to serve as Los Angeles' backup.
+- **NEW — Brock Purdy** — Brock Purdy - Won't play in Week 12 (2026-11-27T22:25:36Z)
+  - Purdy wasn't able to practice during Week 12 prep due to an ankle injury, which will sideline him for the first time this season. In place of Purdy, Mac Jones will earn the spot start Sunday, while the former's next chance to suit up is Sunday, Nov. 6, at the Giants. Shanahan added that surgery isn't on the table for Purdy and he's optimistic the QB will be OK to return in Week 13, according to Nick Wagoner of ESPN.com.
+- **NEW — Justin Herbert** — Justin Herbert - Ruled out for Sunday's game versus New England (2026-11-27T22:24:29Z)
+  - At 1-9, the Chargers have zero incentive to rush Herbert back to the field at this stage. His next chance to see game action thus is slated to arrive Sunday, Dec. 6, against the Buccaneers. In Herbet's absence this weekend, Mike Garafolo of NFL Network relays that DJ Uiagalelei is slated to start at QB for the Chargers, with Jake Browning available to back him up.
+- **NEW — Keaton Mitchell** — Keaton Mitchell - Won't play against New England (2026-11-27T22:20:20Z)
+  - Mitchell tweaked his knee during the Chargers' 27-24 loss to the Jets in Week 11. The injury prevented the fourth-year pro from practicing all week, and his absence for Sunday's contest means Kimani Vidal should operate in an expanded role in the backfield behind RB1 Omarion Hampton. Mitchell's next opportunity to play is Week 13 against the Buccaneers on Sunday, Dec. 6.
+- **NEW — David Montgomery** — David Montgomery - Backfield mate cleared for Week 12 (2026-11-27T22:16:33Z)
+  - Marks was in the league's concussion protocol for Week 11, when Montgomery led the Texans backfield with 26 carries for 107 yards and three catches (on four targets) for 17 yards in a 26-3 win over the Colts. Marks' return means the second-year pro and Montgomery will share the field Sunday for the first time since Week 5 against the Titans, when the latter suffered a groin injury that caused him to miss the Texans' next four games. The duo should split work Sunday against a Baltimore defense that has given up at least 146 rushing yards in three of the team's last four games (all losses).
+- **NEW — Chris Rodriguez Jr.** — Chris Rodriguez - Set for RB1 duties vs. Tennessee (2026-11-27T22:11:19Z)
+  - Tuten was held out of practice all week due to a left ankle/foot injury that he aggravated during the Jaguars' Week 11 loss to the Giants. That means Rodriguez will take on the RB1 role for Sunday's game against a Titans defense that has given up at least 40 points in three consecutive games and ranks 25th in the NFL in rushing yards allowed per game (127.1). Rodriguez has logged 63 carries for 261 yards (4.1 YPC) and four touchdowns and caught five of six targets for 49 yards across 10 regular-season games in 2026.
+- **NEW — Brock Bowers** — Brock Bowers (ankle) listed questionable for Week 12 (2026-11-27T22:10:28.890000Z)
+  - Bowers did not practice on Friday after he was able to practice on Wednesday and Thursday. His status will need to be monitored closer to kickoff on Sunday. 
+  - Source: https://www.fantasypros.com/nfl/news/622985/brock-bowers-ankle-listed-questionable-week-12.php
+- **NEW — Jalen McMillan** — Jalen McMillan (knee) limited in practice Friday  (2026-11-27T22:10:28.880000Z)
+  - McMillan practiced in full on Thursday. He'll need to be monitored again on Saturday. 
+  - Source: https://www.fantasypros.com/nfl/news/622986/jalen-mcmillan-knee-limited-practice-friday.php
+- **NEW — Darren Waller** — Darren Waller (knee) limited in practice Friday  (2026-11-27T22:10:28.857000Z)
+  - Waller has logged back-to-back limited practices. He will remain a TE2 play for fantasy managers if he is cleared. 
+  - Source: https://www.fantasypros.com/nfl/news/622988/darren-waller-knee-limited-practice-friday.php
+- **NEW — Tetairoa McMillan** — Tetairoa McMillan (foot) limited in practice Friday  (2026-11-27T22:10:28.847000Z)
+  - McMillan was back after he sat out of practice on Thursday. He is trending towards being good to go for Monday's game against the Buccaneers. 
+  - Source: https://www.fantasypros.com/nfl/news/622989/tetairoa-mcmillan-foot-limited-practice-friday.php
+- **NEW — Myles Price** — Myles Price - Gets green light to face Falcons (2026-11-27T22:01:09Z)
+  - Price was limited at practice Wednesday and Thursday but upgraded to full participation Friday and has been cleared to suit up. He, along with Tai Felton and Jauan Jennings, will vie for larger roles alongside Justin Jefferson as the Vikings continue to play without Jordan Addison (thumb) against Atlanta's mediocre secondary.
+- **NEW — Sam Darnold** — Sam Darnold - Returning from two-game absence (2026-11-27T22:00:55Z)
+  - Darnold thus is returning from a two-game absence due to a quad injury and cracked ribs, benefiting from the Seahawks' Week 11 bye. When asked if Darnold is 100 percent, head coach Mike Macdonald told Bell that "pretty much nobody is fully health at this point in the season," indicating that the quarterback still may be dealing with residual effects of those health concerns. In any case, Darnold will resume starting duties for the Seahawks this weekend.
+- **NEW — Isaiah Likely** — Isaiah Likely (groin) off injury report for Week 12 (2026-11-27T22:00:28.692000Z)
+  - Likely will remain a TE1 play for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/622975/isaiah-likely-groin-off-injury-report-week-12.php
+- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba (ankle) off injury report for Week 12 (2026-11-27T22:00:28.682000Z)
+  - Smith-Njigba is good to go after progressing throughout the practice week, with the dynamic wideout facing a stiff test in Week 12.
+  - Source: https://www.fantasypros.com/nfl/news/622976/jaxon-smith-njigba-ankle-off-injury-report-week-12.php
+- **NEW — Treylon Burks** — Treylon Burks (foot) off injury report for Week 12 (2026-11-27T22:00:28.658000Z)
+  - Burks has struggled the past couple of weeks. He will be an upside WR4 play for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/622978/treylon-burks-foot-off-injury-report-week-12.php
+- **NEW — Jakobi Meyers** — Jakobi Meyers (ankle) off injury report for Week 12 (2026-11-27T22:00:28.646000Z)
+  - Meyers will figure to step into a bigger role with Parker Washington ruled out for the Jaguars. 
+  - Source: https://www.fantasypros.com/nfl/news/622979/jakobi-meyers-ankle-off-injury-report-week-12.php
+- **NEW — Rashod Bateman** — Rashod Bateman (groin) off injury report for Week 12 (2026-11-27T22:00:28.635000Z)
+  - Bateman hauled in a touchdown last week. He will remain an upside WR4 for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/622980/rashod-bateman-groin-off-injury-report-week-12.php
+- **NEW — Zay Flowers** — Zay Flowers (ankle) off injury report for Week 12 (2026-11-27T22:00:28.625000Z)
+  - Flowers will be a full-go for the Ravens. He will remain a borderline WR1/WR2 with Jacoby Brissett behind center. 
+  - Source: https://www.fantasypros.com/nfl/news/622981/zay-flowers-ankle-off-injury-report-week-12.php
+- **NEW — Derrick Henry** — Derrick Henry (concussion) off injury report for Week 12 (2026-11-27T22:00:28.614000Z)
+  - Henry should be in line for his usual workload in the Ravens backfield. 
+  - Source: https://www.fantasypros.com/nfl/news/622982/derrick-henry-concussion-off-injury-report-week-12.php
+- **NEW — Kayshon Boutte** — Kayshon Boutte (hip) ruled out for Week 12 (2026-11-27T22:00:28.601000Z)
+  - Boutte was unable to practice all week. He remains off the fantasy radar when healthy. 
+  - Source: https://www.fantasypros.com/nfl/news/622983/kayshon-boutte-hip-ruled-out-week-12.php
+- **NEW — Marvin Harrison Jr.** — Marvin Harrison Jr. (hamstring) off injury report for Week 12 (2026-11-27T22:00:28.589000Z)
+  - Harrison will make his return as had been expected. He'll be a risky flex/WR4 for fantasy managers. 
+  - Source: https://www.fantasypros.com/nfl/news/622984/marvin-harrison-jr-hamstring-off-injury-report-week-12.php
+- **NEW — Kyler Murray** — Kyler Murray - Will back up Cousins against Atlanta (2026-11-27T21:54:18Z)
+  - Murray has been cleared to suit up for the first time since Week 8 after practicing without limitations Friday. He's set to back up Kirk Cousins, who is entrenched as Minnesota's starting QB after being reacquired in a trade with the Raiders.
+- **NEW — Jaxon Smith-Njigba** — Jaxon Smith-Njigba - Set to play Sunday (2026-11-27T21:53:53Z)
+  - The Seahawks listed Smith-Njigba as limited on the first two Week 12 injury reports due to an ankle issue, but he'll play through it in Sunday's NFC West showdown. In the first matchup with the 49ers back in Week 5, he hauled in five of eight targets for 102 yards and one touchdown.
+- **NEW — Dalton Schultz** — Dalton Schultz - Cleared to face reeling Ravens (2026-11-27T21:50:32Z)
+  - Schultz practiced without limitations Friday, shedding any doubts about his availability after an illness limited his participation Thursday. The Ravens have allowed seven TDs to TEs this season, which is seventh most in the NFL, but Schultz has scored only once all season and is coming off consecutive one-catch performances.
+- **NEW — Sam Darnold** — Sam Darnold (quad) off injury report for Week 12 (2026-11-27T21:50:28.505000Z)
+  - Darnold is back behind center after being able to practice throughout the week, as the veteran signal-caller takes on a tough San Francisco 49ers defense Sunday.
+  - Source: https://www.fantasypros.com/nfl/news/622973/sam-darnold-quad-off-injury-report-week-12.php
+- **NEW — Kayshon Boutte** — Kayshon Boutte - Officially out for Week 12 (2026-11-27T21:37:34Z)
+  - Boutte's absence will coincide with the return of Marvin Harrison (hamstring) from a two-game absence. Harrison will join Nico Collins, Tank Dell and Xavier Hutchinson while Boutte sits out due to an hip injury the latter sustained in last Thursday's win over the Colts, which subsequently prevented Boutte from practicing in any capacity during Week 12 prep. Boutte's next chance to take the field will be Sunday, Dec. 6, at Pittsburgh.
+- **NEW — Brian Thomas Jr.** — Brian Thomas - Chance to step up with Washington down (2026-11-27T21:26:22Z)
+  - Thomas has had a disappointing third season in Jacksonville, mustering a meager 84 receiving yards over his last eight appearances while seemingly having fallen out of favor in coach Liam Coen's offense. Washington's absence against Tennessee's struggling secondary could provide Thomas with an opportunity to turn back the clock and put up a performance reminiscent of the 2024 first-round pick's elite rookie season. Jakobi Meyers and Josh Cameron also are in line for expanded roles in Jacksonville's wide-receiver room.
+- **NEW — Treylon Burks** — Treylon Burks - Ready for Week 12 (2026-11-27T21:21:40Z)
+  - Burks opened Week 12 prep with back-to-back limited listings due to a lingering foot injury, but a full practice Friday has him in the clear ahead of the weekend. In three appearances since Week 8 while playing with the issue, he's combined for a 7-138-0 line on 11 targets during that span.
+- **NEW — Josh Cameron** — Josh Cameron - Larger role likely in Washington's absence (2026-11-27T21:21:16Z)
+  - Cameron and Brian Thomas are the top candidates to absorb extra targets alongside Jakobi Meyers in Washington's absence. Washington is considered week-to-week, so his absence could extend beyond Week 12. Cameron has 111 receiving yards and a touchdown over the past two games, so the rookie sixth-round pick was trending up even prior to Washington's injury. An increased role against a Titans defense that's giving up the most catches and yards per game to wide receivers could set Cameron up for a breakout performance.
+- **NEW — Brock Purdy** — Brock Purdy - Not seen Friday (2026-11-27T21:14:18Z)
+  - Purdy appears poised to be listed as a non-participant for a third consecutive day during Week 12 prep as he tends to an ankle injury. Head coach Kyle Shanahan has yet to speak on Purdy's health concern, but Friday's practice report will reveal if the quarterback is in danger of missing Sunday's game against the Seahawks.
+- **NEW — Woody Marks** — Woody Marks - Doesn't carry Week 12 injury designation (2026-11-27T21:13:12Z)
+  - Marks, who was inactive Nov. 19 against the Colts, logged 'full' listings at practice Wednesday through Friday and now has gained clearance to rejoin the lineup after being sidelined for one game. His Week 11 absence coincided with the return to action of fellow RB David Montgomery, and now that both backs are available for the first time since Week 5, look for Marks to see a noticeable dip in volume while sharing touches with Montgomery, who logged 26 carries versus Indianapolis.
+- **NEW — Tee Higgins** — Tee Higgins (hamstring) DNP Friday, questionable for Sunday (2026-11-27T21:10:28.845000Z)
+  - Higgins was a surprise DNP on Friday, and his status for Sunday is now in doubt. He still has a chance to play, but fantasy managers will need to watch this closely. If Higgins is out, Andrei Iosivas and Dohnte Meyers could find some extra appeal, but Mike Gesicki would be a great start.
+  - Source: https://www.fantasypros.com/nfl/news/622961/tee-higgins-hamstring-dnp-friday-questionable-sunday.php
+- **NEW — Justin Herbert** — Justin Herbert - Not spotted Friday (2026-11-27T21:10:18Z)
+  - After Herbert missed practice Thursday and again wasn't spotted Friday, his status for Sunday's game against the Patriots appears to be trending in the wrong direction. If the Chargers' starting quarterback doesn't clear concussion protocol in time, DJ Uiagalelei would be in line to make the first regular-season start of the latter's NFL career against a Patriots team that's set to start backup QB Tommy DeVito.
+- **NEW — Isaiah Likely** — Isaiah Likely - No designation for Sunday (2026-11-27T21:08:26Z)
+  - Likely was listed as limited on the injury report Wednesday and Thursday due to the groin strain that he picked up in practice last Friday, but it won't keep him from suiting up again in Week 12. While playing through the issue this past Sunday against the Jaguars, he took on a normal 76 percent snap share but recorded just one catch (on three targets) for 35 yards.
+- **NEW — Jakobi Meyers** — Jakobi Meyers - Cleared to face Titans while Washington sits (2026-11-27T21:06:49Z)
+  - Meyers has managed to shake off an ankle injury that limited his practice participation earlier in the week. He racked up a season-high 85 yards on 10 targets in Jacksonville's Week 11 loss to the Giants, and Meyers is likely to get plenty of attention from Trevor Lawrence against Tennessee's league-worst secondary Sunday in the absence of top Jaguars wide receiver Parker Washington (shoulder), giving Meyers appealing upside in nearly all fantasy formats.
+- **NEW — Bhayshul Tuten** — Bhayshul Tuten - Ruled out for Sunday (2026-11-27T21:02:30Z)
+  - Tuten was unable to practice this week and now will target a potential return to action Sunday, Dec. 6, against the Bears. In his absence this weekend, Chris Rodriguez will be in line for an increased workload in the Jacksonville backfield, a context that gives him Week 12 fantasy relevance, with LeQuint Allen and Ameer Abdullah also in the mix versus 1-9 Tennessee.
+- **NEW — Derrick Henry** — Derrick Henry - Cleared to face Texans (2026-11-27T21:01:22Z)
+  - Henry has cleared concussion protocol after practicing without limitations Thursday and Friday. He'll try to help the Ravens snap a six-game losing streak Sunday against the Texans. Running room could be hard to come by against a stout Houston front that's allowing fewer than 100 rushing yards per game, though Henry has overcome more than his fair share of daunting matchups over the years.
+- **NEW — Bhayshul Tuten** — Bhayshul Tuten (ankle) ruled out against Titans (2026-11-27T21:00:28.505000Z)
+  - With Tuten out, the Jags will lean on Chris Rodriguez against the Titans. Rodriguez should be a decent RB2 option based on volume. Tuten will try to find his way back on the field next week.
+  - Source: https://www.fantasypros.com/nfl/news/622959/byahsul-tuten-ankle-ruled-out-against-titans.php
+- **NEW — Jalen McMillan** — Jalen McMillan - Limited Friday (2026-11-27T20:51:56Z)
+  - McMillan hasn't played since Week 3 due to a PCL sprain in his left knee, but since he was designated for return from injured reserve Wednesday, he was listed as full with knee and calf issues on Thursday's estimated injury report before Friday's downgrade in activity. Ultimately, Saturday's practice report will determine McMillan's chances to return to action Monday against the Panthers.
+- **NEW — Jonathon Brooks** — Jonathon Brooks - Full practice Friday (2026-11-27T20:49:10Z)
+  - Brooks has shed any practice limitations, but he'll still need to be added back to the active roster to play Monday in Tampa Bay. Even if Brooks gets the green light to suit up and is activated by the Panthers, he'll likely have to settle for a change-of-pace role behind Chuba Hubbard against Tampa Bay's excellent run defense.
+- **NEW — Brock Bowers** — Brock Bowers - Questionable for Sunday night game (2026-11-27T20:47:15Z)
+  - Per Sam Warren of The Athletic, Bowers didn't practice Friday after being limited the previous two days. It's unclear if the star TE's 'DNP' to close the week was maintenance or setback related, but the Raiders' late kickoff presents an issue for those considering Bowers in Week 12 fantasy lineups. As one of the marquee names carrying a 'questionable' tag into the weekend, look for added context regarding his status to arrive no later than Saturday night or Sunday morning via the usual notable NFL insiders.
+- **NEW — Noah Fant** — Noah Fant - Questionable to face former team (2026-11-27T20:45:21Z)
+  - Fant would be in line to operate as the top TE for the Saints if he gets the green light to suit up against the team for which he played last season. The 29-year-old Fant has scored either three or four touchdowns in six of his eight NFL regular seasons, including three apiece in 2025 with Cincinnati and so far in 2026 with New Orleans. Rookie third-round pick Oscar Delp is the next tight end up if Fant joins Johnson on the sidelines.
+- **NEW — Darren Waller** — Darren Waller - Limited again Friday (2026-11-27T20:26:11Z)
+  - Waller was among four Panthers tight ends to have a capped session Friday, the others being Tommy Tremble (knee), Mitchell Evans (Achilles) and Feleipe Franks (wrist). Waller was able to play through his knee injury this past Sunday against the Ravens, when he handled a 46 percent snap share en route to three catches (on three targets) for 42 yards.
+- **NEW — Tee Higgins** — Tee Higgins - Deemed Questionable after Friday 'DNP' (2026-11-27T20:21:44Z)
+  - Higgins wasn't on the Bengals' Week 12 injury report until Friday, but after missing the team's final practice, the wideout's status is now worth tracking ahead of Sunday's 1:00 p.m. ET kickoff. While a late-week downgrade in practice participation like this can't be ignored, Ben Baby of ESPN.com notes that "Higgins just woke up with some soreness" Friday and that the team gave the WR "the day to work through it." More importantly, Baby indicates that the issue isn't a concern in terms of Higgins' availability versus New Orleans.
+- **NEW — DeMario Douglas** — DeMario Douglas - Two key teammates out at WR (2026-11-27T20:18:37Z)
+  - Douglas had 178 yards and a touchdown in a career-best two-game stretch spanning Weeks 8 and 9, but he was limited to one catch for four yards in his most recent appearance, which QB Drake Maye (lower leg) left early. With Tommy DeVito under center in Week 12, Douglas will try to get back on track in New England's banged-up passing game coming out of a bye week.
+- **NEW — Mack Hollins** — Mack Hollins - Set for prominent Week 12 role (2026-11-27T20:16:03Z)
+  - Hollins led the Patriots with five catches for 48 yards in their 35-10 Week 10 loss to the Lions prior to a Week 11 bye. He showed the best chemistry out of New England's pass catchers with Tommy DeVito, who replaced Drake Maye (lower leg) against Detroit and is expected to start Sunday's game. Hollins has 23 catches for 293 yards and one touchdown in six appearances this season.
+- **NEW — Juwan Johnson** — Juwan Johnson (hamstring/wrist) ruled out for Week 12 (2026-11-27T20:10:28.570000Z)
+  - Johnson will not suit up after being unable to practice, with Noah Fant and Oscar Delp in line for increased snaps against the Bengals for head coach Kellen Moore Sunday.
+  - Source: https://www.fantasypros.com/nfl/news/622943/juwan-johnson-hamstringwrist-ruled-out-week-12.php
+- **NEW — Tetairoa McMillan** — Tetairoa McMillan - Limited at Friday's practice (2026-11-27T20:08:34Z)
+  - McMillan's return to the practice field generally is a positive sign as he works through a sore foot, but he now has just one more chance to get back to full Saturday, at which point the Panthers may tag him with a designation for Monday's game at Tampa Bay. No matter, head coach Dave Canales has expressed optimism this week that McMillan will be able to go in Week 12, per Kaye.
+- **NEW — Jordan Addison** — Jordan Addison - Out again in Week 12 (2026-11-27T20:02:21Z)
+  - Addison thus will miss a third straight contest due to a thumb injury that required surgery. In Addison's continued absence, the Vikings will lean on Justin Jefferson, Jauan Jennings, Tai Felton, Myles Price and Jeshaun Jones at wide receiver. Addison's next chance for game action is Sunday, Dec. 6, versus the Panthers.
+- **NEW — Jordan Addison** — Jordan Addison (thumb) ruled out for Week 12 (2026-11-27T20:00:28.564000Z)
+  - Addison continues to work back from a thumb injury for head coach Kevin O'Connell, with Tai Felton, Jauan Jennings, and Myles Price to see increased snaps behind WR1 Justin Jefferson against the Falcons.
+  - Source: https://www.fantasypros.com/nfl/news/622938/jordan-addison-thumb-ruled-out-week-12.php
+- **NEW — Juwan Johnson** — Juwan Johnson - Won't play Sunday (2026-11-27T19:55:18Z)
+  - Johnson suffered a hamstring injury this past Sunday at Chicago, and he then was listed as a DNP on the Saints' first two Week 12 practice reports, despite head coach Kellen Moore calling the tight end "day-to-day" Thursday, according to Terrell. With Johnson missing his first game of the campaign and Noah Fant (calf) questionable for Sunday's matchup, Oscar Delp is the sole healthy player at the position on the active roster.
+- **NEW — Seth McGowan** — Seth McGowan (hamstring) ruled out for Week 12 (2026-11-27T19:50:28.141000Z)
+  - McGowan is slated to miss some time with his hamstring injury. 
+  - Source: https://www.fantasypros.com/nfl/news/622932/seth-mcgowan-hamstring-ruled-out-week-12.php
+- **NEW — Brandon Aiyuk** — Brandon Aiyuk - Won't make Washington debut in Week 12 (2026-11-27T19:49:56Z)
+  - Aiyuk is still getting acquainted with his new surroundings and playbook after signing with the Commanders' practice squad earlier in the week. The enigmatic wideout could eventually join his former college QB Jayden Daniels on the field for Washington, but that won't happen in Week 12.
+- **NEW — Romeo Doubs** — Romeo Doubs - Won't return in Week 12 (2026-11-27T19:43:01Z)
+  - Since the Patriots designated Doubs for return from injured reserve Wednesday, he logged limited listings on injury reports. However, head coach Mike Vrabel told Evan Lazar of the team's official site Friday that Doubs is unlikely to play in Week 12, which now has been confirmed. Doubs will turn his sights to a Week 13 matchup with the Bills on Sunday, Dec. 6.
+- **NEW — Brandon Aiyuk** — Brandon Aiyuk will not be elevated for Week 12 (2026-11-27T19:40:28.186000Z)
+  - Aiyuk signed with the Commanders practice squad this week. He'll have a chance to make his debut with Washington next week. 
+  - Source: https://www.fantasypros.com/nfl/news/622929/brandon-aiyuk-will-not-be-elevated-week-12.php
+- **NEW — Zachariah Branch** — Zachariah Branch - Won't face Vikings (2026-11-27T19:39:33Z)
+  - Branch will join Jahan Dotson (hamstring) on the sidelines in Week 12. Drake London, Olamide Zaccheaus, Beaux Collins and Chris Blair are Atlanta's available options at wide receiver, while Zaccheaus and Khalil Herbert are the top candidates to handle punt and kickoff returns in Branch's absence. Branch's next opportunity to suit up will be Sunday, Dec. 6, against Detroit.
+- **NEW — Romeo Doubs** — Romeo Doubs (shoulder) unlikely to play in Week 12 (2026-11-27T19:35:27.909000Z)
+  - Doubs was able to return to a limited practice this week. He'll have a chance to return next week. 
+  - Source: https://www.fantasypros.com/nfl/news/622926/romeo-doubs-shoulder-unlikely-to-play-week-12.php
+- **NEW — Woody Marks** — Woody Marks clears concussion protocol, will play Sunday (2026-11-27T19:35:27.896000Z)
+  - Marks will return on Sunday. It'll likely continue to be a committee between him and David Montgomery. 
+  - Source: https://www.fantasypros.com/nfl/news/622928/woody-marks-clears-concussion-protocol-will-play-sunday.php
+- **NEW — Brock Bowers** — Brock Bowers (ankle) not practicing Friday (2026-11-27T19:25:28.104000Z)
+  - Bowers was unable to reach the practice field after limited sessions Wednesday and Thursday, putting the dynamic tight end's availability in question. Michael Mayer would be in line for TE1 snaps if Bowers is unable to suit up against the Browns Sunday night.
+  - Source: https://www.fantasypros.com/nfl/news/622919/brock-bowers-ankle-not-practicing-friday.php
+- **NEW — Jahan Dotson** — Jahan Dotson (hamstring) ruled out for Week 12 (2026-11-27T19:15:27.660000Z)
+  - Dotson and Zachariah Branch have both been ruled out. Olmaide Zachcheaus will be Atlanta's No. 2 receiver. 
+  - Source: https://www.fantasypros.com/nfl/news/622911/jahan-dotson-hamstring-ruled-out-week-12.php
+- **NEW — Zachariah Branch** — Zachariah Branch (hamstring) ruled out for Week 12 (2026-11-27T19:15:27.649000Z)
+  - Branch and Jahan Dotson have both been ruled out. Olmaide Zachcheaus will be Atlanta's No. 2 receiver. 
+  - Source: https://www.fantasypros.com/nfl/news/622912/zachariah-branch-hamstring-ruled-out-week-12.php
+- **NEW — Jeremiyah Love** — Jeremiyah Love (ankle) without update on status (2026-11-27T19:05:27.898000Z)
+  - Love is eligible to come off injured reserve next week. There could be an update on his status next week.  
+  - Source: https://www.fantasypros.com/nfl/news/622910/jeremiyah-love-ankle-without-update-on-status.php
+- **NEW — Drew Allar** — Drew Allar - Emergency third QB for Week 12 (2026-11-27T19:05:07Z)
+  - Following Aaron Rodgers' departure from Pittsburgh, Allar moves up to the third spot on the depth chart behind Friday's starter Mason Rudolph and Will Howard. Despite the incremental progress, it would take injuries, illnesses and/or ejections to both Rudolph and Howard for Allar to get into Week 12 game action.
+- **NEW — Jahan Dotson** — Jahan Dotson - Not playing in Week 12 (2026-11-27T19:03:59Z)
+  - Coming off Atlanta's Week 11 bye, Dotson was a listed DNP on all three of the team's Week 12 practice reports due to a hamstring injury, which will force his first missed game of the season. With fellow WR Zachariah Branch (hamstring) also out Sunday, the Falcons' depth at the position is a bit thin behind Drake London and Olamide Zaccheaus, as Beaux Collins and Chris Blair are the other options on the active roster. As a result, Dylan Drummond, Antwane Wells and Vinny Anthony will be candidates to be brought up from the practice squad.
+- **NEW — Denzel Boston** — Denzel Boston (toe) listed questionable for Week 12 (2026-11-27T18:55:27.460000Z)
+  - Boston was unable to practice all week. He is likely on the wrong side of questionable heading into Sunday. 
+  - Source: https://www.fantasypros.com/nfl/news/622907/denzel-boston-toe-listed-questionable-week-12.php
+- **NEW — A.J. Brown** — A.J. Brown (hamstring) ruled out for Week 12 (2026-11-27T18:45:27.576000Z)
+  - Brown remains out for head coach Mike Vrabel, with DeMario Douglas and Mack Hollins to operate as the primary wideout options for quarterback Tommy DeVito against the Chargers Sunday.
+  - Source: https://www.fantasypros.com/nfl/news/622904/aj-brown-hamstring-ruled-out-week-12.php
+- **NEW — Denzel Boston** — Denzel Boston - Listed as questionable for Sunday (2026-11-27T18:36:59Z)
+  - Coach Todd Monken noted Friday that the team pushed Boston (who was deemed a 'DNP' at practice over the last few days) pretty hard earlier in the week, then pulled back a little bit, while adding that the Browns should have a better idea regarding the wide receiver's Week 12 status Saturday. If Boston ends up out or limited this weekend, Malachi Corley, Tylan Wallace and Isaiah Bond would be in line to see added opportunities behind KC Concepcion and Jerry Jeudy.
+- **NEW — Tetairoa McMillan** — Tetairoa McMillan - Not in uniform Friday (2026-11-27T18:33:56Z)
+  - Mike Kaye of ESPN.com reported earlier Friday that McMillan was in a helmet and pads, and although he ditched them while stretching he put them back on shortly afterward. Ultimately, Friday's injury report will include McMillan's activity level, if any, after he was listed as a non-participant on Thursday's practice estimate due to a sore foot.
+- **NEW — Seth McGowan** — Seth McGowan - Officially out for Week 12 (2026-11-27T18:33:22Z)
+  - DJ Giddens is set to inherit change-of-pace duties behind Jonathan Taylor in McGowan's absence. McGowan, who injured his hamstring in the Week 11 loss to the Texans, will have a bye to heal before possibly returning against the Eagles in Week 14.
+- **NEW — Romeo Doubs** — Romeo Doubs - Unlikely to return Sunday (2026-11-27T18:21:28Z)
+  - Doubs was designated to return from injured reserve earlier in the week, but Vrabel's comments suggest the wide receiver isn't on track to be activated ahead of Sunday's contest. If Doubs remains sidelined, Sunday would mark his fifth consecutive absence. QB Drake Maye (lower leg) and WR A.J. Brown (hamstring) have both been officially ruled out while Doubs' inactive status has yet to be confirmed.
+- **NEW — A.J. Brown** — A.J. Brown - Ruled out for Sunday's game (2026-11-27T18:18:38Z)
+  - With Brown unavailable following the Patriots' Week 11 bye, Mack Hollins, DeMario Douglas, Efton Chism and Kyle Williams are in line to handle the team's WR duties in Tommy DeVito's first start of 2026. Meanwhile, Romeo Doubs (shoulder) isn't likely to be activated from IR this weekend, so it looks like the earliest either of New England's top two wideouts could be available is Sunday, Dec. 6, against the Bills.
+- **NEW — Jeremiyah Love** — Jeremiyah Love - No update on status for Week 13 (2026-11-27T18:12:12Z)
+  - Love will miss a fourth consecutive game Sunday but will then be eligible to come off injured reserve ahead of Week 13 against the Eagles. LaFleur previously said Love will be reevaluated Monday once eligible to return, and the coach added Friday that he expects to know more Wednesday once the Cardinals return to practice. Tyler Allgeier and Bam Knight are still the leading in-house backfield options in the meantime.
+- **Colston Loveland** — Colston Loveland - Week-to-week with second opinion pending (2026-11-27T18:04:45Z)
+  - Schefter reported earlier that the Bears planned to place Loveland on injured reserve due to the knee injury the TE sustained in Thursday's 39-35 win over the Lions, which would rule Loveland out for at least four games. Chicago wants to gather more information before a determination is made on Loveland's status, and the door is still open for a shorter absence, though it would be surprising at this point if he's able to play Sunday, Dec. 6, against the Jaguars.
+- **Jahan Dotson** — Jahan Dotson - Appears to be absent again Friday (2026-11-27T17:51:59Z)
+  - Dotson hasn't practiced all week, so it wouldn't be surprising if he's ultimately ruled out for Sunday's game against the Vikings once the Falcons release game designations Friday. Zachariah Branch (hamstring) also remained sidelined at Friday's practice, so Olamide Zaccheaus, Beaux Collins and Chris Blair may be Atlanta's only healthy and available wide receivers behind Drake London against Minnesota.
+- **Kayshon Boutte** — Kayshon Boutte - Absent again Friday, likely to sit Sunday (2026-11-27T17:47:39Z)
+  - Wilson adds that Boutte isn't expected to play Sunday against the Ravens, and while things are certainly trending that way based on his inability to practice all week, that notion has yet to be confirmed by an official team source. Xavier Hutchinson, Tank Dell and Marvin Harrison will compete for playing time and targets alongside Nico Collins if Boutte is ruled out.
+- **Carson Beck** — Carson Beck (back) ruled out for Week 12 (2026-11-27T17:40:27.575000Z)
   - Beck will sit a second straight week due to a back injury. Josh Johnson will start again in his place. 
   - Source: https://www.fantasypros.com/nfl/news/622894/carson-beck-back-ruled-out-week-12.php
-- **NEW — Carson Beck** — Carson Beck - Confirmed out Sunday (2026-11-27T17:36:12Z)
-  - Beck has yet to resume practicing and will miss a second consecutive game Sunday due to back spasms, paving the way for Josh Johnson to start against Washington. LaFleur added that a Week 13 return against the Eagles is in play for Beck, who made his first regular-season NFL start in a 34-6 Week 10 loss to the Rams. Beck's practice participation level leading up to that game will provide an indication regarding his potential availability.
-- **NEW — Colston Loveland** — Colston Loveland suffers knee sprain, to be placed on IR (2026-11-27T17:30:26.985000Z)
+- **Carson Beck** — Carson Beck - Confirmed out Sunday (2026-11-27T17:36:12Z)
+  - Beck has yet to resume practicing and will miss a second consecutive game Sunday due to back spasms, paving the way for Josh Johnson to start against Washington. LaFleur added that a Week 13 return against the Eagles is in play for Beck, who made his first regular-season NFL start in a 34-6 Week 10 loss to the Rams. Beck's practice participation level leading up to that game will provide an indication regarding his potential availability, and LaFleur added that the team will know more about Beck's status "early in the week," per Weinfuss.
+- **Colston Loveland** — Colston Loveland suffers knee sprain, to be placed on IR (2026-11-27T17:30:26.985000Z)
   - Loveland will have a chance to return after missing four games. He is unlikely to make an immediate for fantasy managers again this season, but he'll have a chance to be back for the NFL playoffs for Chicago. 
   - Source: https://www.fantasypros.com/nfl/news/622887/colston-loveland-suffers-knee-sprain-to-be-placed-on-ir.php
-- **NEW — Bhayshul Tuten** — Bhayshul Tuten (foot/ankle) not seen practicing Friday  (2026-11-27T17:30:26.973000Z)
+- **Bhayshul Tuten** — Bhayshul Tuten (foot/ankle) not seen practicing Friday  (2026-11-27T17:30:26.973000Z)
   - Tuten continues to trend towards likely being sidelined for Sunday's game against the Titans. Chris Rodriguez would take over the lead role in the backfield. 
   - Source: https://www.fantasypros.com/nfl/news/622888/bhayshul-tuten-footankle-not-seen-practicing-friday.php
-- **NEW — Colston Loveland** — Colston Loveland - Expected to land on IR (2026-11-27T17:22:54Z)
-  - If that's the case, Loveland would need to miss at least four games, with Ian Rapoport of ESPN and NFL Networknoting Friday that a knee sprain is the initial diagnosis for Loveland. In that scenario, a late-season return could be in the cards for him. In Loveland's anticipated absence, Sam Roush would be in line to see added snaps/targets, a context that could yield fantasy relevance down the stretch for the 2026 third-rounder.
-- **NEW — Bhayshul Tuten** — Bhayshul Tuten - Not spotted Friday (2026-11-27T17:16:40Z)
+- **Colston Loveland** — Colston Loveland - Expected to land on IR (2026-11-27T17:22:54Z)
+  - If that's the case, Loveland would need to miss at least four games, with Ian Rapoport of ESPN and NFL Network noting Friday that a knee sprain is the initial diagnosis for Loveland. In that scenario, a late-season return could be in the cards for him. In Loveland's anticipated absence, Sam Roush is in line to see added snaps and targets, a context that could yield fantasy relevance down the stretch for the 2026 third-rounder.
+- **Bhayshul Tuten** — Bhayshul Tuten - Not spotted Friday (2026-11-27T17:16:40Z)
   - If Tuten's absence Friday is confirmed by the team's injury report, that would mark a third consecutive 'DNP' for Jacksonville's starting running back. Coach Liam Coen intimated earlier Friday that Tuten's participation level Friday would factor into Tuten's potential availability for Sunday's game against the Titans, so Tuten appears more likely than not to sit out Sunday based on this latest development. If Tuten is ruled out, Chris Rodriguez would be in line to lead a backfield that also includes LeQuint Allen and Ameer Abdullah.
-- **NEW — Kayshon Boutte** — Kayshon Boutte (hip) out again Friday (2026-11-27T17:15:27.372000Z)
-  - Boutte has been missing from practice all week long and is unlikely to play Sunday against the Ravens. Fellow Houston receiver Marvin Harrison Jr. is expected to return, however, and should soak up plenty of Boutte's snaps. 
-  - Source: https://www.fantasypros.com/nfl/news/622881/kayshon-boutte-hip-out-again-friday.php
-- **NEW — Marvin Harrison Jr.** — Marvin Harrison Jr. (hamstring) expected to play in Week 12 (2026-11-27T17:15:27.359000Z)
-  - Harrison has missed the last two games due a hamstring injury, but he has been back at practice this week and is expected to go Sunday. With Kayshon Boutte out due to a hip injury, Harrison should have a clear route to plenty of snaps and potential targets. 
-  - Source: https://www.fantasypros.com/nfl/news/622882/marvin-harrison-jr-hamstring-expected-to-play-week-12.php
-- **NEW — Denzel Boston** — Denzel Boston (toe) unlikely to play in Week 12 (2026-11-27T17:15:27.346000Z)
-  - Boston has not practiced all week due to a toe injury. The rookie is not expected to play Sunday night, which will leave KC Concepcion and Jerry Jeudy to lead the Browns' receiver corps. 
-  - Source: https://www.fantasypros.com/nfl/news/622883/denzel-boston-toe-unlikely-to-play-week-12.php
-- **NEW — Denzel Boston** — Denzel Boston - Not seen at practice Friday (2026-11-27T17:13:33Z)
-  - With Boston now on track to log a trio of 'DNP' listings this week, his status for Sunday night's game against the Raiders is cloudy. Friday's final injury report will reveal whether the Browns' starting WR has any chance to play versus Las Vegas, or is ruled out ahead of Week 12 action.
-- **NEW — Omar Cooper Jr.** — Omar Cooper Jr. (ankle) will not play in Week 12 (2026-11-27T17:05:27.012000Z)
-  - The Jets will have a bye in Week 13, giving Cooper extra time to fully recover from an ankle injury. Garrett Wilson and Adonai Mitchell will be the top two receivers for the Jets once again. Veterans Sterling Shepard and Tim Patrick should see significant snaps as well. 
-  - Source: https://www.fantasypros.com/nfl/news/622880/omar-cooper-jr-ankle-will-not-play-week-12.php
-- **NEW — A.J. Brown** — A.J. Brown - Not at practice again Friday (2026-11-27T17:01:38Z)
-  - With Brown set to log three straight practice 'DNPs' this week,  there's a solid chance that he'll be officially ruled out for Sunday's game against the Chargers later Friday. If that ends up being the case, Mack Hollins, DeMario Douglas, Efton Chism and Kyle Williams would be the Patriots' available WRs on the active roster, though it's possible that Romeo Doubs (shoulder) will be activated from IR ahead of Week 12 action.
-- **NEW — Travis Hunter** — Travis Hunter - Role may not grow much sans Washington (2026-11-27T16:32:32Z)
-  - Washington's shoulder injury seems to have taken a sudden turn for the worse, but the Jaguars had been preparing for their top receiver to be available, so they hadn't been utilizing Hunter much on offense in practice. Hunter should hold down his usual outside cornerback role on defense, but it's likely that most of the targets vacated by Washington will go to some combination of Jakobi Meyers (ankle), Brian Thomas, Josh Cameron and CJ Williams rather than Hunter among Jacksonville's wide receivers.
-- **NEW — Omar Cooper Jr.** — Omar Cooper - Will remain out for Week 12 (2026-11-27T15:56:23Z)
-  - Cooper will miss a second consecutive game Sunday, bringing him up to six total absences as a result of ankle injuries during his rookie campaign. Adonai Mitchell is set to start on the outside opposite Garrett Wilson, with Isaiah Williams manning the slot, though another elevation for practice-squad WR Sterling Shepard could be on the table after Shepard scored twice in the Week 11 win over the Chargers. Cooper's next chance to play will be a Week 14 home game against the Broncos following the Jets' Week 13 bye.
-- **NEW — Parker Washington** — Parker Washington (shoulder) out for Sunday, week-to-week with AC injury (2026-11-27T15:55:26.686000Z)
-  - With Washington out, Jakobi Meyers and Brian Thomas Jr. should see some additional volume. Travis Hunter will likely get some increase in snaps as well, but he's a desperation flex play given that the Jaguars also have Josh Cameron waiting in the wings at WR as well. Meyers is the preferred play, with Hunter, Cameron, and Thomas being big play threats.
-  - Source: https://www.fantasypros.com/nfl/news/622876/parker-washington-shoulder-out-sunday-week-to-week-with-ac-injury.php
-- **NEW — Bhayshul Tuten** — Bhayshul Tuten - Week 12 status still up in the air (2026-11-27T15:51:14Z)
-  - Tuten was unable to practice Wednesday or Thursday, but Coen said how Tuten looks Friday will affect the determination on the starting running back's status for Sunday's game, which suggests the team plans for Tuten to practice in at least some capacity Friday. If Tuten is ultimately deemed questionable on Friday's injury report, his status may not be clarified until around 90 minutes prior to Sunday's 1 p.m. ET kickoff. Chris Rodriguez would be in line to lead Jacksonville's backfield against the Titans if Tuten joins Parker Washington (shoulder) on the sidelines Sunday.
-- **NEW — Parker Washington** — Parker Washington - Out vs. Titans, considered week-to-week (2026-11-27T15:44:29Z)
-  - Washington was added to Jacksonville's injury report Thursday due to a shoulder injury, and the impact of the injury has escalated from limiting his practice participation Thursday to sidelining Jacksonville's top receiver Sunday and possibly beyond then. In Washington's absence, Jakobi Meyers (ankle), Brian Thomas, Josh Cameron and possibly Travis Hunter or CJ Williams -- to a lesser degree -- could garner more attention from Trevor Lawrence against a Titans secondary that has allowed the most catches and yards per game in the league to wide receivers. Additional details regarding Washington's injury should emerge before the Jaguars travel to Chicago in Week 13.
-- **NEW — Dak Prescott** — Dak Prescott accounts for three touchdowns in Week 12 loss to Eagles (2026-11-27T15:35:26.662000Z)
-  - Prescott has led a high-powered Dallas passing attack of late, passing for over 290 yards and two or more touchdowns in each of his last four games. The quarterback faces a stiff test against an aggressive Seattle Seahawks defense in Week 13.
-  - Source: https://www.fantasypros.com/nfl/news/622875/dak-prescott-accounts-three-touchdowns-week-12-loss-to-eagles.php
-- **NEW — CeeDee Lamb** — CeeDee Lamb leads pass-catchers in Week 12 loss to Eagles (2026-11-27T15:25:26.406000Z)
-  - Lamb continues a productive stretch in the Dallas offense, recording 70 or more receiving yards in six of his last seven games. The explosive wideout remains a reliable WR1 option in all formats ahead of a Week 13 matchup against the Seattle Seahawks.
-  - Source: https://www.fantasypros.com/nfl/news/622873/ceedee-lamb-leads-pass-catchers-week-12-loss-to-eagles.php
-- **NEW — Javonte Williams** — Javonte Williams records three touchdowns in Week 12 loss to Eagles (2026-11-27T15:25:26.391000Z)
-  - Williams has been impactful out of the backfield of late, finishing with over 90 offensive yards and one or more touchdowns in three of his last four games. The running back faces a stiff test in Week 13 against a tough Seattle Seahawks defense.
-  - Source: https://www.fantasypros.com/nfl/news/622874/javonte-williams-records-three-touchdowns-week-12-loss-to-eagles.php
-- **NEW — Keon Coleman** — Keon Coleman - Blanked in Week 12 win (2026-11-27T15:15:57Z)
-  - Coleman's involvement was minimal with DJ Moore healthy, as has been the case throughout the season. Josh Allen threw for just 81 yards Thursday, so none of Buffalo's receivers were particularly effective, but it would likely take another injury to Moore for Coleman -- who logged a 49 percent snap share in the contest -- to return to relevance in fantasy. Coleman hasn't exceeded 17 yards in a game or scored since Week 6. Up next for Coleman and the Bills is a Week 13 trip to New England.
-- **NEW — George Pickens** — George Pickens hauls in five passes in Week 12 loss to Eagles (2026-11-27T15:15:26.368000Z)
-  - Pickens has been impactful in the Dallas passing attack of late, recording five or more receptions and over 60 receiving yards in each of his last three contests. The wideout remains one of the more explosive options in a high-octane Dallas passing attack entering a difficult Week 13 contest against the Seattle Seahawks.
-  - Source: https://www.fantasypros.com/nfl/news/622872/george-pickens-hauls-five-passes-week-12-loss-to-eagles.php
-- **NEW — Brandon Aubrey** — Brandon Aubrey misses field goal in Week 12 (2026-11-27T14:25:26.463000Z)
-  - Aubrey continues a productive stretch behind a high-powered Dallas offense, recording eight or more points in each of his last six contests. The kicker remains one of the more impactful options entering a tough Week 13 contest against the Seattle Seahawks.
-  - Source: https://www.fantasypros.com/nfl/news/622865/brandon-aubrey-misses-field-goal-week-12.php
-- **NEW — Joe Milton** — Joe Milton III records four touchdowns in Week 12 win over Cowboys (2026-11-27T14:15:26.279000Z)
-  - Milton III was dynamic in leading a comeback victory Thursday, averaging 15.8 yards per completion in the win. The quarterback will look for more explosive plays against the Arizona Cardinals in Week 13.
-  - Source: https://www.fantasypros.com/nfl/news/622864/joe-milton-iii-records-four-touchdowns-week-12-win-over-cowboys.php
-- **NEW — Makai Lemon** — Makai Lemon finds end zone in Week 12 win over Cowboys (2026-11-27T14:05:26.269000Z)
-  - Lemon continues a steady stretch in the Philadelphia passing attack, registering five or more receptions in four of his last five games. The rookie wideout remains one of the few impactful pass-catching options in an inconsistent Philadelphia offense entering a Week 13 contest against the Arizona Cardinals.
-  - Source: https://www.fantasypros.com/nfl/news/622861/makai-lemon-finds-end-zone-week-12-win-over-cowboys.php
-- **NEW — Darius Cooper** — Darius Cooper catches pass in Week 12 (2026-11-27T13:55:26.196000Z)
-  - Cooper has made minimal impact in the Philadelphia offense of late, recording less than 30 receiving yards in five of his last six contests. The wideout remains one of many inconsistent pass-catching options in the Philadelphia offense ahead of a Week 13 contest against the Arizona Cardinals.
-  - Source: https://www.fantasypros.com/nfl/news/622859/darius-cooper-caught-pass-week-12.php
-- **Bryce Young** — Bryce Young (foot) logs full practice Thursday  (2026-11-27T07:35:23.938000Z)
-  - Young was also on the injury report last week. He should still be good to go for Monday's game against the Buccaneers. 
-  - Source: https://www.fantasypros.com/nfl/news/622832/bryce-young-foot-logs-full-practice-thursday.php
-- **Baker Mayfield** — Baker Mayfield (foot/thumb) logs full practice Thursday  (2026-11-27T07:25:23.727000Z)
-  - Mayfield is dealing with multiple injuries. He remains on track to be good to go for Monday's game against the Panthers. 
-  - Source: https://www.fantasypros.com/nfl/news/622821/baker-mayfield-footthumb-logs-full-practice-thursday.php
-- **Jalen McMillan** — Jalen McMillan (knee) logs full practice Thursday  (2026-11-27T07:25:23.716000Z)
-  - McMillan had his practice window opened this week. He will have a chance to be activated for Monday's game against the Panthers. 
-  - Source: https://www.fantasypros.com/nfl/news/622822/jalen-mcmillan-knee-logs-full-practice-thursday.php
-- **Cade Otton** — Cade Otton (thumb) logs full practice Thursday  (2026-11-27T07:25:23.696000Z)
-  - Otton remains a TE2 for fantasy managers. 
-  - Source: https://www.fantasypros.com/nfl/news/622824/cade-otton-thumb-logs-full-practice-thursday.php
-- **Khalil Shakir** — Khalil Shakir - Team-high yardage in Week 12 win (2026-11-27T05:43:20Z)
-  - Shakir's reception and yardage totals led the Bills on a night when Josh Allen threw for just 81 yards with a pair of picks. The veteran slot receiver was coming off a Week 11 showing against the Dolphins in which he accrued a season-high 101 receiving yards, and Thursday's downturn was largely explainable by Allen's struggles and less-than-ideal weather conditions. Shakir should remain a key target for Allen during a Week 13 road matchup Sunday, Dec. 6 with a Patriots squad that the wideout posted a 7-82-0 line against back in Week 4.
-- **Josh Downs** — Josh Downs - Limited to one catch Thursday (2026-11-27T05:35:21Z)
-  - After recording consecutive four-catch tallies following his trade from the Colts, Downs' production saw a downturn Thursday in a game where both air attacks performed below their usual levels. The talented receiver did make good use of his one reception, and Downs should be busier in a Week 13 road matchup against the Rams next Thursday night where weather shouldn't be a factor.
-- **DJ Moore** — DJ Moore - Pair of grabs in Week 12 win (2026-11-27T05:32:20Z)
-  - Moore's production, like that of the rest of his fellow skill-position players, was very modest on a night when Josh Allen threw for only 81 yards and a pair of interceptions. The talented wideout's catch and yardage totals were both his third-lowest tallies of the season, but Moore is still averaging a formidable 14.6 yards per reception heading into a Week 13 road matchup against the Patriots on Sunday, Dec. 6.
-- **Xavier Worthy** — Xavier Worthy - Blanked again in Week 12 (2026-11-27T05:29:30Z)
-  - Since Josh Downs arrived via trade from Indianapolis at the deadline, Rashee Rice is leading all Chiefs wide receivers in targets with 17 over the last three contests, followed by Downs' 14, Worthy's 10, Cyrus Allen's nine, Jalen Royals' (ankle) two and Andrew Armstrong's two. Worthy's average number of targets has reduced from 5.9 per game pre-Downs to 3.3 since the addition to the position group, and the former has just a 2-38-1 line during that span. As a result, Worthy is difficult to trust as Kansas City prepares to face the Rams on the road next Thursday.
-- **Dalton Kincaid** — Dalton Kincaid - Two catches in return (2026-11-27T05:27:40Z)
-  - Making his return from a one-game absence due to thumb and ankle injuries, Kincaid's numbers weren't quite as poor within the context of a night where Josh Allen threw for only 81 yards and completed less than 50.0 percent of his passes. Kincaid tied for runner-up slotting on the Bills in receptions, and he was third in receiving yards as well. Kincaid now has multiple catches in five straight games heading into a Week 13 road divisional matchup against the Patriots on Sunday, Dec. 6.
-- **Rashee Rice** — Rashee Rice - Forgettable numbers in loss (2026-11-27T05:22:55Z)
-  - Rice's production was part of the collateral damage of a night that was unconducive for offense, as the veteran receiver tied his lowest reception and receiving yardage totals of the season for a non-injury-shortened game. Rice came in riding a solid four-game stretch where he'd generated a 23-237-1 line on 27 targets, and he'll look to return to that level of production during a Week 13 road matchup against the Rams next Thursday.
-- **Patrick Mahomes** — Patrick Mahomes - Unremarkable numbers in loss (2026-11-27T05:18:27Z)
-  - Like Josh Allen, Mahomes didn't come close to putting up his typical caliber of production in the poor weather conditions Thursday, although the latter was at least relatively efficient compared to his opposite number. However, Mahomes failed to throw at least one touchdown pass for the first time in five games, and his yardage total was his second-lowest of the campaign. Mahomes will look to bounce back in what will be an appreciably better environment for offense during a Week 13 road matchup against the Rams next Thursday night.
-- **Travis Kelce** — Travis Kelce - Paces pass catchers in loss (2026-11-27T05:12:47Z)
-  - Kelce posted a game-high receiving yardage total with the help of a game-long 24-yard grab that he made late in the first half, and he also tied for the team lead in receptions. The star tight end did have a couple of missed connections with Patrick Mahomes on fourth-quarter drives, however, plays that could have had an impact on the outcome of such a close game. Kelce has exceeded 65 receiving yards in four of the last five games heading into a Week 13 road showdown against the Rams next Thursday night.
-- **Emmett Johnson** — Emmett Johnson - Another TD in Week 12 loss (2026-11-27T05:04:37Z)
-  - Making a third straight start in place of Kenneth Walker (groin), Johnson put together another useful all-around performance that included his third rushing touchdown of the season on a one-yard run early in the third quarter. Johnson also recorded at least four catches for the third consecutive game, and he's now accumulated 410 scrimmage yards and four total TDs over his three starts. Walker is likely to be back for next Thursday's Week 13 road showdown against the Rams, but Johnson is likely to retain a solid complementary role even when his star teammate is back on the field.
-- **Josh Allen** — Josh Allen - Stymied by Chiefs in win (2026-11-27T04:58:13Z)
-  - Allen's abysmal numbers tell the tale of how difficult a night it was for the star signal-caller under less-than-ideal weather conditions and while facing a talented veteran defense. Allen's passing yardage total was a season low, and the two-interception  tally was his second straight. Allen also took a pair of sacks and completed a season-worst 47.6 percent of his passes, but he helped bring Buffalo back from a 10-7 fourth-quarter deficit. Allen's lackluster showing aside, he'll remain an elite option in all formats for a Week 13 road divisional clash against the Patriots on Sunday, Dec. 6.
-- **James Cook III** — James Cook - Thrives in workhorse role (2026-11-27T04:49:17Z)
-  - Cook logged a season high in rush attempts while eclipsing the century mark for the third time in the last four games. Cook's longest gain went for only 10 yards, so he worked hard for everything he got against a tough Chiefs front. Cook added his 11th rushing touchdown of the season on a five-yard run early in the second quarter, and he'll have some extra recovery time before he takes aim at the Patriots defense in a Week 13 road matchup on Sunday, Dec. 6.
-- **Darius Cooper** — Darius Cooper - Catches one pass in win (2026-11-27T02:48:14Z)
-  - Cooper had a quiet outing despite the win as he finished fourth on the team in both receiving yards and receptions. Across 10 games this season, the 25-year-old has caught 17 passes for 259 yards and four touchdowns, all of which serve as new career highs.
-- **DeVonta Smith** — DeVonta Smith explodes in Week 12 win over Cowboys (2026-11-27T02:40:22.941000Z)
-  - Smith has been dynamic in the Philadelphia offense while battling injuries to this point, recording at least 75 receiving yards and one touchdown in three of his last five games. The wideout offers head coach Nick Sirianni an explosive pass-catching option as part of an inconsistent Philadelphia offense to this point, with a Week 13 matchup against the Arizona Cardinals up next.
-  - Source: https://www.fantasypros.com/nfl/news/622802/devonta-smith-explodes-week-12-win-over-cowboys.php
-- **Jared Goff** — Jared Goff surpasses 300 yards in Week 12 loss to Bears (2026-11-27T02:40:22.718000Z)
-  - Goff fell slightly back to earth Thursday, tossing less than two touchdowns for the first time in his last three contests. The signal-caller remains one of the more stable quarterback options while guiding a high-octane Detroit offense for fantasy managers, with a Week 13 matchup against the Atlanta Falcons up next.
-  - Source: https://www.fantasypros.com/nfl/news/622800/jared-goff-surpasses-300-yards-week-12-loss-to-bears.php
-- **Jahmyr Gibbs** — Jahmyr Gibbs explodes out of backfield in Week 12 loss to Bears (2026-11-27T02:40:22.705000Z)
-  - Gibbs continues an explosive stretch out of the Detroit backfield, recording over 115 offensive yards and two or more touchdowns in each of his last three games. The running back remains an elite RB1 option in all formats entering a Week 13 matchup against the Atlanta Falcons.
-  - Source: https://www.fantasypros.com/nfl/news/622801/jahmyr-gibbs-explodes-out-backfield-week-12-loss-to-bears.php
-- **Brandon Aubrey** — Brandon Aubrey - Misses crucial field goal in loss (2026-11-27T02:39:59Z)
-  - Aubrey missed a kick from 40 yards out in the fourth quarter, which ended up being the difference in the game. The 31-year-old has now converted 21 of his 26 field-goal attempts and 36 of his 38 extra-point tries across 12 games this season and will look to bounce back during next week's matchup against the Seahawks.
-- **DeVonta Smith** — DeVonta Smith - Limping after Thursday's game (2026-11-27T02:39:11Z)
-  - Smith put together a career stat line during the Eagles' Thanksgiving Day win, with the veteran wide receiver hauling in 11 of 14 targets for 200 yards and two touchdowns. He was in and out of the game after landing hard on his tailbone on one of his targets in the fourth quarter and was in noticeable pain when on the field. Smith will have additional time to rest courtesy of the Thursday game, but his status over the coming days will be worth monitoring ahead of the Eagles' Week 13 road tilt against the Cardinals on Sunday, Dec. 6.
-- **Dallas Goedert** — Dallas Goedert - Seen with right arm in sling (2026-11-27T02:30:57Z)
-  - Goedert injured his right shoulder during the first half of Thursday's game and was not cleared to return. He'll undergo further tests to determine the severity of the injury, but the veteran tight end is certainly in jeopardy of not being available for the Eagles' Week 13 road tilt against the Cardinals on Sunday, Dec. 6. Johnny Mundt, Zach Ertz and rookie second-rounder Eli Stowers would all be in line for larger roles on offense if Goedert were to miss time.
-- **George Pickens** — George Pickens - Five grabs in loss to Philly (2026-11-27T02:20:27Z)
-  - It was a step back for Pickens after he hauled in 18 of 28 targets for 247 yards and four TDs over the prior two games. The 25-year-old wideout is the clear No. 2 option in the Dallas passing attack behind CeeDee Lamb, but the team's woeful defense and limited depth behind the duo ensures that Pickens will see big volume from Dak Prescott more often than not. Pickens will take a 62-847-6 line on 99 targets into a Week 13 clash with the Seahawks.
-- **CeeDee Lamb** — CeeDee Lamb - Big yardage in Thanksgiving loss (2026-11-27T02:16:05Z)
-  - He was once again Dak Prescott's top downfield option, leading the Cowboys in targets, catches and receiving yards, but KaVontae Turpin and Javonte Williams were on the other end of the QB's touchdown passes. Lamb has topped 100 yards in six of 12 games this season, including three of the last four, and he'll carry a 95-1,242-9 line on 144 targets into a tough Week 13 battle against the Seahawks.
-- **Javonte Williams** — Javonte Williams - Finds end zone three times in loss (2026-11-27T02:13:02Z)
-  - All three scores came in the first half as the Cowboys raced out to a 28-10 lead, making Williams the first player with three TDs in a half on Thanksgiving since Brian Westbrook accomplished the feat with Philly in 2008. Williams is also the second RB in Cowboys history to have multiple games in a season with three or more scores, something Emmitt Smith pulled off in four separate campaigns. He's also reached 100 rushing yards in three of the last six games, and he's topped 1,000 yards from scrimmage for the second straight year in Dallas. Williams will look to keep rolling in Week 13 against the Seahawks.
-- **Amon-Ra St. Brown** — Amon-Ra St. Brown leads pass-catches in Week 12 loss to Bears (2026-11-27T02:10:22.147000Z)
-  - St. Brown continues an impactful stretch of late, recording five or more receptions in seven of his last eight games. The wideout remains a reliable WR1 option in all formats ahead of a Week 13 matchup against the Atlanta Falcons.
-  - Source: https://www.fantasypros.com/nfl/news/622799/amon-ra-st-brown-leads-pass-catches-week-12-loss-to-bears.php
-- **Sam LaPorta** — Sam LaPorta finds end zone in Week 12 loss to Bears (2026-11-27T02:05:21.869000Z)
-  - LaPorta has offered modest results in the Detroit offense of late, recording over 40 receiving yards in each of his last two contests. The tight end has frustrated fantasy managers to this point as a risky TE1 option, with a Week 13 contest against the Atlanta Falcons up next.
-  - Source: https://www.fantasypros.com/nfl/news/622797/sam-laporta-finds-end-zone-week-12-loss-to-bears.php
-- **Jameson Williams** — Jameson Williams hauls in six passes in Week 12 loss to Bears (2026-11-27T02:05:21.851000Z)
-  - Williams has been impactful in the Detroit passing attack of late, recording 50 or more receiving yards in six of his last eight games. The wideout continues to flash explosive potential as one of the more dynamic pass-catching options for head coach Dan Campbell ahead of a Week 13 matchup against the Atlanta Falcons.
-  - Source: https://www.fantasypros.com/nfl/news/622798/jameson-williams-hauls-six-passes-week-12-loss-to-bears.php
-- **Dak Prescott** — Dak Prescott - Can't make up for dreadful defense (2026-11-27T02:05:09Z)
-  - The Cowboys held a 28-10 lead at the half and were up 38-24 early in the fourth quarter, but abysmal efforts by the defense and special teams squandered Prescott's third straight game producing at least three touchdowns. It was the first time since Week 8 that he failed to reach 300 passing yards, but the 33-year-old QB is still on course for a career-best campaign. He'll take a 27:7 TD:INT, along with three rushing scores, into a much tougher Week 13 tilt against the Seahawks.
-- **Isaac TeSlaa** — Isaac TeSlaa sees one target in Week 12 (2026-11-27T02:00:21.962000Z)
-  - TeSlaa has struggled to make an impact in the Detroit offense of late, registering less than 20 receiving yards in each of his last seven contests. The wideout can remain off rosters in all formats ahead of a Week 13 contest against the Atlanta Falcons.
-  - Source: https://www.fantasypros.com/nfl/news/622795/isaac-teslaa-sees-one-target-week-12.php
-- **Makai Lemon** — Makai Lemon - Hauls in key TD in comeback win (2026-11-27T01:57:51Z)
-  - The Eagles were down 28-10 at the half and watched Saquon Barkley (neck) and Dallas Goedert (shoulder) exit early, leaving Joe Milton with limited tools at his disposal to put together a comeback. DeVonta Smith saw most of the target volume, but Lemon came up big when it counted, connecting with Milton on a 24-yard TD that brought Philly to within two points with about two minutes left. While a two-point conversion attempt to tie the game failed, the stage was set for a game-winning 59-yard field goal by Jake Elliott in the dying seconds. Lemon has topped 50 yards in four of the last five games, producing a 25-249-2 line on 35 targets over that stretch, and the rookie's role could continue to grow in Week 13 against the Cardinals.
-- **Joe Milton** — Joe Milton - Produces four TDs against former club (2026-11-27T01:48:34Z)
-  - Facing the team who put him on the practice squad to begin the season before he got signed by the Eagles, Milton used his mobility to keep plays alive and find receivers deep against an inept Cowboys secondary. The 26-year-old QB connected with DeVonta Smith for TDs of 50 yards in the second quarter and 45 yards in the third, before a big fourth quarter in which Milton ran in a 15-yard score of his own and then found Makai Lemon for a 15-yard strike as Philly erased a 38-24 deficit. Milton's 331 passing yards weren't just a career high, they were more than he produced in his first two starts this season combined. He'll remain under center against another struggling defense as he faces the Cardinals in Week 13.
-- **Jake Bates** — Jake Bates misses extra point in Week 12 (2026-11-27T01:45:22.145000Z)
-  - Bates has been dynamic behind a high-powered offense to this point, recording seven or more points in 10 of 11 contests. The kicker will look to offer another prolific performance in a favorable Week 13 contest against the Atlanta Falcons.
-  - Source: https://www.fantasypros.com/nfl/news/622791/jake-bates-misses-extra-point-week-12.php
-- **DeVonta Smith** — DeVonta Smith - Huge day in Thanksgiving upset (2026-11-27T01:42:39Z)
-  - Injuries keep piling up for the Eagles, with both Saquon Barkley (neck) and Dallas Goedert (shoulder) exiting the Thanksgiving contest early, and even Smith was checked for a back injury late in the game after an awkward landing along the sideline. The wideout stayed in the game, however, and he put together a career-best performance while acting as Joe Milton's top downfield option. Both of Smith's TDs came on breakdowns in the Dallas secondary, as he hauled in scores of 50 and 45 yards on plays in which Milton just chucked the ball up and let his No. 1 guy go get it. Smith will take a 42-551-4 line on 67 targets into a Week 13 contest against the Cardinals.
-- **Caleb Williams** — Caleb Williams comes up clutch in Week 12 win over Lions (2026-11-27T01:35:21.813000Z)
-  - Williams has been impactful behind center of late, passing for two touchdowns in four of his last five games. The quarterback offers fantasy managers a dynamic QB1 option ahead of a Week 13 matchup against the Jacksonville Jaguars.
-  - Source: https://www.fantasypros.com/nfl/news/622790/caleb-williams-comes-up-clutch-week-12-win-over-lions.php
-- **Kalif Raymond** — Kalif Raymond - Catches three passes in win (2026-11-27T01:35:00Z)
-  - Raymond had a solid outing against his former team, as he finished tied for fourth on the Bears in receptions. The 32-year-old has now caught 36 passes for 324 yards and a touchdown, in addition to racking up 209 punt-return yards across 11 games this season.
-- **Cairo Santos** — Cairo Santos - Makes lone field-goal attempt in win (2026-11-27T01:27:26Z)
-  - Santos' lone field goal came from 40 yards out during the victory. The 35-year-old has converted 18 of his 22 field-goal attempts and 33 of his 34 extra-point tries across 11 games this season.
-- **NEW — Patrick Mahomes** — Patrick Mahomes Can't Overcome Poor Conditions (2026-11-27T01:25:32Z)
-  - Source: https://www.rotoballer.com/player-news/patrick-mahomes/2005495
-- **Rome Odunze** — Rome Odunze hauls in two touchdowns in Week 12 win over Lions (2026-11-27T01:25:21.505000Z)
-  - Odunze has been impactful in the Chicago passing attack of late, registering 60 or more receiving yards in four of his last five games. The wideout remains one of the more reliable pass-catching options for head coach Ben Johnson entering a Week 13 matchup against the Jacksonville Jaguars.
-  - Source: https://www.fantasypros.com/nfl/news/622787/rome-odunze-hauls-two-touchdowns-week-12-win-over-lions.php
-- **Luther Burden III** — Luther Burden III sees four touches in Week 12 win (2026-11-27T01:25:21.494000Z)
-  - Burden III has offered mixed results in the Chicago offense of late, recording less than 90 receiving yards in three of his last six contests. The wideout continues to flash explosive potential in the Chicago offense ahead of a Week 13 matchup against the Jacksonville Jaguars.
-  - Source: https://www.fantasypros.com/nfl/news/622788/luther-burden-iii-sees-four-touches-week-12-win.php
-- **D'Andre Swift** — D'Andre Swift dynamic in Week 12 win over Lions (2026-11-27T01:25:21.479000Z)
-  - Swift continues an impactful stretch out of the backfield, recording one or more touchdowns in six of his last seven games. The running back remains an impactful RB1 option for head coach Ben Johnson ahead of a Week 13 matchup against the Jacksonville Jaguars.
-  - Source: https://www.fantasypros.com/nfl/news/622789/dandre-swift-dynamic-week-12-win-over-lions.php
-- **Kalif Raymond** — Kalif Raymond catches three passes in Week 12 (2026-11-27T01:15:21.756000Z)
-  - Raymond has underwhelmed in the Chicago passing attack, finishing with under 35 receiving yards in each of his last eight games. The speedy wideout cannot be trusted as a reliable pass-catching option at this point ahead of a Week 13 contest against the Jacksonville Jaguars.
-  - Source: https://www.fantasypros.com/nfl/news/622785/kalif-raymond-catches-three-passes-week-12.php
-- **Kyle Monangai** — Kyle Monangai rushes for two touchdowns in Week 12 win over Lions (2026-11-27T01:15:21.744000Z)
-  - Monangai has had a nose for the end zone in limited action out of the backfield of late, rushing for two touchdowns in two of his last three contests. The running back remains a touchdown dependent option behind RB1 D'Andre Swift ahead of a Week 13 matchup against the Jacksonville Jaguars.
-  - Source: https://www.fantasypros.com/nfl/news/622786/kyle-monangai-rushes-two-touchdowns-week-12-win-over-lions.php
-- **Jake Bates** — Jake Bates - Misses extra point in loss (2026-11-27T01:12:39Z)
-  - Bates' missed extra point came from 48 yards out due to a 15-yard taunting penalty. The 27-year-old has now converted 19 of his 21 field-goal attempts and 36 of his 37 extra-point tries across 11 games this season.
-- **NEW — Travis Kelce** — Travis Kelce Leads Chiefs Pass Catchers in Narrow Defeat (2026-11-27T01:10:16Z)
-  - Source: https://www.rotoballer.com/player-news/travis-kelce-leads-chiefs-pass-catchers-in-narrow-defeat/2005492
-- **NEW — Emmett Johnson** — Emmett Johnson Shines Again as Chiefs RB1 (2026-11-27T00:56:15Z)
-  - Source: https://www.rotoballer.com/player-news/emmett-johnson-shines-again-as-chiefs-rb1/2005483
-- **Cairo Santos** — Cairo Santos perfect in Week 12 (2026-11-27T00:45:21.361000Z)
-  - Santos has benefited from kicking behind a high-powered Chicago offense of late, registering six or more points in each of his last six contests. The kicker will look for more success in a Week 13 contest against the Jacksonville Jaguars.
-  - Source: https://www.fantasypros.com/nfl/news/622768/cairo-santos-perfect-week-12.php
-- **NEW — Josh Allen** — Josh Allen Flops in Bad Weather Brawl (2026-11-27T00:40:12Z)
-  - Source: https://www.rotoballer.com/player-news/josh-allen-flops-in-bad-weather-brawl/2005477
-- **NEW — James Cook III** — James Cook III Carries Buffalo to Critical Victory (2026-11-27T00:25:31Z)
-  - Source: https://www.rotoballer.com/player-news/james-cook-iii-carries-buffalo-to-critical-victory/2005471
-- **Saquon Barkley** — Saquon Barkley (stinger) questionable to return (2026-11-27T00:05:21.453000Z)
-  - Barkley argued with the coaching staff in an attempt to return to the field unsuccessfully, rushing five times for seven yards prior to exiting. Will Shipley takes over in the backfield for head coach Nick Sirianni.
-  - Source: https://www.fantasypros.com/nfl/news/622767/saquon-barkley-stinger-questionable-to-return.php
-- **Dalton Kincaid** — Dalton Kincaid (thumb/ankle) active for Week 12 (2026-11-27T00:00:21.049000Z)
-  - Kincaid will take the field after logging limited practice activity on a short week, offering quarterback Josh Allen another impactful pass-catching option against the Chiefs Thanksgiving night.
-  - Source: https://www.fantasypros.com/nfl/news/622766/dalton-kincaid-thumbankle-active-week-12.php
-- **Dalton Kincaid** — Dalton Kincaid - Active for Thursday night's game (2026-11-26T23:55:39Z)
-  - Kincaid, who was unavailable for this past Sunday's 26-9 victory over Miami, drew limited listings on Buffalo's injury reports Monday through Wednesday before approaching Thursday's contest with an official questionable designation. With the tight end's Week 12 status confirmed, Kincaid represents a viable fantasy lineup option at his position, having averaged 3.6 catches on 4.6 targets for 54.1 receiving yards with two TDs through nine games played.
-- **Rome Odunze** — Rome Odunze - Thankful for two late TDs in win (2026-11-26T23:52:45Z)
-  - The third-year wideout played hero in the fourth quarter on Thanksgiving. With the Bears down 35-24, Odunze hauled in a 41-yard strike from Caleb Williams (abdomen)  and then went up for a six-yard score in the back corner of the end zone with just three seconds left on the clock. Odunze sports a 42-660-3 line on 64 targets through 11 games, and if Colston Loveland (knee) ends up missing more time after exiting Thursday's game early, there could be more looks available for him in a Week 13 tilt against the Jaguars.
-- **Jahan Dotson** — Jahan Dotson (hamstring) misses practice Thursday  (2026-11-26T23:50:20.978000Z)
-  - Dotson remains off the fantasy radar when he is healthy. 
-  - Source: https://www.fantasypros.com/nfl/news/622757/jahan-dotson-hamstring-misses-practice-thursday.php
-- **Justin Herbert** — Justin Herbert (concussion) misses practice Thursday  (2026-11-26T23:50:20.967000Z)
-  - Herbert is trending towards missing Week 12 as he remains in concussion protocol. 
-  - Source: https://www.fantasypros.com/nfl/news/622758/justin-herbert-concussion-misses-practice-thursday.php
-- **Keaton Mitchell** — Keaton Mitchell (knee) misses practice Thursday  (2026-11-26T23:50:20.944000Z)
-  - If Mitchell is sidelined, Kimani Vidal would be in line for more touches behind Omarion Hampton. 
-  - Source: https://www.fantasypros.com/nfl/news/622760/keaton-mitchell-knee-misses-practice-thursday.php
-- **Michael Pittman Jr.** — Michael Pittman Jr. (foot) activated from IR (2026-11-26T23:50:20.933000Z)
-  - Pittman will return for Week 12 against the Broncos. He will be on the WR4 radar for fantasy managers. 
-  - Source: https://www.fantasypros.com/nfl/news/622761/michael-pittman-jr-foot-activated-from-ir.php
-- **Luther Burden III** — Luther Burden - Just three catches in Thanksgiving win (2026-11-26T23:42:12Z)
-  - The second-year wideout has taken a back seat to Rome Odunze coming out of Chicago's Week 10 bye. While Burden has managed just a 5-54-0 line on 10 targets over the last two games, Odunze topped those numbers on Thanksgiving alone with a 6-87-2 line on nine targets. Burden still has better overall numbers on the season, but the gap is closing rapidly. Colston Loveland (knee) left Thursday's game early, however, which could open up more volume for both of the Bears' top WRs. Burden will look to get rolling in Week 13 against the Jaguars.
-- **Carson Beck** — Carson Beck (back) misses practice Thursday  (2026-11-26T23:40:21.160000Z)
-  - Beck is trending towards missing a second straight game. Josh Johnson would start again in his place. 
-  - Source: https://www.fantasypros.com/nfl/news/622751/carson-beck-back-misses-practice-thursday.php
-- **Romeo Doubs** — Romeo Doubs (shoulder) limited in practice Thursday  (2026-11-26T23:40:21.143000Z)
-  - Doubs has a chance to return on Sunday against the Chargers if he can get in another practice on Friday. 
-  - Source: https://www.fantasypros.com/nfl/news/622752/romeo-doubs-shoulder-limited-practice-thursday.php
-- **Bhayshul Tuten** — Bhayshul Tuten (foot/ankle) misses practice Thursday  (2026-11-26T23:40:21.129000Z)
-  - Tuten is trending towards being sidelined for Sunday's game against the Titans unless he can return to practice on Friday. 
-  - Source: https://www.fantasypros.com/nfl/news/622753/bhayshul-tuten-footankle-misses-practice-thursday.php
-- **Parker Washington** — Parker Washington (shoulder) added to injury report Thursday  (2026-11-26T23:40:21.111000Z)
-  - Washington still got in a limited practice. He will need to be monitored in practice on Friday. 
-  - Source: https://www.fantasypros.com/nfl/news/622754/parker-washington-shoulder-added-to-injury-report-thursday.php
-- **Jakobi Meyers** — Jakobi Meyers (ankle) limited in practice Thursday  (2026-11-26T23:40:21.096000Z)
-  - Meyers is trending towards being good to go for Sunday's game against the Titans. 
-  - Source: https://www.fantasypros.com/nfl/news/622755/jakobi-meyers-ankle-limited-practice-thursday.php
-- **Jordan Addison** — Jordan Addison (thumb) misses practice Thursday  (2026-11-26T23:40:21.082000Z)
-  - Addison is trending towards missing another game on Sunday against the Falcons. 
-  - Source: https://www.fantasypros.com/nfl/news/622756/jordan-addison-thumb-misses-practice-thursday.php
-- **Kyle Monangai** — Kyle Monangai - Punches in two TDs against Detroit (2026-11-26T23:33:28Z)
-  - Once again Monangai took a back seat to D'Andre Swift in terms of volume, but he punched in rushing scores from one and two yards out. The junior member of the Bears' backfield is up to five TDs on the season in six games, all on the ground, and Monangai's goal-line role keeps him fantasy-relevant heading into a Week 13 clash with the Jaguars.
-- **Aaron Rodgers** — Aaron Rodgers clears waivers (2026-11-26T23:30:20.850000Z)
-  - Rodgers is now officially a free agent. It is unclear if a QB needy team will take a chance on him. 
-  - Source: https://www.fantasypros.com/nfl/news/622745/aaron-rodgers-clears-waivers.php
-- **Darren Waller** — Darren Waller (knee) limited in practice Thursday  (2026-11-26T23:30:20.840000Z)
-  - Waller got in a limited session. He remains on the TE2 radar when healthy. 
-  - Source: https://www.fantasypros.com/nfl/news/622746/darren-waller-knee-limited-practice-thursday.php
-- **Jonathon Brooks** — Jonathon Brooks (groin) logs full practice Thursday  (2026-11-26T23:30:20.827000Z)
-  - Brooks has a chance to be activated from injured reserve this week. He is likely to remain off the fantasy radar. 
-  - Source: https://www.fantasypros.com/nfl/news/622747/jonathon-brooks-groin-logs-full-practice-thursday.php
-- **Tetairoa McMillan** — Tetairoa McMillan (foot) misses practice Thursday  (2026-11-26T23:30:20.817000Z)
-  - McMillan did not participate in Thursday's walkthrough. He will need to be monitored in practice on Friday and Saturday. 
-  - Source: https://www.fantasypros.com/nfl/news/622748/tetairoa-mcmillan-foot-misses-practice-thursday.php
-- **Omar Cooper Jr.** — Omar Cooper Jr. (ankle) misses practice Thursday  (2026-11-26T23:30:20.807000Z)
-  - Cooper missed his second straight practice. He is trending in the wrong direction for Sunday's game against the Dolphins. 
-  - Source: https://www.fantasypros.com/nfl/news/622749/omar-cooper-jr-ankle-misses-practice-thursday.php
-- **D'Andre Swift** — D'Andre Swift - Big numbers in Thanksgiving win (2026-11-26T23:27:48Z)
-  - While Kyle Monangai swooped in to score two TDs at the goal line, Swift put up impressive numbers of his own, leading the Bears in both rushing and receiving yards while hitting paydirt on a 30-yard run in the third quarter. The seven grabs and 97 receiving yards were both season highs for Swift, and the added volume came as a result of Colston Loveland's early exit due to a knee injury. If Loveland ends up missing more time, Swift's usage as a pass catcher could get a boost again in Week 13 against the Jaguars. He's already been plenty busy on that front this season, and through 11 contests he's compiled 959 scrimmage yards and a career-high 12 total TDs (10 rushing, two receiving).
